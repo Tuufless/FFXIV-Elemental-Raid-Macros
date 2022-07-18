@@ -1,0 +1,1 @@
+# FFXIV-Elemental-raid-macros
