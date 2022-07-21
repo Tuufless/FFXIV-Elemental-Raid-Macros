@@ -41,7 +41,7 @@ My preferred method of doing this phase is using [my Tollgate strat](https://na.
 	<td><img src="images/bjcc/bjcc_07.jpg"></td>
   </tr>
   <tr>
-    <td><b>8.</b> Tanks resolve Ice (if targeted) while Healers bait Fire puddles and Hidden Mines before joining the Enumeration groups.<br><br><ul><li><b>H1</b>, <b>D3</b>: Always west Enumeration.</li><li><b>H2</b>, <b>D4</b>: Always east Enumeration.</li><li><b>D1</b>: Basically west Enumeration unless a swap is needed.</li><b>D2</b>: Basically east Enumeration unless a swap is needed.</li></ul><br>A swap is necessitated if either side has both Enumerations (or equivalently, no Enumerations). In the event of a swap, <b>D1</b> and <b>D2</b> swap sides.</td>
+    <td><b>8.</b> Tanks resolve Ice (if targeted) while Healers bait Fire puddles and Hidden Mines before joining the Enumeration groups.<br><br><ul><li><b>H1</b>, <b>D3</b>: Always west Enumeration.</li><li><b>H2</b>, <b>D4</b>: Always east Enumeration.</li><li><b>D1</b>: West Enumeration unless a swap is needed.</li><b>D2</b>: East Enumeration unless a swap is needed.</li></ul>If either side has both Enumerations (or equivalently, no Enumerations), <b>D1</b> and <b>D2</b> swap sides.</td>
 	<td><img src="images/bjcc/bjcc_08.jpg"></td>
   </tr>
   <tr>

@@ -5,7 +5,7 @@
 - **Living Liquid:** [Modified Separations](01_living_liquid.md) (the "JP strat")
 - **Limit Cut:** [1211](02_limit_cut_1211.md) or [1256](02_limit_cut_1256.md)
 - **BJCC:** [Tollgate](03_bjcc.md) (this is my strat that I use)
-- **Wormhole:** [09STOP](https://na.finalfantasyxiv.com/lodestone/character/10898230/blog/4955109/) (Koream sim strat- this is also called "Onyxia" by NA/EU)
+- **Wormhole:** [09STOP](https://na.finalfantasyxiv.com/lodestone/character/10898230/blog/4955109/) (Korean sim strat- this is also called "Onyxia" by NA/EU)
 
 ### BiS Notes
 
