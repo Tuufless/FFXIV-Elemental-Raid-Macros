@@ -9,7 +9,7 @@ English parties replace Firestorms of Asphodelos (FoA) with "my" strat (see belo
 - Check the positions for the transition *(older macros may have different positioning)*
 
 ## English
-This is the macro often used in **English** parties. In particular, Firestorms of Asphodelos is, er, "my" strat.
+This is the macro often used in **English** parties. In particular, Firestorms of Asphodelos is, er, ["my" strat](#firestorms-of-asphodelos).
 ```
 　【Darkened Fire】　　【Transition】
 　D3/MT  [1]  D4/ST　　　MT▼D3
@@ -196,3 +196,38 @@ ST　D2 　★　 H2　D4
   {"Name":"P3S","MapID":807,"A":{"X":100.0,"Y":0.0,"Z":81.5,"ID":0,"Active":true},"B":{"X":118.5,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":118.5,"ID":2,"Active":true},"D":{"X":81.5,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":100.0,"Y":0.0,"Z":94.0,"ID":4,"Active":true},"Two":{"X":106.0,"Y":0.0,"Z":100.0,"ID":5,"Active":true},"Three":{"X":100.0,"Y":0.0,"Z":106.0,"ID":6,"Active":true},"Four":{"X":94.0,"Y":0.0,"Z":100.0,"ID":7,"Active":true}}
   ```
 </details>
+
+## Experimental Gloryplume
+
+```
+【Experimental Gloryplume - Spread】
+　　　MT　ST　　※ Melee (N/W), Ranged (S/E)
+　　D1　▲　D2　※ Explosions-Relative:
+　　D3　　　D4　　1st→D1D4　　2nd→MTH2
+　　　H1　H2　　　3rd→STH1　　4th→D2D3
+```
+The first Experimental Gloryplume always starts with the four explosions around the outside of the arena. We use these four explosions to determine where everyone is spreading.
+
+For example, if the first two explosions were the ones below (east and west), then the final spread positions for the black orbs spread would look like:
+
+```
+    3             ST
+ 2     4       MT    D2
+1       1  →  D1      D4
+ 4     2       D3    H2
+    3             H1
+```
+
+## Firestorms of Asphodelos
+
+There are two main ways of doing Firestorms of Asphodelos (FoA) in PF.
+
+- **Japanese** parties will do follow Inumaru's strat. ([Inumaru FoA](https://imgur.com/a/V0UWZym))
+  - **Tanks** + Melee north
+  - **Healers** + Ranged south
+
+- **English** parties will do "my" strat instead. ([Tuufless FoA](https://imgur.com/a/yCdVkTW))
+  - Explanations [in English](https://ffxiv.link/061500) and [in Japanese](https://ffxiv.link/062054)
+  - **Healers** + Melee north
+  - **Tanks** + Ranged south.
+  

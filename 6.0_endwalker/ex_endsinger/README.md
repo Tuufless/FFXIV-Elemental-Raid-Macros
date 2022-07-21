@@ -62,6 +62,7 @@ An easy way to resolve the 5-heads mechanic is:
 	- If it is **even**, move to the other quadrant that won't get cleaved by the center head.
 	
 ![](images/five_head.jpg)
+*(Credit: [Nukemaru](https://twitter.com/nukemarugames/status/1514278676359446528?s=20&t=olONmsjUl90VIwjrZNqbtQ))*
 
 ### 2x Fatalism
 If you have LB3 available during the 2x Fatalism (quadruple planets), a Tank LB3 right after the second planet collision will allow players to survive red planet hits during the harder "blue-to-red" planet sequence. To get the LB3 by this time, you will need a standard party setup with no duplicate jobs.
