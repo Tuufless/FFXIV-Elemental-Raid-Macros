@@ -2,9 +2,9 @@
 
 **DISCLAIMER** - Since Elemental PF hasn't agreed on a TEA strat since Patch 5.1, I'm going to take the liberty of piecing one together myself. This is what I would do:
 
-- **Living Liquid:** [Modified Separations](01_living_liquid.md) (the "JP strat")
-- **Limit Cut:** [1211](02_limit_cut_1211.md) or [1256](02_limit_cut_1256.md)
-- **BJCC:** [Tollgate](03_bjcc.md) (this is my strat that I use)
+- **Living Liquid:** [Modified Separations](en/01_living_liquid.md) (the "JP strat")
+- **Limit Cut:** [1211](en/02_limit_cut_1211.md) or [1256](en/02_limit_cut_1256.md)
+- **BJCC:** [Tollgate](en/03_bjcc.md) (this is my strat that I use)
 - **Wormhole:** [09STOP](https://na.finalfantasyxiv.com/lodestone/character/10898230/blog/4955109/) (Korean sim strat- this is also called "Onyxia" by NA/EU)
 
 ### BiS Notes
