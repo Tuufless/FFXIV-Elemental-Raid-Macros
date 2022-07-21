@@ -5,7 +5,9 @@
 - **Living Liquid:** [Modified Separations](en/01_living_liquid.md) (the "JP strat")
 - **Limit Cut:** [1211](en/02_limit_cut_1211.md) or [1256](en/02_limit_cut_1256.md)
 - **BJCC:** [Tollgate](en/03_bjcc.md) (this is my strat that I use)
-- **Wormhole:** [09STOP](https://na.finalfantasyxiv.com/lodestone/character/10898230/blog/4955109/) (Korean sim strat- this is also called "Onyxia" by NA/EU)
+- **Alexander Prime:** Alexander Prime is [more or less standard](en/04_alex_prime.md).
+  - **Wormhole:** [09STOP](https://na.finalfantasyxiv.com/lodestone/character/10898230/blog/4955109/) (Korean sim strat- this is also called "Onyxia" by NA/EU)
+- **Perfect Alexander:** Perfect Alexander is also [pretty standard](en/05_perfect_alex.md).
 
 ### BiS Notes
 
