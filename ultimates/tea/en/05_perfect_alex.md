@@ -1,5 +1,27 @@
 ## Perfect Alexander
 
+## Summary
+
+If you are already familiar with Perfect Alexander, and just need a quick summary:
+
+<table>
+  <tr>
+    <td><b>Forced March</b></td>
+    <td><ul><li>East → west</li></td>
+  </tr>
+  <tr>
+    <td><b>Fate Calibration Alpha</b></td>
+    <td><ul><li>Shared Sentence left, Aggravated Assault right</li></td>
+  </tr>
+  <tr>
+    <td><b>Exatrines</b></td>
+    <td><ul><li>SW, S, SE, E spots <em>(N.B: not center)</em></li></ul></td>
+  </tr>
+</table>
+
+## Forced March
+
+This is the "tutorial" phase of Perfect Alex, where Ordained Stillness, Ordained Motion, and the Light/Dark mechanics are introduced.
 
 <table>
   <tr>
@@ -48,6 +70,16 @@ After Fate Calibration Alpha, Perfect Alex will cast the first Ordained Capital 
   </tr>
 </table>
 
-After Fate Calibration Alpha, Perfect Alex will cast the second Ordained Capital Punishment, which will be invulned by the ST (MT Provokes to take hate).
+## Exatrines
 
-After the first set of Exatrines, Perfect Alex will cast the third (and final) Ordained Capital Punishment, which will be invulned by the MT (ST Provokes to take hate).
+The only positions to consider are the ones marked red below:
+
+<table>
+  <tr>
+    <td><img src="../images/perfect_alex/exatrine_01.jpg"></td>
+    <td><img src="../images/perfect_alex/exatrine_02.jpg"></td>
+    <td><img src="../images/perfect_alex/exatrine_03.jpg"></td>
+  </tr>
+</table>
+
+Note that there will *always* be an available 3-to-1 dodge.

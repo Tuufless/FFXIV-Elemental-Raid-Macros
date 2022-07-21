@@ -1,5 +1,26 @@
 # Alexander Prime
 
+## Summary
+
+If you are already familiar with Alexander Prime, and just need a quick summary:
+
+<table>
+  <tr>
+    <td><b>Temporal Stasis</b></td>
+    <td><ul><li>Red/green tethers west</li><li>No debuffs east</li></td>
+  </tr>
+  <tr>
+    <td><b>Chastening Heat</b></td>
+    <td><ul><li>1st: ST invuln</li><li>2nd: MT invuln</li></td>
+  </tr>
+  <tr>
+    <td><b>Inception Formation</b></td>
+    <td><ul><li>Flarethrowers:<ul><li>MT south</li><li>ST middle</li></ul></li><li>Tanks + Shared Sentence left</li><li>ST baits Super Jump</li></td>
+  </tr>
+</table>
+
+We break down the mechanics below.
+
 ## Temporal Stasis
 
 <table>
@@ -9,21 +30,15 @@
   </tr>
 </table>
 
-## Inception Formation
-
-Brief notes:
+To summarize:
 
 * ST invulns first Chastening Heat.
 * MT baits Flarethrower south, ST baits Flarethrower mid.
 * Tanks + Shared Sentence left, everyone else right.
 * ST baits Super Jump far-east.
-* Alpha Swords:
-  
-  * H1: North
-  * H2: South
-  * Blue tether DPS: West
-
 * MT invulns second Chastening Heat.
+
+## Inception Formation
 
 <table>
   <tr>
