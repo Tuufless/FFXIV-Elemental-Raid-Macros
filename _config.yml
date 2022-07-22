@@ -1,2 +1,2 @@
 kramdown:
-  parse_block_html: true
+  html_to_native: true
