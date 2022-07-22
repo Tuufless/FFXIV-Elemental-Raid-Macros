@@ -19,7 +19,7 @@ However, it is harder to learn compared to [1211](02_limit_cut_1211.md).
 	<td><img src="../images/limit_cut_1256/limit_cut_1256_01.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>2.</b> Second pair of explosions.</p><ul><li><b>1</b>: It's recommended that you use Sprint.</ul></td>
+    <td><p><b>2.</b> Second pair of explosions.</p><ul><li><b>1</b>: It's recommended that you use Sprint.</li></ul></td>
 	<td><img src="../images/limit_cut_1256/limit_cut_1256_02.jpg"></td>
   </tr>
   <tr>

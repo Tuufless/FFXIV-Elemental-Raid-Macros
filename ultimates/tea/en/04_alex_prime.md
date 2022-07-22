@@ -50,15 +50,15 @@ To summarize:
 	  <td><img src="../images/alex_prime/inception_02.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>3.</b> Brute Justice then casts three consecutive Flarethrowers on the three closest people.<ul><li><b>MT</b>: Bait a Flarethrower south</li><li><b>ST</b>: Bait a Flarethrower in the middle.</li><li><b>Everyone else</b>: Stay near the intercardinal edge, but not close to Brute Justice.</b></td>
+    <td><p><b>3.</b> Brute Justice then casts three consecutive Flarethrowers on the three closest people.<ul><li><b>MT</b>: Bait a Flarethrower south</li><li><b>ST</b>: Bait a Flarethrower in the middle.</li><li><b>Everyone else</b>: Stay near the intercardinal edge, but not close to Brute Justice.</li></ul></td>
 	  <td><img src="../images/alex_prime/inception_03.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>4.</b> The True Heart will now move to a random spot at the edge of the Arena, where Alexander will spawn and cast Sacrament.</p><p>Players will also get various debuffs to resolve.</p><ul><li><b>Tanks:</b> Go left</li><li><b>Healers:</b> Go right</li><li><b>DPS:</b><ul><li><b>Shared Sentence:</b> Go left</li><li><b>Others:</b> Go right</li></td>
+    <td><p><b>4.</b> The True Heart will now move to a random spot at the edge of the Arena, where Alexander will spawn and cast Sacrament.</p><p>Players will also get various debuffs to resolve.</p><ul><li><b>Tanks:</b> Go left</li><li><b>Healers:</b> Go right</li><li><b>DPS:</b><ul><li><b>Shared Sentence:</b> Go left</li><li><b>Others:</b> Go right</li></ul></td>
 	  <td><img src="../images/alex_prime/inception_04.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>5.</b> Brute Justice will respawn West, and Cruise Chaser will respawn in the middle of the arena.</p><ul><li><b>ST:</b> Far East.</li><li><b>H1:</b> North, near Cruise Chaser.</li><li><b>H2:</b> South, near Cruise Chaser.</li><li><b>DPS that had the blue tether</b>: West, near Cruise Chaser.</li><li><b>Everyone else:</b> East, between Cruise Chaser and the ST <em>(not too close to Cruise Chaser!)</em></td>
+    <td><p><b>5.</b> Brute Justice will respawn West, and Cruise Chaser will respawn in the middle of the arena.</p><ul><li><b>ST:</b> Far East.</li><li><b>H1:</b> North, near Cruise Chaser.</li><li><b>H2:</b> South, near Cruise Chaser.</li><li><b>DPS that had the blue tether</b>: West, near Cruise Chaser.</li><li><b>Everyone else:</b> East, between Cruise Chaser and the ST <em>(not too close to Cruise Chaser!)</em></li></ul></td>
 	  <td><img src="../images/alex_prime/inception_05.jpg"></td>
   </tr>
   <tr>
@@ -81,7 +81,7 @@ Wormhole Formation will use 09STOP's method (highlighted by the [Korean simulato
 	  <td><img src="../images/alex_prime/wormhole_01.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>2.</b> Move to positions.</p><ul><li>The person diagonally opposite Brute Justice (3 or 4) should bait Super Jump in front of the red dot.</li><li>The person diagonally opposite Cruise Chaser (3 or 4) should go all the way to the edge to dodge Apocalyptic Ray.</li><li><b>1</b> and <b>2</b> use anti-knockback abilities.</ul></td>
+    <td><p><b>2.</b> Move to positions.</p><ul><li>The person diagonally opposite Brute Justice (3 or 4) should bait Super Jump in front of the red dot.</li><li>The person diagonally opposite Cruise Chaser (3 or 4) should go all the way to the edge to dodge Apocalyptic Ray.</li><li><b>1</b> and <b>2</b> use anti-knockback abilities.</li></ul></td>
 	  <td><img src="../images/alex_prime/wormhole_02.jpg"></td>
   </tr>
   <tr>
@@ -89,7 +89,7 @@ Wormhole Formation will use 09STOP's method (highlighted by the [Korean simulato
 	  <td><img src="../images/alex_prime/wormhole_03.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>4.</b> Brute Justice turns to face the furthest player (<b>1</b> or <b>2</b>) and casts Apocalyptic Ray.</p><p>Cruise Chaser dashes <b>2</b>.</p><ul><li><b>3</b> and <b>4</b> use anti-knockback.</li><li><b>5</b> and <b>6</b> move inside the Void puddles.</td>
+    <td><p><b>4.</b> Brute Justice turns to face the furthest player (<b>1</b> or <b>2</b>) and casts Apocalyptic Ray.</p><p>Cruise Chaser dashes <b>2</b>.</p><ul><li><b>3</b> and <b>4</b> use anti-knockback.</li><li><b>5</b> and <b>6</b> move inside the Void puddles.</li></ul></td>
 	  <td><img src="../images/alex_prime/wormhole_04.jpg"></td>
   </tr>
   <tr>
@@ -97,7 +97,7 @@ Wormhole Formation will use 09STOP's method (highlighted by the [Korean simulato
 	  <td><img src="../images/alex_prime/wormhole_05.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>6.</b> Cruise Chaser dashes <b>4</b>.</p><ul><li><b>3</b>, <b>4</b>: Move one notch north to dodge Sacrament.</li><li><b>5</b>, <b>6</b>: Use anti-knockback abilities.</li><li><b>7</b>, <b>8</b>: Move inside Void puddles.</td>
+    <td><p><b>6.</b> Cruise Chaser dashes <b>4</b>.</p><ul><li><b>3</b>, <b>4</b>: Move one notch north to dodge Sacrament.</li><li><b>5</b>, <b>6</b>: Use anti-knockback abilities.</li><li><b>7</b>, <b>8</b>: Move inside Void puddles.</li></ul></td>
 	  <td><img src="../images/alex_prime/wormhole_06.jpg"></td>
   </tr>
   <tr>
@@ -105,7 +105,7 @@ Wormhole Formation will use 09STOP's method (highlighted by the [Korean simulato
 	  <td><img src="../images/alex_prime/wormhole_07.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>8.</b> Cruise Chaser dashes <b>6</b>.</p><ul><li><b>1</b>, <b>2</b>: Move inside Void puddles.</li><li><b>7</b>, <b>8</b>: Use anti-knockback abilities.</td>
+    <td><p><b>8.</b> Cruise Chaser dashes <b>6</b>.</p><ul><li><b>1</b>, <b>2</b>: Move inside Void puddles.</li><li><b>7</b>, <b>8</b>: Use anti-knockback abilities.</li></ul></td>
 	  <td><img src="../images/alex_prime/wormhole_08.jpg"></td>
   </tr>
   <tr>
