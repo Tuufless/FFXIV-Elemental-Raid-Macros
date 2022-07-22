@@ -49,7 +49,7 @@ After Fate Calibration Alpha, Perfect Alex will cast the first Ordained Capital 
 
 <table>
   <tr>
-    <td><b>1. Initial positions</b><ul><li><b>Light Beacon:</b> Slightly west of North (NNW)</li><li><b>Dark Beacon:</b> East</li><li><b>Red/Green tether:</b> Slightly NW of the Dark Beacon</b></li><li><b>No debuff:</b> Slightly W of the Dark Beacon</li><li><b>Blue tether:</b> Slightly SW of the Dark Beacon</li></ul></td>
+    <td><b>1. Initial positions</b><ul><li><b>Light Beacon:</b> Slightly west of North (NNW)</li><li><b>Dark Beacon:</b> East</li><li><b>Red/Green tether:</b> Slightly NW of the Dark Beacon</li><li><b>No debuff:</b> Slightly W of the Dark Beacon</li><li><b>Blue tether:</b> Slightly SW of the Dark Beacon</li></ul></td>
 	<td><img src="../images/perfect_alex/fate_calibration_beta_01.jpg"></td>
   </tr>
   <tr>
