@@ -1,4 +1,1 @@
-remote_theme: jekyll/minima
-
-minima:
-  skin: solarized
+remote_theme: just-the-docs/just-the-docs
