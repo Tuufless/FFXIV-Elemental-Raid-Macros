@@ -2,14 +2,14 @@
 
 PF uses [Inumaru's strat](https://www.youtube.com/watch?v=LtrXblj9mJo) as a base, and:
 
-- Swap in YPP's strat for passing/resolving tethers and debuffs.
+- Swap in [YPP's strat](#ypp) for passing/resolving tethers and debuffs.
 - Orb strats differ depending on the party.
     - Japanese parties will use Inumaru's strat, with [cardinal Braindead orbs](https://youtu.be/wq3lMm5Osu0?t=437).
     - English parties will use Inumaru's strat, typically with [Gumi's orbs](https://clips.twitch.tv/HedonisticLitigiousEyeballKippa-DwseFBSlll7XJjC1).
 
 #### Things to check
 
-- Check green orb spread positions *(There are **several** orb strats going around)*
+- Check green orb spread positions *(There are **multiple** orb strats)*
 
 ## English
 I personally recommend "Braindead" orbs, although English parties often prefer Gumi orbs (below, in the hideaway) for legacy reasons.
@@ -101,9 +101,22 @@ This is the [game8 macro](https://game8.jp/ff14/421350) often used by **Japanese
 　※上記の玉を取った後、時計回りに玉を取る
 ```
 
-## Strategy breakdown
+## YPP
 
-YPP is how PF resolves passing tethers/debuffs:
+"YPP" refers to how PF resolves passing tethers/debuffs for Director's Belone + Inversive Chlamys.
 
-- https://youtu.be/wq3lMm5Osu0?t=36
-- https://youtu.be/-PlvK8M6h-w
+- Tanks/Healers take the north side.
+- DPS take the south side.
+
+1. First, pass debuffs.
+  - If you are **passing** debuffs **stack** on your side.
+  - If you are **taking** debuffs, **spread** on your side.
+    - Take debuffs in the order `Tank > Healer > D1 > D2 > D3 > D4`.
+
+2. Then, pass tethers.
+  - If you are **passing** tethers, **stack** on your side.
+
+Please also refer to the following guides:
+
+- [Nukemaru](https://youtu.be/wq3lMm5Osu0?t=36) *(Japanese)*
+- [Hamkatsu](https://youtu.be/-PlvK8M6h-w) *(Japanese)*
