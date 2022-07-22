@@ -51,9 +51,10 @@ This is the macro often used in **English** parties. In particular, Firestorms o
 ```
 
 <details>
-  <summary>Japanese translation</summary>
+<summary>Japanese translation</summary>
 
-<pre><code>　　【闇の炎散開】　　　【突進時散開】
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight">
+<code>　　【闇の炎散開】　　　【突進時散開】
 　D3/MT  [1]  D4/ST　　　MT▼D3
 　　[4］　▲　［2］　　　  H1　D1
 　D1/H1  [3]  D2/H2　　　H2　D2
@@ -83,7 +84,7 @@ This is the macro often used in **English** parties. In particular, Firestorms o
 　■ 3. ノックバック→黒玉
 　　　　　　　　　　　　 黒竜巻
 　　　　ヒーラー・メレー組　　　タンク・レンジ組
-</code></pre>
+</code></pre></div></div>
 
 </details>
 
@@ -137,9 +138,10 @@ ST　D2 　★　 H2　D4
 ```
 
 <details>
-  <summary>English translation</summary>
+<summary>English translation</summary>
 
-<pre><code>【4:4 splits (adds/FoF)】
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight">
+<code>【4:4 splits (adds/FoF)】
 　MT group：MTH1D1D3　ST group：STH2D2D4
 【Darkened Fires：Intercardinals】
 　D3/MT ① D4/ST
@@ -184,7 +186,8 @@ Wait at 3rd→Dodge to 1st→Spread/stack at 1st
 ST　D2 　★　 H2　D4
 　〇 　D1　 H1　〇
 　　MT　　　　D3
-</code></pre>
+</code></pre></div></div>
+
 </details>
 
 ## Markers
@@ -196,10 +199,11 @@ ST　D2 　★　 H2　D4
 
 ![](images/markers.jpg)
 <details>
-  <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
+<summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
-<pre><code>{"Name":"P3S","MapID":807,"A":{"X":100.0,"Y":0.0,"Z":81.5,"ID":0,"Active":true},"B":{"X":118.5,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":118.5,"ID":2,"Active":true},"D":{"X":81.5,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":100.0,"Y":0.0,"Z":94.0,"ID":4,"Active":true},"Two":{"X":106.0,"Y":0.0,"Z":100.0,"ID":5,"Active":true},"Three":{"X":100.0,"Y":0.0,"Z":106.0,"ID":6,"Active":true},"Four":{"X":94.0,"Y":0.0,"Z":100.0,"ID":7,"Active":true}}
-</code></pre>
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight">
+<code>{"Name":"P3S","MapID":807,"A":{"X":100.0,"Y":0.0,"Z":81.5,"ID":0,"Active":true},"B":{"X":118.5,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":118.5,"ID":2,"Active":true},"D":{"X":81.5,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":100.0,"Y":0.0,"Z":94.0,"ID":4,"Active":true},"Two":{"X":106.0,"Y":0.0,"Z":100.0,"ID":5,"Active":true},"Three":{"X":100.0,"Y":0.0,"Z":106.0,"ID":6,"Active":true},"Four":{"X":94.0,"Y":0.0,"Z":100.0,"ID":7,"Active":true}}
+</code></pre></div></div>
 
 </details>
 

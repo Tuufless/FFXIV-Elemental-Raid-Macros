@@ -64,7 +64,8 @@ The markers are for the purple/red chains. `1234` are for the red chains, while 
 <details>
   <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
-<pre><code>{"Name":"P1S (EN)","MapID":809,"A":{"X":99.966,"Y":0.0,"Z":96.418,"ID":0,"Active":true},"B":{"X":103.367,"Y":0.0,"Z":100.085,"ID":1,"Active":true},"C":{"X":100.014,"Y":0.0,"Z":103.379,"ID":2,"Active":true},"D":{"X":96.711,"Y":0.0,"Z":100.131,"ID":3,"Active":true},"One":{"X":90.101,"Y":0.0,"Z":90.031,"ID":4,"Active":true},"Two":{"X":110.059,"Y":0.0,"Z":90.089,"ID":5,"Active":true},"Three":{"X":109.988,"Y":0.0,"Z":110.001,"ID":6,"Active":true},"Four":{"X":90.016,"Y":0.0,"Z":110.06,"ID":7,"Active":true}}
-</code></pre>
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight">
+<code>{"Name":"P1S (EN)","MapID":809,"A":{"X":99.966,"Y":0.0,"Z":96.418,"ID":0,"Active":true},"B":{"X":103.367,"Y":0.0,"Z":100.085,"ID":1,"Active":true},"C":{"X":100.014,"Y":0.0,"Z":103.379,"ID":2,"Active":true},"D":{"X":96.711,"Y":0.0,"Z":100.131,"ID":3,"Active":true},"One":{"X":90.101,"Y":0.0,"Z":90.031,"ID":4,"Active":true},"Two":{"X":110.059,"Y":0.0,"Z":90.089,"ID":5,"Active":true},"Three":{"X":109.988,"Y":0.0,"Z":110.001,"ID":6,"Active":true},"Four":{"X":90.016,"Y":0.0,"Z":110.06,"ID":7,"Active":true}}
+</code></pre></div></div>
 
 </details>

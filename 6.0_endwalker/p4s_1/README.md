@@ -48,9 +48,10 @@ I personally recommend "Braindead" orbs, although English parties often prefer G
 ```
 
 <details>
-  <summary>Gumi orbs</summary>
+<summary>Gumi orbs</summary>
 
-<pre><code>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight">
+<code>
 ―《Basic Spread》―――――――――――――――
 　D3 MT D4　　※ Rotate clockwise as needed
 　H1 ▲ H2　　　　for towers/tethers
@@ -75,7 +76,7 @@ I personally recommend "Braindead" orbs, although English parties often prefer G
 　 D3  ▲ ST　　※D1D2→MT　D3D4→ST
 　D2 D1 H2
 　※Take orbs as above, then rotate clockwise
-</code></pre>
+</code></pre></div></div>
 
 </details>
 
