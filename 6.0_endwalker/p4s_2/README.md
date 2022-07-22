@@ -157,11 +157,15 @@ The markers also indicate the tether order for Act 4. Of note, 1234 overlap the 
 <details>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
-<div><div><pre>
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight">
 <code>{"Name":"P4S-2","MapID":801,"A":{"X":105.0,"Y":0.0,"Z":85.0,"ID":0,"Active":true},"B":{"X":115.0,"Y":0.0,"Z":105.0,"ID":1,"Active":true},"C":{"X":95.0,"Y":0.0,"Z":115.0,"ID":2,"Active":true},"D":{"X":85.0,"Y":0.0,"Z":95.0,"ID":3,"Active":true},"One":{"X":98.5,"Y":0.0,"Z":81.5,"ID":4,"Active":true},"Two":{"X":118.5,"Y":0.0,"Z":98.5,"ID":5,"Active":true},"Three":{"X":101.5,"Y":0.0,"Z":118.5,"ID":6,"Active":true},"Four":{"X":81.5,"Y":0.0,"Z":101.5,"ID":7,"Active":true}}
 </code></pre></div></div>
 
 </details>
+
+```json
+{"Name":"P4S-2","MapID":801,"A":{"X":105.0,"Y":0.0,"Z":85.0,"ID":0,"Active":true},"B":{"X":115.0,"Y":0.0,"Z":105.0,"ID":1,"Active":true},"C":{"X":95.0,"Y":0.0,"Z":115.0,"ID":2,"Active":true},"D":{"X":85.0,"Y":0.0,"Z":95.0,"ID":3,"Active":true},"One":{"X":98.5,"Y":0.0,"Z":81.5,"ID":4,"Active":true},"Two":{"X":118.5,"Y":0.0,"Z":98.5,"ID":5,"Active":true},"Three":{"X":101.5,"Y":0.0,"Z":118.5,"ID":6,"Active":true},"Four":{"X":81.5,"Y":0.0,"Z":101.5,"ID":7,"Active":true}}
+```
 
 ## Act 2
 
