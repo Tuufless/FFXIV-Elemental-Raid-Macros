@@ -1,10 +1,3 @@
----
-layout: default
-title: P4S P2
-parent: 6.0 Endwalker
-permalink: /6.0_endwalker/p4s_2/
----
-
 # Asphodelos: The Fourth Circle (Savage) - Part 2
 
 PF uses [Inumaru's strat](https://www.youtube.com/watch?v=1sfnBHXf2nA) (essentially identical to the Idyllshire strat, except for Act 3), with the following modifications:
