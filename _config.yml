@@ -18,6 +18,9 @@ defaults:
       title: Home
       nav_order: 1
       permalink: /
+
+
+# 6.0_endwalker
   -
     scope:
       path: "/6.0_endwalker/README.md/"
@@ -26,6 +29,8 @@ defaults:
       nav_order: 2
       has_children: true
       permalink: /6.0_endwalker/
+      
+# Extreme Trials
   -
     scope:
       path: "/6.0_endwalker/ex_zodiark/README.md/"
@@ -50,6 +55,8 @@ defaults:
       parent: 6.0 Endwalker
       nav_order: 3
       permalink: /6.0_endwalker/ex_endsinger/
+
+# Savage Raids
   -
     scope:
       path: "/6.0_endwalker/p1s/README.md/"
@@ -85,6 +92,9 @@ defaults:
       title: P4S P2
       parent: 6.0 Endwalker
       permalink: /6.0_endwalker/p4s_2/
+
+
+#Ultimates
   -
     scope:
       path: "/ultimates/README.md/"
