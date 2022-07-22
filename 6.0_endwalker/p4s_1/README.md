@@ -1,10 +1,3 @@
----
-layout: default
-title: P4S P1
-parent: 6.0 Endwalker
-permalink: /6.0_endwalker/p4s_1/
----
-
 # Asphodelos: The Fourth Circle (Savage) - Part 1
 
 PF uses [Inumaru's strat](https://www.youtube.com/watch?v=LtrXblj9mJo) as a base, and:

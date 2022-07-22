@@ -1,11 +1,3 @@
----
-layout: default
-title: UCoB
-parent: Ultimates
-nav_order: 1
-permalink: /ultimates/ucob/
----
-
 # The Unending Coil of Bahamut (Ultimate)
 
 PF largely follows [Clees' UCoB guide](http://clees.me/guides/ucob/) with a few differences:

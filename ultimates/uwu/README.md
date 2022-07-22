@@ -1,11 +1,3 @@
----
-layout: default
-title: UWU
-parent: Ultimates
-nav_order: 2
-permalink: /ultimates/uwu/
----
-
 # The Weapon's Refrain (Ultimate)
 
 PF largely follows [Clees' UWU guide](http://clees.me/guides/uwu/) with a few differences:

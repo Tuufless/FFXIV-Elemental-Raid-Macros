@@ -1,10 +1,3 @@
----
-layout: default
-title: 2. Limit Cut (1211)
-parent: TEA
-grand_parent: Ultimates
----
-
 # Limit Cut (1211)
 
 1211 is the strat highlighted by the [Korean simulator](https://drive.google.com/file/d/1sdo02A5GbNPA9B4HN-NOt-vnTPyv2elH/view).

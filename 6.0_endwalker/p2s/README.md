@@ -1,10 +1,3 @@
----
-layout: default
-title: P2S
-parent: 6.0 Endwalker
-permalink: /6.0_endwalker/p2s/
----
-
 # Asphodelos: The Second Circle (Savage)
 
 PF uses [Hamkatsu's strat](https://www.youtube.com/watch?v=KJZNVq_aVzI) for P2S.

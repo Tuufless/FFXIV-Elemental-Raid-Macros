@@ -1,12 +1,3 @@
----
-layout: default
-title: TEA
-parent: Ultimates
-nav_order: 3
-has_children: true
-permalink: /ultimates/tea/
----
-
 # The Epic of Alexander (Ultimate)
 
 **DISCLAIMER** - Since Elemental PF hasn't agreed on a TEA strat since Patch 5.1, I'm going to take the liberty of piecing one together myself. This is what I would do:
