@@ -1,3 +1,10 @@
+---
+layout: default
+title: 4. Alexander Prime
+parent: TEA
+nav_order: 1
+---
+
 # Alexander Prime
 
 ## Summary

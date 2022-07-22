@@ -1,3 +1,10 @@
+---
+layout: default
+title: Hydaelyn EX
+parent: 6.0 Endwalker
+nav_order: 2
+---
+
 # The Minstrel's Ballad: Hydaelyn's Call
 
 PF uses [Hamkatsu's strat](https://www.youtube.com/watch?v=xrN2viqpTqc) *(yes, this is the downtime Chakrams strat)*

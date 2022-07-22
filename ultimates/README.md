@@ -1,3 +1,10 @@
+---
+layout: default
+title: Ultimates
+nav_order: 3
+has_children: true
+---
+
 # Ultimate Raids
 
 Ultimate raids on Elemental are unique because they are **not** PF'ed by Japanese players. As a result, the English community has largely dictated the strats in Elemental Ultimate PF.

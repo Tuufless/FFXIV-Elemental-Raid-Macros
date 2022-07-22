@@ -1,3 +1,10 @@
+---
+layout: default
+title: 2. Limit Cut (1256)
+parent: TEA
+nav_order: 1
+---
+
 # Limit Cut (1256)
 
 1256 is personally my preferred method of resolving Limit Cut as it is more fluid and doesn't require players to face outside, or use anti-knockback abilities.

@@ -1,3 +1,10 @@
+---
+layout: default
+title: Meteion EX
+parent: 6.0 Endwalker
+nav_order: 3
+---
+
 # The Minstrel's Ballad: The Endsinger's Aria
 
 - [Nukemaru](https://www.youtube.com/watch?v=dwZ8uVCPI80)

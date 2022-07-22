@@ -1,3 +1,10 @@
+---
+layout: default
+title: Zodiark EX
+parent: 6.0 Endwalker
+nav_order: 1
+---
+
 # The Minstrel's Ballad: Zodiark's Fall
 
 No macro needed for this fight! *(just dodge everything)*

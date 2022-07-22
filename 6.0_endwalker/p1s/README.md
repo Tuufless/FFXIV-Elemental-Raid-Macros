@@ -1,3 +1,10 @@
+---
+layout: default
+title: P1S
+parent: 6.0 Endwalker
+nav_order: 5
+---
+
 # Asphodelos: The First Circle (Savage)
 
 PF references the following guides for P1S:
