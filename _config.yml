@@ -10,7 +10,7 @@ back_to_top_text: "Back to top"
 defaults:
   -
     scope:
-      path: "6.0_endwalker/p4s_2/README"
+      path: "/6.0_endwalker/p4s_2/README.html"
     values:
       title: P4S P2
       parent: 6.0 Endwalker
