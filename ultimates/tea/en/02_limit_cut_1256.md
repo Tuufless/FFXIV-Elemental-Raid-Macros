@@ -15,19 +15,19 @@ However, it is harder to learn compared to [1211](02_limit_cut_1211.md).
 
 <table>
   <tr>
-    <td><p><b>1.</b> First pair of explosions.</p><ul><li><b>1</b>, <b>2</b>, <b>5</b>, <b>6</b>: Go to the north (west) explosion.</li><li><b>3</b>, <b>4</b>, <b>7</b>, <b>8</b>: Go to the south (east) explosion.</li></td>
+    <td><p><b>1.</b> First pair of explosions.</p><ul><li><b>1</b>, <b>2</b>, <b>5</b>, <b>6</b>: Go to the north (west) explosion.</li><li><b>3</b>, <b>4</b>, <b>7</b>, <b>8</b>: Go to the south (east) explosion.</li></ul></td>
 	<td><img src="../images/limit_cut_1256/limit_cut_1256_01.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>2.</b> Second pair of explosions.</p><ul><li><b>1</b>: It's recommended that you use Sprint.</ul>
+    <td><p><b>2.</b> Second pair of explosions.</p><ul><li><b>1</b>: It's recommended that you use Sprint.</ul></td>
 	<td><img src="../images/limit_cut_1256/limit_cut_1256_02.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>3.</b> Third pair of explosions.</p><ul><li><b>1</b>: Move to where the third explosion was without crossing the line.</li><li><b>2</b>: Position yourself behind <b>1</b>, within the same "pizza slice".</ul></td>
+    <td><p><b>3.</b> Third pair of explosions.</p><ul><li><b>1</b>: Move to where the third explosion was without crossing the line.</li><li><b>2</b>: Position yourself behind <b>1</b>, within the same "pizza slice".</li></ul></td>
 	<td><img src="../images/limit_cut_1256/limit_cut_1256_03.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>4.</b> Fourth pair of explosions.</p><ul><li><b>3</b>: Move to where the fourth explosion was without crossing the line.</li><li><b>4</b>: Position yourself behind <b>1</b>, within the same "pizza slice".</ul></td>
+    <td><p><b>4.</b> Fourth pair of explosions.</p><ul><li><b>3</b>: Move to where the fourth explosion was without crossing the line.</li><li><b>4</b>: Position yourself behind <b>1</b>, within the same "pizza slice".</li></ul></td>
 	<td><img src="../images/limit_cut_1256/limit_cut_1256_04.jpg"></td>
   </tr>
   <tr>
@@ -39,7 +39,7 @@ However, it is harder to learn compared to [1211](02_limit_cut_1211.md).
 	<td><img src="../images/limit_cut_1256/limit_cut_1256_06.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>7.</b> Seventh pair of explosions.</p><ul><li><b>5</b>: Move to where the seventh explosion was without crossing the line.</li><li><b>6</b>: Position yourself behind <b>5</b>, within the same "pizza slice".</ul></td>
+    <td><p><b>7.</b> Seventh pair of explosions.</p><ul><li><b>5</b>: Move to where the seventh explosion was without crossing the line.</li><li><b>6</b>: Position yourself behind <b>5</b>, within the same "pizza slice".</li></ul></td>
 	<td><img src="../images/limit_cut_1256/limit_cut_1256_07.jpg"></td>
   </tr>
   <tr>

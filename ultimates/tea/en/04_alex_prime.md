@@ -7,15 +7,15 @@ If you are already familiar with Alexander Prime, and just need a quick summary:
 <table>
   <tr>
     <td><b>Temporal Stasis</b></td>
-    <td><ul><li>Red/green tethers west</li><li>No debuffs east</li></td>
+    <td><ul><li>Red/green tethers west</li><li>No debuffs east</li></ul></td>
   </tr>
   <tr>
     <td><b>Chastening Heat</b></td>
-    <td><ul><li>1st: ST invuln</li><li>2nd: MT invuln</li></td>
+    <td><ul><li>1st: ST invuln</li><li>2nd: MT invuln</li></ul></td>
   </tr>
   <tr>
     <td><b>Inception Formation</b></td>
-    <td><ul><li>Flarethrowers:<ul><li>MT south</li><li>ST middle</li></ul></li><li>Tanks + Shared Sentence left</li><li>ST baits Super Jump</li></td>
+    <td><ul><li>Flarethrowers:<ul><li>MT south</li><li>ST middle</li></ul></li><li>Tanks + Shared Sentence left</li><li>ST baits Super Jump</li></ul></td>
   </tr>
 </table>
 

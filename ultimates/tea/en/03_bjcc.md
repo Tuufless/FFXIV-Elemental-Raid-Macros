@@ -25,7 +25,7 @@ My preferred method of doing this phase is using [my Tollgate strat](https://na.
 	<td><img src="../images/bjcc/bjcc_03.jpg"></td>
   </tr>
   <tr>
-    <td><b>4.</b> After Photon is cast is the <b>first Nisi pass</b>.<br><br><ul><li><b>MT</b>, <b>D1</b>: Do not pass Nisi yet.</li><li><b>ST</b>, <b>D2</b>: Pass Nisi with each other.</li><li><b>H1</b>, <b>D3</b>: Pass Nisi with each other.</li><li><b>H2</b>, <b>D4</b>: Pass Nisi with each other.</li></td>
+    <td><b>4.</b> After Photon is cast is the <b>first Nisi pass</b>.<br><br><ul><li><b>MT</b>, <b>D1</b>: Do not pass Nisi yet.</li><li><b>ST</b>, <b>D2</b>: Pass Nisi with each other.</li><li><b>H1</b>, <b>D3</b>: Pass Nisi with each other.</li><li><b>H2</b>, <b>D4</b>: Pass Nisi with each other.</li></ul></td>
 	<td><img src="../images/bjcc/bjcc_04.jpg"></td>
   </tr>
   <tr>
@@ -49,7 +49,7 @@ My preferred method of doing this phase is using [my Tollgate strat](https://na.
 	<td><img src="../images/bjcc/bjcc_09.jpg"></td>
   </tr>
   <tr>
-    <td><b>10. Second Nisi pass</b>. Melee + Tanks be careful as the Ice will expand.<br><br><ul><li><b>MT</b>, <b>ST</b>: Pass Nisi with the nearest melee on your side (they may have swapped sides)</li><li><b>D1</b>, <b>D2</b>: Pass Nisi with the nearest tank on your side (you may have swapped sides)</li><li><b>H1</b>, <b>D3</b>: Pass Nisi with each other.</li><li><b>H2</b>, <b>D4</b>: Pass Nisi with each other.</li></td>
+    <td><b>10. Second Nisi pass</b>. Melee + Tanks be careful as the Ice will expand.<br><br><ul><li><b>MT</b>, <b>ST</b>: Pass Nisi with the nearest melee on your side (they may have swapped sides)</li><li><b>D1</b>, <b>D2</b>: Pass Nisi with the nearest tank on your side (you may have swapped sides)</li><li><b>H1</b>, <b>D3</b>: Pass Nisi with each other.</li><li><b>H2</b>, <b>D4</b>: Pass Nisi with each other.</li></ul></td>
 	<td><img src="../images/bjcc/bjcc_10.jpg"></td>
   </tr>
   <tr>
