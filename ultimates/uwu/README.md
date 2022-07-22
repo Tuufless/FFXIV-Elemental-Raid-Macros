@@ -3,7 +3,7 @@ layout: default
 title: UWU
 parent: Ultimates
 nav_order: 2
-permalink: /
+permalink: /ultimates/uwu/
 ---
 
 # The Weapon's Refrain (Ultimate)

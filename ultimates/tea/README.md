@@ -4,7 +4,7 @@ title: TEA
 parent: Ultimates
 nav_order: 3
 has_children: true
-permalink: /
+permalink: /ultimates/tea/
 ---
 
 # The Epic of Alexander (Ultimate)

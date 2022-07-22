@@ -3,7 +3,7 @@ layout: default
 title: UCoB
 parent: Ultimates
 nav_order: 1
-permalink: /
+permalink: /ultimates/ucob/
 ---
 
 # The Unending Coil of Bahamut (Ultimate)

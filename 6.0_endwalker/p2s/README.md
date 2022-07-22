@@ -2,7 +2,7 @@
 layout: default
 title: P2S
 parent: 6.0 Endwalker
-permalink: /p2s
+permalink: /p2s/
 ---
 
 # Asphodelos: The Second Circle (Savage)
