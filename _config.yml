@@ -1,2 +1,2 @@
 kramdown:
-  input: Kramdown
+  gfm_quirks: paragraph_end, no_auto_typographic
