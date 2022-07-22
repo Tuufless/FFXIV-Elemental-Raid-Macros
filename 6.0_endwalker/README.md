@@ -1,3 +1,11 @@
+---
+layout: default
+title: 6.0 Endwalker
+nav_order: 2
+has_children: true
+permalink: /6.0_endwalker/
+---
+
 # 6.0 Endwalker
 
 The level cap for Endwalker is **Level 90**.
@@ -7,6 +15,10 @@ The level cap for Endwalker is **Level 90**.
 - **Zodiark EX** - [The Minstrel's Ballad: Zodiark's Fall](ex_zodiark/README.md)
 - **Hydaelyn EX** - [The Minstrel's Ballad: Hydaelyn's Call](ex_hydaelyn/README.md)
 - **Meteion EX** - [The Minstrel's Ballad: The Endsinger's Aria](ex_endsinger/README.md)
+
+## Unreal Trial
+
+- Ultima's Bane (Unreal)
 
 ## Savage
 

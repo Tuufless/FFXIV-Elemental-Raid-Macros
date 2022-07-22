@@ -1,3 +1,11 @@
+---
+layout: default
+title: Meteion EX
+parent: 6.0 Endwalker
+nav_order: 3
+permalink: /6.0_endwalker/ex_endsinger/
+---
+
 # The Minstrel's Ballad: The Endsinger's Aria
 
 - [Nukemaru](https://www.youtube.com/watch?v=dwZ8uVCPI80)
@@ -44,9 +52,11 @@ D3/H1　D4/H2｜　　　 Hフレア
 
 ## Markers
 
-The `A` marker is placed so that it is the safe spot for Adikia + front row AoE.
+The intercardinal `1234` markers are the impact points for all the planetary collisions.
 
-All other markers are not really needed, but can be useful for calling out safe spots during the starstorm.
+All markers are the player positions for Flare/AoEs during Theological Fatalism (player debuffs). The center `C` marker is for the Donuts + stack (people tend to stack too far south otherwise).
+
+You also want to mark the two healers for stacks.
 ![](images/markers.jpg)
 
 ## Strategy notes

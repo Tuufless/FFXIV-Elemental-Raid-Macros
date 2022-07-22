@@ -1,3 +1,10 @@
+---
+layout: default
+title: P4S P1
+parent: 6.0 Endwalker
+permalink: /6.0_endwalker/p4s_1/
+---
+
 # Asphodelos: The Fourth Circle (Savage) - Part 1
 
 PF uses [Inumaru's strat](https://www.youtube.com/watch?v=LtrXblj9mJo) as a base, and:
@@ -41,34 +48,35 @@ I personally recommend "Braindead" orbs, although English parties often prefer G
 ```
 
 <details>
-  <summary>Gumi orbs</summary>
+<summary>Gumi orbs</summary>
 
-  ```
-  ―《Basic Spread》―――――――――――――――
-  　D3 MT D4　　※ Rotate clockwise as needed
-  　H1 ▲ H2　　　　for towers/tethers
-  　D1 ST D2
-  ―《Director's Belone：YPP strat》―――――――
-  　T/H: North　DPS: South
-  　※Taking Debuffs：T > H > D1 > D2 > D3 > D4
-  ―《Pinax (Fire)：Stacks》―――――――――――
-  　MTH1D1D3 ● STH2D2D4
-  ―《Pinax (Fire)：After Shifting Strike》――――
-  　Towards mid：MTH1D1D3　Edge：STH2D2D4
-  ―《Pinax (Poison)：Spread》―――――――――
-  　　　MT　●　ST
-  　　　　D1　D2
-  　D3　H1　　H2　D4
-  ―《Pinax (Poison)：After Shifting Strike》―――
-  　　 MT　　※MT brings boss center
-  　D1▲D2　※Ranged spread appropriately
-  　　 ST　　　　towards the edge
-  ―《Green orbs：Gumi》――――――――――――
-  　D4 MT H1　　※MTH1→D1　STH2→D3
-  　 D3  ▲ ST　　※D1D2→MT　D3D4→ST
-  　D2 D1 H2
-  　※Take orbs as above, then rotate clockwise
-  ```
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight">
+<code>―《Basic Spread》―――――――――――――――
+　D3 MT D4　　※ Rotate clockwise as needed
+　H1 ▲ H2　　　　for towers/tethers
+　D1 ST D2
+―《Director's Belone：YPP strat》―――――――
+　T/H: North　DPS: South
+　※Taking Debuffs：T > H > D1 > D2 > D3 > D4
+―《Pinax (Fire)：Stacks》―――――――――――
+　MTH1D1D3 ● STH2D2D4
+―《Pinax (Fire)：After Shifting Strike》――――
+　Towards mid：MTH1D1D3　Edge：STH2D2D4
+―《Pinax (Poison)：Spread》―――――――――
+　　　MT　●　ST
+　　　　D1　D2
+　D3　H1　　H2　D4
+―《Pinax (Poison)：After Shifting Strike》―――
+　　 MT　　※MT brings boss center
+　D1▲D2　※Ranged spread appropriately
+　　 ST　　　　towards the edge
+―《Green orbs：Gumi》――――――――――――
+　D4 MT H1　　※MTH1→D1　STH2→D3
+　 D3  ▲ ST　　※D1D2→MT　D3D4→ST
+　D2 D1 H2
+　※Take orbs as above, then rotate clockwise
+</code></pre></div></div>
+
 </details>
 
 ## Japanese

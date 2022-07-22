@@ -1,3 +1,11 @@
+---
+layout: default
+title: Home
+nav_order: 1
+permalink: /
+---
+
+
 # FFXIV Elemental raid macros
 
 This repository is a collection of macros (and my notes) often encountered in the Elemental Data Center (DC).

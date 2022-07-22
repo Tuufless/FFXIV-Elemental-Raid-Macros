@@ -1,3 +1,11 @@
+---
+layout: default
+title: UCoB
+parent: Ultimates
+nav_order: 1
+permalink: /ultimates/ucob/
+---
+
 # The Unending Coil of Bahamut (Ultimate)
 
 PF largely follows [Clees' UCoB guide](http://clees.me/guides/ucob/) with a few differences:
@@ -87,6 +95,7 @@ PF largely follows [Clees' UCoB guide](http://clees.me/guides/ucob/) with a few 
 ```
 
 ## Japanese
+
 ```
 ―《ツインタニア》――――――――――――――――
 【拘束具の配置】　【最初の頭割り】
@@ -177,9 +186,10 @@ PF largely follows [Clees' UCoB guide](http://clees.me/guides/ucob/) with a few 
 
 ![](images/markers.jpg)
 <details>
-  <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
+<summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
-  ```
-  {"Name":"UCoB","MapID":280,"A":{"X":-11.472,"Y":0.0,"Z":-16.383,"ID":0,"Active":true},"B":{"X":11.47153,"Y":0.0,"Z":-16.383,"ID":1,"Active":true},"C":{"X":19.31852,"Y":0.0,"Z":5.176381,"ID":2,"Active":true},"D":{"X":-19.319,"Y":0.0,"Z":5.176,"ID":3,"Active":true},"One":{"X":-7.57,"Y":0.0,"Z":-4.38,"ID":4,"Active":true},"Two":{"X":7.57,"Y":0.0,"Z":-4.38,"ID":5,"Active":true},"Three":{"X":0.0,"Y":0.0,"Z":8.75,"ID":6,"Active":true},"Four":{"X":0.0,"Y":0.0,"Z":0.0,"ID":7,"Active":true}}
-  ```
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight">
+<code>{"Name":"UCoB","MapID":280,"A":{"X":-11.472,"Y":0.0,"Z":-16.383,"ID":0,"Active":true},"B":{"X":11.47153,"Y":0.0,"Z":-16.383,"ID":1,"Active":true},"C":{"X":19.31852,"Y":0.0,"Z":5.176381,"ID":2,"Active":true},"D":{"X":-19.319,"Y":0.0,"Z":5.176,"ID":3,"Active":true},"One":{"X":-7.57,"Y":0.0,"Z":-4.38,"ID":4,"Active":true},"Two":{"X":7.57,"Y":0.0,"Z":-4.38,"ID":5,"Active":true},"Three":{"X":0.0,"Y":0.0,"Z":8.75,"ID":6,"Active":true},"Four":{"X":0.0,"Y":0.0,"Z":0.0,"ID":7,"Active":true}}
+</code></pre></div></div>
+
 </details>

@@ -1,3 +1,10 @@
+---
+layout: default
+title: 5. Perfect Alexander
+parent: TEA
+grand_parent: Ultimates
+---
+
 ## Perfect Alexander
 
 ## Summary
@@ -7,11 +14,11 @@ If you are already familiar with Perfect Alexander, and just need a quick summar
 <table>
   <tr>
     <td><b>Forced March</b></td>
-    <td><ul><li>East → west</li></td>
+    <td><ul><li>East → west</li></ul></td>
   </tr>
   <tr>
     <td><b>Fate Calibration Alpha</b></td>
-    <td><ul><li>Shared Sentence left, Aggravated Assault right</li></td>
+    <td><ul><li>Shared Sentence left, Aggravated Assault right</li></ul></td>
   </tr>
   <tr>
     <td><b>Exatrines</b></td>
@@ -49,11 +56,11 @@ After Fate Calibration Alpha, Perfect Alex will cast the first Ordained Capital 
 
 <table>
   <tr>
-    <td><b>1. Initial positions</b><ul><li><b>Light Beacon:</b> Slightly west of North (NNW)</li></ul><li><b>Dark:</b><ul><li><b>Beacon:</b> East</li><li><b>Red/Green tether:</b> Slightly NW of the Dark Beacon</b></li><li><b>No debuff:</b> Slightly W of the Dark Beacon</li><li><b>Blue tether:</b> Slightly SW of the Dark Beacon</li></ul></td>
+    <td><b>1. Initial positions</b><ul><li><b>Light Beacon:</b> Slightly west of North (NNW)</li><li><b>Dark Beacon:</b> East</li><li><b>Red/Green tether:</b> Slightly NW of the Dark Beacon</li><li><b>No debuff:</b> Slightly W of the Dark Beacon</li><li><b>Blue tether:</b> Slightly SW of the Dark Beacon</li></ul></td>
 	<td><img src="../images/perfect_alex/fate_calibration_beta_01.jpg"></td>
   </tr>
   <tr>
-    <td><b>2.</b> Forced March resolves.<ul><li><b>Light players + Dark with red/green:</b> Stack together north</li><li><b>Dark players (except red/green tether):</b> Move to the edge of the arena.</td>
+    <td><b>2.</b> Forced March resolves.<ul><li><b>Light players + Dark with red/green:</b> Stack together north</li><li><b>Dark players (except red/green tether):</b> Move to the edge of the arena.</li></ul></td>
 	<td><img src="../images/perfect_alex/fate_calibration_beta_02.jpg"></td>
   </tr>
   <tr>

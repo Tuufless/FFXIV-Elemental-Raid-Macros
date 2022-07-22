@@ -1,3 +1,11 @@
+---
+layout: default
+title: UWU
+parent: Ultimates
+nav_order: 2
+permalink: /ultimates/uwu/
+---
+
 # The Weapon's Refrain (Ultimate)
 
 PF largely follows [Clees' UWU guide](http://clees.me/guides/uwu/) with a few differences:
@@ -11,6 +19,7 @@ PF largely follows [Clees' UWU guide](http://clees.me/guides/uwu/) with a few di
 - Relic weapons will have their substats capped at **136**.
 
 ## Things to note
+
 - There are edge cases to consider if you have a PLD or GNB and skipping Ifrit dashes are a possibility.
 	- If you **skip** Ifrit dashes, there is about **6:30** between Ifrit's *first* set of Incinerates and the Homing Lasers after Ultimate Predation (PLD cannot invuln both).
 	- If you **don't skip** Ifrit's dashes, there is about **5:40** between Ifrit's *second* set of Incinerates and the Homing Lasers after Ultimate Predation (GNB and PLD cannot invuln both).
@@ -157,9 +166,10 @@ PF largely follows [Clees' UWU guide](http://clees.me/guides/uwu/) with a few di
 
 ![](images/markers.jpg)
 <details>
-  <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
+<summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
-  ```
-  {"Name":"UWU","MapID":539,"A":{"X":100.0,"Y":0.0,"Z":93.3,"ID":0,"Active":true},"B":{"X":106.7,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":106.7,"ID":2,"Active":true},"D":{"X":93.3,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":100.0,"Y":0.0,"Z":100.0,"ID":4,"Active":true},"Two":{"X":107.3,"Y":0.0,"Z":107.3,"ID":5,"Active":true},"Three":{"X":100.0,"Y":0.0,"Z":81.0,"ID":6,"Active":true},"Four":{"X":87.0,"Y":0.0,"Z":87.0,"ID":7,"Active":true}}
-  ```
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight">
+<code>{"Name":"UWU","MapID":539,"A":{"X":100.0,"Y":0.0,"Z":93.3,"ID":0,"Active":true},"B":{"X":106.7,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":106.7,"ID":2,"Active":true},"D":{"X":93.3,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":100.0,"Y":0.0,"Z":100.0,"ID":4,"Active":true},"Two":{"X":107.3,"Y":0.0,"Z":107.3,"ID":5,"Active":true},"Three":{"X":100.0,"Y":0.0,"Z":81.0,"ID":6,"Active":true},"Four":{"X":87.0,"Y":0.0,"Z":87.0,"ID":7,"Active":true}}
+</code></pre></div></div>
+
 </details>

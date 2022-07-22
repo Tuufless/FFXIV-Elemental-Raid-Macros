@@ -1,3 +1,10 @@
+---
+layout: default
+title: 1. Living Liquid
+parent: TEA
+grand_parent: Ultimates
+---
+
 ## Living Liquid
 
 This is a slightly modified version of the original Separations Living Liquid strat.
@@ -17,7 +24,7 @@ Notable changes are:
 	<td><img src="../images/living_liquid/living_liquid_02.jpg"></td>
   </tr>
   <tr>
-    <td><b>3.</b> Jagd Dolls spawn, and first set of untelegraphed Protean Waves resolve.<br><br><ul><li>MT: Invuln Living Liquid's Fluid Swing and the Living Hand's Fluid Swing.</li><li>MT, H1, H2: Bait telegraphed Protean Waves from the puddles</li><li>DPS: Take your assigned Jagd Doll.</li></ul></b></td>
+    <td><b>3.</b> Jagd Dolls spawn, and first set of untelegraphed Protean Waves resolve.<br><br><ul><li>MT: Invuln Living Liquid's Fluid Swing and the Living Hand's Fluid Swing.</li><li>MT, H1, H2: Bait telegraphed Protean Waves from the puddles</li><li>DPS: Take your assigned Jagd Doll.</li></ul></td>
 	<td><img src="../images/living_liquid/living_liquid_03.jpg"></td>
   </tr>
   <tr>
