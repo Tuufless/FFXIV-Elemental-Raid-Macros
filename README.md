@@ -15,6 +15,9 @@ The current item level cap is **iLvl 605**.
 - **Hydaelyn EX** - [The Minstrel's Ballad: Hydaelyn's Call](6.0_endwalker/ex_hydaelyn/README.md)
 - **Meteion EX** - [The Minstrel's Ballad: The Endsinger's Aria](6.0_endwalker/ex_endsinger/README.md)
 
+**Unreal Trial:**
+- Ultima's Bane (Unreal)
+
 **Savage Raids:**
 - **P1S** - [Asphodelos: The First Circle (Savage)](6.0_endwalker/p1s/README.md)
 - **P2S** - [Asphodelos: The Second Circle (Savage)](6.0_endwalker/p2s/README.md)
