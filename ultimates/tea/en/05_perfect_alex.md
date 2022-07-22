@@ -2,6 +2,7 @@
 layout: default
 title: 5. Perfect Alexander
 parent: TEA
+grand_parent: Ultimates
 nav_order: 1
 ---
 

@@ -2,6 +2,7 @@
 layout: default
 title: 4. Alexander Prime
 parent: TEA
+grand_parent: Ultimates
 nav_order: 1
 ---
 

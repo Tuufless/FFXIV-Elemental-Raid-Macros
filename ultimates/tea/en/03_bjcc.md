@@ -2,6 +2,7 @@
 layout: default
 title: 3. Brute Justice + Cruise Chaser
 parent: TEA
+grand_parent: Ultimates
 nav_order: 1
 ---
 

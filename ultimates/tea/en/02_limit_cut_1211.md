@@ -2,6 +2,7 @@
 layout: default
 title: 2. Limit Cut (1211)
 parent: TEA
+grand_parent: Ultimates
 nav_order: 1
 ---
 
