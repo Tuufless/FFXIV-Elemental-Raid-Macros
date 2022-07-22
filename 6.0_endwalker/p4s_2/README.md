@@ -10,7 +10,7 @@ PF uses [Inumaru's strat](https://www.youtube.com/watch?v=1sfnBHXf2nA) (essentia
 
 ## English
 English parties will do Xeno's strat for Act 3.
-```
+```text
 ―――《Act 1》―――――《Act 2 (Idyll)》――――
 　　　　　　　　　【T】Dark：NW → N or W → cw
 　D3　　　　D4　　　Fire：mid → N or W → ccw
@@ -40,7 +40,7 @@ English parties will do Xeno's strat for Act 3.
 <details>
   <summary>Japanese translation</summary>
 
-  ```
+  ```text
   ―《序幕》――――――――――――――――――――
   　D3　　　　　D4
   　　MT　　　ST
@@ -74,7 +74,7 @@ English parties will do Xeno's strat for Act 3.
 ## Japanese
 
 Japanese parties will do Inumaru's strat for Act 3.
-```
+```text
 ―《序幕》――――――――――――――――――――
 　D3　　　　　D4
 　　MT　　　ST
@@ -106,7 +106,7 @@ DPSファイガ移動:時計回りD1D2D3D4反時計回り
 <details>
   <summary>English translation</summary>
 
-  ```
+  ```text
   ―――《Act 1》―――――《Act 2 (Idyll)》――――
   　　　　　　　　　【T】Dark：NW → N or W → cw
   　D3　　　　D4　　　Fire：mid → N or W → ccw
@@ -146,7 +146,7 @@ The markers also indicate the tether order for Act 4. Of note, 1234 overlap the 
 <details>
   <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
-  ```
+  ```json
   {"Name":"P4S-2","MapID":801,"A":{"X":105.0,"Y":0.0,"Z":85.0,"ID":0,"Active":true},"B":{"X":115.0,"Y":0.0,"Z":105.0,"ID":1,"Active":true},"C":{"X":95.0,"Y":0.0,"Z":115.0,"ID":2,"Active":true},"D":{"X":85.0,"Y":0.0,"Z":95.0,"ID":3,"Active":true},"One":{"X":98.5,"Y":0.0,"Z":81.5,"ID":4,"Active":true},"Two":{"X":118.5,"Y":0.0,"Z":98.5,"ID":5,"Active":true},"Three":{"X":101.5,"Y":0.0,"Z":118.5,"ID":6,"Active":true},"Four":{"X":81.5,"Y":0.0,"Z":101.5,"ID":7,"Active":true}}
   ```
 </details>

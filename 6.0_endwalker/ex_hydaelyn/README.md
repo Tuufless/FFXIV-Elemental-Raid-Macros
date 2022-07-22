@@ -4,7 +4,7 @@ PF uses [Hamkatsu's strat](https://www.youtube.com/watch?v=xrN2viqpTqc) *(yes, t
 
 ## English
 
-```
+```text
 【Spread/Crystallize (Ice)】
 　　D3 MT D4
 　　H1 ▲ H2
@@ -24,7 +24,7 @@ Adds: MT:W→NE ST:E→SE
 
 ## Japanese
 
-```
+```text
 【基本散開/クリスタライズ氷】
 　　D3 MT D4
 　　H1 ▲ H2

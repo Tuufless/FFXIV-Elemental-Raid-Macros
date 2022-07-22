@@ -14,7 +14,7 @@ PF largely follows [Clees' UCoB guide](http://clees.me/guides/ucob/) with a few 
 
 ## English
 
-```
+```text
 ―《Twintania》――――――――――――――――
 【Neurolinks】　【1st Phase Fireballs】
 　　 　 　　　　　MT, ST, D3 stay out
@@ -87,7 +87,7 @@ PF largely follows [Clees' UCoB guide](http://clees.me/guides/ucob/) with a few 
 ```
 
 ## Japanese
-```
+```text
 ―《ツインタニア》――――――――――――――――
 【拘束具の配置】　【最初の頭割り】
 　　 　 　　　　　MT, ST, D3は入らない
@@ -179,7 +179,7 @@ PF largely follows [Clees' UCoB guide](http://clees.me/guides/ucob/) with a few 
 <details>
   <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
-  ```
+  ```json
   {"Name":"UCoB","MapID":280,"A":{"X":-11.472,"Y":0.0,"Z":-16.383,"ID":0,"Active":true},"B":{"X":11.47153,"Y":0.0,"Z":-16.383,"ID":1,"Active":true},"C":{"X":19.31852,"Y":0.0,"Z":5.176381,"ID":2,"Active":true},"D":{"X":-19.319,"Y":0.0,"Z":5.176,"ID":3,"Active":true},"One":{"X":-7.57,"Y":0.0,"Z":-4.38,"ID":4,"Active":true},"Two":{"X":7.57,"Y":0.0,"Z":-4.38,"ID":5,"Active":true},"Three":{"X":0.0,"Y":0.0,"Z":8.75,"ID":6,"Active":true},"Four":{"X":0.0,"Y":0.0,"Z":0.0,"ID":7,"Active":true}}
   ```
 </details>

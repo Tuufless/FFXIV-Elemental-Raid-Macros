@@ -10,7 +10,7 @@ English parties replace Firestorms of Asphodelos (FoA) with "my" strat (see belo
 
 ## English
 This is the macro often used in **English** parties. In particular, Firestorms of Asphodelos is, er, ["my" strat](#firestorms-of-asphodelos).
-```
+```text
 　【Darkened Fire】　　【Transition】
 　D3/MT  [1]  D4/ST　　　MT▼D3
 　　[4］　▲　［2］　　　  H1　D1
@@ -46,7 +46,7 @@ This is the macro often used in **English** parties. In particular, Firestorms o
 <details>
   <summary>Japanese translation</summary>
 
-  ```
+  ```text
   　　【闇の炎散開】　　　【突進時散開】
   　D3/MT  [1]  D4/ST　　　MT▼D3
   　　[4］　▲　［2］　　　  H1　D1
@@ -83,7 +83,7 @@ This is the macro often used in **English** parties. In particular, Firestorms o
 ## Japanese
 
 This is the [game8 macro](https://game8.jp/ff14/421350) often used by **Japanese** parties.
-```
+```text
 【4:4分け（雑魚/霊泉）】
 MT組：MTH1D1D3　ST組：STH2D2D4
 【闇の炎設置ペア：X字】
@@ -132,7 +132,7 @@ ST　D2 　★　 H2　D4
 <details>
   <summary>English translation</summary>
 
-  ```
+  ```text
   【4:4 splits (adds/FoF)】
   　MT group：MTH1D1D3　ST group：STH2D2D4
   【Darkened Fires：Intercardinals】
@@ -192,14 +192,14 @@ ST　D2 　★　 H2　D4
 <details>
   <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
-  ```
+  ```json
   {"Name":"P3S","MapID":807,"A":{"X":100.0,"Y":0.0,"Z":81.5,"ID":0,"Active":true},"B":{"X":118.5,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":118.5,"ID":2,"Active":true},"D":{"X":81.5,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":100.0,"Y":0.0,"Z":94.0,"ID":4,"Active":true},"Two":{"X":106.0,"Y":0.0,"Z":100.0,"ID":5,"Active":true},"Three":{"X":100.0,"Y":0.0,"Z":106.0,"ID":6,"Active":true},"Four":{"X":94.0,"Y":0.0,"Z":100.0,"ID":7,"Active":true}}
   ```
 </details>
 
 ## Experimental Gloryplume
 
-```
+```text
 【Experimental Gloryplume - Spread】
 　　　MT　ST　　※ Melee (N/W), Ranged (S/E)
 　　D1　▲　D2　※ Explosions-Relative:
@@ -210,7 +210,7 @@ The first Experimental Gloryplume always starts with the four explosions around 
 
 For example, if the first two explosions were the ones below (east and west), then the final spread positions for the black orbs spread would look like:
 
-```
+```text
     3             ST
  2     4       MT    D2
 1       1  →  D1      D4

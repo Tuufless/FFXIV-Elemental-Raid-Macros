@@ -13,7 +13,7 @@ PF uses [Inumaru's strat](https://www.youtube.com/watch?v=LtrXblj9mJo) as a base
 
 ## English
 I personally recommend "Braindead" orbs, although English parties often prefer Gumi orbs (below, in the hideaway) for legacy reasons.
-```
+```text
 ―《Basic Spread》―――――――――――――――
 　D3 MT D4　　※ Rotate clockwise as needed
 　H1 ▲ H2　　　　for towers/tethers
@@ -43,7 +43,7 @@ I personally recommend "Braindead" orbs, although English parties often prefer G
 <details>
   <summary>Gumi orbs</summary>
 
-  ```
+  ```text
   ―《Basic Spread》―――――――――――――――
   　D3 MT D4　　※ Rotate clockwise as needed
   　H1 ▲ H2　　　　for towers/tethers
@@ -74,7 +74,7 @@ I personally recommend "Braindead" orbs, although English parties often prefer G
 ## Japanese
 
 This is the [game8 macro](https://game8.jp/ff14/421350) often used by **Japanese** parties.
-```
+```text
 ―《基本散開》―――――――――――――――――
 　D3 MT D4　　※塔は時計回りの場所に入る
 　H1 ▲ H2
