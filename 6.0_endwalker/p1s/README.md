@@ -2,7 +2,7 @@
 layout: default
 title: P1S
 parent: 6.0 Endwalker
-permalink: /p1s
+permalink: /
 ---
 
 # Asphodelos: The First Circle (Savage)

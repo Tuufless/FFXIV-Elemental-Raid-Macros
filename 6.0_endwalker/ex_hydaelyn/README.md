@@ -3,7 +3,7 @@ layout: default
 title: Hydaelyn EX
 parent: 6.0 Endwalker
 nav_order: 2
-permalink: /ex_hydaelyn
+permalink: /
 ---
 
 # The Minstrel's Ballad: Hydaelyn's Call

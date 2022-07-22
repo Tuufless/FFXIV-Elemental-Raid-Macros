@@ -3,7 +3,7 @@ layout: default
 title: Meteion EX
 parent: 6.0 Endwalker
 nav_order: 3
-permalink: /ex_endsinger
+permalink: /
 ---
 
 # The Minstrel's Ballad: The Endsinger's Aria
