@@ -1,3 +1,11 @@
 remote_theme: just-the-docs/just-the-docs
 
+title: "FFXIV Elemental Raid Macros"
+description: "Final Fantasy XIV Elemental DC Raid Macros"
+
 color_scheme: dark
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "Final Fantasy XIV Elemental DC Raid Macros"
