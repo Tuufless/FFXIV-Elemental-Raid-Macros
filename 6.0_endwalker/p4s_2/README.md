@@ -4,7 +4,9 @@ PF uses [Inumaru's strat](https://www.youtube.com/watch?v=1sfnBHXf2nA) (essentia
 
 - **Japanese** parties will do Inumaru's strat for Act3.
 - **English** parties will do Xeno's strat for Act 3.
-- Curtain Call timings are flipped from Inumaru's video. T/H cuts their tethers at 6 seconds remaining, while DPS cut theirs at 11 seconds remaining (instead of the other way around).
+- Curtain Call timings are flipped from Inumaru's video:
+  - Tanks/Healers cut their tethers at 6 seconds remaining.
+  - DPS cut theirs at 11 seconds remaining.
 
 ## English
 English parties will do Xeno's strat for Act 3.
@@ -149,7 +151,39 @@ The markers also indicate the tether order for Act 4. Of note, 1234 overlap the 
   ```
 </details>
 
-## Strategy breakdown
+## Act 2
 
-#### Act 2
-[Inumaru's Act 2 strat is identical to Idyllshire's](https://imgur.com/a/dsdG6WQ).
+Elemental uses the [Idyllshire Act 2 strat](https://youtu.be/1sfnBHXf2nA?t=278).
+
+<table>
+  <tr>
+    <td><p><b>1.</b> Break AoEs, break Dark tether</p><ul><li><b>Dark (no orb) Tank:</b> Always NW.</li><li><b>Dark Healer:</b> Always SE.</li><li><b>Fire DPS:</b> Identify your Fire partner and priority for later.</li><li><b>Everybody except Dark Tank/Healer:</b> Stack middle.</li></ul></td>
+	<td><img src="images/act_2_01.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><em>(The following diagrams assume the N/S towers will resolve first- rotate 90 degrees anti-clockwise if E/W towers will resolve first instead.)</em></p><b>2.</b> After baiting AoEs, everyone moves into position for the first set of mechanics.</p><ul><li>Dark Tank/Healer always get towers.</li><li>Fire Tank + Healer break their tether.</li></ul></td>
+	<td><img src="images/act_2_02.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>3.</b> First set of mechanics resolve.</td>
+	<td><img src="images/act_2_03.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>4.</b> Everyone moves in for healing, then moves to prepare for the second set of mechanics:</p><ul><li><b>Healers:</b> Rotate <b>clockwise</b></li><li><b>Dark Tank:</b> Rotate <b>clockwise</b> to the next tower.</li><li><b>Fire Tank:</b> Rotate <b>anti-clockwise</b> to the next stack.</li><li><b>Fire DPS:</b> Break your tether.</li></ul><p>Everyone rotates clockwise <em>except</em> the Fire Tank and the Fire DPS in the following priority:</p><p>clockwise: D1 > D2 > D3 > D4: anti-clockwise</p></td>
+	<td><img src="images/act_2_04.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>5.</b> Second set of mechanics resolve.</td>
+	<td><img src="images/act_2_05.jpg"></td>
+  </tr>
+</table>
+
+
+## Act 3
+
+Note that English and Japanese groups will do different Act 3 strats.
+
+- English groups will use Xeno's Act 3.
+  - Tanks/Melee and Healers/Ranged alternate taking towers + Earthshakers.
+- Japanese groups will use [Inumaru's Act 3](https://youtu.be/1sfnBHXf2nA?t=627).
+  - Tanks/Melee take all Earthshakers. Healers/Ranged take all towers.
