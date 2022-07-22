@@ -1,3 +1,10 @@
+---
+layout: default
+title: 1. Living Liquid
+parent: TEA
+grand_parent: Ultimates
+---
+
 ## Living Liquid
 
 This is a slightly modified version of the original Separations Living Liquid strat.

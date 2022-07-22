@@ -1,3 +1,10 @@
+---
+layout: default
+title: P3S
+parent: 6.0 Endwalker
+permalink: /6.0_endwalker/p3s/
+---
+
 # Asphodelos: The Third Circle (Savage)
 
 PF uses [Inumaru's strat](https://www.youtube.com/watch?v=BHMjrxpZb7k) as a base, but puts Darkened Fires (闇の炎) on intercardinal positions (Shinosho), and replaces Fountain of Fire (霊泉) with Mr. Happy's strat (see below).

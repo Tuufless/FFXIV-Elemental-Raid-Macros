@@ -1,3 +1,11 @@
+---
+layout: default
+title: 6.0 Endwalker
+nav_order: 2
+has_children: true
+permalink: /6.0_endwalker/
+---
+
 # 6.0 Endwalker
 
 The level cap for Endwalker is **Level 90**.

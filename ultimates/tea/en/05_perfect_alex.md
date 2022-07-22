@@ -1,3 +1,10 @@
+---
+layout: default
+title: 5. Perfect Alexander
+parent: TEA
+grand_parent: Ultimates
+---
+
 ## Perfect Alexander
 
 ## Summary
