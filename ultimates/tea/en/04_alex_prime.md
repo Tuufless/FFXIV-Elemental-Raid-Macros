@@ -54,7 +54,7 @@ To summarize:
 	  <td><img src="../images/alex_prime/inception_03.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>4.</b> The True Heart will now move to a random spot at the edge of the Arena, where Alexander will spawn and cast Sacrament.</p><p>Players will also get various debuffs to resolve.</p><ul><li><b>Tanks:</b> Go left</li><li><b>Healers:</b> Go right</li><li><b>DPS:</b><ul><li><b>Shared Sentence:</b> Go left</li><li><b>Others:</b> Go right</li></ul></ul></td>
+    <td><p><b>4.</b> The True Heart will now move to a random spot at the edge of the Arena, where Alexander will spawn and cast Sacrament.</p><p>Players will also get various debuffs to resolve.</p><ul><li><b>Tanks:</b> Go left</li><li><b>Healers:</b> Go right</li><li><b>DPS:</b><ul><li><b>Shared Sentence:</b> Go left</li><li><b>Others:</b> Go right</li></ul></li></ul></td>
 	  <td><img src="../images/alex_prime/inception_04.jpg"></td>
   </tr>
   <tr>
