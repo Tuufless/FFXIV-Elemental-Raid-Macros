@@ -3,7 +3,6 @@ layout: default
 title: 1. Living Liquid
 parent: TEA
 grand_parent: Ultimates
-nav_order: 1
 ---
 
 ## Living Liquid
