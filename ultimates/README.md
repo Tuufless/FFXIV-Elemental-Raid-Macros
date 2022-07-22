@@ -3,6 +3,7 @@ layout: default
 title: Ultimates
 nav_order: 3
 has_children: true
+permalink: /ultimates
 ---
 
 # Ultimate Raids

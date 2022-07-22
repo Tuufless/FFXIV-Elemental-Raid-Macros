@@ -2,6 +2,7 @@
 layout: default
 title: P3S
 parent: 6.0 Endwalker
+permalink: /p3s
 ---
 
 # Asphodelos: The Third Circle (Savage)
