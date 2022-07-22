@@ -3,7 +3,7 @@
 - [Nukemaru](https://www.youtube.com/watch?v=dwZ8uVCPI80)
 
 ## English
-```text
+```
 【Grip of Despair + Katasterismoi (Towers)】
 Chains：TH→West、DPS→East
 　MT 　D1
@@ -24,7 +24,7 @@ D3/H1　D4/H2｜　　　 H-Flare
 ## Japanese
 
 This is the [game8 macro](https://game8.jp/ff14/446913) that's being used:
-```text
+```
 【絶望の鎖・カタステリスモイ(塔)】
 鎖はTHが西、DPSが東に切りにいく
 　MT 　D1

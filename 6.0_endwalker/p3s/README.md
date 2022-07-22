@@ -10,7 +10,7 @@ English parties replace Firestorms of Asphodelos (FoA) with "my" strat (see belo
 
 ## English
 This is the macro often used in **English** parties. In particular, Firestorms of Asphodelos is, er, ["my" strat](#firestorms-of-asphodelos).
-```text
+```
 　【Darkened Fire】　　【Transition】
 　D3/MT  [1]  D4/ST　　　MT▼D3
 　　[4］　▲　［2］　　　  H1　D1
@@ -46,44 +46,44 @@ This is the macro often used in **English** parties. In particular, Firestorms o
 <details>
   <summary>Japanese translation</summary>
 
-  ```text
-  　　【闇の炎散開】　　　【突進時散開】
-  　D3/MT  [1]  D4/ST　　　MT▼D3
-  　　[4］　▲　［2］　　　  H1　D1
-  　D1/H1  [3]  D2/H2　　　H2　D2
-  　※時計回りに破壊　　 　　ST　 D4
-  【雑魚】MTH1D1D3北→西　STH2D2D4南→東
-  　　外周に立ち中央を向く：左→線2本　右→線1本
-  【魔力錬成：小黒玉散開】
-  　　　MT　ST　　 ※ 近接：北(西)　　遠隔：南(東)
-  　　D1　▲　D2　※ 爆発基準：
-  　　D3　　　D4　　1回目→D1D4　2回目→MTH2
-  　　　H1　H2　　　3回目→STH1　4回目→D2D3
-  【霊泉の炎・陽炎の翼】(ハピおじ式)
-  　　北か西から：H1　　MT→D1→D3
-  　　南か東から：H2　　ST→D2→D4
-  【辺獄の炎嵐】(Tuufless式)
-  　■ 散開位置　ヒーラー・メレー(北)　タンク・レンジ(南)
-  　　（ボス側）　　D1　D2　　　　　　MT　ST
-  　　　（端側）　H1　　　H2　　　　D3　　　D4
-  　■ 1. ピザカット→黒玉
-  　　　　1回目のピザ基準で処理する
-  　■ 2. 線＋扇範囲誘導
-  　　  　H2●　　　　　　※タンク2人はボスサークル
-  　　　　　　　D1D2H1　　内で重なって無敵
-  　　　　　▼　　　　　　※ D1D2H1はボスサークル
-  　　●　MT+ST　●　　　　外3人で扇1枚受け
-  　　D3　　　　　D4　　※竜巻の代理H1→D2の順
-  　■ 3. ノックバック→黒玉
-  　　　　　　　　　　　　 黒竜巻
-  　　　　ヒーラー・メレー組　　　タンク・レンジ組
-  ```
+<pre><code>　　【闇の炎散開】　　　【突進時散開】
+　D3/MT  [1]  D4/ST　　　MT▼D3
+　　[4］　▲　［2］　　　  H1　D1
+　D1/H1  [3]  D2/H2　　　H2　D2
+　※時計回りに破壊　　 　　ST　 D4
+【雑魚】MTH1D1D3北→西　STH2D2D4南→東
+　　外周に立ち中央を向く：左→線2本　右→線1本
+【魔力錬成：小黒玉散開】
+　　　MT　ST　　 ※ 近接：北(西)　　遠隔：南(東)
+　　D1　▲　D2　※ 爆発基準：
+　　D3　　　D4　　1回目→D1D4　2回目→MTH2
+　　　H1　H2　　　3回目→STH1　4回目→D2D3
+【霊泉の炎・陽炎の翼】(ハピおじ式)
+　　北か西から：H1　　MT→D1→D3
+　　南か東から：H2　　ST→D2→D4
+【辺獄の炎嵐】(Tuufless式)
+　■ 散開位置　ヒーラー・メレー(北)　タンク・レンジ(南)
+　　（ボス側）　　D1　D2　　　　　　MT　ST
+　　　（端側）　H1　　　H2　　　　D3　　　D4
+　■ 1. ピザカット→黒玉
+　　　　1回目のピザ基準で処理する
+　■ 2. 線＋扇範囲誘導
+　　  　H2●　　　　　　※タンク2人はボスサークル
+　　　　　　　D1D2H1　　内で重なって無敵
+　　　　　▼　　　　　　※ D1D2H1はボスサークル
+　　●　MT+ST　●　　　　外3人で扇1枚受け
+　　D3　　　　　D4　　※竜巻の代理H1→D2の順
+　■ 3. ノックバック→黒玉
+　　　　　　　　　　　　 黒竜巻
+　　　　ヒーラー・メレー組　　　タンク・レンジ組
+</code></pre>
+
 </details>
 
 ## Japanese
 
 This is the [game8 macro](https://game8.jp/ff14/421350) often used by **Japanese** parties.
-```text
+```
 【4:4分け（雑魚/霊泉）】
 MT組：MTH1D1D3　ST組：STH2D2D4
 【闇の炎設置ペア：X字】
@@ -132,53 +132,52 @@ ST　D2 　★　 H2　D4
 <details>
   <summary>English translation</summary>
 
-  ```text
-  【4:4 splits (adds/FoF)】
-  　MT group：MTH1D1D3　ST group：STH2D2D4
-  【Darkened Fires：Intercardinals】
-  　D3/MT ① D4/ST
-  　 　 ④　▲　②
-  　D1/H1 ③ D2/H2
-  ※Numbers on markers, destroy clockwise Fire
-  【Devouring Brand】Fireplume：NW　
-  　　　　　　※ NE if explosions appear there
-  【Transition】
-  　Mid：(Boss) MT/D3→H1/D1→H2/D2→ST/D4
-  　Sides：(Line up as above) ←TH　DPS→
-  【Adds phase】MT：N→W 　ST：E→S
-  　2 tethers：CW from opposite bird
-  　1 tether：Opposite corner from partner
-  【Experimental Gloryplumes】
-  　Melee (MTSTD1D2)：N safe-spot
-  　Ranged (H1H2D3D4)：S safe-spot
-  【Fountain of Fire：MrHappy】
-  　MT group→N/W　ST group→S/E
-  　AoE pairs：MT/ST → D1/D2 → D3/D4
-  　※ Resolve towers and AoEs moving clockwise
-  【Storms of Asphodelos】
-  　　　 　　〇H2
-  　　 　 MT 　 ST
-  　D3　 　 ▼　 　 H1
-  　〇 　D1 D4 D2　〇
-  【Black tornado knockback】
-  　　　 　Black tornado
-  　←Melee 　　　 Ranged→
-  【1st Gloryplume】　【2nd Gloryplume】
-  　　　MT　ST　　　　D1　MT　D2　ST
-  　 　　　★　　　　　　　　　 ★
-  　　　D1　 D2
-  　　　(mid)
-  　　　H1　H2　　　　D3　H1　H2　D4
-  　　D3　　　　D4
-  ↑(FoA) Spread formation after 1st pizza AoE
-  【(FoA) Dodging pizza AoEs】
-  Wait at 3rd→Dodge to 1st→Spread/stack at 1st
-  【(FoA) Knockback Spread positions】
-  　　　　　〇　 　 　 　　
-  ST　D2 　★　 H2　D4
-  　〇 　D1　 H1　〇
-  　　MT　　　　D3
-  ```
+<pre><code>【4:4 splits (adds/FoF)】
+　MT group：MTH1D1D3　ST group：STH2D2D4
+【Darkened Fires：Intercardinals】
+　D3/MT ① D4/ST
+　 　 ④　▲　②
+　D1/H1 ③ D2/H2
+※Numbers on markers, destroy clockwise Fire
+【Devouring Brand】Fireplume：NW　
+　　　　　　※ NE if explosions appear there
+【Transition】
+　Mid：(Boss) MT/D3→H1/D1→H2/D2→ST/D4
+　Sides：(Line up as above) ←TH　DPS→
+【Adds phase】MT：N→W 　ST：E→S
+　2 tethers：CW from opposite bird
+　1 tether：Opposite corner from partner
+【Experimental Gloryplumes】
+　Melee (MTSTD1D2)：N safe-spot
+　Ranged (H1H2D3D4)：S safe-spot
+【Fountain of Fire：MrHappy】
+　MT group→N/W　ST group→S/E
+　AoE pairs：MT/ST → D1/D2 → D3/D4
+　※ Resolve towers and AoEs moving clockwise
+【Storms of Asphodelos】
+　　　 　　〇H2
+　　 　 MT 　 ST
+　D3　 　 ▼　 　 H1
+　〇 　D1 D4 D2　〇
+【Black tornado knockback】
+　　　 　Black tornado
+　←Melee 　　　 Ranged→
+【1st Gloryplume】　【2nd Gloryplume】
+　　　MT　ST　　　　D1　MT　D2　ST
+　 　　　★　　　　　　　　　 ★
+　　　D1　 D2
+　　　(mid)
+　　　H1　H2　　　　D3　H1　H2　D4
+　　D3　　　　D4
+↑(FoA) Spread formation after 1st pizza AoE
+【(FoA) Dodging pizza AoEs】
+Wait at 3rd→Dodge to 1st→Spread/stack at 1st
+【(FoA) Knockback Spread positions】
+　　　　　〇　 　 　 　　
+ST　D2 　★　 H2　D4
+　〇 　D1　 H1　〇
+　　MT　　　　D3
+</code></pre>
 </details>
 
 ## Markers
@@ -192,14 +191,14 @@ ST　D2 　★　 H2　D4
 <details>
   <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
-  ```json
-  {"Name":"P3S","MapID":807,"A":{"X":100.0,"Y":0.0,"Z":81.5,"ID":0,"Active":true},"B":{"X":118.5,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":118.5,"ID":2,"Active":true},"D":{"X":81.5,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":100.0,"Y":0.0,"Z":94.0,"ID":4,"Active":true},"Two":{"X":106.0,"Y":0.0,"Z":100.0,"ID":5,"Active":true},"Three":{"X":100.0,"Y":0.0,"Z":106.0,"ID":6,"Active":true},"Four":{"X":94.0,"Y":0.0,"Z":100.0,"ID":7,"Active":true}}
-  ```
+<pre><code>{"Name":"P3S","MapID":807,"A":{"X":100.0,"Y":0.0,"Z":81.5,"ID":0,"Active":true},"B":{"X":118.5,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":118.5,"ID":2,"Active":true},"D":{"X":81.5,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":100.0,"Y":0.0,"Z":94.0,"ID":4,"Active":true},"Two":{"X":106.0,"Y":0.0,"Z":100.0,"ID":5,"Active":true},"Three":{"X":100.0,"Y":0.0,"Z":106.0,"ID":6,"Active":true},"Four":{"X":94.0,"Y":0.0,"Z":100.0,"ID":7,"Active":true}}
+</code></pre>
+
 </details>
 
 ## Experimental Gloryplume
 
-```text
+```
 【Experimental Gloryplume - Spread】
 　　　MT　ST　　※ Melee (N/W), Ranged (S/E)
 　　D1　▲　D2　※ Explosions-Relative:
@@ -210,7 +209,7 @@ The first Experimental Gloryplume always starts with the four explosions around 
 
 For example, if the first two explosions were the ones below (east and west), then the final spread positions for the black orbs spread would look like:
 
-```text
+```
     3             ST
  2     4       MT    D2
 1       1  →  D1      D4

@@ -8,7 +8,7 @@ PF uses [Hamkatsu's strat](https://www.youtube.com/watch?v=KJZNVq_aVzI) for P2S.
 
 ## English
 
-```text
+```
 【Shockwave stacks】
 　MT H1 D1 D2 (Under boss）
 　ST H2 D3 D4（Aisle）
@@ -28,7 +28,7 @@ PF uses [Hamkatsu's strat](https://www.youtube.com/watch?v=KJZNVq_aVzI) for P2S.
 
 ## Japanese
 
-```text
+```
 【ショックウェーブ・頭割り】
 　MT H1 D1 D2 (ボス下）
 　ST H2 D3 D4（通路）
@@ -57,7 +57,7 @@ All markers are for resolving Kampeos Harma (a.k.a. "Limit Cut")
 <details>
   <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
-  ```json
-  {"Name":"P2S","MapID":811,"A":{"X":87.5,"Y":0.5,"Z":87.5,"ID":0,"Active":true},"B":{"X":112.5,"Y":0.5,"Z":87.5,"ID":1,"Active":true},"C":{"X":112.5,"Y":0.5,"Z":112.5,"ID":2,"Active":true},"D":{"X":87.5,"Y":0.5,"Z":112.5,"ID":3,"Active":true},"One":{"X":100.0,"Y":0.0,"Z":90.5,"ID":4,"Active":true},"Two":{"X":109.5,"Y":0.0,"Z":100.0,"ID":5,"Active":true},"Three":{"X":100.0,"Y":0.0,"Z":109.5,"ID":6,"Active":true},"Four":{"X":90.5,"Y":0.0,"Z":100.0,"ID":7,"Active":true}}
-  ```
+<pre><code>{"Name":"P2S","MapID":811,"A":{"X":87.5,"Y":0.5,"Z":87.5,"ID":0,"Active":true},"B":{"X":112.5,"Y":0.5,"Z":87.5,"ID":1,"Active":true},"C":{"X":112.5,"Y":0.5,"Z":112.5,"ID":2,"Active":true},"D":{"X":87.5,"Y":0.5,"Z":112.5,"ID":3,"Active":true},"One":{"X":100.0,"Y":0.0,"Z":90.5,"ID":4,"Active":true},"Two":{"X":109.5,"Y":0.0,"Z":100.0,"ID":5,"Active":true},"Three":{"X":100.0,"Y":0.0,"Z":109.5,"ID":6,"Active":true},"Four":{"X":90.5,"Y":0.0,"Z":100.0,"ID":7,"Active":true}}
+</code></pre>
+
 </details>
