@@ -3,7 +3,7 @@ layout: default
 title: Zodiark EX
 parent: 6.0 Endwalker
 nav_order: 1
-permalink: /ex_zodiark/
+permalink: /6.0_endwalker/ex_zodiark/
 ---
 
 # The Minstrel's Ballad: Zodiark's Fall

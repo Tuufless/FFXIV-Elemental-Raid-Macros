@@ -2,7 +2,7 @@
 layout: default
 title: P4S P1
 parent: 6.0 Endwalker
-permalink: /p4s_1/
+permalink: /6.0_endwalker/p4s_1/
 ---
 
 # Asphodelos: The Fourth Circle (Savage) - Part 1
