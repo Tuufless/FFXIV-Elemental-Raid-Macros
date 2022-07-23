@@ -53,7 +53,7 @@ Orb priority: Healers＞D1＞D2＞D3＞D4
 
 ## Words of Night (Colours + Portals)
 
-クルル式 (Kururu/Krile strat): [video](https://www.youtu.be/eW5YzRFim1U)
+[クルル式 (Kururu/Krile strat)](https://www.youtu.be/eW5YzRFim1U)
 
 1. Get hit by opposing colour.
 2. Get hit by opposing colour in the NE corner. **Check colour of NW portal.**
