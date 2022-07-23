@@ -1,5 +1,8 @@
 remote_theme: just-the-docs/just-the-docs
 
+plugins:
+  - jekyll-seo-tag
+
 title: "FFXIV Elemental Raid Macros"
 description: "Final Fantasy XIV Elemental DC Raid Macros"
 
