@@ -1,8 +1,10 @@
 ---
 layout: default
 title: P4S P1
-parent: 6.0 Endwalker
-permalink: /6.0_endwalker/p4s_1/
+parent: Savage Raids
+nav_order: "04_1"
+grand_parent: 6.0 Endwalker
+permalink: /6.0_endwalker/savage_raids/p4s_1/
 ---
 
 # Asphodelos: The Fourth Circle (Savage) - Part 1

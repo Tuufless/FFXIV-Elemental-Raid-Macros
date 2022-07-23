@@ -1,8 +1,10 @@
 ---
 layout: default
 title: P3S
-parent: 6.0 Endwalker
-permalink: /6.0_endwalker/p3s/
+parent: Savage Raids
+nav_order: "03"
+grand_parent: 6.0 Endwalker
+permalink: /6.0_endwalker/savage_raids/p3s/
 ---
 
 # Asphodelos: The Third Circle (Savage)
