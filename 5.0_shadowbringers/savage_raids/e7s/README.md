@@ -56,11 +56,11 @@ Orb priority: Healers＞D1＞D2＞D3＞D4
 クルル式 (Kururu/Krile strat): [video](https://www.youtu.be/eW5YzRFim1U)
 
 1. Get hit by opposing colour.
-2. Get hit by opposing colour in the NE corner. *Check colour of NW portal.*
+2. Get hit by opposing colour in the NE corner. **Check colour of NW portal.**
 3. Move one column west to bait AoEs.
 4. Go back to east-most column.
-   - If NW portal was *red*: Switch row, then switch row again after AoEs hit.
-   - If NW portal was *blue*: Stay on the same row all the way. 
+   - If NW portal was **red**: Switch row, then switch row again after AoEs hit.
+   - If NW portal was **blue**: Stay on the same row all the way. 
 
 ## 1st Away with Thee
 

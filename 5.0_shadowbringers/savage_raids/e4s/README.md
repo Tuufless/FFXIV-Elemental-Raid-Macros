@@ -18,8 +18,8 @@ There were two strategies used in the final phase (Orogenesis); Amaya, and Idyll
 
 ## Approximate milestones
 
-- 69% at the transition to Titan Maximum
-- 29% at the start of the Orogenesis phase
+- **69%** at the transition to Titan Maximum
+- **29%** at the start of the Orogenesis phase
 
 ## Fixed tiles/マス固定
 

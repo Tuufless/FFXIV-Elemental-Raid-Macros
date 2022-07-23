@@ -92,17 +92,17 @@ By the end of the tier, the most common strategies were "DD out", "Ayatori Light
 ### Diamond Frost/ダイモンド・ダスト(DD)
 
 (Yes, it's called "Diamond Frost", not "Diamond Dust" in English...)
-  - *DD in/内捨て*: Everyone gets knocked back to the edges.
-  - *DD out/外捨て*: Only Flare'd healer gets knocked back. Everyone else uses Arm's Length/Surecast. DPS baiting AoEs start in the south sector.
+  - **DD in/内捨て**: Everyone gets knocked back to the edges.
+  - **DD out/外捨て**: Only Flare'd healer gets knocked back. Everyone else uses Arm's Length/Surecast. DPS baiting AoEs start in the south sector.
 
 *Driving/Biting Frost*:
-  - *Japanese* parties will always face the boss outside the arena, and it is the party's responsibility to move to the safe side.
-  - *English* parties will have the MT turn the boss so the safe side faces the party (i.e: if the boss did Biting Frost first)
+  - **Japanese** parties will always face the boss outside the arena, and it is the party's responsibility to move to the safe side.
+  - **English** parties will have the MT turn the boss so the safe side faces the party (i.e: if the boss did Biting Frost first)
 
 
 ### Light Rampant/光の暴走
 
-The standard is *Ayatori's strat/あやとり式*:
+The standard is **Ayatori's strat/あやとり式**:
 
 JP: [video](https://youtu.be/AXVwgQRr3J0?t=198)
 JP: [video](https://youtu.be/pmYgfT3Dbno)
@@ -113,14 +113,14 @@ EN guide (Nic#3333): [link](https://docs.google.com/presentation/d/1J-Niu4T-joOK
 
 (In particular, the Hallowed Wings to the front)
 There are three main ways of doing this-
-- *アーサー/"Arthars' strat"/"KB Uptime strat"*: Arm's Length/Surecast both knockbacks. Surecast timing is tight; screwing it up will get you tossed off the arena.
+- **アーサー/"Arthars' strat"/"KB Uptime strat"**: Arm's Length/Surecast both knockbacks. Surecast timing is tight; screwing it up will get you tossed off the arena.
 
 Twitch clip: [video](https://clips.twitch.tv/InquisitiveCheerfulClamHassanChop)
 JP explanation: [video](https://youtu.be/hCiDNU6pIxk)
 
-- *赤固定:/"Fixed at red"*: Party moves towards the red mirror and uses Arm's Length/Surecast. Party will get knocked back on the third Wings. Safest, but less uptime compared to Arthas'.
+- **赤固定:/"Fixed at red"**: Party moves towards the red mirror and uses Arm's Length/Surecast. Party will get knocked back on the third Wings. Safest, but less uptime compared to Arthas'.
 
-- *色固定/"Fixed at colours"*: Party moves towards the green mirror. No Arm's Length/Surecast. Party will get knocked twice, on the second and third Wings. This strat is the least common.
+- **色固定/"Fixed at colours"**: Party moves towards the green mirror. No Arm's Length/Surecast. Party will get knocked twice, on the second and third Wings. This strat is the least common.
 
 ### Final Akh Morns/最終のアク・モーン
 
@@ -128,8 +128,8 @@ D2 and D3 will need to swap Akh Morn stacks if both reds or both blues are on th
 
 ## Markers
 
-*Markers (inside DD/DD内捨て)*
+**Markers (inside DD/DD内捨て)**
 ![](images/markers_inside_dd.jpg)
 
-*Outside DD/DD外捨て*
+**Outside DD/DD外捨て**
 ![](images/markers_outside_dd.jpg)
