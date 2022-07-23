@@ -9,7 +9,7 @@ permalink: /5.0_shadowbringers/savage_raids/e6s/
 
 # Eden's Verse: Furor (Savage)
 
-- [Akito's strat (アキト式)](https://www.youtu.be/dAzhPxWFao4)  
+- [Akito's strat (アキト式)](https://youtu.be/dAzhPxWFao4)  
 - [Amaya's strat (あまや式)](https://jp.finalfantasyxiv.com/lodestone/character/9416493/blog/4354941/)
 
 ## English
