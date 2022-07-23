@@ -106,10 +106,10 @@ By the end of the tier, the most common strategies were "DD out", "Ayatori Light
 
 The standard is **Ayatori's strat/あやとり式**:
 
-JP: [video](https://youtu.be/AXVwgQRr3J0?t=198)  
-JP: [video](https://youtu.be/pmYgfT3Dbno)  
-EN (Zuinx#3536): [video](ttps://youtu.be/ySKy8uXRcxc)  
-EN guide (Nic#3333): [link](https://docs.google.com/presentation/d/1J-Niu4T-joOKG0Kt3vv7UzBBNUZ6PMXUTQTvoEZehRU/)  
+- JP: [video](https://youtu.be/AXVwgQRr3J0?t=198)
+- JP: [video](https://youtu.be/pmYgfT3Dbno)
+- EN (Zuinx#3536): [video](https://youtu.be/ySKy8uXRcxc)
+- EN guide (Nic#3333): [link](https://docs.google.com/presentation/d/1J-Niu4T-joOKG0Kt3vv7UzBBNUZ6PMXUTQTvoEZehRU/)
 
 ## Hallowed Wings/ぼよんぼよん
 
@@ -117,8 +117,8 @@ EN guide (Nic#3333): [link](https://docs.google.com/presentation/d/1J-Niu4T-joOK
 There are three main ways of doing this-
 - **アーサー/"Arthars' strat"/"KB Uptime strat"**: Arm's Length/Surecast both knockbacks. Surecast timing is tight; screwing it up will get you tossed off the arena.
 
-Twitch clip: [video](https://clips.twitch.tv/InquisitiveCheerfulClamHassanChop)  
-JP explanation: [video](https://youtu.be/hCiDNU6pIxk)  
+  - Twitch clip: [video](https://clips.twitch.tv/InquisitiveCheerfulClamHassanChop)
+  - JP explanation: [video](https://youtu.be/hCiDNU6pIxk)  
 
 - **赤固定:/"Fixed at red"**: Party moves towards the red mirror and uses Arm's Length/Surecast. Party will get knocked back on the third Wings. Safest, but less uptime compared to Arthas'.
 

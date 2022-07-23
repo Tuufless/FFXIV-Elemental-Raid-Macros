@@ -9,8 +9,8 @@ permalink: /5.0_shadowbringers/savage_raids/e11s/
 
 # Eden's Promise: Anamorphosis (Savage)
 
-[Akito](https://youtu.be/b7g-6n4VSoY)  
-[Shinosho](https://youtu.be/7oHPKKDYgto)
+- [Akito's strat (あきと式)](https://youtu.be/b7g-6n4VSoY)
+- [Shinosho's strat (しのしょー式)](https://youtu.be/7oHPKKDYgto)
 
 The two are effectively identical if doing the Hobolala strat for Sundered Sky. The only difference to check is the second Turn of the Heavens.
 
@@ -109,9 +109,9 @@ This is the de-facto way to resolve Sundered Sky in PF.
 1. Knockback → run anti-clockwise around
 2. Fire out, Light in
 
-**PoV videos:**  
-[Tuufless Tsuu](https://youtu.be/ktKdsw_3g78)  
-[Alanea Alice](https://youtu.be/PxPbepykI6I)
+**PoV videos:**
+- [Tuufless Tsuu](https://youtu.be/ktKdsw_3g78)
+- [Alanea Alice](https://youtu.be/PxPbepykI6I)
 
 ## 2nd Turn of the Heavens
 

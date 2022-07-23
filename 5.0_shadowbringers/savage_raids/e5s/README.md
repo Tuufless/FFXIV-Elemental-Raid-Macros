@@ -9,8 +9,8 @@ permalink: /5.0_shadowbringers/savage_raids/e5s/
 
 # Eden's Verse: Fulmination (Savage)
 
-[Amaya's strat (あまや式)](https://na.finalfantasyxiv.com/lodestone/character/9416493/blog/4353949/)  
-[Akito's strat (アキト式)](https://youtu.be/0LTiI3Ft-xw)
+- [Amaya's strat (あまや式)](https://na.finalfantasyxiv.com/lodestone/character/9416493/blog/4353949/)
+- [Akito's strat (アキト式)](https://youtu.be/0LTiI3Ft-xw)
 
 ## English
 ```
