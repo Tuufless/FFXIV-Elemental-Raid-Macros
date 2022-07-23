@@ -9,7 +9,7 @@ permalink: /6.0_endwalker/savage_raids/p4s_2/
 
 # Asphodelos: The Fourth Circle (Savage) - Part 2
 
-PF uses [Inumaru's strat](https://www.youtube.com/watch?v=1sfnBHXf2nA) (essentially identical to the Idyllshire strat, except for Act 3), with the following modifications:
+PF uses [Inumaru's strat](https://youtu.be/1sfnBHXf2nA) (essentially identical to the Idyllshire strat, except for Act 3), with the following modifications:
 
 - **Japanese** parties will do Inumaru's strat for Act3.
 - **English** parties will do Xeno's strat for Act 3.
@@ -18,6 +18,7 @@ PF uses [Inumaru's strat](https://www.youtube.com/watch?v=1sfnBHXf2nA) (essentia
   - DPS cut theirs at 11 seconds remaining.
 
 ## English
+
 English parties will do Xeno's strat for Act 3.
 ```
 ―――《Act 1》―――――《Act 2 (Idyll)》――――
@@ -201,3 +202,8 @@ Note that English and Japanese groups will do different Act 3 strats.
   - Tanks/Melee and Healers/Ranged alternate taking towers + Earthshakers.
 - Japanese groups will use [Inumaru's Act 3](https://youtu.be/1sfnBHXf2nA?t=627).
   - Tanks/Melee take all Earthshakers. Healers/Ranged take all towers.
+
+## Timeline
+
+![](https://preview.redd.it/tskvunw5vvb81.png?width=3200&format=png&auto=webp&s=ca69a6132e5aac040f4afd7c21c55bfa6a95c860)
+*(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/s3yfu8/p4s_rotation_and_timeline/))*

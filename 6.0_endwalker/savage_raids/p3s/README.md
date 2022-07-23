@@ -9,15 +9,16 @@ permalink: /6.0_endwalker/savage_raids/p3s/
 
 # Asphodelos: The Third Circle (Savage)
 
-PF uses [Inumaru's strat](https://www.youtube.com/watch?v=BHMjrxpZb7k) as a base, but puts Darkened Fires (闇の炎) on intercardinal positions (Shinosho), and replaces Fountain of Fire (霊泉) with Mr. Happy's strat (see below).
+PF uses [Inumaru's strat](https://youtu.be/BHMjrxpZb7k) as a base, but puts Darkened Fires (闇の炎) on intercardinal positions (Shinosho), and replaces Fountain of Fire (霊泉) with Mr. Happy's strat (see below).
 
 English parties replace Firestorms of Asphodelos (FoA) with "my" strat (see below).
 
-#### Things to check
+#### Things to check on Party Finder
 
 - Check the positions for the transition *(older macros may have different positioning)*
 
 ## English
+
 This is the macro often used in **English** parties. In particular, Firestorms of Asphodelos is, er, ["my" strat](#firestorms-of-asphodelos).
 ```
 　【Darkened Fire】　　【Transition】
@@ -200,6 +201,7 @@ ST　D2 　★　 H2　D4
 	- Placing the eye thingies during Fledgling Flight.
 
 ![](images/markers.jpg)
+
 <details>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
@@ -242,4 +244,8 @@ There are two main ways of doing Firestorms of Asphodelos (FoA) in PF.
   - Explanations [in English](https://ffxiv.link/061500) and [in Japanese](https://ffxiv.link/062054)
   - **Healers** + Melee north
   - **Tanks** + Ranged south.
-  
+
+## Timeline
+
+![](https://preview.redd.it/zni62rkskmb81.png?width=3200&format=png&auto=webp&s=778db6ee45958802800f16e5f9c59bedcc5b3dd3)
+*(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/s3on6c/p3s_rotation_and_timeline/))*

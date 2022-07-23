@@ -11,10 +11,10 @@ permalink: /6.0_endwalker/savage_raids/p1s/
 
 PF references the following guides for P1S:
 
-- [Inumaru](https://www.youtube.com/watch?v=Hb7zp2AUACA)
-- [Nukemaru](https://www.youtube.com/watch?v=6Q2IMu5cINQ)
+- [Inumaru](https://youtu.be/Hb7zp2AUACA)
+- [Nukemaru](https://youtu.be/6Q2IMu5cINQ)
 
-#### Things to check
+#### Things to check on Party Finder
 
 - Check the chain pairs (Japanese groups pair MT+D4 instead of MT+D3, etc.)
 - Check the markers. In particular, Japanese groups rotate all the outer markers clockwise.
@@ -71,3 +71,8 @@ The markers are for the purple/red chains. `1234` are for the red chains, while 
 </code></pre></div></div>
 
 </details>
+
+## Timeline
+
+![](https://preview.redd.it/f2989qjawmb81.png?width=3200&format=png&auto=webp&s=6eb36b34199be0a4c2280b2d9a5fd19044291955)
+*(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/s35m0i/p1s_rotation_and_timeline/))*
