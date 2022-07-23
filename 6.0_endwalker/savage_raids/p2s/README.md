@@ -1,15 +1,17 @@
 ---
 layout: default
 title: P2S
-parent: 6.0 Endwalker
-permalink: /6.0_endwalker/p2s/
+parent: Savage Raids
+nav_order: "02"
+grand_parent: 6.0 Endwalker
+permalink: /6.0_endwalker/savage_raids/p2s/
 ---
 
 # Asphodelos: The Second Circle (Savage)
 
-PF uses [Hamkatsu's strat](https://www.youtube.com/watch?v=KJZNVq_aVzI) for P2S.
+PF uses [Hamkatsu's strat](https://youtu.be/KJZNVq_aVzI) for P2S.
 
-#### Things to check
+#### Things to check on Party Finder
 
 - Check whether the party plans to Tank LB3 the final Channeling Overflow + Coherence combo.
 
@@ -69,3 +71,8 @@ All markers are for resolving Kampeos Harma (a.k.a. "Limit Cut")
 </code></pre></div></div>
 
 </details>
+
+## Timeline
+
+![](https://preview.redd.it/tyzwz0ilkmb81.png?width=3200&format=png&auto=webp&s=24eee61349aaf656e39d387c5036003035a7ba69)
+*(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/s3omn1/p2s_rotation_and_timeline/))*

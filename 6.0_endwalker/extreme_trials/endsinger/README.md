@@ -1,14 +1,15 @@
 ---
 layout: default
-title: Meteion EX
-parent: 6.0 Endwalker
+title: Endsinger EX
+parent: Extreme Trials
 nav_order: 3
-permalink: /6.0_endwalker/ex_endsinger/
+grand_parent: 6.0 Endwalker
+permalink: /6.0_endwalker/extreme_trials/endsinger/
 ---
 
 # The Minstrel's Ballad: The Endsinger's Aria
 
-PF largely follows [Nukemaru's guide](https://www.youtube.com/watch?v=dwZ8uVCPI80).
+PF largely follows [Nukemaru's guide](https://youtu.be/dwZ8uVCPI80).
 
 ## English
 ```

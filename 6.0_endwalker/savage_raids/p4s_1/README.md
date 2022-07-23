@@ -1,24 +1,27 @@
 ---
 layout: default
 title: P4S P1
-parent: 6.0 Endwalker
-permalink: /6.0_endwalker/p4s_1/
+parent: Savage Raids
+nav_order: "04_1"
+grand_parent: 6.0 Endwalker
+permalink: /6.0_endwalker/savage_raids/p4s_1/
 ---
 
 # Asphodelos: The Fourth Circle (Savage) - Part 1
 
-PF uses [Inumaru's strat](https://www.youtube.com/watch?v=LtrXblj9mJo) as a base, and:
+PF uses [Inumaru's strat](https://youtu.be/LtrXblj9mJo) as a base, and:
 
 - Swap in [YPP's strat](#ypp) for passing/resolving tethers and debuffs.
 - Orb strats differ depending on the party.
-    - Japanese parties will use Inumaru's strat, with [cardinal Braindead orbs](https://youtu.be/wq3lMm5Osu0?t=437).
-    - English parties will use Inumaru's strat, typically with [Gumi's orbs](https://clips.twitch.tv/HedonisticLitigiousEyeballKippa-DwseFBSlll7XJjC1).
+  - **Japanese** parties will use Inumaru's strat, with [cardinal Braindead orbs](https://youtu.be/wq3lMm5Osu0?t=437).
+  - **English** parties will use Inumaru's strat, typically with [Gumi's orbs](https://clips.twitch.tv/HedonisticLitigiousEyeballKippa-DwseFBSlll7XJjC1).
 
-#### Things to check
+#### Things to check on Party Finder
 
 - Check green orb spread positions *(There are **multiple** orb strats)*
 
 ## English
+
 I personally recommend "Braindead" orbs, although English parties often prefer Gumi orbs (below, in the hideaway) for legacy reasons.
 ```
 ―《Basic Spread》―――――――――――――――
@@ -128,3 +131,8 @@ Please also refer to the following guides:
 
 - [Nukemaru](https://youtu.be/wq3lMm5Osu0?t=36) *(Japanese)*
 - [Hamkatsu](https://youtu.be/-PlvK8M6h-w) *(Japanese)*
+
+## Timeline
+
+![](https://preview.redd.it/xnx4nnpozob81.png?width=3200&format=png&auto=webp&s=f7b169a040771410d2f4eab2a3d3e997226673a1)
+*(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/s3yfu8/p4s_rotation_and_timeline/))*

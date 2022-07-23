@@ -19,20 +19,20 @@ Of course, there will probably be small differences between the macros here and 
 The current item level cap is **iLvl 605**.
 
 **Extreme Trials:**
-- **Zodiark EX** - [The Minstrel's Ballad: Zodiark's Fall](6.0_endwalker/ex_zodiark/README.md)
-- **Hydaelyn EX** - [The Minstrel's Ballad: Hydaelyn's Call](6.0_endwalker/ex_hydaelyn/README.md)
-- **Meteion EX** - [The Minstrel's Ballad: The Endsinger's Aria](6.0_endwalker/ex_endsinger/README.md)
+- **Zodiark EX** - [The Minstrel's Ballad: Zodiark's Fall](6.0_endwalker/extreme_trials/zodiark/README.md)
+- **Hydaelyn EX** - [The Minstrel's Ballad: Hydaelyn's Call](6.0_endwalker/extreme_trials/hydaelyn/README.md)
+- **Endsinger EX** - [The Minstrel's Ballad: The Endsinger's Aria](6.0_endwalker/extreme_trials/endsinger/README.md)
 
 **Unreal Trial:**
 - Ultima's Bane (Unreal)
 
 **Savage Raids:**
-- **P1S** - [Asphodelos: The First Circle (Savage)](6.0_endwalker/p1s/README.md)
-- **P2S** - [Asphodelos: The Second Circle (Savage)](6.0_endwalker/p2s/README.md)
-- **P3S** - [Asphodelos: The Third Circle (Savage)](6.0_endwalker/p3s/README.md)
+- **P1S** - [Asphodelos: The First Circle (Savage)](6.0_endwalker/savage_raids/p1s/README.md)
+- **P2S** - [Asphodelos: The Second Circle (Savage)](6.0_endwalker/savage_raids/p2s/README.md)
+- **P3S** - [Asphodelos: The Third Circle (Savage)](6.0_endwalker/savage_raids/p3s/README.md)
 - **P4S** - Asphodelos: The Fourth Circle (Savage)
-	- [Part 1](6.0_endwalker/p4s_1/README.md)
-	- [Part 2](6.0_endwalker/p4s_2/README.md)
+	- [Part 1](6.0_endwalker/savage_raids/p4s_1/README.md)
+	- [Part 2](6.0_endwalker/savage_raids/p4s_2/README.md)
 
 **Ultimate Raids:**
 - The Minstrel's Ballad: Dragonsong's Reprise

@@ -1,16 +1,17 @@
 ---
 layout: default
 title: Zodiark EX
-parent: 6.0 Endwalker
+parent: Extreme Trials
 nav_order: 1
-permalink: /6.0_endwalker/ex_zodiark/
+grand_parent: 6.0 Endwalker
+permalink: /6.0_endwalker/extreme_trials/zodiark/
 ---
 
 # The Minstrel's Ballad: Zodiark's Fall
 
 No macro needed for this fight! *(just dodge everything)*
 
-- [Nukemaru](https://www.youtube.com/watch?v=fg-NG2EQY-o)
+- [Nukemaru](https://youtu.be/fg-NG2EQY-o)
 
 ## Markers
 
