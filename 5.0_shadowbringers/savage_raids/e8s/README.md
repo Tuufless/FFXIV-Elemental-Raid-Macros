@@ -8,7 +8,7 @@ permalink: /5.0_shadowbringers/savage_raids/e8s/
 
 # Eden's Verse: Refulgence (Savage)
 
-By the end of the tier, the most common strategies were "DD out", "Ayatori Light Rampant" and "Arthas' strat" (a.k.a. "KB uptime)
+By the end of the tier, the most common strategies were "DD out", "Ayatori Light Rampant" and "Arthars' strat" (a.k.a. "KB uptime)
 
 ## Timeline
 
@@ -113,7 +113,7 @@ EN guide (Nic#3333): [link](https://docs.google.com/presentation/d/1J-Niu4T-joOK
 
 (In particular, the Hallowed Wings to the front)
 There are three main ways of doing this-
-- *アーサー/"Arthas's strat"/"KB Uptime strat"*: Arm's Length/Surecast both knockbacks. Surecast timing is tight; screwing it up will get you tossed off the arena.
+- *アーサー/"Arthars' strat"/"KB Uptime strat"*: Arm's Length/Surecast both knockbacks. Surecast timing is tight; screwing it up will get you tossed off the arena.
 
 Twitch clip: [video](https://clips.twitch.tv/InquisitiveCheerfulClamHassanChop)
 JP explanation: [video](https://youtu.be/hCiDNU6pIxk)
