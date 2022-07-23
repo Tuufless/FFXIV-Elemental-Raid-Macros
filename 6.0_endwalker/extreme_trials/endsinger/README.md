@@ -9,7 +9,7 @@ permalink: /6.0_endwalker/extreme_trials/endsinger/
 
 # The Minstrel's Ballad: The Endsinger's Aria
 
-PF largely follows [Nukemaru's guide](https://www.youtube.com/watch?v=dwZ8uVCPI80).
+PF largely follows [Nukemaru's guide](https://youtu.be/dwZ8uVCPI80).
 
 ## English
 ```
