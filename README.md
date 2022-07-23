@@ -21,7 +21,7 @@ The current item level cap is **iLvl 605**.
 **Extreme Trials:**
 - **Zodiark EX** - [The Minstrel's Ballad: Zodiark's Fall](6.0_endwalker/extreme_trials/zodiark/README.md)
 - **Hydaelyn EX** - [The Minstrel's Ballad: Hydaelyn's Call](6.0_endwalker/extreme_trials/hydaelyn/README.md)
-- **Meteion EX** - [The Minstrel's Ballad: The Endsinger's Aria](6.0_endwalker/extreme_trials/endsinger/README.md)
+- **Endsinger EX** - [The Minstrel's Ballad: The Endsinger's Aria](6.0_endwalker/extreme_trials/endsinger/README.md)
 
 **Unreal Trial:**
 - Ultima's Bane (Unreal)
