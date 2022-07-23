@@ -2,6 +2,7 @@
 layout: default
 title: E6S
 parent: Savage Raids
+nav_order: 6
 grand_parent: 5.0 Shadowbringers
 permalink: /5.0_shadowbringers/savage_raids/e6s/
 ---

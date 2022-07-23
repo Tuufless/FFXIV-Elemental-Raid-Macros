@@ -2,6 +2,7 @@
 layout: default
 title: E9S
 parent: Savage Raids
+nav_order: 9
 grand_parent: 5.0 Shadowbringers
 permalink: /5.0_shadowbringers/savage_raids/e9s/
 ---
