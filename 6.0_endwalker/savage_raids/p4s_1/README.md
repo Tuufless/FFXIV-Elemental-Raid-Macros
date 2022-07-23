@@ -9,8 +9,6 @@ permalink: /6.0_endwalker/savage_raids/p4s_1/
 
 # Asphodelos: The Fourth Circle (Savage) - Part 1
 
-## Strategy
-
 PF uses [Inumaru's strat](https://youtu.be/LtrXblj9mJo) as a base, and:
 
 - Swap in [YPP's strat](#ypp) for passing/resolving tethers and debuffs.
@@ -18,7 +16,7 @@ PF uses [Inumaru's strat](https://youtu.be/LtrXblj9mJo) as a base, and:
   - **Japanese** parties will use Inumaru's strat, with [cardinal Braindead orbs](https://youtu.be/wq3lMm5Osu0?t=437).
   - **English** parties will use Inumaru's strat, typically with [Gumi's orbs](https://clips.twitch.tv/HedonisticLitigiousEyeballKippa-DwseFBSlll7XJjC1).
 
-## Things to check on Party Finder
+#### Things to check on Party Finder
 
 - Check green orb spread positions *(There are **multiple** orb strats)*
 
