@@ -2,7 +2,7 @@
 layout: default
 title: E1S
 parent: Savage Raids
-nav_order: 01
+nav_order: "01"
 grand_parent: 5.0 Shadowbringers
 permalink: /5.0_shadowbringers/savage_raids/e1s/
 ---
