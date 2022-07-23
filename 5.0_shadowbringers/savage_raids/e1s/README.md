@@ -6,7 +6,7 @@ grand_parent: 5.0 Shadowbringers
 permalink: /5.0_shadowbringers/savage_raids/e1s/
 ---
 
-# Eden's Gate: Resurrection
+# Eden's Gate: Resurrection (Savage)
 
 ## Timeline
 

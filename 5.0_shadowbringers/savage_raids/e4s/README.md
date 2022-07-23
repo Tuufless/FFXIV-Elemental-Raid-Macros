@@ -6,7 +6,7 @@ grand_parent: 5.0 Shadowbringers
 permalink: /5.0_shadowbringers/savage_raids/e4s/
 ---
 
-# Eden's Gate: Sepulture
+# Eden's Gate: Sepulture (Savage)
 
 There were two strategies used in the final phase (Orogenesis); Amaya, and Idyll (also known as "1A"). By the end of the tier, Amaya was the more common strategy.
 
@@ -26,6 +26,7 @@ There were two strategies used in the final phase (Orogenesis); Amaya, and Idyll
 This is an evolution of Amaya's strategy, and largely became the PF standard. It is characterized in the final phase (Orogenesis) by having the party rotate along with the exploding tile in the center.
 
 Guide (Japanese): [link](https://jp.finalfantasyxiv.com/lodestone/character/9416493/blog/4188969/)
+
 Orogenesis: [video](https://youtu.be/wyCey_t9MiI)
 
 ### English
@@ -85,6 +86,7 @@ Orogenesis: [video](https://youtu.be/wyCey_t9MiI)
 The other strategy used for Orogenesis was the Idyll strat (イディル式). This strat is characterized by bringing Titan north in line with the second row of tiles. Yellow melee are resolved on the top two rows, while Orange stack is resolved on the third row from the top.
 
 Guide (Japanese): [link](http://kanatan.info/archives/18869710.html)
+
 Orogenesis: [video](https://youtu.be/HRN7Fw9xbrA)
 
 ### English

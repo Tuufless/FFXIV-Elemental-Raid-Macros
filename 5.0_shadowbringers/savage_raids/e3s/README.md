@@ -6,7 +6,7 @@ grand_parent: 5.0 Shadowbringers
 permalink: /5.0_shadowbringers/savage_raids/e3s/
 ---
 
-# Eden's Gate: Inundation
+# Eden's Gate: Inundation (Savage)
 
 ## Timeline
 

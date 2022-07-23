@@ -6,7 +6,7 @@ grand_parent: 5.0 Shadowbringers
 permalink: /5.0_shadowbringers/savage_raids/e2s/
 ---
 
-# Eden's Gate: Descent
+# Eden's Gate: Descent (Savage)
 
 ## Timeline
 
