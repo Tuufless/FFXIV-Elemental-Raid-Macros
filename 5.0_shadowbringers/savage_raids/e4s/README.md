@@ -2,7 +2,7 @@
 layout: default
 title: E4S
 parent: Savage Raids
-nav_order: 4
+nav_order: 04
 grand_parent: 5.0 Shadowbringers
 permalink: /5.0_shadowbringers/savage_raids/e4s/
 ---

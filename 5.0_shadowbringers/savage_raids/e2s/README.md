@@ -2,7 +2,7 @@
 layout: default
 title: E2S
 parent: Savage Raids
-nav_order: 2
+nav_order: 02
 grand_parent: 5.0 Shadowbringers
 permalink: /5.0_shadowbringers/savage_raids/e2s/
 ---

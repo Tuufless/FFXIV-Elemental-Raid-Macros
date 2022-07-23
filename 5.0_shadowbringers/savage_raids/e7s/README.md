@@ -2,7 +2,7 @@
 layout: default
 title: E7S
 parent: Savage Raids
-nav_order: 7
+nav_order: 07
 grand_parent: 5.0 Shadowbringers
 permalink: /5.0_shadowbringers/savage_raids/e7s/
 ---
