@@ -5,6 +5,12 @@ description: "Final Fantasy XIV Elemental DC Raid Macros"
 
 color_scheme: dark
 
+aux_links:
+  "Elemental DC Raid Macros Discord":
+    - "https://discord.gg/WEzhVHwAU6"
+
+aux_links_new_tab: true
+
 back_to_top: true
 back_to_top_text: "Back to top"
 
