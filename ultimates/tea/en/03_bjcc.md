@@ -5,7 +5,7 @@ parent: TEA
 grand_parent: Ultimates
 ---
 
-## Brute Justice + Cruise Chaser
+# Brute Justice + Cruise Chaser
 
 My preferred method of doing this phase is using [my Tollgate strat](https://na.finalfantasyxiv.com/lodestone/character/10898230/blog/4941271/).
 
