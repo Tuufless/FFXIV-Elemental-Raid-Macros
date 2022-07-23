@@ -11,7 +11,7 @@ permalink: /6.0_endwalker/extreme_trials/ex_zodiark/
 
 No macro needed for this fight! *(just dodge everything)*
 
-- [Nukemaru](https://www.youtube.com/watch?v=fg-NG2EQY-o)
+- [Nukemaru](https://youtu.be/fg-NG2EQY-o)
 
 ## Markers
 

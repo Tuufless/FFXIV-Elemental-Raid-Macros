@@ -9,7 +9,7 @@ permalink: /6.0_endwalker/extreme_trials/ex_hydaelyn/
 
 # The Minstrel's Ballad: Hydaelyn's Call
 
-PF uses [Hamkatsu's strat](https://www.youtube.com/watch?v=xrN2viqpTqc) *(yes, this is the downtime Chakrams strat)*
+PF uses [Hamkatsu's strat](https://youtu.be/xrN2viqpTqc) *(yes, this is the downtime Chakrams strat)*
 
 ## English
 
