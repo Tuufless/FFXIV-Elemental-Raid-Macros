@@ -8,7 +8,7 @@ permalink: /6.0_endwalker/ex_endsinger/
 
 # The Minstrel's Ballad: The Endsinger's Aria
 
-- [Nukemaru](https://www.youtube.com/watch?v=dwZ8uVCPI80)
+PF largely follows [Nukemaru's guide](https://www.youtube.com/watch?v=dwZ8uVCPI80).
 
 ## English
 ```
@@ -59,9 +59,8 @@ All markers are the player positions for Flare/AoEs during Theological Fatalism 
 You also want to mark the two healers for stacks.
 ![](images/markers.jpg)
 
-## Strategy notes
+## Theological Fatalism (5-heads)
 
-### Theological Fatalism (5-heads)
 An easy way to resolve the 5-heads mechanic is:
 
 1. From the third donut, determine whether your current quadrant will be cleaved by the center head:
@@ -74,5 +73,8 @@ An easy way to resolve the 5-heads mechanic is:
 ![](images/five_head.jpg)
 *(Credit: [Nukemaru](https://twitter.com/nukemarugames/status/1514278676359446528?s=20&t=olONmsjUl90VIwjrZNqbtQ))*
 
-### 2x Fatalism
-If you have LB3 available during the 2x Fatalism (quadruple planets), a Tank LB3 right after the second planet collision will allow players to survive red planet hits during the harder "blue-to-red" planet sequence. To get the LB3 by this time, you will need a standard party setup with no duplicate jobs.
+## 2x Fatalism
+
+If you have LB3 available during the 2x Fatalism (quadruple planets), a Tank LB3 right after the second planet collision will allow players to survive red planet hits during the harder "blue-to-red" planet sequence.
+
+To get the LB3 by this time, you will need a standard party setup with no duplicate jobs.

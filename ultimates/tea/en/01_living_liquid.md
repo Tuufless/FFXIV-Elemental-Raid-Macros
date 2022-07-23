@@ -5,7 +5,7 @@ parent: TEA
 grand_parent: Ultimates
 ---
 
-## Living Liquid
+# Living Liquid
 
 This is a slightly modified version of the original Separations Living Liquid strat.
 
