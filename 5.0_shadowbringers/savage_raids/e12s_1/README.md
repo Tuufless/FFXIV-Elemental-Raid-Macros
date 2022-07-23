@@ -9,12 +9,17 @@ permalink: /5.0_shadowbringers/savage_raids/e12s_1/
 
 # Eden's Promise: Eternity (Savage) Part 1
 
-## Timeline
+## Strategy
 
-![](https://preview.redd.it/qknoduxviu661.png?width=3200&format=png&auto=webp&s=022e19c71dbde233dffe6ff5256bcc609449ebdc)
-*(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/khx7wr/e12s_part_i_timeline_image/))*
+The standard PF strat takes [Idyll strat (イディル式)](http://kanatan.info/archives/25637304.html) positions for Titan, but use [Akito's strat (あきと式)](https://youtu.be/hdLm1Q1BEWg) for Giants (巨人) and Lion. (Akito brings the boss down to the south edge and has the statue stacks north and south of the boss.)
 
-## Aproximate milestones
+#### Things to check on Party Finder
+
+- Check Shiva spread positions- some macros have the healers on the NW and SE diagonals.
+- Decide which tank is going to Reprisal Obliterations, and which tank will Reprisal Diamond Dust and Earthern Fury.
+- Sort out tank Invulns for the three Formless Judgments. If there is a PLD, they should Hallowed Ground the 2nd , and the other tank should Invuln the 1st and 3rd.
+
+#### Aproximate milestones
 
 - **54%** HP at the end of Titan phase (when the floor changes back).
 - **23%** HP at the end of Lions (when the Lions disappear).
@@ -60,31 +65,6 @@ D1 ST  D2     |   散開はマップ基準
 　※沼捨て順：外周→左→右
 ```
 
-## Strategy
-
-The standard PF strat takes Idyll positions for Titan, but use Akito for Giants (巨人) and Lion. (Akito brings the boss down to the south edge and has the statue stacks north and south of the boss.)
-
-Idyll strat (イディル式) (Japanese): [link](http://kanatan.info/archives/25637304.html)
-
-Akito's strat/あきと式 (Japanese): [video](https://youtu.be/hdLm1Q1BEWg)
-
-### Akito TT Lion strat/ライオンAkitoTT式
-
-Explanation (Japanese): [video](https://youtu.be/hdLm1Q1BEWg?t=657)
-
-**Baiting small lions**: Where players stand to bait the small lions will depend on which markers you use (see marker images above).
-
-**Baiting big lions**: The second and third big lion baits should not be all the way at the edge of the arena. The center of the lion is just under two tiles away from the edge of the arena.
-
-If you go all the way to the edge of the arena to bait the second or third big lion, you are actually going further from the big lion, and the big lion will target the person standing at `A` or `C` instead. 
-![](images/akito_lions.jpg)
-
-## Things to check on Party Finder
-
-- Check Shiva spread positions- some macros have the healers on the NW and SE diagonals.
-- Decide which tank is going to Reprisal Obliterations, and which tank will Reprisal Diamond Dust and Earthern Fury.
-- Sort out tank Invulns for the three Formless Judgments. If there is a PLD, they should Hallowed Ground the 2nd , and the other tank should Invuln the 1st and 3rd.
-
 ## Markers
 
 There are two sets of markers used in PF, that are used for the Lions phase. 
@@ -108,3 +88,19 @@ Small lions are pointed towards specific corners of the square markers, while th
 The main way PF handles the giants is Akito's method or more commonly referred to as N/S giants (巨人南北):
 
 **Akito/1A**: MT brings boss south, party stacks north and south. MT group stacks south, OT group stacks north (since the boss will be facing south)
+
+## Akito TT Lion strat/ライオンAkitoTT式
+
+Explanation (Japanese): [video](https://youtu.be/hdLm1Q1BEWg?t=657)
+
+**Baiting small lions**: Where players stand to bait the small lions will depend on which markers you use (see marker images above).
+
+**Baiting big lions**: The second and third big lion baits should not be all the way at the edge of the arena. The center of the lion is just under two tiles away from the edge of the arena.
+
+If you go all the way to the edge of the arena to bait the second or third big lion, you are actually going further from the big lion, and the big lion will target the person standing at `A` or `C` instead. 
+![](images/akito_lions.jpg)
+
+## Timeline
+
+![](https://preview.redd.it/qknoduxviu661.png?width=3200&format=png&auto=webp&s=022e19c71dbde233dffe6ff5256bcc609449ebdc)
+*(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/khx7wr/e12s_part_i_timeline_image/))*

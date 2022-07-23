@@ -11,13 +11,7 @@ permalink: /5.0_shadowbringers/savage_raids/e4s/
 
 There were two strategies used in the final phase (Orogenesis); Amaya, and Idyll (also known as "1A"). By the end of the tier, Amaya was the more common strategy.
 
-## Timeline
-
-![](https://preview.redd.it/muhkp07u3bh31.png?width=2300&format=png&auto=webp&s=60a418ca842f715a02e5ff6ff18818f6328260c7)
-*(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/cokaco/e4s_rotation_and_timeline_reformed/))*
-
-
-## Approximate milestones
+#### Approximate milestones
 
 - **69%** at the transition to Titan Maximum
 - **29%** at the start of the Orogenesis phase
@@ -150,3 +144,8 @@ Orogenesis: [video](https://youtu.be/HRN7Fw9xbrA)
 
 `ABCD` are used for Crumbling Down. `1` marks North for orientation. Both strategies use the same markers.
 ![](images/markers.jpg)
+
+## Timeline
+
+![](https://preview.redd.it/muhkp07u3bh31.png?width=2300&format=png&auto=webp&s=60a418ca842f715a02e5ff6ff18818f6328260c7)
+*(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/cokaco/e4s_rotation_and_timeline_reformed/))*

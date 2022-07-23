@@ -9,12 +9,17 @@ permalink: /5.0_shadowbringers/savage_raids/e11s/
 
 # Eden's Promise: Anamorphosis (Savage)
 
-## Timeline
+[Akito](https://youtu.be/b7g-6n4VSoY)
 
-![](https://preview.redd.it/kfjnekykco661.png?width=3200&format=png&auto=webp&s=d948063e566e1c35ec66c3b3890e0562072b20b9)
-*(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/kflij2/e11s_timeline_image/))*
+[Shinosho](https://youtu.be/7oHPKKDYgto)
 
-## Aproximate milestones
+The two are effectively identical if doing the Hobolala strat for Sundered Sky. The only difference to check is the second Turn of the Heavens.
+
+#### Things to check on Party Finder
+
+Where all the tethers/prey markers go. Most of the time, Fire goes behind, while Lightning and Holy are resolved in front. 
+
+#### Aproximate milestones
 
 - **45%** HP when the boss disappears for Sundered Sky.
 - **24%** HP when the boss disappears for Prismatic Deception.
@@ -73,29 +78,6 @@ H1D1D3　  ▲　 H2D2D4
 　　　　　　　　中央へ移動
 ```
 
-## Strategy
-
-Akito (Japanese): [video](https://youtu.be/b7g-6n4VSoY)
-
-Shinosho (Japanese): [video](https://youtu.be/7oHPKKDYgto)
-
-The two are effectively identical if doing the Hobolala strat for Sundered Sky. The only difference to check is the second Turn of the Heavens.
-
-### Sundered Sky "Hobo Lala" strat (堕獄絶技 ほぼララ式)
-
-This is the de-facto way to resolve Sundered Sky in PF.
-
-1. Knockback → run anti-clockwise around
-2. Fire out, Light in
-
-[video](https://youtu.be/ktKdsw_3g78)
-
-[video](https://youtu.be/PxPbepykI6I)
-
-## Things to check on Party Finder
-
-Where all the tethers/prey markers go. Most of the time, Fire goes behind, while Lightning and Holy are resolved in front. 
-
 ## Markers
 
 The markers are used for orientation, and for "Hobo Lala" Sundered Sky.
@@ -121,8 +103,24 @@ As there are a number of attacks in this fight that do not have a clearly associ
 **Sinsmite** - Elemental Break (Lightning) : AoE damage on each player
 **Sinsmoke** - Elemental Break (Fire) + Bound of Faith (Fire) : Shared AoE damage 
 
+## Sundered Sky "Hobo Lala" strat (堕獄絶技 ほぼララ式)
+
+This is the de-facto way to resolve Sundered Sky in PF.
+
+1. Knockback → run anti-clockwise around
+2. Fire out, Light in
+
+**PoV videos:**
+[Tuufless Tsuu](https://youtu.be/ktKdsw_3g78)
+
+[Alanea Alice](https://youtu.be/PxPbepykI6I)
 
 ## 2nd Turn of the Heavens
 
 The standard way to resolve the second Turn of the Heavens (the one with alternating blue/red circles) is to fix player positions
 ![](images/2nd_turn_of_the_heavens.jpg)
+
+## Timeline
+
+![](https://preview.redd.it/kfjnekykco661.png?width=3200&format=png&auto=webp&s=d948063e566e1c35ec66c3b3890e0562072b20b9)
+*(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/kflij2/e11s_timeline_image/))*

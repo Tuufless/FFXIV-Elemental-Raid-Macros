@@ -9,10 +9,9 @@ permalink: /5.0_shadowbringers/savage_raids/e6s/
 
 # Eden's Verse: Furor (Savage)
 
-## Timeline
+Akito's strat/アキト式: [video](https://www.youtu.be/dAzhPxWFao4)
 
-![](https://preview.redd.it/nzpnd1ak3mn41.png?width=2450&format=png&auto=webp&s=932bc743f265e9e473f546986b219bb6ffd76fb0)
-*(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/fl6vmk/e6s_timeline_image/))*
+Amaya's strat/あまや式: [link](https://jp.finalfantasyxiv.com/lodestone/character/9416493/blog/4354941/)
 
 ## English
 ```
@@ -56,13 +55,12 @@ permalink: /5.0_shadowbringers/savage_raids/e6s/
 
 You may see configurations where D3 and D4 are on Ifrit, while D1 and D2 are on Garuda.
 
-## Strategy
-
-Akito's strat/アキト式: [video](https://www.youtu.be/dAzhPxWFao4)
-
-Amaya's strat/あまや式: [link](https://jp.finalfantasyxiv.com/lodestone/character/9416493/blog/4354941/)
-
 ## Markers
 
 `ABCD` are for orientation. `1234` are for resolving Air Bumps.
 ![](images/markers.jpg)
+
+## Timeline
+
+![](https://preview.redd.it/nzpnd1ak3mn41.png?width=2450&format=png&auto=webp&s=932bc743f265e9e473f546986b219bb6ffd76fb0)
+*(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/fl6vmk/e6s_timeline_image/))*

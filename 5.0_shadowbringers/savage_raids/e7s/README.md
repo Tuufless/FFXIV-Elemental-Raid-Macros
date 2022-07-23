@@ -9,11 +9,6 @@ permalink: /5.0_shadowbringers/savage_raids/e7s/
 
 # Eden's Verse: Iconoclasm (Savage)
 
-## Timeline
-
-![](https://preview.redd.it/5yeyuk65qnn41.png?width=2700&format=png&auto=webp&s=f4f8f83c6751170fe4710f684bfb3cfa3b4c850a)
-*(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/fld0v5/e7s_timeline_image/))*
-
 ## English
 ```
 ■ Betwixt Worlds (stacks)
@@ -52,6 +47,10 @@ Orb priority: Healers＞D1＞D2＞D3＞D4
 玉取り優先度　ヒラ＞D1＞D2＞D3＞D4
 ```
 
+## Markers
+
+![](images/markers.jpg)
+
 ## Words of Night (Colours + Portals)
 
 クルル式 (Kururu/Krile strat): [video](https://www.youtu.be/eW5YzRFim1U)
@@ -68,6 +67,7 @@ Orb priority: Healers＞D1＞D2＞D3＞D4
 DPS positions are based on which ball you are tethered to.
 ![](images/1st_away_with_thee.jpg)
 
-## Markers
+## Timeline
 
-![](images/markers.jpg)
+![](https://preview.redd.it/5yeyuk65qnn41.png?width=2700&format=png&auto=webp&s=f4f8f83c6751170fe4710f684bfb3cfa3b4c850a)
+*(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/fld0v5/e7s_timeline_image/))*

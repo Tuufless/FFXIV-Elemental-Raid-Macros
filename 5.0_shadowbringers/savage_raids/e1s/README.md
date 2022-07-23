@@ -9,11 +9,6 @@ permalink: /5.0_shadowbringers/savage_raids/e1s/
 
 # Eden's Gate: Resurrection (Savage)
 
-## Timeline
-
-![](https://preview.redd.it/rye1wmoz8wd31.png?width=2400&format=png&auto=webp&s=9de69ee349fa16f7a588980fd5fe303a3a72250a)
-*(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/ckpvr9/e1s_rotation_and_timeline/))*
-
 ## English
 ```
 ■1st Delta Attack ｜ ■White Ball Positions
@@ -50,3 +45,8 @@ North: MT｜South: ST｜West: H1｜East: H2
 ■ピュアレイ誘導
 北MT｜南ST｜西H1｜東H2
 ```
+
+## Timeline
+
+![](https://preview.redd.it/rye1wmoz8wd31.png?width=2400&format=png&auto=webp&s=9de69ee349fa16f7a588980fd5fe303a3a72250a)
+*(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/ckpvr9/e1s_rotation_and_timeline/))*

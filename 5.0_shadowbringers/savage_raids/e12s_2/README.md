@@ -9,12 +9,20 @@ permalink: /5.0_shadowbringers/savage_raids/e12s_2/
 
 # Eden's Promise: Eternity (Savage) Part 2
 
-## Timeline
+[Thoughts Per Second (TPS) strat](https://youtu.be/eBdHx53XteI)
 
-![](https://preview.redd.it/kitnqysrq2761.png?width=3200&format=png&auto=webp&s=5a1d56bc77534344951633bf41b867ff0f33c79e)
-*(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/kj03t5/e12s_part_ii_timeline_image/))*
+Note: There are some details that are added in the macro, in particular, a DPS priority order for Basic Relativity.
 
-## Aproximate milestones
+#### Things to check on Party Finder
+
+- **Shockwave Pulsars**: The MT usually Reprisals all the Relativities, while the OT usually reprisals Shockwave Pulsars.
+- **Somber Dance**: The way EN and JP parties bait Somber Dance differs- EN parties will tend to bait next to the boss, while JP will bait on the other side of the arena. MT usually baits first.
+- **Advanced Relativity**: The macro has D3 and D4 adjust in the event D1+D3 or D2+D4 have the same (non-Fire) debuffs. Some macros have D2 and D3 adjust instead.
+  - Having D3 and D4 adjust means that each side is guaranteed to have one melee DPS, one ranged DPS so there's no confusion over Dark Fire spots.
+  - Having D2 and D3 adjust keeps the standard based on past fights (e.g: E8S), but means that if a swap happens, there will be two melee on one side, and two ranged on the other, so the Dark Fire priorities get a little more complex.
+- **Terminal Relativity**: Check your party's mitigation plan. 
+
+#### Aproximate milestones
 
 - **30%** HP at Advanced Relativity (when the boss becomes untargetable)
 
@@ -71,21 +79,6 @@ permalink: /5.0_shadowbringers/savage_raids/e12s_2/
 　パルサー3：ST軽減 (D2アドル)
 ```
 
-## Strategy
-
-Thoughts Per Second (TPS) strat: [video](https://youtu.be/eBdHx53XteI)
-
-Note: There are some details that are added in the macro, in particular, a DPS priority order for Basic Relativity.
-
-## Things to check on Party Finder
-
-- **Shockwave Pulsars**: The MT usually Reprisals all the Relativities, while the OT usually reprisals Shockwave Pulsars.
-- **Somber Dance**: The way EN and JP parties bait Somber Dance differs- EN parties will tend to bait next to the boss, while JP will bait on the other side of the arena. MT usually baits first.
-- **Advanced Relativity**: The macro has D3 and D4 adjust in the event D1+D3 or D2+D4 have the same (non-Fire) debuffs. Some macros have D2 and D3 adjust instead.
-  - Having D3 and D4 adjust means that each side is guaranteed to have one melee DPS, one ranged DPS so there's no confusion over Dark Fire spots.
-  - Having D2 and D3 adjust keeps the standard based on past fights (e.g: E8S), but means that if a swap happens, there will be two melee on one side, and two ranged on the other, so the Dark Fire priorities get a little more complex.
-- **Terminal Relativity**: Check your party's mitigation plan. 
-
 ## Markers
 
 *(These markers are the same as the Japanese markers from Part 1)*
@@ -94,3 +87,8 @@ Note: There are some details that are added in the macro, in particular, a DPS p
 ## Advanced Relativity
 
 ![](images/advanced_relativity.jpg)
+
+## Timeline
+
+![](https://preview.redd.it/kitnqysrq2761.png?width=3200&format=png&auto=webp&s=5a1d56bc77534344951633bf41b867ff0f33c79e)
+*(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/kj03t5/e12s_part_ii_timeline_image/))*

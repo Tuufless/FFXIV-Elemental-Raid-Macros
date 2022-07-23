@@ -9,11 +9,6 @@ permalink: /5.0_shadowbringers/savage_raids/e2s/
 
 # Eden's Gate: Descent (Savage)
 
-## Timeline
-
-![](https://preview.redd.it/vadbavyq3bh31.png?width=1900&format=png&auto=webp&s=4c6d3fc18c2eedcc70c30410a04514513f1b61ad)
-*(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/cksapu/e2s_rotation_and_timeline/))*
-
 ## English
 ```
 　  [Cleaver]　   |　  [Puddles]
@@ -49,3 +44,8 @@ permalink: /5.0_shadowbringers/savage_raids/e2s/
 [連続剣メモ]　混沌：側面→内側→散開
 　　　　　　   復習：内側→散開→側面
 ```
+
+## Timeline
+
+![](https://preview.redd.it/vadbavyq3bh31.png?width=1900&format=png&auto=webp&s=4c6d3fc18c2eedcc70c30410a04514513f1b61ad)
+*(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/cksapu/e2s_rotation_and_timeline/))*

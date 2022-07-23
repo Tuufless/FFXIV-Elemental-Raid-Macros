@@ -9,11 +9,6 @@ permalink: /5.0_shadowbringers/savage_raids/e3s/
 
 # Eden's Gate: Inundation (Savage)
 
-## Timeline
-
-![](https://preview.redd.it/uwe99rrdn9e31.png?width=1800&format=png&auto=webp&s=fb875a6003edffff89a5cefac8c082dc849662bf)
-*(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/clkiwe/e3s_rotation_and_timeline/))*
-
 ## English
 ```
 ────────────────────
@@ -51,3 +46,8 @@ Water puddle order：
 
 `A` and `B` are stack points for Tsunami 2. `1`, `2`, `C` and `D` demarcate the boundaries for dodging Temporary Current.
 ![](images/markers.jpg)
+
+## Timeline
+
+![](https://preview.redd.it/uwe99rrdn9e31.png?width=1800&format=png&auto=webp&s=fb875a6003edffff89a5cefac8c082dc849662bf)
+*(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/clkiwe/e3s_rotation_and_timeline/))*

@@ -9,10 +9,11 @@ permalink: /5.0_shadowbringers/savage_raids/e10s/
 
 # Eden's Promise: Litany (Savage)
 
-## Timeline
+[Akito's strat (あきと式)](https://youtu.be/mLFIYKvt3QY)
 
-![](https://preview.redd.it/y9lvuc18co661.png?width=3200&format=png&auto=webp&s=52a2bccfde5d2f5089362fe804061b77524595df)
-*(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/kg6pd6/e10s_timeline_image/))*
+#### Things to check on Party Finder
+
+Since tanks swap during this fight, check with your other tank whether MT for Umbral Orbs means whoever is currently tanking the boss, or the original MT.
 
 ## English
 ```
@@ -59,14 +60,6 @@ permalink: /5.0_shadowbringers/savage_raids/e10s/
 ■ 束縛の鎖：TH固定、DPS移動
 ```
 
-## Strategy
-
-Akito's strat/あきと式 (Japanese): [video](https://youtu.be/mLFIYKvt3QY)
-
-## Things to check on Party Finder
-
-Since tanks swap during this fight, check with your other tank whether MT for Umbral Orbs means whoever is currently tanking the boss, or the original MT.
-
 ## Markers
 
 The markers are just for orientation. The intercardinal markers also are indicators for the range of the AoE when the boss stands up. 
@@ -80,3 +73,8 @@ This is not mentioned in the macro, and you are expected to know this coming in.
 
 (Yes, this is a melee downtime strategy.)
 ![](images/final_voidgates.jpg)
+
+## Timeline
+
+![](https://preview.redd.it/y9lvuc18co661.png?width=3200&format=png&auto=webp&s=52a2bccfde5d2f5089362fe804061b77524595df)
+*(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/kg6pd6/e10s_timeline_image/))*
