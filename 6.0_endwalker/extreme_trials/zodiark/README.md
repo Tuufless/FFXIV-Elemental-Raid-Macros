@@ -4,7 +4,7 @@ title: Zodiark EX
 parent: Extreme Trials
 nav_order: 1
 grand_parent: 6.0 Endwalker
-permalink: /6.0_endwalker/extreme_trials/ex_zodiark/
+permalink: /6.0_endwalker/extreme_trials/zodiark/
 ---
 
 # The Minstrel's Ballad: Zodiark's Fall
