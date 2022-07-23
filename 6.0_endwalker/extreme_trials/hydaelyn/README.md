@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Hydaelyn EX
-parent: 6.0 Endwalker
+parent: Extreme Trials
 nav_order: 2
-permalink: /6.0_endwalker/ex_hydaelyn/
+grand_parent: 6.0 Endwalker
+permalink: /6.0_endwalker/extreme_trials/ex_hydaelyn/
 ---
 
 # The Minstrel's Ballad: Hydaelyn's Call

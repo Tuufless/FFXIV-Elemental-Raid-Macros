@@ -1,8 +1,10 @@
 ---
 layout: default
 title: P2S
-parent: 6.0 Endwalker
-permalink: /6.0_endwalker/p2s/
+parent: Savage Raids
+nav_order: "02"
+grand_parent: 6.0 Endwalker
+permalink: /6.0_endwalker/savage_raids/p2s/
 ---
 
 # Asphodelos: The Second Circle (Savage)
