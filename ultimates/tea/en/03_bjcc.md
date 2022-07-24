@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 3. Brute Justice + Cruise Chaser
-parent: TEA
+parent: Lv 80. TEA
 grand_parent: Ultimates
 ---
 

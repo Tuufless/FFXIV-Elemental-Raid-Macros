@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 4. Alexander Prime
-parent: TEA
+parent: Lv 80. TEA
 grand_parent: Ultimates
 ---
 
