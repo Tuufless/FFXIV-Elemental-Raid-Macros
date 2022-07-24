@@ -113,18 +113,17 @@ Looking towards the future:
 　　　　　　　\/　　(party)　　　as North
 　　　　　　  /　\　
 　　　(tether)　(tether)
-【Death of the Heavens】
+【Death of the Heavens】(2-2 Dooms north)
 　■ Initial spread
-　　　　●　　●　　※ Use Grinnaux as North
-　　　　　　　　　　　● = Dooms
-　　○　●　　●　○　　　(dodge 2nd Impact)
-　　　　　　　　　　　○ = Non-doom
-　　　　○　　○　　　　　(dodge 3rd Impact)
+　　　　　　　　※ Use Grinneaux as North
+　　　　　　　　　　　 = Dooms
+　　①　　　　④　　　(dodge 2nd Impact)
+　　　　　　　　　　　① = Non-doom
+　　　　②　　③　　　　　(dodge 3rd Impact)
 　■ Playstation 2 (Anchored Dooms)
-　　△/□　×　△/□　※ All players cross from
-　　　●　　　　●　　　initial spread position
-　　▲/■　×　 ▲/■　※ Bait Doom circles E/W
-　※ Doom players stay; non-doomed adjust
+　　(△/□) × (△/□)　※  +  bait circles
+　　　 　　　　　　※ Doom players stay
+　　　　 × 　　　　non-doomed adjust
 ```
 
 ## Markers
