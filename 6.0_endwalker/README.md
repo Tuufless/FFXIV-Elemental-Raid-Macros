@@ -22,7 +22,7 @@ The level cap for Endwalker is **Level 90**.
 
 ## Savage
 
-#### Pandaemonium: Asphodelos
+### Pandaemonium: Asphodelos
 
 The item level cap for Pandaemonium: Asphodelos is **iLvl 605**.
 

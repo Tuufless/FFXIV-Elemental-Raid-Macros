@@ -112,6 +112,12 @@ This is the [game8 macro](https://game8.jp/ff14/421350) often used by **Japanese
 　※上記の玉を取った後、時計回りに玉を取る
 ```
 
+## Markers
+
+- All markers are for orientation.
+
+![](images/markers.jpg)
+
 ## YPP
 
 "YPP" refers to how PF resolves passing tethers/debuffs for Director's Belone + Inversive Chlamys.

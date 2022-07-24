@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UWU
+title: Lv 70. UWU
 parent: Ultimates
 nav_order: 2
 permalink: /ultimates/uwu/
