@@ -8,7 +8,7 @@ permalink: /5.0_shadowbringers/
 
 # 5.0 Shadowbringers
 
-The level cap for Endwalker is **Level 80**.
+The level cap for Shadowbringers is **Level 80**.
 
 ## Extreme Trials
 
@@ -23,7 +23,7 @@ The level cap for Endwalker is **Level 80**.
 
 ## Savage
 
-### Eden's Gate (Patch 5.0)
+### Eden's Gate (Patch 4.0)
 
 The item level cap for Eden's Gate was **iLvl 475**.
 
@@ -32,7 +32,7 @@ The item level cap for Eden's Gate was **iLvl 475**.
 - **E3S** - [Eden's Gate: Inundation (Savage)](savage_raids/e3s/README.md)
 - **E4S** - [Eden's Gate: Sepulture (Savage)](savage_raids/e4s/README.md)
 
-### Eden's Verse (Patch 5.2)
+### Eden's Verse (Patch 4.2)
 
 The item level cap for Eden's Verse was **iLvl 505**.
 
@@ -41,7 +41,7 @@ The item level cap for Eden's Verse was **iLvl 505**.
 - **E7S** - [Eden's Verse: Iconoclasm (Savage)](savage_raids/e7s/README.md)
 - **E8S** - [Eden's Verse: Refulgence (Savage)](savage_raids/e8s/README.md)
 
-### Eden's Promise (Patch 5.4)
+### Eden's Promise (Patch 4.4)
 
 The item level cap for Eden's Promise was **iLvl 535**.
 
