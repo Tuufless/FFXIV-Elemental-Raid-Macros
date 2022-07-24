@@ -35,4 +35,4 @@ The item level cap for Pandaemonium: Asphodelos is **iLvl 605**.
 
 ## Ultimate
 
-- The Minstrel's Ballad: Dragonsong's Reprise
+- **DSR** - [Dragonsong's Reprise (Ultimate)](../ultimates/dsr/README.md)
