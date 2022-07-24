@@ -45,8 +45,8 @@ Remember, the ultimate goal of PF macros is to get eight people who have never p
 
 **Tanks:**
 - Who MTs (main-tanks) and who STs (sub-tanks) generally follows this order:
-        
-    - **MT** : WAR > DRK > GNB > PLD : **ST**
+    
+    **MT** : WAR > DRK > GNB > PLD : **ST**
 
 - You will often see English players call the ST the OT instead (off-tank).
 - A note on tank swaps: Sometimes, the "MT" position refers to the original maintank, and sometimes "whoever happens to be tanking the boss at the time". As a general rule, if where the boss faces is relevant, then "MT" will refer to whoever is currently tanking the boss.
