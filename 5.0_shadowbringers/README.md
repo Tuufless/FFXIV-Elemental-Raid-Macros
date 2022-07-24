@@ -25,7 +25,7 @@ The level cap for Shadowbringers is **Level 80**.
 
 ### Eden's Gate (Patch 4.0)
 
-The item level cap for Eden's Gate was **iLvl 475**.
+The item level cap for Eden's Gate is **iLvl 475**.
 
 - **E1S** - [Eden's Gate: Resurrection (Savage)](savage_raids/e1s/README.md)
 - **E2S** - [Eden's Gate: Descent (Savage)](savage_raids/e2s/README.md)
@@ -34,7 +34,7 @@ The item level cap for Eden's Gate was **iLvl 475**.
 
 ### Eden's Verse (Patch 4.2)
 
-The item level cap for Eden's Verse was **iLvl 505**.
+The item level cap for Eden's Verse is **iLvl 505**.
 
 - **E5S** - [Eden's Verse: Fulmination (Savage)](savage_raids/e5s/README.md)
 - **E6S** - [Eden's Verse: Furor (Savage)](savage_raids/e6s/README.md)
@@ -43,7 +43,7 @@ The item level cap for Eden's Verse was **iLvl 505**.
 
 ### Eden's Promise (Patch 4.4)
 
-The item level cap for Eden's Promise was **iLvl 535**.
+The item level cap for Eden's Promise is **iLvl 535**.
 
 - **E9S** - [Eden's Promise: Umbra (Savage)](savage_raids/e9s/README.md)
 - **E10S** - [Eden's Promise: Litany (Savage)](savage_raids/e10s/README.md)
