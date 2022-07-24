@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UCoB
+title: Lv 70. UCoB
 parent: Ultimates
 nav_order: 1
 permalink: /ultimates/ucob/

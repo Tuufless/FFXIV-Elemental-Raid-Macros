@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TEA
+title: Lv 80. TEA
 parent: Ultimates
 nav_order: 3
 has_children: true
