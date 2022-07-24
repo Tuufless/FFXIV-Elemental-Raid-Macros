@@ -35,7 +35,7 @@ The current item level cap is **iLvl 605**.
 	- [Part 2](6.0_endwalker/savage_raids/p4s_2/README.md)
 
 **Ultimate Raids:**
-- The Minstrel's Ballad: Dragonsong's Reprise
+- **DSR** - [Dragonsong's Reprise (Ultimate)](ultimates/dsr/README.md)
 
 ## On macros
 

@@ -2,7 +2,8 @@
 layout: default
 title: Lv 90. DSR
 parent: Ultimates
-nav_order: 1
+nav_order: 4
+has_children: true
 permalink: /ultimates/dsr/
 ---
 
@@ -32,7 +33,7 @@ Looking towards the future:
 
 **The following macros are still a work in progress and will very likely change in the future.**
 
-### Ser Adelphel + Grinnaux
+### Ser Adelphel and Ser Grinnaux
 ```
 　Adelphel：ST　Grinnaux：MT
 【Holy Bladedance】Tether → MT + invuln
@@ -49,7 +50,7 @@ Looking towards the future:
 　　　　　   party
 　H1+H2 → D1+D2 → D3+D4 → MT+ST
 ```
-### Thordan onwards
+### King Thordan onwards
 ```
 ―《Thordan》――――――――――――――――――
 【Strength of the Ward】
@@ -130,21 +131,21 @@ Looking towards the future:
 
 Dragonsong's Reprise is the first Ultimate to showcase a "door" boss. As such, there are two sets of markers to use for this fight.
 
-### Ser Adelphel + Grinnaux
+### Ser Adelphel and Ser Grinnaux
 
-* All markers are used to bait Hyperdimensional Slashes (black orbs).
+All markers are used to bait Hyperdimensional Slashes (black orbs).
 
 ![](images/markers_1.jpg)
 <details>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
 <div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight">
-<code>{"Name":"Adelphel + Grinneux","MapID":788,"A":{"X":93.014,"Y":0.0,"Z":89.036,"ID":0,"Active":true},"B":{"X":110.963,"Y":0.0,"Z":93.014,"ID":1,"Active":true},"C":{"X":106.985,"Y":0.0,"Z":110.963,"ID":2,"Active":true},"D":{"X":89.036,"Y":0.0,"Z":106.985,"ID":3,"Active":true},"One":{"X":106.985,"Y":0.0,"Z":89.036,"ID":4,"Active":true},"Two":{"X":110.963,"Y":0.0,"Z":106.985,"ID":5,"Active":true},"Three":{"X":93.014,"Y":0.0,"Z":110.963,"ID":6,"Active":true},"Four":{"X":89.036,"Y":0.0,"Z":93.014,"ID":7,"Active":true}}
+<code>{"Name":"Adelphel and Grinnaux","MapID":788,"A":{"X":93.015,"Y":0.0,"Z":89.036,"ID":0,"Active":true},"B":{"X":110.964,"Y":0.0,"Z":93.015,"ID":1,"Active":true},"C":{"X":106.985,"Y":0.0,"Z":110.964,"ID":2,"Active":true},"D":{"X":89.036,"Y":0.0,"Z":106.985,"ID":3,"Active":true},"One":{"X":106.985,"Y":0.0,"Z":89.036,"ID":4,"Active":true},"Two":{"X":110.964,"Y":0.0,"Z":106.985,"ID":5,"Active":true},"Three":{"X":93.015,"Y":0.0,"Z":110.964,"ID":6,"Active":true},"Four":{"X":89.036,"Y":0.0,"Z":93.015,"ID":7,"Active":true}}
 </code></pre></div></div>
 
 </details>
 
-### Thordan
+### King Thordan onwards
 
 I personally really like "inside" markers.
 
@@ -153,7 +154,7 @@ I personally really like "inside" markers.
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
 <div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight">
-<code>{"Name":"Dragonsong's Reprise","MapID":788,"A":{"X":100.0,"Y":0.0,"Z":87.0,"ID":0,"Active":true},"B":{"X":113.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":113.0,"ID":2,"Active":true},"D":{"X":87.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":109.192,"Y":0.0,"Z":90.807,"ID":4,"Active":true},"Two":{"X":109.192,"Y":0.0,"Z":109.192,"ID":5,"Active":true},"Three":{"X":90.807,"Y":0.0,"Z":109.192,"ID":6,"Active":true},"Four":{"X":90.807,"Y":0.0,"Z":90.807,"ID":7,"Active":true}}
+<code>{"Name":"Dragonsong's Reprise","MapID":788,"A":{"X":100.0,"Y":0.0,"Z":87.0,"ID":0,"Active":true},"B":{"X":113.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":113.0,"ID":2,"Active":true},"D":{"X":87.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":109.192,"Y":0.0,"Z":90.808,"ID":4,"Active":true},"Two":{"X":109.192,"Y":0.0,"Z":109.192,"ID":5,"Active":true},"Three":{"X":90.808,"Y":0.0,"Z":109.192,"ID":6,"Active":true},"Four":{"X":90.808,"Y":0.0,"Z":90.808,"ID":7,"Active":true}}
 </code></pre></div></div>
 
 </details>

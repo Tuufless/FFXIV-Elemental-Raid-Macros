@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 1. Living Liquid
-parent: TEA
+parent: Lv 80. TEA
 grand_parent: Ultimates
 ---
 

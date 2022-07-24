@@ -22,7 +22,7 @@ The level cap for Endwalker is **Level 90**.
 
 ## Savage
 
-### Pandaemonium: Asphodelos
+### Pandaemonium: Asphodelos (Patch 6.0)
 
 The item level cap for Pandaemonium: Asphodelos is **iLvl 605**.
 
@@ -35,4 +35,4 @@ The item level cap for Pandaemonium: Asphodelos is **iLvl 605**.
 
 ## Ultimate
 
-- The Minstrel's Ballad: Dragonsong's Reprise
+- **DSR** - [Dragonsong's Reprise (Ultimate)](../ultimates/dsr/README.md)
