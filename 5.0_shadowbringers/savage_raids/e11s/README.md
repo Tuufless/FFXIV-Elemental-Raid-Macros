@@ -18,7 +18,7 @@ The two are effectively identical if doing the Hobolala strat for Sundered Sky. 
 
 Where all the tethers/prey markers go. Most of the time, Fire goes behind, while Lightning and Holy are resolved in front. 
 
-#### Aproximate milestones
+#### Approximate milestones
 
 - **45%** HP when the boss disappears for Sundered Sky.
 - **24%** HP when the boss disappears for Prismatic Deception.

@@ -22,7 +22,7 @@ Note: There are some details that are added in the macro, in particular, a DPS p
   - Having D2 and D3 adjust keeps the standard based on past fights (e.g: E8S), but means that if a swap happens, there will be two melee on one side, and two ranged on the other, so the Dark Fire priorities get a little more complex.
 - **Terminal Relativity**: Check your party's mitigation plan. 
 
-#### Aproximate milestones
+#### Approximate milestones
 
 - **30%** HP at Advanced Relativity (when the boss becomes untargetable)
 
@@ -83,6 +83,14 @@ Note: There are some details that are added in the macro, in particular, a DPS p
 
 *(These markers are the same as the Japanese markers from Part 1)*
 ![](images/markers.jpg)
+<details>
+<summary>XIVLauncher WaymarkPresetPlugin positions</summary>
+
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight">
+<code>{"Name":"E12S P2","MapID":759,"A":{"X":0.0,"Y":75.0,"Z":-85.0,"ID":0,"Active":true},"B":{"X":10.0,"Y":75.0,"Z":-75.0,"ID":1,"Active":true},"C":{"X":0.0,"Y":75.0,"Z":-65.0,"ID":2,"Active":true},"D":{"X":-10.0,"Y":75.0,"Z":-75.0,"ID":3,"Active":true},"One":{"X":7.07,"Y":75.0,"Z":-82.07,"ID":4,"Active":true},"Two":{"X":7.07,"Y":75.0,"Z":-67.93,"ID":5,"Active":true},"Three":{"X":-7.07,"Y":75.0,"Z":-67.93,"ID":6,"Active":true},"Four":{"X":-7.07,"Y":75.0,"Z":-82.07,"ID":7,"Active":true}}
+</code></pre></div></div>
+
+</details>
 
 ## Advanced Relativity
 
