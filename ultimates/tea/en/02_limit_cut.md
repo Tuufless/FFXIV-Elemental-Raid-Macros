@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 2. Limit Cut
-parent: TEA
+parent: Lv 80. TEA
 grand_parent: Ultimates
 ---
 
