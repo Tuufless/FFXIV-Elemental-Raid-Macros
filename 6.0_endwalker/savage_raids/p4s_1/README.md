@@ -114,9 +114,16 @@ This is the [game8 macro](https://game8.jp/ff14/421350) often used by **Japanese
 
 ## Markers
 
-- All markers are for orientation.
-
+All markers are for orientation.
 ![](images/markers.jpg)
+<details>
+<summary>XIVLauncher WaymarkPresetPlugin positions</summary>
+
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight">
+<code>{"Name":"P4S P1","MapID":801,"A":{"X":100.0,"Y":0.0,"Z":81.5,"ID":0,"Active":true},"B":{"X":118.5,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":118.5,"ID":2,"Active":true},"D":{"X":81.5,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":95.0,"Y":0.0,"Z":95.0,"ID":4,"Active":true},"Two":{"X":105.0,"Y":0.0,"Z":95.0,"ID":5,"Active":true},"Three":{"X":105.0,"Y":0.0,"Z":105.0,"ID":6,"Active":true},"Four":{"X":95.0,"Y":0.0,"Z":105.0,"ID":7,"Active":true}}
+</code></pre></div></div>
+
+</details>
 
 ## YPP
 
