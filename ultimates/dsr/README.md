@@ -115,7 +115,7 @@ Looking towards the future:
 　　　(tether)　(tether)
 【Death of the Heavens】(2-2 Dooms north)
 　■ Initial spread
-　　　　　　　　※ Use Grinneaux as North
+　　　　　　　　※ Use Grinnaux as North
 　　　　　　　　　　　 = Dooms
 　　①　　　　④　　　(dodge 2nd Impact)
 　　　　　　　　　　　① = Non-doom
