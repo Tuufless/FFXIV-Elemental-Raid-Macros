@@ -165,11 +165,11 @@ PF largely follows [Clees' UWU guide](http://clees.me/guides/uwu/) with a few di
 - `B`: Fireball stack during Suppression.
 
 ![](images/markers.jpg)
-<details>
-<summary>XIVLauncher WaymarkPresetPlugin positions</summary>
+<details markdown=block>
+<summary markdown=span>XIVLauncher WaymarkPresetPlugin positions</summary>
 
-<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight">
-<code>{"Name":"UWU","MapID":539,"A":{"X":100.0,"Y":0.0,"Z":93.3,"ID":0,"Active":true},"B":{"X":106.7,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":106.7,"ID":2,"Active":true},"D":{"X":93.3,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":100.0,"Y":0.0,"Z":100.0,"ID":4,"Active":true},"Two":{"X":107.3,"Y":0.0,"Z":107.3,"ID":5,"Active":true},"Three":{"X":100.0,"Y":0.0,"Z":81.0,"ID":6,"Active":true},"Four":{"X":87.0,"Y":0.0,"Z":87.0,"ID":7,"Active":true}}
-</code></pre></div></div>
+```json
+{"Name":"UWU","MapID":539,"A":{"X":100.0,"Y":0.0,"Z":93.3,"ID":0,"Active":true},"B":{"X":106.7,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":106.7,"ID":2,"Active":true},"D":{"X":93.3,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":100.0,"Y":0.0,"Z":100.0,"ID":4,"Active":true},"Two":{"X":107.3,"Y":0.0,"Z":107.3,"ID":5,"Active":true},"Three":{"X":100.0,"Y":0.0,"Z":81.0,"ID":6,"Active":true},"Four":{"X":87.0,"Y":0.0,"Z":87.0,"ID":7,"Active":true}}
+```
 
 </details>

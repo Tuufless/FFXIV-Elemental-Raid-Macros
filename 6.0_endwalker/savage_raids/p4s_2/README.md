@@ -48,11 +48,11 @@ English parties will do Xeno's strat for Act 3.
  （Starting times：13/23/33/43）
 ```
 
-<details>
-<summary>Japanese translation</summary>
+<details markdown=block>
+<summary markdown=span>Japanese translation</summary>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight">
-<code>―《序幕》――――――――――――――――――――
+```
+―《序幕》――――――――――――――――――――
  D3　　　　　D4
   MT　　　ST
     ボス
@@ -79,7 +79,7 @@ DPSファイガ移動:時計回りD1D2D3D4反時計回り
 ―《カーテンコール》――――――――――――――
  DPS：11秒で切りに行く　T/H：6秒で切りに行く
  （メモ：13/23/33/43）
-</code></pre></div></div>
+```
 
 </details>
 
@@ -116,11 +116,11 @@ DPSファイガ移動:時計回りD1D2D3D4反時計回り
  （メモ：13/23/33/43）
 ```
 
-<details>
-<summary>English translation</summary>
+<details markdown=block>
+<summary markdown=span>English translation</summary>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight">
-<code>―――《Act 1》―――――《Act 2 (Idyll)》――――
+```
+―――《Act 1》―――――《Act 2 (Idyll)》――――
          【T】Dark：NW → N or W → cw
  D3　　　　D4　　　Fire：mid → N or W → ccw
   MT　　ST　　【H】Dark：SE → S or E → cw
@@ -145,7 +145,7 @@ DPSファイガ移動:時計回りD1D2D3D4反時計回り
 ―《Curtain Call》――――――――――――――――
  Move to cut at:  DPS→11 sec　T/H→6 sec
  （Starting times：13/23/33/43）
-</code></pre></div></div>
+```
 
 </details>
 

@@ -49,12 +49,12 @@ If North orb is:
 
 The exact orientation doesn't really matter, as long as the "pinwheel" shape is intact.
 ![](images/markers.jpg)
-<details>
-<summary>XIVLauncher WaymarkPresetPlugin positions</summary>
+<details markdown=block>
+<summary markdown=span>XIVLauncher WaymarkPresetPlugin positions</summary>
 
-<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight">
-<code>{"Name":"Emerald Weapon EX P2","MapID":763,"A":{"X":108.5,"Y":1.0,"Z":81.5,"ID":0,"Active":true},"B":{"X":118.5,"Y":0.0,"Z":108.5,"ID":1,"Active":true},"C":{"X":91.5,"Y":0.0,"Z":118.5,"ID":2,"Active":true},"D":{"X":81.5,"Y":0.0,"Z":91.5,"ID":3,"Active":true},"One":{"X":112.5,"Y":0.0,"Z":81.5,"ID":4,"Active":true},"Two":{"X":118.5,"Y":0.0,"Z":112.5,"ID":5,"Active":true},"Three":{"X":87.5,"Y":0.0,"Z":118.5,"ID":6,"Active":true},"Four":{"X":81.5,"Y":0.0,"Z":87.5,"ID":7,"Active":true}}
-</code></pre></div></div>
+```json
+{"Name":"Emerald Weapon EX P2","MapID":763,"A":{"X":108.5,"Y":1.0,"Z":81.5,"ID":0,"Active":true},"B":{"X":118.5,"Y":0.0,"Z":108.5,"ID":1,"Active":true},"C":{"X":91.5,"Y":0.0,"Z":118.5,"ID":2,"Active":true},"D":{"X":81.5,"Y":0.0,"Z":91.5,"ID":3,"Active":true},"One":{"X":112.5,"Y":0.0,"Z":81.5,"ID":4,"Active":true},"Two":{"X":118.5,"Y":0.0,"Z":112.5,"ID":5,"Active":true},"Three":{"X":87.5,"Y":0.0,"Z":118.5,"ID":6,"Active":true},"Four":{"X":81.5,"Y":0.0,"Z":87.5,"ID":7,"Active":true}}
+```
 
 </details>
 
@@ -66,14 +66,14 @@ Always dodge on the east side.
 
 ## FAQ
 
-<details>
-<summary><b>Q:</b> What does this part of the macro mean?</summary>
+<details markdown=block>
+<summary markdown=span><b>Q:</b> What does this part of the macro mean?</summary>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight">
-<code>===《Magnets + Flares》===
+```
+===《Magnets + Flares》===
 　　　○ｰ○
 　    MT　  OT
-</code></pre></div></div>
+```
 
 <b>A:</b> This refers to the bit in P1 where both tanks get a Flare marker- the MT will take the left side, while the OT takes the right.
 
