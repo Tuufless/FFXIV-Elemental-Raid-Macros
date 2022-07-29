@@ -45,11 +45,11 @@ X-formation Meteors, 十-formation NIN KB
 ## Markers
 
 ![](images/markers.jpg)
-<details>
-<summary>XIVLauncher WaymarkPresetPlugin positions</summary>
+<details markdown=block>
+<summary markdown=span>XIVLauncher WaymarkPresetPlugin positions</summary>
 
-<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight">
-<code>{"Name":"Seat of Sacrifice EX","MapID":739,"A":{"X":82.0,"Y":0.0,"Z":82.0,"ID":0,"Active":true},"B":{"X":118.0,"Y":0.0,"Z":82.0,"ID":1,"Active":true},"C":{"X":118.0,"Y":0.0,"Z":118.0,"ID":2,"Active":true},"D":{"X":82.0,"Y":0.0,"Z":118.0,"ID":3,"Active":true},"One":{"X":93.5,"Y":0.0,"Z":100.0,"ID":4,"Active":true},"Two":{"X":106.5,"Y":0.0,"Z":100.0,"ID":5,"Active":true},"Three":{"X":100.0,"Y":0.0,"Z":115.0,"ID":6,"Active":true},"Four":{"X":0.0,"Y":0.0,"Z":0.0,"ID":7,"Active":false}}
-</code></pre></div></div>
+```
+{"Name":"Seat of Sacrifice EX","MapID":739,"A":{"X":82.0,"Y":0.0,"Z":82.0,"ID":0,"Active":true},"B":{"X":118.0,"Y":0.0,"Z":82.0,"ID":1,"Active":true},"C":{"X":118.0,"Y":0.0,"Z":118.0,"ID":2,"Active":true},"D":{"X":82.0,"Y":0.0,"Z":118.0,"ID":3,"Active":true},"One":{"X":93.5,"Y":0.0,"Z":100.0,"ID":4,"Active":true},"Two":{"X":106.5,"Y":0.0,"Z":100.0,"ID":5,"Active":true},"Three":{"X":100.0,"Y":0.0,"Z":115.0,"ID":6,"Active":true},"Four":{"X":0.0,"Y":0.0,"Z":0.0,"ID":7,"Active":false}}
+```
 
 </details>

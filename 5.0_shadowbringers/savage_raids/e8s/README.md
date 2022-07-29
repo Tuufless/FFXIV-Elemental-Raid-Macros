@@ -87,23 +87,23 @@ By the end of the tier, the most common strategies were "DD out", "Ayatori Light
 
 **Inside DD/DD内捨て**
 ![](images/markers_inside_dd.jpg)
-<details>
-<summary>XIVLauncher WaymarkPresetPlugin positions</summary>
+<details markdown=block>
+<summary markdown=span>XIVLauncher WaymarkPresetPlugin positions</summary>
 
-<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight">
-<code>{"Name":"E8S (Inside DD)","MapID":729,"A":{"X":100.0,"Y":0.0,"Z":84.0,"ID":0,"Active":true},"B":{"X":116.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":116.0,"ID":2,"Active":true},"D":{"X":84.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":94.5,"Y":0.0,"Z":94.5,"ID":4,"Active":true},"Two":{"X":105.5,"Y":0.0,"Z":94.5,"ID":5,"Active":true},"Three":{"X":105.5,"Y":0.0,"Z":105.5,"ID":6,"Active":true},"Four":{"X":94.5,"Y":0.0,"Z":105.5,"ID":7,"Active":true}}
-</code></pre></div></div>
+```
+{"Name":"E8S (Inside DD)","MapID":729,"A":{"X":100.0,"Y":0.0,"Z":84.0,"ID":0,"Active":true},"B":{"X":116.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":116.0,"ID":2,"Active":true},"D":{"X":84.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":94.5,"Y":0.0,"Z":94.5,"ID":4,"Active":true},"Two":{"X":105.5,"Y":0.0,"Z":94.5,"ID":5,"Active":true},"Three":{"X":105.5,"Y":0.0,"Z":105.5,"ID":6,"Active":true},"Four":{"X":94.5,"Y":0.0,"Z":105.5,"ID":7,"Active":true}}
+```
 
 </details>
 
 **Outside DD/DD外捨て**
 ![](images/markers_outside_dd.jpg)
-<details>
-<summary>XIVLauncher WaymarkPresetPlugin positions</summary>
+<details markdown=block>
+<summary markdown=span>XIVLauncher WaymarkPresetPlugin positions</summary>
 
-<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight">
-<code>{"Name":"E8S (Outside DD)","MapID":729,"A":{"X":100.0,"Y":0.0,"Z":84.0,"ID":0,"Active":true},"B":{"X":116.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":116.0,"ID":2,"Active":true},"D":{"X":84.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":88.686,"Y":0.0,"Z":88.686,"ID":4,"Active":true},"Two":{"X":111.314,"Y":0.0,"Z":88.686,"ID":5,"Active":true},"Three":{"X":111.314,"Y":0.0,"Z":111.314,"ID":6,"Active":true},"Four":{"X":88.686,"Y":0.0,"Z":111.314,"ID":7,"Active":true}}
-</code></pre></div></div>
+```
+{"Name":"E8S (Outside DD)","MapID":729,"A":{"X":100.0,"Y":0.0,"Z":84.0,"ID":0,"Active":true},"B":{"X":116.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":116.0,"ID":2,"Active":true},"D":{"X":84.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":88.686,"Y":0.0,"Z":88.686,"ID":4,"Active":true},"Two":{"X":111.314,"Y":0.0,"Z":88.686,"ID":5,"Active":true},"Three":{"X":111.314,"Y":0.0,"Z":111.314,"ID":6,"Active":true},"Four":{"X":88.686,"Y":0.0,"Z":111.314,"ID":7,"Active":true}}
+```
 
 </details>
 
