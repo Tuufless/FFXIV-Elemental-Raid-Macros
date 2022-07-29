@@ -141,7 +141,7 @@ ST　D2 　★　 H2　D4
 ```
 
 <details markdown=block>
-<summary markdown=span>English translation</summary>
+<summary>English translation</summary>
 
 ```
 【4:4 splits (adds/FoF)】
@@ -203,9 +203,9 @@ ST　D2 　★　 H2　D4
 ![](images/markers.jpg)
 
 <details markdown=block>
-<summary markdown=span>XIVLauncher WaymarkPresetPlugin positions</summary>
+<summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
-```
+```json
 {"Name":"P3S","MapID":807,"A":{"X":100.0,"Y":0.0,"Z":81.5,"ID":0,"Active":true},"B":{"X":118.5,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":118.5,"ID":2,"Active":true},"D":{"X":81.5,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":100.0,"Y":0.0,"Z":94.0,"ID":4,"Active":true},"Two":{"X":106.0,"Y":0.0,"Z":100.0,"ID":5,"Active":true},"Three":{"X":100.0,"Y":0.0,"Z":106.0,"ID":6,"Active":true},"Four":{"X":94.0,"Y":0.0,"Z":100.0,"ID":7,"Active":true}}
 ```
 
