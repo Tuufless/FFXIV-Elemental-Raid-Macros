@@ -6,11 +6,11 @@ permalink: /
 ---
 
 
-# FFXIV Elemental raid macros
+# FFXIV Elemental Raid Macros
 
 This repository is a collection of macros (and my notes) often encountered in the Elemental Data Center (DC).
 
-Because Elemental is ultimately a Japanese DC, these macros are for Japanese PF strategies. Keep that in mind that when watching (English) videos/reading guides- the strategies used may have some differences from the ones here.
+Because Elemental is ultimately a Japanese DC, these macros are for **Japanese** PF strategies. Keep that in mind that when watching (English) videos/reading guides- the strategies used may have some differences from the ones here.
 
 Of course, there will probably be small differences between the macros here and the ones you may encounter in PF- use the ones here as a base to work with.
 
@@ -39,11 +39,14 @@ The current item level cap is **iLvl 605**.
 
 ## On macros
 
-Remember, the ultimate goal of PF macros is to get eight people who have never played together a clear (quickly). As a result, PF favours safer, simpler strategies, even if it means disconnecting from the boss. If you want uptime, make a static.
+Remember, the ultimate goal of PF macros is to get eight people who have never played together a clear (quickly). As a result, PF favours safer, simpler strategies, even if it means disconnecting from the boss.
+
+**If you want uptime, make a static.**
 
 **Tanks:**
 - Who MTs (main-tanks) and who STs (sub-tanks) generally follows this order:
-        **MT** : WAR > DRK > GNB > PLD : **ST**
+    
+    **MT** : WAR > DRK > GNB > PLD : **ST**
 
 - You will often see English players call the ST the OT instead (off-tank).
 - A note on tank swaps: Sometimes, the "MT" position refers to the original maintank, and sometimes "whoever happens to be tanking the boss at the time". As a general rule, if where the boss faces is relevant, then "MT" will refer to whoever is currently tanking the boss.
@@ -56,7 +59,7 @@ Remember, the ultimate goal of PF macros is to get eight people who have never p
 The standard composition consists of one melee, one physical ranged, one caster, and one flex DPS (typically a second melee/caster).
 
 - **D1** is the melee spot (SAM, DRG, MNK, RPR, NIN)
-- **D2** is the flexible DPS slot, and is typically a second melee or caster. In double melee-compositions, a NIN is typically D2.
+- **D2** is the flexible DPS slot, and is typically a second melee or caster.
 - **D3** is a physical ranged (BRD, MCH, DNC)
 - **D4** is a caster (BLM, RDM, SMN)
 

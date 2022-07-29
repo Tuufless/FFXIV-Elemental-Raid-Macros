@@ -11,6 +11,10 @@ permalink: /ultimates/dsr/
 
 **DISCLAIMER** - People are trying to PF Dragonsong's Reprise on Elemental, but it is still a little too early for PF clears (everyone's used to their own static strats).
 
+Also, I have yet to clear DSR, yet alone enough times to have strong opinions on (most) parts of the macro.
+
+**UNDER CONSTRUCTION**
+
 1. [**Adelphel and Grinnaux**](en/01_adelphel_and_grinnaux.md)
 2. **King Thordan**
 3. **Nidhogg**
@@ -31,9 +35,14 @@ Looking towards the future:
 
 ## English
 
-**The following macros are still a work in progress and will very likely change in the future.**
+**The following macros are still a work in progress and will <u>very likely change</u> in the future.**
 
 ### Ser Adelphel and Ser Grinnaux
+
+#### Things to check on Party Finder
+
+- Check the marker order for Hyperdimensional Slash (some groups do S→N)
+
 ```
 　Adelphel：ST　Grinnaux：MT
 【Holy Bladedance】Tether → MT + invuln
@@ -50,7 +59,9 @@ Looking towards the future:
 　　　　　   party
 　H1+H2 → D1+D2 → D3+D4 → MT+ST
 ```
+
 ### King Thordan onwards
+
 ```
 ―《Thordan》――――――――――――――――――
 【Strength of the Ward】
@@ -113,18 +124,17 @@ Looking towards the future:
 　　　　　　　\/　　(party)　　　as North
 　　　　　　  /　\　
 　　　(tether)　(tether)
-【Death of the Heavens】
+【Death of the Heavens】(2-2 Dooms north)
 　■ Initial spread
-　　　　●　　●　　※ Use Grinnaux as North
-　　　　　　　　　　　● = Dooms
-　　○　●　　●　○　　　(dodge 2nd Impact)
-　　　　　　　　　　　○ = Non-doom
-　　　　○　　○　　　　　(dodge 3rd Impact)
+　　　　　　　　※ Use Grinnaux as North
+　　　　　　　　　　　 = Dooms
+　　①　　　　④　　　(dodge 2nd Impact)
+　　　　　　　　　　　① = Non-doom
+　　　　②　　③　　　　　(dodge 3rd Impact)
 　■ Playstation 2 (Anchored Dooms)
-　　△/□　×　△/□　※ All players cross from
-　　　●　　　　●　　　initial spread position
-　　▲/■　×　 ▲/■　※ Bait Doom circles E/W
-　※ Doom players stay; non-doomed adjust
+　　(△/□) × (△/□)　※  +  bait circles
+　　　 　　　　　　※ Doom players stay
+　　　　 × 　　　　non-doomed adjust
 ```
 
 ## Markers
