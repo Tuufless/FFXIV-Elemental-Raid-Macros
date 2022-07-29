@@ -50,7 +50,7 @@ D1D3H1　▼　D2D4H2
 ```
 
 <details markdown=block>
-<summary markdown=span>Akito's Empty Plane</summary>
+<summary>Akito's Empty Plane</summary>
 
 To replace Yamipika with Akito's original Empty Plane positions, swap in the following blocks. Note the melee positions in Empty Plane- they will disconnect from the boss when it comes to the 十-formation.
 
@@ -106,7 +106,7 @@ D1D3H1　▼　D2D4H2
 ```
 
 <details markdown=block>
-<summary markdown=span>Akito's Empty Plane</summary>
+<summary>Akito's Empty Plane</summary>
 
 To replace Yamipika with Akito's original Empty Plane positions, swap in the following blocks. Note the melee positions in Empty Plane- they will disconnect from the boss when it comes to the 十-formation.
 
