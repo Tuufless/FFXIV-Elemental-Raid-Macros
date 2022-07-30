@@ -83,7 +83,7 @@ Looking towards the future:
 　　　H1/D1　H2/D2　※ Meteors run cw
  　　　　　ST/D4
 　　※ Meteor group (T/H or DPS) outside
-　　　　　　　　center > cw > ccw
+　　　　　　　　center > ccw > cw
 　　※ Meteor grp → Final cardinal towers
 　　※ Non-meteor grp → Clockwise from ice
 ―《Nidhogg》("Easthogg") ―――――――――――
@@ -126,15 +126,46 @@ Looking towards the future:
 　　　(tether)　(tether)
 【Death of the Heavens】(2-2 Dooms north)
 　■ Initial spread
-　　　　　　　　※ Use Grinnaux as North
-　　　　　　　　　　　 = Dooms
-　　①　　　　④　　　(dodge 2nd Impact)
-　　　　　　　　　　　① = Non-doom
-　　　　②　　③　　　　　(dodge 3rd Impact)
+　　　　　　　　　※ Use Grinneaux as North
+　　　　　　　　　　　　 = Dooms
+　　①　　　　④　　　　(dodge 2nd Impact)
+　　　　　　　　　　　　① = Non-doom
+　　　　②　　③　　　　　　(dodge 3rd Impact)
 　■ Playstation 2 (Anchored Dooms)
-　　(△/□) × (△/□)　※  +  bait circles
+　　(△/□) × (△/□)　  ※  +  bait circles
 　　　 　　　　　　※ Doom players stay
-　　　　 × 　　　　non-doomed adjust
+　　　　 × 　　　　　non-doomed adjust
+　■ Meteors：Caster LB2 (centered at N)
+―《Double Dragons》 (△, DTTMR, 1-5) ―――――
+　(North)　MT H1 D1 D3 → Nidhogg　
+　(South)　ST H2 D2 D4 → Hraesvelgr
+【Dread/Great Wyrmsbreath #1】
+　MT　　　　ST　　
+　　　　　　　　　　※ H1, H2, D4 stays
+　　　D3D4　　　　※ D1, D2, D3 adjusts
+　H1D1　　H2D2
+【Hallowed Wings】MT → N/W　　ST → S/E
+【Mortal Vow】(pass in mid except last) 
+　　DPS → MT → ST → D1/D2 → D3
+【Wroth Flames】Purple → Left　White → Right
+【Dread/Great Wyrmsbreath #2】(1-5)
+　D4 north, everyone else south
+【Cauterize】(2x invuln) MT → West, ST → east
+―《Dragonking Thordan》―――――――――――
+【Mitigations】
+　All with H2 30s, shields and:
+　　Alt. End：MT 90s, ST 90s, H2 120s, D3
+　　AM1：MT Rep, H1 120s, H2 120s, D1
+　　Giga1： ST Rep, D2, D4
+　　AM2：MT Rep, MT 90s, ST 90s, H1 180s
+　　Giga 2：ST Rep, D1, D3
+　　AM3：MT Rep, H1 120s, H2 120s, D2, D4
+【Trinity】After Exaflare → D1, D2
+　　　　　 After Akh Morn → D3, D4
+　　　　　 After Gigaflare → H1, H2
+【Akh Morn's Edge】(All 3-3-2)
+　　H1D1D3　　H2D2D4
+　　　　　　 MTST
 ```
 
 ## Markers
