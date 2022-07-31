@@ -18,7 +18,7 @@ The level cap for Endwalker is **Level 90**.
 
 ## Unreal Trial
 
-- Ultima's Bane (Unreal)
+- **Ultima Weapon** - [Ultima's Bane (Unreal)](unreal_trial/ultima_weapon/README.md)
 
 ## Savage
 
