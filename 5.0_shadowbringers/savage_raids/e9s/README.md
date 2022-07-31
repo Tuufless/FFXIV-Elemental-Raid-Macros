@@ -132,6 +132,14 @@ To replace Yamipika with Akito's original Empty Plane positions, swap in the fol
 
 The markers are used to drop seeds for Brambles.
 ![](images/markers.jpg)
+<details markdown=block>
+<summary>XIVLauncher WaymarkPresetPlugin positions</summary>
+
+```json
+{"Name":"E9S","MapID":750,"A":{"X":100.0,"Y":0.0,"Z":81.5,"ID":0,"Active":true},"B":{"X":118.5,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":118.5,"ID":2,"Active":true},"D":{"X":81.5,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":110.5,"Y":0.0,"Z":89.5,"ID":4,"Active":true},"Two":{"X":110.5,"Y":0.0,"Z":110.5,"ID":5,"Active":true},"Three":{"X":89.5,"Y":0.0,"Z":110.5,"ID":6,"Active":true},"Four":{"X":89.5,"Y":0.0,"Z":89.5,"ID":7,"Active":true}}
+```
+
+</details>
 
 ## Timeline
 

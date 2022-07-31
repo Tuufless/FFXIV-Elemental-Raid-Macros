@@ -50,6 +50,14 @@ Orb priority: Healers＞D1＞D2＞D3＞D4
 ## Markers
 
 ![](images/markers.jpg)
+<details markdown=block>
+<summary>XIVLauncher WaymarkPresetPlugin positions</summary>
+
+```json
+{"Name":"E7S","MapID":727,"A":{"X":95.0,"Y":0.0,"Z":81.0,"ID":0,"Active":true},"B":{"X":119.0,"Y":0.0,"Z":95.0,"ID":1,"Active":true},"C":{"X":105.0,"Y":0.0,"Z":119.0,"ID":2,"Active":true},"D":{"X":81.0,"Y":0.0,"Z":105.0,"ID":3,"Active":true},"One":{"X":98.6,"Y":0.0,"Z":98.6,"ID":4,"Active":true},"Two":{"X":0.0,"Y":0.0,"Z":0.0,"ID":5,"Active":false},"Three":{"X":101.4,"Y":0.0,"Z":101.4,"ID":6,"Active":true},"Four":{"X":0.0,"Y":0.0,"Z":0.0,"ID":7,"Active":false}}
+```
+
+</details>
 
 ## Words of Night (Colours + Portals)
 
