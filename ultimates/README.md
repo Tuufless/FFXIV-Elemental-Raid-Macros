@@ -12,13 +12,13 @@ Ultimate raids on Elemental are unique because they are **not** PF'ed by Japanes
 
 ## Level 70 Ultimates
 
-- **UCoB** - [The Unending Coil of Bahamut (Ultimate)](ucob)
-- **UWU** - [The Weapon's Refrain (Ultimate)](uwu)
+- **UCoB** - [The Unending Coil of Bahamut (Ultimate)](ucob/README.md)
+- **UWU** - [The Weapon's Refrain (Ultimate)](uwu/README.md)
 
 ## Level 80 Ultimates
 
-- **TEA** - [The Epic of Alexander (Ultimate)](tea)
+- **TEA** - [The Epic of Alexander (Ultimate)](tea/README.md)
 
 ## Level 90 Ultimates
 
-- **DSR** - [Dragonsong's Reprise (Ultimate)](dsr)
+- **DSR** - [Dragonsong's Reprise (Ultimate)](dsr/README.md)
