@@ -11,7 +11,7 @@ permalink: /5.0_shadowbringers/savage_raids/e12s_1/
 
 The standard PF strat takes [Idyll strat (イディル式)](http://kanatan.info/archives/25637304.html) positions for Titan, but use [Akito's strat (あきと式)](https://youtu.be/hdLm1Q1BEWg) for Giants (巨人) and Lion. (Akito brings the boss down to the south edge and has the statue stacks north and south of the boss.)
 
-#### Things to check on Party Finder
+### Things to check on Party Finder
 
 - Check Shiva spread positions- some macros have the healers on the NW and SE diagonals.
 - Decide which tank is going to Reprisal Obliterations, and which tank will Reprisal Diamond Dust and Earthern Fury.

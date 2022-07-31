@@ -33,16 +33,18 @@ Looking towards the future:
 - Dragonsong's Reprise will not be outgeared until **i730** gear is available.
 - Relic weapons (when they arrive) will have their substats capped at **269**.
 
-## English
+Use the following macros as a base to start with.
 
-**The following macros are still a work in progress and will <u>very likely change</u> in the future.**
+# Ser Adelphel and Ser Grinnaux
 
-### Ser Adelphel and Ser Grinnaux
+Dragonsong's Reprise is the first Ultimate to showcase a "door" boss. As such, there are two sets of markers and macros to use for this fight.
 
-#### Things to check on Party Finder
+### Things to check on Party Finder
 
 - Check the marker order for Hyperdimensional Slash (some groups do S→N)
 
+## English
+This is the macro that has been going around PF since the beginning:
 ```
 　Adelphel：ST　Grinnaux：MT
 【Holy Bladedance】Tether → MT + invuln
@@ -60,8 +62,27 @@ Looking towards the future:
 　H1+H2 → D1+D2 → D3+D4 → MT+ST
 ```
 
-### King Thordan onwards
+## Markers
 
+All markers are used to bait Hyperdimensional Slashes (black orbs).
+
+![](images/markers_1.jpg)
+<details markdown=block>
+<summary>XIVLauncher WaymarkPresetPlugin positions</summary>
+
+```json
+{"Name":"Adelphel and Grinnaux","MapID":788,"A":{"X":93.015,"Y":0.0,"Z":89.036,"ID":0,"Active":true},"B":{"X":110.964,"Y":0.0,"Z":93.015,"ID":1,"Active":true},"C":{"X":106.985,"Y":0.0,"Z":110.964,"ID":2,"Active":true},"D":{"X":89.036,"Y":0.0,"Z":106.985,"ID":3,"Active":true},"One":{"X":106.985,"Y":0.0,"Z":89.036,"ID":4,"Active":true},"Two":{"X":110.964,"Y":0.0,"Z":106.985,"ID":5,"Active":true},"Three":{"X":93.015,"Y":0.0,"Z":110.964,"ID":6,"Active":true},"Four":{"X":89.036,"Y":0.0,"Z":93.015,"ID":7,"Active":true}}
+```
+
+</details>
+
+# King Thordan
+### Things to check on Party Finder
+
+- Check the Meteor tower positions + outside tower priority.
+- Check how the group resolves Nidhogg towers.
+
+## English
 ```
 ―《Thordan》――――――――――――――――――
 【Strength of the Ward】
@@ -126,7 +147,7 @@ Looking towards the future:
 　　　(tether)　(tether)
 【Death of the Heavens】(2-2 Dooms north)
 　■ Initial spread
-　　　　　　　　　※ Use Grinneaux as North
+　　　　　　　　　※ Use Grinnaux as North
 　　　　　　　　　　　　 = Dooms
 　　①　　　　④　　　　(dodge 2nd Impact)
 　　　　　　　　　　　　① = Non-doom
@@ -149,7 +170,7 @@ Looking towards the future:
 　　DPS → MT → ST → D1/D2 → D3
 【Wroth Flames】Purple → Left　White → Right
 【Dread/Great Wyrmsbreath #2】(1-5)
-　D4 north, everyone else south
+　H1 north, everyone else south
 【Cauterize】(2x invuln) MT → West, ST → east
 ―《Dragonking Thordan》―――――――――――
 【Mitigations】
@@ -169,24 +190,6 @@ Looking towards the future:
 ```
 
 ## Markers
-
-Dragonsong's Reprise is the first Ultimate to showcase a "door" boss. As such, there are two sets of markers to use for this fight.
-
-### Ser Adelphel and Ser Grinnaux
-
-All markers are used to bait Hyperdimensional Slashes (black orbs).
-
-![](images/markers_1.jpg)
-<details markdown=block>
-<summary>XIVLauncher WaymarkPresetPlugin positions</summary>
-
-```json
-{"Name":"Adelphel and Grinnaux","MapID":788,"A":{"X":93.015,"Y":0.0,"Z":89.036,"ID":0,"Active":true},"B":{"X":110.964,"Y":0.0,"Z":93.015,"ID":1,"Active":true},"C":{"X":106.985,"Y":0.0,"Z":110.964,"ID":2,"Active":true},"D":{"X":89.036,"Y":0.0,"Z":106.985,"ID":3,"Active":true},"One":{"X":106.985,"Y":0.0,"Z":89.036,"ID":4,"Active":true},"Two":{"X":110.964,"Y":0.0,"Z":106.985,"ID":5,"Active":true},"Three":{"X":93.015,"Y":0.0,"Z":110.964,"ID":6,"Active":true},"Four":{"X":89.036,"Y":0.0,"Z":93.015,"ID":7,"Active":true}}
-```
-
-</details>
-
-### King Thordan onwards
 
 I personally really like "inside" markers.
 

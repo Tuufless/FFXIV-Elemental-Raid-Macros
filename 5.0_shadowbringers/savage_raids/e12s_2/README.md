@@ -13,7 +13,7 @@ permalink: /5.0_shadowbringers/savage_raids/e12s_2/
 
 Note: There are some details that are added in the macro, in particular, a DPS priority order for Basic Relativity.
 
-#### Things to check on Party Finder
+### Things to check on Party Finder
 
 - **Shockwave Pulsars**: The MT usually Reprisals all the Relativities, while the OT usually reprisals Shockwave Pulsars.
 - **Somber Dance**: The way EN and JP parties bait Somber Dance differs- EN parties will tend to bait next to the boss, while JP will bait on the other side of the arena. MT usually baits first.

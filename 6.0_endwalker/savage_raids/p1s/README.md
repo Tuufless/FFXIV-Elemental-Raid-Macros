@@ -14,7 +14,7 @@ PF references the following guides for P1S:
 - [Inumaru](https://youtu.be/Hb7zp2AUACA)
 - [Nukemaru](https://youtu.be/6Q2IMu5cINQ)
 
-#### Things to check on Party Finder
+### Things to check on Party Finder
 
 - Check the chain pairs (Japanese groups pair MT+D4 instead of MT+D3, etc.)
 - Check the markers. In particular, Japanese groups rotate all the outer markers clockwise.

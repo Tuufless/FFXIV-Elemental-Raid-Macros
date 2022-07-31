@@ -11,7 +11,7 @@ permalink: /6.0_endwalker/savage_raids/p2s/
 
 PF uses [Hamkatsu's strat](https://youtu.be/KJZNVq_aVzI) for P2S.
 
-#### Things to check on Party Finder
+### Things to check on Party Finder
 
 - Check whether the party plans to Tank LB3 the final Channeling Overflow + Coherence combo.
 

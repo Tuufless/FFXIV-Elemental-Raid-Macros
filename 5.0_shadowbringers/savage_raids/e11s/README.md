@@ -14,7 +14,7 @@ permalink: /5.0_shadowbringers/savage_raids/e11s/
 
 The two are effectively identical if doing the Hobolala strat for Sundered Sky. The only difference to check is the second Turn of the Heavens.
 
-#### Things to check on Party Finder
+### Things to check on Party Finder
 
 Where all the tethers/prey markers go. Most of the time, Fire goes behind, while Lightning and Holy are resolved in front. 
 

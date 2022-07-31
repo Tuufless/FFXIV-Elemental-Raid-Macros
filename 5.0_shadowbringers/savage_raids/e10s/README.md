@@ -11,7 +11,7 @@ permalink: /5.0_shadowbringers/savage_raids/e10s/
 
 [Akito's strat (あきと式)](https://youtu.be/mLFIYKvt3QY)
 
-#### Things to check on Party Finder
+### Things to check on Party Finder
 
 Since tanks swap during this fight, check with your other tank whether MT for Umbral Orbs means whoever is currently tanking the boss, or the original MT.
 

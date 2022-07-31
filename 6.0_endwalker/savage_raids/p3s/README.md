@@ -13,7 +13,7 @@ PF uses [Inumaru's strat](https://youtu.be/BHMjrxpZb7k) as a base, but puts Dark
 
 English parties replace Firestorms of Asphodelos (FoA) with "my" strat (see below).
 
-#### Things to check on Party Finder
+### Things to check on Party Finder
 
 - Check the positions for the transition *(older macros may have different positioning)*
 
