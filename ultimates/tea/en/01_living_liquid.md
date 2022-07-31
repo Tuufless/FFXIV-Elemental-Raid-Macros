@@ -3,6 +3,7 @@ layout: default
 title: 1. Living Liquid
 parent: Lv 80. TEA
 grand_parent: Ultimates
+permalink: /ultimates/tea/01_living_liquid/
 ---
 
 # Living Liquid

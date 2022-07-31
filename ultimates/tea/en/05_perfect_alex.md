@@ -3,6 +3,7 @@ layout: default
 title: 5. Perfect Alexander
 parent: Lv 80. TEA
 grand_parent: Ultimates
+permalink: /ultimates/tea/05_perfect_alex/
 ---
 
 # Perfect Alexander
