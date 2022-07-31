@@ -3,6 +3,7 @@ layout: default
 title: 4.0 Stormblood
 nav_order: 4
 has_children: true
+has_toc: false
 permalink: /4.0_stormblood/
 ---
 
