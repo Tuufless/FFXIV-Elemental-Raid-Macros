@@ -7,7 +7,7 @@ grand_parent: 5.0 Shadowbringers
 permalink: /5.0_shadowbringers/savage_raids/e12s_2/
 ---
 
-# Eden's Promise: Eternity (Savage) Part 2
+# Eden's Promise: Eternity (Savage) - Part 2
 
 [Thoughts Per Second (TPS) strat](https://youtu.be/eBdHx53XteI)
 
