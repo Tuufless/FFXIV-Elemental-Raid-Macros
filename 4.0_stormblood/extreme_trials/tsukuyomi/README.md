@@ -43,6 +43,4 @@ permalink: /4.0_stormblood/extreme_trials/tsukuyomi/
 
 ## Moon Phase
 
-Rough idea of the moon (colours) phase:
-
-<https://youtu.be/oxQdr3B4RdM>
+[Rough idea of the moon (colours) phase](https://youtu.be/oxQdr3B4RdM)

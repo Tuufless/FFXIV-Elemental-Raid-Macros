@@ -22,12 +22,6 @@ The level cap for Shadowbringers is **Level 80**.
 - **Emerald Weapon EX** - [Castrum Marinum (Extreme)](extreme_trials/emerald_weapon/README.md)
 - **Diamond Weapon EX** - [The Cloud Deck (Extreme)](extreme_trials/diamond_weapon/README.md)
 
-## Unreal Trials
-
-- **Shiva** (Patch 5.3) - Akh Afah Amphitheatre (Unreal)
-- **Titan** (Patch 5.4) - The Navel (Unreal)
-- **Leviathan** (Patch 5.5) - The Whorleater (Unreal)
-
 ## Savage
 
 ### Eden's Gate (Patch 5.0)
