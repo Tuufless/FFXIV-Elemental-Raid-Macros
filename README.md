@@ -24,7 +24,7 @@ The current item level cap is **iLvl 605**.
 - **Endsinger EX** - [The Minstrel's Ballad: The Endsinger's Aria](6.0_endwalker/extreme_trials/endsinger)
 
 **Unreal Trial:**
-- **Ultima Weapon** - [Ultima's Bane (Unreal)](6.0_endwalker/unreal_trial/ultima_weapon)
+- **Ultima Weapon** - [Ultima's Bane (Unreal)](6.0_endwalker/unreal_trials/ultima_weapon)
 
 **Savage Raids:**
 - **P1S** - [Asphodelos: The First Circle (Savage)](6.0_endwalker/savage_raids/p1s)

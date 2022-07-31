@@ -3,6 +3,7 @@ layout: default
 title: 6.0 Endwalker
 nav_order: 2
 has_children: true
+has_toc: false
 permalink: /6.0_endwalker/
 ---
 
@@ -16,15 +17,16 @@ The level cap for Endwalker is **Level 90**.
 - **Hydaelyn EX** - [The Minstrel's Ballad: Hydaelyn's Call](extreme_trials/hydaelyn)
 - **Endsinger EX** - [The Minstrel's Ballad: The Endsinger's Aria](extreme_trials/endsinger)
 
-## Unreal Trial
+## Unreal Trials
 
-- **Ultima Weapon** - [Ultima's Bane (Unreal)](unreal_trial/ultima_weapon)
+- **Ultima Weapon** (Patch 6.1) - [Ultima's Bane (Unreal)](unreal_trials/ultima_weapon)
+- **Sephirot** (Patch 6.2) - Confinement Bay S1T7 (Unreal)
 
 ## Savage
 
-### Pandaemonium: Asphodelos (Patch 6.0)
+### Pandæmonium: Asphodelos (Patch 6.0)
 
-The item level cap for Pandaemonium: Asphodelos is **iLvl 605**.
+The item level cap for Pandæmonium: Asphodelos is **iLvl 605**.
 
 - **P1S** - [Asphodelos: The First Circle (Savage)](savage_raids/p1s)
 - **P2S** - [Asphodelos: The Second Circle (Savage)](savage_raids/p2s)

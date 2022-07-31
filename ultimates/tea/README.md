@@ -4,6 +4,7 @@ title: Lv 80. TEA
 parent: Ultimates
 nav_order: 3
 has_children: true
+has_toc: false
 permalink: /ultimates/tea/
 ---
 
