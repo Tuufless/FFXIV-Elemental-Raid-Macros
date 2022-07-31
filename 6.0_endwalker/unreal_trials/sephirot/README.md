@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Sephirot Unreal
-parent: Unreal Trial
+parent: Unreal Trials
 grand_parent: 6.0 Endwalker
-permalink: /6.0_endwalker/unreal_trial/sephirot/
+permalink: /6.0_endwalker/unreal_trials/sephirot/
 nav_exclude: true
 ---
 
