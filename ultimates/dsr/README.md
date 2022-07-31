@@ -9,19 +9,7 @@ permalink: /ultimates/dsr/
 
 # Dragonsong's Reprise (Ultimate)
 
-**DISCLAIMER** - People are trying to PF Dragonsong's Reprise on Elemental, but it is still a little too early for PF clears (everyone's used to their own static strats).
-
-Also, I have yet to clear DSR, yet alone enough times to have strong opinions on (most) parts of the macro.
-
-**UNDER CONSTRUCTION**
-
-1. [**Adelphel and Grinnaux**](en/01_adelphel_and_grinnaux.md)
-2. **King Thordan**
-3. **Nidhogg**
-4. **Eyes**
-5. **Alternate Thordan**
-6. **Double Dragons**
-7. **Dragonking Thordan**
+Elemental's DSR PF strat is still evolving. Use the following macros as a base to start with.
 
 ### BiS Notes
 
@@ -32,8 +20,6 @@ Looking towards the future:
 
 - Dragonsong's Reprise will not be outgeared until **i730** gear is available.
 - Relic weapons (when they arrive) will have their substats capped at **269**.
-
-Use the following macros as a base to start with.
 
 # Ser Adelphel and Ser Grinnaux
 
