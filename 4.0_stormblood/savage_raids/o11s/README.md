@@ -79,7 +79,7 @@ TD→北(北南外周円無し)or南(北南外周円有り)
 
 ## Markers
 
-Markers are used for Rocket Punch. 1 and 2 are for the first set (before the Level Checker), while ABCD are for the other Rocket Punches (after Level Checker).
+Markers are used for Rocket Punch. `1` and `2` are for the first set (before the Level Checker), while `ABCD` are for the other Rocket Punches (after Level Checker).
 ![](images/markers.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
