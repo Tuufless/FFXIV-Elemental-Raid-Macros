@@ -143,5 +143,5 @@ The markers are used to drop seeds for Brambles.
 
 ## Timeline
 
-![](https://preview.redd.it/ngc2jw12ao661.png?width=3200&format=png&auto=webp&s=e12fc29480f9925ae0f8e4011814345e4a0b2759)
+![](https://i.redd.it/ngc2jw12ao661.png)
 *(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/kg9oko/e9s_timeline_image/))*

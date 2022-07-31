@@ -98,5 +98,5 @@ Note: There are some details that are added in the macro, in particular, a DPS p
 
 ## Timeline
 
-![](https://preview.redd.it/kitnqysrq2761.png?width=3200&format=png&auto=webp&s=5a1d56bc77534344951633bf41b867ff0f33c79e)
+![](https://i.redd.it/kitnqysrq2761.png)
 *(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/kj03t5/e12s_part_ii_timeline_image/))*

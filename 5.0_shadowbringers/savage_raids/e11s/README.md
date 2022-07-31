@@ -128,5 +128,5 @@ The standard way to resolve the second Turn of the Heavens (the one with alterna
 
 ## Timeline
 
-![](https://preview.redd.it/kfjnekykco661.png?width=3200&format=png&auto=webp&s=d948063e566e1c35ec66c3b3890e0562072b20b9)
+![](https://i.redd.it/kfjnekykco661.png)
 *(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/kflij2/e11s_timeline_image/))*

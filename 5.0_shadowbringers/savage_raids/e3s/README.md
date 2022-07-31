@@ -57,5 +57,5 @@ Water puddle order：
 
 ## Timeline
 
-![](https://preview.redd.it/uwe99rrdn9e31.png?width=1800&format=png&auto=webp&s=fb875a6003edffff89a5cefac8c082dc849662bf)
+![](https://i.redd.it/uwe99rrdn9e31.png)
 *(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/clkiwe/e3s_rotation_and_timeline/))*

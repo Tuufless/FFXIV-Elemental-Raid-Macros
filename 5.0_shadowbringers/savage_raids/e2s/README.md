@@ -47,5 +47,5 @@ permalink: /5.0_shadowbringers/savage_raids/e2s/
 
 ## Timeline
 
-![](https://preview.redd.it/vadbavyq3bh31.png?width=1900&format=png&auto=webp&s=4c6d3fc18c2eedcc70c30410a04514513f1b61ad)
+![](https://i.redd.it/vadbavyq3bh31.png)
 *(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/cksapu/e2s_rotation_and_timeline/))*

@@ -116,5 +116,5 @@ If you go all the way to the edge of the arena to bait the second or third big l
 
 ## Timeline
 
-![](https://preview.redd.it/qknoduxviu661.png?width=3200&format=png&auto=webp&s=022e19c71dbde233dffe6ff5256bcc609449ebdc)
+![](https://i.redd.it/qknoduxviu661.png)
 *(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/khx7wr/e12s_part_i_timeline_image/))*

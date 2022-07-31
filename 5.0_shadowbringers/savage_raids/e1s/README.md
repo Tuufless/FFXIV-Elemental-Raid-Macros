@@ -48,5 +48,5 @@ North: MT｜South: ST｜West: H1｜East: H2
 
 ## Timeline
 
-![](https://preview.redd.it/rye1wmoz8wd31.png?width=2400&format=png&auto=webp&s=9de69ee349fa16f7a588980fd5fe303a3a72250a)
+![](https://i.redd.it/rye1wmoz8wd31.png)
 *(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/ckpvr9/e1s_rotation_and_timeline/))*

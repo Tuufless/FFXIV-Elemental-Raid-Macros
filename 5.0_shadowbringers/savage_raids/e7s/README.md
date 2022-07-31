@@ -77,5 +77,5 @@ DPS positions are based on which ball you are tethered to.
 
 ## Timeline
 
-![](https://preview.redd.it/5yeyuk65qnn41.png?width=2700&format=png&auto=webp&s=f4f8f83c6751170fe4710f684bfb3cfa3b4c850a)
+![](https://i.redd.it/5yeyuk65qnn41.png)
 *(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/fld0v5/e7s_timeline_image/))*

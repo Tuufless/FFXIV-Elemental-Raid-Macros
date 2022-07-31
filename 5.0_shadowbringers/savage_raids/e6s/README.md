@@ -69,5 +69,5 @@ You may see configurations where D3 and D4 are on Ifrit, while D1 and D2 are on 
 
 ## Timeline
 
-![](https://preview.redd.it/nzpnd1ak3mn41.png?width=2450&format=png&auto=webp&s=932bc743f265e9e473f546986b219bb6ffd76fb0)
+![](https://i.redd.it/nzpnd1ak3mn41.png)
 *(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/fl6vmk/e6s_timeline_image/))*

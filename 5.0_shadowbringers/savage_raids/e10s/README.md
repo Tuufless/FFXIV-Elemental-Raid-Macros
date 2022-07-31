@@ -84,5 +84,5 @@ This is not mentioned in the macro, and you are expected to know this coming in.
 
 ## Timeline
 
-![](https://preview.redd.it/y9lvuc18co661.png?width=3200&format=png&auto=webp&s=52a2bccfde5d2f5089362fe804061b77524595df)
+![](https://i.redd.it/y9lvuc18co661.png)
 *(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/kg6pd6/e10s_timeline_image/))*
