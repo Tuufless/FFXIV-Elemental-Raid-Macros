@@ -81,6 +81,14 @@ H1D1D3　  ▲　 H2D2D4
 
 The markers are used for orientation, and for "Hobo Lala" Sundered Sky.
 ![](images/markers.jpg)
+<details markdown=block>
+<summary>XIVLauncher WaymarkPresetPlugin positions</summary>
+
+```json
+{"Name":"E11S","MapID":752,"A":{"X":100.0,"Y":0.0,"Z":90.0,"ID":0,"Active":true},"B":{"X":110.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":110.0,"ID":2,"Active":true},"D":{"X":90.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":107.071,"Y":0.0,"Z":92.929,"ID":4,"Active":true},"Two":{"X":107.071,"Y":0.0,"Z":107.071,"ID":5,"Active":true},"Three":{"X":92.929,"Y":0.0,"Z":107.071,"ID":6,"Active":true},"Four":{"X":92.929,"Y":0.0,"Z":92.929,"ID":7,"Active":true}}
+```
+
+</details>
 
 ## Damage sources
 
@@ -120,5 +128,5 @@ The standard way to resolve the second Turn of the Heavens (the one with alterna
 
 ## Timeline
 
-![](https://preview.redd.it/kfjnekykco661.png?width=3200&format=png&auto=webp&s=d948063e566e1c35ec66c3b3890e0562072b20b9)
+![](https://i.redd.it/kfjnekykco661.png)
 *(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/kflij2/e11s_timeline_image/))*

@@ -2,6 +2,7 @@
 layout: default
 title: Ultimates
 has_children: true
+has_toc: false
 permalink: /ultimates/
 ---
 

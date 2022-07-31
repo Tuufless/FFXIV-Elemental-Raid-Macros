@@ -61,12 +61,12 @@ You may see H1 and D3 swapped around for Chain Lightning (so D3 and H2 are the o
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
 ```json
-{"Name":"E5S","MapID":716,"A":{"X":82.0,"Y":0.0,"Z":87.0,"ID":0,"Active":true},"B":{"X":118.0,"Y":0.0,"Z":87.0,"ID":1,"Active":true},"C":{"X":118.0,"Y":0.0,"Z":113.0,"ID":2,"Active":true},"D":{"X":82.0,"Y":0.0,"Z":113.0,"ID":3,"Active":true},"One":{"X":95.0,"Y":0.0,"Z":99.0,"ID":4,"Active":true},"Two":{"X":105.0,"Y":0.0,"Z":99.0,"ID":5,"Active":true},"Three":{"X":95.0,"Y":0.0,"Z":106.0,"ID":6,"Active":true},"Four":{"X":105.0,"Y":0.0,"Z":106.0,"ID":7,"Active":true}}
+{"Name":"E5S","MapID":716,"A":{"X":82.0,"Y":0.0,"Z":87.0,"ID":0,"Active":true},"B":{"X":118.0,"Y":0.0,"Z":87.0,"ID":1,"Active":true},"C":{"X":118.0,"Y":0.0,"Z":113.0,"ID":2,"Active":true},"D":{"X":82.0,"Y":0.0,"Z":113.0,"ID":3,"Active":true},"One":{"X":95.0,"Y":0.0,"Z":99.0,"ID":4,"Active":true},"Two":{"X":105.0,"Y":0.0,"Z":99.0,"ID":5,"Active":true},"Three":{"X":105.0,"Y":0.0,"Z":106.0,"ID":6,"Active":true},"Four":{"X":95.0,"Y":0.0,"Z":106.0,"ID":7,"Active":true}}
 ```
 
 </details>
 
 ## Timeline
 
-![](https://preview.redd.it/ztaf3o390qn41.png?width=2450&format=png&auto=webp&s=55c6e6ac8997d668cde7ad252e8921333154cddc)
+![](https://i.redd.it/ztaf3o390qn41.png)
 *(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/fl51xi/e5s_timeline_image/))*

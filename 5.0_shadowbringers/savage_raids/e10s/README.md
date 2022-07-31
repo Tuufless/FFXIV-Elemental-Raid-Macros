@@ -64,6 +64,14 @@ Since tanks swap during this fight, check with your other tank whether MT for Um
 
 The markers are just for orientation. The intercardinal markers also are indicators for the range of the AoE when the boss stands up. 
 ![](images/markers.jpg)
+<details markdown=block>
+<summary>XIVLauncher WaymarkPresetPlugin positions</summary>
+
+```json
+{"Name":"E10S","MapID":748,"A":{"X":100.0,"Y":0.0,"Z":84.444,"ID":0,"Active":true},"B":{"X":115.556,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":115.556,"ID":2,"Active":true},"D":{"X":84.444,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":111.0,"Y":0.0,"Z":89.0,"ID":4,"Active":true},"Two":{"X":111.0,"Y":0.0,"Z":111.0,"ID":5,"Active":true},"Three":{"X":89.0,"Y":0.0,"Z":111.0,"ID":6,"Active":true},"Four":{"X":89.0,"Y":0.0,"Z":89.0,"ID":7,"Active":true}}
+```
+
+</details>
 
 ## Final Voidgates
 
@@ -76,5 +84,5 @@ This is not mentioned in the macro, and you are expected to know this coming in.
 
 ## Timeline
 
-![](https://preview.redd.it/y9lvuc18co661.png?width=3200&format=png&auto=webp&s=52a2bccfde5d2f5089362fe804061b77524595df)
+![](https://i.redd.it/y9lvuc18co661.png)
 *(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/kg6pd6/e10s_timeline_image/))*

@@ -3,6 +3,7 @@ layout: default
 title: 5.0 Shadowbringers
 nav_order: 3
 has_children: true
+has_toc: false
 permalink: /5.0_shadowbringers/
 ---
 
@@ -20,6 +21,12 @@ The level cap for Shadowbringers is **Level 80**.
 - **Warrior of Light EX** - [The Seat of Sacrifice (Extreme)](extreme_trials/seat_of_sacrifice/README.md)
 - **Emerald Weapon EX** - [Castrum Marinum (Extreme)](extreme_trials/emerald_weapon/README.md)
 - **Diamond Weapon EX** - [The Cloud Deck (Extreme)](extreme_trials/diamond_weapon/README.md)
+
+## Unreal Trials
+
+- **Shiva** (Patch 5.3) - Akh Afah Amphitheatre (Unreal)
+- **Titan** (Patch 5.4) - The Navel (Unreal)
+- **Leviathan** (Patch 5.5) - The Whorleater (Unreal)
 
 ## Savage
 
@@ -54,4 +61,4 @@ The item level cap for Eden's Promise is **iLvl 535**.
 
 ## Ultimate
 
-- **TEA** - [The Epic of Alexander](../ultimates/tea/README.md)
+- **TEA** - [The Epic of Alexander (Ultimate)](../ultimates/tea/README.md)

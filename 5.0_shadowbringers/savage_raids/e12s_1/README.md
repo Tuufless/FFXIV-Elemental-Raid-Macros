@@ -7,7 +7,7 @@ grand_parent: 5.0 Shadowbringers
 permalink: /5.0_shadowbringers/savage_raids/e12s_1/
 ---
 
-# Eden's Promise: Eternity (Savage) Part 1
+# Eden's Promise: Eternity (Savage) - Part 1
 
 The standard PF strat takes [Idyll strat (イディル式)](http://kanatan.info/archives/25637304.html) positions for Titan, but use [Akito's strat (あきと式)](https://youtu.be/hdLm1Q1BEWg) for Giants (巨人) and Lion. (Akito brings the boss down to the south edge and has the statue stacks north and south of the boss.)
 
@@ -75,7 +75,7 @@ Small lions are pointed to the center of the markers, while the big lion players
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
 ```json
-{"Name":"E12S P1 (EN)","MapID":759,"A":{"X":0.0,"Y":75.0,"Z":-86.3,"ID":0,"Active":true},"B":{"X":11.3,"Y":75.0,"Z":-75.0,"ID":1,"Active":true},"C":{"X":0.0,"Y":75.0,"Z":-63.7,"ID":2,"Active":true},"D":{"X":-11.3,"Y":75.0,"Z":-75.0,"ID":3,"Active":true},"One":{"X":8.4,"Y":75.0,"Z":-81.7,"ID":4,"Active":true},"Two":{"X":8.4,"Y":75.0,"Z":-68.3,"ID":5,"Active":true},"Three":{"X":-8.4,"Y":75.0,"Z":-68.3,"ID":6,"Active":true},"Four":{"X":-8.4,"Y":75.0,"Z":-81.7,"ID":7,"Active":true}}
+{"Name":"E12S P1 (EN)","MapID":759,"A":{"X":0.0,"Y":75.0,"Z":-86.3,"ID":0,"Active":true},"B":{"X":11.3,"Y":75.0,"Z":-75.0,"ID":1,"Active":true},"C":{"X":0.0,"Y":75.0,"Z":-63.7,"ID":2,"Active":true},"D":{"X":-11.3,"Y":75.0,"Z":-75.0,"ID":3,"Active":true},"One":{"X":8.43,"Y":75.0,"Z":-81.75,"ID":4,"Active":true},"Two":{"X":8.43,"Y":75.0,"Z":-68.25,"ID":5,"Active":true},"Three":{"X":-8.43,"Y":75.0,"Z":-68.25,"ID":6,"Active":true},"Four":{"X":-8.43,"Y":75.0,"Z":-81.75,"ID":7,"Active":true}}
 ```
 
 </details>
@@ -88,7 +88,7 @@ Small lions are pointed towards specific corners of the square markers, while th
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
 ```json
-{"Name":"E12S P1 (JP)","MapID":759,"A":{"X":0.0,"Y":75.0,"Z":-85.0,"ID":0,"Active":true},"B":{"X":10.0,"Y":75.0,"Z":-75.0,"ID":1,"Active":true},"C":{"X":0.0,"Y":75.0,"Z":-65.0,"ID":2,"Active":true},"D":{"X":-10.0,"Y":75.0,"Z":-75.0,"ID":3,"Active":true},"One":{"X":7.07,"Y":75.0,"Z":-82.07,"ID":4,"Active":true},"Two":{"X":7.07,"Y":75.0,"Z":-67.93,"ID":5,"Active":true},"Three":{"X":-7.07,"Y":75.0,"Z":-67.93,"ID":6,"Active":true},"Four":{"X":-7.07,"Y":75.0,"Z":-82.07,"ID":7,"Active":true}}
+{"Name":"E12S P1 (JP)","MapID":759,"A":{"X":0.0,"Y":75.0,"Z":-85.0,"ID":0,"Active":true},"B":{"X":10.0,"Y":75.0,"Z":-75.0,"ID":1,"Active":true},"C":{"X":0.0,"Y":75.0,"Z":-65.0,"ID":2,"Active":true},"D":{"X":-10.0,"Y":75.0,"Z":-75.0,"ID":3,"Active":true},"One":{"X":7.071,"Y":75.0,"Z":-82.071,"ID":4,"Active":true},"Two":{"X":7.071,"Y":75.0,"Z":-67.929,"ID":5,"Active":true},"Three":{"X":-7.071,"Y":75.0,"Z":-67.929,"ID":6,"Active":true},"Four":{"X":-7.071,"Y":75.0,"Z":-82.071,"ID":7,"Active":true}}
 ```
 
 </details>
@@ -116,5 +116,5 @@ If you go all the way to the edge of the arena to bait the second or third big l
 
 ## Timeline
 
-![](https://preview.redd.it/qknoduxviu661.png?width=3200&format=png&auto=webp&s=022e19c71dbde233dffe6ff5256bcc609449ebdc)
+![](https://i.redd.it/qknoduxviu661.png)
 *(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/khx7wr/e12s_part_i_timeline_image/))*

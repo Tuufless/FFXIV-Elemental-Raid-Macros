@@ -7,7 +7,7 @@ grand_parent: 5.0 Shadowbringers
 permalink: /5.0_shadowbringers/savage_raids/e12s_2/
 ---
 
-# Eden's Promise: Eternity (Savage) Part 2
+# Eden's Promise: Eternity (Savage) - Part 2
 
 [Thoughts Per Second (TPS) strat](https://youtu.be/eBdHx53XteI)
 
@@ -87,7 +87,7 @@ Note: There are some details that are added in the macro, in particular, a DPS p
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
 ```json
-{"Name":"E12S P2","MapID":759,"A":{"X":0.0,"Y":75.0,"Z":-85.0,"ID":0,"Active":true},"B":{"X":10.0,"Y":75.0,"Z":-75.0,"ID":1,"Active":true},"C":{"X":0.0,"Y":75.0,"Z":-65.0,"ID":2,"Active":true},"D":{"X":-10.0,"Y":75.0,"Z":-75.0,"ID":3,"Active":true},"One":{"X":7.07,"Y":75.0,"Z":-82.07,"ID":4,"Active":true},"Two":{"X":7.07,"Y":75.0,"Z":-67.93,"ID":5,"Active":true},"Three":{"X":-7.07,"Y":75.0,"Z":-67.93,"ID":6,"Active":true},"Four":{"X":-7.07,"Y":75.0,"Z":-82.07,"ID":7,"Active":true}}
+{"Name":"E12S P2","MapID":759,"A":{"X":0.0,"Y":75.0,"Z":-85.0,"ID":0,"Active":true},"B":{"X":10.0,"Y":75.0,"Z":-75.0,"ID":1,"Active":true},"C":{"X":0.0,"Y":75.0,"Z":-65.0,"ID":2,"Active":true},"D":{"X":-10.0,"Y":75.0,"Z":-75.0,"ID":3,"Active":true},"One":{"X":7.071,"Y":75.0,"Z":-82.071,"ID":4,"Active":true},"Two":{"X":7.071,"Y":75.0,"Z":-67.929,"ID":5,"Active":true},"Three":{"X":-7.071,"Y":75.0,"Z":-67.929,"ID":6,"Active":true},"Four":{"X":-7.071,"Y":75.0,"Z":-82.071,"ID":7,"Active":true}}
 ```
 
 </details>
@@ -98,5 +98,5 @@ Note: There are some details that are added in the macro, in particular, a DPS p
 
 ## Timeline
 
-![](https://preview.redd.it/kitnqysrq2761.png?width=3200&format=png&auto=webp&s=5a1d56bc77534344951633bf41b867ff0f33c79e)
+![](https://i.redd.it/kitnqysrq2761.png)
 *(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/kj03t5/e12s_part_ii_timeline_image/))*

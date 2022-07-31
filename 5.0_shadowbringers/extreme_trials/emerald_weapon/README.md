@@ -47,8 +47,21 @@ If North orb is:
 
 ## Markers
 
+### Part 1
+
+![](images/markers_1.jpg)
+<details markdown=block>
+<summary>XIVLauncher WaymarkPresetPlugin positions</summary>
+
+```json
+{"Name":"Emerald Weapon EX P1","MapID":763,"A":{"X":100.0,"Y":0.0,"Z":78.0,"ID":0,"Active":true},"B":{"X":122.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":122.0,"ID":2,"Active":true},"D":{"X":78.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":93.5,"Y":0.0,"Z":93.5,"ID":4,"Active":true},"Two":{"X":106.5,"Y":0.0,"Z":93.5,"ID":5,"Active":true},"Three":{"X":106.5,"Y":0.0,"Z":106.5,"ID":6,"Active":true},"Four":{"X":93.5,"Y":0.0,"Z":106.5,"ID":7,"Active":true}}
+```
+</details>
+
+### Part 2
+
 The exact orientation doesn't really matter, as long as the "pinwheel" shape is intact.
-![](images/markers.jpg)
+![](images/markers_2.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
