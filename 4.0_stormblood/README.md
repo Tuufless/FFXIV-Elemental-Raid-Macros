@@ -26,7 +26,7 @@ The level cap for Stormblood is **Level 70**.
 
 ### Deltascape (Patch 4.0)
 
-The item level cap for Eden's Gate is **iLvl 345**.
+The item level cap for Deltascape is **iLvl 345**.
 
 - **O1S** - [Deltascape V1.0 (Savage)](savage_raids/o1s)
 - **O2S** - [Deltascape V2.0 (Savage)](savage_raids/o2s)
@@ -37,7 +37,7 @@ The item level cap for Eden's Gate is **iLvl 345**.
 
 ### Sigmascape (Patch 4.2)
 
-The item level cap for Eden's Verse is **iLvl 375**.
+The item level cap for Sigmascape is **iLvl 375**.
 
 - **O5S** - [Sigmascape V1.0 (Savage)](savage_raids/o5s)
 - **O6S** - [Sigmascape V2.0 (Savage)](savage_raids/o6s)
@@ -48,7 +48,7 @@ The item level cap for Eden's Verse is **iLvl 375**.
 
 ### Alphascape (Patch 4.4)
 
-The item level cap for Eden's Promise is **iLvl 405**.
+The item level cap for Alphascape is **iLvl 405**.
 
 - **O9S** - [Alphascape V1.0 (Savage)](savage_raids/o9s)
 - **O10S** - [Alphascape V2.0 (Savage)](savage_raids/o10s)
