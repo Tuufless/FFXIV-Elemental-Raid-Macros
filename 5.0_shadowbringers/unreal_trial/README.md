@@ -3,6 +3,7 @@ layout: default
 title: Unreal Trial
 parent: 5.0 Shadowbringers
 has_children: true
+permalink: /5.0_shadowbringers/unreal_trial/
 nav_exclude: true
 ---
 
