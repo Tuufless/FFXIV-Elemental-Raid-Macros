@@ -39,7 +39,7 @@ The item level cap for Alexander: Midas is **iLvl 245**.
 - **A5S** - [Alexander - The Fist of the Son (Savage)](savage_raids/a5s/README.md)
 - **A6S** - [Alexander - The Cuff of the Son (Savage)](savage_raids/a6s/README.md)
 - **A7S** - [Alexander - The Arm of the Son (Savage)](savage_raids/a7s/README.md)
-- **A8S** - [Alexander - The Burden of the Son](savage_raids/a8s/README.md)
+- **A8S** - [Alexander - The Burden of the Son (Savage)](savage_raids/a8s/README.md)
 
 ### Alexander: The Creator (Patch 3.4)
 
