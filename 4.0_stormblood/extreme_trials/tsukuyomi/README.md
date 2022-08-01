@@ -7,7 +7,7 @@ grand_parent: 4.0 Stormblood
 permalink: /4.0_stormblood/extreme_trials/tsukuyomi/
 ---
 
-# The Minstrel's Ballad: Tsukuyomi's Pain (Extreme)
+# The Minstrel's Ballad: Tsukuyomi's Pain
 
 ## English
 ```

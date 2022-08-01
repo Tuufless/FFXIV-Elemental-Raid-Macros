@@ -7,7 +7,7 @@ grand_parent: 4.0 Stormblood
 permalink: /4.0_stormblood/extreme_trials/shinryu/
 ---
 
-# The Minstrel's Ballad: Shinryu's Domain (Extreme)
+# The Minstrel's Ballad: Shinryu's Domain
 
 ## English
 ```

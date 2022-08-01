@@ -1,0 +1,27 @@
+---
+layout: default
+title: A4S
+parent: Savage Raids
+nav_order: "04"
+grand_parent: 3.0 Heavensward
+permalink: /3.0_heavensward/savage_raids/a4s/
+---
+
+# Alexander - The Burden of the Father (Savage)
+
+## Japanese
+```
+【雑魚】
+北西：キャス　南：レンジ　北東：近接１　中央：ST
+各方面残り3割ほどまで削ったら中央雑魚に近づける、絶対に近づける前にとどめをささない
+外周雑魚全て処理後、各雑魚担当＋STで中央雑魚とどめ
+【スチームジャッジ】
+|　　B　　O　　S　　S　　|
+　　　　　①　　①
+　　　②　　　　　　③
+　　　　　②　　③
+①：ST　②：近接２　③：レンジ
+スチームジャッジPOP後、スプリントをかけて担当番号の玉を一気にとる
+処理ミスで玉が残った場合、DPSのうち誰かが踏む
+ジャッジ処理後,速やかに蘇生を行う
+```
