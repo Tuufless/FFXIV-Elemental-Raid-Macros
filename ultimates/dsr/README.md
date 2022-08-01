@@ -10,6 +10,70 @@ permalink: /ultimates/dsr/
 
 Elemental's DSR PF strat is still evolving. Use the following macros as a base to start with.
 
+## Summary
+
+For those who are already familiar with the fight, and just need a quick summary:
+
+<table>
+  <tr>
+    <td><b>Ser Adelphel + Grinnaux</b></td>
+    <td><ul><li>HMRT</li></ul></td>
+  </tr>
+  <tr>
+    <td><b>Thordan</b></td>
+    <td>
+      <ul>
+        <li>DRK-relative, role adjust</li>
+        <li>Meteors N/S</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Nidhogg</b></td>
+    <td>
+      <ul>
+        <li>Easthogg</li>
+        <li>MT > D1 > D2 > ST towers</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Eyes</b></td>
+    <td>
+      <ul>
+        <li>DPS blue (or equivalently, T/H red)</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Alternate Thordan</b></td>
+    <td>
+      <ul>
+        <li>2-2 Anchored Dooms N</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Double Dragons</b></td>
+    <td>
+      <ul>
+        <li>△ first tethers</li>
+        <li>DTTMR Mortal Vow</li>
+        <li>Spreads left, stacks right</li>
+        <li>1-5 second tethers</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Dragonking Thordan</b></td>
+    <td>
+      <ul>
+        <li>All 3-3-2</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 ### BiS Notes
 
 - Dragonsong's Reprise is the current Ultimate, and is **not** outgeared yet.
