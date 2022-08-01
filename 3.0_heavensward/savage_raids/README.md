@@ -18,7 +18,7 @@ The item level cap for Alexander: Gordias is **iLvl 215**.
 - **A3S** - [Alexander - The Arm of the Father (Savage)](a3s/README.md)
 - **A4S** - [Alexander - The Burden of the Father (Savage)](a4s/README.md)
 
-## Alexander: Midas (Patch 4.2)
+## Alexander: Midas (Patch 3.2)
 
 The item level cap for Alexander: Midas is **iLvl 245**.
 
@@ -27,7 +27,7 @@ The item level cap for Alexander: Midas is **iLvl 245**.
 - **A7S** - [Alexander - The Arm of the Son (Savage)](a7s/README.md)
 - **A8S** - [Alexander - The Burden of the Son](a8s/README.md)
 
-## Alexander: The Creator (Patch 4.4)
+## Alexander: The Creator (Patch 3.4)
 
 The item level cap for Alexander: The Creator is **iLvl 275**.
 
