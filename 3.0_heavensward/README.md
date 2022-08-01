@@ -48,4 +48,4 @@ The item level cap for Alexander: The Creator is **iLvl 275**.
 - **A9S** - [Alexander - The Eyes of the Creator (Savage)](savage_raids/a9s/README.md)
 - **A10S** - [Alexander - Breath of the Creator (Savage)](savage_raids/a10s/README.md)
 - **A11S** - [Alexander - The Heart of the Creator (Savage)](savage_raids/a11s/README.md)
-- **A12S** - [Alexander - The Soul of the Creator (Savage)](savage_raids/a12s_1/README.md)
+- **A12S** - [Alexander - The Soul of the Creator (Savage)](savage_raids/a12s/README.md)
