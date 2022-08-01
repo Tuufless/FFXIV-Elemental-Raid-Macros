@@ -30,9 +30,22 @@ Note that players on the back row can simply run forward to naturally dodge the 
 - [Near Heavy Impact](https://clips.twitch.tv/SecretiveUnsightlyBorkRitzMitz-xUIR65ezwTfJOZL3)
 - [Nearest Heavy Impact](https://clips.twitch.tv/RelatedPiercingGrasshopperOMGScoots-iqC09dukfOnorski)
 
+### Part 2
+
+<table>
+  <tr>
+    <td><p></p></td>
+    <td><img src="../images/thordan/strength_of_the_ward_2_1.jpg"></td>
+  </tr>
+</table>
+
+**Tips:**
+- Do not look for Thordan. Thordan appears at his position last, giving you the least amount of time to find him. Instead, look for the two (of three) knights that spawn closest to the center. These two knights will always spawn SW and SE relative to where Thordan will appear later.
+- The two blue prey targets east and west should stand one north away from the party to avoid hitting the tanks with the AoE (and giving them a debuff that will kill them).
+
 ## Sanctity of the Ward
 
-### Sacred Severs
+### Part 1: Sacred Severs
 
 Currently, the most popular way to resolve Sacred Severs is a **DRK-relative, role-adjust** strat.
 
@@ -59,7 +72,7 @@ If a player in a group receives the wrong numbered sword (e.g: MT receives the "
   </tr>
 </table>
 
-### Meteors
+### Part 2: Meteors
 
 **N.B:** **Japanese** parties will do "center > cw > ccw" instead.
 
