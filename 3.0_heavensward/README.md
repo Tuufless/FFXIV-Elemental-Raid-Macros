@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 3.0 Heavensward
-nav_order: 5
+nav_order: 6
 has_children: true
 has_toc: false
 permalink: /3.0_heavensward/

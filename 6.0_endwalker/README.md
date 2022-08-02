@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 6.0 Endwalker
-nav_order: 2
+nav_order: 3
 has_children: true
 has_toc: false
 permalink: /6.0_endwalker/
