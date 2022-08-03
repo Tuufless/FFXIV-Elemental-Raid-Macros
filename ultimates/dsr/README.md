@@ -30,10 +30,10 @@ For those who are already familiar with the fight, and just need a quick summary
   </tr>
   <tr>
     <td><b>Nidhogg</b></td>
-    <td>
+    <td> 
       <ul>
         <li>Easthogg</li>
-        <li>MT > D1 > D2 > ST towers</li>
+        <li>4x towers T/M adjust "cw > ccw > across"</li>
       </ul>
     </td>
   </tr>
@@ -101,9 +101,9 @@ This is the macro that has been going around PF since the beginning:
 【Execution】ST invulns
 【Silence】ST → D3 → ST
 【Playstation chains】
-　　T□  H× H△
+　　D△ T× T□
 　　D〇　 　D〇　west: D1>2>3>4: east
-　　D△ T× D□
+　　D□ H× H△
 【Haurchefant】
 　　　cleave　cleave　　　※ cleaves towards
 　　H/R AoE ★ T/M AoE　　　ring (True South)
@@ -164,9 +164,9 @@ All markers are used to bait Hyperdimensional Slashes (black orbs).
 　　　　①　　　　　　 ③　　　　　　 ①
 　　※ Face east when placing towers
 【4x Towers (H/R fixed)】
-　　MT/D3　ST/D4　　Extra tower "pips" from
-　　　　　  ●　　　　　　True North：
-　　H1/D1　H2/D2　　ccw：MT>D1>D2>ST：cw
+　　MT/D3　ST/D4　　Tanks/Melee adjust：
+　　　　　  ●　　　　　　cw > ccw > across
+　　H1/D1　H2/D2
 　※ H/R bait Geirskogul
 　■ Soul Tethers
 　　MT → Nidhogg's tether (under boss)
