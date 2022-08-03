@@ -9,6 +9,10 @@ grand_parent: Ultimates
 
 ## Wrath of the Heavens
 
+- Any player can be targeted for the two Thunderstrucks, including the two Spiral Pierces (tethers) and the Skyward Leap (blue prey mark).
+- A player targeted by Thunderstruck *may* also be targeted for the divebomb, but *will not* be targeted by either Liquid Heaven or Alter Pyre.
+- The three players targeted by the blue prey and the two tethers *will not* be targeted by Liquid Heaven (but they still can get Altar Pyre).
+
 ## Death of the Heavens
 
 My preferred strat is an upside-down version of the "Komazou" strat, which splits the Dooms 2-2.
