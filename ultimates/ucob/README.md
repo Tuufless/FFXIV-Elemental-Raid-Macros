@@ -193,3 +193,7 @@ PF largely follows [Clees' UCoB guide](http://clees.me/guides/ucob/) with a few 
 ```
 
 </details>
+
+## Resources
+
+[**Nael divebombs**](https://freehaha.github.io/nael-dive/)
