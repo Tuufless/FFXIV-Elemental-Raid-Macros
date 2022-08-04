@@ -14,15 +14,6 @@ The main strat has two variants, affectionately dubbed "Easthogg" or "Westhogg".
 
 ## 4x Towers
 
-- Healers and Ranged stay in their towers.
-- Tanks and Melee adjust:
-    - If your tower needs **2 or more** players, **stay**.
-    - Otherwise, adjust to the first tower that needs **more than 2** with the following priority:
-        
-            cw > ccw > across
-
-### Examples
-
 <table>
   <tr>
     <td><p><b>Starting positions:</b></p>
@@ -43,6 +34,18 @@ The main strat has two variants, affectionately dubbed "Easthogg" or "Westhogg".
     </td>
     <td><img src="../images/nidhogg/4x_towers_example_starting_positions.jpg"></td>
   </tr>
+</table>
+
+- Healers and Ranged stay in their towers to bait Gierskogul.
+- Tanks and Melee adjust:
+    - If your tower needs **2 or more** players, **stay**.
+    - Otherwise, adjust to the first tower that needs **more than 2** with the following priority:
+        
+            cw > ccw > across
+
+### Examples
+
+<table>
   <tr>
     <td><p><b>Example 1:</b></p>
       <ul>
