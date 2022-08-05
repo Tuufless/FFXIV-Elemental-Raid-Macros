@@ -99,13 +99,13 @@ S tile not 3x Ice → MT+D3 swap for 3rd gems.
 There are two possible gem configurations. One of them will require MT and D3 to swap positions for the third set.
 
 The "no swap" configuration is identified by *either*
-    - Three blue gems on the southern tile.
-    - The top and bottom gems on the corner tiles share the same colour.
+- Three blue gems on the southern tile.
+- The top and bottom gems on the corner tiles share the same colour.
 In this case, everyone can resolve their own assigned tile throughout the entire mechanic.
 
 The "need to swap" configuration is identified by *either*
-    - A red gem in the southern tile.
-    - The top and bottom gems on the corners tiles are different colours.
+- A red gem in the southern tile.
+- The top and bottom gems on the corner tiles are different colours.
 In this case, MT and D3 will need to swap tiles for the **third** set of gemstones. 
 
 ## Fourfold Shackles
