@@ -32,9 +32,11 @@ Note that players on the back row can simply run forward to naturally dodge the 
 
 ### Part 2
 
+After dodging the Heavy Impact and Ascalon's Mercy Concealed, orientate yourself such that Thordan is north.
+
 <table>
   <tr>
-    <td><p></p></td>
+    <td><p>Using Thordan as north:</p><ul><li>Three (non-tanks) will be targeted with blue Skyward Leap markers. These players go west, east, and south.</li><li>The other three (non-tanks) go north towards Thordan and loosely spread to communicate tower positions before stacking in front of the "shuriken" mark.</li><li>The two tanks take tethers, and criss-cross them.</li></td>
     <td><img src="../images/thordan/strength_of_the_ward_2_1.jpg"></td>
   </tr>
 </table>
