@@ -216,7 +216,7 @@ All markers are used to bait Hyperdimensional Slashes (black orbs).
 　H1D1　　H2D2
 【Hallowed Wings】MT → N/W　　ST → S/E
 【Mortal Vow】(pass in mid except last) 
-　　DPS → MT → ST → D1/D2 → D3
+　　DPS → MT → ST → D1/D2 → D4
 【Wroth Flames】Purple → Left　White → Right
 【Dread/Great Wyrmsbreath #2】(1-5)
 　H1 north, everyone else south
