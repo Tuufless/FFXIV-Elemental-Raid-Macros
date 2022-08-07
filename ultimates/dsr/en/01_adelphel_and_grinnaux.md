@@ -7,17 +7,7 @@ grand_parent: Ultimates
 
 # Adelphel and Grinnaux
 
-There are many Playstation formations that go around.
-
-This was an early formation that mirrors the Death of the Heavens (swapping DPS for Dooms), that allows healers to preposition to top up the party prior to the knockback, and also uses the shapes to indicate positions (as 3 < 4).
-```
-【Playstation chains】
-　　T□  H× H△
-　　D〇　 　D〇　west: D1>2>3>4: east
-　　D△ T× D□
-```
-
-This one probably makes more sense:
+The important positions here are the two N/S crosses, and the E/W circles. This will come up again in the Playstation 2 tethers in Death of the Heavens.
 ```
 【Playstation chains】
 　　D△  T× T□

@@ -42,8 +42,13 @@ After dodging the Heavy Impact and Ascalon's Mercy Concealed, orientate yourself
 </table>
 
 **Tips:**
-- Do not look for Thordan. Thordan appears at his position last, giving you the least amount of time to find him. Instead, look for the two (of three) knights that spawn closest to the center. These two knights will always spawn SW and SE relative to where Thordan will appear later.
-- The two blue prey targets east and west should stand one north away from the party to avoid hitting the tanks with the AoE (and giving them a debuff that will kill them).
+- Do not look for Thordan. Instead, look for the two (of three) knights that spawn closest to the center.
+  - Thordan appears at his position last, giving you the least amount of time to find him.
+  - The two knights will spawn while the Heavy Impacts are resolving (and Thordan is still in the center).
+  - The two knights will always spawn SW and SE relative to where Thordan will teleport to later.
+- Have the tanks stand halfway in between and let the party members bring the tethers to them.
+  - Tanks have probably been trained to stand right next to the knights (the tether sources) to pick up the tethers. However, if you do this, there isn't enough time to make it to the edge (without Sprint).
+- The two blue prey targets east and west should stand one notch away from the party to avoid hitting the tanks with the AoE (and giving them a debuff that will kill them).
 
 ## Sanctity of the Ward
 
