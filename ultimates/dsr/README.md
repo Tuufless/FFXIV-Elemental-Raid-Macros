@@ -90,10 +90,10 @@ Dragonsong's Reprise is the first Ultimate to showcase a "door" boss. As such, t
 
 ### Things to check on Party Finder
 
-- Check the marker order for Hyperdimensional Slash (some groups do S→N)
+- Check the marker order for Hyperdimensional Slash (some groups do S→N).
+- Check the Playstation positions (there are many variants).
 
 ## English
-This is the macro that has been going around PF since the beginning:
 ```
 　Adelphel：ST　Grinnaux：MT
 【Holy Bladedance】Tether → MT + invuln
@@ -126,10 +126,8 @@ All markers are used to bait Hyperdimensional Slashes (black orbs).
 </details>
 
 # King Thordan
-### Things to check on Party Finder
 
-- Check the Meteor tower positions + outside tower priority.
-- Check how the group resolves Nidhogg towers.
+This is the macro for the bulk of the fight.
 
 ## English
 ```
@@ -228,7 +226,7 @@ All markers are used to bait Hyperdimensional Slashes (black orbs).
 　　AM1：MT Rep, H1 120s, H2 120s, D1
 　　Giga1： ST Rep, D2, D4
 　　AM2：MT Rep, MT 90s, ST 90s, H1 180s
-　　Giga 2：ST Rep, D1, D3
+　　Giga2：ST Rep, D1, D3
 　　AM3：MT Rep, H1 120s, H2 120s, D2, D4
 【Trinity】After Exaflare → D1, D2
 　　　　　 After Akh Morn → D3, D4
