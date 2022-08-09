@@ -207,17 +207,17 @@ This is the macro for the bulk of the fight.
 ―《Double Dragons》 (△, DTTMR, 1-5) ―――――
 　(North)　MT H1 D1 D3 → Nidhogg　
 　(South)　ST H2 D2 D4 → Hraesvelgr
-【Dread/Great Wyrmsbreath #1】
+【Wyrmsbreath #1】
 　MT　　　　ST　　
 　　　　　　　　　　※ H1, H2, D4 stays
 　　　D3D4　　　　※ D1, D2, D3 adjusts
 　H1D1　　H2D2
 【Hallowed Wings】MT → N/W　　ST → S/E
 【Mortal Vow】(pass in mid except last) 
-　　DPS → MT → ST → D1/D2 → D4
-【Wroth Flames】Purple → Left　White → Right
-【Dread/Great Wyrmsbreath #2】(1-5)
-　H1 north, everyone else south
+　　DPS → MT → ST → D1/D2 → D3
+【Wroth Flames】Spread → Nidhogg
+　　　　　　　　　Stacks → Hraesvelgr
+【Wyrmsbreath #2】(1-5) H1 north
 【Cauterize】(2x invuln) MT → West, ST → east
 ―《Dragonking Thordan》―――――――――――
 【Mitigations】
