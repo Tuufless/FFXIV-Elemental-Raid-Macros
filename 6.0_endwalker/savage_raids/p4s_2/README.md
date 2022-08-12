@@ -29,11 +29,11 @@ English parties will do Xeno's strat for Act 3.
   D1　　D2　　【D】Aero：mid → N or W → cw
  H1　　　　H2　　　　Fire：mid → S or E →
                cw:D1234:ccw
-―《Act 3 (Inumaru)》――――――――――――――
-  ST　　　D3　　【MT】Bait kicks
- D1●　MT　H1　【STD1D2】Earthshakers
-  D2　　　  H2　【H1H2D3D4】Towers
-      D4　　※ Flip E/W if baiting kick East
+―《Act 3 (Xeno)》――――――――――――――――
+　　MT　　  D3　【ST, H2】Bait kicks
+　ST　　●　　 H1【MTD1D2】Earthshakers #1
+　D1　　　　　H2【D3H1D4】Earthshakers #2
+　　D2　　　D4
 ―《Act 4》―――――――――――――――――――
 ①【Water】Opposite thorn + 1 clockwise
  【Dark】Own thorn + 1 clockwise
