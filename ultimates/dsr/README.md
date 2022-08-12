@@ -203,7 +203,7 @@ This is the macro for the bulk of the fight.
 　　(△/□) × (△/□)　  ※  +  bait circles
 　　　 　　　　　　※ Doom players stay
 　　　　 × 　　　　　non-doomed adjust
-　■ Meteors：Caster LB2 (centered at N)
+　■ Meteors：Caster LB2 (centered true N)
 ―《Double Dragons》 (△, DTTMR, 1-5) ―――――
 　(North)　MT H1 D1 D3 → Nidhogg　
 　(South)　ST H2 D2 D4 → Hraesvelgr
