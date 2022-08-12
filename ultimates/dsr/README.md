@@ -222,12 +222,12 @@ This is the macro for the bulk of the fight.
 ―《Dragonking Thordan》―――――――――――
 【Mitigations】
 　All with H2 30s, shields and:
-　　Alt. End：MT 90s, ST 90s, H2 120s, D3
-　　AM1：MT Rep, H1 120s, H2 120s, D1
-　　Giga1： ST Rep, D2, D4
+　　Alt. End：MT 90s, ST 90s, H2 120s (x2)
+　　AM1：MT Rep, H1 120s, D1, D4
+　　Giga1： ST Rep, D2, D3
 　　AM2：MT Rep, MT 90s, ST 90s, H1 180s
-　　Giga2：ST Rep, D1, D3
-　　AM3：MT Rep, H1 120s, H2 120s, D2, D4
+　　Giga2：ST Rep, D1, D4
+　　AM3：MT Rep, H1 120s, H2 120s (x2), D2, D3
 【Trinity】After Exaflare → D1, D2
 　　　　　 After Akh Morn → D3, D4
 　　　　　 After Gigaflare → H1, H2
