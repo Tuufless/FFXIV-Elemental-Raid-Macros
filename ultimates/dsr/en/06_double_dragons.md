@@ -116,7 +116,7 @@ When dropping Akh Morns, the most efficient movement (geometrically) is to move 
     <td><img src="../images/double_dragons/wroth_flames_ex_01_05.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>6.</b> Spreads will go towards Nidhogg (west), stacks will go towards Hraesvelgr (east).</p><p>Try to prioritize tanks near the center as they will be passing Mortal Vow next.</p><p>There is enough space for two "spreads" to stand side-by-side if they are on the sides of the safe zone.</p></td>
+    <td><p><b>6.</b> Spreads will go towards Nidhogg (west), stacks will go towards Hraesvelgr (east).</p><p>A general priority order would resemble:</p><pre><code>(Center) Tanks > Healers > Ranged > Melee (Edge)</code></pre><p>There is enough space for two "spreads" to stand side-by-side if they are on the sides of the safe zone.</p></td>
     <td><img src="../images/double_dragons/wroth_flames_ex_01_06.jpg"></td>
   </tr>
   <tr>

@@ -7,12 +7,6 @@ grand_parent: Ultimates
 
 # Alternate Thordan
 
-There are some considerations to make in this phase based on how the group plans to use their invulns in P6 and P7 that will affect how to take the Heavenly Heel tankbusters.
-
-To have both tanks invuln the Cauterize at the end of P6, tanks will need to **tank swap both tankbusters** after Wrath and Death of the Heavens.
-
-**Only WAR** can Holmgang the tankbuster after Wrath of the Heavens and still invuln P6's Cauterize.
-
 ## Wrath of the Heavens
 
 <table>
@@ -81,10 +75,5 @@ My preferred strat is an upside-down version of the "Komazou" strat, which split
   </tr>
 </table>
 
-## P7 considerations
-
-How the group chooses to spend their invulns in P6 and P7 will affect how the tankbusters are handled in this phase. It will also affect what cooldowns are available at the start of P6.
-
-**If you are going to do a 3-3-2 strat:** You will need to tank swap the Heavenly Heel after Death of the Heavens. This means that both tanks will begin P6 with one less mitigation available, but will have invulns for Cauterize.
-
-**If you are going to do a 1-1-6 strat:** Have the MT invuln the tankbuster after Death of the Heavens. This preserves both tank's cooldowns so both tanks enter P6 with all cooldowns ready.
+## Notes
+- **Only WAR** can Holmgang the tankbuster after Wrath of the Heavens and still invuln P6's Cauterize.
