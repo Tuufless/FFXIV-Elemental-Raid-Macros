@@ -7,6 +7,17 @@ grand_parent: Ultimates
 
 # Alternate Thordan
 
+## Summary
+
+If you are already familiar with the Alternate timeline Thordan phase, and just need a quick summary:
+
+<table>
+  <tr>
+    <td><b>Death of the Heavens</b></td>
+    <td><ul><li>2-2 Dooms north</li><li>Anchored Dooms</li></ul></td>
+  </tr>
+</table>
+
 ## Wrath of the Heavens
 
 <table>

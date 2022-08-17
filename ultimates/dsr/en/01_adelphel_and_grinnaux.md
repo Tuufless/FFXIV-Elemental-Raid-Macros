@@ -7,6 +7,27 @@ grand_parent: Ultimates
 
 # Adelphel and Grinnaux
 
+## Summary
+
+If you are already familiar with Adelphel and Grinnaux, and just need a summary:
+
+<table>
+  <tr>
+    <td><b>Hyperdimensional Slash</b></td>
+    <td><ul><li>North → South</li></ul></td>
+  </tr>
+  <tr>
+    <td><b>Playstation</b></td>
+    <td><pre><code>D△  T× T□
+D〇　 　D〇
+D□ H× H△</code></pre></td>
+  </tr>
+  <tr>
+    <td><b>Pure of Heart</b></td>
+    <td><ul><li>HMRT</li></ul></td>
+  </tr>
+</table>
+
 The important positions here are the two N/S crosses, and the E/W circles. This will come up again in the Playstation 2 tethers in Death of the Heavens.
 ```
 【Playstation chains】
@@ -19,10 +40,8 @@ The important positions here are the two N/S crosses, and the E/W circles. This 
 
 The general order goes HMRT (Healer → Melee → Ranged → Tanks).
 
-- Healers are covered by the Tank LB3 (when it comes to the rewind).
 - Ranged and melee alternate sides when dropping the Light Puddles.
 - Tanks are last so healers are not rushing to top up the party before Pure of Heart resolves.
-- The final set of puddles are not in between the party and Haurchefant (when it comes to the rewind).
 
 This method for Pure of Heart allows for [full melee uptime with minimal movement](https://clips.twitch.tv/SuaveOddArmadilloSeemsGood-VfDpqFIoUkVKUF7Q).
 

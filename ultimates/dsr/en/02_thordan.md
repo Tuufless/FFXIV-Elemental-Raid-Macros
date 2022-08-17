@@ -7,6 +7,21 @@ grand_parent: Ultimates
 
 # King Thordan
 
+## Summary
+
+If you are already familiar with Thordan, and just need a quick summary:
+
+<table>
+  <tr>
+    <td><b>Strength of the Ward</b></td>
+    <td><ul><li>Crossed tethers</li></ul></td>
+  </tr>
+    <tr>
+    <td><b>Sanctity of the Ward</b></td>
+    <td><ul><li>DRK-relative, role swap</li><li>Meteor-roles out, center > ccw > cw</li></ul></td>
+  </tr>
+</table>
+
 ## Strength of the Ward
 
 ### Part 1

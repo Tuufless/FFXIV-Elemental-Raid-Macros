@@ -7,6 +7,21 @@ grand_parent: Ultimates
 
 # Dragonking Thordan
 
+## Summary
+
+If you are already familiar with Dragonking Thordan and just need a quick summary:
+
+<table>
+  <tr>
+    <td><b>Akh Morn's Edge</b></td>
+    <td><ul><li>All 3-3-2</li></ul></td>
+  </tr>
+  <tr>
+    <td><b>Trinity</b></td>
+    <td><ul><li>D1/2 > D3/4 > H1/2</li></ul></td>
+  </tr>
+</table>
+
 ## Exaflare's Edge
 
 <table>

@@ -9,6 +9,17 @@ grand_parent: Ultimates
 
 There are **many** Eyes strats out there. The following illustrates the strat used in the macro.
 
+## Summary
+
+If you are already familiar with the Eyes phase and just need a quick summary:
+
+<table>
+  <tr>
+    <td><b>Starting tethers</b></td>
+    <td><ul><li>T/H red, DPS blue</li></ul></td>
+  </tr>
+</table>
+
 ## T/H red, DPS blue
 
 This phase references the Fang and Claw phase from Nidhogg EX.
