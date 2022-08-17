@@ -7,6 +7,30 @@ grand_parent: Ultimates
 
 # Double Dragons
 
+## Summary
+
+If you are already familiar with the Double Dragons phase, and just need a quick summary:
+
+<table>
+  <tr>
+    <td><b>Wyrmsbreath #1</b></td>
+    <td><ul><li>△, D1 D2 D3 adjusts</li></ul></td>
+  </tr>
+  <tr>
+    <td><b>Mortal Vow</b></td>
+    <td><ul><li>DPS → MT → ST → D1/D2 → D3</li></ul></td>
+  </tr>
+  <tr>
+    <td><b>Wroth Flames</b></td>
+    <td><ul><li>Spreads to Nidhogg (west)</li><li>Stacks to Hraesvelgr (east)</ul></td>
+  </tr>
+  <tr>
+    <td><b>Wyrmsbreath #2</b></td>
+    <td><ul><li>1-5, H1 north</li></ul></td>
+  </tr>
+</table>
+
+
 ## Mortal Vow
 
 There are *four* Mortal Vow passes in this phase.
@@ -19,78 +43,190 @@ There are *four* Mortal Vow passes in this phase.
 We pass "DTTMR", or in other words:
 
 ```
-DPS → MT → ST → D1/D2 → D4
+DPS → MT → ST → D1/D2 → D3
 ```
 All passes happen in the center of the arena, except for the final pass after Touchdown (which is just done at the edge).
 
-## Cauterize
-
-One decision the party will need to make is how they're going to resolve the three Akh Morn's Edge in P7, as this affects how Cauterize is resolved.
+## First half
 
 <table>
-  <tbody>
-    <tr>
-      <th></th>
-      <th>Advantages</th>
-      <th>Disadvantages</th>
-    </tr>
-    <tr>
-      <td><p><b>3-3-2, 3-3-2, 3-3-2</b></p><p>Both tanks invuln Cauterize.</p></td>
-      <td>
-        <ul>
-          <li>Easiest to execute- no tight timing on the final Wyrmsbreath tankbuster.</li>
-          <li>Fixed tank positions.</li>
-          <li>Able to use all available mitigation on the final Wyrmsbreath tankbuster.</li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-          <li>Tanks do not begin P6 with all cooldowns available.</li>
-          <li>Akh Morn's Edge #2 is harder.</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td><p><b>3-3-2, 1-1-6, 3-3-2</b></p><p>One tank invuln.</p><p>One tank stands in front of Hraesvelgr and invulns Cauterize.</p><p>The other tank mitigates Nidhogg's Cauterize.</p></td>
-      <td>
-        <ul>
-          <li>Both tanks begin P6 with all tank mitigations available if you invuln the Heavenly Heel sequence after Death of the Heavens.</li>
-          <li>Easier Akh Morn's Edge #2.</li>
-          <li>You can concentrate targeted mitigations on the single tank that isn't using their invuln.</li>
-          <li>Similarly, you can apply targeted debuffs (Addle, Feint) on Nidhogg.</li>
-          <li>Even if the non-invuln tank mitigation is screwed up and they die to Cauterize, it's not a wipe as it is not Hraesvelgr that killed them.</li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-          <li>Tank mitigation timing is precise if the non-invuln tank is targeted for the single-target Wyrmsbreath tankbuster.</li>
-          <li>Tanks don't have fixed (E/W) sides.</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td><p><b>3-3-2, 1-1-6, 1-1-6</b></p><p>No tank invulns.</p><p><em>(Both tanks mitigate Cauterize.)</em></p></td>
-      <td>
-        <ul>
-          <li>Both tanks begin P6 with all tank mitigations available if you invuln the Heavenly Heel sequence after Death of the Heavens.</li>
-          <li>Akh Morn's Edge #2 and #3 both become easier (in particular, #2).</li>
-          <li>Fixed tank positions.</li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-          <li>Precise mitigation timing on both tanks.</li>
-          <li>Akh Morn #3 usually isn't the problem as all cooldowns return, so the benefit from doing so isn't as great.</li>
-          <li>Targeted mitigations are split between both tanks.</li>
-          <li>Similarly, targeted debuffs are split between both bosses.</li>
-          <li>If the tank in front of Hraesvelgr dies, it's a wipe.</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
+  <tr>
+    <td><p><b>1. Wyrmsbreath #1</b></p>
+    <p>Have everyone preposition to prepare for the upcoming mechanic.<ul><li><b>Center:</b> D3, D4</li><li><b>Bottom-left:</b> H1, D1</li><li><b>Bottom-right:</b> H2, D2</li></ul></p><p>This will also be your second pot window.</p></td>
+    <td><img src="../images/double_dragons/wyrmsbreath_01_01.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>2. Wyrmsbreath #1</b></p>
+    <p>More precisely, these are the anchor (H1, H2, D4) positions.</p><p><b>None of these positions are in melee range.</b></p><p><em>(Note the white tile that can be used as reference for the center position.)</em></p></td>
+    <td><img src="../images/double_dragons/tethers_01.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>3. Wyrmsbreath #1</b></p><p>Tethers appear.</p><ul><li><b>D1, D2, D3:</b> If your pair has the same-coloured tether, swap with the other pair that also has two tethers of the opposite colour.</li><li><b>H1, H2, D4:</b> Does not move.</li></ul><p><em>(In this example, D1 and D3 will swap positions.)</em></p></td>
+    <td><img src="../images/double_dragons/wyrmsbreath_01_02.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>4. Wyrmsbreath #1</b></p><p>Mechanics resolve.</p><ul><li><b>MT, ST:</b> If your dragon's mouth is <b>not</b> glowing, you have a single-target tankbuster. Otherwise, you have a shared tankbuster (stack in the middle).</li></ul><p><em>(In this example, Nidhogg's mouth is glowing.)</em></p></td>
+    <td><img src="../images/double_dragons/wyrmsbreath_01_03.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>5. Mortal Vow</b></p>DPS spread out- Nidhogg will target a random DPS for the first Mortal Vow (in an AoE around that player).</p></td>
+    <td><img src="../images/double_dragons/mortal_vow_01.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>6. Akh Afah #1</b></p>4-man shared AoEs on the two healers. Nidhogg and Hraesvelgr's HP <b>must be within 3%</b> or their Akh Afah stack will kill all players.</p><p>If the HP difference is too large, a tether will appear connecting both bosses:</p><ul><li><b>No tether:</b> Both dragons' HP is within 3%.</li><li><b>Purple tether:</b> Nidhogg's HP is too high.</li><li><b>White tether:</b> Hraesvelgr's HP is too high.</td>
+    <td><img src="../images/double_dragons/akh_afah.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>6. Hallowed Wings #1</b></p><p>Turn to face Hraesvelgr.</p><p>Avoid Hraesvelgr's Hallowed Wings and Nidhogg's Cauterize, and then position yourselves based on whether <b>Hraesvelgr's head is up or down</b>.<ul><li><b>Head up:</b> Party near, tanks far.</li><li><b>Head down:</b> Tanks near, party far.</li><li><b>MT:</b> North</li><li><b>ST:</b> South</ul></p><p><em>(In this example, Hraesvelgr's head is down.)</em></p></td>
+    <td><img src="../images/double_dragons/hallowed_wings_01_01.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>7. Mortal Vow pass #1</b></p><p>The DPS that Nidhogg targeted with Mortal Vow passes it to the MT in the middle of the arena.</td>
+    <td><img src="../images/double_dragons/mortal_vow_02.jpg"></td>
+  </tr>
 </table>
 
-## Tank considerations
+## Wroth Flames
+
+Wroth Flames is the "intermission" in this phase, separating the first and second iteration of each of the looped mechanics.
+
+When dropping Akh Morns, the most efficient movement (geometrically) is to move **perpendicular from the wall in a straight line**, and then curve in after the third Akh Morn.
+
+<table>
+  <tr>
+    <td><p><b>1.</b> Identify the starting location.</p>
+      <ol><li>Avoid Hraesvelgr's Cauterize</li>
+      <li>Be as far away from the <b>second</b> set of eyes as you can.</li></ol><p><em>(In this example, Hraesvelgr's Cauterize will hit the east half.)</em></p></td>
+    <td><img src="../images/double_dragons/wroth_flames_ex_01_01.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>2.</b> Hraesvelgr's Cauterize resolves. Drop first Akh Morn puddle.</p><p></p>The initial Akh Morn movement will always go east-to-west or vice versa.</p></td>
+    <td><img src="../images/double_dragons/wroth_flames_ex_01_02.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>3.</b> First set of eye AoEs resolve. Drop the second Akh Morn puddle without getting hit by the eye AoE.</p></td>
+    <td><img src="../images/double_dragons/wroth_flames_ex_01_03.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>4.</b> Drop third and fourth Akh Morn puddles.</p></td>
+    <td><img src="../images/double_dragons/wroth_flames_ex_01_04.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>5.</b> Move to the middle and identify whether Nidhogg is casting Hot Wing or Hot Tail.</p></td>
+    <td><img src="../images/double_dragons/wroth_flames_ex_01_05.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>6.</b> Spreads will go towards Nidhogg (west), stacks will go towards Hraesvelgr (east).</p><p>Try to prioritize tanks near the center as they will be passing Mortal Vow next.</p><p>There is enough space for two "spreads" to stand side-by-side if they are on the sides of the safe zone.</p></td>
+    <td><img src="../images/double_dragons/wroth_flames_ex_01_06.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>6.</b> Finally, pass Mortal Vow from the MT to the ST.</td>
+    <td><img src="../images/double_dragons/mortal_vow_03.jpg"></td>
+  </tr>
+</table>
+
+## Second half
+
+The second half is a rehash of the first, with slightly different spins on the same mechanics from earlier.
+
+<table>
+  <tr>
+    <td><p><b>7. Akh Afah #2</b></p><p>Depending on how much uptime the party got earlier with Hallowed Wings #1 and Wroth Flames, the two dragons' HP may be skewed to one side.</p></td>
+    <td><img src="../images/double_dragons/akh_afah.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>7. Hallowed Wings #2</b></p><p>This time, Hallowed Wings will happen in combination with Hot Wing <em>or</em> Hot Tail from Nidhogg.</p><ul><li><b>MT: </b> Takes the western position.</li><li><b>ST: </b> Takes the eastern position.</li></ul><p><em>(This example has Hot Wing with Hraesvelgr's head up.)</td>
+    <td><img src="../images/double_dragons/hallowed_wings_02.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>7. Mortal Vow pass #3</b></p><p>This pass goes from the ST to D1, <em>unless</em> D1 started with the first Mortal Vow, in which case ST passes to D2 instead.</p><p>Other players line up to prepare for Wyrmsbreath #2.</p></td>
+    <td><img src="../images/double_dragons/mortal_vow_04.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>7. Wyrmsbreath #2</b></p><p>This time, we <b>do not</b> want to stack opposite tethers.</p>
+    <ul><li><b>H1:</b> Go north, and <b>move towards a dragon whose mouth is glowing</b>.</li><li><b>All other non-tanks:</b> Spread out along the south edge.</li></ul><p><em>(In this example, Hraesvelgr's mouth is glowing).</td>
+    <td><img src="../images/double_dragons/wyrmsbreath_02.jpg"></td>
+  </tr>
+</table>
+
+## Cauterize
+
+The reason why we did not stack opposite tethers in Wyrmsbreath #2 was because we needed the fire/ice debuffs in order to survive this mechanic.
+
+<table>
+  <tr>
+    <td><p><b>7. Cauterize</b></p><p>Nidhogg and Hraesvelgr will spawn along the north edge in a <b>random</b> orientation.</p><ul><li><b>MT:</b> West, in front of the other party members.</li><li><b>ST:</b> East, in front of the other party members.</li><li><b>Players with the Fire debuff:</b> Stand in front of Hraesvelgr.</li><li><b>Players with the Ice debuff:</b> Stand in front of Nidhogg.</li></ul><p><b>Do not move<b> once Nidhogg's debuff turns into Pyretic, or Hraesvelgr's Cauterize will kill you and enrage.</p></td>
+    <td><img src="../images/double_dragons/cauterize_01.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>7. Mortal Vow pass #4</b></p><p>After Cauterize, everybody gathers north to avoid Nidhogg's and Hraesvelgr's Touchdown damage.</p><p>After Touchdown, all players move away from the stack point <em>except</em> the DPS with Mortal Vow and D3.</p></td>
+    <td><img src="../images/double_dragons/mortal_vow_05.jpg"></td>
+  </tr>
+</table>
+
+## Additional Examples: Wroth Flames
+
+Since there are many possible variations with Wroth Flames, here are a couple additional scenarios to consider.
+
+<details>
+<summary>Hraesvelgr middle (uptime available), 2-to-1 dodge</summary>
+<table>
+  <tr>
+    <td><p><b>1.</b> Identify the starting location.</p>
+      <ul><li>Since Hraesvelgr's in the center, the party can start either west or east.</li>
+      <li>In this case, west gives the party melee uptime on Nidhogg, but with a 2-1 dodge.</li></ul></td>
+    <td><img src="../images/double_dragons/wroth_flames_ex_02_01.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>2.</b> Hraesvelgr's Cauterize resolves. Drop first Akh Morn puddle.</p></td>
+    <td><img src="../images/double_dragons/wroth_flames_ex_02_02.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>3.</b> First set of eye AoEs resolve. Drop the second Akh Morn puddle without getting hit.</p></td>
+    <td><img src="../images/double_dragons/wroth_flames_ex_02_03.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>4.</b> Drop third and fourth Akh Morn puddles.</p></td>
+    <td><img src="../images/double_dragons/wroth_flames_ex_02_04.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>5.</b> Move to the middle, identify whether Nidhogg is casting Hot Wing or Hot Tail.</p></td>
+    <td><img src="../images/double_dragons/wroth_flames_ex_02_05.jpg"></td>
+  </tr>
+</table>
+</details>
+
+<details>
+<summary>Hraesvelgr west (forced downtime), 2-to-1 dodge</summary>
+<table>
+  <tr>
+    <td><p><b>1.</b> Identify the starting location.</p>
+      <ul><li>Since Hraesvelgr's west, the party can only start east.</li>
+      <li>The furthest position away from the second set of eyes is NE.</li></ul></td>
+    <td><img src="../images/double_dragons/wroth_flames_ex_03_01.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>2.</b> Hraesvelgr's Cauterize resolves. Drop first Akh Morn puddle.</p></td>
+    <td><img src="../images/double_dragons/wroth_flames_ex_03_02.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>3.</b> First set of eye AoEs resolve. Drop the second Akh Morn puddle without getting hit.</p></td>
+    <td><img src="../images/double_dragons/wroth_flames_ex_03_03.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>4.</b> Drop third and fourth Akh Morn puddles.</p></td>
+    <td><img src="../images/double_dragons/wroth_flames_ex_03_04.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>5.</b> Move to the middle, identify whether Nidhogg is casting Hot Wing or Hot Tail.</p></td>
+    <td><img src="../images/double_dragons/wroth_flames_ex_03_05.jpg"></td>
+  </tr>
+</table>
+</details>
+
+## Notes
 
 * DRK is the only tank that doesn't *actually* need Rampart in this phase, as Dark Mind's cooldown is quick enough for it to be available for both Hallowed Wings.
-* PLD is the only tank without a third cooldown, and will literally run out of cooldowns at Hallowed Wings #2. Healer targeted cooldowns (Aquaveil, Protraction, Exaltation, Taurachole) will be needed to help a PLD out.
+* PLD is the only tank without a third cooldown, and will literally run out of cooldowns in this phase. Healer targeted cooldowns (Aquaveil, Protraction, Exaltation, Taurachole) will be needed to help a PLD out.
+* There are strats where only one tank invulns Cauterize, or neither tank invulns Cauterize in order to have a 1-1-6 Akh Morn's edge in P7. While the recommended PF strat is to just invuln Cauterize, a static may consider having just one tank invuln Hraesvelgr's Cauterize (and have the other mitigate Nidhogg's). I personally wouldn't recommend having both tanks mitigate Cauterize.
+* If a tank was hit by a fire or ice tether in Wyrmsbreath #2, they should also go in front of the appropriate dragon to get their debuff cleansed by Cauterize.
