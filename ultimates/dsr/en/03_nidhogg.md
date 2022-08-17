@@ -39,7 +39,7 @@ Note that **at most**, only two pairs of arrows will appear. The following diagr
     <td><img src="../images/nidhogg/wyrmhole_03.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>4.</b> First "Lash and Gnash" or "Gnash and Lash".</p><ul><li><b>1s:</b> Move north</li><li><b>3s:</b> Take towers while dodging in/out AoEs.</li></ul></td>
+    <td><p><b>4.</b> First "Lash and Gnash" or "Gnash and Lash".</p><ul><li><b>1s:</b> Move north</li><li><b>3s:</b> Take towers while dodging in/out AoEs.</li></ul><p><em>(The diagram illustrates "Gnash and Lash")</em></p></td>
     <td><img src="../images/nidhogg/wyrmhole_04.jpg"></td>
   </tr>
   <tr>
@@ -64,7 +64,7 @@ Note that **at most**, only two pairs of arrows will appear. The following diagr
   </tr>
   <tr>
     <td><p><b>10.</b> Second "Lash and Gnash" or "Gnash and Lash".</p><ul>
-    <li><b>1 (no arrow):</b> Take south tower while dodging in/out AoEs.</li><li><b>2s:</b> Take east/west towers while dodging in/out AoEs.</li><li><b>3s:</b> Move north.</li></ul></td>
+    <li><b>1 (no arrow):</b> Take south tower while dodging in/out AoEs.</li><li><b>2s:</b> Take east/west towers while dodging in/out AoEs.</li><li><b>3s:</b> Move north.</li></ul><p><em>(The diagram illustrates "Lash and Gnash")</em></p></td>
     <td><img src="../images/nidhogg/wyrmhole_10.jpg"></td>
   </tr>
   <tr>
@@ -124,11 +124,9 @@ The easiest way to resolve this is to preposition in pairs at each tower:
 
       Done correctly, **at most** two players will need to move.
 
-### Examples
-
 <table>
   <tr>
-    <td><p><b>Example 1:</b></p>
+    <td>
       <ul>
         <li>
           <b>MT:</b>
@@ -164,8 +162,13 @@ The easiest way to resolve this is to preposition in pairs at each tower:
     </td>
     <td><img src="../images/nidhogg/4x_towers_example_01.jpg"></td>
   </tr>
+</table>
+
+<details>
+<summary>Example 2</summary>
+<table>
   <tr>
-    <td><p><b>Example 2:</b></p>
+    <td>
       <ul>
         <li>
           <b>MT:</b>
@@ -202,6 +205,12 @@ The easiest way to resolve this is to preposition in pairs at each tower:
     </td>
     <td><img src="../images/nidhogg/4x_towers_example_02.jpg"></td>
   </tr>
+</table>
+</details>
+
+<details>
+<summary>Example 3</summary>
+<table>
   <tr>
     <td><p><b>Example 3:</b></p>
       <ul>
