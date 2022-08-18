@@ -22,6 +22,41 @@ If you are already familiar with Dragonking Thordan and just need a quick summar
   </tr>
 </table>
 
+## Mitigations
+
+This phase requires planning out and coordinating mitigations. The recommended base mitigation is:
+
+<table>
+  <tr>
+    <td><b>Alterative End</b></td>
+    <td>MT 90s, ST 90s, H2 shields, H2 30s, H2 120s (x2)</td>
+  </tr>
+  <tr>
+    <td><b>Akh Morn's Edge #1</b></td>
+    <td>MT Reprisal, H1 120s, H2 shields, H2 30s, D1, D4</td>
+  </tr>
+  <tr>
+    <td><b>Gigaflare's Edge #1</b></td>
+    <td>ST Reprisal, H2 shields, H2 30s, D2, D3</td>
+  </tr>
+  <tr>
+    <td><b>Akh Morn's Edge #2</b></td>
+    <td>MT Reprisal, MT 90s, ST 90s, H1 180s, H2 shields, H2 30s</td>
+  </tr>
+  <tr>
+    <td><b>Gigaflare's Edge #2</b></td>
+    <td>ST Reprisal, H2 shields, H2 30s, D1, D4</td>
+  </tr>
+  <tr>
+    <td><b>Akh Morn's Edge #3</b></td>
+    <td>MT Reprisal, H1 120s, H2 120s, D2, D3</td>
+  </tr>
+</table>
+
+The above mitigation plan was made in the *absence* of jobs that provide more than one sort of mitigation such as PLD's Passage of Arms, AST's Collective Unconsciousness, DNC's Improvisation, or RDM's Magick Barrier.
+
+If any extra mitigations are available, it's recommended they be slotted into either Gigaflare's Edge, or Akh Morn's Edge #2.
+
 ## Exaflare's Edge
 
 <table>
@@ -47,3 +82,7 @@ If you are already familiar with Dragonking Thordan and just need a quick summar
     <td><img src="../images/dragonking_thordan/dragonking_thordan_02.jpg"></td>
   </tr>
 </table>
+
+## Gigaflare's Edge
+
+Mitigations for Gigaflare's Edge should be timed as the entire sequence lasts 8 seconds, while several debuffs (Reprisal, Feint, Addle) lasts only 10 seconds.
