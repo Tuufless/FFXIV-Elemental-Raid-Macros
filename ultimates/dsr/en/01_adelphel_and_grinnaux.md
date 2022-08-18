@@ -29,6 +29,17 @@ D□ H× H△</code></pre></td>
   </tr>
 </table>
 
+## White orbs
+
+<table>
+  <tr>
+    <td>These spots on the floor (the tips of the "spikes") on the safe side will be safe from the white orb explosions.</td>
+    <td><img src="../images/adelphel_and_grinnaux/adelphel_grinnaux_01.jpg"></td>
+  </tr>
+</table>
+
+## Playstation
+
 The important positions here are the two N/S crosses, and the E/W circles. This will come up again in the Playstation 2 tethers in Death of the Heavens.
 ```
 【Playstation chains】
