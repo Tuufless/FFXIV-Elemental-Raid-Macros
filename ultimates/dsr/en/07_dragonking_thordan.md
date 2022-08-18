@@ -86,3 +86,39 @@ If any extra mitigations are available, it's recommended they be slotted into ei
 ## Gigaflare's Edge
 
 Mitigations for Gigaflare's Edge should be timed as the entire sequence lasts 8 seconds, while several debuffs (Reprisal, Feint, Addle) lasts only 10 seconds.
+
+## Buff windows
+
+Assuming the party used potions at the start of P6, the buff/pot window timings are:
+
+<table>
+  <tr>
+    <td><b>First buff window + potions</b></td>
+    <td>After Gigaflare's Edge #1</td>
+  </tr>
+  <tr>
+    <td><b>Second buff window</b></td>
+    <td>During Akh Morn's Edge #3</td>
+  </tr>
+</table>
+
+## Morn Afah's Edge
+
+Dragonking Thordan's enrage kills three players at a time. A general kill order should resemble:
+
+<table>
+  <tr>
+    <td><b>First set of towers</b></td>
+    <td>H1, H2, ST</td>
+  </tr>
+  <tr>
+    <td><b>Second set of towers</b></td>
+    <td>D3, D4, MT</td>
+  </tr>
+  <tr>
+    <td><b>Third set of towers</b></td>
+    <td>Ignore <em>(let the tower failed animation wipe the party instead of having D1 and D2 killed by the towers.)</em></td>
+  </tr>
+</table>
+
+Morn Afah's Edge towers will match the Akh Morn's Edge tower groups.
