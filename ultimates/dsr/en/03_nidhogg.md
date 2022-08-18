@@ -1,8 +1,9 @@
 ---
 layout: default
 title: 3. Nidhogg
-parent: DSR
+parent: Lv 90. DSR
 grand_parent: Ultimates
+permalink: /ultimates/dsr/03_nidhogg/
 ---
 
 # Nidhogg
@@ -70,7 +71,7 @@ Note that **at most**, only two pairs of arrows will appear. The following diagr
     <td><img src="../images/nidhogg/wyrmhole_07.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>8.</b> Second set of towers.</p><ul><li><b>1s:</b> Bait Geirskoguls outside.</li></td>
+    <td><p><b>8.</b> Second set of towers.</p><ul><li><b>1s:</b> Bait Geirskoguls outside.</li></ul></td>
     <td><img src="../images/nidhogg/wyrmhole_08.jpg"></td>
   </tr>
   <tr>
@@ -265,6 +266,7 @@ The easiest way to resolve this is to preposition in pairs at each tower:
     <td><img src="../images/nidhogg/4x_towers_example_03.jpg"></td>
   </tr>
 </table>
+</details>
 
 Just like before, Nidhogg clones will appear where the towers were when resolved.
 
@@ -274,21 +276,25 @@ Just like before, Nidhogg clones will appear where the towers were when resolved
 
 <table>
   <tr>
-    <td><p><b>1.</b> Just like before, Nidhogg clones will appear where the towers were when resolved.</p>
-    <ul>
-      <li><b>Three</b> clones will target the closest player with Geirskogul (baited by the healers and ranged DPS).
-      <li>The last clone will attach a Soul tether to a random (non-tank) player.
-      <li>Nidhogg also attached a Soul tether to a random (non-tank) player.
-    </ul></td>
+    <td>
+      <p><b>1.</b> Just like before, Nidhogg clones will appear where the towers were when resolved.</p>
+      <ul>
+        <li><b>Three</b> clones will target the closest player with Geirskogul (baited by the healers and ranged DPS).</li>
+        <li>The last clone will attach a Soul tether to a random (non-tank) player.</li>
+        <li>Nidhogg also attached a Soul tether to a random (non-tank) player.</li>
+      </ul>
+    </td>
     <td><img src="../images/nidhogg/soul_tethers_01.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>2.</b> Tanks take the Soul tethers, and everyone dodges the Geirskoguls.</p>
-    <ul>
-      <li><b>MT:</b> Take Nidhogg's Soul tether and resolve it near Nidhogg.</li>
-      <li><b>ST:</b> Take the clone's Soul tether and resolve it away from Nidhogg.
-    </ul>
-    Soul tethers are <b>extremely</b> hard-hitting tankbusters (~270% of a tank's max HP!)
+    <td>
+      <p><b>2.</b> Tanks take the Soul tethers, and everyone dodges the Geirskoguls.</p>
+      <ul>
+        <li><b>MT:</b> Take Nidhogg's Soul tether and resolve it near Nidhogg.</li>
+        <li><b>ST:</b> Take the clone's Soul tether and resolve it away from Nidhogg.</li>
+      </ul>
+      <p>Soul tethers are <b>extremely</b> hard-hitting tankbusters (~270% of a tank's max HP!)</p>
+    </td>
     <td><img src="../images/nidhogg/soul_tethers_02.jpg"></td>
   </tr>
 </table>

@@ -3,6 +3,8 @@ layout: default
 title: Lv 90. DSR
 parent: Ultimates
 nav_order: 4
+has_children: true
+has_toc: false
 permalink: /ultimates/dsr/
 ---
 
@@ -10,69 +12,13 @@ permalink: /ultimates/dsr/
 
 Elemental's DSR PF strat is still evolving. Use the following macros as a base to start with.
 
-## Summary
-
-For those who are already familiar with the fight, and just need a quick summary:
-
-<table>
-  <tr>
-    <td><b>Ser Adelphel + Grinnaux</b></td>
-    <td><ul><li>HMRT</li></ul></td>
-  </tr>
-  <tr>
-    <td><b>Thordan</b></td>
-    <td>
-      <ul>
-        <li>DRK-relative, role adjust</li>
-        <li>Meteors N/S</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Nidhogg</b></td>
-    <td> 
-      <ul>
-        <li>Easthogg</li>
-        <li>4x towers T/M adjust "cw > ccw > across"</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Eyes</b></td>
-    <td>
-      <ul>
-        <li>DPS blue (or equivalently, T/H red)</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Alternate Thordan</b></td>
-    <td>
-      <ul>
-        <li>2-2 Anchored Dooms N</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Double Dragons</b></td>
-    <td>
-      <ul>
-        <li>△ first tethers</li>
-        <li>DTTMR Mortal Vow</li>
-        <li>Spreads left, stacks right</li>
-        <li>1-5 second tethers</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Dragonking Thordan</b></td>
-    <td>
-      <ul>
-        <li>All 3-3-2</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+- [**Ser Adelphel + Grinnaux**](en/01_adelphel_and_grinnaux.md): HMRT
+- [**King Thordan**](en/02_thordan.md): DRK-relative, role adjust
+- [**Nidhogg**](en/03_nidhogg.md): Easthogg
+- [**Eyes**](en/04_eyes.md): T/H red, DPS blue
+- [**Alternate Timeline Thordan**](en/05_alternate_thordan.md): 2-2 Dooms North, Anchored Dooms
+- [**Double Dragons**](en/06_double_dragons.md): △, DTTMR, 1-5
+- [**Dragonking Thordan**](en/07_dragonking_thordan.md): All 3-3-2
 
 ### BiS Notes
 

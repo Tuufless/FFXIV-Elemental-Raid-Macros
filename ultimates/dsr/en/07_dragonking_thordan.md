@@ -1,8 +1,9 @@
 ---
 layout: default
 title: 7. Dragonking Thordan
-parent: DSR
+parent: Lv 90. DSR
 grand_parent: Ultimates
+permalink: /ultimates/dsr/07_dragonking_thordan/
 ---
 
 # Dragonking Thordan

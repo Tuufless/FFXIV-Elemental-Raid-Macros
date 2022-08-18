@@ -3,6 +3,7 @@ layout: default
 title: 1. Adelphel and Grinnaux
 parent: Lv 90. DSR
 grand_parent: Ultimates
+permalink: /ultimates/dsr/01_adelphel_and_grinnaux/
 ---
 
 # Adelphel and Grinnaux

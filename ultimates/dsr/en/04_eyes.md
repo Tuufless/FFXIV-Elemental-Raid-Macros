@@ -1,8 +1,9 @@
 ---
 layout: default
 title: 4. Eyes
-parent: DSR
+parent: Lv 90. DSR
 grand_parent: Ultimates
+permalink: /ultimates/dsr/04_eyes/
 ---
 
 # Eyes
@@ -35,7 +36,7 @@ Players get tethered with either blue or red tethers where:
     <td><img src="../images/eyes/eyes_01.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>2.</b> After getting the Soul of Friendship and Soul of Devotion buffs, spread out to your initial positions.</td>
+    <td><p><b>2.</b> After getting the Soul of Friendship and Soul of Devotion buffs, spread out to your initial positions.</p></td>
     <td><img src="../images/eyes/eyes_02.jpg"></td>
   </tr>
   <tr>
@@ -49,19 +50,19 @@ Players get tethered with either blue or red tethers where:
     <td><img src="../images/eyes/eyes_03.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>4.</b> When the yellow orbs grow for the second time, <b>tanks and healers</b> pop the yellow orb together (shared damage).</td>
+    <td><p><b>4.</b> When the yellow orbs grow for the second time, <b>tanks and healers</b> pop the yellow orb together (shared damage).</p></td>
     <td><img src="../images/eyes/eyes_04.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>5.</b> After the yellow orbs have been popped, DPS go to the tanks and healers to swap tethers (giving them blue and picking up red).</td>
+    <td><p><b>5.</b> After the yellow orbs have been popped, DPS go to the tanks and healers to swap tethers (giving them blue and picking up red).</p></td>
     <td><img src="../images/eyes/eyes_05.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>6.</b> When the blue orbs grow for the second time, <b>DPS</b> pop the blue orbs (one each).</td>
+    <td><p><b>6.</b> When the blue orbs grow for the second time, <b>DPS</b> pop the blue orbs (one each).</p></td>
     <td><img src="../images/eyes/eyes_06.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>7.</b> All players gather west to prepare for Mirage Dives.</td>
+    <td><p><b>7.</b> All players gather west to prepare for Mirage Dives.</p></td>
     <td><img src="../images/eyes/eyes_07.jpg"></td>
   </tr>
   <tr>
