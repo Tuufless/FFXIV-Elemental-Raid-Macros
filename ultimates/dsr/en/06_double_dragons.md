@@ -237,7 +237,7 @@ The second half is a rehash of the first, with slightly different spins on the s
       </ul>
       <p><em>(This example has Hot Wing with Hraesvelgr's head up.)</em></p>
     </td>
-    <td><img src="../images/double_dragons/hallowed_wings_02.jpg"></td>
+    <td><img src="../images/double_dragons/hallowed_wings_02_01.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -397,6 +397,38 @@ Since there are many possible variations with Wroth Flames, here are a couple ad
   <tr>
     <td><b>5.</b> Move to the middle, identify whether Nidhogg is casting Hot Wing or Hot Tail.</td>
     <td><img src="../images/double_dragons/wroth_flames_ex_03_05.jpg"></td>
+  </tr>
+</table>
+</details>
+
+## Additional Examples: Hallowed Wings #2
+
+Here are some other potential configurations:
+
+<details>
+<summary>Hot Wing, head up</summary>
+<table>
+  <tr>
+    <td>
+      <p>Hot Wing means all party members must stay near the E/W line.</p>
+      <p>Heads up means the tanks are away from Hraesvelgr, and the rest of the party is towards Hraesvelgr.
+      <p>The MT takes the western-most position.</p>
+    </td>
+    <td><img src="../images/double_dragons/hallowed_wings_02_01.jpg"></td>
+  </tr>
+</table>
+</details>
+
+<details>
+<summary>Hot Tail, head down</summary>
+<table>
+  <tr>
+    <td>
+      <p>Hot Wing means all party members must stay near the E/W line.</p>
+      <p>Heads up means the tanks are away from Hraesvelgr, and the rest of the party is towards Hraesvelgr.
+      <p>The MT takes the western-most position.</p>
+    </td>
+    <td><img src="../images/double_dragons/hallowed_wings_02_02.jpg"></td>
   </tr>
 </table>
 </details>
