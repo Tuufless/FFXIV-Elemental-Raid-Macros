@@ -290,6 +290,49 @@ The reason why we did not stack opposite tethers in Wyrmsbreath #2 was because w
   </tr>
 </table>
 
+## Additional Examples: Hallowed Wings #1
+
+Here are some other potential configurations:
+
+<details>
+<summary>NE quadrant safe, head up</summary>
+<table>
+  <tr>
+    <td>
+      <p>Heads up means tanks far, party near.</p>
+      <p>The MT takes the northern-most position.</p>
+    </td>
+    <td><img src="../images/double_dragons/hallowed_wings_01_02.jpg"></td>
+  </tr>
+</table>
+</details>
+
+<details>
+<summary>SW quadrant safe, head down</summary>
+<table>
+  <tr>
+    <td>
+      <p>Heads down means tanks near, party far.</p>
+      <p>The MT takes the northern-most position.</p>
+    </td>
+    <td><img src="../images/double_dragons/hallowed_wings_01_03.jpg"></td>
+  </tr>
+</table>
+</details>
+
+<details>
+<summary>SW quadrant safe, head up</summary>
+<table>
+  <tr>
+    <td>
+      <p>Heads up means tanks far, party near.</p>
+      <p>The MT takes the northern-most position.</p>
+    </td>
+    <td><img src="../images/double_dragons/hallowed_wings_01_04.jpg"></td>
+  </tr>
+</table>
+</details>
+
 ## Additional Examples: Wroth Flames
 
 Since there are many possible variations with Wroth Flames, here are a couple additional scenarios to consider.
