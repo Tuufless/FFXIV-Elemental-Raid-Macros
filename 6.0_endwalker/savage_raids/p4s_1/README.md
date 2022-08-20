@@ -74,9 +74,9 @@ I personally recommend "Braindead" orbs, although English parties often prefer G
 　D1▲D2　※Ranged spread appropriately
 　　 ST　　　　towards the edge
 ―《Green orbs：Gumi》――――――――――――
-　D4 MT H1　　※MTH1→D1　STH2→D3
-　 D3  ▲ ST　　※D1D2→MT　D3D4→ST
-　D2 D1 H2
+　D4 MT H1　　※MTH1→D1　STH2→D2
+　 D2  ▲ ST　　※D1D3→MT　D2D4→ST
+　D3 D1 H2
 　※Take orbs as above, then rotate clockwise
 ```
 
