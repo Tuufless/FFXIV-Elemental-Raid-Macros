@@ -151,20 +151,20 @@ This is the macro for the bulk of the fight.
 　　　　 × 　　　　　non-doomed adjust
 　■ Meteors：Caster LB2 (centered true N)
 ―《Double Dragons》 (△, DTTMR, 1-5) ―――――
-　(North)　MT H1 D1 D3 → Nidhogg　
-　(South)　ST H2 D2 D4 → Hraesvelgr
+　MT → Nidhogg　　ST → Hraesvelgr
 【Wyrmsbreath #1】
-　MT　　　　ST　　
-　　　　　　　　　　※ H1, H2, D4 stays
-　　　D3D4　　　　※ D1, D2, D3 adjusts
-　H1D1　　H2D2
-【Hallowed Wings】MT → N/W　　ST → S/E
+　　　D3D4　　　　※ H1, H2, D4 stays　
+　H1D1　　H2D2　※ D1, D2, D3 adjusts
+【Akh Afah】North：MT, H1, D1, D3
+　　　　　　　South：ST, H2, D2, D4
+【Hallowed Wings #1】MT → North　ST → South
 【Mortal Vow】(pass in mid except last) 
-　　DPS → MT → ST → D1/D2 → D3
-【Wroth Flames】Spread → Nidhogg
+　　DPS → MT → ST → (D1>D2) → D3
+【Wroth Flames】Spread → Nidhogg　
 　　　　　　　　　Stacks → Hraesvelgr
+【Hallowed Wings #2】MT → West　ST → East
 【Wyrmsbreath #2】(1-5) H1 north
-【Cauterize】(2x invuln) MT → West, ST → east
+【Cauterize】(2x invuln) MT → West, ST → East
 ―《Dragonking Thordan》―――――――――――
 【Mitigations】
 　All with H2 30s, shields and:
