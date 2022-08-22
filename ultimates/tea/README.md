@@ -111,9 +111,9 @@ permalink: /ultimates/tea/
 　　Light Beacon：NNW
 　　Dark Beacon：East (on marker)
 　■ Exatrines
-　　※ All with shields + H2 30s and:
-　　　1st: MT Reprisal + MT 90s + H1 + D3
-　　　2nd: ST Reprisal + ST 90s + D4
+　　※ All with shields + H2 30s and：
+　　　1st: MT Rep + MT 90s + H1 120s + D1 + D4
+　　　2nd: ST Rep + ST 90s + H2 120s + D2 + D3
 ```
 
 ## Markers
