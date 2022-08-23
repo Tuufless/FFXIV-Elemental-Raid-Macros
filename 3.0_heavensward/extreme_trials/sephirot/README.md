@@ -9,18 +9,20 @@ permalink: /3.0_heavensward/extreme_trials/sephirot/
 
 # Containment Bay S1T7 (Extreme)
 
+An up-to-date reference would be [Nukemaru's guide](https://youtu.be/bHCGhhyV8VQ).
+
 ## English
 ```
-■2x stacks　　　　■ Green + purple spread
-　　　 MT　　　　　　↑↑(Boss front)↑↑
-　H+ST▲DPS　　　　　　　　 ▲
-■ Adds phase　　　　D1　MT　ST　D2
-　MT→Big　ST→Small　H1　　　　H2
-　Kill: SBSSBS　　　　　　　D3　D4
+■2x stacks　　　　　■ Green + purple spread
+　　　 MT　　　　　　　↑↑(Boss front)↑↑
+　H+ST▲DPS　　　　　　　　　   ▲
+■ Adds phase　　　　　D1　MT(P)ST　D2
+　MT→Big　ST→Small　　H1　　　　H2
+　Kill: SBSSBS　　　　　　　　D3　D4
 ■ Towers
 　With colour buffs：West→T/H　East→DPS
 　Without buffs：West→MT　  East→ST
-■ Tethers：Take green tethers, stack top-right
+■ Tethers：Take green tethers, stack top-left
 ■ Da'at spread　　　　■ Earthshakers
 　 ←D1　 D2→　　　　　West→Healer
 MT→　　　   ←ST　　　　East→DPS
@@ -32,14 +34,14 @@ H1→　　　　←H2
 ```
 ■2連頭割り　　　　　■緑と紫マーカー散開
 　　　 MT　　　　　　↑↑(BOSS背面)↑↑
-　H+ST▲DPS　　　　　　　　 ▲
-■雑魚フェーズ 　　　　D1　MT　ST　D2
+　H+ST▲DPS　　　　　　　　  ▲
+■雑魚フェーズ 　　　　D1　MT 紫 ST　D2
 　MT→大　ST→小　　　H1　　　　H2
 　小大小小大小　　　　　　D3　D4
 ■ 塔処理優先
 　バフある時：西→T/H　東→DPS
 　ノーバフ時：西→MT　  東→ST
-■ 緑線処理：線取って右上に集合
+■ 緑線処理：線取って左上に集合
 ■ダアト散開　　　　　■ アースセイカー
 　 ←D1　 D2→　　　　　西→ヒラ
 MT→　　　   ←ST　　　　東→DPS
@@ -49,15 +51,15 @@ H1→　　　　←H2
 
 ## Markers
 
-The `B` and `C` markers were used for Earthshakers as they were proximity damage in the original Sephirot EX.
+The `B` and `C` markers were used for Earthshakers as they are proximity damage in Sephirot EX.
 
-**Earthshakers are changed in the Unreal version of the fight, and are not proximity damage.**
+**Earthshakers have been changed in the Unreal version of the fight, and are not proximity damage.**
 
 * `A`: Party stack at the start of the triple-knockback sequence.
 * `B`: DPS Earthshaker (not really needed for Unreal)
 * `C`: Healer Earthshaker (not really needed for Unreal)
-* `1`: Orange players stack.
-* `2`: Green players stack (with tethers).
+* `1`: Green players stack (with tethers).
+* `2`: Orange players stack.
 
 ![](images/markers.jpg)
 <details markdown=block>
