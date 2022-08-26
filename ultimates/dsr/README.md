@@ -30,6 +30,8 @@ Looking towards the future:
 - Dragonsong's Reprise will not be outgeared until **i730** gear is available.
 - Relic weapons (when they arrive) will have their substats capped at **269**.
 
+![](images/dsr_cheatsheet.jpg)
+
 # Ser Adelphel and Ser Grinnaux
 
 Dragonsong's Reprise is the first Ultimate to showcase a "door" boss. As such, there are two sets of markers and macros to use for this fight.
