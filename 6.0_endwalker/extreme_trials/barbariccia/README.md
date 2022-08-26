@@ -9,51 +9,51 @@ permalink: /6.0_endwalker/extreme_trials/barbariccia/
 
 # Storm's Crown (Extreme)
 
-PF largely follows [Hamkatsu's strat](https://youtu.be/e-w4nFwWw-8).
+This is [game8's macro](https://game8.jp/ff14/477950).
 
-### Things to check on Party Finder
-
-Check the Enumeration pairs- some macros pair MTD4, H2D2, ... instead of MTD3, H2D4, ...
-
-## English
-```
-■ Spread　　■ Playstation
-　D3 MT D4　　　　△
-　H1　　H2　　□　　　○
-　D1 ST  D2　　　　×
-【4:4 stacks】D3 H1 D1 MT←→ST D2 H2 D4
-【Hair+AoE+Enumeration】NE + SW
-【Enumeration Pairs】MTD3　H2D4　STD2　H1D1
-【Mario Kart】Start South, run cw
-【2x Flares + stack】MT→NW　ST→NE　stack→S
-【PS1 spread】DPS→cw　T/H→ccw
-【PS2 pairs】Pairs without Enums rotate cw
-　unless both Enum pairs are next to each other
-```
+It's basically [Hamkatsu's strat](https://youtu.be/e-w4nFwWw-8), but resolves Playstation symbols in a "braindead" manner (T/H go to assigned cardinals, DPS all stack in the center and get pulled to their assigned partner). 
 
 ## Japanese
 ```
-■基本散開　　■プレステ散開
-　D3 MT D4　　　　△
-　H1　　H2　　□　　　○
-　D1 ST  D2　　　　×
-【4:4頭割り】D3 H1 D1 MT←→ST D2 H2 D4
-【ヘアレイド足元】ボス向き基準で散開or頭割り
-【髪+AoE+頭割り】北東(1マーカー)と南西（3マーカー）で頭割り
-【タコマーカー】中央に捨て方角基準で基本散開
-【ペア頭割り】MTD3　H2D4　STD2　H1D1
-【線+エラプ】南スタート　時計回り
-【フレア+頭割り】MT北西　ST北東　頭割り南
-【プレステ後散開】AoE跨ぎDPS時計側、TH反時計側
-【ペア頭割り】無職組が時計移動
-　　　　　　　無職が被る場合のみ片方が反時計移動
+【散開基準】ヘアレイド：ボス基準　それ以外：北基準
+【基本散開】　 【ペア塔】
+D3 MT D4　　　MTD3
+H1　　H2　 H1D1　 H2D4
+D1 ST D2　 　　 STD2
+【ヘアレイド】H1 MT ◎ ST H2
+　　　　　　　D3 D1　D2 D4
+【距離減衰+頭割り】【プレステ脳死】
+　　MT　　ST　　　　　　MT
+　　　　◎ 　 　 　　　H1 DPS H2
+　　　頭割り 　 　 　　　　ST　※マーカー問わずDPS中央
+【呪髪拘束1回目】ペア塔：① ③マーカー付近 AOE：ペア塔と逆
+【4連円範囲捨て】Cマーカー付近スタートで時計回り
+【呪髪拘束2回目】DPS：時計回り側　TH：反時計回り側
+```
+
+## English
+```
+Hair Raid：Boss-relative　Others：Map-relative
+【Spread】　　 【Pairs】
+　D3 MT D4　　　MTD3
+　H1　　H2　 H1D1　 H2D4
+　D1 ST D2　 　　 STD2
+【Hair Raid】H1 MT ◎ ST H2
+　　　　　　　D3 D1　D2 D4
+【2x Flares + stack】【Playstation (braindead)】
+　　MT　　ST　　　　　　　　MT
+　　　　◎ 　 　 　　　　　H1 DPS H2
+　　　stack 　 　　　 　　　　  ST
+【Teasing Tangles #1】Pairs at ①+③
+【Mario Kart】Start at C, run clockwise
+【Teasing Tangles #2】DPS：cw　TH：ccw
 ```
 
 ## Markers
 
-Note that the `ABCD` markers aren't all the way at the edge- this is to make them easier to spot when the boss transforms and the arena shrinks.
+You might see the `ABCD` markers placed further out towards the edge of the arena.
 
-- `ABCD`: Orientation
+- `ABCD`: Orientation, T/H Playstation positions
 - `C`: Party stack during 2x Flares + stack
 - `1` and `3`: Enumeration pairs during Teasing Tangles
 
@@ -62,6 +62,6 @@ Note that the `ABCD` markers aren't all the way at the edge- this is to make the
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
 ```json
-{"Name":"Barbariccia EX","MapID":871,"A":{"X":100.0,"Y":0.0,"Z":87.0,"ID":0,"Active":true},"B":{"X":113.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":113.0,"ID":2,"Active":true},"D":{"X":87.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":106.0,"Y":0.0,"Z":94.0,"ID":4,"Active":true},"Two":{"X":0.0,"Y":0.0,"Z":0.0,"ID":5,"Active":false},"Three":{"X":94.0,"Y":0.0,"Z":106.0,"ID":6,"Active":true},"Four":{"X":0.0,"Y":0.0,"Z":0.0,"ID":7,"Active":false}}
+{"Name":"Barbariccia EX","MapID":871,"A":{"X":100.0,"Y":0.0,"Z":91.5,"ID":0,"Active":true},"B":{"X":108.5,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":108.5,"ID":2,"Active":true},"D":{"X":91.5,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":106.0,"Y":0.0,"Z":94.0,"ID":4,"Active":true},"Two":{"X":106.0,"Y":0.0,"Z":94.0,"ID":5,"Active":false},"Three":{"X":94.0,"Y":0.0,"Z":106.0,"ID":6,"Active":true},"Four":{"X":94.0,"Y":0.0,"Z":106.0,"ID":7,"Active":false}}
 ```
 </details>
