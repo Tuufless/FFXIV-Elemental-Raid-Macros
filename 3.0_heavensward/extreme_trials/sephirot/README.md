@@ -14,7 +14,7 @@ An up-to-date reference would be [Nukemaru's guide](https://youtu.be/bHCGhhyV8VQ
 ## English
 ```
 ■2x stacks　　　　　■ Green + purple spread
-　　　 MT　　　　　　　↑↑(Boss front)↑↑
+　　　 MT　　　　　　　　　↑↑↑↑↑↑
 　H+ST▲DPS　　　　　　　　　   ▲
 ■ Adds phase　　　　　D1　MT(P)ST　D2
 　MT→Big　ST→Small　　H1　　　　H2
@@ -24,16 +24,16 @@ An up-to-date reference would be [Nukemaru's guide](https://youtu.be/bHCGhhyV8VQ
 　Without buffs：West→MT　  East→ST
 ■ Tethers：Take green tethers, stack top-left
 ■ Da'at spread　　　　■ Earthshakers
-　 ←D1　 D2→　　　　　West→Healer
-MT→　　　   ←ST　　　　East→DPS
-H1→　　　　←H2
-　 ←D3　 D4→
+　←D1　 D2→　　　　　West→Healer
+　←MT　ST→　　　　　　East→DPS
+　←H1　H2→
+　←D3　 D4→
 ```
 
 ## Japanese
 ```
 ■2連頭割り　　　　　■緑と紫マーカー散開
-　　　 MT　　　　　　↑↑(BOSS背面)↑↑
+　　　 MT　　　　　　　   ↑↑↑↑↑↑
 　H+ST▲DPS　　　　　　　　  ▲
 ■雑魚フェーズ 　　　　D1　MT 紫 ST　D2
 　MT→大　ST→小　　　H1　　　　H2
@@ -43,10 +43,10 @@ H1→　　　　←H2
 　ノーバフ時：西→MT　  東→ST
 ■ 緑線処理：線取って左上に集合
 ■ダアト散開　　　　　■ アースセイカー
-　 ←D1　 D2→　　　　　西→ヒラ
-MT→　　　   ←ST　　　　東→DPS
-H1→　　　　←H2
-　 ←D3　 D4→
+　←D1　 D2→　　　　　西→ヒーラー
+　←MT　ST→　　　　　　東→DPS
+　←H1　H2→
+　←D3　 D4→
 ```
 
 ## Markers
