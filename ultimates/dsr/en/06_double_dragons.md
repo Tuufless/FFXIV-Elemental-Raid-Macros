@@ -42,7 +42,7 @@ If you are already familiar with the Double Dragons phase, and just need a quick
     <td><b>Wyrmsbreath #2</b></td>
     <td>
       <ul>
-        <li>1-5, H1 north</li>
+        <li>5-1, D3 south</li>
       </ul>
     </td>
   </tr>
@@ -252,8 +252,10 @@ The second half is a rehash of the first, with slightly different spins on the s
       <p><b>4. Wyrmsbreath #2</b></p>
       <p>This time, we <b>do not</b> want to stack opposite tethers.</p>
       <ul>
-        <li><b>H1:</b> Go north, and <b>move towards a dragon whose mouth is glowing</b>.</li>
-        <li><b>All other non-tanks:</b> Spread out along the south edge.</li>
+        <li><b>MT:</b> SW if you get the single-target tankbuster (by Nidhogg).</li>
+        <li><b>ST:</b> SE if you get the single-target tankbuster (by Hraesvelgr).</li>
+        <li><b>D3:</b> Go south, and <b>move towards a dragon whose mouth is glowing</b>.</li>
+        <li><b>All other non-tanks:</b> Spread out along the <b>north</b> edge.</li>
       </ul>
       <p><em>(In this example, Hraesvelgr's mouth is glowing).</em></p>
     </td>
