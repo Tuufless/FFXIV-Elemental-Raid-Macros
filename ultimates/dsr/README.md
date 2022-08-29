@@ -38,14 +38,14 @@ Dragonsong's Reprise is the first Ultimate to showcase a "door" boss. As such, t
 
 ### Things to check on Party Finder
 
-- Check the marker order for Hyperdimensional Slash (some groups do S→N).
+- Check the marker order for Hyperdimensional Slash (some groups do N→S).
 - Check the Playstation positions (there are many variants).
 
 ## English
 ```
 　Adelphel：ST　Grinnaux：MT
 【Holy Bladedance】Tether → MT + invuln
-【Hyperdimensional Slash】Markers N → S
+【Hyperdimensional Slash】Markers S → N
 【Execution】ST invulns
 【Silence】ST → D3 → ST
 【Playstation chains】

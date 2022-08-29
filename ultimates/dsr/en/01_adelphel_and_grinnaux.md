@@ -15,7 +15,7 @@ If you are already familiar with Adelphel and Grinnaux, and just need a summary:
 <table>
   <tr>
     <td><b>Hyperdimensional Slash</b></td>
-    <td><ul><li>North → South</li></ul></td>
+    <td><ul><li>South → North</li></ul></td>
   </tr>
   <tr>
     <td><b>Playstation</b></td>
