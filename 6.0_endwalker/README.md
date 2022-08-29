@@ -17,10 +17,6 @@ The level cap for Endwalker is **Level 90**.
 - **Hydaelyn EX** - [The Minstrel's Ballad: Hydaelyn's Call](extreme_trials/hydaelyn/README.md)
 - **Endsinger EX** - [The Minstrel's Ballad: The Endsinger's Aria](extreme_trials/endsinger/README.md)
 
-## Unreal Trials
-
-- **Ultima Weapon** (Patch 6.1) - [Ultima's Bane (Unreal)](unreal_trials/ultima_weapon/README.md)
-
 ## Savage
 
 ### Pandæmonium: Asphodelos (Patch 6.0)

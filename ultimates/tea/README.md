@@ -28,8 +28,8 @@ permalink: /ultimates/tea/
 ```
 ―《Living Liquid (Separations)》――――――――
 　■ Jagd Dolls：
-　　D2●D1　　Protean：MT (N), H1 (W), H2 (E)
-　　　　　　　　Dolls：D1>D2>D3>D4
+　　D2●D1　　Proteans：MT (North)
+　　　　　　　　　　H1 (West)　H2 (East)
 　●D3　D4●
 　■ 1st Protean Waves
 　　　MT ST　　　1. Stack N/S
