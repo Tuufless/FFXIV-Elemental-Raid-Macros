@@ -37,7 +37,9 @@ The item level cap for Pandæmonium: Asphodelos is **iLvl 635**.
 - **P5S** - [Abyssos: The Fifth Circle (Savage)](savage_raids/p5s/README.md)
 - **P6S** - [Abyssos: The Sixth Circle (Savage)](savage_raids/p6s/README.md)
 - **P7S** - [Abyssos: The Seventh Circle (Savage)](savage_raids/p7s/README.md)
-- **P8S** - [Abyssos: The Eighth Circle (Savage)](savage_raids/p8s/README.md)
+- **P4S** - Abyssos: The Eighth Circle (Savage)
+	- [Part 1](savage_raids/p8s_1/README.md)
+	- [Part 2](savage_raids/p8s_2/README.md)
 
 ## Ultimate
 
