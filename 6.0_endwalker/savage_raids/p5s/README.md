@@ -11,6 +11,11 @@ permalink: /6.0_endwalker/savage_raids/p5s/
 
 This is [Game8's macro](https://game8.jp/ff14/464675)
 
+Guides:
+- [Akito](https://youtu.be/N4YaRf1X6L8) (JP)
+- [Hamkatsu](https://youtu.be/d71hgVaUAcc) (JP)
+- [Nukemaru](https://youtu.be/GRrZvJT1fXM) (JP)
+
 ### Things to check on Party Finder
 
 - **I'm expecting updates to Game8's macro**- the macro doesn't match their diagrams on the webpage in a few places.
@@ -28,10 +33,8 @@ D1 ST D2　　　　　　 D1D2
 【Poison towers (melee in / ranged out)】
 MTST / H1D3：CCW from 12 o'clock
 D1D2 / H2D4：CW from 1 o'clock
-【Venom Surge】
-West：MTH1D1D2　East：STH2D3D4
-【Venom Splash】
-Inside：MTH1D1D2　Outside：STH2D3D4
+【Venom Surge/Splash】
+West/In：MTH1D1D3　East/Out：STH2D2D4
 【Ruby Glow 5】
 　　　D1 H1 D3
 　　　　MT
@@ -55,10 +58,8 @@ D1 ST D2　　　　　　 D1D2
 【毒塔（近接内側 / 遠隔外側）】
 MTST / H1D3：12時から反時計回り
 D1D2 / H2D4：1時から時計回り
-【ベノムサージ(東西受け)】
-西：MTH1D1D2 東：STH2D3D4
-【ベノムスプラッシュ】
-内壁側：MTH1D1D2　外壁側：STH2D3D4
+【ベノムサージ(東西受け)/スプラッシュ】
+西/内壁：MTH1D1D3 東/外壁：STH2D2D4
 【毒沼 + ベノムスコール】
 　　　D1 H1 D3
 　　　　MT
