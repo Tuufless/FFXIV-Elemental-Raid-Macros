@@ -74,5 +74,5 @@ AOEは外周に捨ててMT/STの位置で頭割り
 ```
 
 ## Timeline
-![](https://preview.redd.it/i4wcil38nwk91.png?width=1735&format=png&auto=webp&s=a5d1031fd69b8fa8f8841af5ef3e1ef0ee2f667a)
+![](https://preview.redd.it/byylqr56ugl91.png?width=1741&format=png&auto=webp&s=9dd4e24d2df98e9b753cfc3a49c63c6956ad709e)
 *(Credit: [u/ExiaKuromonji](https://www.reddit.com/r/ffxiv/comments/x1sj4y/p5s_timeline/))*
