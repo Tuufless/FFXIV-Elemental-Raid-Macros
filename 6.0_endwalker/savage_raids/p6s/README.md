@@ -112,7 +112,7 @@ Letters are N/S, while numbers are E/W to also help with that grouping when dodg
 
 ## Aetheric Polynominoids
 
-![](images/polynominoids.jpg)
+![](images/polynominoids_2.jpg)
 
 ## Cachexis 1
 
@@ -126,7 +126,3 @@ Note that there are two versions of the strat going around:
 2. One based on timers (we aren't using this)
 
 The two players with the 20s debuffs start a little under the boss. All other players can wait for their vulnerability debuff to wear off before then stepping inside the boss's hitbox.
-
-## Cachexis 2
-
-![](images/cachexis_2.jpg)
