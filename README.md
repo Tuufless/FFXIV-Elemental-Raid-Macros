@@ -28,7 +28,9 @@ The current item level cap is **iLvl 635**.
 - **P5S** - [Abyssos: The Fifth Circle (Savage)](6.0_endwalker/savage_raids/p5s/README.md)
 - **P6S** - [Abyssos: The Sixth Circle (Savage)](6.0_endwalker/savage_raids/p6s/README.md)
 - **P7S** - [Abyssos: The Seventh Circle (Savage)](6.0_endwalker/savage_raids/p7s/README.md)
-- **P8S** - [Abyssos: The Eighth Circle (Savage)](6.0_endwalker/savage_raids/p8s/README.md)
+- **P8S** - Abyssos: The Eighth Circle (Savage)
+    - [Part 1](6.0_endwalker/savage_raids/p8s_1/README.md)
+    - [Part 2](6.0_endwalker/savage_raids/p8s_2/README.md)
 
 **Ultimate Raids:**
 - **DSR** - [Dragonsong's Reprise (Ultimate)](ultimates/dsr/README.md)
