@@ -57,13 +57,13 @@ H1/D1　H2/D2　　16 　 　 　 16
 【Spread】　　【Cachexia】
 　D3　　　D4　　Purple→West　Green→East
 　　MT　ST　　　■ Cachexia 1 (ZizieZip)
-　　　 ●　　　　　　T　T　
-　　D1　D2　　　H　　　H　※ 20s timers start
-　H1　　　H2　　D　　　D　under boss circle
-【Limit Cut】 　　　D　D
+　　　 ●　　　　　　T　T　　※ 20s timers start
+　　D1　D2　　　H　　　H　　under boss circle
+　H1　　　H2　　D　　　D
+【Limit Cut】 　　　D　D　　　N：D1>2>3>4：S
 　Odd→West　　■ Cachexia 2
-　Even→East　　　Stacks→N/S inner tiles
-【Poly 1】　　　　　AoEs→N/S outer tiles
+　Even→East　　　Stacks→2nd or 3rd row
+【Poly 1】　　　　　AoEs→1st or 4th row
 　West：MTH1D1D3
 　East：STH2D2D4
 【Exchange of Agonies 2】【Poly 3】
@@ -109,3 +109,11 @@ These markers are for ZizieZip *(I want to update these so that the same-coloure
 ```
 
 </details>
+
+## Aetheric Polynominoids
+
+![](images/polynominoids.jpg)
+
+## Cachexis 2
+
+![](images/cachexis_2.jpg)
