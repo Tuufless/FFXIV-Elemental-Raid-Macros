@@ -19,48 +19,44 @@ PF uses [Shinosho's strat](https://youtu.be/JOMBTuWf-j8) as a base, but modifies
 
 - Check the Purgation positions, **especially if you join a Japanese party**.
 
-## English
-*(I expect this to change when Game8 releases their macro)*
+## Japanese
+
+The following is [Game8's macro](https://game8.jp/ff14/479465):
 ```
-【Forbidden Fruit 1】
-　Near：MTH1D1D3　Far：STH2D2D4
-【Inviolate Bonds】
-　MT/D1　ST/D2
-　H1/D3　H2/D4
-【Forbidden Fruit 2 (Shinosho)】
-　　 　D1　　　D2
-　D3　・ MT　ST ・　D4　　※ Healers use
- 　　　　　  ▼ 　　　　　　　 　anti-kb
- 　　　 H1　・　  H2
-【Forbidden Fruit 3 / Knockback→stacks】
-　West：MTH1D1D3　East：STH2D2D4
-【Forbidden Fruit 5】
-　Point birds away from close birds + 
-　anti-knockback
+MT組：MTH1D1D3　ST組：STH2D2D4
+　【基本散開】　　　　　【ノックバック+鳥】
+MT/D1　ST/D2　　　　 D1　　 　 　 D2
+　　 　 ★　　　　　　D3　 MT　 　ST　 D4
+H1/D3　H2/D4　　　　通路 　 　 　 通路
+　　　　　　　　　　　H1　　　　　　　H2
+【生命の果実：頭割り】　│【魔印創成：散開】
+北側：MT組　南側：ST組 │基本散開※頭割りと被ったら通路
+【エクサ+頭割り】　 　 　 │【鳥誘導＋塔】
+西：MT組　東：ST組　　 │基本散開準拠でズレたら時計回り
+【魔印創成：獄】
+　 ▼西島▼　　　　　　　 　 ▼東島▼
+頭割り　MT/D1 　 　 　 MT/D1　頭割り
+ST/D2　H2/D4　通路　H2/D4　ST/D2
+　　　　H1/D3　 　　　H1/D3
+```
+
+## English
+```
+G1：MTH1D1D3　G2：STH2D2D4
+　【Basic spread】　【Knockback + birds】
+　MT/D1　ST/D2　　　 D1　　 　 　 D2
+　　　 　 ★　　　　　D3　 MT　 　ST　 D4
+　H1/D3　H2/D4　　(bridge)　(bridge)
+　　　　　　　　　　　　H1　　　　　H2
+【Forbidden Fruit 1】　　│【Inviolate Bonds】
+　North：G1　South：G2│Basic spread
+【Exaflares + stack】 　　 │【Birds + towers】
+　West：G1　East：G2 　│Basic spread, bait CW
 【Inviolate Purgation (Sleepo)】
-　　　　MT/D1　　　MT/D1　　※ Starting point
-　(stack)　　　　　　　　　　(stack)　　NW>NE
-　　　　H1/D2（bird）H1/D2
-　ST/D3　　　　　　　　　　ST/D3
-　　　　H2/D4　　　H2/D4
-　Light of Life #1：MT Reprisal, MT 90s, D3
-　Light of Life #2：ST Reprisal, ST 90s, D4
-【Death's Harvest (Fixed pos, tank invuln)】
- 　　　　　★　　　　　　※ Use add on platform
-　　　　／／＼＼　　　　　　as North
-　　　H1 　　　H2　　　※ MTST stack on empty
-　D3　　　　　　　D4　　　bridge + invuln
-　　　　D1 　D2
-【War's Harvest  (inumaru)】
-　※20% mit or 10% mit + shields
-　      ☆   ☆　　　B Tether
-　 ☆   C     M →→ B →→ M Tether
- 　   ☆　　　      M
-　　　       　     /
-   　                B
-　　　　    /　  B Tether
-　　　M Tether
-　※C = cow, B = bird, M = mino
+　　 ▼West▼　　　　　　　 　 ▼East▼
+　(stack)　MT/D1 　 　 　　　 MT/D1　(stack)
+　ST/D2　H2/D4　(bridge)　H2/D4　ST/D2
+　　　　　H1/D3　 　　　　　H1/D3
 ```
 
 ## Markers (placeable in-game)
@@ -101,3 +97,31 @@ All markers are used for Sleepo's Purgation.
 ```
 
 </details>
+
+## Inviolate Purgation (Sleepo)
+
+This is a strat to resolve Inviolate Purgation that involves alternating all eight players between the two front islands.
+
+[Sleepo Purgation Toolbox](https://ff14.toolboxgaming.space/?id=339073562612661&preview=1)
+
+## Famine's Harvest
+
+The group tethered to minotaurs need to cross tethers to avoid hitting one another.
+
+![](images/famines_harvest.jpg)
+
+## Death's Harvest (fixed positions, tank invuln)
+
+One of the three platforms has an add; use this platform as North, and then all (non-tank) players have fixed assigned positions as shown below, regardless of which Behemoth they're tethered to.
+
+Tanks stack on the empty bridge and invuln.
+
+![](images/deaths_harvest.jpg)
+
+## War's Harvest (Inumaru)
+
+This configuration for War's Harvest is the most prevalent in Party Finder.
+
+**However**, it is not without its faults. In particular, mitigations are required for the players tethered to the minotaurs to survive (the tether will not be stretched long enough).
+
+![](images/wars_harvest.jpg)
