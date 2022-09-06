@@ -94,18 +94,18 @@ Players rotate moving "down" in the markers (i.e: 4→3→2→1→4 and D→C→
 
 ## Markers (ZizieZip)
 
-These markers are for ZizieZip *(I want to update these so that the same-coloured markers are at each intercardinal corner)*.
+These markers are for ZizieZip. The markers are colour-coded in each corner to make callouts easier.
 
-- `1` and `A`: Tanks
-- `2` and `B`: Healers
-- `3`, `C`, `4`, and `D`: DPS
+In addition, the "purple-ish" markers are on the west side, and the "green-ish" markers (blue + yellow) are on the east side to help remember which side the purple/green debuffs go.
+
+Letters are N/S, while numbers are E/W to also help with that grouping when dodging the fan AoEs.
 
 ![](images/markers_ziziezip.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
 ```json
-{"Name":"P6S (ZizieZip)","MapID":881,"A":{"X":95.0,"Y":0.0,"Z":88.333,"ID":0,"Active":true},"B":{"X":111.667,"Y":0.0,"Z":95.0,"ID":1,"Active":true},"C":{"X":105.0,"Y":0.0,"Z":111.667,"ID":2,"Active":true},"D":{"X":88.333,"Y":0.0,"Z":105.0,"ID":3,"Active":true},"One":{"X":105.0,"Y":0.0,"Z":88.333,"ID":4,"Active":true},"Two":{"X":111.667,"Y":0.0,"Z":105.0,"ID":5,"Active":true},"Three":{"X":95.0,"Y":0.0,"Z":111.667,"ID":6,"Active":true},"Four":{"X":88.333,"Y":0.0,"Z":95.0,"ID":7,"Active":true}}
+{"Name":"P6S (ZizieZip)","MapID":881,"A":{"X":95.0,"Y":0.0,"Z":88.333,"ID":0,"Active":true},"B":{"X":105.0,"Y":0.0,"Z":88.333,"ID":1,"Active":true},"C":{"X":105.0,"Y":0.0,"Z":111.666,"ID":2,"Active":true},"D":{"X":95.0,"Y":0.0,"Z":111.666,"ID":3,"Active":true},"One":{"X":88.333,"Y":0.0,"Z":95.0,"ID":4,"Active":true},"Two":{"X":111.666,"Y":0.0,"Z":95.0,"ID":5,"Active":true},"Three":{"X":111.666,"Y":0.0,"Z":105.0,"ID":6,"Active":true},"Four":{"X":88.333,"Y":0.0,"Z":105.0,"ID":7,"Active":true}}
 ```
 
 </details>
