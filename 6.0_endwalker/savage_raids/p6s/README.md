@@ -114,6 +114,19 @@ Letters are N/S, while numbers are E/W to also help with that grouping when dodg
 
 ![](images/polynominoids.jpg)
 
+## Cachexis 1
+
+English PFs will use ZizieZip's strat to resolve Cachexis 1.
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">煉獄零式2層：カヘキシー(緑紫デバフ)<br>ぐるぐる回らなくても、少しの移動だけで処理できそう。<br>デバフの残り秒数に関係なく「北T-H-D4321南」順に並べばめちゃくちゃ簡単。<br>基本の立ち位置に各マーカー、順番にタゲサをちょっと踏み越えるだけでOKです。<a href="https://t.co/VMWjsPhUFb">https://t.co/VMWjsPhUFb</a> <a href="https://t.co/CF32Zq8a1U">pic.twitter.com/CF32Zq8a1U</a></p>&mdash; ジジー･ジップ🐥 (@ZizieZip) <a href="https://twitter.com/ZizieZip/status/1564991162775060480?ref_src=twsrc%5Etfw">August 31, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Note that there are two versions of the strat going around:
+
+1. One based on roles (this is the one used in the macro)
+2. One based on timers (we aren't using this)
+
+The two players with the 20s debuffs start a little under the boss. All other players can wait for their vulnerability debuff to wear off before then stepping inside the boss's hitbox.
+
 ## Cachexis 2
 
 ![](images/cachexis_2.jpg)
