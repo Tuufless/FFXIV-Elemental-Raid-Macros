@@ -44,7 +44,7 @@ West/In：MTH1D1D3　East/Out：STH2D2D4
 MT group：Start from North poison quadrant
 ST group：Start from South poison quadrant
 Bait AoE outside, stack on MT/ST
-【Ruby Glow 6：Opposite 3-crystal room】
+【Ruby Glow 6：Diagonally opp 3-crystal room】
 Inside：MTH1D1D2　Outside：STH2D3D4
 ```
 
