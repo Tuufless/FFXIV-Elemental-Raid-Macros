@@ -11,7 +11,7 @@ permalink: /6.0_endwalker/savage_raids/p6s/
 
 PF uses [Nukemaru's strat](https://youtu.be/pibChZ8AjZ8) as a base.
 
-**English** parties will replace Nukemaru's Cachexis 1 strat with [ZizieZip's Cachexis 1 strat](https://twitter.com/ZizieZip/status/1564991162775060480).
+**English** parties will replace Nukemaru's Cachexia 1 strat with [ZizieZip's Cachexia 1 strat](https://twitter.com/ZizieZip/status/1564991162775060480).
 
 The following macros are from [Game8](https://game8.jp/ff14/479307).
 
@@ -47,7 +47,7 @@ H1/D1　H2/D2　　16 　 　 　 16
 【Limit Cut】　【Exchange of Agonies 2】
 　West： Odd　　West→T+H　East→DPS
 　East： Even　　※AoEs go outside as above
-【Cachexis 2】
+【Cachexia 2】
 　West：Purple　East：Green
 　N/S Outer tiles→AoE　N/S Inner tiles→Stacks
 ```
@@ -73,7 +73,7 @@ H1/D1　H2/D2　　16 　 　 　 16
 
 ## Markers (Nukemaru)
 
-These markers are for Nukemaru's Cachexis 1:
+These markers are for Nukemaru's Cachexia 1:
 
 - `1` and `A`: 8 seconds
 - `2` and `B`: 12 seconds
@@ -114,9 +114,9 @@ Letters are N/S, while numbers are E/W to also help with that grouping when dodg
 
 ![](images/polynominoids_2.jpg)
 
-## Cachexis 1
+## Cachexia 1
 
-English PFs will use ZizieZip's strat to resolve Cachexis 1.
+English PFs will use ZizieZip's strat to resolve Cachexia 1.
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">煉獄零式2層：カヘキシー(緑紫デバフ)<br>ぐるぐる回らなくても、少しの移動だけで処理できそう。<br>デバフの残り秒数に関係なく「北T-H-D4321南」順に並べばめちゃくちゃ簡単。<br>基本の立ち位置に各マーカー、順番にタゲサをちょっと踏み越えるだけでOKです。<a href="https://t.co/VMWjsPhUFb">https://t.co/VMWjsPhUFb</a> <a href="https://t.co/CF32Zq8a1U">pic.twitter.com/CF32Zq8a1U</a></p>&mdash; ジジー･ジップ🐥 (@ZizieZip) <a href="https://twitter.com/ZizieZip/status/1564991162775060480?ref_src=twsrc%5Etfw">August 31, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
