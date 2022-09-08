@@ -11,7 +11,13 @@ permalink: /6.0_endwalker/savage_raids/p8s_1/
 
 **DISCLAIMER:** *I haven't gotten around to clearing P8S myself yet, so I may be missing some context in the translation below.*
 
-The following is [Waun Siu's macro](https://jp.finalfantasyxiv.com/lodestone/character/15557346/blog/5090419/), which has been the base for P8S prog in JP.
+### Things to check on Party Finger
+
+- Check the Gorgons priority system- there are several different priorities going around, **even between the two sets of macros below.**
+
+## Waun Siu's macro
+
+The following is [Waun Siu's macro](https://jp.finalfantasyxiv.com/lodestone/character/15557346/blog/5090419/), which has been one of the macros going around JP PF.
 
 ### Japanese
 
@@ -124,9 +130,72 @@ H1D3
 H2D4
 ```
 
-## Markers
+## FFO strat
 
-These markers are for Waun's Siu's macro.
+The [FFO strat](https://jp.finalfantasyxiv.com/lodestone/character/17170591/blog/5094725/) is another macro that's going around JP PF.
+
+### Japanese
+
+```
+■テトラオクタ/誘導/蛇2　 ■基本散会
+　MT/D3　→　ST/D4　　　D3 MT D4
+　　↑　　 ☆　　↓　 　　　H1(H2) ST
+　H1/D1　←　H2/D2 　　D1 H2 D2
+■イントゥシャドウ(1回目)
+　蛇：北から時計回りMTD1>STD2>H1D3>H2D4
+■フェイタルストンプ
+　1,3回目→1(北西)　2,4回目→中央　待機→A(北)
+■幻影創造
+◎竜竜×散開　　　　 │◎フェニ×散開
+　　　　D3　　　 　 │　D3 MT D4
+　　　　MT　ST　D4│　H1 ☆ ST
+　　H1 D1　D2　　 │　D1 H2 D2
+　　　　　　 H2　　 │
+■四重炎嵐(縦横) ｜■四重炎嵐(角)
+　　　 MT　　　│　　中央　※MT組：西優先
+　 D1 ST D2 ｜T　近
+　D3 H1 H2 D4 │遠 H
+◎頭割り：近H位置(MTD1/STD2/H1D3/H2D4)
+■イントゥシャドウ(2回目) 4:4頭割り
+　デバフ持ち：北西>MT/D1>ST/D2>H1/D3>H2/D4>南東
+　無職：北西TH/南東DPS
+■テトラ/ディフレア
+　テトラ：(ボス)MT/D1>ST/D2>H1/D3>H2/D4
+　ディフレア：(ボス)MTH1D1D2>STH2D3D4 
+```
+
+### English
+
+```
+■Tetra/Octa/baits/Snakes 2　 ■ Basic Spread
+　MT/D3　→　ST/D4　　　　　　  D3 MT D4
+　　↑　　 ☆　　↓　　　　　　　　H1(H2) ST
+　H1/D1　←　H2/D2　　　　　　 D1 H2 D2
+■ Into the Shadows #1
+　Gorgons：From N, going clockwise
+　　　MTD1>STD2>H1D3>H2D4
+■ Stomp Dead
+　1st, 3rd→NW　2nd, 4th→mid　Standby→N
+■ Illusory Creation
+◎2x Dragon + spread│◎ 2x Phoenix + spread
+　　　　D3　　　 　 　│　D3 MT D4
+　　　　MT　ST　D4   │　H1 ☆  ST
+　　H1 D1　D2　　　 │　D1 H2 D2
+　　　　　　 H2　　 　│
+■Fourfold Fires(sides) ｜■Fourfold Fires(corners)
+　　　　　 MT　　　　　│　　mid　※MT group：
+　　　 D1 ST D2 　　　   ｜　T　M　　　West priority
+　　D3 H1 H2 D4 　　　│　R　H
+◎ Stacks：M+H locations (MTD1/STD2/H1D3/H2D4)
+■ Into the Shadows #2 (4:4 stacks)
+　Debuffs：NW：MT/D1>ST/D2>H1/D3>H2/D4：SE
+　Nothing：NW→TH　SE→DPS
+■ Tetraflare/Diflare
+　Tetraflare：(Boss)MT/D1>ST/D2>H1/D3>H2/D4
+　Diflare：(Boss)MTH1D1D2>STH2D3D4 
+```
+
+## Markers
 
 - 1 and A are for resolving Stomp Dead (using the L-stomp method)
 
@@ -149,3 +218,37 @@ These markers are for Waun's Siu's macro.
 This is a way to resolve the Earth AoEs and the "Stomp Dead" mechanic in the first "beast" mode.
 
 Note that the video in the Tweet uses the `A` and `2` markers to resolve the mechanic, while the macro uses `1` and `A` instead.
+
+![](images/stomp_dead.jpg)
+*(Credit: [Berga Thompson](https://jp.finalfantasyxiv.com/lodestone/character/17170591/blog/5094725/))*
+
+## Illusory Creation
+
+In the event the boss uses Nest of Flamevipers when the clones are 2x Dragons, the spread positions are as follows:
+
+![](images/illusory_creation_dragon_spread.jpg)
+*(Credit: [Berga Thompson](https://jp.finalfantasyxiv.com/lodestone/character/17170591/blog/5094725/))*
+
+## Fourfold Fires
+
+Here is how to handle the stacks/spreads in Fourfold Fires.
+
+**Note that the corner spreads here are the FFO strat's spread positions, and are different from Waun Siu's strat.**
+
+<table>
+  <tr>
+    <td><img src="images/fourfold_fires_sides_spreads.jpg"></td>
+    <td><img src="images/fourfold_fires_sides_stacks.jpg"></td>
+  </tr>
+  <tr>
+    <td><img src="images/fourfold_fires_corners_spreads.jpg"></td>
+    <td><img src="images/fourfold_fires_corners_stacks.jpg"></td>
+  </tr>
+</table>
+
+*(Credit: [Berga Thompson](https://jp.finalfantasyxiv.com/lodestone/character/17170591/blog/5094725/))*
+
+## Into the Shadows #2 (4:4 stacks)
+
+![](images/gorgon_2.jpg)
+*(Credit: [Berga Thompson](https://jp.finalfantasyxiv.com/lodestone/character/17170591/blog/5094725/))*
