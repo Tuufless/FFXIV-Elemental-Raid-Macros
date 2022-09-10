@@ -24,6 +24,7 @@ The following videos specifically go over the FFO strat:
   - [Hamkatsu](https://youtu.be/D63JWdvXqWY)
   - [Inumaru](https://youtu.be/YSRmSAbPyAM)
 
+*(FFO strat, colour-coded Gorgons 2)*
 ```
 ■テトラオクタ/誘導/蛇2　 ■基本散会
 　MT/D3　→　ST/D4　　　D3 MT D4
@@ -54,6 +55,7 @@ The following videos specifically go over the FFO strat:
 
 ### English
 
+*(FFO strat, colour-coded Gorgons 2)*
 ```
 ■Tetra/Octa/baits/Snakes 2　 ■ Basic Spread
 　MT/D3　→　ST/D4　　　　　　  D3 MT D4
@@ -78,6 +80,40 @@ The following videos specifically go over the FFO strat:
 ■ Into the Shadows #2 (4:4 stacks)
 　Debuffs：NW：MT/D1>ST/D2>H1/D3>H2/D4：SE
 　Nothing：NW→TH　SE→DPS
+■ Tetraflare/Diflare
+　Tetraflare：(Boss)MT/D1>ST/D2>H1/D3>H2/D4
+　Diflare：(Boss)MTH1D1D2>STH2D3D4 
+```
+
+*(FFO strat, Spriggan Gorgons 2)*
+```
+■Tetra/Octa/baits/Snakes 2　 ■ Basic Spread
+　MT/D3　→　ST/D4　　　　　　  D3 MT D4
+　　↑　　 ☆　　↓　　　　　　　　H1(H2) ST
+　H1/D1　←　H2/D2　　　　　　 D1 H2 D2
+■ Into the Shadows #1
+　Gorgons：From N, going clockwise
+　　　MTD1>STD2>H1D3>H2D4
+■ Stomp Dead
+　1st, 3rd→NW　2nd, 4th→mid　Standby→N
+■ Illusory Creation
+◎2x Dragon + spread│◎ 2x Phoenix + spread
+　　　　D3　　　 　 　│　D3 MT D4
+　　　　MT　ST　D4   │　H1 ☆  ST
+　　H1 D1　D2　　　 │　D1 H2 D2
+　　　　　　 H2　　 　│
+■Fourfold Fires(sides) ｜■Fourfold Fires(corners)
+　　　　　 MT　　　　　│　　mid　※MT group：
+　　　 D1 ST D2 　　　   ｜　T　M　　　West priority
+　　D3 H1 H2 D4 　　　│　R　H
+◎ Stacks：M+H locations (MTD1/STD2/H1D3/H2D4)
+■ Into the Shadows #2 (4:4 stacks)
+　Spriggan Gorgon：
+　　MT　D4　　※Aim gaze to closest snake
+　D3　　　ST　　Debuffs (FFO split)：
+　　　  ●　　　　　NW：MT > ST > H1 > H2：SE
+　H1　　　D2　　  NW：D1 > D2 > D3 > D4：SE
+　　D1　H2　　　Nothing：NW→T/H　SE→DPS
 ■ Tetraflare/Diflare
 　Tetraflare：(Boss)MT/D1>ST/D2>H1/D3>H2/D4
 　Diflare：(Boss)MTH1D1D2>STH2D3D4 
@@ -140,3 +176,11 @@ Here is how to handle the stacks/spreads in Fourfold Fires.
 
 ![](images/gorgon_2.jpg)
 *(Credit: [Berga Thompson](https://jp.finalfantasyxiv.com/lodestone/character/17170591/blog/5094725/))*
+
+## Into the Shadows #2 (Spriggan Gorgon 2)
+
+This is a method sometimes employed by **English** parties.
+
+- [Toolbox](https://ff14.toolboxgaming.space/?id=572172390422661&preview=1)
+- [Clip: Snakes at cardinals](https://www.twitch.tv/doanstv/clip/InexpensiveColdbloodedPterodactylRlyTho--3RDXuxtRjxtv1TZ)
+- [Clip: Snakes at intercardinals](https://clips.twitch.tv/SarcasticPoliteOpossumBloodTrail-1QkX3UFKiHVvAeti)
