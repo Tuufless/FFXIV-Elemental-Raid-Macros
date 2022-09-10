@@ -19,7 +19,10 @@ permalink: /6.0_endwalker/savage_raids/p8s_1/
 
 [Game8](https://game8.jp/ff14/480095) went along with the macro for the [FFO strat](https://jp.finalfantasyxiv.com/lodestone/character/17170591/blog/5094725/).
 
-[Inumaru has also made a video](https://youtu.be/YSRmSAbPyAM) specifically going over the FFO strat.
+The following videos specifically go over the FFO strat:
+
+  - [Hamkatsu](https://youtu.be/D63JWdvXqWY)
+  - [Inumaru](https://youtu.be/YSRmSAbPyAM)
 
 ```
 ■テトラオクタ/誘導/蛇2　 ■基本散会
