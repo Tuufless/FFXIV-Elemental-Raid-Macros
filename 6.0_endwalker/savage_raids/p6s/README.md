@@ -63,12 +63,12 @@ H1/D1　H2/D2　　16 　 　 　 16
 【Limit Cut】 　　　D　D　　　N：D1>2>3>4：S
 　Odd→West　　■ Cachexia 2
 　Even→East　　　Stacks→2nd or 3rd row
-【Poly 1】　　　　　AoEs→1st or 4th row
+【Poly 1 + Poly 3】　AoEs→1st or 4th row
 　West：MTH1D1D3
-　East：STH2D2D4
-【Exchange of Agonies 2】【Poly 3】
-　West→T+H　　　　　　Center：MTH1D1D3
-　East→DPS　　　　Outer corner：STH2D2D4
+　East：STH2D2D4　※ Poly 1: Rotate cw
+【Exchange of Agonies 2】
+　West→T+H
+　East→DPS
 ```
 
 ## Markers (Nukemaru)
