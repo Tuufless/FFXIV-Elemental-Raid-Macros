@@ -15,6 +15,11 @@ PF uses [Shinosho's strat](https://youtu.be/JOMBTuWf-j8) as a base, but modifies
 - Fixed positions strat for Death's Harvest.
 - Inumaru's strat for War's Harvest.
 
+Guides:
+
+- [Hamkatsu](https://youtu.be/_mkllPXUVuI) - only Purgation, Famine, Death, and War's Harvest
+- [Nukemaru](https://youtu.be/iaxDpAfkTIA)
+
 ### Things to check on Party Finder
 
 - Check the Purgation positions, **especially if you join a Japanese party**.
