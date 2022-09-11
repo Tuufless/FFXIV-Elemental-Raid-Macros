@@ -125,8 +125,6 @@ Tanks stack on the empty bridge and invuln.
 
 ## War's Harvest (Inumaru)
 
-This configuration for War's Harvest is the most prevalent in Party Finder.
-
-**However**, it is not without its faults. In particular, mitigations are required for the players tethered to the minotaurs to survive (the tether will not be stretched long enough).
+Note that the minotaur tethers will *not* be stretched out enough to turn purple. As a result, **shields and mitigations are required** for the two minotaur players to survive.
 
 ![](images/wars_harvest.jpg)
