@@ -133,6 +133,13 @@ MT　H1　D3　D1
 
 ### Markers:
 
+- `1` and `2` are for the two players who are not involved in Natural Alignment's Ice/Fire.
+- `ABC` is for αβγ in High Concept
+- `D` demarcates the center line for the two stacks in High Concept:
+    - North of `D`: 2-man stack (High Concept 1), Solo-man (High Concept 2)
+    - South of `D`: 3-man stack (High Concept 1, High Concept 2)
+
+![](images/markers.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 

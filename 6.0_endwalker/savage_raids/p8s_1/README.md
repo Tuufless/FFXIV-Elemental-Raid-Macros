@@ -41,9 +41,9 @@ The following videos specifically go over the FFO strat:
 　　H1 D1　D2　　 │　D1 H2 D2
 　　　　　　 H2　　 │
 ■四重炎嵐(縦横) ｜■四重炎嵐(角)
-　　　 MT　　　│　　中央　※MT組：西優先
-　 D1 ST D2 ｜T　近
-　D3 H1 H2 D4 │遠 H
+　　　 MT　　　│　　　中央　※MT組：西優先
+　 D1 ST D2　　│T　近
+　D3 H1 H2 D4 │遠  H
 ◎頭割り：近H位置(MTD1/STD2/H1D3/H2D4)
 ■イントゥシャドウ(2回目) 4:4頭割り
 　デバフ持ち：北西>MT/D1>ST/D2>H1/D3>H2/D4>南東
@@ -73,9 +73,9 @@ The following videos specifically go over the FFO strat:
 　　H1 D1　D2　　　 │　D1 H2 D2
 　　　　　　 H2　　 　│
 ■Fourfold Fires(sides) ｜■Fourfold Fires(corners)
-　　　　　 MT　　　　　│　　mid　※MT group：
-　　　 D1 ST D2 　　　   ｜　T　M　　　West priority
-　　D3 H1 H2 D4 　　　│　R　H
+　　　　　 MT　　　　　│　　　　(BOSS)
+　　　 D1 ST D2 　　　   ｜　T　M　　※MT group：　
+　　D3 H1 H2 D4 　　　│　R　H　　　West priority
 ◎ Stacks：M+H locations (MTD1/STD2/H1D3/H2D4)
 ■ Into the Shadows #2 (4:4 stacks)
 　Debuffs：NW：MT/D1>ST/D2>H1/D3>H2/D4：SE
@@ -103,9 +103,9 @@ The following videos specifically go over the FFO strat:
 　　H1 D1　D2　　　 │　D1 H2 D2
 　　　　　　 H2　　 　│
 ■Fourfold Fires(sides) ｜■Fourfold Fires(corners)
-　　　　　 MT　　　　　│　　mid　※MT group：
-　　　 D1 ST D2 　　　   ｜　T　M　　　West priority
-　　D3 H1 H2 D4 　　　│　R　H
+　　　　　 MT　　　　　│　　　　(BOSS)
+　　　 D1 ST D2 　　　   ｜　T　M　　※MT group：　
+　　D3 H1 H2 D4 　　　│　R　H　　　West priority
 ◎ Stacks：M+H locations (MTD1/STD2/H1D3/H2D4)
 ■ Into the Shadows #2 (4:4 stacks)
 　Spriggan Gorgon：
