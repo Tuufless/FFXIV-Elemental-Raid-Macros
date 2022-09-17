@@ -148,3 +148,19 @@ MT　H1　D3　D1
 ```
 
 </details>
+
+## Timeline
+![](https://preview.redd.it/vihvci9rewm91.png?width=1774&format=png&auto=webp&s=82d069cff2ce2a902fa52a1ff23a47310359eb37)
+*(Credit: [u/ExiaKuromonji](https://www.reddit.com/r/ffxiv/comments/xa6me7/p8s_part_2_timeline/))*
+
+## Limitless Desolation:
+
+Hydi Ai and [Bijyon](https://youtu.be/GA3IWJde15g) proposes the following strategy for Limitless Desolation.
+
+In JP PFs, you might see this:
+```
+万象灰燼 ビジョン式 はいじあ式
+```
+It takes advantage of the fact that the first and third set of towers always spawn in the top two rows, while the second and fourth set of towers always spawn in the middle two rows.
+
+[Nukemaru also made a guide](https://youtu.be/8kdGUhXYBJI) explaining the strat.

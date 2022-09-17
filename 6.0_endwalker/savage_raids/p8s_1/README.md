@@ -133,6 +133,10 @@ The following videos specifically go over the FFO strat:
 
 </details>
 
+## Timeline
+![](https://preview.redd.it/ftr19z698rm91.png?width=1889&format=png&auto=webp&s=b5bbf4e5c09a28de232f19f190b4d49592eed7a1)
+*(Credit: [u/ExiaKuromonji](https://www.reddit.com/r/ffxiv/comments/x9kttl/p8s_part_1_timeline/))*
+
 ## L-Stomps
 
 "L-Stomps" refers to the following Tweet:

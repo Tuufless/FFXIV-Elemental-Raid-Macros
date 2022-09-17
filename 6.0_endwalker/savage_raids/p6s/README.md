@@ -110,6 +110,10 @@ Letters are N/S, while numbers are E/W to also help with that grouping when dodg
 
 </details>
 
+## Timeline
+![](https://preview.redd.it/8x9fj1dkn9m91.png?width=1725&format=png&auto=webp&s=a31c4670ce294596a5c19307835088361ce47048)
+*(Credit: [u/ExiaKuromonji](https://www.reddit.com/r/ffxiv/comments/x49kry/p6s_timeline/))*
+
 ## Aetheric Polynominoids
 
 ![](images/polynominoids_2.jpg)

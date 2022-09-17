@@ -103,6 +103,10 @@ All markers are used for Sleepo's Purgation.
 
 </details>
 
+## Timeline
+![](https://preview.redd.it/gvazt7d9ngm91.png?width=1718&format=png&auto=webp&s=c04fcb786ac3df24733e4136cda2e927cf2727ce)
+*(Credit: [u/ExiaKuromonji](https://www.reddit.com/r/ffxiv/comments/x891mn/p7s_timeline/))*
+
 ## Inviolate Purgation (Sleepo)
 
 This is a strat to resolve Inviolate Purgation that involves alternating all eight players between the two front islands.
