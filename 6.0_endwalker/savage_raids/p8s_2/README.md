@@ -140,6 +140,7 @@ MT　H1　D3　D1
     - South of `D`: 3-man stack (High Concept 1, High Concept 2)
 
 ![](images/markers.jpg)
+![](images/markers_2.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
