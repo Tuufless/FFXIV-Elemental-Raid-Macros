@@ -118,6 +118,27 @@ Solo　　　　　　　　│　Concept
 ![](https://preview.redd.it/vihvci9rewm91.png?width=1774&format=png&auto=webp&s=82d069cff2ce2a902fa52a1ff23a47310359eb37)
 *(Credit: [u/ExiaKuromonji](https://www.reddit.com/r/ffxiv/comments/xa6me7/p8s_part_2_timeline/))*
 
+## Nukemaru's Natural Alignment #1:
+
+Essentially, the Sigil forces the remaining six players into a 2-4 or 4-2 split because it targets two players of the same role (T/H vs DPS).
+
+**Fire** is baited by the three furthest players from the Sigil. The side with 2 players remaining have to figure out their priority between themselves to see who baits Fire:
+```
+Inside: MT>ST>H1>H2: Outside (baiting Fire)
+Inside: D1>D2>D3>D4: Outside (baiting Fire)
+```
+**Ice** is baited by the two closest players to the Sigil. Because the party is split 2-4 or 4-2, one of the players in the group of 4 (MT, or D1) will have to swap over. The pair that has this player (MT+ST, or D1+D2) are baiting Ice.
+
+i.e: If there are four T/H and two DPS, the MT moves over to the east stack and MT+ST bait Ice. Similarly, if there are two T/H and four DPS, then D1 moves over to the west side and D1+D2 bait Ice.
+
+### Example:
+
+Let's say MT and H2 are both selected to be the Sigils. That means:
+
+Fire: The three pairs are ST>H1 *(the two remaining T/H)*, D1>D2, and D3>D4. In each pair, the lower priority player is baiting Fire on the far side of the line.
+
+Ice: As there are four DPS and two T/H, D1 moves over to join the two T/H. D1 and D2 bait Ice on the near side of the line.
+
 ## Limitless Desolation:
 
 Hydi Ai and [Bijyon](https://youtu.be/GA3IWJde15g) proposes the following strategy for Limitless Desolation.
