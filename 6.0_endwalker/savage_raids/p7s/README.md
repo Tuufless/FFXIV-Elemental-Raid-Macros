@@ -64,27 +64,26 @@ G1：MTH1D1D3　G2：STH2D2D4
 　　　　　H1/D3　 　　　　　H1/D3
 ```
 
-## Markers (placeable in-game)
+## Markers (Game8)
 
-These are the markers I use, and can be placed in-game.
+These are the markers as promoted on Game8's website.
 
-- `123`: Center of the three platforms when the arena changes.
+All markers are used for Sleepo's Purgation. Of note, the spread position for the outer-left positions (`B` and `2`) are directly *west/east* of the markers.
 
-In particular, I use square markers because the flat edges give a reference to where True North is to help players align themselves for Purgation.
-
-![](images/markers_placeable.jpg)
+![](images/markers_game8.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
 ```json
-{"Name":"P7S","MapID":877,"A":{"X":0.0,"Y":0.0,"Z":0.0,"ID":0,"Active":false},"B":{"X":0.0,"Y":0.0,"Z":0.0,"ID":1,"Active":false},"C":{"X":0.0,"Y":0.0,"Z":0.0,"ID":2,"Active":false},"D":{"X":0.0,"Y":0.0,"Z":0.0,"ID":3,"Active":false},"One":{"X":85.7106,"Y":0.0,"Z":91.75,"ID":4,"Active":true},"Two":{"X":114.2894,"Y":0.0,"Z":91.75,"ID":5,"Active":true},"Three":{"X":100.0,"Y":0.0,"Z":116.5,"ID":6,"Active":true},"Four":{"X":100.0,"Y":0.0,"Z":100.0,"ID":7,"Active":true}}
+{"Name":"P7S (Game8)","MapID":877,"A":{"X":114.29,"Y":0.0,"Z":86.151,"ID":0,"Active":true},"B":{"X":119.543,"Y":0.0,"Z":96.25,"ID":1,"Active":true},"C":{"X":114.29,"Y":0.0,"Z":100.75,"ID":2,"Active":true},"D":{"X":114.29,"Y":0.0,"Z":91.75,"ID":3,"Active":true},"One":{"X":85.71,"Y":0.0,"Z":86.151,"ID":4,"Active":true},"Two":{"X":80.457,"Y":0.0,"Z":96.25,"ID":5,"Active":true},"Three":{"X":85.71,"Y":0.0,"Z":100.75,"ID":6,"Active":true},"Four":{"X":85.71,"Y":0.0,"Z":91.75,"ID":7,"Active":true}}
 ```
 
 </details>
 
 ## Markers (Sleepo - not placeable in-game)
 
-These set of markers **must** be placed via the XIVLauncher WaymarkPresetPlugin.
+These set of markers **must** be placed via the XIVLauncher WaymarkPresetPlugin. 
+*(These are the "illegal" waymarks that was alluded to in Lodestone.)*
 
 If you don't have the plugin (or play on console), you will need to copy the markers from someone who does.
 
@@ -99,6 +98,24 @@ All markers are used for Sleepo's Purgation.
 
 ```json
 {"Name":"P7S (Sleepo)","MapID":877,"A":{"X":114.29,"Y":0.0,"Z":82.75,"ID":0,"Active":true},"B":{"X":122.084,"Y":0.0,"Z":87.25,"ID":1,"Active":true},"C":{"X":122.0842,"Y":0.0,"Z":96.25,"ID":2,"Active":true},"D":{"X":114.29,"Y":0.0,"Z":100.75,"ID":3,"Active":true},"One":{"X":85.71,"Y":0.0,"Z":82.75,"ID":4,"Active":true},"Two":{"X":77.915,"Y":0.0,"Z":87.25,"ID":5,"Active":true},"Three":{"X":77.915,"Y":0.0,"Z":96.25,"ID":6,"Active":true},"Four":{"X":85.71,"Y":0.0,"Z":100.75,"ID":7,"Active":true}}
+```
+
+</details>
+
+## Markers (Tuufless)
+
+These are the markers I use, and can be placed in-game.
+
+- `123`: Center of the three platforms when the arena changes.
+
+In particular, I use square markers because the flat edges give a reference to where True North is to help players align themselves for Purgation.
+
+![](images/markers_placeable.jpg)
+<details markdown=block>
+<summary>XIVLauncher WaymarkPresetPlugin positions</summary>
+
+```json
+{"Name":"P7S","MapID":877,"A":{"X":0.0,"Y":0.0,"Z":0.0,"ID":0,"Active":false},"B":{"X":0.0,"Y":0.0,"Z":0.0,"ID":1,"Active":false},"C":{"X":0.0,"Y":0.0,"Z":0.0,"ID":2,"Active":false},"D":{"X":0.0,"Y":0.0,"Z":0.0,"ID":3,"Active":false},"One":{"X":85.7106,"Y":0.0,"Z":91.75,"ID":4,"Active":true},"Two":{"X":114.2894,"Y":0.0,"Z":91.75,"ID":5,"Active":true},"Three":{"X":100.0,"Y":0.0,"Z":116.5,"ID":6,"Active":true},"Four":{"X":100.0,"Y":0.0,"Z":100.0,"ID":7,"Active":true}}
 ```
 
 </details>
