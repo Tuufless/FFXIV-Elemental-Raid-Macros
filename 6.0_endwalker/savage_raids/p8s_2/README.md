@@ -109,7 +109,7 @@ Solo　　　　　　　　│　Concept
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
 ```json
-{"Name":"P8S (Nukemaru)","MapID":884,"A":{"X":100.034,"Y":0.0,"Z":81.55,"ID":0,"Active":true},"B":{"X":119.152,"Y":0.0,"Z":99.948,"ID":1,"Active":true},"C":{"X":99.987,"Y":0.0,"Z":118.875,"ID":2,"Active":true},"D":{"X":81.074,"Y":0.0,"Z":99.974,"ID":3,"Active":true},"One":{"X":100.002,"Y":0.0,"Z":85.075,"ID":4,"Active":true},"Two":{"X":100.034,"Y":0.0,"Z":94.86,"ID":5,"Active":true},"Three":{"X":90.06,"Y":0.0,"Z":89.981,"ID":6,"Active":true},"Four":{"X":110.104,"Y":0.0,"Z":89.889,"ID":7,"Active":true}}
+{"Name":"P8S P2 (Nukemaru)","MapID":884,"A":{"X":100.0,"Y":0.0,"Z":81.5,"ID":0,"Active":true},"B":{"X":118.5,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":118.5,"ID":2,"Active":true},"D":{"X":81.5,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":100.0,"Y":0.0,"Z":85.0,"ID":4,"Active":true},"Two":{"X":100.0,"Y":0.0,"Z":95.0,"ID":5,"Active":true},"Three":{"X":90.0,"Y":0.0,"Z":90.0,"ID":6,"Active":true},"Four":{"X":110.0,"Y":0.0,"Z":90.0,"ID":7,"Active":true}}
 ```
 
 </details>
