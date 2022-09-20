@@ -15,14 +15,18 @@ permalink: /6.0_endwalker/savage_raids/p8s_1/
 
 - Check the Gorgons priority system- there are several different priorities going around, **even between the two sets of macros below.**
 
-### Japanese
+## FFO strat
 
-[Game8](https://game8.jp/ff14/480095) went along with the macro for the [FFO strat](https://jp.finalfantasyxiv.com/lodestone/character/17170591/blog/5094725/).
+PF and Game8 went along with the [FFO strat](https://jp.finalfantasyxiv.com/lodestone/character/17170591/blog/5094725/), named after the ["Final Fantasy Online" board on 5ちゃねる](https://egg.5ch.net/ffo/), where the strat was pieced together.
 
 The following videos specifically go over the FFO strat:
 
   - [Hamkatsu](https://youtu.be/D63JWdvXqWY)
   - [Inumaru](https://youtu.be/YSRmSAbPyAM)
+
+The FFO strat resolves Gorgons 2 based on coloured markers. *Some* parties (particularly EN) will do "Spriggan Gorgons 2" instead *(see below)*
+
+### Japanese
 
 *(FFO strat, colour-coded Gorgons 2)*
 ```
@@ -85,12 +89,25 @@ The following videos specifically go over the FFO strat:
 　Diflare：(Boss)MTH1D1D2>STH2D3D4 
 ```
 
+## FFO strat (with Spriggan Gorgons 2)
+
+Some parties (particularly English groups) will do "Spriggan Gorgons 2" instead of the colour-coded style that Game8 proposes. The advantage here is that player positions are all fixed for the first part of the mechanic.
+
+- [Toolbox](https://ff14.toolboxgaming.space/?id=572172390422661&preview=1)
+- Clips:
+  - [Snakes at cardinals](https://www.twitch.tv/doanstv/clip/InexpensiveColdbloodedPterodactylRlyTho--3RDXuxtRjxtv1TZ)
+  - [Snakes at intercardinals](https://clips.twitch.tv/SarcasticPoliteOpossumBloodTrail-1QkX3UFKiHVvAeti)
+
+Some Japanese parties also picked up the strat, but they call it "Fixed Snakes 2" instead (蛇2回目固定).
+
+### English 
+
 *(FFO strat, Spriggan Gorgons 2)*
 ```
-■Tetra/Octa/baits/Snakes 2　 ■ Basic Spread
-　MT/D3　→　ST/D4　　　　　　  D3 MT D4
-　　↑　　 ☆　　↓　　　　　　　　H1(H2) ST
-　H1/D1　←　H2/D2　　　　　　 D1 H2 D2
+■Tetra/Octa/baits　　　 ■ Basic Spread
+　MT/D3　→　ST/D4　　　 D3 MT D4
+　　↑　　 ☆　　↓　　　　   H1(H2) ST
+　H1/D1　←　H2/D2　　　D1 H2 D2
 ■ Into the Shadows #1
 　Gorgons：From N, going clockwise
 　　　MTD1>STD2>H1D3>H2D4
@@ -117,6 +134,41 @@ The following videos specifically go over the FFO strat:
 ■ Tetraflare/Diflare
 　Tetraflare：(Boss)MT/D1>ST/D2>H1/D3>H2/D4
 　Diflare：(Boss)MTH1D1D2>STH2D3D4 
+```
+
+### Japanese
+
+*(FFO strat, Spriggan Gorgons 2 - 蛇2回目固定式)*
+```
+■テトラオクタ/誘導　　　　 ■基本散会
+　MT/D3　→　ST/D4　　　D3 MT D4
+　　↑　　 ☆　　↓　 　　　H1(H2) ST
+　H1/D1　←　H2/D2 　　D1 H2 D2
+■イントゥシャドウ(1回目)
+　蛇：北から時計回りMTD1>STD2>H1D3>H2D4
+■フェイタルストンプ
+　1,3回目→1(北西)　2,4回目→中央　待機→A(北)
+■幻影創造
+◎竜竜×散開　　　　 │◎フェニ×散開
+　　　　D3　　　 　 │　D3 MT D4
+　　　　MT　ST　D4│　H1 ☆ ST
+　　H1 D1　D2　　 │　D1 H2 D2
+　　　　　　 H2　　 │
+■四重炎嵐(縦横) ｜■四重炎嵐(角)
+　　　 MT　　　│　　　中央　※MT組：西優先
+　 D1 ST D2　　│T　近
+　D3 H1 H2 D4 │遠  H
+◎頭割り：近H位置(MTD1/STD2/H1D3/H2D4)
+■イントゥシャドウ(2回目): 位置固定
+　　MT　D4　
+　D3　　　ST　※近い蛇に向いて視線を調整　
+　　　  ●
+　H1　　　D2　※4:4頭割り
+　　D1　H2　　無職：北西TH　南東DPS
+デバフ持ち：北西>MT/D1>ST/D2>H1/D3>H2/D4>南東
+■テトラ/ディフレア
+　テトラ：(ボス)MT/D1>ST/D2>H1/D3>H2/D4
+　ディフレア：(ボス)MTH1D1D2>STH2D3D4 
 ```
 
 ## Markers
@@ -180,11 +232,3 @@ Here is how to handle the stacks/spreads in Fourfold Fires.
 
 ![](images/gorgon_2.jpg)
 *(Credit: [Berga Thompson](https://jp.finalfantasyxiv.com/lodestone/character/17170591/blog/5094725/))*
-
-## Into the Shadows #2 (Spriggan Gorgon 2)
-
-This is a method sometimes employed by **English** parties.
-
-- [Toolbox](https://ff14.toolboxgaming.space/?id=572172390422661&preview=1)
-- [Clip: Snakes at cardinals](https://www.twitch.tv/doanstv/clip/InexpensiveColdbloodedPterodactylRlyTho--3RDXuxtRjxtv1TZ)
-- [Clip: Snakes at intercardinals](https://clips.twitch.tv/SarcasticPoliteOpossumBloodTrail-1QkX3UFKiHVvAeti)
