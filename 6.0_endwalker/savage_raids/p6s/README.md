@@ -9,13 +9,12 @@ permalink: /6.0_endwalker/savage_raids/p6s/
 
 # Abyssos: The Sixth Circle (Savage)
 
-PF uses [Nukemaru's strat](https://youtu.be/pibChZ8AjZ8) as a base.
+The following macros are from [Game8](https://game8.jp/ff14/479307), which uses  [Nukemaru's strat](https://youtu.be/pibChZ8AjZ8).
 
-**English** parties will replace Nukemaru's Cachexia 1 strat with [ZizieZip's Cachexia 1 strat](https://twitter.com/ZizieZip/status/1564991162775060480).
-
-The following macros are from [Game8](https://game8.jp/ff14/479307).
+*Some* parties will replace Nukemaru's Cachexia 1 with ZizieZip's method (see below).
 
 ## Japanese
+
 *(Nukemaru's Cachexia 1)*
 ```
 ※MT組：MTH1D1D3 ST組：STH2D2D4
@@ -35,6 +34,7 @@ H1/D1　H2/D2　　16 　 　 　 16
 ```
 
 ## English
+
 *(Nukemaru's Cachexia 1)*
 ```
 　　【Spread】　　【Cachexia 1 (Nukemaru)】
@@ -51,6 +51,11 @@ H1/D1　H2/D2　　16 　 　 　 16
 　West：Purple　East：Green
 　N/S Outer tiles→AoE　N/S Inner tiles→Stacks
 ```
+
+**English** parties will replace Nukemaru's Cachexia 1 strat with [ZizieZip's Cachexia 1 strat](https://twitter.com/ZizieZip/status/1564991162775060480).
+
+
+## English
 
 *(ZizieZip's Cachexia 1)*
 ```
@@ -69,6 +74,26 @@ H1/D1　H2/D2　　16 　 　 　 16
 【Exchange of Agonies 2】
 　West→T+H
 　East→DPS
+```
+
+## Japanese
+
+*(ZizieZip's Cachexia 1)*
+```
+　【基本散開】　　【カヘキシー】
+　D3　　　D4　　紫→西　緑→東
+　　MT　ST　　　■ カヘキシー1回目 (ジジー･ジップ)
+　　　 ●　　　　　　T　T　　※20秒の人はそもそも
+　　D1　D2　　　H　　　H　　　タゲサ踏む
+　H1　　　H2　　D　　　D
+【サイコロ】 　　　D　D　　　北：D1>2>3>4：南
+　西：奇数　　■ カヘキシー2回目
+　東：偶数　　　北・南外周マス→AoE　内周マス→頭割り
+【頭割り+扇範囲】　
+　西：MTH1D1D3
+　東：STH2D2D4　※時計回りで頭割り
+【チェンジバースト2回目】
+　西→T・H 東→DPS
 ```
 
 ## Markers (Nukemaru)

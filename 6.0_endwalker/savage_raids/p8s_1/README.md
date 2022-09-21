@@ -26,7 +26,7 @@ The following videos specifically go over the FFO strat:
 
 The FFO strat resolves Gorgons 2 based on coloured markers. *Some* parties (particularly EN) will do "Spriggan Gorgons 2" instead *(see below)*
 
-### Japanese
+## Japanese
 
 *(FFO strat, colour-coded Gorgons 2)*
 ```
@@ -57,7 +57,7 @@ The FFO strat resolves Gorgons 2 based on coloured markers. *Some* parties (part
 　ディフレア：(ボス)MTH1D1D2>STH2D3D4 
 ```
 
-### English
+## English
 
 *(FFO strat, colour-coded Gorgons 2)*
 ```
@@ -100,7 +100,7 @@ Some parties (particularly English groups) will do "Spriggan Gorgons 2" instead 
 
 Some Japanese parties also picked up the strat, but they call it "Fixed Snakes 2" instead (蛇2回目固定).
 
-### English 
+## English 
 
 *(FFO strat, Spriggan Gorgons 2)*
 ```
@@ -136,7 +136,7 @@ Some Japanese parties also picked up the strat, but they call it "Fixed Snakes 2
 　Diflare：(Boss)MTH1D1D2>STH2D3D4 
 ```
 
-### Japanese
+## Japanese
 
 *(FFO strat, Spriggan Gorgons 2 - 蛇2回目固定式)*
 ```
