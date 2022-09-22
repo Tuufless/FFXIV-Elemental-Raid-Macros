@@ -89,7 +89,7 @@ Solo　　　　　　　　│　Concept
 /27　　　　　　　  │　Concept
 　　　 　　7γ 　　 　 │　　　　　　27γ
 ※4 Towers：　　　27αβ→Synthesize North
-　　　27γ/Unused 7αβγ→Synthesize South
+　　　27γ/Unused 7αβ→Synthesize South
 【Dominion】　　　　【Tower priority】
 　MTH1 D3 D1　W：MTSTH1H2D4D3D2D1：E
 　ST H2 D4 D2
