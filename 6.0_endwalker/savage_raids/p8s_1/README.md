@@ -9,11 +9,10 @@ permalink: /6.0_endwalker/savage_raids/p8s_1/
 
 # Abyssos: The Eighth Circle (Savage) - Part 1
 
-**DISCLAIMER:** *I haven't gotten around to clearing P8S myself yet, so I may be missing some context in the translation below.*
-
 ### Things to check on Party Finger
 
-- Check the Gorgons priority system- there are several different priorities going around, **even between the two sets of macros below.**
+- Note the spread positions are not the typical spread.
+- Check the Gorgons 2 strat (colours vs Spriggan).
 
 ## FFO strat
 
