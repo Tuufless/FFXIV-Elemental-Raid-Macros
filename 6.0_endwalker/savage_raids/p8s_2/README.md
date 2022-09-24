@@ -13,9 +13,11 @@ permalink: /6.0_endwalker/savage_raids/p8s_2/
 
 PF uses [Nukemaru's strat](https://youtu.be/RaLfkv-B2Zg), substituting [Hydi/Bijyon's strat for Limitless Desolation](https://youtu.be/8kdGUhXYBJI).
 
-## Japanese
+## Game 8's macro
 
-This is [Game8's macro](https://game8.jp/ff14/480771).
+The following is [Game8's macro](https://game8.jp/ff14/480771), which follows Nukemaru's strat.
+
+### Japanese
 
 *(Nukemaru's strat, Hydi/Bijyon's Limitless Desolation)*
 ```
@@ -51,7 +53,7 @@ H1　+　　　+　D3　※2,4番塔は後+で範囲捨て
 　ST H2 D4 D2
  ```
  
-## English:
+### English:
 
 *(Nukemaru's strat, Hydi/Bijyon's Limitless Desolation)*
 ```
@@ -95,9 +97,11 @@ Solo　　　　　　　　│　Concept
 　ST H2 D4 D2
  ```
 
+## Lambda Unendlich's macro
+
  This is slightly modified version of [Lambda Unendlich's macro](https://ffxiv.link/078732) for the same strat (substituting in Game8's Limitless Desolation), but goes into a little more detail about some of the mechanics:
 
-## Japanese
+### Japanese
 
 *(Nukemaru's strat, Hydi/Bijyon's Limitless Desolation)*
 ```
@@ -154,7 +158,7 @@ MT　H1　D3　D1
  塔処理：西MTSTH1H2D4D3D2D1東
 ```
 
-## English
+### English
 
 *(Nukemaru's strat, Hydi/Bijyon's Limitless Desolation)*
 ```
