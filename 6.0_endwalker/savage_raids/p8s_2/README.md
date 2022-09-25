@@ -11,7 +11,7 @@ permalink: /6.0_endwalker/savage_raids/p8s_2/
 
 **DISCLAIMER:** *I haven't gotten around to clearing P8S myself yet, so I may be missing some context in the translation below.*
 
-PF uses [Nukemaru's strat](https://youtu.be/RaLfkv-B2Zg), substituting [Hydi/Bijyon's strat for Limitless Desolation](https://youtu.be/8kdGUhXYBJI).
+PF uses [Nukemaru's strat](https://youtu.be/RaLfkv-B2Zg), substituting [Hydi/Bijyon's strat for Limitless Desolation](#limitless-desolation).
 
 ## Game 8's macro
 
