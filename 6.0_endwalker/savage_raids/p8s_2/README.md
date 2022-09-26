@@ -238,26 +238,57 @@ MT　H1　D3　D1
 ![](https://preview.redd.it/vihvci9rewm91.png?width=1774&format=png&auto=webp&s=82d069cff2ce2a902fa52a1ff23a47310359eb37)
 *(Credit: [u/ExiaKuromonji](https://www.reddit.com/r/ffxiv/comments/xa6me7/p8s_part_2_timeline/))*
 
-## Nukemaru's Natural Alignment #1:
+## Nukemaru's Natural Alignment
 
-Essentially, the Sigil forces the remaining six players into a 2-4 or 4-2 split because it targets two players of the same role (T/H vs DPS).
+Nukemaru's method for resolving Natural Alignment isn't terribly clear in the macro, so here's a breakdown for the Fire/Ice portion.
 
-**Fire** is baited by the three furthest players from the Sigil. The side with 2 players remaining have to figure out their priority between themselves to see who baits Fire:
+<table>
+  <tr>
+    <td><p>These are the base positions for all players during Natural Alignment.</p><p>Two players of the same role (T/H vs DPS) will be selected as the <b>Sigils</b> (the players with the purple mark), forcing the remaining six players into a 2-4 or a 4-2 split.</p></td>
+    <td><img src="images/natural_alignment.jpg"></td>
+  </tr>
+</table>
+
+**Fire** is baited by the three <b>furthest</b> players from the Sigil.
+
+- The side with 4 players take up their base positions as above.
+- The side with 2 players remaining have to figure out the priority between themselves to see who baits Fire:
 ```
 Inside: MT>ST>H1>H2: Outside (baiting Fire)
 Inside: D1>D2>D3>D4: Outside (baiting Fire)
 ```
-**Ice** is baited by the two closest players to the Sigil. Because the party is split 2-4 or 4-2, one of the players in the group of 4 (MT, or D1) will have to swap over. The pair that has this player (MT+ST, or D1+D2) are baiting Ice.
+<table>
+  <tr>
+    <td><p><b>Example 1:</b> MT and ST are selected as the Sigils.</p>
+    <p>The remaining pairs are:<ul><li>H1 > H2</li><li>D1 > D2</li><li>D3 > D4</li></ul>In each pair, the player with the lower priority baits Fire (H2, D2, D4).</p></td>
+    <td><img src="images/natural_alignment_ex1_fire.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>Example 2:</b> D1 and D4 are selected as the Sigils.</p>
+    <p>The remaining pairs are:<ul><li>MT > ST</li><li>H1 > H2</li><li>D2 > D3</li></ul>In each pair, the player with the lower priority baits Fire (ST, H2, D3).</p></td>
+    <td><img src="images/natural_alignment_ex2_fire.jpg"></td>
+  </tr>
+</table>
 
-i.e: If there are four T/H and two DPS, the MT moves over to the east stack and MT+ST bait Ice. Similarly, if there are two T/H and four DPS, then D1 moves over to the west side and D1+D2 bait Ice.
+**Ice** is baited by the two **closest** players to the Sigil.
 
-### Example:
+- Because the party is split 2-4 or 4-2, one of the players in the group of 4 will have to move to the other group to make it an even 3-3 split. This will **either** be the MT (if T/H have four players), or D1 (if DPS have four players)
+- The melee pair from the side that has four players (MT+ST, or D1+D2) baits Ice.
 
-Let's say MT and H2 are both selected to be the Sigils. That means:
+<table>
+  <tr>
+    <td><p><b>Example 1:</b> MT and ST are selected as the Sigils.</p>
+    <p><ul><li>The DPS side has four players, so D1 moves to the other side.</li><li>D1 and D2 bait Ice.</li></ul></p></td>
+    <td><img src="images/natural_alignment_ex1_ice.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>Example 2:</b> D1 and D4 are selected as the Sigils.</p>
+    <p><ul><li>The T/H side has four players, so MT moves to the other side.</li><li>MT and ST bait Ice.</li></ul></p></td>
+    <td><img src="images/natural_alignment_ex2_ice.jpg"></td>
+  </tr>
+</table>
 
-Fire: The three pairs are ST>H1 *(the two remaining T/H)*, D1>D2, and D3>D4. In each pair, the lower priority player is baiting Fire on the far side of the line.
-
-Ice: As there are four DPS and two T/H, D1 moves over to join the two T/H. D1 and D2 bait Ice on the near side of the line.
+There is a variant that also does [Natural Alignment on just one tile](https://youtu.be/Gkk5GsqC5dY) instead of two, making it easier to heal, but makes positioning stricter.
 
 ## Limitless Desolation:
 
