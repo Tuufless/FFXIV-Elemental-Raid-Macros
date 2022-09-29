@@ -90,14 +90,7 @@ The FFO strat resolves Gorgons 2 based on coloured markers. *Some* parties (part
 
 ## FFO strat (with Spriggan Gorgons 2)
 
-Some parties (particularly English groups) will do "Spriggan Gorgons 2" instead of the colour-coded style that Game8 proposes. The advantage here is that player positions are all fixed for the first part of the mechanic.
-
-- [Toolbox](https://ff14.toolboxgaming.space/?id=572172390422661&preview=1)
-- Clips:
-  - [Snakes at cardinals](https://www.twitch.tv/doanstv/clip/InexpensiveColdbloodedPterodactylRlyTho--3RDXuxtRjxtv1TZ)
-  - [Snakes at intercardinals](https://clips.twitch.tv/SarcasticPoliteOpossumBloodTrail-1QkX3UFKiHVvAeti)
-
-Some Japanese parties also picked up the strat, but they call it "Fixed Snakes 2" instead (蛇2回目固定).
+Some parties (particularly English groups) will do ["Spriggan Gorgons 2"](#spriggan-gorgons-fixed-positions) instead of the colour-coded style that Game8 proposes.
 
 ## English 
 
@@ -227,7 +220,42 @@ Here is how to handle the stacks/spreads in Fourfold Fires.
 
 *(Credit: [Berga Thompson](https://jp.finalfantasyxiv.com/lodestone/character/17170591/blog/5094725/))*
 
-## Into the Shadows #2 (4:4 stacks)
+## Into the Shadows #2 (Gorgon 2)
+
+There are two strats going around for Gorgon 2 (蛇2回目 in Japanese).
+
+### Colour-coordinated
+
+This is the strat mostly preferred by Japanese parties.
+
+<table>
+  <tr>
+    <td><p>Each T/H + DPS pair takes turns petrifying the Gorgon in their quadrant (demarcated by the coloured markers).</p><p>The player that is <em>not</em> petrifying the Gorgon places their poison puddle out of the way.</p></td>
+    <td><img src="images/coloured_gorgons_1.jpg"></td>
+    <td><img src="images/coloured_gorgons_2.jpg"></td>
+  </tr>
+</table>
+
+### Spriggan Gorgons (fixed positions)
+
+This is the strat done by EN parties. *Some* Japanese parties also do this strat, but they call it "Fixed Snakes 2" instead (蛇2回目固定). 
+
+The advantage of Spriggan Gorgons is that player positions are all fixed for the first part of the mechanic.
+
+<table>
+  <tr>
+    <td><p>All players are at fixed positions, regardless of where the snakes spawn.</p><p>Players should stand <b>2/3rds of the way in their tile</b> (towards the center of the arena) to not hit the other player, or the snakes with their poison puddle.</p><p>Petrify the closest snake to you when it's your turn.</p></td>
+    <td><img src="images/spriggan_gorgons.jpg"></td>
+  </tr>
+</table>
+
+**Clips:**
+  - [Snakes at cardinals](https://www.twitch.tv/doanstv/clip/InexpensiveColdbloodedPterodactylRlyTho--3RDXuxtRjxtv1TZ)
+  - [Snakes at intercardinals](https://clips.twitch.tv/SarcasticPoliteOpossumBloodTrail-1QkX3UFKiHVvAeti)
+
+### 4:4 stacks
+
+A clone of the boss will appear at the edge of the arena **when the second set of poison puddles go off**. The clone will destroy two of the petrified Gorgons, leaving two behind for players to resolve the last mechanic of the phase.
 
 ![](images/gorgon_2.jpg)
 *(Credit: [Berga Thompson](https://jp.finalfantasyxiv.com/lodestone/character/17170591/blog/5094725/))*
