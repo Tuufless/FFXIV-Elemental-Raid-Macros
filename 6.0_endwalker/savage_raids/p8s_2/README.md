@@ -13,6 +13,8 @@ permalink: /6.0_endwalker/savage_raids/p8s_2/
 
 PF uses [Nukemaru's strat](https://youtu.be/RaLfkv-B2Zg), substituting [Hydi/Bijyon's strat for Limitless Desolation](#limitless-desolation).
 
+The combination is often just nicknamed "**Nukehai**" (ぬけはい).
+
 ## Game 8's macro
 
 The following is [Game8's macro](https://game8.jp/ff14/480771), which follows Nukemaru's strat.
@@ -294,10 +296,6 @@ There is a variant that also does [Natural Alignment on just one tile](https://y
 
 Hydi Ai and [Bijyon](https://youtu.be/GA3IWJde15g) proposes the following strategy for Limitless Desolation.
 
-In JP PFs, you might see this:
-```
-万象灰燼 ビジョン式 はいじあ式
-```
 It takes advantage of the fact that the first and third set of towers always spawn in the top two rows, while the second and fourth set of towers always spawn in the middle two rows.
 
 [Nukemaru also made a guide](https://youtu.be/8kdGUhXYBJI) explaining the strat.
