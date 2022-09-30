@@ -214,7 +214,7 @@ Solo　　　　　　　|　Concept
 【Dominion】
 MT　H1　D3　D1
  ST　H2　D4　D2
- Towers：(West)MTSTH1H2D1D2D3D4(East)
+ Towers：(West)MTSTH1H2D4D3D2D1(East)
 ```
 
 ## Markers:
