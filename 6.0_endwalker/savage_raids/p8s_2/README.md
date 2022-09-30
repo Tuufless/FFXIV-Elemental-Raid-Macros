@@ -13,7 +13,7 @@ permalink: /6.0_endwalker/savage_raids/p8s_2/
 
 PF uses [Nukemaru's strat](https://youtu.be/RaLfkv-B2Zg), substituting [Hydi/Bijyon's strat for Limitless Desolation](#limitless-desolation).
 
-The combination is often just nicknamed "**Nukehai**" (ぬけはい).
+The combination is often nicknamed "**Nukehai**" (ぬけはい).
 
 ## Game 8's macro
 
@@ -242,7 +242,7 @@ MT　H1　D3　D1
 
 ## Nukemaru's Natural Alignment
 
-Nukemaru's method for resolving Natural Alignment isn't terribly clear in the macro, so here's a breakdown for the Fire/Ice portion.
+Here's a breakdown for the Fire/Ice portion in Nukemaru's Natural Alignment.
 
 <table>
   <tr>
@@ -254,10 +254,10 @@ Nukemaru's method for resolving Natural Alignment isn't terribly clear in the ma
 **Fire** is baited by the three <b>furthest</b> players from the Sigil.
 
 - The side with 4 players take up their base positions as above.
-- The side with 2 players remaining have to figure out the priority between themselves to see who baits Fire:
+- The side with 2 players have to figure out the priority between themselves to see who baits Fire:
 ```
-Inside: MT>ST>H1>H2: Outside (baiting Fire)
-Inside: D1>D2>D3>D4: Outside (baiting Fire)
+Inside: MT>ST>H1>H2: Outside (baits Fire)
+Inside: D1>D2>D3>D4: Outside (baits Fire)
 ```
 <table>
   <tr>
