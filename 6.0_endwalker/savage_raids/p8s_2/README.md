@@ -166,8 +166,6 @@ Inside: D1>D2>D3>D4: Outside (baits Fire)
   </tr>
 </table>
 
-There is a variant that also does [Natural Alignment on just one tile](https://youtu.be/Gkk5GsqC5dY) instead of two, making it easier to heal, but makes positioning stricter.
-
 ## Nukemaru's High Concept #1
 
 <table>
