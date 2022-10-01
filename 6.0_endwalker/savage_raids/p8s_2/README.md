@@ -292,6 +292,99 @@ Inside: D1>D2>D3>D4: Outside (baits Fire)
 
 There is a variant that also does [Natural Alignment on just one tile](https://youtu.be/Gkk5GsqC5dY) instead of two, making it easier to heal, but makes positioning stricter.
 
+## Nukemaru's High Concept #1
+
+<table>
+  <tr>
+    <td><p>Note that the colour combinations are fixed.</p>
+    <p><ul>
+      <li>Green = α + β</li>
+      <li>Blue = α + γ</li>
+      <li>Purple = β + γ</li>
+    </ul></p>
+    </td>
+    <td><img src="images/animal_concepts.jpg"></td>
+  </tr>
+</table>
+
+This is Nukemaru's strat for High Concept #1. Note that αβγ are placed at **cardinal** positions instead of intercardinals, allowing players to naturally determine their North-South priorities when resolving various parts of High Concept.
+
+<table>
+  <tr>
+    <td><p><b>1.</b> All players take up their starting positions.</p>
+    <p><ul><li><b>7αβγ:</b> North, East, South respectively.</li><li><b>2-man stack + 27α:</b> 1/2 a tile north of West.</li><li><b>3-man stack + 27β + 27γ:</b> 1/2 a tile south of West.</li></ul></p></td>
+    <td><img src="images/high_concept_1_ex1_1.jpg"></td>
+  </tr>
+  <tr>
+    <td><b>2.</b> AoEs resolve.</td>
+    <td><img src="images/high_concept_1_ex1_2.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>3.</b> Two coloured towers spawn. Everyone gather up for heals.</p>
+    <p><ul><li><b>7αβγ:</b> If you need to fuse, meet in the center to create the animal concept.</li></ul></p><p><em>In this example, the towers are purple, so 7β and 7γ will fuse.</em></p></td>
+    <td><img src="images/high_concept_1_ex1_3.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>4.</b> The boss will cleave one half of the arena.</p><p>Once the two players have created the animal concept, they split to take the two towers while dodging the boss's AoE.</p><p><b>If you came from the top side, you will take the top tower.</b></p><p><em>In this example, 7β came from above 7γ, so 7β takes the north tower. The boss is also cleaving east here.</em></p></td>
+    <td><img src="images/high_concept_1_ex1_4.jpg"></td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>5.</b> After the cleave goes off, everyone takes up position for the second set of AoEs.</p>
+      <p>
+        <ul>
+          <li><b>27αβγ:</b> North, East, South respectively.</li>
+          <li><b>7αβγ:</b>
+            <ul>
+              <li><b>If you fused:</b> Go 1/2 tile north/south of west. <b>If you came from the top side, you will take the northern position.</b></li>
+              <li><b>If you did not fuse:</b> Return to your original starting position.</li>
+            </ul>
+          </li>
+          <li><b>2-man and 3-man stacks:</b> Replace the two players that fused earlier. <b>The 2-man stack replaces the "more north" player.</b></li>
+        </ul>
+      </p>
+      <p><em>In this example:
+        <ul>
+          <li>7α did not fuse earlier, so they return North.</li>
+          <li>7β and 7γ fused:
+            <ul>
+              <li>7β goes west and takes the north position.</li>
+              <li>7γ goes west and takes the south position.</li>
+              <li>The 2-man stack takes 7β's position (east).</li>
+              <li>The 3-man stack takes 7γ's position (south).</li>
+            </ul>
+          </li>
+        </ul>
+      </em></p>
+    </td>
+    <td><img src="images/high_concept_1_ex1_5.jpg"></td>
+  </tr>
+  <tr>
+    <td><b>6.</b> Second round of AoEs resolve.</td>
+    <td><img src="images/high_concept_1_ex1_6.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>7.</b> Four coloured towers spawn.</p>
+    <p><b>If you need to fuse:</b>
+      <ul>
+        <li><b>27αβγ:</b> Go between the two north towers.</li>
+        <li><b>Others:</b> Go between the two south towers.</li>
+      </ul>
+    </p>
+    <p><em>In this example, the towers are blue, so the players at α and γ will fuse.
+      <ul>
+        <li>27α fuses with 27γ north.</li>
+        <li>The players that <b>were</b> with 27α and 27γ fuse south.</li>
+      </ul></em>
+    </p></td>
+    <td><img src="images/high_concept_1_ex1_7.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>8.</b> The boss will cleave one half of the arena again.</p><p>Once each pair have created the animal concept, they split to take the two towers while dodging the boss's AoE.</p><p><b>The player that came from the top side takes the top tower.</b></p><p><em>In this example:<ul><li>The two players that came from α take the top towers</li><li>The two players that came from γ take the bottom towers.</li><li>The boss is cleaving west.</li></ul></em></p></td>
+    <td><img src="images/high_concept_1_ex1_8.jpg"></td>
+  </tr>
+</table>
+
 ## Limitless Desolation:
 
 Hydi Ai and [Bijyon](https://youtu.be/GA3IWJde15g) proposes the following strategy for Limitless Desolation.
