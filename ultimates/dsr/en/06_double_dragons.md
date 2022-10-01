@@ -297,7 +297,7 @@ The reason why we did not stack opposite tethers in Wyrmsbreath #2 was because w
 Here are some other potential configurations:
 
 <details>
-<summary>NE quadrant safe, head up</summary>
+<summary><b>Example 1:</b> NE quadrant safe, head up</summary>
 <table>
   <tr>
     <td>
@@ -310,7 +310,7 @@ Here are some other potential configurations:
 </details>
 
 <details>
-<summary>SW quadrant safe, head down</summary>
+<summary><b>Example 2:</b> SW quadrant safe, head down</summary>
 <table>
   <tr>
     <td>
@@ -323,7 +323,7 @@ Here are some other potential configurations:
 </details>
 
 <details>
-<summary>SW quadrant safe, head up</summary>
+<summary><b>Example 3:</b> SW quadrant safe, head up</summary>
 <table>
   <tr>
     <td>
@@ -340,7 +340,7 @@ Here are some other potential configurations:
 Since there are many possible variations with Wroth Flames, here are a couple additional scenarios to consider.
 
 <details>
-<summary>Hraesvelgr middle (uptime available), 2-to-1 dodge</summary>
+<summary><b>Example 1:</b> Hraesvelgr middle (uptime available), 2-to-1 dodge</summary>
 <table>
   <tr>
     <td>
@@ -372,7 +372,7 @@ Since there are many possible variations with Wroth Flames, here are a couple ad
 </details>
 
 <details>
-<summary>Hraesvelgr west (forced downtime), 2-to-1 dodge</summary>
+<summary><b>Example 2:</b> Hraesvelgr west (forced downtime), 2-to-1 dodge</summary>
 <table>
   <tr>
     <td>
@@ -408,12 +408,12 @@ Since there are many possible variations with Wroth Flames, here are a couple ad
 Here are some other potential configurations:
 
 <details>
-<summary>Hot Wing, head up</summary>
+<summary><b>Example 1:</b> Hot Wing, head up</summary>
 <table>
   <tr>
     <td>
       <p>Hot Wing means all party members must stay near the E/W line.</p>
-      <p>Heads up means the tanks are away from Hraesvelgr, and the rest of the party is towards Hraesvelgr.
+      <p>Heads up means the tanks are away from Hraesvelgr, and the rest of the party is towards Hraesvelgr.</p>
       <p>The MT takes the western-most position.</p>
     </td>
     <td><img src="../images/double_dragons/hallowed_wings_02_01.jpg"></td>
@@ -422,12 +422,12 @@ Here are some other potential configurations:
 </details>
 
 <details>
-<summary>Hot Tail, head down</summary>
+<summary><b>Example 2:</b> Hot Tail, head down</summary>
 <table>
   <tr>
     <td>
       <p>Hot Wing means all party members must stay near the E/W line.</p>
-      <p>Heads up means the tanks are away from Hraesvelgr, and the rest of the party is towards Hraesvelgr.
+      <p>Heads up means the tanks are away from Hraesvelgr, and the rest of the party is towards Hraesvelgr.</p>
       <p>The MT takes the western-most position.</p>
     </td>
     <td><img src="../images/double_dragons/hallowed_wings_02_02.jpg"></td>
