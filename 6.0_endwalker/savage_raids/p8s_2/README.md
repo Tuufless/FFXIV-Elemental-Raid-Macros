@@ -9,8 +9,6 @@ permalink: /6.0_endwalker/savage_raids/p8s_2/
 
 # Abyssos: The Eighth Circle (Savage) - Part 2
 
-**DISCLAIMER:** *I haven't gotten around to clearing P8S myself yet, so I may be missing some context in the translation below.*
-
 PF uses [Nukemaru's strat](https://youtu.be/RaLfkv-B2Zg), substituting [Hydi/Bijyon's strat for Limitless Desolation](#limitless-desolation).
 
 The combination is often nicknamed "**Nukehai**" (ぬけはい).
@@ -72,13 +70,13 @@ H1　+　　　+　D3　※2,4番塔は後+で範囲捨て
 　STMT (purple) D3D1
 　　 　H1H2D4D2
 【High Concept 1-1】【High Concept 1-2】
-　　　　8α　　 　 │　　　　　28α
-+28α　　　　　 │
-　　　　　　 8β 　│(Creation)　　　28β
-+28βγ　　　　  │
-　　　　8γ　　 　 │　　　　　28γ
-※4 towers：　　　28αβγ→Synthesize North
-　 　  //Unused 8αβγ→Synthesize South
+　　　　7α　　 　 │　　　　　27α
++27α　　　　　 │
+　　　　　　 7β 　│(Creation)　　　27β
++27βγ　　　　  │
+　　　　7γ　　 　 │　　　　　27γ
+※4 towers：　　　27αβγ→Synthesize North
+　 　  //Unused 7αβγ→Synthesize South
 【Limitless Desolation：Hydi/Bijyon strat】
 　　MT　　D1
 ST　 +　　　+　D2　※1st, 3rd bait AoE at front +
@@ -99,11 +97,9 @@ Solo　　　　　　　　│　Concept
 
 ## Markers:
 
-- `1` and `2` are for the two players who are not involved in Natural Alignment's Ice/Fire.
+- `1` and `2` are for the two Sigil players during Natural Alignment's Ice/Fire.
 - `ABC` is for αβγ in High Concept
-- `D` demarcates the center line for the two stacks in High Concept:
-    - North of `D`: 2-man stack (High Concept 1), Solo-man (High Concept 2)
-    - South of `D`: 3-man stack (High Concept 1, High Concept 2)
+- `D` demarcates the center line for the two stacks in High Concept.
 
 ![](images/markers.jpg)
 ![](images/markers_2.jpg)
@@ -354,7 +350,8 @@ This is Nukemaru's strat for High Concept #2. Several concepts from High Concept
           </ul>
         </li>
       </ul>
-    </p></td>
+    </p>
+    <p><em>In this example, 27α prioritizes north over 27β, and 7α prioritizes north over 27γ.</em></p></td>
     <td><img src="images/high_concept_2_ex1_8.jpg"></td>
   </tr>
   <tr>
