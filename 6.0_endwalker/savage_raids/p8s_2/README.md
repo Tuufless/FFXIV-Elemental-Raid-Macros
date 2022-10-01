@@ -15,8 +15,6 @@ PF uses [Nukemaru's strat](https://youtu.be/RaLfkv-B2Zg), substituting [Hydi/Bij
 
 The combination is often nicknamed "**Nukehai**" (ぬけはい).
 
-## Game 8's macro
-
 The following is [Game8's macro](https://game8.jp/ff14/480771), which follows Nukemaru's strat.
 
 ### Japanese
@@ -98,124 +96,6 @@ Solo　　　　　　　　│　Concept
 　MTH1 D3 D1　W：MTSTH1H2D4D3D2D1：E
 　ST H2 D4 D2
  ```
-
-## Lambda Unendlich's macro
-
- This is slightly modified version of [Lambda Unendlich's macro](https://ffxiv.link/078732) for the same strat (substituting in Game8's Limitless Desolation), but goes into a little more detail about some of the mechanics:
-
-### Japanese
-
-*(Nukemaru's strat, Hydi/Bijyon's Limitless Desolation)*
-```
-【術式記述1回目】
-デバフ持ち→A、他→2待機　頭割りからの場合は西受け
- <1回目の散開>       |　<2回目の散開>
-　　　   ◎　            | ST  　　◎　　  ST
-　　MT　  ST          |　 　MT     MT
-　D1　　　 D2       | D2        H1        D2
-　H1　        H2       |　　 D1　   D1
-       D3　  D4          | D3 　   H2　　 D3
-　　　　　　　　   ｜　　D4　   D4
- <炎処理>
- ②/①     　     ①/②　※西側TH   MT>ST>H1>H2
-　　　　◎　　　　　　東側DPS D1>D2>D3>D4
- ④/③              ③/④　　上記優先度で番号順に配置
- 誘導：②④
- <氷処理> ※MTD1調整
- 西側：タンヒラ　東側：DPS
- 西側誘導：D1>ST　東側誘導：MT>D2
-【概念支配1回目】
- <1回目デバフ処理>　 　＜2回目デバフ処理＞
-　　　　 早α　　　   |　　　　遅α
-複/遅α　　　　　　  |
-　　　　　　　 早β   |　生物　　　　遅β　※マカA>B>C順で複>重
-重/遅βγ　　　　　   |　　　　　　　　　　　完成概念がいない場所へ
-　　　　 早γ　　　   |　　　　遅γ
- <塔処理優先度> 
-1回目：北>α>β>γ>南
-2回目：北>遅α>遅β>遅γ>他>南
-【万象灰燼：はいじあ/ビジョン式】
-　　MT　　D1
-ST　 +　　　+　D2　※1,3番塔は前+で範囲捨て
-H1　+　　　+　D3　※2,4番塔は後+で範囲捨て
-　 　H2　　D4
-【術式記述2回目】
-　<散開>　　　　　　　　　＜頭割り＞
-　   MT    ◎     D3　D1　　　　中央
-ST
-　   H1　H2　D4　D2
-【概念支配2回目】
- <1回目デバフ処理>　 　＜2回目デバフ処理＞
-　　　 無/早α　　    |　　　　遅α
-単　　　　　　          |　生
-　　　　　　　 早β   | ｲﾌ  ｲﾌ　　　　遅β
-複/遅　　　　　        |　生
-　　　　 早γ　　　   |　　　　遅γ
- <塔処理優先度>
-1回目：北>α>β>γ>南　無→3で合成
-2回目：北>遅α>遅β>遅γ>早αβγ>南
-【支配者の一撃】
-MT　H1　D3　D1
- ST　H2　D4　D2
- 塔処理：西MTSTH1H2D4D3D2D1東
-```
-
-### English
-
-*(Nukemaru's strat, Hydi/Bijyon's Limitless Desolation)*
-```
-【Natural Alignment 1】
-Debuffs→A、Others→Standby at 2　If stack first, resolve West
- <Spread 1st>       |　<Spread 2nd>
-　　　   ◎　            | ST  　　◎　　  ST
-　　MT　  ST          |　 　MT     MT
-　D1　　　 D2       | D2        H1        D2
-　H1　        H2       |　　 D1　   D1
-       D3　  D4          | D3 　   H2　　 D3
-　　　　　　　　   ｜　　D4　   D4
- <Forcible Trifire>
- ②/①　　　 ①/②　※①②③④ priority：
-　　　　◎　　　　　　T/H West：MT>ST>H1>H2
- ④/③　　　 ③/④　　  DPS East：D1>D2>D3>D4
-　Baits：②④
- <Forcible Difreeze> ※MTD1 baits
-　West：T/H　East：DPS
-West Bait：D1>ST　East Bait：MT>D2
-【High Concept 1】
-　 <1st Debuffs>　 　＜2nd Debuffs＞
-　　　　 8α　　　   |　　　　28α
-+28α　　　　　　|
-　　　　　　　 8β   |　(Animal)　　28β　※> replaces players
-+28β+28γ　　　|　　　　　　　　　　　that formed a creation
-　　　　 8γ　　　   |　　　　28γ　　　　　from A>B>C
- <Tower priority>
-　1st：N：α > β > γ：S
-　2st：N：Slow α > Slow β > Slow γ > Others：S
-【Limitless Desolation：Hydi/Bijyon strat】
-　　MT　　D1
-ST　 +　　　+　D2　※1st, 3rd bait AoE at front +
-H1　+　　　+　D3　※2nd, 4th bait AoE at rear +
-　 　H2　　D4
-【Natural Alignment 2】
-　<Spread>　　　　　　　　　＜Stack＞
-　   MT    ◎     D3　D1　　　　mid
-ST
-　   H1　H2　D4　D2
-【High Concept 2】
-　<1st Debuffs>　 　＜2nd Debuffs＞
-　 Nothing/7α　    |　　　　　27α
-Solo　　　　　　　|　Concept
-　　　　　　　 7β   | Ifrit　Ifrit　　　　27β
-/27βγ　　　        |　Concept
-　　　　 7γ　　　   |　　　　　27γ
- <Tower priority>
-1st set：N:α>β>γ:S　Nothing→Synthesize at 3
-2nd set：N:27α>27β>27γ>7αβγ:S
-【Dominion】
-MT　H1　D3　D1
- ST　H2　D4　D2
- Towers：(West)MTSTH1H2D4D3D2D1(East)
-```
 
 ## Markers:
 
