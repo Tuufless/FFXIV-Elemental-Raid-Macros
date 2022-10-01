@@ -392,3 +392,93 @@ Hydi Ai and [Bijyon](https://youtu.be/GA3IWJde15g) proposes the following strate
 It takes advantage of the fact that the first and third set of towers always spawn in the top two rows, while the second and fourth set of towers always spawn in the middle two rows.
 
 [Nukemaru also made a guide](https://youtu.be/8kdGUhXYBJI) explaining the strat.
+
+## Nukemaru's High Concept #2
+
+This is Nukemaru's strat for High Concept #2. Several concepts from High Concept #1 carry over to High Concept #2.
+
+<table>
+  <tr>
+    <td><p><b>1.</b> All players take up their starting positions.</p>
+    <p>
+      <ul>
+        <li><b>7αβγ:</b> North, East, South respectively.</li>
+        <li><b>27αβγ:</b>
+          <ul>
+            <li><b>Solo stack:</b> 1/2 a tile north of West.</li>
+            <li><b>Other 27αβγ:</b> 1/2 a tile south of West <em>(one of the two remaining 27αβγ will be a 2-man stack)</em>.</li>
+          </ul>
+        </li>
+        <li><b>No debuff:</b> North</li>
+      </ul>
+    </p>
+    <p><em>In this example, 27β has the solo stack.</em></p></td>
+    <td><img src="images/high_concept_2_ex1_1.jpg"></td>
+  </tr>
+  <tr>
+    <td><b>2.</b> AoEs resolve.</td>
+    <td><img src="images/high_concept_2_ex1_2.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>3.</b> Two coloured towers spawn.</p>
+    <p><ul>
+        <li><b>7αβγ:</b> If you need to fuse, meet in the center to create the animal concept, just like High Concept #1. This time around, <b>7γ will <em>always</em> be involved in this fusion.</b></li>
+        <li><b>No debuff:</b> Fuse together North-West to make Ifrit.</li>
+      </ul>
+      <p>Ifrit players will suffer from continuous DoT damage until the end of High Concept, and need to be kept alive by the healers until then.</p>
+      </p><p><em>In this example, the towers are purple, so 7β and 7γ will fuse.</em></p></td>
+    <td><img src="images/high_concept_2_ex1_3.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>4.</b> The boss will cleave one half of the arena.</p><p>Once the two players have created the animal concept, they split to take the two towers while dodging the boss's AoE.</p><p><b>If you came from the top side, you will take the top tower.</b></p><p><em>In this example, 7β came from above 7γ, so 7β takes the north tower. The boss is also cleaving east here.</em></p></td>
+    <td><img src="images/high_concept_2_ex1_4.jpg"></td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>5.</b> After the cleave goes off, everyone takes up position for the second set of AoEs.</p>
+      <p>
+        <ul>
+          <li><b>27αβγ:</b> North, East, South respectively.</li>
+          <li><b>7αβγ:</b> The one that did <b>not</b> fuse earlier returns to their original starting position.</li>
+          <li><b>Ifrits + Animal Concepts:</b> Take up the "T-shape" formation as shown.</li>
+        </ul>
+      </p>
+      <p><em>In this example, 7α did not fuse earlier, so they return North.</em></p>
+    </td>
+    <td><img src="images/high_concept_2_ex1_5.jpg"></td>
+  </tr>
+  <tr>
+    <td><b>6.</b> Second round of AoEs resolve.</td>
+    <td><img src="images/high_concept_2_ex1_6.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>7.</b> Four coloured towers spawn, along with four shades at the four cardinal directions.</p>
+    <p>
+      <ul>
+        <li><b>Ifrits + Animal Concepts:</b> Split up in your formation, and tether to one shade each.</li>
+        <li><b>27αβ:</b> Go between the two north towers.</li>
+        <li><b>27γ + Unused 7αβγ:</b> Go between the two south towers.</li>
+      </ul>
+    </p>
+    <p><em>In this example, 7α was not used in the first fusion, so they will go south to fuse with 27γ.</em></p></td>
+    <td><img src="images/high_concept_2_ex1_7.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>8.</b> The shades will each fire a beam in the direction of the player they were tethered to.</p>
+    <p>
+      <ul>
+        <li><b>Ifrits + Animal Concepts:</b> Rotate clockwise to drag your tethered shade along the outer row/column. Note that the four corners of the arena will not be safe, because they will get hit by two beams.</li>
+        <li>Each pair in the center needs to take the corresponding pair of coloured towers in the center four tiles. Note that the coloured towers will be in a <b>random configuration</b>.
+          <ul>
+            <li><b>The player that came from the northern side prioritizes the North, then West tower if there is a tie.</b></li>
+          </ul>
+        </li>
+      </ul>
+    </p></td>
+    <td><img src="images/high_concept_2_ex1_8.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>9.</b> The two Ifrit players then combine with the two birds in the center to form four Phoenix feathers.</p><p>The four Phoenix feathers will then tether together and fuse to form Phoenix, which gives the Phoenix concept to all players in the party.</p><p><b>All party members must be topped to 100% HP before this final Phoenix fusion completes.</b></p></td>
+    <td><img src="images/high_concept_2_ex1_9.jpg"></td>
+  </tr>
+</table>
