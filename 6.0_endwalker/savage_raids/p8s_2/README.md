@@ -357,3 +357,40 @@ This is Nukemaru's strat for High Concept #2. Several concepts from High Concept
     <td><img src="images/high_concept_2_ex1_9.jpg"></td>
   </tr>
 </table>
+
+## Frequently Asked Questions
+
+<details markdown=block>
+<summary><b>[High Concept 1]</b> Can both sets of towers be the same colour?</summary>
+<table>
+  <tr><td><p>Yes, the two sets of towers in High Concept 1 are not related to one another.</p></td></tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary><b>[High Concept 2]</b> Why is 7γ missing in the macro where it says "27γ/Unused 7αβ→Synthesize South"?</summary>
+<table>
+  <tr><td><p>The ultimate goal in High Concept 2 is to produce the Phoenix concept, which is done by merging two Ifrits with the two (green) birds, which are formed by combining α and β.</p><p>If the first set of towers <em>were green</em>, then players would just form two birds and immediately fuse them with the two Ifrits to make Phoenix at the first set of fusions.</p><p>Hence there cannot be any green towers in the first set, which means 7γ is always used.</p></td></tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary><b>[High Concept 2]</b> Why is 7γ always used in the first fusion?</summary>
+<table>
+  <tr><td><p>The ultimate goal in High Concept 2 is to produce the Phoenix concept, which is done by merging two Ifrits with the two (green) birds, which are formed by combining α and β.</p><p>If the first set of towers <em>were green</em>, then players would just form two birds and immediately fuse them with the two Ifrits to make Phoenix at the first set of fusions.</p><p>Hence there cannot be any green towers in the first set, which means 7γ is always used.</p></td></tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary><b>[High Concept 2]</b> Why are the first set of towers always purple or blue?</summary>
+<table>
+  <tr><td><p>The ultimate goal in High Concept 2 is to produce the Phoenix concept, which is done by merging two Ifrits with the two (green) birds, which are formed by combining α and β.</p><p>If the first set of towers <em>were green</em>, then players would just form two birds and immediately fuse them with the two Ifrits to make Phoenix at the first set of fusions.</p><p>Thus, the first set of towers cannot be green, and are therefore either purple or blue.</p></td></tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary><b>[Dominion]</b> Why is the tower order in Dominion D4321 instead of D1234?</summary>
+<table>
+  <tr><td><p>Earlier macros had D1234- the problem is that RDM is the only DPS that cannot heal/shield themselves off the GCD, and would often end up dying to the follow-up raid-wide damage. Casters also have the lowest max HP of all the DPS.</p><p>Putting the casters next to the healers in the priority order increases the likelihood that they are in range of receiving healing.</p><p>Nukemaru's video guide also puts melees towards the outside and casters towards the center for the same reason, leading to the tanks > healers > D4321 order.</p></td></tr>
+</table>
+</details>
