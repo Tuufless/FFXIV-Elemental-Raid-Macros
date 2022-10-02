@@ -9,7 +9,61 @@ permalink: /3.0_heavensward/savage_raids/a12s/
 
 # Alexander - The Eyes of the Creator (Savage)
 
+This is [Cien Choco's macro](https://jp.finalfantasyxiv.com/lodestone/character/1622544/blog/3194463/) for Pekoelog's strat.
+
+Pekoelog:
+  - [Part 1](http://pekoe1001.blog.shinobi.jp/Entry/1585/)
+  - [Part 2](http://pekoe1001.blog.shinobi.jp/Entry/1586/)
+
+## Japanese
+
+```
+■■■■■ Ｐ１ ■■■■■
+　▼赤玉担当：リスト↑白、↓学
+　▼重力異常：ボス真下集合
+■■■■■ Ｐ２（雑魚フェーズ）■■■■■
+　▼ウィング：東から時計回り、１匹目に近接LB
+　▼タイムマイト：MTタイム　STマイト
+■■■■■ Ｐ３（時間停止フェーズ） ■■■■■
+　▼時間停止（１回目）
+　　【DPS】
+　　　名誉：機A、竜B、忍C ※黒は空いた所へ
+　　　集団：左円
+　　【タンク】
+　　　接近強制：左円、禁止：MTA、ST左円
+　　【ヒーラー】
+　　　2人とも右円
+　▼時間停止（２回目）
+　　【DPS】
+　　　接近強制：左円
+　　　接近禁止：優先順位 [左円]←黒 機 忍 竜→[Ａ]
+　　　　集団：優先順位 [左円]←黒 機 忍 竜→[右円]
+　　【タンク】
+　　　名誉：C　　接近強制：右円、禁止：A
+　　【ヒーラー】
+　　　名誉：B　　接近強制&禁止：右円
+■■■■■ Ｐ４（隔離・結晶フェーズ） ■■■■■
+　▼タイムゲート：忍11時 竜1時 戦7時 学5時
+■■■■■ Ｐ５（時空潜行フェーズ） ■■■■■
+　▼確定判決（ボス出現位置を12時として）
+　　【DPS】
+　　　接近強制：3時
+　　　接近禁止：優先順位 [9時]←竜 忍 機 黒→[3時]
+　　　　※相方がタンクヒラの場合は9時
+　　【タンク】
+　　　名誉：9時、接近強制&禁止：3時
+　　【ヒーラー】
+　　　2人とも3時
+■■■■■ Ｐ６（最終フェーズ） ■■■■■
+　▼懺悔（ボス正面を12時、タンクは場所入れ替え無し）
+　　　3時：竜→黒→MT　近接ヒール=学
+　　　9時：忍→機→ST　近接ヒール=白
+　▼コミュニオン
+　　　近接=北からAOE外回り、遠隔=南からAOE内回り
+```
+
 ## English
+
 ```
 ■■■■■ P1 ■■■■■
 　▼Red prey：↑WHM、↓SCH
@@ -39,7 +93,7 @@ permalink: /3.0_heavensward/savage_raids/a12s/
 　　　Defamation：B　　
 　　　House Arrent & Restraining Order: South-right
 ■■■■■ P4 (Judgment Crystal phase) ■■■■■
-　▼Timegate：DRG: NW, NIN: NE, SCH: SE, WAR: SW
+　▼Timegate：NIN: NW, DRG: NE, WAR: SW, SCH: SE
 ■■■■■ P5 (Inception) ■■■■■
 　▼Inception（Treat the boss's location as 12 o'clock）
 　　【DPS】
@@ -52,57 +106,11 @@ permalink: /3.0_heavensward/savage_raids/a12s/
 　　　Both healers go to 3 o'clock
 ■■■■■ P6 (Last phase) ■■■■■
 　▼Repentance（The front of the boss is 12 o'clock）
-　　　3 o'clock：NIN → BLM → MT (SCH heals the NIN)
-　　　9 o'clock: DRG → MCH → OT (WHM heals the DRG)
+　　　3 o'clock：DRG → BLM → MT (SCH heals the NIN)
+　　　9 o'clock: BLM → MCH → OT (WHM heals the DRG)
 　▼Communion
-　　　Melee: Start on the outside from the north
-　　　Ranged: Start on the inside from the south
-```
-
-## Japanese
-```
-■■■■■ Ｐ１ ■■■■■
-　▼赤玉担当：リスト↑白、↓学
-　▼重力異常：ボス真下集合
-■■■■■ Ｐ２（雑魚フェーズ）■■■■■
-　▼ウィング：東から時計回り、１匹目に近接LB
-　▼タイムマイト：MTタイム　STマイト
-■■■■■ Ｐ３（時間停止フェーズ） ■■■■■
-　▼時間停止（１回目）
-　　【DPS】
-　　　名誉：機A、竜B、忍C ※黒は空いた所へ
-　　　集団：左円
-　　【タンク】
-　　　接近強制：左円、禁止：MTA、ST左円
-　　【ヒーラー】
-　　　2人とも右円
-　▼時間停止（２回目）
-　　【DPS】
-　　　接近強制：左円
-　　　接近禁止：優先順位 [左円]←黒 機 忍 竜→[Ａ]
-　　　　集団：優先順位 [左円]←黒 機 忍 竜→[右円]
-　　【タンク】
-　　　名誉：C　　接近強制：右円、禁止：A
-　　【ヒーラー】
-　　　名誉：B　　接近強制&禁止：右円
-■■■■■ Ｐ４（隔離・結晶フェーズ） ■■■■■
-　▼タイムゲート：竜11時 忍1時 学5時 戦7時
-■■■■■ Ｐ５（時空潜行フェーズ） ■■■■■
-　▼確定判決（ボス出現位置を12時として）
-　　【DPS】
-　　　接近強制：3時
-　　　接近禁止：優先順位 [9時]←竜 忍 機 黒→[3時]
-　　　　※相方がタンクヒラの場合は9時
-　　【タンク】
-　　　名誉：9時、接近強制&禁止：3時
-　　【ヒーラー】
-　　　2人とも3時
-■■■■■ Ｐ６（最終フェーズ） ■■■■■
-　▼懺悔（ボス正面を12時、タンクは場所入れ替え無し）
-　　　3時：忍→黒→MT　近接ヒール=学
-　　　9時：竜→機→ST　近接ヒール=白
-　▼コミュニオン
-　　　近接=北からAOE外回り、遠隔=南からAOE内回り
+　　　Melee: Start on the inside from the north
+　　　Ranged: Start on the outside from the south
 ```
 
 ## Markers
