@@ -81,8 +81,8 @@ The FFO strat resolves Gorgons 2 based on coloured markers. *Some* parties (part
 　　D3 H1 H2 D4 　　　│　R　H　　　West priority
 ◎ Stacks：M+H locations (MTD1/STD2/H1D3/H2D4)
 ■ Into the Shadows #2 (4:4 stacks)
-　Debuffs：NW：MT/D1>ST/D2>H1/D3>H2/D4：SE
-　Nothing：NW→TH　SE→DPS
+　Debuffs：N/W：MT/D1>ST/D2>H1/D3>H2/D4：S/E
+　Nothing：N/W→TH　S/E→DPS
 ■ Tetraflare/Diflare
 　Tetraflare：(Boss)MT/D1>ST/D2>H1/D3>H2/D4
 　Diflare：(Boss)MTH1D1D2>STH2D3D4 
@@ -120,9 +120,9 @@ Some parties (particularly English groups) will do ["Spriggan Gorgons 2"](#sprig
 　Spriggan Gorgon：
 　　MT　D4　　※Aim gaze to closest snake
 　D3　　　ST　　Debuffs (FFO split)：
-　　　  ●　　　　　NW：MT > ST > H1 > H2：SE
-　H1　　　D2　　  NW：D1 > D2 > D3 > D4：SE
-　　D1　H2　　　Nothing：NW→T/H　SE→DPS
+　　　  ●　　　　　N/W：MT > ST > H1 > H2：S/E
+　H1　　　D2　　  N/W：D1 > D2 > D3 > D4：S/E
+　　D1　H2　　　Nothing：N/W→T/H　S/E→DPS
 ■ Tetraflare/Diflare
 　Tetraflare：(Boss)MT/D1>ST/D2>H1/D3>H2/D4
 　Diflare：(Boss)MTH1D1D2>STH2D3D4 

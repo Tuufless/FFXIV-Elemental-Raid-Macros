@@ -13,9 +13,13 @@ PF uses [Nukemaru's strat](https://youtu.be/RaLfkv-B2Zg), substituting [Hydi/Bij
 
 The combination is often nicknamed "**Nukehai**" (ぬけはい).
 
-The following is [Game8's macro](https://game8.jp/ff14/480771), which follows Nukemaru's strat.
+### Approximate milestones
 
-### Japanese
+- **40%** HP when the boss finishes casting Ego Death.
+
+## Japanese
+
+The following is [Game8's macro](https://game8.jp/ff14/480771) for the Nukehai strat.
 
 *(Nukemaru's strat, Hydi/Bijyon's Limitless Desolation)*
 ```
@@ -51,49 +55,56 @@ H1　+　　　+　D3　※2,4番塔は後+で範囲捨て
 　ST H2 D4 D2
  ```
  
-### English:
+## English:
+
+The following is my interpretation of Game8's macro, with some parts edited to fit the chat window and for clarity.
 
 *(Nukemaru's strat, Hydi/Bijyon's Limitless Desolation)*
 ```
-【Natural Alignment 1(stack west】
-　　 　★　　　　(purple)　ST
-　D1 MT D2　　　　　　 MT
-　H1　　H2　　　　　H1　D2　※Flip horizontal
-　D3 S T D4　　　　　　  D1　　　if west safe
-   　　　　　　　　　　H2　D3
-　　　　　　　　　　　　D4 
-【Fire/Ice(TH west DPS east) 】
-▼Fire: Close + forward prio　▼Ice baits prio
-　 MT>ST >H1>H2　　　　　　　West： D1>ST
- 　D1>D2>D3>D4　　　　　　　East：MT>D2
-【Natural Alignment 2 spread 】
-　STMT (purple) D3D1
-　　 　H1H2D4D2
-【High Concept 1-1】【High Concept 1-2】
-　　　　7α　　 　 │　　　　　27α
-+27α　　　　　 │
-　　　　　　 7β 　│(Creation)　　　27β
-+27βγ　　　　  │
-　　　　7γ　　 　 │　　　　　27γ
-※4 towers：　　　27αβγ→Synthesize North
-　 　  //Unused 7αβγ→Synthesize South
-【Limitless Desolation：Hydi/Bijyon strat】
-　　MT　　D1
-ST　 +　　　+　D2　※1st, 3rd bait AoE at front +
-H1　+　　　+　D3　※2nd, 4th bait AoE at rear +
-　 　H2　　D4
-【High Concept 2-1】　【High Concept 2-2】
-　　 Nothing/7α　　│　　　　　　27α
-Solo　　　　　　　　│　Concept
-　　　　　　　　　7β│ Ifrit　　Ifrit　　　　27β
-/27　　　　　　　  │　Concept
-　　　 　　7γ 　　 　 │　　　　　　27γ
-※4 Towers：　　　27αβ→Synthesize North
-　　　27γ/Unused 7αβ→Synthesize South
+【Natural Alignment 1】
+　■ Spread 1st　　■ Spread 2nd
+　　　　★　　　　　　ST 　 ★ 　 ST
+　　D1 MT D2　　　　　MT　MT　　★ = Sigil
+　　H1　　H2　　　　D2　H1　D2　　players
+　　D3 ST D4　　　　　 D1　D1
+　■ Stack 1st　　　　D3　H2　D3
+　　Dodge West　　　　D4　D4 
+　■ Fire baits (②④ positions)
+　　②/①　　①/②　T/H West：MT > ST > H1 > H2
+　　④/③　　③/④　DPS East：D1 > D2 > D3 > D4
+　■ Ice baits　　West：D1 > MT　East：ST > D2
+【Natural Alignment 2】
+　Spread：　ST　MT　★　D3　D1
+　　　　　　　H1　H2　D4　D2
+【High Concept 1-1】│【High Concept 1-2】
+　　　　　7α　　 　　 │　　　　　27α
+　+27α　　　　　　 │
+　　　　　　　　 　7β │(Creation)　　　27β
+　+27βγ　　　　　  │
+　　　　　7γ　　　 　 │　　　　　27γ
+　■ High Concept #1 2nd Synthesis
+　　　　　　　　　27αβγ → Synthesize North
+　　  //Unused 7αβγ → Synthesize South
+　　  Player from the top → Take top tower
+【Limitless Desolation】(Hydi/Bijyon)
+　　　MT　　D1
+　ST　 +　　　+　D2　※1st, 3rd AoE at top +
+　H1　+　　　+　D3　※2nd, 4th AoE at bottom +
+　　 　H2　　D4
+【High Concept 2-1】  │【High Concept 2-2】
+　　　 Nothing/7α　　│　　　　　　27α
+　Solo　　　　　　　　│　Concept
+　　　　　　　　　　7β│ Ifrit　　Ifrit　　　　27β
+　/27　　　　　　　   │　Concept
+　　　　 　　7γ 　　 　 │　　　　　　27γ
+　■ High Concept #2 2nd Synthesis
+　　　　　　   27α + 27β → Synthesize North
+　　  Unused 7αβ + 27γ → Synthesize South
+　　Player from the top → Take top > left tower
 【Dominion】　　　　【Tower priority】
-　MTH1 D3 D1　W：MTSTH1H2D4D3D2D1：E
+　MT H1 D3 D1　W：MTSTH1H2D4D3D2D1：E
 　ST H2 D4 D2
- ```
+```
 
 ## Markers:
 
