@@ -22,7 +22,7 @@ Note: There are some details that are added in the macro, in particular, a DPS p
   - Having D2 and D3 adjust keeps the standard based on past fights (e.g: E8S), but means that if a swap happens, there will be two melee on one side, and two ranged on the other, so the Dark Fire priorities get a little more complex.
 - **Terminal Relativity**: Check your party's mitigation plan. 
 
-#### Approximate milestones
+### Approximate milestones
 
 - **30%** HP at Advanced Relativity (when the boss becomes untargetable)
 

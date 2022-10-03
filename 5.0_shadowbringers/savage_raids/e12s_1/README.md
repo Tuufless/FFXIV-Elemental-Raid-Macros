@@ -17,7 +17,7 @@ The standard PF strat takes [Idyll strat (イディル式)](http://kanatan.info/
 - Decide which tank is going to Reprisal Obliterations, and which tank will Reprisal Diamond Dust and Earthern Fury.
 - Sort out tank Invulns for the three Formless Judgments. If there is a PLD, they should Hallowed Ground the 2nd , and the other tank should Invuln the 1st and 3rd.
 
-#### Approximate milestones
+### Approximate milestones
 
 - **54%** HP at the end of Titan phase (when the floor changes back).
 - **23%** HP at the end of Lions (when the Lions disappear).

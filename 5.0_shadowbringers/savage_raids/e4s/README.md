@@ -11,7 +11,7 @@ permalink: /5.0_shadowbringers/savage_raids/e4s/
 
 There were two strategies used in the final phase (Orogenesis); Amaya, and Idyll (also known as "1A"). By the end of the tier, Amaya was the more common strategy.
 
-#### Approximate milestones
+### Approximate milestones
 
 - **69%** at the transition to Titan Maximum
 - **29%** at the start of the Orogenesis phase
