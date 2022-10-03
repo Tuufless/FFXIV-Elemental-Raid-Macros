@@ -107,24 +107,6 @@ All markers are used for Sleepo's Purgation.
 
 </details>
 
-## Markers (Tuufless)
-
-These are the markers I use, and can be placed in-game.
-
-- `123`: Center of the three platforms when the arena changes.
-
-In particular, I use square markers because the flat edges give a reference to where True North is to help players align themselves for Purgation.
-
-![](images/markers_placeable.jpg)
-<details markdown=block>
-<summary>XIVLauncher WaymarkPresetPlugin positions</summary>
-
-```json
-{"Name":"P7S","MapID":877,"A":{"X":0.0,"Y":0.0,"Z":0.0,"ID":0,"Active":false},"B":{"X":0.0,"Y":0.0,"Z":0.0,"ID":1,"Active":false},"C":{"X":0.0,"Y":0.0,"Z":0.0,"ID":2,"Active":false},"D":{"X":0.0,"Y":0.0,"Z":0.0,"ID":3,"Active":false},"One":{"X":85.7106,"Y":0.0,"Z":91.75,"ID":4,"Active":true},"Two":{"X":114.2894,"Y":0.0,"Z":91.75,"ID":5,"Active":true},"Three":{"X":100.0,"Y":0.0,"Z":116.5,"ID":6,"Active":true},"Four":{"X":100.0,"Y":0.0,"Z":100.0,"ID":7,"Active":true}}
-```
-
-</details>
-
 ## Timeline
 ![](https://preview.redd.it/gvazt7d9ngm91.png?width=1718&format=png&auto=webp&s=c04fcb786ac3df24733e4136cda2e927cf2727ce)
 *(Credit: [u/ExiaKuromonji](https://www.reddit.com/r/ffxiv/comments/x891mn/p7s_timeline/))*
