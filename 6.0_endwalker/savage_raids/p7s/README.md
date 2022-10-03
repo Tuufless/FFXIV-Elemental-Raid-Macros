@@ -22,7 +22,12 @@ Guides:
 
 ### Things to check on Party Finder
 
-- Check the Purgation positions, **especially if you join a Japanese party**.
+- **Japanese** parties prefer to:
+  - Inviolate Bonds: Have the first stack in the center of the arena, but do the second stack where the island meets the bridge.
+  - Forbidden Fruit #5: Take the bird tethers clockwise.
+- **English** parties prefer to:
+  - Inviolate Bonds: Resolve both stacks in the middle of the islands.
+  - Forbidden Fruit #5: Stretch the tethers across the arena.
 
 ## Japanese
 
