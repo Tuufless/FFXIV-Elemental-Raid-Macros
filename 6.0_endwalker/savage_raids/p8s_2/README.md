@@ -61,7 +61,7 @@ The following is my interpretation of Game8's macro, with some parts edited to f
 
 *(Nukemaru's strat, Hydi/Bijyon's Limitless Desolation)*
 ```
-【Natural Alignment 1】
+【Natural Alignment #1】
 　■ Spread 1st　　■ Spread 2nd
 　　　　★　　　　　　ST 　 ★ 　 ST
 　　D1 MT D2　　　　　MT　MT　　★ = Sigil
@@ -73,7 +73,7 @@ The following is my interpretation of Game8's macro, with some parts edited to f
 　　②/①　　①/②　T/H West：MT > ST > H1 > H2
 　　④/③　　③/④　DPS East：D1 > D2 > D3 > D4
 　■ Ice baits　　West：D1 > MT　East：ST > D2
-【Natural Alignment 2】
+【Natural Alignment #2】
 　Spread：　ST　MT　★　D3　D1
 　　　　　　　H1　H2　D4　D2
 【High Concept 1-1】│【High Concept 1-2】
