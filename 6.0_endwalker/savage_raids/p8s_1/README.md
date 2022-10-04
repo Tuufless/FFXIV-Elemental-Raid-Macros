@@ -18,10 +18,9 @@ permalink: /6.0_endwalker/savage_raids/p8s_1/
 
 PF and Game8 went along with the [FFO strat](https://jp.finalfantasyxiv.com/lodestone/character/17170591/blog/5094725/), named after the ["Final Fantasy Online" board on 5ちゃねる](https://egg.5ch.net/ffo/), where the strat was pieced together.
 
-The following videos specifically go over the FFO strat:
+Nukemaru made a video specifically going over the FFO strat:
 
-  - [Hamkatsu](https://youtu.be/D63JWdvXqWY)
-  - [Inumaru](https://youtu.be/YSRmSAbPyAM)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CmK_UcYi88o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The FFO strat resolves Gorgons 2 based on coloured markers. *Some* parties (particularly EN) will do "Spriggan Gorgons 2" instead *(see below)*
 
