@@ -72,7 +72,7 @@ The following is my interpretation of Game8's macro, with some parts edited to f
 　■ Fire baits (②④ positions)
 　　②/①　　①/②　T/H West：MT > ST > H1 > H2
 　　④/③　　③/④　DPS East：D1 > D2 > D3 > D4
-　■ Ice baits　　West：D1 > MT　East：ST > D2
+　■ Ice baits　　West：D1 > ST　East：MT > D2
 【Natural Alignment #2】
 　Spread：　ST　MT　★　D3　D1
 　　　　　　　H1　H2　D4　D2
