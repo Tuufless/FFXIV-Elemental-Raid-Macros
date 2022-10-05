@@ -9,7 +9,9 @@ permalink: /6.0_endwalker/savage_raids/p2s/
 
 # Asphodelos: The Second Circle (Savage)
 
-PF uses [Hamkatsu's strat](https://youtu.be/KJZNVq_aVzI) for P2S.
+PF uses Hamkatsu's strat for P2S:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KJZNVq_aVzI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Things to check on Party Finder
 

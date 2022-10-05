@@ -9,6 +9,10 @@ permalink: /2.0_a_realm_reborn/extreme_trials/shiva/
 
 # Akh Afah Amphitheatre (Extreme)
 
+A more modern reference would be Nukemaru's guide to the Akh Afah Amphitheatre (Unreal):
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nUoth1sjk8c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## English
 ```
 Icicles＆Hailstorm spread

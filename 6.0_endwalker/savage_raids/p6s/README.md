@@ -9,7 +9,9 @@ permalink: /6.0_endwalker/savage_raids/p6s/
 
 # Abyssos: The Sixth Circle (Savage)
 
-The following macros are from [Game8](https://game8.jp/ff14/479307), which uses  [Nukemaru's strat](https://youtu.be/pibChZ8AjZ8).
+The following macros are from [Game8](https://game8.jp/ff14/479307), which uses Nukemaru's strat:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pibChZ8AjZ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *Some* parties will replace Nukemaru's Cachexia 1 with ZizieZip's method (see below).
 

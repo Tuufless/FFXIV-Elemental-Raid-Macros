@@ -9,7 +9,9 @@ permalink: /2.0_a_realm_reborn/extreme_trials/titan/
 
 # The Minstrel's Ballad: Ultima's Bane
 
-An updated reference would be [Nukemaru's guide](https://youtu.be/Zs5fo5URJwQ).
+A more up-to-date reference would be Nukemaru's guide to The Minstrel's Ballad: Ultima's Bane (Unreal):
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zs5fo5URJwQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Things to note in Party Finder
 

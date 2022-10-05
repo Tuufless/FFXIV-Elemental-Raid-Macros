@@ -9,7 +9,9 @@ permalink: /3.0_heavensward/extreme_trials/sephirot/
 
 # Containment Bay S1T7 (Extreme)
 
-An up-to-date reference would be [Nukemaru's guide](https://youtu.be/bHCGhhyV8VQ).
+An up-to-date reference would be Nukemaru's guide:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bHCGhhyV8VQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## English
 ```

@@ -18,7 +18,7 @@ The level cap for A Realm Reborn is **Level 50**.
 - **Ifrit EX** - The Bowl of Embers (Extreme)
 - **Thornmarch EX** - Thornmarch (Extreme)
 - **Ultima EX** - [The Minstrel's Ballad: Ultima's Bane](extreme_trials/ultima_weapon/README.md)
-- **Leviathan EX** - The Whorleater (Extreme)
+- **Leviathan EX** - [The Whorleater (Extreme)](extreme_trials/leviathan/README.md)
 - **Ramuh EX** - The Striking Tree (Extreme)
 - **Shiva EX** - [Akh Afah Amphitheatre (Extreme)](extreme_trials/shiva/README.md)
 

@@ -14,6 +14,6 @@ permalink: /2.0_a_realm_reborn/extreme_trials/
 - **Ifrit EX** - The Bowl of Embers (Extreme)
 - **Thornmarch EX** - Thornmarch (Extreme)
 - **Ultima EX** - [The Minstrel's Ballad: Ultima's Bane](ultima_weapon/README.md)
-- **Leviathan EX** - The Whorleater (Extreme)
+- **Leviathan EX** - [The Whorleater (Extreme)](leviathan/README.md)
 - **Ramuh EX** - The Striking Tree (Extreme)
 - **Shiva EX** - [Akh Afah Amphitheatre (Extreme)](shiva/README.md)

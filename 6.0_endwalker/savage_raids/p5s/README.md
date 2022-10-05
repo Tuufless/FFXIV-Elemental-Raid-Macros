@@ -11,17 +11,7 @@ permalink: /6.0_endwalker/savage_raids/p5s/
 
 This is [Game8's macro](https://game8.jp/ff14/464675)
 
-Guides:
-- [Akito](https://youtu.be/N4YaRf1X6L8) (JP)
-- [Hamkatsu](https://youtu.be/d71hgVaUAcc) (JP)
-- [Nukemaru](https://youtu.be/GRrZvJT1fXM) (JP)
-
-### Things to check on Party Finder
-
-- **I'm expecting updates to Game8's macro**- the macro doesn't match their diagrams on the webpage in a few places.
-- It's unclear whether the poison towers (after the 8-bites) are using true-north, or taking the starting bite as NW.
-- Check Ruby Glow 5 spread positions (some have healer mid, others have healers on the side).
-- Check which quadrant the party uses for Ruby Glow 6 (I suspect it might change from "Opposite the 3-crystal quadrant".)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GRrZvJT1fXM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## English
 

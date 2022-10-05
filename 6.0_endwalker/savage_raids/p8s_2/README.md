@@ -9,7 +9,9 @@ permalink: /6.0_endwalker/savage_raids/p8s_2/
 
 # Abyssos: The Eighth Circle (Savage) - Part 2
 
-PF uses [Nukemaru's strat](https://youtu.be/RaLfkv-B2Zg), substituting [Hydi/Bijyon's strat for Limitless Desolation](#limitless-desolation).
+PF uses Nukemaru's strat, substituting [Hydi/Bijyon's strat for Limitless Desolation](#limitless-desolation).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RaLfkv-B2Zg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The combination is often nicknamed "**Nukehai**" (ぬけはい).
 
