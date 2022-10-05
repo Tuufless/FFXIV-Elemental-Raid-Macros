@@ -278,7 +278,9 @@ Hydi Ai and [Bijyon](https://youtu.be/GA3IWJde15g) proposes the following strate
 
 It takes advantage of the fact that the first and third set of towers always spawn in the top two rows, while the second and fourth set of towers always spawn in the middle two rows.
 
-[Nukemaru also made a guide](https://youtu.be/8kdGUhXYBJI) explaining the strat.
+Nukemaru also made a guide explaining the strat:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8kdGUhXYBJI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Nukemaru's High Concept #2
 
