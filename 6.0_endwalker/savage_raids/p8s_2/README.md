@@ -319,7 +319,7 @@ This is Nukemaru's strat for High Concept #2. Several concepts from High Concept
     <td><img src="images/high_concept_2_ex1_3.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>4.</b> The boss will cleave one half of the arena.</p><p>Once the two players have created the animal concept, they split to take the two towers while dodging the boss's AoE.</p><p><b>If you came from the top side, you will take the top tower.</b></p><p><em>In this example, 7β came from above 7γ, so 7β takes the north tower. The boss is also cleaving east here.</em></p></td>
+    <td><p><b>4.</b> The boss will cleave one half of the arena.</p><p><b>Merge Ifrit before dodging the cleave.</b></p><p>Once the two players have created the animal concept, they split to take the two towers while dodging the boss's AoE.</p><p><b>If you came from the top side, you will take the top tower.</b></p><p><em>In this example, 7β came from above 7γ, so 7β takes the north tower. The boss is also cleaving east here.</em></p></td>
     <td><img src="images/high_concept_2_ex1_4.jpg"></td>
   </tr>
   <tr>
@@ -381,28 +381,30 @@ This is Nukemaru's strat for High Concept #2. Several concepts from High Concept
   <tr><td><p>Yes, the two sets of towers in High Concept 1 are not related to one another.</p></td></tr>
 </table>
 </details>
-
 <details markdown=block>
 <summary><b>[High Concept 2]</b> Why is 7γ missing in the macro where it says "27γ/Unused 7αβ→Synthesize South"?</summary>
 <table>
   <tr><td><p>The ultimate goal in High Concept 2 is to produce the Phoenix concept, which is done by merging two Ifrits with the two (green) birds, which are formed by combining α and β.</p><p>If the first set of towers <em>were green</em>, then players would just form two birds and immediately fuse them with the two Ifrits to make Phoenix at the first set of fusions.</p><p>Hence there cannot be any green towers in the first set, which means 7γ is always used.</p></td></tr>
 </table>
 </details>
-
 <details markdown=block>
 <summary><b>[High Concept 2]</b> Why is 7γ always used in the first fusion?</summary>
 <table>
   <tr><td><p>The ultimate goal in High Concept 2 is to produce the Phoenix concept, which is done by merging two Ifrits with the two (green) birds, which are formed by combining α and β.</p><p>If the first set of towers <em>were green</em>, then players would just form two birds and immediately fuse them with the two Ifrits to make Phoenix at the first set of fusions.</p><p>Hence there cannot be any green towers in the first set, which means 7γ is always used.</p></td></tr>
 </table>
 </details>
-
 <details markdown=block>
 <summary><b>[High Concept 2]</b> Why are the first set of towers always purple or blue?</summary>
 <table>
   <tr><td><p>The ultimate goal in High Concept 2 is to produce the Phoenix concept, which is done by merging two Ifrits with the two (green) birds, which are formed by combining α and β.</p><p>If the first set of towers <em>were green</em>, then players would just form two birds and immediately fuse them with the two Ifrits to make Phoenix at the first set of fusions.</p><p>Thus, the first set of towers cannot be green, and are therefore either purple or blue.</p></td></tr>
 </table>
 </details>
-
+<details markdown=block>
+<summary><b>[High Concept 2]</b> Why should you create Ifrit first, before dodging the boss's E/W cleave?</summary>
+<table>
+  <tr><td><p>The problem is that if a healer needs to combine to conceptualize Ifrit, they need to top up the party before the second set of AoEs.</p><p>Ifrit cannot be merged in the center, as that spot is being used to merge the two tower players.</p><p>By delaying the merge to after the cleave, you prevent the healer from going to the center to top up the party to prepare for the second set of AoEs- by the time Ifrit merges and the healer can go mid, the party would have likely spread out and be out of range of healing.</p></td></tr>
+</table>
+</details>
 <details markdown=block>
 <summary><b>[Dominion]</b> Why is the tower order in Dominion D4321 instead of D1234?</summary>
 <table>
