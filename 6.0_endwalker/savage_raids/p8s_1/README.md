@@ -204,8 +204,6 @@ In the event the boss uses Nest of Flamevipers when the clones are 2x Dragons, t
 
 Here is how to handle the stacks/spreads in Fourfold Fires.
 
-**Note that the corner spreads here are the FFO strat's spread positions, and are different from Waun Siu's strat.**
-
 <table>
   <tr>
     <td><img src="images/fourfold_fires_sides_spreads.jpg"></td>
