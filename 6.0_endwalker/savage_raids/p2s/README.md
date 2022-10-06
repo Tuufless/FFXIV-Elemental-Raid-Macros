@@ -11,7 +11,7 @@ permalink: /6.0_endwalker/savage_raids/p2s/
 
 PF uses Hamkatsu's strat for P2S:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KJZNVq_aVzI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube.html id="KJZNVq_aVzI" %}
 
 ### Things to check on Party Finder
 
@@ -20,41 +20,13 @@ PF uses Hamkatsu's strat for P2S:
 ## English
 
 ```
-【Shockwave stacks】
-　MT H1 D1 D2 (Under boss）
-　ST H2 D3 D4（Aisle）
-【Channeling Overflow (十-formation)】
-　　　TH↓DPS
-　DPS　　　　←TH
-　TH→　　　　DPS
-　　　DPS↑TH
-【Predatory Avarice】
-　1st　 ←Tank　stack　DPS→
-　2nd　Tank：Corner
-　　　　　DPS：Along N/S wall
-【Kampeos Harma (Limit Cut)】
-　Blue：1・3→Opposite boss　2・4→Under boss
-　Purple：On same-numbered markers
+{% include_relative macros/p2s.en.txt %}
 ```
 
 ## Japanese
 
 ```
-【ショックウェーブ・頭割り】
-　MT H1 D1 D2 (ボス下）
-　ST H2 D3 D4（通路）
-【チャネリングフロウ・十字】
-　　　TH↓DPS
-　DPS　　　　←TH
-　TH→　　　　DPS
-　　　DPS↑TH
-【多重刻印】
-　1回目　 ←タンク　頭割り　DPS→
-　２回目　タンク：フィールドの角側
-　　　　　DPS：中央寄り
-【カンペオスハルマ】
-　青サイコロ：1・3→ボス対角　2・4→ボス下
-　紫サイコロ：数字マーカー基準
+{% include_relative macros/p2s.jp.txt %}
 ```
 
 ## Markers

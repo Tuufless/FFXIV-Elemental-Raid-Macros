@@ -11,7 +11,7 @@ permalink: /6.0_endwalker/savage_raids/p6s/
 
 The following macros are from [Game8](https://game8.jp/ff14/479307), which uses Nukemaru's strat:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pibChZ8AjZ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube.html id="pibChZ8AjZ8" %}
 
 *Some* parties will replace Nukemaru's Cachexia 1 with ZizieZip's method (see below).
 
@@ -19,39 +19,14 @@ The following macros are from [Game8](https://game8.jp/ff14/479307), which uses 
 
 *(Nukemaru's Cachexia 1)*
 ```
-※MT組：MTH1D1D3 ST組：STH2D2D4
-　【基本散開】　　【カヘキシー1回目】
-MT/D3　ST/D4 　 　 8　　 　 　8
-　　 　 ★　　 　 　12　20 ★ 20　12
-H1/D1　H2/D2　　16 　 　 　 16
-【 頭割り+扇範囲 】｜ 【4：4頭割り】
-西：MT組 東：ST組｜西側→MT組 東側→ST組
-※時計回りで頭割り｜※内周4マスを使用
-【サイコロ】　　 　｜【チェンジバースト2回目】
-西：奇数　　　　　｜西→T・H 東→DPS
-東：偶数　　　　　｜※AOEも上記方向に捨てる
-【カヘキシー2回目】
-西：紫デバフ　東：緑デバフ
-北・南外周マス→AoE　内周マス→頭割り
+{% include_relative macros/p6s_nukemaru.jp.txt %}
 ```
 
 ## English
 
 *(Nukemaru's Cachexia 1)*
 ```
-　　【Spread】　　【Cachexia 1 (Nukemaru)】
-　MT/D3　ST/D4 　　　 　 8　　 　 　8
-　　　 　 ★　　 　 　　　12　20 ★ 20　12
-　H1/D1　H2/D2　　　　16 　 　 　 16
-【Stacks+fan AoE (Poly 1) + 4:4 stacks (Poly 3)】
-　West：MTH1D1D3　East：STH2D2D4
-　※ Poly 1: Rotate cw　※ Poly 3: Use inner tiles
-【Limit Cut】　【Exchange of Agonies 2】
-　West： Odd　　West→T+H　East→DPS
-　East： Even　　※AoEs go outside as above
-【Cachexia 2】
-　West：Purple　East：Green
-　N/S Outer tiles→AoE　N/S Inner tiles→Stacks
+{% include_relative macros/p6s_nukemaru.en.txt %}
 ```
 
 **English** parties will replace Nukemaru's Cachexia 1 strat with [ZizieZip's Cachexia 1 strat](https://twitter.com/ZizieZip/status/1564991162775060480).
@@ -61,41 +36,14 @@ H1/D1　H2/D2　　16 　 　 　 16
 
 *(ZizieZip's Cachexia 1)*
 ```
-【Spread】　　【Cachexia】
-　D3　　　D4　　Purple→West　Green→East
-　　MT　ST　　　■ Cachexia 1 (ZizieZip)
-　　　 ●　　　　　　T　T　　※ 20s timers start
-　　D1　D2　　　H　　　H　　under boss circle
-　H1　　　H2　　D　　　D
-【Limit Cut】 　　　D　D　　　N：D1>2>3>4：S
-　Odd→West　　■ Cachexia 2
-　Even→East　　　Stacks→2nd or 3rd row
-【Poly 1 + Poly 3】　AoEs→1st or 4th row
-　West：MTH1D1D3
-　East：STH2D2D4　※ Poly 1: Rotate cw
-【Exchange of Agonies 2】
-　West→T+H
-　East→DPS
+{% include_relative macros/p6s_ziziezip.en.txt %}
 ```
 
 ## Japanese
 
 *(ZizieZip's Cachexia 1)*
 ```
-　【基本散開】　　【カヘキシー】
-　D3　　　D4　　紫→西　緑→東
-　　MT　ST　　　■ カヘキシー1回目 (ジジー･ジップ)
-　　　 ●　　　　　　T　T　　※20秒の人はそもそも
-　　D1　D2　　　H　　　H　　　タゲサ踏む
-　H1　　　H2　　D　　　D
-【サイコロ】 　　　D　D　　　北：D1>2>3>4：南
-　西：奇数　　■ カヘキシー2回目
-　東：偶数　　　北・南外周マス→AoE　内周マス→頭割り
-【頭割り+扇範囲】　
-　西：MTH1D1D3
-　東：STH2D2D4　※時計回りで頭割り
-【チェンジバースト2回目】
-　西→T・H 東→DPS
+{% include_relative macros/p6s_ziziezip.jp.txt %}
 ```
 
 ## Markers (Nukemaru)

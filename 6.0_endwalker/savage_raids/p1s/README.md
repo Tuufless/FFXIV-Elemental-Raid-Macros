@@ -22,41 +22,13 @@ PF references the following guides for P1S:
 ## English
 
 ```
-【Spread Positions】
-　　D3 MT D4
-　　H1 ▲ H2
-　　D1 ST D2
-【Aetherial Shackles】
-Swap within same coloured marker as needed.
-【Intemperance】
-S tile not 3x Ice → MT+D3 swap for 3rd gems.
-【Tankbusters (Pitiless Flails)】
-Tank swap, Knockback to NW, Flare NE
-【Shackles of Time】
-Debuff: White, Party: Red
-【Fourfold Shackles】
-In order of ascending debuff time (3,8,13,18s)
-Purple：ABCD, Red：1234
+{% include_relative macros/p1s.en.txt %}
 ```
 
 ## Japanese
 
 ```
-【基本散開】
-　D3 MT D4
-　H1 ▲ H2
-　D1 ST D2
-【1回目鎖＆2回目光炎中の鎖】
-マーカーに基本散開、同色マーカーのペアで交代して調整
-【氷火の調整】
-1・3個目別色時にMTD3が3個目を交代
-【懲罰連撃】
-スイッチ、北西側へノックバック、北東側から交代
-【時限の縛鎖】
-デバフ付いた人は白床、その他は赤床
-【4連鎖】
-時間の短い順に(3,8,13,18秒)
-紫：ABCD、赤：1234
+{% include_relative macros/p1s.jp.txt %}
 ```
 
 ## Markers

@@ -11,7 +11,7 @@ permalink: /6.0_endwalker/savage_raids/p8s_2/
 
 PF uses Nukemaru's strat, substituting [Hydi/Bijyon's strat for Limitless Desolation](#limitless-desolation).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RaLfkv-B2Zg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube.html id="RaLfkv-B2Zg" %}
 
 The combination is often nicknamed "**Nukehai**" (ぬけはい).
 
@@ -25,36 +25,7 @@ The following is [Game8's macro](https://game8.jp/ff14/480771) for the Nukehai s
 
 *(Nukemaru's strat, Hydi/Bijyon's Limitless Desolation)*
 ```
-【術式1回目(頭割は西)】【術式炎氷(TH西 DPS東) 】
-　 　★　　　紫 　 ST│ ▼炎:中央前詰め　▼氷誘導
-D1 MT D2　　 MT　│ MT>ST >H1>H2 西 D1>ST
-H1　　H2　H1　D2│ D1>D2>D3>D4 東MT>D2
-D3 S T D4　 　 D1　│【術式2回目散開 】
-※左安置は　H2　D3│　STMT 紫 D3D1
-　左右反転→　 D4 　│　　 H1H2D4D2
-【概念1回目①】　　【概念1回目②】
-　　　　早α　　 　 │　　　遅α
-複/遅α　　　　　　│
-　　　　　　 早β 　│ 生物　　　　遅β
-重/遅βγ　　　　　 │
-　　　　早γ　　 　 │　　　遅γ
-※4塔：遅αβγ→北で合成
-　 　 　 複/重/早余り→南で合成
-【万象灰燼：はいじあ/ビジョン式】
-　　MT　　D1
-ST　 +　　　+　D2　※1,3番塔は前+で範囲捨て
-H1　+　　　+　D3　※2,4番塔は後+で範囲捨て
-　 　H2　　D4
-【概念2回目①】 　 　【概念2回目②】
-　　 無/早α　　　 │　　　　遅α
-単　　　　　 　 　 │ 生物
-　　　　　　早β　│ ｲﾌ ｲﾌ　　　　遅β
-複/遅　　　　　　 │ 生物
-　　　 早γ 　　 　 │　　　　遅γ
-※4塔：遅αβ→北で合成　遅γ/早余り→南で合成
-【支配者の一撃】　　　　　【塔優先度】
-　MTH1 D3 D1　西>MTSTH1H2D4D3D2D1>東
-　ST H2 D4 D2
+{% include_relative macros/p8s_2.jp.txt %}
  ```
  
 ## English:
@@ -63,49 +34,7 @@ The following is my interpretation of Game8's macro, with some parts edited to f
 
 *(Nukemaru's strat, Hydi/Bijyon's Limitless Desolation)*
 ```
-【Natural Alignment #1】
-　■ Spread 1st　　■ Spread 2nd
-　　　　★　　　　　　ST 　 ★ 　 ST
-　　D1 MT D2　　　　　MT　MT　　★ = Sigil
-　　H1　　H2　　　　D2　H1　D2　　players
-　　D3 ST D4　　　　　 D1　D1
-　■ Stack 1st　　　　D3　H2　D3
-　　Dodge West　　　　D4　D4 
-　■ Fire baits (②④ positions)
-　　②/①　　①/②　T/H West：MT > ST > H1 > H2
-　　④/③　　③/④　DPS East：D1 > D2 > D3 > D4
-　■ Ice baits　　West：D1 > ST　East：MT > D2
-【Natural Alignment #2】
-　Spread：　ST　MT　★　D3　D1
-　　　　　　　H1　H2　D4　D2
-【High Concept 1-1】│【High Concept 1-2】
-　　　　　7α　　 　　 │　　　　　27α
-　+27α　　　　　　 │
-　　　　　　　　 　7β │(Creation)　　　27β
-　+27βγ　　　　　  │
-　　　　　7γ　　　 　 │　　　　　27γ
-　■ High Concept #1 2nd Synthesis
-　　　　　　　　　27αβγ → Synthesize North
-　　  //Unused 7αβγ → Synthesize South
-　　  Player from the top → Take top tower
-【Limitless Desolation】(Hydi/Bijyon)
-　　　MT　　D1
-　ST　 +　　　+　D2　※1st, 3rd AoE at top +
-　H1　+　　　+　D3　※2nd, 4th AoE at bottom +
-　　 　H2　　D4
-【High Concept 2-1】  │【High Concept 2-2】
-　　　 Nothing/7α　　│　　　　　　27α
-　Solo　　　　　　　　│　Concept
-　　　　　　　　　　7β│ Ifrit　　Ifrit　　　　27β
-　/27　　　　　　　   │　Concept
-　　　　 　　7γ 　　 　 │　　　　　　27γ
-　■ High Concept #2 2nd Synthesis
-　　　　　　   27α + 27β → Synthesize North
-　　  Unused 7αβ + 27γ → Synthesize South
-　　Player from the top → Take top > left tower
-【Dominion】　　　　【Tower priority】
-　MT H1 D3 D1　W：MTSTH1H2D4D3D2D1：E
-　ST H2 D4 D2
+{% include_relative macros/p8s_2.en.txt %}
 ```
 
 ## Markers:
@@ -280,7 +209,7 @@ It takes advantage of the fact that the first and third set of towers always spa
 
 Nukemaru also made a guide explaining the strat:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8kdGUhXYBJI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube.html id="8kdGUhXYBJI" %}
 
 ## Nukemaru's High Concept #2
 

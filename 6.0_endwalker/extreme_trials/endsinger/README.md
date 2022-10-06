@@ -9,46 +9,20 @@ permalink: /6.0_endwalker/extreme_trials/endsinger/
 
 # The Minstrel's Ballad: The Endsinger's Aria
 
-PF largely follows [Nukemaru's guide](https://youtu.be/dwZ8uVCPI80).
+PF largely follows Nukemaru's guide:
 
-## English
-```
-【Grip of Despair + Katasterismoi (Towers)】
-Chains：TH→West、DPS→East
-　MT 　D1
-　 ST　D2
-　H1　 D3
-　H2　 D4
-【Despair Unforgotten Spread/Stacks】
-　D1 MT D2　　｜MTH1D1D2　West/North
-　H1 ST H2　　 ｜STH2D3D4　East/South
-　D3　　D4　　｜
-【Despair Unforgotten: Flares/Theo. Fatalism】
-※Flares X-form｜※Flares/AoE 十-formation
-D1/MT　D2/ST ｜　　 　T-Flare
-　　　　　　　　｜ AOE　 stack　D-Flare
-D3/H1　D4/H2｜　　　 H-Flare
-```
+{% include youtube.html id="dwZ8uVCPI80" %}
 
 ## Japanese
 
 This is the [game8 macro](https://game8.jp/ff14/446913) that's being used:
 ```
-【絶望の鎖・カタステリスモイ(塔)】
-鎖はTHが西、DPSが東に切りにいく
-　MT 　D1
-　 ST　D2
-　H1　 D3
-　H2　 D4
-【絶望侵食AoE散開/頭割り】
-　D1 MT D2　　｜MTH1D1D2　西/北
-　H1 ST H2　　 ｜STH2D3D4　東/南
-　D3　　D4　　｜
-【絶望侵食:フレア散開/セオロジカル散開】
-　※フレアX字　  ｜※フレア・AOE十字捨て
-D1/MT　D2/ST ｜　　 　Tフレア
-　　　　　　　　｜ AOE　 頭/他　Dフレア
-D3/H1　D4/H2｜　　　 Hフレア
+{% include_relative macros/endsinger.jp.txt %}
+```
+
+## English
+```
+{% include_relative macros/endsinger.en.txt %}
 ```
 
 ## Markers

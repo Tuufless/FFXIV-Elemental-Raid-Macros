@@ -24,60 +24,14 @@ PF uses [Inumaru's strat](https://youtu.be/LtrXblj9mJo) as a base, and:
 
 I personally recommend "Braindead" orbs, although English parties often prefer Gumi orbs (below, in the hideaway) for legacy reasons.
 ```
-―《Basic Spread》―――――――――――――――
-　D3 MT D4　　※ Rotate clockwise as needed
-　H1 ▲ H2　　　　for towers/tethers
-　D1 ST D2
-―《Director's Belone：YPP strat》―――――――
-　T/H: North　DPS: South
-　※Taking Debuffs：T > H > D1 > D2 > D3 > D4
-―《Pinax (Fire)：Stacks》―――――――――――
-　MTH1D1D3 ● STH2D2D4
-―《Pinax (Fire)：After Shifting Strike》――――
-　Towards mid：MTH1D1D3　Edge：STH2D2D4
-―《Pinax (Poison)：Spread》―――――――――
-　　　MT　●　ST
-　　　　D1　D2
-　D3　H1　　H2　D4
-―《Pinax (Poison)：After Shifting Strike》―――
-　　 MT　　※MT brings boss center
-　D1▲D2　※Ranged spread appropriately
-　　 ST　　　　towards the edge
-―《Green orbs：Braindead (cardinals)》――――
-　ST MT H2　　※MTH2→D3　STH1→D4
-　 H1  ▲ D4　　※D1D3→MT　D2D4→H1
-　D1 D3 D2
-　※Take orbs as above, then rotate clockwise
+{% include_relative macros/p4s_1.en.txt %}
 ```
 
 <details markdown=block>
 <summary>Gumi orbs</summary>
 
 ```
-―《Basic Spread》―――――――――――――――
-　D3 MT D4　　※ Rotate clockwise as needed
-　H1 ▲ H2　　　　for towers/tethers
-　D1 ST D2
-―《Director's Belone：YPP strat》―――――――
-　T/H: North　DPS: South
-　※Taking Debuffs：T > H > D1 > D2 > D3 > D4
-―《Pinax (Fire)：Stacks》―――――――――――
-　MTH1D1D3 ● STH2D2D4
-―《Pinax (Fire)：After Shifting Strike》――――
-　Towards mid：MTH1D1D3　Edge：STH2D2D4
-―《Pinax (Poison)：Spread》―――――――――
-　　　MT　●　ST
-　　　　D1　D2
-　D3　H1　　H2　D4
-―《Pinax (Poison)：After Shifting Strike》―――
-　　 MT　　※MT brings boss center
-　D1▲D2　※Ranged spread appropriately
-　　 ST　　　　towards the edge
-―《Green orbs：Gumi》――――――――――――
-　D4 MT H1　　※MTH1→D1　STH2→D2
-　 D2  ▲ ST　　※D1D3→MT　D2D4→ST
-　D3 D1 H2
-　※Take orbs as above, then rotate clockwise
+{% include_relative macros/p4s_1_gumi.en.txt %}
 ```
 
 </details>
@@ -86,30 +40,7 @@ I personally recommend "Braindead" orbs, although English parties often prefer G
 
 This is the [game8 macro](https://game8.jp/ff14/421350) often used by **Japanese** parties.
 ```
-―《基本散開》―――――――――――――――――
-　D3 MT D4　　※塔は時計回りの場所に入る
-　H1 ▲ H2
-　D1 ST D2
-―《毒線：YPP式》――――――――――――――――
-　TH:北　DPS:南
-　※受け渡し優先度：T > H > D1 > D2 > D3 > D4
-―《ピナクス炎：頭割り》―――――――――――――
-　MTH1D1D3 ● STH2D2D4
-―《ピナクス炎：シフト後頭割り》―――――――――――――
-　ボス正面：MTH1D1D3　ボス背面：STH2D2D4
-―《ピナクス毒：散開》―――――――――――――
-　　　MT　●　ST
-　　　　D1　D2
-　D3　H1　　H2　D4
-―《ピナクス毒：シフト後散開》――――――――――
-　　 MT　　※MTは中央へ誘導
-　D1▲D2　※遠隔は適宜外周寄り散開
-　　 ST
-―《緑玉：脳死十字》―――――――――――――――
-　ST MT H2　　※MTH2→D3　STH1→D4
-　 H1  ▲  D4　　※D1D3→MT　D2D4→H1
-　D1 D3 D2
-　※上記の玉を取った後、時計回りに玉を取る
+{% include_relative macros/p4s_1.jp.txt %}
 ```
 
 ## Markers
