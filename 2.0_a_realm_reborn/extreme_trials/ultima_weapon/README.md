@@ -11,7 +11,7 @@ permalink: /2.0_a_realm_reborn/extreme_trials/titan/
 
 A more up-to-date reference would be Nukemaru's guide to The Minstrel's Ballad: Ultima's Bane (Unreal):
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zs5fo5URJwQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube.html id="Zs5fo5URJwQ" %}
 
 ### Things to note in Party Finder
 
@@ -19,18 +19,10 @@ A more up-to-date reference would be Nukemaru's guide to The Minstrel's Ballad: 
 
 ## English
 ```
-【Vicious Aetherplasm】 Swap at 3 stacks
-【Aetheric Boom #1+#2】South→West
-【Aetheric Boom #3】(LB3 if available)
-　Tanks：SE→NE
-　Healers+DPS： SW→NW
+{% include_relative macros/ultima_weapon.en.txt %}
 ```
 
 ## Japanese
 ```
-【吸着爆弾】3スタックスイッチ
-【エーテル波動1、2回目】南→西の順で処理
-【エーテル波動3回目】(LB3あれば使用)
-　タンク：南東→北東
-　他：南西→北西
+{% include_relative macros/ultima_weapon.jp.txt %}
 ```
