@@ -258,7 +258,7 @@ This is Nukemaru's strat for High Concept #2. Several concepts from High Concept
         <ul>
           <li><b>27αβγ:</b> North, East, South respectively.</li>
           <li><b>7αβγ:</b> The one that did <b>not</b> fuse earlier returns to their original starting position.</li>
-          <li><b>Ifrits + Animal Concepts:</b> Take up the "T-shape" formation as shown.</li>
+          <li><b>Ifrits + Animal Concepts:</b> Take up the "T-shape" formation as shown. <b>If a healer is Ifrit, the healer should take the east Ifrit spot.</b></li>
         </ul>
       </p>
       <p><em>In this example, 7α did not fuse earlier, so they return North.</em></p>
