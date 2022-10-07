@@ -275,7 +275,7 @@ This is Nukemaru's strat for High Concept #2. Several concepts from High Concept
       <ul>
         <li><b>Ifrits + Animal Concepts:</b> Split up in your formation, and tether to one shade each.</li>
         <li><b>27αβ:</b> Go between the two north towers.</li>
-        <li><b>27γ + Unused 7αβγ:</b> Go between the two south towers.</li>
+        <li><b>27γ + Unused 7αβ:</b> Go between the two south towers.</li>
       </ul>
     </p>
     <p><em>In this example, 7α was not used in the first fusion, so they will go south to fuse with 27γ.</em></p></td>
