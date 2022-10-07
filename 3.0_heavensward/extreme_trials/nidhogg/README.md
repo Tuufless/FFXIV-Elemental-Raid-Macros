@@ -11,36 +11,12 @@ permalink: /3.0_heavensward/extreme_trials/nidhogg/
 
 ## English
 ```
-■ Adds phase
-　Brobinyak (OT)⇒Falak (MT)⇒Dragon (H2 bait)
-■ Towers
- ↑　D1 　D2　 ↑　※ DPS take towers
-MT←H1　H2→ST　※ Healers start
-　　D3　 D4　　　　　between towers
-■ Sable Price #1, #3
-Movement: B→A→spread
-　 D1　 D2
-ST　　　　MT
-　　　◎
-H1　　　　H2
-　 D3　 D4
+{% include_relative macros/nidhogg.en.txt %}
 ```
 
 ## Japanese
 ```
-■雑魚フェーズ…ST⇒西(プロビニャク) 、MT⇒東(ファラク)
-　処理順…西プロビニャク⇒東ファラク⇒北ウェアドラゴン
-《散開図》
-■塔フェーズ…DPS塔踏み、ヒラ塔の間スタート
-  ↑　 D1 　D2　 ↑　
-MT←H1　H2→ST
-　　 D3　 D4
-■火球(奇数)…B→A→下記散開
-　 D1　 D2
-ST　　　　MT
-　　 火球
-H1　　　　H2
-　 D3　 D4
+{% include_relative macros/nidhogg.jp.txt %}
 ```
 
 ## Markers
