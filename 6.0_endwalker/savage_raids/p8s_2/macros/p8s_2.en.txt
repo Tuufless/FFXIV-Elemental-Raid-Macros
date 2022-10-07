@@ -11,8 +11,8 @@
 　　④/③　　③/④　DPS East：D1 > D2 > D3 > D4
 　■ Ice baits　　West：D1 > ST　East：MT > D2
 【Natural Alignment #2】
-　Spread：　ST　MT　★　D3　D1
-　　　　　　　H1　H2　D4　D2
+　Spread：　 ST　MT　★　D3　D1
+　　　　　　　　　H1　H2　D4　D2
 【High Concept 1-1】│【High Concept 1-2】
 　　　　　7α　　 　　 │　　　　　27α
 　+27α　　　　　　 │
