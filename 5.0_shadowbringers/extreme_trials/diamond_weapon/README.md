@@ -9,34 +9,14 @@ permalink: /5.0_shadowbringers/extreme_trials/diamond_weapon/
 
 # The Cloud Deck (Extreme)
 
-Enrage: **11:58**
-
 ## English
 ```
-【Spread/Towers】　【Flood Ray】
-　　MT　　OT　　　　1/5　　2/6
-　　D1　　D2
-　　H1　　H2
-　　D3　　D4　　　　3/7　　4/8
-※Return to your assigned side after Flood Ray
-【Claw Swipes】
-　Group that did not cross first crosses after
-【Diamond Shrapnel】
-　Bait AoEs in corner with the hand beams,
-　then cross to the opposite platform
+{% include_relative macros/diamond_weapon.en.txt %}
 ```
 
 ## Japanese
 ```
-【基本散開/塔踏み】　【サイコロ】
-　　MT　　ST　　　　1/5　　2/6
-　　D1　　D2
-　　H1　　H2
-　　D3　　D4　　　　3/7　　4/8
-※サイコロ全部処理完了後、自分の担当船に戻る
-【爪】終わったら移動してない組が移動
-【ダイヤバースト（タケノコ）】
-　手のビームが来る側の角へ捨て、反対側の船へ移動
+{% include_relative macros/diamond_weapon.jp.txt %}
 ```
 
 ## Markers

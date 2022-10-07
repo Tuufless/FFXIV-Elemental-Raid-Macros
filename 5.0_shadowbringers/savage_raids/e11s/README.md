@@ -25,56 +25,12 @@ Where all the tethers/prey markers go. Most of the time, Fire goes behind, while
 
 ## English
 ```
-　　　【Spread】　　　　【Pairs】
-　　D3　MT　D4　┃　 　　MTD3
-　　 H1　▲　H2　 ┃　H1D1 ▲ H2D4
- 　　D1　ST　D2　 ┃ 　　　 STD2
-【Bound of Faith】:
-Thunder, Light → Boss's Front
-Fire → Boss's Back
-【Shifting Sky】
-Thunder + tanks → North(A)
-Fire + everyone else → South(C)
-【Elemental Break (Light)】
-　　　　　MTST
-H1D1D3　  ▲　 H2D2D4
-【Sundered Sky】: Hobo Lala strat
- 【Turn of the Heavens + Elemental Break】
-　　D3　MT
-　H1　　　D4
-　D1　　　H2
-　　ST　D2
-【Prismatic Deception】
-Arm goes up: Move to mid
-Does nothing: Move to mid IF person opposite
-    moves to mid
+{% include_relative macros/e11s.en.txt %}
 ```
 
 ## Japanese
 ```
-【基本散開】　　　　　【ペア】
-　　D3　MT　D4　 ┃　　 　MTD3
-　　 H1　▲ 　 H2　┃ H1D1 ▲　H2D4
- 　　D1　ST　 D2　 ┃　 　　 STD2
-【シンソイルスラスト】
-雷対象、 光対象 → ボス正面
-炎対象 → ボス背面
-【至天絶技】
-雷対象+タンク→北(A)側安置
-炎対象+残り→南(C)側安置
-【光エレメンタルブレイク】
-　　　　　MTST
-H1D1D3　  ▲　 H2D2D4
- 【墜獄絶技】: ほぼララ式
- 【転輪召+エレメンタルブレイク】
-　　D3　MT
-　H1　　　D4
-　D1　　　H2
-　　ST　D2
-【プリズマチックインビジブル】《基本散会》
-腕を上げた場合：ジャンプしながら中央へ移動
-何もしない場合：不動 or 対面の人が動いたら
-　　　　　　　　中央へ移動
+{% include_relative macros/e11s.jp.txt %}
 ```
 
 ## Markers
@@ -117,9 +73,7 @@ This is the de-facto way to resolve Sundered Sky in PF.
 1. Knockback → run anti-clockwise around
 2. Fire out, Light in
 
-**PoV videos:**
-- [Tuufless Tsuu](https://youtu.be/ktKdsw_3g78)
-- [Alanea Alice](https://youtu.be/PxPbepykI6I)
+{% include youtube.html id="ktKdsw_3g78" %}
 
 ## 2nd Turn of the Heavens
 

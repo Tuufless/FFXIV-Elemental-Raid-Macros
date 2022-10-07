@@ -13,40 +13,12 @@ The macros are for the [Okome strategy](https://blog.lariceworks.net/archives/26
 
 ## English
 ```
-■ P1 spread　　 ■ Meteor (towers)
-　D3　MT　D4　　N(W)：MT　S(E)：OT
-　H1　 ★ 　 H2　■ Healer stacks
-　D1　 OT 　D2　　　NW and SE
-■ Stacks ←T1/D1/D3/H1 　T2/D2/D4/H2→
-■ Fire/Ice Tethers:　 N：Tanks　S：Healers
-■ Univ. Manip 　　■ Wail of the Lost
-　　　D4/MT　　　　　    D1　D2
-　D1H1★ H2D2　 MT/H1 　 　 H2/OT
-　　　 D3/OT　　　　   　D3　D4
-　(※T+H inside the
-　 targeting circle)
-■ Again the Abyssal Celebrant
-　←MT/D1/H1（stacks）OT/D2/H2→
-  　　　←D3　   （bait）　   D4→
+{% include_relative macros/hades.en.txt %}
 ```
 
 ## Japanese
 ```
-■P1散開　　 　　■メテオ(塔)処理
-D3　MT　D4　　　北(西)：MT　南(東)：ST
-H1　 ★ 　 H2　　■捕獲されるヒラ
-D1　 ST 　D2　　　北西or南東捨て
-――――――――――――――――――――――――
-■頭割 ←MT/D1/D3/H1 　ST/D2/D4/H2→
-■線取 北側：タンク　南側：ヒラ
-■法則改変　　　　　■殉職者の記憶
-　D4/MT　　　　　　 　 D1　D2
-D1H1★ H2D2　　 MT/H1 　 　 H2/ST
-　 D3/ST　　　　　　　　D3　D4
-(※Tank・Healerはﾀｰｹﾞｯﾄｻｰｸﾙを踏む)
-――――――――――――――――――――――――
-■深淵　←MT/D1/H1（頭割）ST/D2/H2→
-　　　　　　←D3　（円範囲誘導）　D4→
+{% include_relative macros/hades.jp.txt %}
 ```
 
 ## Markers

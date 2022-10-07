@@ -24,43 +24,12 @@ The standard PF strat takes [Idyll strat (イディル式)](http://kanatan.info/
 
 ## English
 ```
-【Shiva Spread】   【Shiva Stacks・Diamond Dust】
-D3 MT D4     |   Top-left(D-1):H1MT←→D1D3
-H1  ▲  H2     |  Bottom-right(B-3):D4D2←→OTH2
-D1 ST  D2     |
-【Titan 1】　　　　　　　　【Titan 2】
- TH　T　D　　　　　　　TH
- H　  ▲  　D 　 ← H1H2MTOTD1234 → 
-               　　　　　　　　　　DPS
-【Titan 3】　　　【Obliteration】South/West
-TH　　D　 【Giants】Boss south
-　　　  ▲　　　　　　North stack: OT H2 D2 D4
-TH　　　D　　　 South stack: MT H1 D1 D3
-【Lions：TT strat】
-Big Lions：
-  North：H1MTH1　/　D3D1D3
-　　South：H2OTH2　/　D4D2D4
-　※Puddles order: Center→Left→Right
+{% include_relative macros/e12s_1.en.txt %}
 ```
 
 ## Japanese
 ```
-【ダスト散開】   【シヴァ頭割り・氷柱】
-D3 MT D4     |   上左(D-1)：H1MT←→D1D3
-H1  ▲  H2     |    下右(B-3)：D4D2←→STH2
-D1 ST  D2     |   散開はマップ基準
-　【タイタン1】　　　　　　【タイタン2】
-橙TH　黄T　橙D　　　　　　　　橙TH
-黄H　   ▲　 黄D　青：(西) H1H2MTSTD1234 (東)
-　　　 青D　　　　　　　　　　　橙D
-  【タイタン3】 　【はなつ＋ビーム】  南/西
-  黄TH  橙   黄D　【石像】ボス南誘導
-　　　 ◎　　　　　北：STH2D2D4
-  青TH　　青D　　  南：MTH1D1D3
-【ライオン：TT式】
-大：北：H1MTH1　/　D3D1D3
-　　南：H2STH2　/　D4D2D4
-　※沼捨て順：外周→左→右
+{% include_relative macros/e12s_1.jp.txt %}
 ```
 
 ## Markers

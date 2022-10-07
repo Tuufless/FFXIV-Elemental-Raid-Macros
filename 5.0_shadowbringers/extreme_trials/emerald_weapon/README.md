@@ -13,36 +13,12 @@ The PF standard for handling the eight Aetheroplasm Production orbs in the first
 
 ## English
 ```
-=====《Orbs spread》=====
-　　　  MT/D3
-　H1/D1  ▲  H2/D4
-　　　   OT/D2
-If North orb is:
-  Yellow: go clockwise
-  Blue: go anti-clockwise
-===《Magnets + Flares》===
-　　　○ｰ○
-　    MT　  OT
-《Divide Et Impera Spread》
-　　　MT/OT
-　D3　　▲　　D4
-　  D1 H1  H2 D2
+{% include_relative macros/emerald_weapon.en.txt %}
 ```
 
 ## Japanese
 ```
-====《爆雷散開》=====
-　　　  MT/D3
-　H1/D1  ▲  H2/D4
-　　　   ST/D2
-北=黄なら時計回り、青なら反時計
-==《マグネットフレア》==
-　　　○ｰ○
-　    MT　  ST
-===《ディヴィデ散開》===
-　　　MT/ST
-　D3　　▲　　D4
-　  D1 H1  H2 D2
+{% include_relative macros/emerald_weapon.jp.txt %}
 ```
 
 ## Markers

@@ -14,38 +14,12 @@ permalink: /5.0_shadowbringers/savage_raids/e5s/
 
 ## English
 ```
-【Spread Positions】
- D3　　　　　D4
-　　MT　　ST
-　　　　●　　　　(Ranged bait lightning)
-　　D1　　D2
- H1　　　　　H2
-【Fourteen Charged Bolts】
-Duty Action：ST
-From BOSS：MT>D1>D2>D4>H1>H2>D3
-【Chain Lightning】
-　　　MT/ST
-　↑  D1 ◎ D2  ↑　（Healer adjusts）
-　H1　　　　  H2　Left: H1→D3→D1
-　↓  D3　  D4  ↓　Right: H2→D4→D2
+{% include_relative macros/e5s.en.txt %}
 ```
 
 ## Japanese
 ```
-【基本散開】
- D3　　　　　D4
-　　MT　　ST
-　　　　●　　　　(雷雲：遠隔誘導)
-　　D1　　D2
- H1　　　　　H2
-【フォーディーン・チャージボルト】
-ふんばり：ST
-ボスから：MT>D1>D2>D4>H1>H2>D3
-【チェインライトニング】
-　　　MT/ST
-　↑  D1 ◎ D2  ↑　（ヒラ誘導）
-　H1　　　　  H2　左 H1→D3→D1
-　↓  D3　  D4  ↓　右 H2→D4→D2
+{% include_relative macros/e5s.jp.txt %}
 ```
 
 ## Variants
