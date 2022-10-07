@@ -11,27 +11,12 @@ permalink: /4.0_stormblood/savage_raids/o12s_2/
 
 ## English
 ```
-【Patch】 Far T → Near T → H2 → H1
-【Oversampled Wave Cannon】
-　　MT:Front　OT:Side
-【Index + Archive】 |【Delta Attack】
-　　　MT　ST　　　 | 　　　MTOT
-　　D3　　　D4　　| 　　D3　　D4
-　　D1　　　D2　　| 　D1　　　　D2
-　　　H1　H2　　　| H1　　 ●　　　H2　
-　※Use True North |※Stack where AoEs went
+{% include_relative macros/o12s_2.en.txt %}
 ```
 
 ## Japanese
 ```
-【エンバグ】ファー青T→ニア緑T→H2→H1
-【検知式波動砲】MT:正面側　ST:背面側
-　【アームX】 |　【デルタアタック】
-　　MT　ST　 |　　　 MTST
-　D3　　　D4 |　 　D3　　D4
-　D1　　　D2 | 　 D1　　　　D2
-　　H1　H2　 | H1　 　 ●　　 H2　
-　※12時A基準 |※AoE消えた場所で頭割り
+{% include_relative macros/o12s_2.jp.txt %}
 ```
 
 ## Patch

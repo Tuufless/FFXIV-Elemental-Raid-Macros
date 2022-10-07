@@ -1,0 +1,14 @@
+【Earthshakers/8 man thunderstorms】
+　D1　MT D2
+　H1　 ▲　H2
+　D3　ST　D4
+【dps thunderstorm】※applies throughout the fight
+ D1     D2   ｜　　D1
+                     │D3          D2
+ D3     D4   │　　D4
+【Ice AoE】South Corners
+【Arcane Bulwark】Person with the buff waits on 2 to swap→All move to boss rear after 4 swaps
+【Fireball】
+People without tether wait at the corner of the 3 fireballs、Person with the tether waits to their right→After fireballs, people without tether move to the top left、with tether to the top right（Swap bulwark here）
+→people without tether moves through mid top left、with tether through top right
+【Ice + exaflare + akh morn】Ice south. The rest move towards the first exaflare after it passes by

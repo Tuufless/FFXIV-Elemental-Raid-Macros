@@ -8,3 +8,9 @@ permalink: /4.0_stormblood/savage_raids/o5s/
 ---
 
 # Sigmascape V1.0 (Savage)
+
+## Japanese
+
+```
+{% include_relative macros/o5s.jp.txt %}
+```

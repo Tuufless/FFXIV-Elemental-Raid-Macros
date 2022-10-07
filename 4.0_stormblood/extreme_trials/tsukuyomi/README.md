@@ -11,34 +11,12 @@ permalink: /4.0_stormblood/extreme_trials/tsukuyomi/
 
 ## English
 ```
-■ Nightfall（based on markers）
-　Gun: Stack behind boss
-　Spear: Spread
-　　　 
-　　 ＼ T ／　(Front: North)
-　Ｈ ☆ Ｈ　
-　　 ／ D ＼
-　　　 
-■ Meteors
-　Ｔ: （Tip of crescent）
-　Ｈ:  or （Thick part of crescent）
-　Ｄ:  （Tip of crescent）
+{% include_relative macros/tsukuyomi.en.txt %}
 ```
 
 ## Japanese
 ```
-■ 宵の早替え（マーカー基準）
-　銃: ボス背面 (頭割り)
-　槍: 散開
-　　　 
-　　 ＼ T ／　(正面:北)
-　Ｈ ☆ Ｈ　
-　　 ／ D ＼
-　　　 
-■ 隕石
-　Ｔ: （狭い方）
-　Ｈ:  or （広い方）
-　Ｄ:  （狭い方）
+{% include_relative macros/tsukuyomi.jp.txt %}
 ```
 
 ## Moon Phase

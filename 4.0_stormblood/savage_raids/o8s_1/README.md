@@ -11,37 +11,12 @@ permalink: /4.0_stormblood/savage_raids/o8s_1/
 
 ## English
 ```
-■   ─ Fire spread ──┬■ 1st Graven Image ──
-　　 　   　MT　　　  　 │　（Stack pairs）
-　　 　D1  ●　D2  　　│H1　　　●　　H2
-　　 D3　  ST　　D4　 │D3　 MT　ST　D4
-　　 　H1　　 H2　 　  │　　　D1　D2
- ■ 3rd Graven Image ┼■ 5th Graven Image ──
-    TH-DPS pairs:         　│ Sleep (R) - mid
-　　 　←H1/D3→　　  │ Confusion (L) - cardinals
-　　 　←MT/D1→●  　│　　　MT/D1
-　　 　←ST/D2→ 　　  │ ST/D3 ● H2/D4
-　　 　←H2/D4→　　  │　　 　H1/D2
- ■ Hyperdrive
- MT Invin > ST Invin > MT cooldowns > MT Invin
+{% include_relative macros/o8s_1.en.txt %}
 ```
 
 ## Japanese
 ```
-■散会 (ファイガ)┬■ 第一楽章
- 　　　MT　　　│　（頭割りペア）
- 　D1 ●　D2　│H1　　　●　　H2
- D3　 ST　　D4│D3　 MT　ST　D4
- 　H1　　 H2　 │　　　D1　D2
- ■ 第二楽章 ──┼■ 第三楽章─────
-  （重力／岩石)　│(睡眠中央／混乱十字)
- TH-DPSペア式　│
- 　←H1/D3→　│　　　MT/D1
- 　←MT/D1→●│ ST/D3 ● H2/D4
- 　←ST/D2→ 　│　　 　H1/D2
- 　←H2/D4→　│
- ■ ハイパードライブ
- MT無敵 > ST無敵 > MTバフ受 > MT無敵
+{% include_relative macros/o8s_1.jp.txt %}
 ```
 
 ## Markers

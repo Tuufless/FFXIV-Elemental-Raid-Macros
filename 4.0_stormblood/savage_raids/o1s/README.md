@@ -11,11 +11,5 @@ permalink: /4.0_stormblood/savage_raids/o1s/
 
 ## Japanese
 ```
-■■■散開■■■
-　　   MT
-　D1　　D2
-H1　　　　  H2
-　D3　　D4
-　　   ST
-※凍結クランプは右に誘導
+{% include_relative macros/o1s.jp.txt %}
 ```

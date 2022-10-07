@@ -11,37 +11,12 @@ permalink: /4.0_stormblood/savage_raids/o6s/
 
 ## English
 ```
-■ For all phases:
-【Demonic Pain (Line):】 Tank moves
-【Flash Wind (the stack):】 OT solos with Invincibility
-【Typhon:】 H2 【Rock:】 H1
-【Last Kiss:】 Pass to the OT at A or D.
- 
-■ Phase specific:
-【P2 large AoEs:】 Bait at B → Dodge to C
-【P3 Lullaby:】
-    Pink: H2    Black: D4
-    Yellow: H1  Blue: D3
-【P4 large AoEs:】 Bait at A → Dodge to B → C
-【P4 small AoEs:】 C → A → C
-【P6 large AoEs:】 Bait at A → Dodge to B → C
+{% include_relative macros/o6s.en.txt %}
 ```
 
 ## Japanese
 ```
-■全Phase共通
- 【デモニックペイン(線)】タンクが移動
- 【フラッシュウィンド(頭割り)】ST無敵
- 【テュポーン】H2　【岩】H1
- 【死の口づけ】A・DマーカーでSTに受け渡し
- ■各Phase
- 【P2大AoE】B集合→C
- 【P3子守唄】子守唄の詠唱が終わったら即塗る
- 　桃 H2　　D4 黒
- 　黄 H1　　D3 青
- 【P4大AoE】A集合→B回避→C
- 【P4小AoE】C→A→C
- 【P6大AoE】A集合→B回避→C
+{% include_relative macros/o6s.jp.txt %}
 ```
 
 ## Markers

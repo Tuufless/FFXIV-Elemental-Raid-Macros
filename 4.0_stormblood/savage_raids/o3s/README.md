@@ -11,37 +11,10 @@ permalink: /4.0_stormblood/savage_raids/o3s/
 
 ## English
 ```
-＝Protean Wave＝     ＝Game board＝
-           MT                               (Role ver.)
-　  D3    D4
-  H1          H2           MT                            ST
-　  D1    D2                 H1  D1+3  D2+4  H2
-            ST
-Briars: North: Tanks + Healers     South: DPS
-White Flame: MT brings boss north
-
-＝Library phase＝     ＝Game board＝
-   ーーーーーーー            (Animals ver.)
-    H1 MT ST  H2
-   ーーーーーーー       Transformation order:
-    D3 D1 D2 D4      Healers → Tanks → DPS
-   ーーーーーーー
+{% include_relative macros/o3s.en.txt %}
 ```
 
 ## Japanese
 ```
-＝女王の舞散開図＝     ＝ゲームボード＝
-           MT                                (ロール)
-　  D3    D4
-  H1          H2         MT                            ST
-　  D1    D2               H1  D1+3  D2+4  H2
-            ST
-茨の線:　北側タンクヒラ　南側DPS
-雑魚pop:　MT北側　南側で雑魚処理
-＝女王の舞散開図＝     ＝ゲームボード＝
-   ーーーーーーー       (ブタ・カッパ・カエル)
-    H1 MT ST  H2
-   ーーーーーーー       ヒラ → タンク → DPS
-    D3 D1 D2 D4              の順で受ける
-   ーーーーーーー
+{% include_relative macros/o3s.jp.txt %}
 ```

@@ -11,32 +11,12 @@ permalink: /4.0_stormblood/savage_raids/o9s/
 
 ## English
 ```
-■─ Fire phase ────┬■─Earthquake ───
-　(Spread, stacks)　　　│　(Stack positions)
- 　               MT/D1　　　  │　H1　 MT 　ST 　H2
-　H1/D3　ボス　H2/D4 │　D3　 D1　 D2 　D4
- 　                ST/D2　　　   │
-■─ Dark crystal ────────────────
- 　               MT
- 　               D1　　　※Tanks + healers face out→
-       H1 D3 ◎ D4 H2　hit your DPS with water
- 　               D2
- 　               ST
+{% include_relative macros/o9s.en.txt %}
 ```
 
 ## Japanese
 ```
-■─ 炎フェーズ ─────┬■─ 地震フェーズ ───
-　( 頭割り、散開 )　　　　│　( 頭割り )
- 　               MT/D1　　　  │　H1　 MT 　ST 　H2
-　H1/D3　ボス　H2/D4 │　D3　 D1　 D2 　D4
- 　                ST/D2　　　   │
-■─ 黒水晶 ───────────────────
- 　               MT
- 　               D1　　　　※タンクヒラは外周向き→
-       H1 D3 ◎ D4 H2　　水をDPSに当てる
- 　               D2
- 　               ST
+{% include_relative macros/o9s.jp.txt %}
 ```
 
 ## Timeline

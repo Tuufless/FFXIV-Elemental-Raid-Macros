@@ -15,58 +15,12 @@ The preferred strategy in the end was to bring the boss to the center for the fi
 
 ## English
 ```
-■■■P1■■■(OT starts)
-※Stack behind boss during White Hole
-　▼Dual-cast magic:
-　　Dual Blizzard III: Bait ice puddles behind, rotate clockwise
-　　Dual Thunder III:
-　　　1st use Invincibility (tank swap to MT)→2nd use Invincibility→3rd tank swap midcast
-　　Dual Fire III positions：
-　　　　     MT
-　　　D1 BOSS D2
-　 　D3　   OT      D4
-　　　     H1    H2
-　▼Flare
-　　Tank： Return to the front of the head
-　　Healer： Stop at the side of the head
-　　DPS： Continue running to the back of the head
-　▼1st Black Hole:
-   　　　　   MT→
-　 ↑　 D3              D4
-　H1 　      BOSS     　H2
-　　　  D1             D2   ↓
-　　　  　 ← ST
-　▼2nd Black Hole:
-　　Blizzard III: DPS stack and place behind → rotate clockwise
-　　Flare： DPS adjust accordingly
+{% include_relative macros/o4s_1.en.txt %}
 ```
 
 ## Japanese
 ```
-■■■Ｐ１■■■( STスタート、開始お任せ)
-※ホワイトホール時はボス背面集合
-　▼強化魔法3種
-　　連続ブリザガ：近接は１回目背面捨て→時計回り捨て　他外周で適当に
-　　連続サンダガ：
-　　　１回目無敵技(MTスイッチ)→２回目無敵技→３回目詠唱中にスイッチ
-　　連続ファイガ散開：
-　　　　   MT
-　　　D1 ボス D2
-　　D3　  ST      D4
-　　　   H1    H2
-　▼フレア
-　　タンク：顏の正面側へ逆走
-　　ヒラ：顏の横でストップ
-　　DPS：顏の後ろ側へそのまま走る
-　▼ブラックホール散会(目安)
-　　　　　 MT→
-　 ↑     D3         D4
-　H1 　      ボス      　H2
-　　　  D1          D2    ↓
-　　　  　← ST
-　▼２回目ブラックホール
-　　ブリザガ：DPS背面捨て→時計回り捨て
-　　フレア：DPSが調整
+{% include_relative macros/o4s_1.jp.txt %}
 ```
 
 ## Markers

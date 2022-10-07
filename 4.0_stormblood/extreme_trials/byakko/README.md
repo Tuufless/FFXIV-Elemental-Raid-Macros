@@ -13,24 +13,12 @@ Note when doing this undersized, it is possible to skip the falling intermission
 
 ## English
 ```
------ State of Shock （stacks）-----
- 1st time： MT+H1+D1+D2
- 2nd time： ST+H2+D3+D4
- ----- Unrelenting Anguish （bullet hell）-----
- A - Tank
- B - Healer
- C - DPS
+{% include_relative macros/byakko.en.txt %}
 ```
 
 ## Japanese
 ```
------乾坤一擲（頭割り）-----
- １回目：MT+H1+D1+D2
- ２回目：ST+H2+D3+D4
- -----無間地獄（弾避け）-----
- A - タンク
- B - ヒーラー
- C - DPS
+{% include_relative macros/byakko.jp.txt %}
 ```
 
 ## Markers
