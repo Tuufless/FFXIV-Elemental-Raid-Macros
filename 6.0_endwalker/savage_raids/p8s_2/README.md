@@ -227,7 +227,7 @@ This is Nukemaru's strat for High Concept #2. Several concepts from High Concept
             <li><b>Other 27αβγ:</b> 1/2 a tile south of West <em>(one of the two remaining 27αβγ will be a 2-man stack)</em>.</li>
           </ul>
         </li>
-        <li><b>No debuff:</b> North</li>
+        <li><b>No debuff:</b> North <em>(these will be two T/H or two DPS).</em></li>
       </ul>
     </p>
     <p><em>In this example, 27β has the solo stack.</em></p></td>
@@ -240,10 +240,11 @@ This is Nukemaru's strat for High Concept #2. Several concepts from High Concept
   <tr>
     <td><p><b>3.</b> Two coloured towers spawn.</p>
     <p><ul>
-        <li><b>7αβγ:</b> If you need to fuse, meet in the center to create the animal concept, just like High Concept #1. This time around, <b>7γ will <em>always</em> be involved in this fusion.</b></li>
+        <li><b>7αβγ:</b> If you need to fuse, meet in the center to create the animal concept, just like High Concept #1.</li>
         <li><b>No debuff:</b> Fuse together North-West to make Ifrit.</li>
       </ul>
       <p>Ifrit players will suffer from continuous DoT damage until the end of High Concept, and need to be kept alive by the healers until then.</p>
+      <p><b>Note that 7γ will <em>always</em> be involved in this fusion.</b></p>
       </p><p><em>In this example, the towers are purple, so 7β and 7γ will fuse.</em></p></td>
     <td><img src="images/high_concept_2_ex1_3.jpg"></td>
   </tr>
