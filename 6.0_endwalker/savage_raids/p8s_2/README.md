@@ -80,7 +80,7 @@ Inside: D1>D2>D3>D4: Outside (baits Fire)
 <table>
   <tr>
     <td><p><b>Example 1:</b> MT and ST are selected as the Sigils.</p>
-    <p>The remaining pairs are:<ul><li>H1 > H2</li><li>D1 > D2</li><li>D3 > D4</li></ul>In each pair, the player with the lower priority baits Fire (H2, D2, D4).</p></td>
+    <p>The remaining pairs are:<ul><li>H1 > H2</li><li>D1 > D2</li><li>D3 > D4</li></ul>In each pair, the player with the lower priority baits Fire (H2, D2, D4).</p><p><em>Notice H1 and H2 are baiting Fire in the front of the row.</em></p></td>
     <td><img src="images/natural_alignment_ex1_fire.jpg"></td>
   </tr>
   <tr>

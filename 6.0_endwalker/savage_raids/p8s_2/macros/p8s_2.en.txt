@@ -16,7 +16,7 @@
 【High Concept 1-1】│【High Concept 1-2】
 　　　　　7α　　 　　 │　　　　　27α
 　+27α　　　　　　 │
-　　　　　　　　 　7β │(Creation)　　　27β
+　　　　　　　　 　7β │Concept　　　　27β
 　+27βγ　　　　　  │
 　　　　　7γ　　　 　 │　　　　　27γ
 　■ High Concept #1 2nd Synthesis
@@ -30,9 +30,9 @@
 　　 　H2　　D4
 【High Concept 2-1】  │【High Concept 2-2】
 　　　 Nothing/7α　　│　　　　　　27α
-　Solo　　　　　　　　│　Concept
-　　　　　　　　　　7β│ Ifrit　　Ifrit　　　　27β
-　/27　　　　　　　   │　Concept
+　Solo　　　　　　　　 │Concept
+　　　　　　　　　　7β │Ifrit　　Ifrit　　　　27β
+　/27　　　　　　　   │Concept
 　　　　 　　7γ 　　 　 │　　　　　　27γ
 　■ High Concept #2 2nd Synthesis
 　　　　　　   27α + 27β → Synthesize North
