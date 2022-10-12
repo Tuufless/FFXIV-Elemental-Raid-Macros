@@ -30,7 +30,7 @@ This phase requires planning out and coordinating mitigations. The recommended b
 <table>
   <tr>
     <td><b>Alterative End</b></td>
-    <td>MT 90s, ST 90s, H2 shields, H2 30s, H2 120s (x2)</td>
+    <td><p>MT 90s, ST 90s, H2 shields, H2 30s, H2 120s* (x2)</p><p><em>* Expedience + Consolation / Holos + Panhaima</em></p></td>
   </tr>
   <tr>
     <td><b>Akh Morn's Edge #1</b></td>
@@ -55,6 +55,8 @@ This phase requires planning out and coordinating mitigations. The recommended b
 </table>
 
 The above mitigation plan was made in the *absence* of jobs that provide more than one sort of mitigation such as PLD's Passage of Arms, AST's Collective Unconsciousness, DNC's Improvisation, or RDM's Magick Barrier.
+
+Alternative End needs at least six party mitigations for everyone to survive.
 
 If any extra mitigations are available, it's recommended they be slotted into either Gigaflare's Edge, or Akh Morn's Edge #2.
 
