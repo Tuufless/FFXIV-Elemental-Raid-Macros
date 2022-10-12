@@ -134,3 +134,18 @@ Wormhole Formation will use 09STOP's method (highlighted by the [Korean simulato
 	<td><img src="../images/alex_prime/wormhole_12.jpg"></td>
   </tr>
 </table>
+
+## Frequently Asked Questions
+
+<details markdown=block>
+<summary><b>[Inception]</b> Why do we criss-cross the green orb tethers?</summary>
+<table>
+  <tr><td><p>Criss-crossing the tethers accomplishes two things:<ul><li>It curves the green orbs around the center so the players dropping the crystals don't need to dodge them.</li><li>The orb travels a shorter distance to reach the players that are closer to the crystals, giving them more time to get away from the proximity damage.</li></ul></p></td></tr>
+</table>
+</details>
+<details markdown=block>
+<summary><b>[Enumeration]</b> Why don't we group both tanks with one Enumeration target, and both healers with the other Enumeration target?</summary>
+<table>
+  <tr><td><p>Although that configuration looks simple, there are a few steps involved:<ul><li>All DPS need to identify whether they are an Enumeration target.</li><li>The two (random) Enumeration targets need to figure out their priority between themselves (one west, one east).</li><li>The two (random) non-Enumeration DPS then need to move out of the way.</li></ul></p><p>By keeping the same Enumeration strat from BJCC (where D1 and D2 swap if needed), we:<ul><li>Maintain consistency between both phases.</li><li>Fix who stays out of the Enumerations (the tanks are <em>never</em> in Enumeration).</li><li>Only two DPS need to pay attention (D1 and D2) instead of all four.</li><li>There is just a cue to swap (both Enumerations on one side), instead of following a priority system.</li></ul></p></td></tr>
+</table>
+</details>
