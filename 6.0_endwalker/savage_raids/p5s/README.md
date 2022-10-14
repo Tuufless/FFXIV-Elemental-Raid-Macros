@@ -60,3 +60,22 @@ This set of markers simply puts everything in a circle.
 ## Timeline
 ![](https://preview.redd.it/byylqr56ugl91.png?width=1741&format=png&auto=webp&s=9dd4e24d2df98e9b753cfc3a49c63c6956ad709e)
 *(Credit: [u/ExiaKuromonji](https://www.reddit.com/r/ffxiv/comments/x1sj4y/p5s_timeline/))*
+
+## Ruby Glow 5
+
+The way Game 8 chose to resolve Ruby Glow 5 is to assign the MT group to the north-side **poison** quadrant, and the ST group to the south side **poison** quadrant.
+
+Once you've identified your quadrant, move to the side **without** the poison crystal (this will always be next to the yellow crystal that will explode).
+
+The four possible outcomes are as follows:
+
+<table>
+  <tr>
+    <td><img src="images/ruby_5_1.jpg"></td>
+    <td><img src="images/ruby_5_2.jpg"></td>
+  </tr>
+  <tr>
+    <td><img src="images/ruby_5_3.jpg"></td>
+    <td><img src="images/ruby_5_4.jpg"></td>
+  </tr>
+</table>
