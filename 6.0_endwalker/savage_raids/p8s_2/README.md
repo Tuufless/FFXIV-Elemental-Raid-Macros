@@ -9,11 +9,9 @@ permalink: /6.0_endwalker/savage_raids/p8s_2/
 
 # Abyssos: The Eighth Circle (Savage) - Part 2
 
-PF uses Nukemaru's strat, substituting [Hydi/Bijyon's strat for Limitless Desolation](#limitless-desolation).
+PF uses Nukemaru's strat, with [Hydi/Bijyon's strat for Limitless Desolation](#limitless-desolation). The combination is often nicknamed "**Nukehai**" (ぬけはい).
 
-{% include youtube.html id="RaLfkv-B2Zg" %}
-
-The combination is often nicknamed "**Nukehai**" (ぬけはい).
+{% include youtube.html id="V9ag9pJW-Pk" %}
 
 ### Approximate milestones
 
@@ -324,7 +322,7 @@ This is Nukemaru's strat for High Concept #2. Several concepts from High Concept
 </table>
 </details>
 <details markdown=block>
-<summary><b>[High Concept 2]</b> Why are the first set of towers always purple or blue?</summary>
+<summary><b>[High Concept 2]</b> Why are the first set of towers always purple or blue, and never green?</summary>
 <table>
   <tr><td><p>The ultimate goal in High Concept 2 is to produce the Phoenix concept, which is done by merging two Ifrits with the two (green) birds, which are formed by combining α and β.</p><p>If the first set of towers <em>were green</em>, then players would just form two birds and immediately fuse them with the two Ifrits to make Phoenix at the first set of fusions.</p><p>Thus, the first set of towers cannot be green, and are therefore either purple or blue.</p></td></tr>
 </table>
