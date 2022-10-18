@@ -21,6 +21,7 @@ PF and Game8 went along with the [FFO strat](https://jp.finalfantasyxiv.com/lode
 Nukemaru made a video specifically going over the FFO strat:
 
 {% include youtube.html id="IRsYjJG-ab4" %}
+*(English subtitled)*
 
 The FFO strat resolves Gorgons 2 based on coloured markers. *Some* parties (particularly EN) will do "Spriggan Gorgons 2" instead *(see below)*
 

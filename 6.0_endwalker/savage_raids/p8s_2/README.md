@@ -11,7 +11,8 @@ permalink: /6.0_endwalker/savage_raids/p8s_2/
 
 PF uses Nukemaru's strat, with [Hydi/Bijyon's strat for Limitless Desolation](#limitless-desolation). The combination is often nicknamed "**Nukehai**" (ぬけはい).
 
-{% include youtube.html id="V9ag9pJW-Pk" %}
+{% include youtube.html id="67mpAI3O6Ys" %}
+*(English subtitled)*
 
 ### Approximate milestones
 
