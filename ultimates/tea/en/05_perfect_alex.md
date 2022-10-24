@@ -22,8 +22,12 @@ If you are already familiar with Perfect Alexander, and just need a quick summar
     <td><ul><li>Shared Sentence left, Aggravated Assault right</li></ul></td>
   </tr>
   <tr>
+    <td><b>Ordained Capital Punishment</b></td>
+    <td><ul><li>1st: 2x tank share (all buffs)</li><li>2nd: ST invuln</li><li>3rd: MT invuln</li></ul></td>
+  </tr>
+  <tr>
     <td><b>Exatrines</b></td>
-    <td><ul><li>SW, S, SE, E spots <em>(N.B: not center)</em></li></ul></td>
+    <td><ul><li>SW, S, SE, E spots <em>(N.B:</em> <b>not</b> <em>center)</em></li></ul></td>
   </tr>
 </table>
 
@@ -55,6 +59,15 @@ After Fate Calibration Alpha, Perfect Alex will cast the first Ordained Capital 
 
 ## Fate Calibration Beta
 
+It's not entirely obvious, but Fate Calibration Beta should be lightly mitigated prior to the forced march. Note that you will still need to plan mitigations for the upcoming Exatrines.
+
+<table>
+  <tr>
+    <td><b>Fate Calibration Beta</b></td>
+    <td><p>ST 90s, H2 (strong) shields*</p><p><em>(Deployed Adlo, or Zoe'd Eukrasian Prognosis)</em></p></td>
+  </tr>
+</table>
+
 <table>
   <tr>
     <td><b>1. Initial positions</b><ul><li><b>Light Beacon:</b> Slightly west of North (NNW)</li><li><b>Dark Beacon:</b> East</li><li><b>Red/Green tether:</b> Slightly NW of the Dark Beacon</li><li><b>No debuff:</b> Slightly W of the Dark Beacon</li><li><b>Blue tether:</b> Slightly SW of the Dark Beacon</li></ul></td>
@@ -80,7 +93,9 @@ After Fate Calibration Alpha, Perfect Alex will cast the first Ordained Capital 
 
 ## Exatrines
 
-The only positions to consider are the ones marked red below:
+Almighty Judgment *(also commonly referred to as "Exatrines", after Exaflare from UCoB and Trine from O8S)* are a series of three telegraphed ground AoEs before resolving for real.
+
+The AoE locations are *not* entirely random- they spawn in a random order from the three diagrams shown below. The only positions the party considers are the ones marked in red:
 
 <table>
   <tr>
@@ -91,3 +106,31 @@ The only positions to consider are the ones marked red below:
 </table>
 
 Note that there will *always* be an available 3-to-1 dodge.
+
+Each Extrine is immediately followed by Irresistable Grace, an 8-man party stack that must be heavily mitigated. The recommended mitigation plan is:
+
+<table>
+  <tr>
+    <td><b>Exatrine #1</b></td>
+    <td>MT Reprisal, MT 90s, H1 120s, H2 shields, H2 30s, D1, D4</td>
+  </tr>
+  <tr>
+    <td><b>Exatrine #2</b></td>
+    <td>ST Reprisal, ST 90s, H2 120s, H2 shields, D2, D3</td>
+  </tr>
+</table>
+
+## Frequently Asked Questions
+
+<details markdown=block>
+<summary><b>[Fate Calibration Beta]</b> Why does Fate Calibration Beta need to be mitigated?</summary>
+<table>
+  <tr><td><p>This is to hedge against the worst case scenario, where the party has to spread (Individual Reprobation).</p><p>The Dark players will bait Super Jump and the Light players have the Shared Sentence stack that will deal damage.</p><p>The mitigations are to try and reduce this damage to let everybody survive the incoming spread damage, as there is no guarantee a healer will be nearby.</p></td></tr>
+</table>
+</details>
+<details markdown=block>
+<summary><b>[Exatrines]</b> Why do we use the SW position instead of the center?</summary>
+<table>
+  <tr><td><p>You <em>can</em> use the center, and some groups do. However, the center has two problems:<ul><li>Because the party is naturally south of the boss, someone calling out "center" <em>can</em> be misinterpreted as "center of the arena", or "center (from west-to-east)", which is the south position. Removing the center of the arena from play gets around this possibility.</li><li>If you use the center of the arena, there is a chance the party dodges from the center of the arena to the south position. As people's cameras may be facing north at that point (looking towards the boss), the pillar of light from the first set of Exatrines blocks the screen, making it harder to tell where to stop. By using the SW position, the movement now becomes lateral, so the light pillars are less likely to obstruct players' vision.</li></ul></p></td></tr>
+</table>
+</details>

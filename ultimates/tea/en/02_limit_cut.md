@@ -16,7 +16,9 @@ There are two main strats for Limit Cut- [1211](#1211), and [1256](#1256).
 
 1211 is the strat highlighted by the [Korean simulator](https://drive.google.com/file/d/1sdo02A5GbNPA9B4HN-NOt-vnTPyv2elH/view).
 
-Note that we recommend that both the odd and even players point Cruise Chaser outside, and forward/backward at diagonals **unlike** the simulator (that points Cruise Chaser directly outwards, and directly inwards through the center of the arena).
+**Unlike the Korean simulator**, we recommend that both the odd and even players point Cruise Chaser outside, and forward/backward at diagonals.
+
+*(The simulator points Cruise Chaser directly outwards, and directly inwards through the center of the arena).*
 
 <table>
   <tr>
