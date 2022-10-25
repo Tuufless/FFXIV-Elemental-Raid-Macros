@@ -53,6 +53,10 @@ My preferred method of doing this phase is using [my Tollgate strat](https://na.
 	<td><img src="../images/bjcc/bjcc_08.jpg"></td>
   </tr>
   <tr>
+    <td><p><b>N.B:</b> If a player gets too close to the water tornado, the tornado will tether to the player, knocking them back and dealing very high damage (one-shotting them).</p><p><b>The tank's Ice will grow once after it is dropped</b>. The Ice puddle should be dropped so that it <em>just misses</em> the Water tornado when dropped <em>(see image)</em>.</p><p>The Ice puddle will then expand and freeze the tornado.</p></td>
+	<td><img src="../images/bjcc/bjcc_ice.jpg"></td>
+  </tr>
+  <tr>
     <td><b>9.</b> After resolving Ice (if applicable), tanks wait for the Hidden Mine to drop first, before taking the Hidden Mine on their side. This is a heavy AoE tankbuster.<br>Healers and DPS should not cross the diagonal lines on the floor to avoid getting clipped by the Hidden Mine AoE.</td>
 	<td><img src="../images/bjcc/bjcc_09.jpg"></td>
   </tr>
