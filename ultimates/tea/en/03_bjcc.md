@@ -48,13 +48,30 @@ My preferred method of doing this phase is using [my Tollgate strat](https://na.
     <td><p><b>7.</b> After Water resolves, Healers and DPS move to prepare for Hidden Mines and Enumeration. All DPS should stay within the "inner" circle to avoid baiting the Hidden Mines by accident.</p><p><ul><li><b>D2</b>: Move under the bosses, between the two tanks.</li><li><b>D3</b>: Move behind the <b>MT</b></li><li><b>D4</b>: Move behind the <b>ST</b>.</li></ul></p></td>
 	<td><img src="../images/bjcc/bjcc_07.jpg"></td>
   </tr>
-  <tr>
-    <td><p><b>8.</b> Tanks resolve Ice (if targeted) while Healers bait Fire puddles and Hidden Mines before joining the Enumeration groups.</p><p><ul><li><b>H1</b>, <b>D3</b>: Always west Enumeration.</li><li><b>H2</b>, <b>D4</b>: Always east Enumeration.</li><li><b>D1</b>: West Enumeration unless a swap is needed.</li><li><b>D2</b>: East Enumeration unless a swap is needed.</li></ul></p><p>If either side has both Enumerations (or equivalently, no Enumerations), <b>D1</b> and <b>D2</b> swap sides.</p></td>
-	<td><img src="../images/bjcc/bjcc_08.jpg"></td>
-  </tr>
-  <tr>
-    <td><p><b>N.B:</b> If a player gets too close to the water tornado, the tornado will tether to the player, knocking them back and dealing very high damage (one-shotting them).</p><p><b>The tank's Ice will grow once after it is dropped</b>. The Ice puddle should be dropped so that it <em>just misses</em> the Water tornado when dropped <em>(see image)</em>.</p><p>The Ice puddle will then expand and freeze the tornado.</p></td>
-	<td><img src="../images/bjcc/bjcc_ice.jpg"></td>
+  <tr><td>
+    <p><b>8.</b> This is the most involved step for everybody in this phase.</p>
+    <p><b>Tanks:</b> One tank (at random) will be chosen to resolve Ice.</p>
+    <p>
+      <ul>
+        <li>If a player gets too close to the water tornado, the tornado will tether to the player, knocking them back and dealing very high damage (one-shotting them).</li>
+        <li>The Ice puddle should be dropped so that it <b>just misses the Water tornado</b> <em>(see image)</em>. The Ice puddle will then expand once and freeze the tornado.</li>
+      </ul>
+    </p>
+    <p>
+      <b>Healers:</b> Bait Fire puddles and Hidden Mines before joining the Enumeration groups.
+    </p>
+    <p><b>DPS:</b> Resolve Enumeration with the Healers.</p>
+    <p>
+      <ul>
+        <li><b>H1</b>, <b>D3</b>: Always west Enumeration.</li>
+        <li><b>H2</b>, <b>D4</b>: Always east Enumeration.</li>
+        <li><b>D1</b>: West Enumeration unless a swap is needed.</li>
+        <li><b>D2</b>: East Enumeration unless a swap is needed.</li>
+      </ul>
+    </p>
+    <p>If either side has both Enumerations (or equivalently, no Enumerations), <b>D1</b> and <b>D2</b> swap sides.</p>
+  </td>
+	<td><img src="../images/bjcc/bjcc_08.jpg"><img src="../images/bjcc/bjcc_ice.jpg"></td>
   </tr>
   <tr>
     <td><p><b>9.</b> After resolving Ice (if applicable), tanks wait for the Hidden Mine to drop first, before taking the Hidden Mine on their side. This is a heavy AoE tankbuster.</p><p>Healers and DPS should not cross the diagonal lines on the floor to avoid getting clipped by the Hidden Mine AoE.</p></td>
