@@ -120,6 +120,13 @@ Each Extrine is immediately followed by Irresistable Grace, an 8-man party stack
   </tr>
 </table>
 
+## Debuff Effects
+
+The effects from Fate Calibration Alpha and Beta do not come with debuff icons on the player list. All players will need to identify the debuffs based on their visual effects when they resolve.
+
+![](../images/perfect_alex/debuffs.jpg)
+*(Credit: Unknown)*
+
 ## Frequently Asked Questions
 
 <details markdown=block>
