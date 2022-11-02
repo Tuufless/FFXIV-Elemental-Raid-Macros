@@ -57,12 +57,11 @@ All markers are used for Sleepo's Purgation. Of note, the spread position for th
 
 </details>
 
-## Markers (Sleepo - not placeable in-game)
+## Markers (Sleepo)
 
-These set of markers **must** be placed via the XIVLauncher WaymarkPresetPlugin. 
-*(These are the "illegal" waymarks that was alluded to in Lodestone.)*
+These set of markers can only be placed in-game after you have cleared the fight (the arena with expand after clearing, where you can then place the markers).
 
-If you don't have the plugin (or play on console), you will need to copy the markers from someone who does.
+If you haven't cleared the fight, you will need to copy the markers from someone who does.
 
 All markers are used for Sleepo's Purgation.
 
