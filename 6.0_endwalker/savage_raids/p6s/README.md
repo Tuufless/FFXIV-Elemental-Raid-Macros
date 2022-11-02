@@ -91,7 +91,7 @@ Letters are N/S, while numbers are E/W to also help with that grouping when dodg
 
 ## Aetheric Polynominoids
 
-![](images/polynominoids_2.jpg)
+![](images/polynominoids.jpg)
 
 ## Cachexia 1
 
