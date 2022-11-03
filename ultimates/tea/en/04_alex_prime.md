@@ -38,13 +38,9 @@ We break down the mechanics below.
   </tr>
 </table>
 
-To summarize:
+After Temporal Stasis, the **ST** will take aggro and invuln Alexander Prime's Chastening Heat. **This invuln should be timed** to also absorb the three Divine Spear cleaves that follow.
 
-* ST invulns first Chastening Heat.
-* MT baits Flarethrower south, ST baits Flarethrower mid.
-* Tanks + Shared Sentence left, everyone else right.
-* ST baits Super Jump far-east.
-* MT invulns second Chastening Heat.
+After the Divine Spears, have the MT Provoke and take aggro. Alexander Prime will autoattack twice before casting Inception Formation.
 
 ## Inception Formation
 
@@ -78,6 +74,10 @@ To summarize:
 	<td><img src="../images/alex_prime/inception_07.jpg"></td>
   </tr>
 </table>
+
+Alexander Prime will then reappear in the center and begin another Chastening Heat → 3x Divine Spear combo, all of which will be taken by a timed MT invuln.
+
+Alexander Prime then auto-attacks twice and casts Wormhole Formation.
 
 ## Wormhole Formation
 
@@ -139,8 +139,8 @@ After the Enumeration at the end of Wormhole Formation, Alexander Prime will res
 
 <table>
   <tr>
-    <td><b>Mega Holy</b></td>
-    <td><p>MT Reprisal, H2 30s, D4</p><p><em>If timed correctly, Reprisal and Addle will cover <b>both</b> Mega Holies</em>.</p></td>
+    <td><b>Mega Holy x2</b></td>
+    <td><p>MT Reprisal, H2 30s, D4</p><p><em>(If timed correctly, Reprisal and Addle will cover <b>both</b> Mega Holies)</em>.</p></td>
   </tr>
 </table>
 
@@ -171,7 +171,7 @@ As J Waves hit progressively harder, you will need to plan party mitigations acc
   </tr>
   <tr>
     <td><b>After 8 stacks:</b></td>
-    <td><p>ST Reprisal, H2 30s, D3</em></p></td>
+    <td><p>ST Reprisal, H2 30s, D3</p></td>
   </tr>
   <tr>
     <td><b>After 10 stacks:</b></td>
