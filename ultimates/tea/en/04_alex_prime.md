@@ -34,7 +34,7 @@ We break down the mechanics below.
 <table>
   <tr>
     <td><b>No debuff:</b> Go to the <b>east</b> boss.<ul><li><b>Tanks/Healers</b>: North</li><li><b>DPS:</b> South</li></ul><b>Red/Green tether:</b> Go to the <b>west</b> boss.<ul><li><b>Tanks/Healers:</b> North</li><li><b>DPS:</b> South</li></ul><b>Blue tether:</b><ul><li><b>Tanks/Healers:</b> West</li><li><b>DPS:</b> East</li></ul><p>The blue-tethered player on Cruise Chaser's side takes a few steps towards Cruise Chaser.</p><p><b>Aggravated Assault:</b> Far west/east on the same side as Brute Justice.</p></td>
-	<td><img src="../images/alex_prime/temporal_stasis.jpg"></td>
+	<td><img src="../images/alex_prime/temporal_stasis_01.jpg"><img src="../images/alex_prime/temporal_stasis_02.jpg"></td>
   </tr>
 </table>
 
@@ -137,6 +137,18 @@ Wormhole Formation will use 09STOP's method (highlighted by the [Korean simulato
 
 ## Frequently Asked Questions
 
+<details markdown=block>
+<summary><b>[Temporal Stasis]</b> Why does the blue-tethered player on Cruise Chaser's side have to take a few steps towards Cruise Chaser?</summary>
+<table>
+  <tr><td><p>Cruise Chaser cleaves the three closest players to it.</p><p>If the player with the blue tether on Cruise Chaser's side goes all the way to the arena's edge, the three closest players to Cruise Chaser now become:</p><p><ul><li>The two players just north and south of Cruise Chaser.</li><li><b>One of the players at Brute Justice</b> instead of the player with the blue tether.</li></ul></p><p>This will kill everybody on that side of the arena.</p></td></tr>
+</table>
+</details>
+<details markdown=block>
+<summary><b>[Temporal Stasis]</b> Why does the ST take aggro at the start of the fight instead of the MT?</summary>
+<table>
+  <tr><td><p>This lets the ST invuln the first Chastening Heat, which:</p><p><ul><li>Allows the party to tank invuln both sets of Chastening Heats, as the MT's invuln will be back up for the second (after Inception).</li><li>Allows the ST to invuln the second Ordained Capital Punishment in Perfect Alexander, even if they are a PLD.</li></ul></p></td></tr>
+</table>
+</details>
 <details markdown=block>
 <summary><b>[Inception]</b> Why do we criss-cross the green orb tethers?</summary>
 <table>
