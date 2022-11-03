@@ -135,6 +135,54 @@ Wormhole Formation will use 09STOP's method (highlighted by the [Korean simulato
   </tr>
 </table>
 
+After the Enumeration at the end of Wormhole Formation, Alexander Prime will respawn back in the center of the arena and cast two Mega Holies back-to-back.
+
+<table>
+  <tr>
+    <td><b>Mega Holy</b></td>
+    <td><p>MT Reprisal, H2 30s, D4</p><p><em>If timed correctly, Reprisal and Addle will cover <b>both</b> Mega Holies</em>.</p></td>
+  </tr>
+</table>
+
+After both Mega Holies, Alexander Prime will then cast "Summon Alexander" before disappearing.
+
+## J Waves
+
+All three bosses will reappear, with Brute Justice landing with a J Storm.
+
+- Cruise Chaser and Brute Justice will both tether to Alexander Prime, making Alexander Prime invulnerable.
+
+- Cruise Chaser and Alexander Prime will begin to cast their enrages (Eternal Darkness and Divine Judgment).
+
+- Brute Justice will continually hit the party with J Waves. Each J Wave also gives Brute Justice a damage-up stack (max 16).
+
+To clear this phase, the party will (in order):
+
+1. Defeat Cruise Chaser. *(Eternal Darkness will finish its cast first.)*
+2. Defeat Brute Justice. *(This will allow the party to damage Alexander Prime.)*
+3. Defeat Alexander Prime. *(If you have time, build gauge to prepare for the reopener at Perfect Alexander.)*
+
+As J Waves hit progressively harder, you will need to plan party mitigations accordingly:
+
+<table>
+  <tr>
+    <td><b>After 6 stacks:</b></td>
+    <td><p>MT 90s, ST 90s, H1 120s, H2 120s</p><p><em>(This should be around the time Cruise Chaser dies.)</em></p></td>
+  </tr>
+  <tr>
+    <td><b>After 8 stacks:</b></td>
+    <td><p>ST Reprisal, H2 30s, D3</em></p></td>
+  </tr>
+  <tr>
+    <td><b>After 10 stacks:</b></td>
+    <td>MT Reprisal, any remaining mitigations</td>
+  </tr>
+</table>
+
+When Alexander Prime is defeated, a countdown to Divine Judgment will begin. 
+
+You will need **Tank LB3, shields, and some mitigation (H2 30s)** to survive Divine Judgment and proceed onto Perfect Alexander.
+
 ## Frequently Asked Questions
 
 <details markdown=block>
