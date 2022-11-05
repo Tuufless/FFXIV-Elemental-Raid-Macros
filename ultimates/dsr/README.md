@@ -31,7 +31,7 @@ Looking towards the future:
 - Relic weapons (when they arrive) will have their substats capped at **269**.
 
 ![](images/dsr_cheatsheet.jpg)
-*([Full-sized image](images/dsr_cheatsheet.jpg))*
+*([Full-sized image](images/dsr_cheatsheet.jpg) - Shortcut: https://cutt.ly/EleDC_DSR_summary)*
 
 # Ser Adelphel and Ser Grinnaux
 
