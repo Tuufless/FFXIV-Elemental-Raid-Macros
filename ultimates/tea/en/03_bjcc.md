@@ -76,7 +76,7 @@ My preferred method of doing this phase is using [my Tollgate strat](https://na.
         <li><b>D4</b>: Always east Enumeration.</li>
       </ul>
     </p>
-    <p>All non-tanks should stay inside the sector marked by the green dotted line.</p>
+    <p>All non-tanks should stay inside the sector marked by the green dotted line <em>(note it has expanded since the Hidden Mines have been baited)</em>.</p>
   </td>
 	<td><img src="../images/bjcc/bjcc_08.jpg"><img src="../images/bjcc/bjcc_ice.jpg"></td>
   </tr>
