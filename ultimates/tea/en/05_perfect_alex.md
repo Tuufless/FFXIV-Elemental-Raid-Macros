@@ -18,7 +18,7 @@ If you are already familiar with Perfect Alexander, and just need a quick summar
     <td><ul><li>East → west</li></ul></td>
   </tr>
   <tr>
-    <td><b>Fate Calibration Alpha</b></td>
+    <td><b>Fate Calibration α</b></td>
     <td><ul><li>Shared Sentence left, Aggravated Assault right</li></ul></td>
   </tr>
   <tr>
@@ -30,6 +30,20 @@ If you are already familiar with Perfect Alexander, and just need a quick summar
     <td><ul><li>SW, S, SE, E spots <em>(N.B:</em> <b>not</b> <em>center)</em></li></ul></td>
   </tr>
 </table>
+
+## Outline
+
+The MT will take hate to start this phase. The outline to Perfect Alexander looks like this:
+
+1. [Forced March](#forced-march)
+2. [Fate Calibration α](#fate-calibration-α)
+3. Ordained Capital Punishment #1 *(MT+ST full buffs + swap)*
+4. [Fate Calibration β](#fate-calibration-β)
+5. Ordained Capital Punishment #2 *(ST invuln + swap)*
+6. [Exatrine #1](#exatrines)
+7. Ordained Capital Punishment #3 *(MT invuln + swap)*
+8. [Exatrine #2](#exatrines)
+9. Temporal Prison (enrage)
 
 ## Forced March
 
@@ -46,32 +60,138 @@ This is the "tutorial" phase of Perfect Alex, where Ordained Stillness, Ordained
   </tr>
 </table>
 
-## Fate Calibration Alpha
+## Fate Calibration α
+
+If the party has the Enigma Codex buff from the previous phase, clones will appear next to each player.
+
+* An arrow from your character will point towards your clone.
+* An arrow from your clone will point towards you.
+* A faint tether will connect you to your clone.
+
+The effects from Fate Calibration α and β <b>do not</b> come with debuff icons on the player list, or castbars.
+
+Instead, the **clones** will telegraph the mechanics that will resolve. **Watch your clones** to see what debuffs they receive.
+
+All players will need to identify the debuffs based on their visual effects when they resolve.
+
+The debuffs will appear in the same order as they resolve:
+
+1. Ordained Stillness/Motion #1
+2. Defamation
+3. Ordained Stillness/Motion #2 + Shared Sentence + Aggravated Assaults
 
 <table>
   <tr>
-    <td><b>Fate Calibration Alpha:</b><ul><li><b>Shared Sentence:</b> Left</li><li><b>Nothing:</b> Left</li><li><b>Aggravated Assault:</b> Right</li></ul></td>
+    <td>
+      <p><b>Ordained Stillness</b></p>
+      <p><b>All</b> players in the party must keep still.</p>
+      <p><ul><li>Autoattacks count as movement.</li><li>If a player is <b>in the middle</b> of a channeled ability like Meditate or Improvisation, it <b>does not</b> count as movement.</li></ul></p>
+      <p>Three players will get this.</p></td>
+    <td><img src="../images/perfect_alex/fate_calibration_alpha/ordained_stillness.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>Ordained Motion</b></p>
+    <p><b>All</b> players in the party must be moving.</p>
+    <p>
+      <ul>
+        <li>Casting counts as movement
+          <ul>
+            <li>The gap between when the cast finishes and the GCD is up does <b>not</b> count as movement.</li>
+          </ul>
+        </li>
+        <li>If a player is <b>in the middle</b> of a channeled ability like Meditate or Improvisation, it <b>does not</b> count as movement.</li>
+      </ul>
+    </p>
+    <p>Three players will get this.</p></td>
+    <td><img src="../images/perfect_alex/fate_calibration_alpha/ordained_motion.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>Shared Sentence</b></p>
+    <p><ul><li>Shared damage between the targeted player, and the three players that did not get any debuff.</li></ul></p>
+    <p>Stack on the <b>west</b> side with the three players that did not get any debuff.</p>
+    <p>One player will get this.</p></td>
+    <td><img src="../images/perfect_alex/fate_calibration_alpha/shared_sentence.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>Aggravated Assault</b></p>
+    <p><ul><li>Single-target damage that applies a magic vulnerability debuff.</li></ul></p>
+    <p>Stack together on the <b>east</b> side (away from the Shared Sentence)</p>
+    <p>Three players will get this.</p></td>
+    <td><img src="../images/perfect_alex/fate_calibration_alpha/aggravated_assault.jpg"></td>
+  </tr>
+</table>
+
+When Fate Calibration α finishes its cast, Perfect Alexander will disappear and the mechanics that were telegraphed earlier by the clones will now resolve for real.
+
+<table>
+  <tr>
+    <td><b>Fate Calibration α:</b><ul><li><b>Shared Sentence:</b> Left</li><li><b>Nothing:</b> Left</li><li><b>Aggravated Assault:</b> Right</li></ul></td>
 	<td><img src="../images/perfect_alex/fate_calibration_alpha.jpg"></td>
   </tr>
 </table>
 
-After Fate Calibration Alpha, Perfect Alex will cast the first Ordained Capital Punishment, which will be shared between both tanks (ST Provokes to take hate).
-
-## Fate Calibration Beta
-
-It's not entirely obvious, but Fate Calibration Beta should be lightly mitigated prior to the forced march. Note that you will still need to plan mitigations for the upcoming Exatrines.
+After Fate Calibration α, Perfect Alex will cast the first Ordained Capital Punishment, which will be shared between both tanks (ST Provokes to take hate).
 
 <table>
   <tr>
-    <td><b>Fate Calibration Beta</b></td>
-    <td><p>ST 90s, H2 (strong) shields*</p><p><em>(Deployed Adlo, or Zoe'd Eukrasian Prognosis)</em></p></td>
+    <td><b>Ordained Capital Punishment #1</b></td>
+    <td><p>MT + ST full buffs.</p><p>Tank swap from MT to ST.</p></td>
   </tr>
 </table>
+
+## Fate Calibration β
+
+Just like Fate Calibration α, clones will appear next to each player that will telegraph the upcoming mechanics.
+
+All players will need to identify the debuffs based on their visual effects when they resolve.
+
+The debuffs will appear in the same order as they resolve:
+
+1. Light/Dark + tethers
+2. Shared Sentence + Super Jumps
+3. Collective/Individual Reprobation (stack/spread)
+4. Radiant Sacrament
+
+<table>
+  <tr>
+    <td><p><b>Light</b></p>
+    <p>Four players will be light, that can be further broken down.</p>
+    <p>Light players just need to determine whether they are the Beacon or not.</p>
+    <p><ul>
+      <li>The player whose clone <b>does not move</b> is the Light Beacon.</li>
+      <li>The Light Beacon stands a little bit West from <b>North</b>, away from the party.</li>
+      <li>All other Light players join the party East.</li>
+    </ul></p></td>
+    <td><img src="../images/perfect_alex/fate_calibration_beta/light_players.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>Dark</b></p>
+    <p>Four players will be dark, that can be further broken down.</p>
+    <p>All four Dark players have different responsibilities, so they need to pay attention to their tethers.</p>
+    <p><ul>
+      <li>The player whose clone <b>does not move</b> is the Dark Beacon.</li>
+      <li>The Dark Beacon stands <b>on</b> the East marker.</li>
+      <li>All other Dark players position themselves relative to the Dark Beacon.</li>
+    </ul></p></td>
+    <td><img src="../images/perfect_alex/fate_calibration_beta/dark_players.jpg"></td>
+  </tr>
+</table>
+
+It's not entirely obvious, but Fate Calibration β should be lightly mitigated prior to the forced march. Note that you will still need to plan mitigations for the upcoming Exatrines.
+
+<table>
+  <tr>
+    <td><b>Fate Calibration β</b></td>
+    <td><p>ST 90s, H2 (strong) shields*</p><p><em>(Deployed Adloquium, or Zoe'd Eukrasian Prognosis)</em></p></td>
+  </tr>
+</table>
+
+Once again, Perfect Alexander will disappear when Fate Calibration β finishes its cast. The mechanics that were telegraphed earlier by the clones will now resolve for real.
 
 <table>
   <tr>
     <td><b>1. Initial positions</b><ul><li><b>Light Beacon:</b> Slightly west of North (NNW)</li><li><b>Dark Beacon:</b> East</li><li><b>Red/Green tether:</b> Slightly NW of the Dark Beacon</li><li><b>No debuff:</b> Slightly W of the Dark Beacon</li><li><b>Blue tether:</b> Slightly SW of the Dark Beacon</li></ul></td>
-	<td><img src="../images/perfect_alex/fate_calibration_beta_01.jpg"></td>
+	<td><img src="../images/perfect_alex/fate_calibration_beta_01.jpg"><img src="../images/perfect_alex/fate_calibration_beta/beta_positioning.jpg"></td>
   </tr>
   <tr>
     <td><b>2.</b> Forced March resolves.<ul><li><b>Light players + Dark with red/green:</b> Stack together north</li><li><b>Dark players (except red/green tether):</b> Move to the edge of the arena.</li></ul></td>
@@ -91,11 +211,20 @@ It's not entirely obvious, but Fate Calibration Beta should be lightly mitigated
   </tr>
 </table>
 
+After Fate Calibration β, Perfect Alexander will cast the second Ordained Capitol Punishment (tankbuster).
+
+<table>
+  <tr>
+    <td><b>Ordained Capital Punishment #2</b></td>
+    <td><p>ST invuln (solo).</p><p>Tank swap from ST to MT.</p></td>
+  </tr>
+</table>
+
 ## Exatrines
 
 Almighty Judgment *(also commonly referred to as "Exatrines", after Exaflare from UCoB and Trine from O8S)* are a series of three telegraphed ground AoEs before resolving for real.
 
-The AoE locations are *not* entirely random- they spawn in a random order from the three diagrams shown below. The only positions the party considers are the ones marked in red:
+The AoE locations are *not* entirely random- they spawn in a random order from the three diagrams shown below. The *only* positions the party will consider are the ones marked in red:
 
 <table>
   <tr>
@@ -106,6 +235,10 @@ The AoE locations are *not* entirely random- they spawn in a random order from t
 </table>
 
 Note that there will *always* be an available 3-to-1 dodge.
+
+1. Look at the first set of telegraphs. This is where you will *end*.
+2. Look at the second set of telegraphs that are adjacent to your ending point. You will start at the *remaining* adjacent position.
+3. Look at the third (remaining) set of telegraphs that are adjacent to your ending point. This is where you will *start*.
 
 Each Extrine is immediately followed by Irresistable Grace, an 8-man party stack that must be heavily mitigated. The recommended mitigation plan is:
 
@@ -120,23 +253,37 @@ Each Extrine is immediately followed by Irresistable Grace, an 8-man party stack
   </tr>
 </table>
 
-## Debuff Effects
+There will also be one last tankbuster after the first Exatrine.
 
-The effects from Fate Calibration Alpha and Beta do not come with debuff icons on the player list. All players will need to identify the debuffs based on their visual effects when they resolve.
+<table>
+  <tr>
+    <td><b>Ordained Capital Punishment #3</b></td>
+    <td><p>MT invuln (solo).</p><p>Tank swap from MT to ST.</p></td>
+  </tr>
+</table>
 
-![](../images/perfect_alex/debuffs.jpg)
-*(Credit: Unknown)*
+## Temporal Prison
+
+After the second Irresistable Grace, Perfect Alexander will then proceed to cast Temporal Prison, the hard enrage for this fight.
+
+Seven towers/jails appear and resolve, starting from the NE and going clockwise around Perfect Alexander.
+
+The jails are resolved with the lowest DPS players going first.
+```
+H2 > H1 > ST > MT > D3 > D4 > D2 > D1
+```
+Note that DoTs will continue to tick even after the player has been imprisoned.
 
 ## Frequently Asked Questions
 
 <details markdown=block>
-<summary><b>[Forced March]</b> Why aren't the two stacks before Fate Calibration Alpha split Light/Dark players just like Fate Calibration Beta?</summary>
+<summary><b>[Forced March]</b> Why aren't the two stacks before Fate Calibration α split Light/Dark players just like Fate Calibration β?</summary>
 <table>
-  <tr><td><p>The two stacks follow different targeting rules.</p><p>The stacks in Fate Calibration Beta always target the Light Beacon and the Dark Beacon, which is why players group Light vs. Dark there.</p><p>In contrast, the stacks before Fate Calibration Alpha are <b>random</b>, hence the need for a priority order.</p></td></tr>
+  <tr><td><p>The two stacks follow different targeting rules.</p><p>The stacks in Fate Calibration β always target the Light Beacon and the Dark Beacon, which is why players group Light vs. Dark there.</p><p>In contrast, the stacks before Fate Calibration α are <b>random</b>, hence the need for a priority order.</p></td></tr>
 </table>
 </details>
 <details markdown=block>
-<summary><b>[Fate Calibration Beta]</b> Why does Fate Calibration Beta need to be mitigated?</summary>
+<summary><b>[Fate Calibration β]</b> Why does Fate Calibration β need to be mitigated?</summary>
 <table>
   <tr><td><p>This is to hedge against the worst case scenario, where the party has to spread (Individual Reprobation).</p><p>The Dark players will bait Super Jump and the Light players have the Shared Sentence stack that will deal damage.</p><p>The mitigations are to try and reduce this damage to let everybody survive the incoming spread damage, as there is no guarantee a healer will be nearby.</p></td></tr>
 </table>
