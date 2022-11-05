@@ -41,7 +41,7 @@ This is the "tutorial" phase of Perfect Alex, where Ordained Stillness, Ordained
 	<td><img src="../images/perfect_alex/forced_march_01.jpg"></td>
   </tr>
   <tr>
-    <td><b>Stacks:</b><ul><li><b>West:</b> H1 > D3 > D1 > MT</li><li><b>East:</b> H2 > D4 > D2 > ST</li></ul><em>(Essentially, fix healer positions)</em></td>
+    <td><b>Stacks:</b><ul><li><b>West:</b> H1 > D3 > D1 > MT</li><li><b>East:</b> H2 > D4 > D2 > ST</li></ul><em>(N.B: <b>Not</b> Light vs. Dark stacks.)</em></td>
 	<td><img src="../images/perfect_alex/forced_march_02.jpg"></td>
   </tr>
 </table>
@@ -129,6 +129,12 @@ The effects from Fate Calibration Alpha and Beta do not come with debuff icons o
 
 ## Frequently Asked Questions
 
+<details markdown=block>
+<summary><b>[Forced March]</b> Why aren't the two stacks before Fate Calibration Alpha split Light/Dark players just like Fate Calibration Beta?</summary>
+<table>
+  <tr><td><p>The two stacks follow different targeting rules.</p><p>The stacks in Fate Calibration Beta always target the Light Beacon and the Dark Beacon, which is why players group Light vs. Dark there.</p><p>In contrast, the stacks before Fate Calibration Alpha are <b>random</b>, hence the need for a priority order.</p></td></tr>
+</table>
+</details>
 <details markdown=block>
 <summary><b>[Fate Calibration Beta]</b> Why does Fate Calibration Beta need to be mitigated?</summary>
 <table>
