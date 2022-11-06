@@ -294,3 +294,26 @@ Note that DoTs will continue to tick even after the player has been imprisoned.
   <tr><td><p>You <em>can</em> use the center, and some groups do. However, the center has two problems:<ul><li>Because the party is naturally south of the boss, someone calling out "center" <em>can</em> be misinterpreted as "center of the arena", or "center (from west-to-east)", which is the south position. Removing the center of the arena from play gets around this possibility.</li><li>If you use the center of the arena, there is a chance the party dodges from the center of the arena to the south position. As people's cameras may be facing north at that point (looking towards the boss), the pillar of light from the first set of Exatrines blocks the screen, making it harder to tell where to stop. By using the SW position, the movement now becomes lateral, so the light pillars are less likely to obstruct players' vision.</li></ul></p></td></tr>
 </table>
 </details>
+<details markdown=block>
+<summary><b>[Perfect Alexander]</b> Is Perfect Alexander really impossible without the Enigma Codex? Didn't <a href="https://youtu.be/VG2M2bozu2M">a Chinese group clear without it?</a></summary>
+<table>
+  <tr><td>
+  <p>That group super-shielded Divine Judgment to the point where they didn't need to Tank LB3, which let them cheese Fate Calibration α with a Healer LB3 instead.</p>
+  <p>More importantly, the group abused two exploits to clear Fate Calibration β without the codex:
+    <ol>
+      <li>There was a priority to how tethers are assigned; if, at a certain point in time, there are only 7 players around, the blue tether would simply not be assigned.</li>
+      <li>If a player jumps and is mid-air when the forced march from the Light/Dark beacons start, the forced movement time would continue to tick, but the player would not be able to move while they are mid-air, thus shortening the distance travelled from 20 yalms to 17 yalms.</li>
+    </ol>
+  </p>
+  <p>Without knowing who the Beacons are, they had their PLD suicide at a specific time, placed a group in the center of the arena, and spread other players around the outer edge.
+    <ul>
+      <li>
+        <p>The first exploit where the blue tether doesn't get assigned when only 7 people are alive at a specific time let the group nullify the blue tether.</p>
+      </li>
+      <li><p>Under normal circumstances, the Light players would run into the Light Beacon, and the Dark players would be repelled away from the Dark Beacon and out of the arena.</p><p>However, because the march distance is shortened by jumping, they were able to survive.</p>
+      </li>
+    </ul>
+  </p>
+  <p><a href="https://na.finalfantasyxiv.com/lodestone/topics/detail/c73cd284013587066d8f9e697fab1db9f007372c/">Patch 6.1</a> fixed this by adding a delay from when players lose control of their character, to when the forced march starts. Now, if you try to jump, this delay will cause the forced march to begin only after your character lands, and you will march the full distance out of the arena.</p></td></tr>
+</table>
+</details>
