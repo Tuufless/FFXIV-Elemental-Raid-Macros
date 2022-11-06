@@ -27,18 +27,54 @@ If you are already familiar with Alexander Prime, and just need a quick summary:
   </tr>
 </table>
 
+## Outline
+
+The **ST** (not the MT!) will take hate to start this phase. The outline to Alexander Prime looks like this:
+
+1. [Temporal Stasis](#temporal-stasis)
+2. Chastening Heat #1 *(ST invuln → swap)*
+3. [Inception Formation](#inception-formation)
+4. Chastening Heat #2 (*MT invuln → swap)*
+4. [Wormhole Formation](#wormhole-formation)
+5. 2x Mega Holy
+6. [J Waves](#j-waves)
+
 We break down the mechanics below.
 
 ## Temporal Stasis
 
 <table>
   <tr>
-    <td><b>No debuff:</b> Go to the <b>east</b> boss.<ul><li><b>Tanks/Healers</b>: North</li><li><b>DPS:</b> South</li></ul><b>Red/Green tether:</b> Go to the <b>west</b> boss.<ul><li><b>Tanks/Healers:</b> North</li><li><b>DPS:</b> South</li></ul><b>Blue tether:</b><ul><li><b>Tanks/Healers:</b> West</li><li><b>DPS:</b> East</li></ul><p>The blue-tethered player on Cruise Chaser's side takes a few steps towards Cruise Chaser.</p><p><b>Aggravated Assault:</b> Far west/east on the same side as Brute Justice.</p></td>
-	<td><img src="../images/alex_prime/temporal_stasis_01.jpg"><img src="../images/alex_prime/temporal_stasis_02.jpg"></td>
+    <td><p><b>No debuff:</b> Go to the <b>east</b> boss.
+      <ul><li><b>Tanks/Healers</b>: North</li>
+        <li><b>DPS:</b> South</li>
+      </ul></p>
+      <p><b>Red/Green tether:</b> Go to the <b>west</b> boss about one marker apart.
+        <ul><li><b>Tanks/Healers:</b> North</li>
+        <li><b>DPS:</b> South</li>
+      </ul></p>
+      <p><b>Blue tether:</b>
+        <ul>
+          <li><b>Tanks/Healers:</b> West</li>
+          <li><b>DPS:</b> East</li>
+        </ul>
+        The blue-tether player on Cruise Chaser's side takes a few steps towards Cruise Chaser.
+      </p>
+      <p><b>Aggravated Assault:</b> Far west/east on the same side as Brute Justice.</p></td>
+	<td><img src="../images/alex_prime/temporal_stasis_01.jpg"><img src="../images/alex_prime/temporal_stasis_02.jpg"><img src="../images/alex_prime/temporal_stasis_tethers.jpg"></td>
   </tr>
 </table>
 
 After Temporal Stasis, the **ST** will take aggro and invuln Alexander Prime's Chastening Heat. **This invuln should be timed** to also absorb the three Divine Spear cleaves that follow.
+
+Alternatively, you can mitigate the Chastening Heat, and invuln the Divine Spears.
+
+<table>
+  <tr>
+    <td><b>Chastening Heat + Divine Spears #1</b></td>
+    <td><p>ST invuln.</p><p>Tank swap from ST to MT after the Divine Spears.</p></td>
+  </tr>
+</table>
 
 After the Divine Spears, have the MT Provoke and take aggro. Alexander Prime will autoattack twice before casting Inception Formation.
 
@@ -46,11 +82,11 @@ After the Divine Spears, have the MT Provoke and take aggro. Alexander Prime wil
 
 <table>
   <tr>
-    <td><p><b>1.</b> Alexander spawns either True North <em>or</em> True South.</p><ul><li><b>Green tethers:</b>: Go towards Alexander, opposite your tethered orb. <b>Criss-cross the tethers</b>.</li><li><b>Crystal AoEs:</b>: Make a square formation directly opposite Alexander.</li></ul></td>
-	<td><img src="../images/alex_prime/inception_01.jpg"></td>
+    <td><p><b>1.</b> Alexander spawns either True North <em>or</em> True South.</p><ul><li><b>Green tethers:</b> Go towards Alexander, opposite your tethered orb. <b>Criss-cross the tethers</b>.</li><li><b>Crystal AoEs:</b> Make a square formation directly opposite Alexander.</li></ul></td>
+	<td><img src="../images/alex_prime/inception_01.jpg"><img src="../images/alex_prime/inception_crystals.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>2.</b> Resolve the Crystal AoEs and the green orbs.</p><p>Note that the residual AoEs will be slightly <b>larger</b> than their telegraphed size.</p><p>The party wipes if any AoEs touch each other.</p></td>
+    <td><p><b>2.</b> Resolve the Crystal AoEs and the green orbs.</p><p>Note that the residual AoEs will be slightly <b>larger</b> than their telegraphed size.</p><p>The party wipes if any AoEs touch each other.</p><p>Done correctly, the True Heart that spawns opposite Alexander Prime will <b>hit all four crystals</b> and turn gold, giving the party the Enigma Codex buff.</p><p><em>(The Perfect Alexander phase will be <b>impossible</b> without the Enigma Codex.)</em></p></td>
 	<td><img src="../images/alex_prime/inception_02.jpg"></td>
   </tr>
   <tr>
@@ -76,6 +112,13 @@ After the Divine Spears, have the MT Provoke and take aggro. Alexander Prime wil
 </table>
 
 Alexander Prime will then reappear in the center and begin another Chastening Heat → 3x Divine Spear combo, all of which will be taken by a timed MT invuln.
+
+<table>
+  <tr>
+    <td><b>Chastening Heat + Divine Spears #2</b></td>
+    <td><p>MT invuln.</p><p><em>(No tank swap needed after.)</em></p></td>
+  </tr>
+</table>
 
 Alexander Prime then auto-attacks twice and casts Wormhole Formation.
 
@@ -150,17 +193,13 @@ After both Mega Holies, Alexander Prime will then cast "Summon Alexander" before
 
 All three bosses will reappear, with Brute Justice landing with a J Storm.
 
-- Cruise Chaser and Brute Justice will both tether to Alexander Prime, making Alexander Prime invulnerable.
-
-- Cruise Chaser and Alexander Prime will begin to cast their enrages (Eternal Darkness and Divine Judgment).
-
-- Brute Justice will continually hit the party with J Waves. Each J Wave also gives Brute Justice a damage-up stack (max 16).
-
 To clear this phase, the party will (in order):
 
-1. Defeat Cruise Chaser. *(Eternal Darkness will finish its cast first.)*
+1. Defeat Cruise Chaser. *(Cruise Chaser's enrage finishes first.)*
 2. Defeat Brute Justice. *(This will allow the party to damage Alexander Prime.)*
-3. Defeat Alexander Prime. *(If you have time, build gauge to prepare for the reopener at Perfect Alexander.)*
+3. Defeat Alexander Prime. *(Alexander Prime is invulnerable while BJCC are still around. If you have time, build gauge to prepare for the reopener at Perfect Alexander.)*
+
+While Cruise Chaser and Alexander are charging up their enrages, Brute Justice will continually hit the party with J Waves. Each J Wave also gives Brute Justice a damage-up stack (max 16).
 
 As J Waves hit progressively harder, you will need to plan party mitigations accordingly:
 
@@ -179,9 +218,16 @@ As J Waves hit progressively harder, you will need to plan party mitigations acc
   </tr>
 </table>
 
-When Alexander Prime is defeated, a countdown to Divine Judgment will begin. 
+When Alexander Prime is defeated, a countdown to Divine Judgment will begin. If Alexander did not enrage, this will be survivable with a Tank LB3.
 
-You will need **Tank LB3, shields, and some mitigation (H2 30s)** to survive Divine Judgment and proceed onto Perfect Alexander.
+<table>
+  <tr>
+    <td><b>Divine Judgment</b></td>
+    <td><p>Tank LB3, H2 shields, H2 30s</p><p><em>(Tank LB3 when the countdown reaches ~4 seconds.)</em>.</p></td>
+  </tr>
+</table>
+
+The party then proceeds onto Perfect Alexander.
 
 ## Frequently Asked Questions
 
@@ -201,6 +247,18 @@ You will need **Tank LB3, shields, and some mitigation (H2 30s)** to survive Div
 <summary><b>[Inception]</b> Why do we criss-cross the green orb tethers?</summary>
 <table>
   <tr><td><p>Criss-crossing the tethers accomplishes two things:<ul><li>It curves the green orbs around the center so the players dropping the crystals don't need to dodge them.</li><li>The orb travels a shorter distance to reach the players that are closer to the crystals, giving them more time to get away from the proximity damage.</li></ul></p></td></tr>
+</table>
+</details>
+<details markdown=block>
+<summary><b>[Inception]</b> Why do we place the crystals in a square?</summary>
+<table>
+  <tr><td><p>The crystals need to be placed in a way such that the True Heart that spawns opposite Alexander hits all four crystals. Then will turn the True Heart gold and give the party the Enigma Codex buff.</p><p>The Enigma Codex buff is necessary in order to clear Perfect Alexander.</p><p>When the True Heart hits a crystal, it deals proximity damage to all players. As a result, we want to place them as far away from the party as we can.</p></td></tr>
+</table>
+</details>
+<details markdown=block>
+<summary><b>[Inception]</b> Is Perfect Alexander really impossible without the Enigma Codex? Didn't <a href="https://youtu.be/VG2M2bozu2M">a Chinese group clear without it?</a></summary>
+<table>
+  <tr><td><p>That group super-shielded Divine Judgment to the point where they didn't need to Tank LB3, which let them cheese Fate Calibration α with a Healer LB3 instead.</p><p>More importantly, the group abused a timing issue with the forced march in Fate Calibration β, where if a player jumped and was mid-air when the mechanic starts, the forced movement time would continue to tick, but the player would not be able to move while they are mid-air and not be marched out of the arena as a result.</p><p><a href="https://na.finalfantasyxiv.com/lodestone/topics/detail/c73cd284013587066d8f9e697fab1db9f007372c/">Patch 6.1</a> fixed this by adding a delay from when players lose control of their character, to when the forced march starts. Now, if you try to jump, this delay will cause the forced march to begin only after your character lands, and you will march the full distance out of the arena.</p></td></tr>
 </table>
 </details>
 <details markdown=block>
