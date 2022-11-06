@@ -9,16 +9,11 @@ permalink: /6.0_endwalker/savage_raids/p7s/
 
 # Abyssos: The Seventh Circle (Savage)
 
-PF uses [Shinosho's strat](https://youtu.be/JOMBTuWf-j8) as a base, but modifies the following sections:
+PF uses [Shinosho's strat](https://youtu.be/JOMBTuWf-j8) as a base, but uses  [Sleepo's Inviolate Purgation strat](https://ff14.toolboxgaming.space/?id=339073562612661&preview=1) and [Inumaru's War's Harvest strat](#wars-harvest-inumaru).
 
-- [Sleepo's strat for Inviolate Purgation](https://ff14.toolboxgaming.space/?id=339073562612661&preview=1).
-- Fixed positions strat for Death's Harvest.
-- Inumaru's strat for War's Harvest.
+Nukemaru has made a guide aggregating all the strats together:
 
-Guides:
-
-- [Hamkatsu](https://youtu.be/_mkllPXUVuI) - only Purgation, Famine, Death, and War's Harvest
-- [Nukemaru](https://youtu.be/iaxDpAfkTIA)
+{% include youtube.html id="iaxDpAfkTIA" %}
 
 ### Things to check on Party Finder
 
