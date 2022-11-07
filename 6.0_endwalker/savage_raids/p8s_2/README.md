@@ -285,10 +285,13 @@ This is Nukemaru's strat for High Concept #2. Several concepts from High Concept
     <td><p><b>8.</b> The shades will each fire a beam in the direction of the player they were tethered to.</p>
     <p>
       <ul>
-        <li><b>Ifrits + Animal Concepts:</b> Rotate clockwise to drag your tethered shade along the outer row/column. Note that the four corners of the arena will not be safe, because they will get hit by two beams.</li>
+        <li><b>Ifrits + Animal Concepts:</b> Rotate clockwise to drag your tethered shade along the outer row/column.
+        <ul>
+          <li>The four corners of the arena <b>will not be safe</b>, because they will get hit by two beams.</li>
+        </ul></li>
         <li>Each pair in the center needs to take the corresponding pair of coloured towers in the center four tiles. Note that the coloured towers will be in a <b>random configuration</b>.
           <ul>
-            <li><b>The player that came from the northern side prioritizes the North, then West tower if there is a tie.</b></li>
+            <li>The player that came from the northern side prioritizes the <b>North, then West tower</b> if there is a tie.</li>
           </ul>
         </li>
       </ul>
