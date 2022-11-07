@@ -79,3 +79,23 @@ The four possible outcomes are as follows:
     <td><img src="images/ruby_5_4.jpg"></td>
   </tr>
 </table>
+
+
+## Frequently Asked Questions
+
+<details markdown=block>
+<summary><b>[Ruby Glow 5]</b> Some groups refer to a N/W and S/E strat- how is that different?</summary>
+<table>
+  <tr><td><p>This refers to a different method of assigning quadrants that some EN groups do. The main difference is what the party pays attention to.</p><p>Game8 unfortunately chose the strat that focuses on the <b>poison crystals</b>, which leads to a somewhat counterintuitive case 1/4 of the time.</p><p>This strat assigns the light parties based on the <b>yellow crystals</b> instead, which keeps to the "MT group N/W", "ST group S/E" convention.</p><p>The problem, of course, is that both methods work out to the same outcome in 3/4 of the cases, but not the last 1/4.</p></td></tr>
+  <table>
+  <tr>
+    <td><img src="images/ruby_5_1_yellow.jpg"></td>
+    <td><img src="images/ruby_5_2_yellow.jpg"></td>
+  </tr>
+  <tr>
+    <td><img src="images/ruby_5_3_yellow.jpg"></td>
+    <td><img src="images/ruby_5_4_yellow.jpg"></td>
+  </tr>
+</table>
+</table>
+</details>
