@@ -121,3 +121,12 @@ My preferred method of doing this phase is using [my Tollgate strat](https://na.
 	<td><img src="../images/bjcc/bjcc_18.jpg"></td>
   </tr>
 </table>
+
+## Frequently Asked Questions
+
+<details markdown=block>
+<summary><b>[Crashing Thunder]</b> Why does this deal so much damage?</summary>
+<table>
+  <tr><td><p>Water and Thunder work differently.</p><p>While Crashing Wave works like any other stack damage (damage is lowered as more people are hit by Crashing Wave), Thunder is the opposite; damage <em>increases</em> as more people are hit by Crashing Thunder.</p><p>This is why we want the Thunder stacks to contain exactly two players.</p></td></tr>
+</table>
+</details>
