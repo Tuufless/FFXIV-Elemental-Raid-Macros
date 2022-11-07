@@ -106,6 +106,13 @@ The debuffs will appear in the same order as they resolve:
     <td><img src="../images/perfect_alex/fate_calibration_alpha/ordained_motion.jpg"></td>
   </tr>
   <tr>
+    <td><p><b>Defamation</b></p>
+    <p><ul><li><em>Giant</em> AoE centered on the targeted player.</li></ul></p>
+    <p>Stand in front of the Alexander clone that <b>does not</b> cast Sacrament (the white laser beams). This will always be one of the two center Alexander clones.</p>
+    <p>One player will get this.</p></td>
+    <td><img src="../images/perfect_alex/fate_calibration_alpha/defamation.jpg"></td>
+  </tr>
+  <tr>
     <td><p><b>Shared Sentence</b></p>
     <p><ul><li>Shared damage between the targeted player, and the three players that did not get any debuff.</li></ul></p>
     <p>Stack on the <b>west</b> side with the three players that did not get any debuff.</p>
@@ -122,6 +129,8 @@ The debuffs will appear in the same order as they resolve:
 </table>
 
 When Fate Calibration α finishes its cast, Perfect Alexander will disappear and the mechanics that were telegraphed earlier by the clones will now resolve for real.
+
+The safe spots to resolve the mechanics will always be opposite one of the two *middle* Perfect Alexander clones.
 
 <table>
   <tr>
