@@ -4,7 +4,7 @@ title: Ultima EX
 parent: Extreme Trials
 nav_order: 5
 grand_parent: 2.0 A Realm Reborn
-permalink: /2.0_a_realm_reborn/extreme_trials/titan/
+permalink: /2.0_a_realm_reborn/extreme_trials/ultima/
 ---
 
 # The Minstrel's Ballad: Ultima's Bane

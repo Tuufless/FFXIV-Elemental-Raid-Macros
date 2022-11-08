@@ -9,6 +9,4 @@ permalink: /2.0_a_realm_reborn/extreme_trials/leviathan/
 
 # The Whorleater (Extreme)
 
-A more up-to-date reference would be Nukemaru's guide to The Whorleater (Unreal):
-
 {% include youtube.html id="pSWvoEvELJ8" %}
