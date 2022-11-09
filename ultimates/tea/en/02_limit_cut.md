@@ -12,7 +12,7 @@ While not technically a phase, the transition to Brute Justice + Cruise Chaser i
 
 There are two main strats for Limit Cut- [1211](#1211), and [1256](#1256).
 
-# 1211
+## 1211
 
 1211 is the strat highlighted by the [Korean simulator](https://drive.google.com/file/d/1sdo02A5GbNPA9B4HN-NOt-vnTPyv2elH/view).
 
@@ -27,9 +27,8 @@ There are two main strats for Limit Cut- [1211](#1211), and [1256](#1256).
   </tr>
 </table>
 
-## Movement
-
 The movement for 1211 is as follows:
+
 <table>
   <tr>
     <td><b>1.</b> First pair of explosions. All players move towards the explosion in the northern (west) half.</td>
@@ -73,7 +72,7 @@ The movement for 1211 is as follows:
   </tr>
 </table>
 
-# 1256
+## 1256
 
 1256 is personally my preferred method of resolving Limit Cut as it is more fluid and doesn't require players to face outside, or use anti-knockback abilities. The 1256 vs. 3478 split also mirrors how Limit Cut will be resolved later in [Wormhole Formation](../en/04_alex_prime.md#wormhole-formation).
 
@@ -86,7 +85,7 @@ However, it is the harder of the two to learn, especially for players new to TEA
   </tr>
 </table>
 
-## Movement
+The movement for 1256 is as follows:
 
 <table>
   <tr>
