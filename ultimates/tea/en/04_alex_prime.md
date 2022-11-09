@@ -90,7 +90,7 @@ After the Divine Spears, have the MT Provoke and take aggro. Alexander Prime wil
 	<td><img src="../images/alex_prime/inception_02.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>3.</b> Brute Justice then casts three consecutive Flarethrowers on the three closest people.</p><ul><li><b>MT</b>: Bait a Flarethrower south</li><li><b>ST</b>: Bait a Flarethrower in the middle.</li><li><b>Everyone else</b>: Stay near the intercardinal edge, but not close to Brute Justice.</li></ul></td>
+    <td><p><b>3.</b> Move along the edge of the arena to gather along the north wall towards Brute Justice. This is done so players do not die to the crystal's proximity damage.</p><p>Brute Justice then casts three consecutive Flarethrowers on the three closest people.</p><ul><li><b>MT</b>: Bait the first Flarethrower south</li><li><b>ST</b>: Bait the second Flarethrower in the middle.</li><li><b>Everyone else</b>: Stay near the intercardinal edge, but not close to Brute Justice (one person in this group will end up baiting the third Flarethrower).</li></ul></td>
 	<td><img src="../images/alex_prime/inception_03.jpg"></td>
   </tr>
   <tr>
