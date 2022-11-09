@@ -51,6 +51,32 @@ This is the "tutorial" phase of Perfect Alex, where Ordained Stillness, Ordained
 
 <table>
   <tr>
+    <td><img src="../images/perfect_alex/debuffs/contact_prohibition.png"></td>
+    <td><p><b>Final Word: Contact Prohibition</b></p><p>More commonly referred to as just <b>"Light"</b>.</p></td>
+  </tr>
+  <tr>
+    <td><img src="../images/perfect_alex/debuffs/contact_regulation.png"></td>
+    <td><p><b>Final Word: Contact Regulation</b></p><p>More commonly referred to as the <b>"Light Beacon"</b>.</p></td>
+  </tr>
+</table>
+
+When the mechanic resolves, all Light players will be forced to move **towards** the Light Beacon. If a Light player touches the Light Beacon, they are killed.
+
+<table>
+  <tr>
+    <td><img src="../images/perfect_alex/debuffs/escape_prohibition.png"></td>
+    <td><p><b>Final Word: Escape Prohibition</b></p><p>More commonly referred to as just <b>"Dark"</b>.</p></td>
+  </tr>
+  <tr>
+    <td><img src="../images/perfect_alex/debuffs/escape_detection.png"></td>
+    <td><p><b>Final Word: Escape Detection</b></p><p>More commonly referred to as the <b>"Dark Beacon"</b>.</p></td>
+  </tr>
+</table>
+
+When the mechanic resolves, all Dark players will be forced to move **away** the Dark Beacon. If a Dark player moves too far away from the Dark Beacon, they are killed.
+
+<table>
+  <tr>
     <td><b>Forced March:</b><ul><li><b>Light Beacon:</b> West</li><li><b>Dark Beacon:</b> East</li><li><b>Everyone else:</b> Just west of the Dark Beacon</li></ul></td>
 	<td><img src="../images/perfect_alex/forced_march_01.jpg"></td>
   </tr>
@@ -59,6 +85,8 @@ This is the "tutorial" phase of Perfect Alex, where Ordained Stillness, Ordained
 	<td><img src="../images/perfect_alex/forced_march_02.jpg"></td>
   </tr>
 </table>
+
+Dark players need to pay attention to who the Dark Beacon is as they need to stay close to that player (so they don't stray too far), and on the correct side (so they don't get marched into the wall).
 
 ## Fate Calibration α
 
@@ -249,7 +277,7 @@ Note that there will *always* be an available 3-to-1 dodge.
 2. Look at the second set of telegraphs that are adjacent to your ending point. You will start at the *remaining* adjacent position.
 3. Look at the third (remaining) set of telegraphs that are adjacent to your ending point. This is where you will *start*.
 
-Each Extrine is immediately followed by Irresistable Grace, an 8-man party stack that must be heavily mitigated. The recommended mitigation plan is:
+Each Exatrine is immediately followed by Irresistable Grace, an 8-man party stack that must be heavily mitigated. The recommended mitigation plan is:
 
 <table>
   <tr>
@@ -258,7 +286,7 @@ Each Extrine is immediately followed by Irresistable Grace, an 8-man party stack
   </tr>
   <tr>
     <td><b>Exatrine #2</b></td>
-    <td>ST Reprisal, ST 90s, H2 120s, H2 shields, D2, D3</td>
+    <td>ST Reprisal, ST 90s, H2 120s, H2 shields, H2 30s, D2, D3</td>
   </tr>
 </table>
 
@@ -289,6 +317,12 @@ Note that DoTs will continue to tick even after the player has been imprisoned.
 <summary><b>[Forced March]</b> Why aren't the two stacks before Fate Calibration α split Light/Dark players just like Fate Calibration β?</summary>
 <table>
   <tr><td><p>The two stacks follow different targeting rules.</p><p>The stacks in Fate Calibration β always target the Light Beacon and the Dark Beacon, which is why players group Light vs. Dark there.</p><p>In contrast, the stacks before Fate Calibration α are <b>random</b>, hence the need for a priority order.</p></td></tr>
+</table>
+</details>
+<details markdown=block>
+<summary><b>[Collective Reprobation (stacks)]</b> Why did the party wipe? What is "Faithlessness"?</summary>
+<table>
+  <tr><td><p>The stacks have an anti-cheese mechanic built into them, and cannot be taken solo.</p><p>When a stack is solo'ed (even with invuln), raid-wide damage called "Faithlessness" is triggered, which wipes the raid.</p></td></tr>
 </table>
 </details>
 <details markdown=block>
