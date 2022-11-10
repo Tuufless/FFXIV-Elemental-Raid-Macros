@@ -66,7 +66,7 @@ This is the "tutorial" phase of Perfect Alex, where Ordained Stillness, Ordained
   </tr>
 </table>
 
-When the mechanic resolves, all Light players will be forced to move **towards** the Light Beacon. If a Light player touches the Light Beacon, they are killed.
+When the mechanic resolves, all Light players will be forced to move **towards** the Light Beacon. Light players are killed if they touch the Light Beacon.
 
 <table>
   <tr>
@@ -79,7 +79,7 @@ When the mechanic resolves, all Light players will be forced to move **towards**
   </tr>
 </table>
 
-When the mechanic resolves, all Dark players will be forced to move **away** the Dark Beacon. If a Dark player moves too far away from the Dark Beacon, they are killed.
+When the mechanic resolves, all Dark players will be forced to move **away** from the Dark Beacon. Dark players are killed if they move too far away from the Dark Beacon.
 
 <table>
   <tr>
