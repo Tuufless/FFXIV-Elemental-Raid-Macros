@@ -130,3 +130,9 @@ My preferred method of doing this phase is using [my Tollgate strat](https://na.
   <tr><td><p>Water and Thunder work differently.</p><p>While Crashing Wave works like any other stack damage (damage is lowered as more people are hit by Crashing Wave), Thunder is the opposite; damage <em>increases</em> as more people are hit by Crashing Thunder.</p><p>This is why we want the Thunder stacks to contain exactly two players.</p></td></tr>
 </table>
 </details>
+<details markdown=block>
+<summary><b>[Hidden Mines]</b> Why was a mine baited on the DPS instead of the healers?</summary>
+<table>
+  <tr><td><p>The Hidden Mines are baited by the two furthest players from Brute Justice, which should be the healers.</p><p>If a DPS ended up baiting the Hidden Mine, it is likely because:<ul><li>A DPS was outside the green sector marked in Step 7 above <em>or</em></li><li>The ST did not position Brute Justice in the center of the arena.</li></ul></p></td></tr>
+</table>
+</details>
