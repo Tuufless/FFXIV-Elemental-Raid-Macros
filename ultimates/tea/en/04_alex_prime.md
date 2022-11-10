@@ -90,24 +90,28 @@ After the Divine Spears, have the MT Provoke and take aggro. Alexander Prime wil
 	<td><img src="../images/alex_prime/inception_02.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>3.</b> Move along the edge of the arena to gather along the north wall towards Brute Justice. This is done so players do not die to the crystal's proximity damage.</p><p>Brute Justice then casts three consecutive Flarethrowers on the three closest people.</p><ul><li><b>MT</b>: Bait the first Flarethrower south</li><li><b>ST</b>: Bait the second Flarethrower in the middle.</li><li><b>Everyone else</b>: Stay near the intercardinal edge, but not close to Brute Justice (one person in this group will end up baiting the third Flarethrower).</li></ul></td>
+    <td><p><b>3.</b> Move along the edge of the arena to gather along the north wall towards Brute Justice. This is done so players do not die to the crystal's proximity damage.</p><p>When the crystals explode, the MT and ST take up their positions next to Brute Justice to prepare to bait the Flarethrowers.</p><p><em>(Note that the green puddles left behind will slow down movement.)</em></p></td>
 	<td><img src="../images/alex_prime/inception_03.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>4.</b> The True Heart will now move to a random spot at the edge of the Arena, where Alexander will spawn and cast Sacrament.</p><p>Players will also get various debuffs to resolve.</p><ul><li><b>Tanks:</b> Go left</li><li><b>Healers:</b> Go right</li><li><b>DPS:</b><ul><li><b>Shared Sentence:</b> Go left</li><li><b>Others:</b> Go right</li></ul></li></ul></td>
+    <td><p><b>4.</b> Brute Justice then Flarethrowers the three closest people starting from the nearest.</p><ul><li><b>MT</b>: Bait the first Flarethrower south</li><li><b>ST</b>: Bait the second Flarethrower in the middle.</li><li><b>Everyone else</b>: Stay near the intercardinal edge, but not close to Brute Justice (one person in this group will end up baiting the third Flarethrower).</li></ul></td>
 	<td><img src="../images/alex_prime/inception_04.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>5.</b> Brute Justice will respawn West, and Cruise Chaser will respawn in the middle of the arena.</p><ul><li><b>ST:</b> Far East.</li><li><b>H1:</b> North, near Cruise Chaser.</li><li><b>H2:</b> South, near Cruise Chaser.</li><li><b>DPS that had the blue tether</b>: West, near Cruise Chaser.</li><li><b>Everyone else:</b> East, between Cruise Chaser and the ST <em>(not too close to Cruise Chaser!)</em></li></ul></td>
+    <td><p><b>5.</b> The True Heart will now move to a random spot at the edge of the Arena, where Alexander will spawn and cast Sacrament.</p><p>Players will also get various debuffs to resolve.</p><ul><li><b>Tanks:</b> Go left</li><li><b>Healers:</b> Go right</li><li><b>DPS:</b><ul><li><b>Shared Sentence:</b> Go left</li><li><b>Others:</b> Go right</li></ul></li></ul></td>
 	<td><img src="../images/alex_prime/inception_05.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>6.</b> Cruise Chaser will then Alpha Sword the three closest players, which should be the two healers, and the DPS that had the blue tether.</p><p>When Cruise Chaser cleaves either the north or south player, the rest of the party can run behind that player to avoid the incoming Super Jump.</p></td>
+    <td><p><b>6.</b> Brute Justice will respawn West, and Cruise Chaser will respawn in the middle of the arena.</p><ul><li><b>ST:</b> Far East.</li><li><b>H1:</b> North, near Cruise Chaser.</li><li><b>H2:</b> South, near Cruise Chaser.</li><li><b>DPS that had the blue tether</b>: West, near Cruise Chaser.</li><li><b>Everyone else:</b> East, between Cruise Chaser and the ST <em>(not too close to Cruise Chaser!)</em></li></ul></td>
 	<td><img src="../images/alex_prime/inception_06.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>7.</b> Brute Justice Super Jumps on the furthest player, which should be the ST.</p><p>The impact AoE is quite large, so it's safe for all other players to run away from the ST by the third Alpha Sword.</p></td>
+    <td><p><b>7.</b> Cruise Chaser will then Alpha Sword the three closest players, which should be the two healers, and the DPS that had the blue tether.</p><p>When Cruise Chaser cleaves either the north or south player, the rest of the party can run behind that player to avoid the incoming Super Jump.</p></td>
 	<td><img src="../images/alex_prime/inception_07.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>8.</b> Brute Justice Super Jumps on the furthest player, which should be the ST.</p><p>The impact AoE is quite large, so it's safe for all other players to run away from the ST by the third Alpha Sword.</p></td>
+	<td><img src="../images/alex_prime/inception_08.jpg"></td>
   </tr>
 </table>
 
