@@ -8,36 +8,40 @@ permalink: /ultimates/tea/04_alex_prime/
 
 # Alexander Prime
 
-## Summary
-
-If you are already familiar with Alexander Prime, and just need a quick summary:
-
-<table>
-  <tr>
-    <td><b>Temporal Stasis</b></td>
-    <td><ul><li>Red/green tethers west</li><li>No debuffs east</li></ul></td>
-  </tr>
-  <tr>
-    <td><b>Chastening Heat</b></td>
-    <td><ul><li>1st: ST invuln</li><li>2nd: MT invuln</li></ul></td>
-  </tr>
-  <tr>
-    <td><b>Inception Formation</b></td>
-    <td><ul><li>Flarethrowers:<ul><li>MT south</li><li>ST middle</li></ul></li><li>Tanks + Shared Sentence left</li><li>ST baits Super Jump</li></ul></td>
-  </tr>
-</table>
-
 ## Outline
 
 The **ST** (not the MT!) will take hate to start this phase. The outline to Alexander Prime looks like this:
 
-1. [Temporal Stasis](#temporal-stasis)
-2. Chastening Heat #1 *(ST invuln → swap)*
-3. [Inception Formation](#inception-formation)
-4. Chastening Heat #2 (*MT invuln → swap)*
-4. [Wormhole Formation](#wormhole-formation)
-5. 2x Mega Holy
-6. [J Waves](#j-waves)
+<table>
+  <tr>
+    <td><a href="#temporal-stasis"><b>Temporal Stasis</b></a></td>
+    <td><ul><li>Red/green tethers west</li><li>No debuffs east</li></ul></td>
+  </tr>
+  <tr>
+    <td><b>Chastening Heat #1 + Divine Spears</b></td>
+    <td><ul><li>ST invuln → tank swap</li></ul></td>
+  </tr>
+  <tr>
+    <td><a href="#inception-formation"><b>Inception Formation</b></a></td>
+    <td><ul><li>Flarethrowers:<ul><li>MT south</li><li>ST middle</li></ul></li><li>Tanks + Shared Sentence left</li><li>ST baits Super Jump</li></ul></td>
+  </tr>
+  <tr>
+    <td><b>Chastening Heat #2 + Divine Spears</b></td>
+    <td><ul><li>MT invuln</li></ul></td>
+  </tr>
+  <tr>
+    <td><a href="#wormhole-formation"><b>Wormhole Formation</b></a></td>
+    <td><ul><li>09STOP <em>(Korean sim strat)</em></li></ul></td>
+  </tr>
+  <tr>
+    <td><b>2x Mega Holy</b></td>
+    <td><ul><li>MT Reprisal, D4</li></ul></td>
+  </tr>
+  <tr>
+    <td><a href="#j-waves"><b>J Waves</b></a></td>
+    <td><ul><li><b>After 6 stacks:</b> MT90s, ST 90s, H1 120s, H2 120s</li><li><b>After 8 stacks:</b> ST Reprisal, H2 30s, D3</li></ul></td>
+  </tr>
+</table>
 
 We break down the mechanics below.
 
@@ -168,7 +172,7 @@ Wormhole Formation will use 09STOP's method (highlighted by the [Korean simulato
 	<td><img src="../images/alex_prime/wormhole_09.jpg"></td>
   </tr>
   <tr>
-    <td><b>10.</b> Cruise Chaser dashes <b>8</b></td>
+    <td><p><b>10.</b> Cruise Chaser dashes <b>8</b></p><p><em>(</em><b>7</b><em> needs to run</em> around <em>Cruise Chaser's dash to the center.)</em></p></td>
 	<td><img src="../images/alex_prime/wormhole_10.jpg"></td>
   </tr>
   <tr>
@@ -218,7 +222,7 @@ As J Waves hit progressively harder, you will need to plan party mitigations acc
   </tr>
   <tr>
     <td><b>After 10 stacks:</b></td>
-    <td>MT Reprisal, any remaining mitigations</td>
+    <td>Any remaining mitigations</td>
   </tr>
 </table>
 
