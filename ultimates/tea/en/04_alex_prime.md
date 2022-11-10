@@ -19,7 +19,7 @@ The **ST** (not the MT!) will take hate to start this phase. The outline to Alex
   </tr>
   <tr>
     <td><b>Chastening Heat #1 + Divine Spears</b></td>
-    <td><ul><li>ST invuln → tank swap</li></ul></td>
+    <td><ul><li>ST invuln <em>(tank swap after the Divine Spears)</em></li></ul></td>
   </tr>
   <tr>
     <td><a href="#inception-formation"><b>Inception Formation</b></a></td>
