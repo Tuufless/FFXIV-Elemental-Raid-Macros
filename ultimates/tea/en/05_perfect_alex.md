@@ -87,7 +87,7 @@ When the mechanic resolves, all Dark players will be forced to move **away** the
 	<td><img src="../images/perfect_alex/forced_march_01.jpg"></td>
   </tr>
   <tr>
-    <td><b>Stacks:</b><ul><li><b>West:</b> H1 > D3 > D1 > MT</li><li><b>East:</b> H2 > D4 > D2 > ST</li></ul><em>(N.B: <b>Not</b> Light vs. Dark stacks.)</em></td>
+    <td><p><b>Stacks:</b><ul><li><b>West:</b> H1 > D3 > D1 > MT</li><li><b>East:</b> H2 > D4 > D2 > ST</li></ul><em>(N.B: <b>Not</b> Light vs. Dark stacks.)</em></p><p>If a group has two stack markers, only <em>one</em> moves to the other group, and resolve the groups 5-3.</p></td>
 	<td><img src="../images/perfect_alex/forced_march_02.jpg"></td>
   </tr>
 </table>
@@ -119,7 +119,7 @@ The debuffs will appear in the same order as they resolve:
     <td>
       <p><b>Ordained Stillness</b></p>
       <p><b>All</b> players in the party must keep still.</p>
-      <p><ul><li>Autoattacks count as movement.</li><li>If a player is <b>in the middle</b> of a channeled ability like Meditate or Improvisation, it <b>does not</b> count as movement.</li></ul></p>
+      <p><ul><li>Autoattacks count as movement. Tanks and melee should sheathe their weapons to be safe.</li><li>If a player is <b>in the middle</b> of a channeled ability like Meditate or Improvisation, it <b>does not</b> count as movement.</li></ul></p>
       <p>Three players will get this.</p></td>
     <td><img src="../images/perfect_alex/fate_calibration_alpha/ordained_stillness.jpg"></td>
   </tr>
@@ -136,7 +136,7 @@ The debuffs will appear in the same order as they resolve:
         <li>If a player is <b>in the middle</b> of a channeled ability like Meditate or Improvisation, it <b>does not</b> count as movement.</li>
       </ul>
     </p>
-    <p>Three players will get this.</p></td>
+    <p>Three players will get this.</p><p>You can either wiggle your character around, <em>or</em> continually jump up and down to trigger movement.<ul><li><b>Do not</b> wiggle around <em>and</em> jump, <em>especially</em> when near the edge of the arena in Fate Calibration α.</li></ul></p></td>
     <td><img src="../images/perfect_alex/fate_calibration_alpha/ordained_motion.jpg"></td>
   </tr>
   <tr>
