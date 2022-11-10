@@ -8,42 +8,48 @@ permalink: /ultimates/tea/05_perfect_alex/
 
 # Perfect Alexander
 
-## Summary
-
-If you are already familiar with Perfect Alexander, and just need a quick summary:
-
-<table>
-  <tr>
-    <td><b>Forced March</b></td>
-    <td><ul><li>East → west</li></ul></td>
-  </tr>
-  <tr>
-    <td><b>Fate Calibration α</b></td>
-    <td><ul><li>Shared Sentence left, Aggravated Assault right</li></ul></td>
-  </tr>
-  <tr>
-    <td><b>Ordained Capital Punishment</b></td>
-    <td><ul><li>1st: 2x tank share (all buffs)</li><li>2nd: ST invuln</li><li>3rd: MT invuln</li></ul></td>
-  </tr>
-  <tr>
-    <td><b>Exatrines</b></td>
-    <td><ul><li>SW, S, SE, E spots <em>(N.B:</em> <b>not</b> <em>center)</em></li></ul></td>
-  </tr>
-</table>
-
 ## Outline
 
 The MT will take hate to start this phase. The outline to Perfect Alexander looks like this:
 
-1. [Forced March](#forced-march)
-2. [Fate Calibration α](#fate-calibration-α)
-3. Ordained Capital Punishment #1 *(MT+ST full buffs + swap)*
-4. [Fate Calibration β](#fate-calibration-β)
-5. Ordained Capital Punishment #2 *(ST invuln + swap)*
-6. [Exatrine #1](#exatrines)
-7. Ordained Capital Punishment #3 *(MT invuln + swap)*
-8. [Exatrine #2](#exatrines)
-9. Temporal Prison (enrage)
+<table>
+  <tr>
+    <td><a href="#forced-march"><b>Forced March</b></a></td>
+    <td><ul><li>East → west</li></ul></td>
+  </tr>
+  <tr>
+    <td><a href="#fate-calibration-α"><b>Fate Calibration α</b></a></td>
+    <td><ul><li>Shared Sentence left, Aggravated Assault right</li></ul></td>
+  </tr>
+  <tr>
+    <td><b>Ordained Capital Punishment #1</b></td>
+    <td><ul><li>2x tank share (all buffs) → tank swap</li></ul></td>
+  </tr>
+  <tr>
+    <td><a href="#fate-calibration-β"><b>Fate Calibration β</b></a></td>
+    <td><ul><li>Light Beacon NW</li><li>Party East</li></ul></td>
+  </tr>
+  <tr>
+    <td><b>Ordained Capital Punishment #2</b></td>
+    <td><ul><li>ST invuln → tank swap</li></ul></td>
+  </tr>
+  <tr>
+    <td><a href="#exatrines"><b>Exatrine #1</b></a></td>
+    <td><ul><li>SW, S, SE, E spots <em>(N.B:</em> <b>not</b> <em>center)</em></li><li>MT Reprisal, MT 90s, H1 120s, H2 shields, H2 30s, D1, D4</li></ul></td>
+  </tr>
+  <tr>
+    <td><b>Ordained Capital Punishment #3</b></td>
+    <td><ul><li>MT invuln → tank swap</li></ul></td>
+  </tr>
+  <tr>
+    <td><a href="#exatrines"><b>Exatrine #2</b></a></td>
+    <td><ul><li>ST Reprisal, ST 90s, H2 120s, H2 shields, H2 30s, D2, D3</li></ul></td>
+  </tr>
+  <tr>
+    <td><a href="#temporal-prison"><b>Temporal Prison</b></a></td>
+    <td><ul><li>H2 > H1 > ST > MT > D3 > D4 > D2 > D1</li></ul></td>
+  </tr>
+</table>
 
 ## Forced March
 
