@@ -13,6 +13,11 @@ PF largely follows [Clees' UWU guide](http://clees.me/guides/uwu/) with a few di
 - Ultima is pulled a little **north** after Ultimate Predation instead of south. Eruption baiters will start **south** instead of north.
 - Green orbs during Ultimate Annihilation are taken **2211** instead of 3311.
 
+- [**Garuda**](en/01_garuda): Midruda
+- [**Ifrit**](en/02_ifrit): Reverse-Z
+- [**Titan**](en/03_titan): Mario Kart
+- [**Ultima Weapon**](en/04_ultima_weapon): Fan Suppression, 2211 orbs
+
 ### BiS Notes
 
 - Any gear at or above **i500** will have their substats capped.
