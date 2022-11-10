@@ -320,6 +320,12 @@ Note that DoTs will continue to tick even after the player has been imprisoned.
 ## Frequently Asked Questions
 
 <details markdown=block>
+<summary><b>[Forced March]</b> Why is the forced march east-to-west, instead of south-to-north? Don't melee get positionals?</summary>
+<table>
+  <tr><td><p>This is done to keep the Dark Beacon's position consistent with Fate Calibration β.</p><p>If you <em>really</em> want positionals, you can always have the MT tank Perfect Alexander facing West, although that's rather janky.</p></td></tr>
+</table>
+</details>
+<details markdown=block>
 <summary><b>[Forced March]</b> Why aren't the two stacks before Fate Calibration α split Light/Dark players just like Fate Calibration β?</summary>
 <table>
   <tr><td><p>The two stacks follow different targeting rules.</p><p>The stacks in Fate Calibration β always target the Light Beacon and the Dark Beacon, which is why players group Light vs. Dark there.</p><p>In contrast, the stacks before Fate Calibration α are <b>random</b>, hence the need for a priority order.</p></td></tr>
