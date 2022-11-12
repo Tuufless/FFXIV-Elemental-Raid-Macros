@@ -140,7 +140,7 @@ Wormhole Formation will use 09STOP's method (highlighted by the [Korean simulato
 	<td><img src="../images/alex_prime/wormhole_01.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>2.</b> Move to positions.</p><ul><li>The person diagonally opposite Brute Justice (3 or 4) should bait Super Jump in front of the red dot.</li><li>The person diagonally opposite Cruise Chaser (3 or 4) should go all the way to the edge to dodge Apocalyptic Ray.</li><li><b>1</b> and <b>2</b> use anti-knockback abilities.</li></ul></td>
+    <td><p><b>2.</b> Move to positions.</p><ul><li>The person diagonally opposite Brute Justice (3 or 4) should bait Super Jump <b>in front of the red dot.</b></li><li>The person diagonally opposite Cruise Chaser (3 or 4) should go <b>all the way to the edge</b> to dodge Apocalyptic Ray.</li><li><b>1</b> and <b>2</b> use anti-knockback abilities.</li></ul><p><em>(Notice</em> <b>3</b> <em>is</em> slightly <em>further in because they will be baiting Super Jump in this example.</em> <b>4</b> <em> is all the way at the edge.)</em></p></td>
 	<td><img src="../images/alex_prime/wormhole_02.jpg"></td>
   </tr>
   <tr>
@@ -183,6 +183,31 @@ Wormhole Formation will use 09STOP's method (highlighted by the [Korean simulato
     <td><p><b>12.</b> Resolve Enumeration the same way as Brute Justice + Cruise Chaser.</p>
     <ul><li><b>H1</b>, <b>D3</b>: Always west Enumeration.</li><li><b>H2</b>, <b>D4</b>: Always east Enumeration.</li><li><b>D1</b>: West Enumeration unless a swap is needed.</li><li><b>D2</b>: East Enumeration unless a swap is needed.</li></ul>If either side has both Enumerations (or equivalently, no Enumerations), <b>D1</b> and <b>D2</b> swap sides.</td>
 	<td><img src="../images/alex_prime/wormhole_12.jpg"></td>
+  </tr>
+</table>
+
+### Pair-wise movement
+
+Broken down into the major steps, here's what each pair does. Note that what each pair does is **independent from the rest of the party**, so you can focus on executing your part.
+
+All the action happens north and south. If it's not your turn to do anything, or if you're done, return to the East/West positions.
+
+<table>
+  <tr>
+    <td><b>1 and 2</b></td>
+    <td><ol><li><b>Arm's Length/Surecast when the Chakrams fly.</b></li><li>Resolve Cruise Chaser's cleave (1) and dash (2) north.</li><li>Bait Apocalyptic Ray from Brute Justice.</li><li>Soak <b>third</b> set of puddles.</li></ol></b></td>
+  </tr>
+  <tr>
+    <td><b>3 and 4</b></td>
+    <td><ol><li>Bait Super Jump south.</li><li><b>Arm's Length/Surecast when Brute Justice jumps.</b></li><li>Resolve Cruise Chaser's cleave (3) and dash (4) south.</li><li>Dodge Sacrament lasers from Alexander.</li></ol></b></td>
+  </tr>
+  <tr>
+    <td><b>5 and 6</b></td>
+    <td><ol><li>Soak <b>first</b> set of puddles.</li><li><b>Arm's Length/Surecast when the puddles resolve.</b></li><li>Resolve Cruise Chaser's cleave (5) and dash (6) north.</li></ol></b></td>
+  </tr>
+  <tr>
+    <td><b>7 and 8</b></td>
+    <td><ol><li>Soak <b>second</b> set of puddles.</li><li><b>Arm's Length/Surecast when the puddles resolve.</b></li><li>Resolve Cruise Chaser's cleave (7) and dash (8) south.</li></ol></b></td>
   </tr>
 </table>
 
