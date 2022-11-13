@@ -16,17 +16,6 @@ permalink: /ultimates/uwu/01_garuda/
   <tr><td><b>Beyond Limits</b></td><td>Healer</td></tr>
 </table>
 
-## Waking the Primals
-
-The defining characteristic of the first three phases (Garuda, Ifrit, Titan) is that each of the bosses must be "woken" by the party.
-
-By executing a mechanic in a particular (generally harder) manner, the boss will get one stack of "Aetherically Charged".
-
-When a boss gets four stacks of "Aetherically Charged", they become "Woken", which does the following:
-
-* When defeated, a woken boss will leave behind a light puddle that will give a player the "Beyond Limits" buff. This buff is **required** to clear the transition to Ultima Weapon.
-* Certain attacks are changed or modified when the boss is woken.
-
 ## Waking Garuda
 
 "Thermal Low" is a debuff that is applied on a player as a result of certain mechanics:

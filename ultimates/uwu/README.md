@@ -13,13 +13,13 @@ PF largely follows [Clees' UWU guide](http://clees.me/guides/uwu/) with a few di
 - Ultima is pulled a little **north** after Ultimate Predation instead of south. Eruption baiters will start **south** instead of north.
 - Green orbs during Ultimate Annihilation are taken **2211** instead of 3311.
 
-- [**Garuda**](en/01_garuda.md): Midruda
-- [**Ifrit**](en/02_ifrit.md): Reverse-Z
-- [**Titan**](en/03_titan.md): Mario Kart
-- [**Ultimate Predation**](en/04_predation.md)
-- [**Ultimate Annihilation**](en/05_annihilation.md): 2211 orbs
-- [**Ultimate Suppression**](en/06_suppression.md): Fan Suppression
-- [**Primal Roulette**](en/07_primal_roulette.md)
+- **Garuda**: Midruda
+- **Ifrit**: Reverse-Z
+- **Titan**: Mario Kart
+- **Ultimate Predation**
+- **Ultimate Annihilation**: 2211 orbs
+- **Ultimate Suppression**: Fan Suppression
+- **Primal Roulette**
 
 ### BiS Notes
 
@@ -72,3 +72,14 @@ PF largely follows [Clees' UWU guide](http://clees.me/guides/uwu/) with a few di
 ```
 
 </details>
+
+## Waking the Primals
+
+The defining characteristic of the first three phases (Garuda, Ifrit, Titan) is that each of the bosses must be "woken" by the party.
+
+By executing a mechanic in a particular (generally harder) manner, the boss will get one stack of "Aetherically Charged".
+
+When a boss gets four stacks of "Aetherically Charged", they become "Woken", which does the following:
+
+* When defeated, a woken boss will leave behind a light puddle that will give a player the "Beyond Limits" buff. This buff is **required** to clear the transition to Ultima Weapon.
+* Certain attacks are changed or modified when the boss is woken.
