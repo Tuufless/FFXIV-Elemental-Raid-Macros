@@ -182,7 +182,7 @@ This is the last part of Garuda's phase, and is where the party will give Garuda
   </tr>
 </table>
 
-When Garuda is defeated, a light puddle will appear under her. When a player steps into this puddle, they will receive the "Beyond Limits" buff.
+When a woken Garuda is defeated, a light puddle will appear under her. When a player steps into this puddle, they will receive the "Beyond Limits" buff.
 
 <table>
   <tr><td><b>Beyond Limits (Garuda)</b></td><td>Healer</td></tr>
