@@ -12,7 +12,7 @@ permalink: /ultimates/uwu/01_garuda/
 
 <table>
   <tr><td><b>Mistral Song</b></td><td>"Midruda"<ul><li><b>MT:</b> N > W > S</li><li><b>ST:</b> E > S > W</li></ul></td></tr>
-  <tr><td><b>Mesohighs</b></td><td><ul><li><b>ST:</b> West</li><li><b>D4:</b> East</li><ul></td></tr>
+  <tr><td><b>Mesohighs</b></td><td><ul><li><b>ST:</b> West</li><li><b>D4:</b> East</li></ul></td></tr>
   <tr><td><b>Beyond Limits</b></td><td>Healer</td></tr>
 </table>
 
@@ -87,7 +87,7 @@ The following mechanics will also change when Garuda is woken:
 	<td><img src="../images/garuda/garuda_04.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>5.</b> Garuda will cast another Slipstream, which should be pointed away from the party.</p><p>The Spiny Plume will periodically cast Cyclone, which is a single-target tankbuster on the player it's tethered to (which should be the ST) that also applies a stack of Thermal Low.</em></p></td>
+    <td><p><b>5.</b> Garuda will cast another Slipstream, which should be pointed away from the party.</p><p>The Spiny Plume will periodically cast Cyclone, which is a single-target tankbuster on the player it's tethered to (which should be the ST) that also applies a stack of Thermal Low.</p></td>
 	<td><img src="../images/garuda/garuda_05.jpg"></td>
   </tr>
   <tr>
@@ -107,7 +107,8 @@ This is the major mechanic in Garuda, and is where the party will set Garuda up 
 <table>
   <tr>
     <td><p><b>8.</b> After the Spiny Plume hits the ST for a second time (giving them a second stack of Thermal Low), destroy it. This will cause the Spiny Plume to explode in a telegraphed AoE, leaving behind a bubble.</p><p>The later the Spiny Plume is destroyed, the more time the party has to execute the upcoming mechanics. However, destroying the Spiny Plume too late will give the ST a third stack of Thermal Low, which will wipe the raid.</p></td>
-	<td><img src="../images/garuda/garuda_08.jpg"></td>
+	  <td><img src="../images/garuda/garuda_08.jpg"></td>
+  </tr>
   <tr>
     <td><p><b>9.</b> Stack near the edge of the bubble:<ul><li><b>Inside:</b> ST, H1, H2, D3, D4</li><li><b>Outside:</b> MT, D1, D2</li></ul></p><p>When the ST enters the bubble, their Thermal Low stacks will be cleansed, dealing raid-wide damage, and giving Garuda her first stack of Aetherically Charged.</p></td>
 	<td><img src="../images/garuda/garuda_09.jpg"></td>
