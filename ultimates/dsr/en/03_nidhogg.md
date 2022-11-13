@@ -98,7 +98,7 @@ Note that **at most**, only two pairs of arrows will appear. The following diagr
     <td><img src="../images/nidhogg/wyrmhole_13.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>14.</b> Nidhogg will auto-attack the MT **twice** before turning to face a **random** party member and cast Drachenlance.</p><p>Dodge or outrange this, and prepare for 4x towers.</p></td>
+    <td><p><b>14.</b> Nidhogg will auto-attack the MT <b>twice</b> before turning to face a <b>random</b> party member and cast Drachenlance.</p><p>Dodge or outrange this, and prepare for 4x towers.</p></td>
     <td><img src="../images/nidhogg/wyrmhole_14.jpg"></td>
   </tr>
 </table>
