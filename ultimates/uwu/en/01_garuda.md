@@ -201,3 +201,10 @@ When Garuda is defeated, a light puddle will appear under her. When a player ste
 When a player with the Beyond Limit buff uses an LB3, the buff will then refill the LB gauge. This will be relevant in the transition to Ultima Weapon.
 
 The MT, H1, H2, and D3 should each have one stack of Thermal Low. These will be relevant much later into the fight (from Ultimate Annihilation onwards).
+
+<table>
+  <tr>
+    <td><p><b>26.</b> Ifrit will spawn on one of the four cardinal directions, and will charge through the arena.</p><p>The entire floor will also be covered in Eruptions, with <b>one</b> safe spot 90 degrees from where Ifrit spawns.</p><p><em>(The timing is quite tight- Sprint is highly recommended.)</em></p></td>
+    <td><img src="../images/garuda/garuda_26.jpg"></td>
+  </tr>
+</table>
