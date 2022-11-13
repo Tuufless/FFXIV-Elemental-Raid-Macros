@@ -8,6 +8,8 @@ permalink: /ultimates/uwu/07_primal_roulette/
 
 # Primal Roulette
 
+**UNDER CONSTRUCTION**
+
 ## Ultima #2
 
 ## Aetheric Boom

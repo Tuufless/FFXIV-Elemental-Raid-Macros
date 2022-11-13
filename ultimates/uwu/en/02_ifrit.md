@@ -8,6 +8,8 @@ permalink: /ultimates/uwu/02_ifrit/
 
 # Ifrit
 
+**UNDER CONSTRUCTION**
+
 ## Summary
 
 <table>

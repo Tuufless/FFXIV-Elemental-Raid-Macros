@@ -8,6 +8,8 @@ permalink: /ultimates/uwu/05_annihilation/
 
 # Ultimate Annihilation
 
+**UNDER CONSTRUCTION**
+
 ## Intermission #2
 
 ## Ultimate Annihilation
