@@ -103,7 +103,7 @@ This is the major mechanic in Garuda, and is where the party will set Garuda up 
 	<td><img src="../images/garuda/garuda_09.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>10.</b> The MT joins D1 and D2 outside the bubble.</p><p>Garuda will cast Friction on a random player other than the MT. This will give all players that are hit one stack of Thermal Low; the players inside the bubble will have their stack immediately cleansed.</p><p><em>(At this point, only the MT, ST, D1, D2 should have 1 stack of Thermal Low.)</em></p></td>
+    <td><p><b>10.</b> The MT and ST joins D1 and D2 outside the bubble.</p><p>Garuda will cast Friction on a random player other than the MT. This will give all players that are hit one stack of Thermal Low; the players inside the bubble will have their stack immediately cleansed.</p><p><em>(Only the MT, ST, D1, D2 should now have 1 stack of Thermal Low.)</em></p></td>
 	<td><img src="../images/garuda/garuda_10.jpg"></td>
   </tr>
   <tr>
