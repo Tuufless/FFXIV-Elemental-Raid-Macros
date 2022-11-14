@@ -136,6 +136,8 @@ Alexander Prime then auto-attacks twice and casts Wormhole Formation.
 
 Wormhole Formation will use 09STOP's method (highlighted by the [Korean simulator](https://drive.google.com/file/d/1sdo02A5GbNPA9B4HN-NOt-vnTPyv2elH/view)).
 
+Remember that **all odd numbered players must face outside the arena and use Arm's Length/Surecast** when baiting Cruise Chaser to nullify the knockback from Alpha Sword.
+
 <table>
   <tr>
     <td><p><b>1.</b> Identify Limit Cut numbers, and stack in the middle of the arena to bait Chakrams.</p><p>Identify where Brute Justice is, as this will determine who baits Super Jump and Apocalyptic Ray (and thus have stricter positioning requirements).</p></td>
