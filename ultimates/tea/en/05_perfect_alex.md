@@ -15,7 +15,7 @@ The MT will take hate to start this phase. The outline to Perfect Alexander look
 <table>
   <tr>
     <td><a href="#forced-march"><b>Forced March</b></a></td>
-    <td><ul><li>East → west</li></ul></td>
+    <td><ul><li>Light Beacon: West</li><li>Everybody else: East</li></ul></td>
   </tr>
   <tr>
     <td><a href="#fate-calibration-α"><b>Fate Calibration α</b></a></td>
@@ -55,44 +55,64 @@ The MT will take hate to start this phase. The outline to Perfect Alexander look
 
 This is the "tutorial" phase of Perfect Alex, where Ordained Stillness, Ordained Motion, and the Light/Dark mechanics are introduced.
 
+This phase can be blocked out as follows:
+
+1. Ordained Stillness/Motion
+2. Forced March
+3. Ordained Motion/Stillness *(whichever was not done before)*
+4. Stack/Spread
+5. Spread/Stack *(whichever was not done before)*
+
+Perfect Alex will open the fight with "The Final Word", which splits the party into two teams- Light, and Dark.
+
+<details markdown=block>
+<summary><b>[Click to Expand] Light/Dark breakdown</b></summary>
+
 <table>
-  <tr>
-    <td><img src="../images/perfect_alex/debuffs/contact_prohibition.png"></td>
-    <td><p><b>Final Word: Contact Prohibition</b></p><p>More commonly referred to as just <b>"Light"</b>.</p></td>
-  </tr>
   <tr>
     <td><img src="../images/perfect_alex/debuffs/contact_regulation.png"></td>
-    <td><p><b>Final Word: Contact Regulation</b></p><p>More commonly referred to as the <b>"Light Beacon"</b>.</p></td>
+    <td><p><b>Final Word: Contact Regulation</b></p><p>More commonly referred to as the <b>"Light Beacon"</b>.</p><p>If the Light Beacon dies, <em>all</em> Light players are killed.</p></td>
   </tr>
-</table>
-
-When the mechanic resolves, all Light players will be forced to move **towards** the Light Beacon. Light players are killed if they touch the Light Beacon.
-
-<table>
   <tr>
-    <td><img src="../images/perfect_alex/debuffs/escape_prohibition.png"></td>
-    <td><p><b>Final Word: Escape Prohibition</b></p><p>More commonly referred to as just <b>"Dark"</b>.</p></td>
+    <td><img src="../images/perfect_alex/debuffs/contact_prohibition.png"></td>
+    <td><p><b>Final Word: Contact Prohibition</b></p><p>More commonly referred to as just <b>"Light"</b>.</p><p>Light players will move <b>towards</b> the Light Beacon. They will be killed if they touch the Light Beacon.</p></td>
   </tr>
   <tr>
     <td><img src="../images/perfect_alex/debuffs/escape_detection.png"></td>
-    <td><p><b>Final Word: Escape Detection</b></p><p>More commonly referred to as the <b>"Dark Beacon"</b>.</p></td>
+    <td><p><b>Final Word: Escape Detection</b></p><p>More commonly referred to as the <b>"Dark Beacon"</b>.</p><p>If the Dark Beacon dies, <em>all</em> Dark players are killed.</p></td>
+  </tr>
+  <tr>
+    <td><img src="../images/perfect_alex/debuffs/escape_prohibition.png"></td>
+    <td><p><b>Final Word: Escape Prohibition</b></p><p>More commonly referred to as just <b>"Dark"</b>.</p><p>Dark players will move <b>away</b> from the Dark Beacon. They will be killed if they move too far from the Dark Beacon, or if they get marched into a wall.</p></td>
   </tr>
 </table>
 
-When the mechanic resolves, all Dark players will be forced to move **away** from the Dark Beacon. Dark players are killed if they move too far away from the Dark Beacon.
+Dark players need to pay attention to who the Dark Beacon is as they need to stay close to that player (so they don't stray too far), and on the correct side (so they don't get marched into the wall).
+</details>
+
+While the Forced March timers tick down, Perfect Alexander will then cast *either* Ordained Stillness or Ordained Motion. Players should be in their Forced March positions before this cast finishes:
 
 <table>
   <tr>
     <td><b>Forced March:</b><ul><li><b>Light Beacon:</b> West</li><li><b>Dark Beacon:</b> East</li><li><b>Everyone else:</b> Just west of the Dark Beacon</li></ul></td>
 	<td><img src="../images/perfect_alex/forced_march_01.jpg"></td>
   </tr>
+</table>
+
+**RESPECT STILLNESS**. It is a meme for a reason.
+
+If you are unable to make it all the way to your position, there will still be a little bit of time after Ordained Stillness/Motion resolves, and before the Forced March starts for you to adjust if needed.
+
+After the Forced March, Perfect Alexander will then use the opposite Ordained Stillness or Motion, whichever was not done first.
+
+Then, Perfect Alexander will then do two simple stack vs. spread mechanics in a random order.
+
+<table>
   <tr>
-    <td><p><b>Stacks:</b><ul><li><b>West:</b> H1 > D3 > D1 > MT</li><li><b>East:</b> H2 > D4 > D2 > ST</li></ul><em>(N.B: <b>Not</b> Light vs. Dark stacks.)</em></p><p>If a group has two stack markers, only <em>one</em> moves to the other group, and resolve the groups 5-3.</p></td>
+    <td><p>Two <b>random</b> players will be targeted with a stack marker.</p><p><b>Stacks:</b><ul><li><b>West:</b> H1 > D3 > D1 > MT</li><li><b>East:</b> H2 > D4 > D2 > ST</li></ul><em>(N.B: <b>Not</b> Light vs. Dark stacks.)</em></p><p>If a group has two stack markers, only <em>one</em> moves to the other group, and resolve the groups 5-3.</p></td>
 	<td><img src="../images/perfect_alex/forced_march_02.jpg"></td>
   </tr>
 </table>
-
-Dark players need to pay attention to who the Dark Beacon is as they need to stay close to that player (so they don't stray too far), and on the correct side (so they don't get marched into the wall).
 
 ## Fate Calibration α
 
@@ -106,14 +126,16 @@ The effects from Fate Calibration α and β <b>do not</b> come with debuff icons
 
 Instead, the **clones** will telegraph the mechanics that will resolve. **Watch your clones** to see what debuffs they receive.
 
-All players will need to identify the debuffs based on their visual effects when they resolve.
-
 The debuffs will appear in the same order as they resolve:
 
 1. Ordained Stillness/Motion #1
 2. Defamation
 3. Ordained Stillness/Motion #2 + Shared Sentence + Aggravated Assaults
 
+All players will need to identify the debuffs based on their visual effects when they resolve.
+
+<details markdown=block>
+<summary><b>[Click to Expand] Debuff visuals</b></summary>
 <table>
   <tr>
     <td>
@@ -161,6 +183,7 @@ The debuffs will appear in the same order as they resolve:
     <td><img src="../images/perfect_alex/fate_calibration_alpha/aggravated_assault.jpg"></td>
   </tr>
 </table>
+</details>
 
 When Fate Calibration α finishes its cast, Perfect Alexander will disappear and the mechanics that were telegraphed earlier by the clones will now resolve for real.
 
@@ -195,6 +218,8 @@ The debuffs will appear in the same order as they resolve:
 3. Collective/Individual Reprobation (stack/spread)
 4. Radiant Sacrament
 
+<details markdown=block>
+<summary><b>Debuff visuals</b></summary>
 <table>
   <tr>
     <td><p><b>Light</b></p>
@@ -219,6 +244,7 @@ The debuffs will appear in the same order as they resolve:
     <td><img src="../images/perfect_alex/fate_calibration_beta/dark_players.jpg"></td>
   </tr>
 </table>
+</details>
 
 It's not entirely obvious, but Fate Calibration β should be lightly mitigated prior to the forced march. Note that you will still need to plan mitigations for the upcoming Exatrines.
 
