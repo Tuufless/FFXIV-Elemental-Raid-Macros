@@ -72,14 +72,26 @@ This is the macro for the bulk of the fight.
 
 ## Markers
 
-I personally really like "inside" markers.
+A lot of players use the "outer" markers:
 
-![](images/markers_2.jpg)
+![](images/markers_outer.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
 ```json
-{"Name":"Dragonsong's Reprise","MapID":788,"A":{"X":100.0,"Y":0.0,"Z":87.0,"ID":0,"Active":true},"B":{"X":113.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":113.0,"ID":2,"Active":true},"D":{"X":87.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":109.192,"Y":0.0,"Z":90.808,"ID":4,"Active":true},"Two":{"X":109.192,"Y":0.0,"Z":109.192,"ID":5,"Active":true},"Three":{"X":90.808,"Y":0.0,"Z":109.192,"ID":6,"Active":true},"Four":{"X":90.808,"Y":0.0,"Z":90.808,"ID":7,"Active":true}}
+{"Name":"Dragonsong's Reprise (Outer)","MapID":788,"A":{"X":100.0,"Y":0.0,"Z":80.0,"ID":0,"Active":true},"B":{"X":120.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":120.0,"ID":2,"Active":true},"D":{"X":80.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":114.1421,"Y":0.0,"Z":85.85786,"ID":4,"Active":true},"Two":{"X":114.142,"Y":0.0,"Z":114.142,"ID":5,"Active":true},"Three":{"X":85.85786,"Y":0.0,"Z":114.142,"ID":6,"Active":true},"Four":{"X":85.858,"Y":0.0,"Z":85.858,"ID":7,"Active":true}}
+```
+
+</details>
+
+I personally *much prefer* "inner" markers.
+
+![](images/markers_inner.jpg)
+<details markdown=block>
+<summary>XIVLauncher WaymarkPresetPlugin positions</summary>
+
+```json
+{"Name":"Dragonsong's Reprise (Inner)","MapID":788,"A":{"X":100.0,"Y":0.0,"Z":87.0,"ID":0,"Active":true},"B":{"X":113.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":113.0,"ID":2,"Active":true},"D":{"X":87.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":109.192,"Y":0.0,"Z":90.807,"ID":4,"Active":true},"Two":{"X":109.192,"Y":0.0,"Z":109.192,"ID":5,"Active":true},"Three":{"X":90.807,"Y":0.0,"Z":109.192,"ID":6,"Active":true},"Four":{"X":90.807,"Y":0.0,"Z":90.807,"ID":7,"Active":true}}
 ```
 
 </details>
