@@ -199,19 +199,19 @@ All the action happens north and south. If it's not your turn to do anything, or
 <table>
   <tr>
     <td><b>1 and 2</b></td>
-    <td><ol><li><b>Arm's Length/Surecast when the Chakrams fly.</b></li><li>Resolve Cruise Chaser's cleave (1) and dash (2) north.</li><li>Bait Apocalyptic Ray from Brute Justice.</li><li>Soak <b>third</b> set of puddles.</li></ol></b></td>
+    <td><ol><li><b>Arm's Length/Surecast when the Chakrams fly.</b></li><li>Resolve Cruise Chaser's cleave (1) and dash (2) north.</li><li>Bait Apocalyptic Ray from Brute Justice.</li><li>Soak <b>third</b> set of puddles.</li></ol></td>
   </tr>
   <tr>
     <td><b>3 and 4</b></td>
-    <td><ol><li>Bait Super Jump south.</li><li><b>Arm's Length/Surecast when Brute Justice jumps.</b></li><li>Resolve Cruise Chaser's cleave (3) and dash (4) south.</li><li>Dodge Sacrament lasers from Alexander.</li></ol></b></td>
+    <td><ol><li>Bait Super Jump south.</li><li><b>Arm's Length/Surecast when Brute Justice jumps.</b></li><li>Resolve Cruise Chaser's cleave (3) and dash (4) south.</li><li>Dodge Sacrament lasers from Alexander.</li></ol></td>
   </tr>
   <tr>
     <td><b>5 and 6</b></td>
-    <td><ol><li>Soak <b>first</b> set of puddles.</li><li><b>Arm's Length/Surecast when the puddles resolve.</b></li><li>Resolve Cruise Chaser's cleave (5) and dash (6) north.</li></ol></b></td>
+    <td><ol><li>Soak <b>first</b> set of puddles.</li><li><b>Arm's Length/Surecast when the puddles resolve.</b></li><li>Resolve Cruise Chaser's cleave (5) and dash (6) north.</li></ol></td>
   </tr>
   <tr>
     <td><b>7 and 8</b></td>
-    <td><ol><li>Soak <b>second</b> set of puddles.</li><li><b>Arm's Length/Surecast when the puddles resolve.</b></li><li>Resolve Cruise Chaser's cleave (7) and dash (8) south.</li></ol></b></td>
+    <td><ol><li>Soak <b>second</b> set of puddles.</li><li><b>Arm's Length/Surecast when the puddles resolve.</b></li><li>Resolve Cruise Chaser's cleave (7) and dash (8) south.</li></ol></td>
   </tr>
 </table>
 
@@ -283,7 +283,7 @@ The party then proceeds onto Perfect Alexander.
 <details markdown=block>
 <summary><b>[Inception]</b> Why do we criss-cross the green orb tethers?</summary>
 <table>
-  <tr><td><p>Criss-crossing the tethers accomplishes two things:<ul><li>It curves the green orbs around the center so the players dropping the crystals don't need to dodge them.</li><li>The orb travels a shorter distance to reach the players that are closer to the crystals, giving them more time to get away from the proximity damage.</li></ul></p></td></tr>
+  <tr><td><p>Criss-crossing the tethers prevents the green orbs (particularly the lower ones) from moving in the path of the players trying to place their crystals.</p></td></tr>
 </table>
 </details>
 <details markdown=block>
