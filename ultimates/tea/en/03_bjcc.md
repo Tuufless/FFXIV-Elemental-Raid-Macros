@@ -122,6 +122,13 @@ My preferred method of doing this phase is using [my Tollgate strat](https://na.
   </tr>
 </table>
 
+## PoVs
+
+Here are a couple of PoVs I've collected:
+
+- [ST PoV](https://youtu.be/ybyyGX3JdMM)
+- [H1 PoV](https://youtu.be/IoTs37atgLU)
+
 ## Frequently Asked Questions
 
 <details markdown=block>
