@@ -23,6 +23,9 @@ permalink: /ultimates/tea/
 - Any gear at or above **i595** will have their substats capped.
 - Relic weapons will have their substats capped at **184**.
 
+![](images/tea_cheatsheet.jpg)
+*(Shortened link: [https://cutt.ly/EleDC_TEA_summary](images/tea_cheatsheet.jpg))*
+
 ## English
 
 ```
