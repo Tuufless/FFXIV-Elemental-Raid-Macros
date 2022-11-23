@@ -376,6 +376,12 @@ Note that DoTs will continue to tick even after the player has been imprisoned.
 </table>
 </details>
 <details markdown=block>
+<summary><b>[Perfect Alexander]</b> So, what <em>does</em> the Enigma Codex do? Why is it important?</summary>
+<table>
+  <tr><td><p>The Enigma Codex allows players to see their clones in Fate Calibration α and β.</p><p>Without the Enigma Codex, there is no way to determine what debuffs players are assigned, or what attacks Perfect Alexander is going to do, and looks <a href="https://youtu.be/ojaJmo1UTww">something like this</a>.</p></td></tr>
+</table>
+</details>
+<details markdown=block>
 <summary><b>[Perfect Alexander]</b> Is Perfect Alexander really impossible without the Enigma Codex? Didn't <a href="https://youtu.be/VG2M2bozu2M">a Chinese group clear without it?</a></summary>
 <table>
   <tr><td>
