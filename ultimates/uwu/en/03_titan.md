@@ -185,9 +185,3 @@ When a player with the Beyond Limits uses an LB3, the buff will be consumed and 
 4. Tank
 
 Start the Caster LB as soon as the Magitek Bits land (and the party takes impact damage). All other LBs can be used as soon as the LB3 bar replenishes.
-
-### A note on building LB3
-
-The party will need to rebuild an LB3 by the end of Ultimate Suppression in order to survive the second Ultima cast towards the end of the fight.
-
-However, because the party's relative damage is much higher now compared to release, it's likely that the party will push Ultimate Suppression early. The problem is that there now isn't enough time to rebuild LB3, leading to a wipe at Ultima.
