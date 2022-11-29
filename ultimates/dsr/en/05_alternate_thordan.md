@@ -191,7 +191,7 @@ My preferred strat is an upside-down version of the "Komazou" strat, which split
 - **Only WAR** can Holmgang the tankbuster after Wrath of the Heavens and still invuln P6's Cauterize.
 
 <details markdown=block>
-<summary><b>[Death of the Heavens]</b> Is there a pattern to how the debuffs are assigned?</summary>
+<summary><b>[Death of the Heavens]</b> Is there a pattern to how the Dooms are assigned?</summary>
 <table>
   <tr><td><p>Unfortunately not- who gets the Dooms are completely random.</p><p>Here's an example where all four tank/healers get Doom.</p></td><td><img src="../images/alternate_thordan/doth_debuffs.jpg"></td></tr>
 </table>
