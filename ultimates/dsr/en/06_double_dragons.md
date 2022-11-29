@@ -442,3 +442,10 @@ Here are some other potential configurations:
 * There are strats where only one tank invulns Cauterize, or neither tank invulns Cauterize in order to have a 1-1-6 Akh Morn's edge in P7. While the recommended PF strat is to just invuln Cauterize, a static may consider having just one tank invuln Hraesvelgr's Cauterize (and have the other mitigate Nidhogg's). I personally wouldn't recommend having both tanks mitigate Cauterize.
 * If a tank was hit by a fire or ice tether in Wyrmsbreath #2, they should also go in front of the appropriate dragon to get their debuff cleansed by Cauterize.
 * If someone happens to move after the fire debuff turns into Pyretic, they should keep moving into the wall, or into Nidhogg's side so they do **not** die to Hraesvelgr.
+
+<details markdown=block>
+<summary><b>[Wroth Flames]</b> Is there a pattern to how the debuffs are assigned?</summary>
+<table>
+  <tr><td><p>Unfortunately not- the debuff distribution is random.</p><p>Here's an example where two of the no-debuff players are both DPS.</p></td><td><img src="../images/double_dragons/wroth_flames_debuffs.jpg"></td></tr>
+</table>
+</details>
