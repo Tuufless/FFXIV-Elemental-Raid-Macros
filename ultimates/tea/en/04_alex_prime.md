@@ -220,11 +220,11 @@ After the Enumeration at the end of Wormhole Formation, Alexander Prime will res
 <table>
   <tr>
     <td><b>Mega Holy x2</b></td>
-    <td><p>MT Reprisal, H2 30s, D4</p><p><em>(If timed correctly, Reprisal and Addle will cover <b>both</b> Mega Holies)</em>.</p></td>
+    <td><p>MT Reprisal, H2 30s, D1, D4</p><p><em>(If timed correctly, Reprisal, Feint, and Addle will cover <b>both</b> Mega Holies)</em>.</p></td>
   </tr>
 </table>
 
-After both Mega Holies, Alexander Prime will then cast "Summon Alexander" before disappearing.
+After the two Mega Holies, Alexander Prime will then cast "Summon Alexander" before disappearing.
 
 ## J Waves
 
@@ -249,7 +249,7 @@ As J Waves hit progressively harder, you will need to plan party mitigations acc
   </tr>
   <tr>
     <td><b>After 8 stacks:</b></td>
-    <td><p>ST Reprisal, H2 30s, D3</p></td>
+    <td><p>ST Reprisal, H2 30s, D2, D3</p></td>
   </tr>
   <tr>
     <td><b>After 10 stacks:</b></td>
