@@ -230,13 +230,15 @@ After both Mega Holies, Alexander Prime will then cast "Summon Alexander" before
 
 All three bosses will reappear, with Brute Justice landing with a J Storm.
 
-To clear this phase, the party will (in order):
+- Cruise Chaser and Alexander Prime will immediately start casting their enrages
+- Brute Justice will hit the party with periodic J Wave raid damage roughly each GCD.
+- Each J Wave also gives Brute Justice a damage-up stack (max 16).
 
-1. Defeat Cruise Chaser. *(Cruise Chaser's enrage finishes first.)*
+The party will need to (in order):
+
+1. Defeat Cruise Chaser. *(Cruise Chaser's enrage finishes before Brute Justice's 8th stack.)*
 2. Defeat Brute Justice. *(This will allow the party to damage Alexander Prime.)*
 3. Defeat Alexander Prime. *(Alexander Prime is invulnerable while BJCC are still around. If you have time, build gauge to prepare for the reopener at Perfect Alexander.)*
-
-While Cruise Chaser and Alexander are charging up their enrages, Brute Justice will continually hit the party with J Waves. Each J Wave also gives Brute Justice a damage-up stack (max 16).
 
 As J Waves hit progressively harder, you will need to plan party mitigations accordingly:
 
