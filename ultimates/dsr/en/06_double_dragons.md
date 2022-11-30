@@ -156,6 +156,47 @@ All passes happen in the center of the arena, except for the final pass after To
   </tr>
 </table>
 
+Here are some other potential configurations to consider:
+
+<details>
+<summary><b>[Hallowed Wings #1]</b> NE quadrant safe, head up</summary>
+<table>
+  <tr>
+    <td>
+      <p>Heads up means tanks far, party near.</p>
+      <p>The MT takes the northern-most position.</p>
+    </td>
+    <td><img src="../images/double_dragons/hallowed_wings_01_02.jpg"></td>
+  </tr>
+</table>
+</details>
+
+<details>
+<summary><b>[Hallowed Wings #1]</b> SW quadrant safe, head down</summary>
+<table>
+  <tr>
+    <td>
+      <p>Heads down means tanks near, party far.</p>
+      <p>The MT takes the northern-most position.</p>
+    </td>
+    <td><img src="../images/double_dragons/hallowed_wings_01_03.jpg"></td>
+  </tr>
+</table>
+</details>
+
+<details>
+<summary><b>[Hallowed Wings #1]</b> SW quadrant safe, head up</summary>
+<table>
+  <tr>
+    <td>
+      <p>Heads up means tanks far, party near.</p>
+      <p>The MT takes the northern-most position.</p>
+    </td>
+    <td><img src="../images/double_dragons/hallowed_wings_01_04.jpg"></td>
+  </tr>
+</table>
+</details>
+
 ## Wroth Flames
 
 Wroth Flames is the "intermission" in this phase, separating the first and second iteration of each of the looped mechanics.
@@ -215,6 +256,72 @@ When dropping Akh Morns, the most efficient movement (geometrically) is to move 
   </tr>
 </table>
 
+Here are some additional examples to consider:
+
+<details>
+<summary><b>[Wroth Flames]</b> Hraesvelgr middle (uptime available), 2-to-1 dodge</summary>
+<table>
+  <tr>
+    <td>
+      <p><b>1.</b> Identify the starting location.</p>
+      <ul>
+        <li>Since Hraesvelgr's in the center, the party can start either west or east.</li>
+        <li>In this case, west gives the party melee uptime on Nidhogg, but with a 2-1 dodge.</li>
+      </ul>
+    </td>
+    <td><img src="../images/double_dragons/wroth_flames_ex_02_01.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>2.</b> Hraesvelgr's Cauterize resolves. Drop first Akh Morn puddle.</p></td>
+    <td><img src="../images/double_dragons/wroth_flames_ex_02_02.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>3.</b> First set of eye AoEs resolve. Drop the second Akh Morn puddle without getting hit.</p></td>
+    <td><img src="../images/double_dragons/wroth_flames_ex_02_03.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>4.</b> Drop third and fourth Akh Morn puddles.</p></td>
+    <td><img src="../images/double_dragons/wroth_flames_ex_02_04.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>5.</b> Move to the middle, identify whether Nidhogg is casting Hot Wing or Hot Tail.</p></td>
+    <td><img src="../images/double_dragons/wroth_flames_ex_02_05.jpg"></td>
+  </tr>
+</table>
+</details>
+
+<details>
+<summary><b>[Wroth Flames]</b> Hraesvelgr west (forced downtime), 2-to-1 dodge</summary>
+<table>
+  <tr>
+    <td>
+      <p><b>1.</b> Identify the starting location.</p>
+      <ul>
+        <li>Since Hraesvelgr's west, the party can only start east.</li>
+        <li>The furthest position away from the second set of eyes is NE.</li>
+      </ul>
+    </td>
+    <td><img src="../images/double_dragons/wroth_flames_ex_03_01.jpg"></td>
+  </tr>
+  <tr>
+    <td><b>2.</b> Hraesvelgr's Cauterize resolves. Drop first Akh Morn puddle.</td>
+    <td><img src="../images/double_dragons/wroth_flames_ex_03_02.jpg"></td>
+  </tr>
+  <tr>
+    <td><b>3.</b> First set of eye AoEs resolve. Drop the second Akh Morn puddle without getting hit.</td>
+    <td><img src="../images/double_dragons/wroth_flames_ex_03_03.jpg"></td>
+  </tr>
+  <tr>
+    <td><b>4.</b> Drop third and fourth Akh Morn puddles.</td>
+    <td><img src="../images/double_dragons/wroth_flames_ex_03_04.jpg"></td>
+  </tr>
+  <tr>
+    <td><b>5.</b> Move to the middle, identify whether Nidhogg is casting Hot Wing or Hot Tail.</td>
+    <td><img src="../images/double_dragons/wroth_flames_ex_03_05.jpg"></td>
+  </tr>
+</table>
+</details>
+
 ## Second half
 
 The second half is a rehash of the first, with slightly different spins on the same mechanics from earlier.
@@ -263,6 +370,36 @@ The second half is a rehash of the first, with slightly different spins on the s
   </tr>
 </table>
 
+Here are some other potential configurations to consider:
+
+<details>
+<summary><b>[Hallowed Wings #2]</b> Hot Wing, head up</summary>
+<table>
+  <tr>
+    <td>
+      <p>Hot Wing means all party members must stay near the E/W line.</p>
+      <p>Heads up means the tanks are away from Hraesvelgr, and the rest of the party is towards Hraesvelgr.</p>
+      <p>The MT takes the western-most position.</p>
+    </td>
+    <td><img src="../images/double_dragons/hallowed_wings_02_01.jpg"></td>
+  </tr>
+</table>
+</details>
+
+<details>
+<summary><b>[Hallowed Wings #2]</b> Hot Tail, head down</summary>
+<table>
+  <tr>
+    <td>
+      <p>Hot Wing means all party members must stay near the E/W line.</p>
+      <p>Heads up means the tanks are away from Hraesvelgr, and the rest of the party is towards Hraesvelgr.</p>
+      <p>The MT takes the western-most position.</p>
+    </td>
+    <td><img src="../images/double_dragons/hallowed_wings_02_02.jpg"></td>
+  </tr>
+</table>
+</details>
+
 ## Cauterize
 
 The reason why we did not stack opposite tethers in Wyrmsbreath #2 was because we needed the fire/ice debuffs in order to survive this mechanic.
@@ -292,149 +429,6 @@ The reason why we did not stack opposite tethers in Wyrmsbreath #2 was because w
   </tr>
 </table>
 
-## Additional Examples: Hallowed Wings #1
-
-Here are some other potential configurations:
-
-<details>
-<summary><b>Example 1:</b> NE quadrant safe, head up</summary>
-<table>
-  <tr>
-    <td>
-      <p>Heads up means tanks far, party near.</p>
-      <p>The MT takes the northern-most position.</p>
-    </td>
-    <td><img src="../images/double_dragons/hallowed_wings_01_02.jpg"></td>
-  </tr>
-</table>
-</details>
-
-<details>
-<summary><b>Example 2:</b> SW quadrant safe, head down</summary>
-<table>
-  <tr>
-    <td>
-      <p>Heads down means tanks near, party far.</p>
-      <p>The MT takes the northern-most position.</p>
-    </td>
-    <td><img src="../images/double_dragons/hallowed_wings_01_03.jpg"></td>
-  </tr>
-</table>
-</details>
-
-<details>
-<summary><b>Example 3:</b> SW quadrant safe, head up</summary>
-<table>
-  <tr>
-    <td>
-      <p>Heads up means tanks far, party near.</p>
-      <p>The MT takes the northern-most position.</p>
-    </td>
-    <td><img src="../images/double_dragons/hallowed_wings_01_04.jpg"></td>
-  </tr>
-</table>
-</details>
-
-## Additional Examples: Wroth Flames
-
-Since there are many possible variations with Wroth Flames, here are a couple additional scenarios to consider.
-
-<details>
-<summary><b>Example 1:</b> Hraesvelgr middle (uptime available), 2-to-1 dodge</summary>
-<table>
-  <tr>
-    <td>
-      <p><b>1.</b> Identify the starting location.</p>
-      <ul>
-        <li>Since Hraesvelgr's in the center, the party can start either west or east.</li>
-        <li>In this case, west gives the party melee uptime on Nidhogg, but with a 2-1 dodge.</li>
-      </ul>
-    </td>
-    <td><img src="../images/double_dragons/wroth_flames_ex_02_01.jpg"></td>
-  </tr>
-  <tr>
-    <td><p><b>2.</b> Hraesvelgr's Cauterize resolves. Drop first Akh Morn puddle.</p></td>
-    <td><img src="../images/double_dragons/wroth_flames_ex_02_02.jpg"></td>
-  </tr>
-  <tr>
-    <td><p><b>3.</b> First set of eye AoEs resolve. Drop the second Akh Morn puddle without getting hit.</p></td>
-    <td><img src="../images/double_dragons/wroth_flames_ex_02_03.jpg"></td>
-  </tr>
-  <tr>
-    <td><p><b>4.</b> Drop third and fourth Akh Morn puddles.</p></td>
-    <td><img src="../images/double_dragons/wroth_flames_ex_02_04.jpg"></td>
-  </tr>
-  <tr>
-    <td><p><b>5.</b> Move to the middle, identify whether Nidhogg is casting Hot Wing or Hot Tail.</p></td>
-    <td><img src="../images/double_dragons/wroth_flames_ex_02_05.jpg"></td>
-  </tr>
-</table>
-</details>
-
-<details>
-<summary><b>Example 2:</b> Hraesvelgr west (forced downtime), 2-to-1 dodge</summary>
-<table>
-  <tr>
-    <td>
-      <p><b>1.</b> Identify the starting location.</p>
-      <ul>
-        <li>Since Hraesvelgr's west, the party can only start east.</li>
-        <li>The furthest position away from the second set of eyes is NE.</li>
-      </ul>
-    </td>
-    <td><img src="../images/double_dragons/wroth_flames_ex_03_01.jpg"></td>
-  </tr>
-  <tr>
-    <td><b>2.</b> Hraesvelgr's Cauterize resolves. Drop first Akh Morn puddle.</td>
-    <td><img src="../images/double_dragons/wroth_flames_ex_03_02.jpg"></td>
-  </tr>
-  <tr>
-    <td><b>3.</b> First set of eye AoEs resolve. Drop the second Akh Morn puddle without getting hit.</td>
-    <td><img src="../images/double_dragons/wroth_flames_ex_03_03.jpg"></td>
-  </tr>
-  <tr>
-    <td><b>4.</b> Drop third and fourth Akh Morn puddles.</td>
-    <td><img src="../images/double_dragons/wroth_flames_ex_03_04.jpg"></td>
-  </tr>
-  <tr>
-    <td><b>5.</b> Move to the middle, identify whether Nidhogg is casting Hot Wing or Hot Tail.</td>
-    <td><img src="../images/double_dragons/wroth_flames_ex_03_05.jpg"></td>
-  </tr>
-</table>
-</details>
-
-## Additional Examples: Hallowed Wings #2
-
-Here are some other potential configurations:
-
-<details>
-<summary><b>Example 1:</b> Hot Wing, head up</summary>
-<table>
-  <tr>
-    <td>
-      <p>Hot Wing means all party members must stay near the E/W line.</p>
-      <p>Heads up means the tanks are away from Hraesvelgr, and the rest of the party is towards Hraesvelgr.</p>
-      <p>The MT takes the western-most position.</p>
-    </td>
-    <td><img src="../images/double_dragons/hallowed_wings_02_01.jpg"></td>
-  </tr>
-</table>
-</details>
-
-<details>
-<summary><b>Example 2:</b> Hot Tail, head down</summary>
-<table>
-  <tr>
-    <td>
-      <p>Hot Wing means all party members must stay near the E/W line.</p>
-      <p>Heads up means the tanks are away from Hraesvelgr, and the rest of the party is towards Hraesvelgr.</p>
-      <p>The MT takes the western-most position.</p>
-    </td>
-    <td><img src="../images/double_dragons/hallowed_wings_02_02.jpg"></td>
-  </tr>
-</table>
-</details>
-
 ## Notes
 
 * DRK is the only tank that doesn't *actually* need Rampart in this phase, as Dark Mind's cooldown is quick enough for it to be available for both Hallowed Wings.
@@ -442,6 +436,8 @@ Here are some other potential configurations:
 * There are strats where only one tank invulns Cauterize, or neither tank invulns Cauterize in order to have a 1-1-6 Akh Morn's edge in P7. While the recommended PF strat is to just invuln Cauterize, a static may consider having just one tank invuln Hraesvelgr's Cauterize (and have the other mitigate Nidhogg's). I personally wouldn't recommend having both tanks mitigate Cauterize.
 * If a tank was hit by a fire or ice tether in Wyrmsbreath #2, they should also go in front of the appropriate dragon to get their debuff cleansed by Cauterize.
 * If someone happens to move after the fire debuff turns into Pyretic, they should keep moving into the wall, or into Nidhogg's side so they do **not** die to Hraesvelgr.
+
+## Frequently Asked Questions
 
 <details markdown=block>
 <summary><b>[Wroth Flames]</b> Is there a pattern to how the debuffs are assigned?</summary>

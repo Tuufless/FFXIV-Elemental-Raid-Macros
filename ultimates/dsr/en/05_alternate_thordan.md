@@ -190,6 +190,8 @@ My preferred strat is an upside-down version of the "Komazou" strat, which split
 ## Notes
 - **Only WAR** can Holmgang the tankbuster after Wrath of the Heavens and still invuln P6's Cauterize.
 
+## Frequently Asked Questions
+
 <details markdown=block>
 <summary><b>[Death of the Heavens]</b> Is there a pattern to how the Dooms are assigned?</summary>
 <table>
