@@ -346,6 +346,12 @@ Note that DoTs will continue to tick even after the player has been imprisoned.
 ## Frequently Asked Questions
 
 <details markdown=block>
+<summary><b>[Divine Retribution]</b> What happened?</summary>
+<table>
+  <tr><td><p>This happens when either a Light player touches the Light Beacon, or a Dark player moves too far away from the Dark Beacon.</p></td></tr>
+</table>
+</details>
+<details markdown=block>
 <summary><b>[Forced March]</b> Why is the forced march east-to-west, instead of south-to-north? Don't melee get positionals?</summary>
 <table>
   <tr><td><p>This is done to keep the Dark Beacon's position consistent with Fate Calibration β.</p><p>If you <em>really</em> want positionals, you can always have the MT tank Perfect Alexander facing West, although that's rather janky.</p></td></tr>
