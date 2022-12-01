@@ -8,7 +8,9 @@ permalink: /ultimates/tea/03_bjcc/
 
 # Brute Justice + Cruise Chaser
 
-My preferred method of doing this phase is using [my Tollgate strat](https://na.finalfantasyxiv.com/lodestone/character/10898230/blog/4941271/).
+My preferred method of doing this phase is using [my Tollgate strat](https://na.finalfantasyxiv.com/lodestone/character/10898230/blog/4941271/) that is very similar to MOOF's strat that stacks both bosses in the middle.
+
+The "Tollgate" name comes from the third Nisi pass, where the tanks and healers line up to take/pass Nisi. Someone mentioned that passing Nisi here felt like passing through a tollgate, and the name stuck.
 
 The strat simplifies the Water/Lightning and Nisi passes, **but at the cost of increased Tank damage.** This phase is already one of the more healing-intensive fights, so be prepared.
 
