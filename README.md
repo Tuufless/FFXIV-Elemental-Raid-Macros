@@ -32,5 +32,9 @@ The current item level cap is **iLvl 635**.
     - [Part 1](6.0_endwalker/savage_raids/p8s_1/README.md)
     - [Part 2](6.0_endwalker/savage_raids/p8s_2/README.md)
 
-**Ultimate Raids:**
+## Ultimate Raids
+
+- **UCoB** - [The Unending Coil of Bahamut (Ultimate)](ultimates/ucob/README.md)
+- **UWU** - [The Weapon's Refrain (Ultimate)](ultimates/uwu/README.md)
+- **TEA** - [The Epic of Alexander (Ultimate)](ultimates/tea/README.md)
 - **DSR** - [Dragonsong's Reprise (Ultimate)](ultimates/dsr/README.md)
