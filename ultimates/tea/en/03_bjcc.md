@@ -135,9 +135,27 @@ Tanks should try to have minor cooldowns available for the Lightning passes.
 ## Frequently Asked Questions
 
 <details markdown=block>
+<summary><b>[Tank swap]</b> Why don't we do a Provoke swap instead of having the two tanks cross each other (especially with Nisi)?</summary>
+<table>
+  <tr><td><p>Two reasons:<ol><li>If a tank happens to die in Limit Cut and gets raised at the start of BJCC, their first instinct is to Provoke whichever boss they're supposed to hold. Now that Provoke has been used, you cannot then swap the bosses by Provoking the other right after Chakrams go off.</li><li>Cruise Chaser stops to cast Photon. If you swap bosses using Provoke, the tank that Provoked Cruise Chaser can only attack Brute Justice, and either has to hold damage, potentially steal hate back, or resort to stance dancing tricks that is more trouble than it is worth.</li></ol></p></td></tr>
+</table>
+</details>
+<details markdown=block>
 <summary><b>[Crashing Thunder]</b> Why did this deal more damage than usual?</summary>
 <table>
   <tr><td><p>Water and Thunder work differently.</p><p>While Crashing Wave works like any other stack damage (damage is lowered as more people are hit by Crashing Wave), Thunder is the opposite; damage <em>increases</em> as more people are hit by Crashing Thunder.</p><p>This is why we want the Thunder stacks to contain exactly two players.</p></td></tr>
+</table>
+</details>
+<details markdown=block>
+<summary><b>[Hidden Mines]</b> Why doesn't D3 bait the west Hidden Mine instead of H1?</summary>
+<table>
+  <tr><td><p>The objective is to have both Enumeration targets visible and in close proximity to one another.</p><p>Suppose D3 and H2 baited the Hidden Mines instead and D2 and D3 were targeted for Enumeration.</p><p>D2 only sees the Enumeration on D2, but now has to look at D3 to determine whether they need to switch positions with D1, with two giant robots in the center blocking the view.</p></td></tr>
+</table>
+</details>
+<details markdown=block>
+<summary><b>[Hidden Mines]</b> Why don't we bait the Hidden Mines towards the outer edge of the arena? Doesn't that put the healers further away from Brute Justice so a ranged DPS doesn't bait a Hidden Mine by mistake?</summary>
+<table>
+  <tr><td><p>The idea is to keep both bosses in the center. In particular, if the West mine is baited towards the edge, the MT has to pull Cruise Chaser closer to the edge in order to take the Hidden Mine, and doesn't leave much space for the DPS to fit in for the Plasma Shield.</p><p>Of course, you could have the MT and ST switch sides again to recenter the bosses, but that violates a different principle which is to try and keep the tanks and healers to their half of the arena as much as possible.</p></td></tr>
 </table>
 </details>
 <details markdown=block>
