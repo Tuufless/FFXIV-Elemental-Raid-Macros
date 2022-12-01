@@ -18,6 +18,11 @@ permalink: /ultimates/tea/
 - [**Alexander Prime**](en/04_alex_prime.md): 09STOP Wormhole (Korean sim strat- this is also called "Onyxia" by NA/EU)
 - [**Perfect Alexander**](en/05_perfect_alex.md)
 
+### PoVs
+
+- [H1 PoV (WHM)](https://youtu.be/IqcxKunPY5Q)
+- [D4 PoV (RDM)](https://youtu.be/coE2xYyd23A)
+
 ### BiS Notes
 
 - Any gear at or above **i595** will have their substats capped.
