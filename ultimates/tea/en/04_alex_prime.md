@@ -176,7 +176,7 @@ Remember that **all odd numbered players must face outside the arena and use Arm
 	<td><img src="../images/alex_prime/wormhole_09.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>10.</b> Cruise Chaser dashes <b>8</b></p><p><em>(</em><b>7</b><em> needs to run</em> around <em>Cruise Chaser's dash to the center.)</em></p></td>
+    <td><p><b>10.</b> Cruise Chaser dashes <b>8</b>.</p><p><em>(</em><b>7</b><em> needs to either wait for Cruise Chaser to dash</em> before <em>moving to the center, or run</em> around <em> it instead.)</em></p></td>
 	<td><img src="../images/alex_prime/wormhole_10.jpg"></td>
   </tr>
   <tr>
