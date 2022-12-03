@@ -3,23 +3,27 @@ layout: default
 title: Lv 70. UWU
 parent: Ultimates
 nav_order: 2
+has_children: true
+has_toc: false
 permalink: /ultimates/uwu/
 ---
 
 # The Weapon's Refrain (Ultimate)
 
-PF largely follows [Clees' UWU guide](http://clees.me/guides/uwu/) with a few differences:
+PF largely follows [Clees' UWU guide](https://www.icy-veins.com/ffxiv/the-weapons-refrain-ultimate-guides-ultima) with a few differences:
 
 - Ultima is pulled a little **north** after Ultimate Predation instead of south. Eruption baiters will start **south** instead of north.
 - Green orbs during Ultimate Annihilation are taken **2211** instead of 3311.
 
-- **Garuda**: Midruda
-- **Ifrit**: Reverse-Z
-- **Titan**: Mario Kart
-- **Ultimate Predation**
-- **Ultimate Annihilation**: 2211 orbs
-- **Ultimate Suppression**: Fan Suppression
-- **Primal Roulette**
+The various phases can be broken down as follows:
+
+- [**Garuda**](en/01_garuda.md): Midruda
+- [**Ifrit**](en/02_ifrit.md): Reverse-Z
+- [**Titan**](en/03_titan.md): Mario Kart
+- [**Ultimate Predation**](en/04_predation.md)
+- [**Ultimate Annihilation**](en/05_annihilation.md): 2211 orbs
+- [**Ultimate Suppression**](en/06_suppression.md): Fan Suppression
+- [**Primal Roulette**](en/07_primal_roulette.md)
 
 ### BiS Notes
 
