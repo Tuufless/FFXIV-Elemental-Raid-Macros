@@ -36,8 +36,8 @@ The following mechanics will also change when Ifrit is woken:
   </tr>
   <tr>
     <td>Crimson Cyclone</td>
-    <td>Straight-line dash.</td>
-    <td>Straight-line dash, <b>followed by a cross-shaped AoE 45 degrees to the dash</b>.</td>
+    <td>Straight-line dash, going clockwise.</td>
+    <td>Straight-line dash, in the order the Infernal Nails were destroyed in, <b>followed by a cross-shaped AoE 45 degrees to the dash</b>.</td>
   </tr>
   <tr>
     <td>Flaming Crush</td>
