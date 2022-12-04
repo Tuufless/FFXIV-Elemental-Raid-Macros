@@ -376,6 +376,12 @@ Note that DoTs will continue to tick even after the player has been imprisoned.
 </table>
 </details>
 <details markdown=block>
+<summary><b>[Fate Calibration β]</b> How did someone get hit with two J Jumps?</summary>
+<table>
+  <tr><td><p>This happens when either the Dark Beacon, or the Dark player with no tether forgets to go to the edge of the arena to bait the jump.</p><p>The Alexander clones target the furthest players from them to jump to- if either player forgets to bait this, then the Dark player with the blue tether (who is south) becomes the furthest player for <b>two</b> of the Alexanders.</p></td></tr>
+</table>
+</details>
+<details markdown=block>
 <summary><b>[Exatrines]</b> Why do we use the SW position instead of the center?</summary>
 <table>
   <tr><td><p>You <em>can</em> use the center, and some groups do. However, the center has two problems:<ul><li>Because the party is naturally south of the boss, someone calling out "center" <em>can</em> be misinterpreted as "center of the arena", or "center (from west-to-east)", which is the south position. Removing the center of the arena from play gets around this possibility.</li><li>If you use the center of the arena, there is a chance the party dodges from the center of the arena to the south position. As people's cameras may be facing north at that point (looking towards the boss), the pillar of light from the first set of Exatrines blocks the screen, making it harder to tell where to stop. By using the SW position, the movement now becomes lateral, so the light pillars are less likely to obstruct players' vision.</li></ul></p></td></tr>
