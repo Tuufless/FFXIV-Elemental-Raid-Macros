@@ -99,15 +99,15 @@ This is the major mechanic in Garuda, and is where the party will set Garuda up 
 	  <td><img src="../images/garuda/garuda_08.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>9.</b> Stack near the edge of the bubble:<ul><li><b>Inside:</b> ST, H1, H2, D3, D4</li><li><b>Outside:</b> MT, D1, D2</li></ul></p><p>When the ST enters the bubble, their Thermal Low stacks will be cleansed, dealing raid-wide damage, and giving Garuda her first stack of Aetherically Charged.</p></td>
+    <td><p><b>9.</b> Stack near the edge of the bubble:<ul><li><b>Inside:</b> MT, ST, H1, H2, D3, D4</li><li><b>Outside:</b> D1, D2</li></ul></p><p>When the ST enters the bubble, their Thermal Low stacks will be cleansed, dealing raid-wide damage, and giving Garuda her first stack of Aetherically Charged.</p></td>
 	<td><img src="../images/garuda/garuda_09.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>10.</b> The MT and ST joins D1 and D2 outside the bubble.</p><p>Garuda will cast Friction on a random player other than the MT. This will give all players that are hit one stack of Thermal Low; the players inside the bubble will have their stack immediately cleansed.</p><p><em>(Only the MT, ST, D1, D2 should now have 1 stack of Thermal Low.)</em></p></td>
+    <td><p><b>10.</b> The ST joins D1 and D2 outside the bubble.</p><p>Garuda will cast Friction on a random player. This will give all players that are hit one stack of Thermal Low; the players inside the bubble will have their stack immediately cleansed.</p><p><em>(Only the ST, D1, and D2 should now have 1 stack of Thermal Low.)</em></p></td>
 	<td><img src="../images/garuda/garuda_10.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>11.</b> Everybody exit the bubble. The MT can now split off from the group and point Garuda north.</p><p>Garuda will cast a second Friction on a random player other than the MT, giving all players a stack of Thermal Low.</p><p><em>(All players should have one stack of Thermal Low except the ST, D1, and D2 who have two stacks each.)</em></p></td>
+    <td><p><b>11.</b> Everybody exit the bubble and stack together outside.</p><p>Garuda will cast a second Friction on a random player, giving all players a stack of Thermal Low.</p><p><em>(All players should have one stack of Thermal Low except the ST, D1, and D2 who have two stacks each.)</em></p></td>
 	<td><img src="../images/garuda/garuda_11.jpg"></td>
   </tr>
   <tr>
