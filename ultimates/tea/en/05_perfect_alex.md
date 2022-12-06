@@ -65,9 +65,9 @@ This phase can be blocked out as follows:
 
 Perfect Alex will open the fight with "The Final Word", which splits the party into two teams- Light, and Dark.
 
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
 <details markdown=block>
 <summary><b>[Click to Expand] Light/Dark breakdown</b></summary>
-
 <table>
   <tr>
     <td><img src="../images/perfect_alex/debuffs/contact_regulation.png"></td>
@@ -89,6 +89,7 @@ Perfect Alex will open the fight with "The Final Word", which splits the party i
 
 Dark players need to pay attention to who the Dark Beacon is as they need to stay close to that player (so they don't stray too far), and on the correct side (so they don't get marched into the wall).
 </details>
+</div>
 
 While the Forced March timers tick down, Perfect Alexander will then cast *either* Ordained Stillness or Ordained Motion. Players should be in their Forced March positions before this cast finishes:
 
@@ -99,7 +100,9 @@ While the Forced March timers tick down, Perfect Alexander will then cast *eithe
   </tr>
 </table>
 
-**RESPECT STILLNESS**. It is a meme for a reason.
+<div style="background-color: #200 ; padding: 10px; border: 1px solid;">
+<b>RESPECT STILLNESS</b>. It is a meme for a reason.
+</div>
 
 If you are unable to make it all the way to your position, there will still be a little bit of time after Ordained Stillness/Motion resolves, and before the Forced March starts for you to adjust if needed.
 
@@ -134,8 +137,9 @@ The debuffs will appear in the same order as they resolve:
 
 All players will need to identify the debuffs based on their visual effects when they resolve.
 
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
 <details markdown=block>
-<summary><b>[Click to Expand] Debuff visuals</b></summary>
+<summary><b>[Click to Expand] Fate Calibration α debuffs</b></summary>
 <table>
   <tr>
     <td>
@@ -184,6 +188,7 @@ All players will need to identify the debuffs based on their visual effects when
   </tr>
 </table>
 </details>
+</div>
 
 When Fate Calibration α finishes its cast, Perfect Alexander will disappear and the mechanics that were telegraphed earlier by the clones will now resolve for real.
 
@@ -218,8 +223,9 @@ The debuffs will appear in the same order as they resolve:
 3. Collective/Individual Reprobation (stack/spread)
 4. Radiant Sacrament
 
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
 <details markdown=block>
-<summary><b>Debuff visuals</b></summary>
+<summary><b>[Click to expand] Fate Calibration β debuffs</b></summary>
 <table>
   <tr>
     <td><p><b>Light</b></p>
@@ -245,6 +251,7 @@ The debuffs will appear in the same order as they resolve:
   </tr>
 </table>
 </details>
+</div>
 
 It's not entirely obvious, but Fate Calibration β should be lightly mitigated prior to the forced march. Note that you will still need to plan mitigations for the upcoming Exatrines.
 
