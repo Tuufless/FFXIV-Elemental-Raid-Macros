@@ -162,7 +162,7 @@ All players will need to identify the debuffs based on their visual effects when
         <li>If a player is <b>in the middle</b> of a channeled ability like Meditate or Improvisation, it <b>does not</b> count as movement.</li>
       </ul>
     </p>
-    <p>Three players will get this.</p><p>You can either wiggle your character around, <em>or</em> continually jump up and down to trigger movement.<ul><li><b>Do not</b> wiggle around <em>and</em> jump, <em>especially</em> when near the edge of the arena in Fate Calibration α.</li></ul></p></td>
+    <p>Three players will get this.</p><p>You can either wiggle your character around, <em>or</em> continually jump up and down to trigger movement.</p><div style="background-color: #200 ; padding: 10px; border: 1px solid;"><b>Do not</b> wiggle around <b>and</b> jump, <em>especially</em> when near the edge of the arena.</div></td>
     <td><img src="../images/perfect_alex/fate_calibration_alpha/ordained_motion.jpg"></td>
   </tr>
   <tr>
