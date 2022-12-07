@@ -69,7 +69,7 @@ Notable changes are:
 	<td><img src="../images/living_liquid/living_liquid_13.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>14.</b> 1st telegraphed Protean Waves from the puddles.</p><p><ul><li>D1, D2: Prepare to bait the "west" and "east" puddles.</li><li>H1, H2, D3, D4: Move in to bait Living Liquid's Protean Waves after the puddle's telegraphs appear.</li></ul></p></td>
+    <td><p><b>14.</b> 1st telegraphed Protean Waves from the puddles.</p><p><ul><li>D1, D2: Prepare to bait the "west" and "east" puddles.</li><li>H1, H2, D3, D4: Move in to bait Living Liquid's Protean Waves after the puddle's telegraphs appear.</li></ul></p><p><em>(The East puddle's Protean Wave can be baited by either H2 or D4.)</em></p></td>
 	<td><img src="../images/living_liquid/living_liquid_14.jpg"></td>
   </tr>
   <tr>
