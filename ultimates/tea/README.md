@@ -22,6 +22,7 @@ permalink: /ultimates/tea/
 
 - [MT PoV (WAR)](https://youtu.be/uJVHsrhHsJ8)
 - [H1 PoV (WHM)](https://youtu.be/IqcxKunPY5Q)
+- [H2 PoV (SGE)](https://youtu.be/Q80yoHMcxhg)
 - [D3 PoV (DNC)](https://youtu.be/ToaYJdOdUcA)
 - [D4 PoV (RDM)](https://youtu.be/coE2xYyd23A)
 
