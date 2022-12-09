@@ -180,7 +180,7 @@ Remember that **all odd numbered players must face outside the arena and use Arm
 	<td><img src="../images/alex_prime/wormhole_10.jpg"></td>
   </tr>
   <tr>
-    <td><b>11.</b> Party stacks in the middle for Incinerating Heat (a loose stack to better see Enumeration targets helps).</td>
+    <td><p><b>11.</b> Party loosely stacks in the middle for Incinerating Heat.</p><p>The DPS should stand a little bit west/east of the center to make it easier to determine whether a swap is needed for the upcoming Enumeration.</p><ul><li><b>D1, D3:</b> Stack a little bit west.</li><li><b>D2, D4:</b> Stack a little bit east.</li></ul></td>
 	<td><img src="../images/alex_prime/wormhole_11.jpg"></td>
   </tr>
   <tr>
