@@ -10,7 +10,7 @@ permalink: /ultimates/tea/
 
 # The Epic of Alexander (Ultimate)
 
-**DISCLAIMER** - Since Elemental PF hasn't agreed on a TEA strat since Patch 5.1, I'm going to take the liberty of piecing one together myself. This is what I would do:
+Since Elemental PF hasn't agreed on a TEA strat since Patch 5.1, I'm going to take the liberty of piecing one together myself. This is what I would do:
 
 - [**Living Liquid**](en/01_living_liquid.md): Modified Separations (the "JP strat")
 - [**Limit Cut**](en/02_limit_cut.md): 1211 or 1256
@@ -25,6 +25,12 @@ permalink: /ultimates/tea/
 - [H2 PoV (SGE)](https://youtu.be/Q80yoHMcxhg)
 - [D3 PoV (DNC)](https://youtu.be/ToaYJdOdUcA)
 - [D4 PoV (RDM)](https://youtu.be/coE2xYyd23A)
+
+### Things to check
+
+- The Esuna priority for Living Liquid's Throttles (Esuna self first or not)
+- The Limit Cut strategy (1211 vs. 1256)
+- The Exatrine positions (center vs. SW marker)
 
 ### BiS Notes
 
