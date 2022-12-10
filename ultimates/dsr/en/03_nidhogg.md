@@ -39,7 +39,7 @@ Note that **at most**, only two pairs of arrows will appear. The following diagr
 <table>
   <tr>
     <td><p><b>1.</b> Numbers appear.</p><p>All players claim initial spots:<ul><li><b>1s + 3s:</b> One pair of each West, South, and East.</li><li><b>2s:</b> One NW, one NE.</li></ul></p><p>These will be your positions during Wyrmhole <b>if your numbered group does not get arrows</b>.</p></td>
-    <td><img src="../images/nidhogg/wyrmhole_01.jpg"></td>
+    <td><img src="../images/nidhogg/nidhogg_01.jpg"></td>
   </tr>
   <tr>
     <td><p><b>2.</b> Arrow debuffs appear.</p><p>If your numbered group contains arrows (Elusive/Spineshatter Dives), <b>the arrows override the claimed positions from the previous step.</b></p>
@@ -48,58 +48,58 @@ Note that **at most**, only two pairs of arrows will appear. The following diagr
       <li><b>No arrow</b> (High Jump Target): <b>South</b></li>
       <li><b>Down arrow</b> (Elusive Jump Target): <b>East</b></li></ul>
     These are now the final player positions for the Wyrmhole phase.</td>
-    <td><img src="../images/nidhogg/wyrmhole_02.jpg"></td>
+    <td><img src="../images/nidhogg/nidhogg_02.jpg"></td>
   </tr>
   <tr>
     <td><p><b>3.</b> First loop begins</p><ul><li><b>1s:</b> Place towers (face east if you have an arrow!)</li><li><b>2s:</b> Stack north</li><li><b>3s:</b> Stack north</li></ul></td>
-    <td><img src="../images/nidhogg/wyrmhole_03.jpg"></td>
+    <td><img src="../images/nidhogg/nidhogg_03.jpg"></td>
   </tr>
   <tr>
     <td><p><b>4.</b> First "Lash and Gnash" or "Gnash and Lash".</p><ul><li><b>1s:</b> Move north</li><li><b>3s:</b> Take towers while dodging in/out AoEs.</li></ul><p><em>(The diagram illustrates "Gnash and Lash")</em></p></td>
-    <td><img src="../images/nidhogg/wyrmhole_04.jpg"></td>
+    <td><img src="../images/nidhogg/nidhogg_04.jpg"></td>
   </tr>
   <tr>
     <td><p><b>5.</b> First "Lash and Gnash" or "Gnash and Lash" (cont'd).</p><ul><li><b>1s:</b> Move north</li><li><b>3s:</b> Take towers while dodging in/out AoEs.</li></ul></td>
-    <td><img src="../images/nidhogg/wyrmhole_05.jpg"></td>
+    <td><img src="../images/nidhogg/nidhogg_05.jpg"></td>
   </tr>
   <tr>
     <td><p><b>6.</b> Second set of towers.</p><ul><li><b>2s:</b> Place towers NW and NE (face east if you have an arrow!)</li><li><b>3s:</b> Bait Geirskoguls outside.</li></ul></td>
-    <td><img src="../images/nidhogg/wyrmhole_06.jpg"></td>
+    <td><img src="../images/nidhogg/nidhogg_06.jpg"></td>
   </tr>
   <tr>
     <td><p><b>7.</b> Second set of towers.</p><ul><li><b>1s (with arrows):</b> Take towers.</li><li><b>2s:</b> Return to the stack north.</li><li><b>3s:</b> Dodge Geirskoguls.</li></ul></td>
-    <td><img src="../images/nidhogg/wyrmhole_07.jpg"></td>
+    <td><img src="../images/nidhogg/nidhogg_07.jpg"></td>
   </tr>
   <tr>
     <td><p><b>8.</b> Second set of towers.</p><ul><li><b>1s:</b> Bait Geirskoguls outside.</li></ul></td>
-    <td><img src="../images/nidhogg/wyrmhole_08.jpg"></td>
+    <td><img src="../images/nidhogg/nidhogg_08.jpg"></td>
   </tr>
   <tr>
     <td><p><b>9.</b> Second loop.</p><ul><li><b>1s:</b> After baiting Geirskogul, <em>quickly</em> join the stack at north.</li><li><b>3s:</b> Place towers (face east if you have an arrow!).</li></ul></td>
-    <td><img src="../images/nidhogg/wyrmhole_09.jpg"></td>
+    <td><img src="../images/nidhogg/nidhogg_09.jpg"></td>
   </tr>
   <tr>
     <td><p><b>10.</b> Second "Lash and Gnash" or "Gnash and Lash".</p><ul>
     <li><b>1 (no arrow):</b> Take south tower while dodging in/out AoEs.</li><li><b>2s:</b> Take east/west towers while dodging in/out AoEs.</li><li><b>3s:</b> Move north.</li></ul><p><em>(The diagram illustrates "Lash and Gnash")</em></p></td>
-    <td><img src="../images/nidhogg/wyrmhole_10.jpg"></td>
+    <td><img src="../images/nidhogg/nidhogg_10.jpg"></td>
   </tr>
   <tr>
     <td><p><b>11.</b> Second "Lash and Gnash" or "Gnash and Lash" (cont'd).</p><ul>
     <li><b>1 (no arrow):</b> Take south tower while dodging in/out AoEs.</li><li><b>2s:</b> Take east/west towers while dodging in/out AoEs.</li><li><b>3s:</b> Move north.</li></ul></td>
-    <td><img src="../images/nidhogg/wyrmhole_11.jpg"></td>
+    <td><img src="../images/nidhogg/nidhogg_11.jpg"></td>
   </tr>
   <tr>
     <td><p><b>12.</b> Second set of towers.</p><ul><li><b>1s (no arrow):</b> Bait south Geirskogul outside.</li><li><b>2s:</b> Bait east/west Geirskoguls outside.</li></ul></td>
-    <td><img src="../images/nidhogg/wyrmhole_12.jpg"></td>
+    <td><img src="../images/nidhogg/nidhogg_12.jpg"></td>
   </tr>
   <tr>
     <td><p><b>13.</b> Second set of towers.</p><ul><li><b>1s (no arrow):</b> Dodge Geirskogul.</li><li><b>2s:</b> Dodge Geirskogul.</li></ul>
     <p>Nidhogg will also resume auto-attacking the MT at this point, so players will need to dodge that as well.</p></td>
-    <td><img src="../images/nidhogg/wyrmhole_13.jpg"></td>
+    <td><img src="../images/nidhogg/nidhogg_13.jpg"></td>
   </tr>
   <tr>
     <td><p><b>14.</b> Nidhogg will auto-attack the MT <b>twice</b> before turning to face a <b>random</b> party member and cast Drachenlance.</p><p>Dodge or outrange this, and prepare for 4x towers.</p></td>
-    <td><img src="../images/nidhogg/wyrmhole_14.jpg"></td>
+    <td><img src="../images/nidhogg/nidhogg_14.jpg"></td>
   </tr>
 </table>
 
