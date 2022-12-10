@@ -85,7 +85,7 @@ Notable changes are:
 	<td><img src="../images/living_liquid/living_liquid_17.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>18.</b> The Liquid Hand does a final Hand of Pain while Living Liquid Splashes six times before targeting the MT with Fluid Swing.</p><p>Living Liquid then becomes untargetable and casts Cascade, serving as the enrage.</p></td>
+    <td><p><b>18.</b> The Liquid Hand does a final Hand of Pain while Living Liquid Splashes six times before targeting the MT with Fluid Swing.</p><p>Living Liquid then casts one final Cascade, serving as the enrage.</p></td>
 	<td><img src="../images/living_liquid/living_liquid_18.jpg"></td>
   </tr>
 </table>
