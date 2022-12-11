@@ -350,23 +350,8 @@ The second half is a rehash of the first, with slightly different spins on the s
     <td>
       <p><b>3. Mortal Vow pass #3</b></p>
       <p>This pass goes from the ST to D1, <em>unless</em> D1 started with the first Mortal Vow, in which case ST passes to D2 instead.</p>
-      <p>Other players line up to prepare for Wyrmsbreath #2.</p>
     </td>
     <td><img src="../images/double_dragons/mortal_vow_04.jpg"></td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>4. Wyrmsbreath #2</b></p>
-      <p>This time, we <b>do not</b> want to stack opposite tethers.</p>
-      <ul>
-        <li><b>MT:</b> SW if you get the single-target tankbuster (by Nidhogg).</li>
-        <li><b>ST:</b> SE if you get the single-target tankbuster (by Hraesvelgr).</li>
-        <li><b>D3:</b> Go south, and <b>move towards a dragon whose mouth is glowing</b>.</li>
-        <li><b>All other non-tanks:</b> Spread out along the <b>north</b> edge.</li>
-      </ul>
-      <p><em>(In this example, Hraesvelgr's mouth is glowing).</em></p>
-    </td>
-    <td><img src="../images/double_dragons/wyrmsbreath_02.jpg"></td>
   </tr>
 </table>
 
@@ -399,6 +384,64 @@ Here are some other potential configurations to consider:
   </tr>
 </table>
 </details>
+
+## Wyrmsbreath 2
+
+This iteration of Wyrmsbreath is different because we **do not** want to stack opposite tethers.
+
+There are two main methods to resolve this.
+
+### Method 1: Fixed positions
+
+This method fixes all player positions (except for the tanks), greatly simplifying the mechanic.
+
+However, player positioning is precise, and depending on which dragon players are tethered to, they may take additional damage.
+
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li><b>MT:</b> NW if you get the single-target tankbuster (by Nidhogg).</li>
+        <li><b>ST:</b> SE if you get the single-target tankbuster (by Hraesvelgr).</li>
+      </ul>
+      <p><em>Tanks should use where the outer AoE intersects the boss's targeting circle as a reference point.</em></p>
+      <ul>
+        <li><b>H1:</b> As far true North as you can go.</li>
+        <li><b>H2:</b> As far true South as you can go.</li>
+      </ul>
+      <p><em>Be careful if a tank gets a single-target tankbuster, as you </em>may<em> be in range if poorly positioned.</em></p>
+      <ul>
+        <li><b>D1:</b> NW corner of the white tile beside Nidhogg.</li>
+        <li><b>D2:</b> Between the two white tiles besides Hraesvelgr.</li>
+        <li><b>D3:</b> 1/2 a tile east of the eastern "train track", as far north as you can go.</li>
+        <li><b>D4:</b> 1/2 a tile west of the western "train track", as far south as you can go.</li>
+      </ul>
+      <p><em>Depending on which dragon you are tethered to, your tether <b>may not stretch fully</b>. Use personal mitigations to help survive.</em></p>
+    </td>
+    <td><img src="../images/double_dragons/fixed_wyrmsbreath2.jpg"><a href="../images/double_dragons/fixed_wyrmsbreath2.jpg"><em>(Full-sized image)</em></a></td>
+  </tr>
+</table>
+
+### Method 2: Spread tethers 5 North, 1 South (5-1)
+
+This method has one player go south to give additional space for the other five non-tanks to spread out along the North edge.
+
+All tethers can be fully stretched, however, players will need to adjust their positioning on the fly.
+
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li><b>MT:</b> SW if you get the single-target tankbuster (by Nidhogg).</li>
+        <li><b>ST:</b> SE if you get the single-target tankbuster (by Hraesvelgr).</li>
+        <li><b>D3:</b> Go south, and <b>move towards a dragon whose mouth is glowing</b>.</li>
+        <li><b>All other non-tanks:</b> Spread out along the <b>north</b> edge.</li>
+      </ul>
+      <p><em>(In this example, Hraesvelgr's mouth is glowing).</em></p>
+    </td>
+    <td><img src="../images/double_dragons/wyrmsbreath_02.jpg"></td>
+  </tr>
+</table>
 
 ## Cauterize
 
