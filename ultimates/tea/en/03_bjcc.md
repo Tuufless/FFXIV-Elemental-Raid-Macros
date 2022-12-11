@@ -27,7 +27,7 @@ Tanks should try to have minor cooldowns available for the Lightning passes.
 
 <table>
   <tr>
-    <td><p><b>1.</b> Initial positions.</p><p><ul><li><b>MT</b>: Take Cruise Chaser.</li><li><b>ST</b>: Take Brute Justice.</li></ul></p></td>
+    <td><p><b>1.</b> Initial positions.</p><p><ul><li><b>MT</b>: Take Cruise Chaser.</li><li><b>ST</b>: Take Brute Justice.</li></ul></p><p><em>(Note the MT and ST starting positions are swapped from the usual convention. The bosses each tank takes spawns on their respective starting side.)</em></p></td>
 	<td><img src="../images/bjcc/bjcc_01.jpg"></td>
   </tr>
   <tr>
@@ -35,7 +35,7 @@ Tanks should try to have minor cooldowns available for the Lightning passes.
 	<td><img src="../images/bjcc/bjcc_02.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>3.</b> When the Chakrams go off (Cruise Chaser casts Optical Sight at the same time), all players move back to the center.</p><p>The tanks will need to swap sides.</p><p><ul><li><b>ST</b>: Enter the inner circle first, but yield to allow the <b>MT</b> to pass.</li></ul></p></td>
+    <td><p><b>3.</b> When the Chakrams go off, Cruise Chaser will cast Optical Sight, targeting large baited AoEs on all players current positions.</p><p>All players move back to the center.</p><p>The tanks will swap sides.</p><p><ul><li><b>ST</b>: Enter the inner circle first, but yield to allow the <b>MT</b> to pass.</li></ul></p></td>
 	<td><img src="../images/bjcc/bjcc_03.jpg"></td>
   </tr>
   <tr>
