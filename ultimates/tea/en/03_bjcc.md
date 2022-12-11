@@ -38,7 +38,7 @@ Tanks should try to have minor cooldowns available for the Lightning passes.
 <table>
   <tr>
     <td><img src="../images/bjcc/debuffs/compressed_water.png"></td>
-    <td><p><b>Compressed Water</b></p><ul><li>Starts on a <b>random healer</b>.</li><li>The more players that are hit, the less damage each player takes.</li><li>At least three players should share the Water stack damage.</li></ul></td>
+    <td><p><b>Compressed Water</b></p><ul><li>Starts on a <b>random healer</b>.</li><li>The more players that are hit, the less damage each player takes.</li><li>At least three players should share the Water stack damage.</li><li>A waterspout will also spawn where the debuffed player was standing.<ul><li>Players that move too near this waterspout will be instantly killed.</li><li>The waterspout must either be frozen with Brute Justice's Ice, or destroyed with fire from Brute Justice's Flarethrower. Failing to do so will wipe the raid.</li></ul></li></ul></td>
   </tr>
   <tr>
     <td><img src="../images/bjcc/debuffs/compressed_lightning.png"></td>
@@ -180,7 +180,7 @@ Tanks should try to have minor cooldowns available for the Lightning passes.
 	<td><img src="../images/bjcc/bjcc_16.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>17.</b> Cruise Chaser casts Propeller Wind.</p><p><ul><li><b>MT</b>: Join the Nisi lineup.</li></ul></p></td>
+    <td><p><b>17.</b> Cruise Chaser casts Propeller Wind.</p><p>Players must use the frozen Ice to block line-of-sight to Cruise Chaser, or they will become confused and run around uncontrollably.</p><p><ul><li><b>MT</b>: Join the Nisi lineup.</li></ul></p></td>
 	<td><img src="../images/bjcc/bjcc_17.jpg"></td>
   </tr>
   <tr>
