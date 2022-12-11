@@ -23,6 +23,67 @@ Tanks should try to have minor cooldowns available for the Lightning passes.
   </tr>
 </table>
 
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+<details markdown=block>
+<summary><b>[Click to Expand] Water/Thunder and Nisi breakdown</b></summary>
+<p>This phase contains two "hot potato" loops that the party must handle simultaneously.</p>
+<p><b>Loop 1: Water/Thunder:</b></p>
+<p>These are two 30-second debuffs that are applied on two players when Brute Justice casts Link-up.</p><p>When the timer expires, the debuff explodes in a shared-damage AoE, centered on the affected player.</p>
+<ul>
+  <li>If the player with the debuff ever dies, the debuff explodes and wipe the raid.</li>
+  <li>After the explosion, the debuff transfers to a random player that was hit.</li>
+  <li>If the debuff cannot be passed to a new player this way (e.g: nobody else was hit), it explodes and wipes the raid.</li>
+  <li>The player that originally had the debuff gets an elemental resistance down debuff, so they <em>cannot</em> participate in two stacks of the same element in a row.</li>
+</ul>
+<table>
+  <tr>
+    <td><img src="../images/bjcc/debuffs/compressed_water.png"></td>
+    <td><p><b>Compressed Water</b></p><ul><li>Starts on a <b>random healer</b>.</li><li>The more players that are hit, the less damage each player takes.</li><li>At least three players should share the Water stack damage.</li></ul></td>
+  </tr>
+  <tr>
+    <td><img src="../images/bjcc/debuffs/compressed_lightning.png"></td>
+    <td><p><b>Compressed Lightning</b></p><ul><li>Starts on a <b>random DPS</b>.</li><li>The more players that are hit, the <b>more damage</b> each player takes.</li><li>For this reason, we want <b>exactly two players</b> in each Thunder stack <em>(the person with the Thunder debuff, and the person we want to pass it to.)</em>.</li></ul></td>
+  </tr>
+</table>
+<p><b>Loop 2: Nisi:</b></p>
+<p>These are DoTs that are applied on either all the DPS, or all the tanks and healers when Brute Justice casts Judgment Nisi.</p>
+<table>
+  <tr>
+    <td>
+      <img src="../images/bjcc/debuffs/final_decree_nisi_alpha.png">
+      <img src="../images/bjcc/debuffs/final_decree_nisi_beta.png">
+      <img src="../images/bjcc/debuffs/final_decree_nisi_gamma.png">
+      <img src="../images/bjcc/debuffs/final_decree_nisi_delta.png">
+    </td>
+    <td><p><b>Final Decree Nisi αβγδ</b></p>
+      <ul>
+        <li>If a player with Nisi touches a player without Nisi, the player without Nisi gains a fresh copy of the Nisi they just touched.</li>
+        <li>If two players with <b>different coloured</b> Nisis touch each other, they are instantly killed.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+<p>During the fight, Brute Justice will cast Verdict, which sets up for a checkpoint later in the phase when it casts Gavel.</p><p>When Verdict is cast, it applies the following additional debuffs on all players:</p>
+<table>
+  <tr>
+    <td>
+      <img src="../images/bjcc/debuffs/final_judgment_decree_nisi_alpha.png">
+      <img src="../images/bjcc/debuffs/final_judgment_decree_nisi_beta.png">
+      <img src="../images/bjcc/debuffs/final_judgment_decree_nisi_gamma.png">
+      <img src="../images/bjcc/debuffs/final_judgment_decree_nisi_delta.png">
+    </td>
+    <td><p><b>Final Judgment Decree Nisi αβγδ</b></p>
+      <ul>
+        <li>Each Final Judgment Decree Nisi debuff goes onto two players- one tank/healer, and one DPS.</li>
+        <li>Each player <b>must have the corresponding Nisi debuff</b> on them when Gavel finishes its cast, or the raid wipes.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+<p>The party must essentially keep both debuff loops going, passing Water, Thunder, and all Nisis around until Brute Justice casts Gavel, which removes all the debuffs.</p>
+</details>
+</div>
+
 ## Movement
 
 <table>
