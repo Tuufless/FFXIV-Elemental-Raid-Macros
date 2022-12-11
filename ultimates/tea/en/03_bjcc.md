@@ -172,7 +172,7 @@ Tanks should try to have minor cooldowns available for the Lightning passes.
 	<td><img src="../images/bjcc/bjcc_14.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>15. Third Water + Lightning pass</b>.</p><p><ul><li>Water: All DPS (except 2nd Water) + H2</li><li>Thunder: MT → H1</li></ul></p><p><ul><li><b>MT</b>: Face Cruise Chaser west after receiving Thunder.</li></ul></p></td>
+    <td><p><b>15. Third Water + Lightning pass</b>.</p><p><ul><li>Water: All DPS (except 2nd Water) + H2</li><li>Thunder: MT → H1</li></ul></p></td>
 	<td><img src="../images/bjcc/bjcc_15.jpg"></td>
   </tr>
   <tr>
