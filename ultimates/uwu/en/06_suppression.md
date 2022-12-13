@@ -97,3 +97,12 @@ This phase is pushed when Ultima Weapon's HP drops below 50%.
 	<td><img src="../images/suppression/suppression_18.jpg"></td>
   </tr>
 </table>
+
+## Frequently Asked Questions
+
+<details markdown=block>
+<summary><b>[Feather Lance]</b> What causes the feathers to converge in on the party?</summary>
+<table>
+  <tr><td><p>This is actually a Woken Garuda mechanic that you can see in P1 if you cleanse <em>three sets</em> of Thermal Low stacks during the Spiny Plume's bubble instead of two.</p><p>The feathers will all home in on party members, killing them- the way to prevent this is to knock them out of the air by cleansing and triggering a Thermal Low (by taking Garuda's tether).</p></td></tr>
+</table>
+</details>
