@@ -458,7 +458,7 @@ The reason why we did not stack opposite tethers in Wyrmsbreath #2 was because w
         <li><b>Players with the Fire debuff:</b> Stand in front of Hraesvelgr.</li>
         <li><b>Players with the Ice debuff:</b> Stand in front of Nidhogg.</li>
       </ul>
-      <p><b>Do not move</b> once Nidhogg's debuff turns into Pyretic, or Hraesvelgr's Cauterize will kill you and enrage.</p>
+      <p><b>Do not move</b> once Nidhogg's debuff turns into Pyretic, or Hraesvelgr's Cauterize will kill you and enrage.</p><p>If you moved and took Pyretic damage, quickly switch over to Nidhogg's side to avoid getting killed by Hraesvelgr.</p>
     </td>
     <td><img src="../images/double_dragons/cauterize_01.jpg"></td>
   </tr>
