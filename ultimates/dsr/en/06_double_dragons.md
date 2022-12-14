@@ -42,7 +42,7 @@ If you are already familiar with the Double Dragons phase, and just need a quick
     <td><b>Wyrmsbreath #2</b></td>
     <td>
       <ul>
-        <li>5-1, D3 south</li>
+        <li>Fixed positions <b>or</b> 5-1 with D3 south</li>
       </ul>
     </td>
   </tr>

@@ -17,7 +17,7 @@ Elemental's DSR PF strat is still evolving. Use the following macros as a base t
 - [**Nidhogg**](en/03_nidhogg.md): Easthogg
 - [**Eyes**](en/04_eyes.md): T/H red, DPS blue
 - [**Alternate Timeline Thordan**](en/05_alternate_thordan.md): 2-2 Dooms North, Anchored Dooms
-- [**Double Dragons**](en/06_double_dragons.md): △, DTTMR, 5-1
+- [**Double Dragons**](en/06_double_dragons.md): △, DTTMR, Fixed WB2 *or* 5-1 WB2s
 - [**Dragonking Thordan**](en/07_dragonking_thordan.md): All 3-3-2
 
 ### BiS Notes
