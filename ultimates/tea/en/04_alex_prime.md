@@ -180,12 +180,12 @@ Remember that **all odd numbered players must face outside the arena and use Arm
 	<td><img src="../images/alex_prime/wormhole_10.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>11.</b> Party loosely stacks in the middle for Incinerating Heat.</p><p>The DPS should stand a little bit west/east of the center to make it easier to determine whether a swap is needed for the upcoming Enumeration.</p><ul><li><b>D1, D3:</b> Stack a little bit west.</li><li><b>D2, D4:</b> Stack a little bit east.</li></ul></td>
+    <td><p><b>11.</b> Party makes three groups near each other in the middle for Incinerating Heat- far enough that it is easy to identify whether a swap is needed for Enumeration, but close enough for all party members to split the Incinerating Heat damage.</p><ul><li><b>D1, D3:</b> Stack a little bit west.</li><li><b>Tanks + Healers:</b> Stack together in the center.</li><li><b>D2, D4:</b> Stack a little bit east.</li></ul></td>
 	<td><img src="../images/alex_prime/wormhole_11.jpg"></td>
   </tr>
   <tr>
     <td><p><b>12.</b> Resolve Enumeration the same way as Brute Justice + Cruise Chaser.</p>
-    <ul><li><b>H1</b>, <b>D3</b>: Always west Enumeration.</li><li><b>H2</b>, <b>D4</b>: Always east Enumeration.</li><li><b>D1</b>: West Enumeration unless a swap is needed.</li><li><b>D2</b>: East Enumeration unless a swap is needed.</li></ul>If either side has both Enumerations (or equivalently, no Enumerations), <b>D1</b> and <b>D2</b> swap sides.</td>
+    <ul><li><b>MT</b>, <b>ST</b>: Outside Enumerations.</li><li><b>H1</b>, <b>D3</b>: Always west Enumeration.</li><li><b>H2</b>, <b>D4</b>: Always east Enumeration.</li><li><b>D1</b>: West Enumeration unless a swap is needed.</li><li><b>D2</b>: East Enumeration unless a swap is needed.</li></ul>If either side has both Enumerations (or equivalently, no Enumerations), <b>D1</b> and <b>D2</b> swap sides.</td>
 	<td><img src="../images/alex_prime/wormhole_12.jpg"></td>
   </tr>
 </table>
