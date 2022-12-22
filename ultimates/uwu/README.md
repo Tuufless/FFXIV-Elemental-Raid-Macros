@@ -85,5 +85,7 @@ By executing a mechanic in a particular (generally harder) manner, the boss will
 
 When a boss gets four stacks of "Aetherically Charged", they become "Woken", which does the following:
 
-* When defeated, a woken boss will leave behind a light puddle that will give a player the "Beyond Limits" buff. This buff is **required** to clear the transition to Ultima Weapon.
 * Certain attacks are changed or modified when the boss is woken.
+* When defeated, a woken boss will leave behind a light puddle that will give a player a "Beyond Limits" buff when stepped on.
+* When a player with "Beyond Limits" uses an LB3, the buff will be consumed and the LB gauge refilled to LB3.
+* A caster, a healer, and a melee **must** have this buff to clear the transition to Ultima Weapon.
