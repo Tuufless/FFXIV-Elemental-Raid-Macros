@@ -111,8 +111,8 @@ My preferred strat is an upside-down version of the "Komazou" strat, which split
       <ul>
         <li>Doomed players step towards Ser Guerrique to make a line of four.</li>
         <li>Non-Doomed players step away from Ser Guerrique to make a line of four.</li>
-        <li>Establish your order within your line.</li>
       </ul>
+      <p>This step forward/back is to help the players in the center identify their order within each Doom vs. non-Doom group.</p>
     </td>
     <td><img src="../images/alternate_thordan/death_of_the_heavens_02.jpg"></td>
   </tr>
