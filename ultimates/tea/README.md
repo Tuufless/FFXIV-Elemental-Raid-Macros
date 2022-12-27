@@ -47,6 +47,12 @@ Since Elemental PF hasn't agreed on a TEA strat since Patch 5.1, I'm going to ta
 {% include_relative macros/tea.en.txt %}
 ```
 
+## Japanese
+
+```
+{% include_relative macros/tea.jp.txt %}
+```
+
 ## Markers
 
 - `ABCD` are for orientation
