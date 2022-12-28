@@ -29,6 +29,7 @@ The various phases can be broken down as follows:
 
 - Any gear at or above **i500** will have their substats capped.
 - Relic weapons will have their substats capped at **136**.
+- The lowest potions you can use and still get maximum benefits are **HQ Grade 4 Tinctures**.
 
 ## Things to note
 

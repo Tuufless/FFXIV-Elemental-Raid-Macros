@@ -19,6 +19,7 @@ PF largely follows [Clees' UCoB guide](http://clees.me/guides/ucob/) with a few 
 
 - Any gear at or above **i470** will have their substats capped.
 - Relic weapons will have their substats capped at **127**.
+- The lowest potions you can use and still get maximum benefits are **HQ Grade 3 Tinctures**.
 
 ## English
 
