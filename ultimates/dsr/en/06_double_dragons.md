@@ -435,7 +435,7 @@ All tethers can be fully stretched, however, players will need to adjust their p
         <li><b>MT:</b> SW if you get the single-target tankbuster (by Nidhogg).</li>
         <li><b>ST:</b> SE if you get the single-target tankbuster (by Hraesvelgr).</li>
         <li><b>D3:</b> Go south, and <b>move towards a dragon whose mouth is glowing</b>.</li>
-        <li><b>All other non-tanks:</b> Spread out along the <b>north</b> edge.</li>
+        <li><b>All other players:</b> Spread out along the <b>north</b> edge.<ul><li>The north position should go to a <b>healer or caster</b> that is in the group with 3 tethers.</li></ul></li>
       </ul>
       <p><em>(In this example, Hraesvelgr's mouth is glowing).</em></p>
     </td>

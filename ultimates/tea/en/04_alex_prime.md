@@ -180,12 +180,12 @@ Remember that **all odd numbered players must face outside the arena and use Arm
 	<td><img src="../images/alex_prime/wormhole_10.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>11.</b> Party loosely stacks in the middle for Incinerating Heat.</p><p>The DPS should stand a little bit west/east of the center to make it easier to determine whether a swap is needed for the upcoming Enumeration.</p><ul><li><b>D1, D3:</b> Stack a little bit west.</li><li><b>D2, D4:</b> Stack a little bit east.</li></ul></td>
+    <td><p><b>11.</b> Party makes three groups near each other in the middle for Incinerating Heat- far enough that it is easy to identify whether a swap is needed for Enumeration, but close enough for all party members to split the Incinerating Heat damage.</p><ul><li><b>D1, D3:</b> Stack a little bit west.</li><li><b>Tanks + Healers:</b> Stack together in the center.</li><li><b>D2, D4:</b> Stack a little bit east.</li></ul></td>
 	<td><img src="../images/alex_prime/wormhole_11.jpg"></td>
   </tr>
   <tr>
     <td><p><b>12.</b> Resolve Enumeration the same way as Brute Justice + Cruise Chaser.</p>
-    <ul><li><b>H1</b>, <b>D3</b>: Always west Enumeration.</li><li><b>H2</b>, <b>D4</b>: Always east Enumeration.</li><li><b>D1</b>: West Enumeration unless a swap is needed.</li><li><b>D2</b>: East Enumeration unless a swap is needed.</li></ul>If either side has both Enumerations (or equivalently, no Enumerations), <b>D1</b> and <b>D2</b> swap sides.</td>
+    <ul><li><b>MT</b>, <b>ST</b>: Outside Enumerations.</li><li><b>H1</b>, <b>D3</b>: Always west Enumeration.</li><li><b>H2</b>, <b>D4</b>: Always east Enumeration.</li><li><b>D1</b>: West Enumeration unless a swap is needed.</li><li><b>D2</b>: East Enumeration unless a swap is needed.</li></ul>If either side has both Enumerations (or equivalently, no Enumerations), <b>D1</b> and <b>D2</b> swap sides.</td>
 	<td><img src="../images/alex_prime/wormhole_12.jpg"></td>
   </tr>
 </table>
@@ -309,6 +309,61 @@ The party then proceeds onto Perfect Alexander.
 <details markdown=block>
 <summary><b>[Enumeration]</b> Why don't we group both tanks with one Enumeration target, and both healers with the other Enumeration target?</summary>
 <table>
-  <tr><td><p>Although that configuration looks simple, there are a few steps involved:<ul><li>All DPS need to identify whether they are an Enumeration target.</li><li>The two (random) Enumeration targets need to figure out their priority between themselves (one west, one east).</li><li>The two (random) non-Enumeration DPS then need to move out of the way.</li></ul></p><p>By keeping the same Enumeration strat from BJCC (where D1 and D2 swap if needed), we:<ul><li>Maintain consistency between both phases.</li><li>Fix who stays out of the Enumerations (the tanks are <em>never</em> in Enumeration).</li><li>Only two DPS need to pay attention (D1 and D2) instead of all four.</li><li>There is just a cue to swap (both Enumerations on one side), instead of following a priority system.</li></ul></p></td></tr>
+  <tr><td>
+    <p>Let's call the earlier BJCC strat the "melee-swap" and the proposed alternative "TTD/HHD".</p>
+    <p>With each strat, the party splits up as follows after Incinerating Heat:
+    <table>
+      <tr>
+        <td><b>Melee-swap</b></td>
+        <td><b>TTD/HHD</b></td>
+      </tr>
+      <tr>
+        <td>MTST out, H1D1D3 west, H2D2D4 east</td>
+        <td>MTSTD1D2 west, H1H2D3D4 east</td>
+      </tr>
+    </table>
+    </p>
+    <p>The problem with Enumeration largely stems from two things:
+      <ol>
+        <li>The party is tightly stacked together for Incinerating Heat</li>
+        <li>The only way to see who is targeted with Enumeration is to look at the characters- there is no debuff icon on the party list.</li>
+      </ol>
+    </p>
+    <p>Although the TTD/HHD strat looks simple, there are a few steps involved:
+      <ul>
+        <li>All DPS need to identify whether they are an Enumeration target.</li>
+        <li>The two (random) Enumeration targets need to figure out their priority between themselves (one west, one east).</li>
+        <li>The two (random) non-Enumeration DPS then need to move out of the way.</li>
+      </ul>
+    </p>
+    <p>By keeping the same melee-swap Enumeration strat from BJCC, we:
+      <ul>
+        <li>Maintain consistency between both phases.</li>
+        <li>Fix who stays out of the Enumerations (the tanks are <em>never</em> in Enumeration).</li>
+        <li>Only two DPS need to pay attention (D1 and D2) instead of all four.</li>
+        <li>There is just a cue to swap (both Enumerations on one side), instead of following a priority system.</li>
+      </ul>
+    </p>
+    <p>To elaborate further, consider what happens when the party splits right after Incinerating Heat to resolve Enumeration. Assuming the DPS split up 2-2, there are two possible outcomes:
+      <table>
+        <tr>
+          <td></td>
+          <td><b>Melee-swap</b></td>
+          <td><b>TTD/HHD</b></td>
+        </tr>
+        <tr>
+          <td><p><b>Each side has one Enumeration</b></p><p><em>(2/3 cases)</em></p></td>
+          <td>Enumeration is trivially solved (each group already has three members.)</td>
+          <td><p>Each group has four members.</p><p>The two DPS on each side need to determine which one of them does not have Enumeration and leave the group (two players move, but all four DPS potentially have to move).</p></td>
+        </tr>
+        <tr>
+          <td><p><b>Both Enumerations are on the same side</b></p><p><em>(1/3 cases)</em></p></td>
+          <td>D1 and D2 swap groups (two players move).</td>
+          <td><p>One DPS from the side with two Enumerations has to swap to the other side (presumably D2 or D3).</p><p>Both DPS from the side with no Enumerations has to leave the group (three players move, but all four DPS potentially have to move.)</p></td>
+        </tr>
+      </table>
+      Without knowing what the Enumeration split will be ahead of time, only two players potentially have to adjust with the melee-swap strat 1/3 of the time, while at least two DPS are guaranteed to adjust (with all four DPS potentially having to adjust) with the TTD/HHD strat <em>all</em> the time, leading to more points of error.
+    </p>
+  </td></tr>
 </table>
 </details>

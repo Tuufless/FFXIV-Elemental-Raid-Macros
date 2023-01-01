@@ -111,8 +111,8 @@ My preferred strat is an upside-down version of the "Komazou" strat, which split
       <ul>
         <li>Doomed players step towards Ser Guerrique to make a line of four.</li>
         <li>Non-Doomed players step away from Ser Guerrique to make a line of four.</li>
-        <li>Establish your order within your line.</li>
       </ul>
+      <p>This step forward/back is to help the players in the center identify their order within each Doom vs. non-Doom group.</p>
     </td>
     <td><img src="../images/alternate_thordan/death_of_the_heavens_02.jpg"></td>
   </tr>
@@ -196,5 +196,11 @@ My preferred strat is an upside-down version of the "Komazou" strat, which split
 <summary><b>[Death of the Heavens]</b> Is there a pattern to how the Dooms are assigned?</summary>
 <table>
   <tr><td><p>Unfortunately not- who gets the Dooms are completely random.</p><p>Here's an example where all four tank/healers get Doom.</p></td><td><img src="../images/alternate_thordan/doth_debuffs.jpg"></td></tr>
+</table>
+</details>
+<details markdown=block>
+<summary><b>[Thordan]</b> What happens if you kill Thordan in this phase?</summary>
+<table>
+  <tr><td><p>At the end of the next phase with Nidhogg and Hraesvelgr, Nidhogg's eyes threaten to take over Estinien again.</p><p>If Thordan was spared at the end of this phase, this is where Thordan jumps in to take the eyes and become Dragonking Thordan.</p><p>However, if you kill Thordan in this alternate timeline, Thordan isn't around to take the eyes and the party returns to a repeat of the Eyes phase except this time, Haurchefant isn't dead and the party is now missing Huarchefant's buff needed to damage the blue eye.</p><blockquote class="twitter-tweet"><p lang="ja" dir="ltr">もしも最後のトールダンを生かさず倒したらルート <a href="https://t.co/KSCL1DuGH7">pic.twitter.com/KSCL1DuGH7</a></p>&mdash; たかぱすと (@takapast) <a href="https://twitter.com/takapast/status/1522008634158649345?ref_src=twsrc%5Etfw">May 5, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td></tr>
 </table>
 </details>

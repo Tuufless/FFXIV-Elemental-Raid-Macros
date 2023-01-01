@@ -37,6 +37,7 @@ Since Elemental PF hasn't agreed on a TEA strat since Patch 5.1, I'm going to ta
 
 - Any gear at or above **i595** will have their substats capped.
 - Relic weapons will have their substats capped at **184**.
+- The lowest potions you can use and still get maximum benefits are **HQ Grade 6 Tinctures**.
 
 ![](images/tea_cheatsheet.jpg)
 *(Shortened link: [https://cutt.ly/EleDC_TEA_summary](images/tea_cheatsheet.jpg))*
@@ -45,6 +46,12 @@ Since Elemental PF hasn't agreed on a TEA strat since Patch 5.1, I'm going to ta
 
 ```
 {% include_relative macros/tea.en.txt %}
+```
+
+## Japanese
+
+```
+{% include_relative macros/tea.jp.txt %}
 ```
 
 ## Markers
