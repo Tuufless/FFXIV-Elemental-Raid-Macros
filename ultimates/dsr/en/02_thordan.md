@@ -359,3 +359,12 @@ Since there are many Meteor configurations, here are a couple additional scenari
   </tr>
 </table>
 </details>
+
+## Frequently Asked Questions
+
+<details markdown=block>
+<summary><b>[Sanctity of the Ward]</b> Why is there a need for a role swap? Aren't there simpler strategies?</summary>
+<table>
+  <tr><td><p>We do a role swap because we want each group to have:<ol><li>One healer</li><li>Four players</li></ol>This minimises the damage each group takes, while still being able to heal in between the two Sacred Severs each group takes.</p><p>You <em>can</em> use other strats under <em>certain</em> conditions (e.g: an AST's Macrocosmos lets you do pretty much any strat you want), but this unfortunately doesn't generalise to PF.</p></td></tr>
+</table>
+</details>
