@@ -9,6 +9,10 @@ permalink: /3.0_heavensward/extreme_trials/sophia/
 
 # Containment Bay P1T6 (Extreme)
 
+## Things to check
+
+- Check the Sin and Punishment spread positions.
+
 ## Japanese
 ```
 {% include_relative macros/sophia.jp.txt %}
