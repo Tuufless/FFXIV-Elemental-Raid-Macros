@@ -54,7 +54,7 @@ The following is my interpretation of Game8's macro, with some parts edited to f
 </details>
 
 ## Timeline
-![](https://preview.redd.it/vihvci9rewm91.png?width=1774&format=png&auto=webp&s=82d069cff2ce2a902fa52a1ff23a47310359eb37)
+![](https://preview.redd.it/56gvxngdqj6a1.png?width=1780&format=png&auto=webp&s=1ca2a01ee6f82e07ba3ba679088f7cd0861e15db)
 *(Credit: [u/ExiaKuromonji](https://www.reddit.com/r/ffxiv/comments/xa6me7/p8s_part_2_timeline/))*
 
 ## Nukemaru's Natural Alignment
