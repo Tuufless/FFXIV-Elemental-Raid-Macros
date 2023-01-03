@@ -1,7 +1,6 @@
 ■罪と罰
-　　　 (front/前)
-　　　　 MT/D1
-H1/D2 　BOSS　H2/D3
+　　　　MT/D3
+　H1/D1　▲　H2/D2
 　　　　 ST/D4
 ■雑魚：2→3(ST)→1(MT)
 　　　　直線範囲は1人受け
