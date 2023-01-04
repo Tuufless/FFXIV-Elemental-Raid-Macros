@@ -9,9 +9,16 @@ permalink: /3.0_heavensward/extreme_trials/sophia/
 
 # Containment Bay P1T6 (Extreme)
 
+An up-to-date reference would be Nukemaru's guide:
+
+{% include youtube.html id="WsiSU759ff8" %}
+
 ## Things to check
 
 - Check the Sin and Punishment spread positions.
+- Check which tank takes which add.
+
+*(These two points are different from older macros.)*
 
 ## Japanese
 ```
@@ -25,7 +32,7 @@ permalink: /3.0_heavensward/extreme_trials/sophia/
 
 ## Markers
 
-The `ABCD` markers are for orientation.
+The `1234` markers mark the boundary for the "weak" knockback.
 
 The `A` marker is used as a gathering point to bait falloff AoEs during second Quasar.
 
@@ -34,13 +41,14 @@ The `A` marker is used as a gathering point to bait falloff AoEs during second Q
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
 ```json
-{"Name":"Sophia EX","MapID":184,"A":{"X":16.863,"Y":0.0,"Z":-12.567,"ID":0,"Active":true},"B":{"X":16.863,"Y":0.0,"Z":12.567,"ID":1,"Active":true},"C":{"X":-16.863,"Y":0.0,"Z":12.567,"ID":2,"Active":true},"D":{"X":-16.863,"Y":0.0,"Z":-12.567,"ID":3,"Active":true},"One":{"X":0.0,"Y":0.0,"Z":0.0,"ID":4,"Active":false},"Two":{"X":0.0,"Y":0.0,"Z":0.0,"ID":5,"Active":false},"Three":{"X":0.0,"Y":0.0,"Z":0.0,"ID":6,"Active":false},"Four":{"X":0.0,"Y":0.0,"Z":0.0,"ID":7,"Active":false}}
+{"Name":"Sophia EX","MapID":184,"A":{"X":18.4,"Y":0.0,"Z":-13.3,"ID":0,"Active":true},"B":{"X":0.0,"Y":0.0,"Z":0.0,"ID":1,"Active":false},"C":{"X":0.0,"Y":0.0,"Z":0.0,"ID":2,"Active":false},"D":{"X":0.0,"Y":0.0,"Z":0.0,"ID":3,"Active":false},"One":{"X":9.3,"Y":0.0,"Z":-9.3,"ID":4,"Active":true},"Two":{"X":9.3,"Y":0.0,"Z":9.3,"ID":5,"Active":true},"Three":{"X":-9.3,"Y":0.0,"Z":9.3,"ID":6,"Active":true},"Four":{"X":-9.3,"Y":0.0,"Z":-9.3,"ID":7,"Active":true}}
 ```
 
 </details>
 
 ## Equilibrium Tilts
 
-- Always dodge to the side opposite the blue Meteor
+- Always move to the side with more tethers.
+    - If the number of tethers on both sides are equal, move opposite the blue Meteor.
 - If the total number of meteors/tethers is **even**, go all the way to the edge.
 - If the total number of meteors/tethers is **odd**, stop around 1/4 of the way to the edge.
