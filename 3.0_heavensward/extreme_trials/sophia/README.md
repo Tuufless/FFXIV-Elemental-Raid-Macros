@@ -12,6 +12,7 @@ permalink: /3.0_heavensward/extreme_trials/sophia/
 An up-to-date reference would be Nukemaru's guide:
 
 {% include youtube.html id="WsiSU759ff8" %}
+*(English subtitled)*
 
 ## Things to check
 
