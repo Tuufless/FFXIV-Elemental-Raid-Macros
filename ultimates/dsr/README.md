@@ -23,7 +23,7 @@ Elemental's DSR PF strat is still evolving. Use the following macros as a base t
 ### BiS Notes
 
 - Dragonsong's Reprise is the current Ultimate, and is **not** outgeared yet.
-    - Use your **i600** BiS.
+    - BiS will be a mix of i600 gear, and i605 gear from Lapis Manalis.
 
 Looking towards the future:
 
