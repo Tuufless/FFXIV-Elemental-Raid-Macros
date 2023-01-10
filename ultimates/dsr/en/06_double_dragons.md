@@ -483,6 +483,12 @@ The reason why we did not stack opposite tethers in Wyrmsbreath #2 was because w
 ## Frequently Asked Questions
 
 <details markdown=block>
+<summary><b>[Wyrmsbreath #1]</b> I took extra damage even though I wasn't tethered- why is that?</summary>
+<table>
+  <tr><td><p><b>Both</b> dragon's damage are based on proximity, even if you are not actually tethered to them.</p><p>You can think of the tethers as just directing where the breaths will go; the colour change is a proximity indicator of that particular player-dragon pair, but you still have to worry about proximity to the other dragon.</p></td></tr>
+</table>
+</details>
+<details markdown=block>
 <summary><b>[Wroth Flames]</b> Is there a pattern to how the debuffs are assigned?</summary>
 <table>
   <tr><td><p>Unfortunately not- the debuff distribution is random.</p><p>Here's an example where two of the no-debuff players are both DPS.</p></td><td><img src="../images/double_dragons/wroth_flames_debuffs.jpg"></td></tr>
