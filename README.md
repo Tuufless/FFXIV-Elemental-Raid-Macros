@@ -5,7 +5,6 @@ nav_order: 1
 permalink: /
 ---
 
-
 # FFXIV Elemental Raid Macros
 
 This repository is a collection of macros (and my notes) often encountered in the Elemental Data Center (DC).
@@ -14,7 +13,7 @@ Because Elemental is ultimately a Japanese DC, these macros are for **Japanese**
 
 Of course, there will probably be small differences between the macros here and the ones you may encounter in PF- use the ones here as a base to work with.
 
-## Current content (Patch 6.2)
+## Current content (Patch 6.3)
 
 The current item level cap is **iLvl 635**.
 
@@ -22,7 +21,7 @@ The current item level cap is **iLvl 635**.
 - **Barbariccia EX** - [Storm's Crown (Extreme)](6.0_endwalker/extreme_trials/barbariccia/README.md)
 
 **Unreal Trial:**
-- **Sephirot** - [Containment Bay S1T7 (Unreal)](3.0_heavensward/extreme_trials/sephirot/README.md)
+- **Sophia** - [Containment Bay P1T6 (Unreal)](3.0_heavensward/extreme_trials/sophia/README.md)
 
 **Savage Raids:**
 - **P5S** - [Abyssos: The Fifth Circle (Savage)](6.0_endwalker/savage_raids/p5s/README.md)
