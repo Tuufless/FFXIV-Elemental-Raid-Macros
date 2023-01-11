@@ -16,6 +16,8 @@ The level cap for Endwalker is **Level 90**.
 - **Zodiark EX** - [The Minstrel's Ballad: Zodiark's Fall](extreme_trials/zodiark/README.md)
 - **Hydaelyn EX** - [The Minstrel's Ballad: Hydaelyn's Call](extreme_trials/hydaelyn/README.md)
 - **Endsinger EX** - [The Minstrel's Ballad: The Endsinger's Aria](extreme_trials/endsinger/README.md)
+- **Barbariccia EX** - [Storm's Crown (Extreme)](extreme_trials/barbariccia/README.md)
+- **Rubicante EX** - [Mount Ordeals (Extreme)](extreme_trials/rubicante/README.md)
 
 ## Savage
 

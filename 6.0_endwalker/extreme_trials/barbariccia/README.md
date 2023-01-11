@@ -9,7 +9,7 @@ permalink: /6.0_endwalker/extreme_trials/barbariccia/
 
 # Storm's Crown (Extreme)
 
-This is [game8's macro](https://game8.jp/ff14/477950).
+This is [Game8's macro](https://game8.jp/ff14/477950).
 
 It's basically [Hamkatsu's strat](https://youtu.be/FToWDK7uy4w), but resolves Playstation symbols in a "braindead" manner (T/H go to assigned cardinals, DPS all stack in the center and get pulled to their assigned partner). 
 

@@ -13,3 +13,4 @@ permalink: /6.0_endwalker/extreme_trials/
 - **Hydaelyn EX** - [The Minstrel's Ballad: Hydaelyn's Call](hydaelyn/README.md)
 - **Endsinger EX** - [The Minstrel's Ballad: The Endsinger's Aria](endsinger/README.md)
 - **Barbariccia EX** - [Storm's Crown (Extreme)](barbariccia/README.md)
+- **Rubicante EX** - [Mount Ordeals (Extreme)](rubicante/README.md)

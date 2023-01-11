@@ -18,7 +18,7 @@ Of course, there will probably be small differences between the macros here and 
 The current item level cap is **iLvl 635**.
 
 **Extreme Trials:**
-- **Barbariccia EX** - [Storm's Crown (Extreme)](6.0_endwalker/extreme_trials/barbariccia/README.md)
+- **Rubicante EX** - [Mount Ordeals (Extreme)](6.0_endwalker/extreme_trials/rubicante/README.md)
 
 **Unreal Trial:**
 - **Sophia** - [Containment Bay P1T6 (Unreal)](3.0_heavensward/extreme_trials/sophia/README.md)
