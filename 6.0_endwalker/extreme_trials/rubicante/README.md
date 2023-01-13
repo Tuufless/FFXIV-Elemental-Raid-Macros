@@ -28,3 +28,8 @@ This is [Game8's macro](https://game8.jp/ff14/507079) which follows Nukemaru's s
 - The markers are the spread positions during Flamerake and Scalding Ring/Signal.
 
 ![](images/markers.jpg)
+
+## Timeline
+
+![](https://preview.redd.it/sx6yl3qcypba1.png?width=1433&format=png&auto=webp&v=enabled&s=1058fe4610eefab23a09bcc48b1fab4adf120833)
+*(Credit: [u/ExiaKuromonji](https://www.reddit.com/r/ffxiv/comments/10ai5g6/63_trial_timeline/))*
