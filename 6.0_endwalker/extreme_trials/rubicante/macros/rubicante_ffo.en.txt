@@ -1,0 +1,15 @@
+　【Spread】　　　【Sweeping Immolation】
+　D3　MT　D4　　　　　　↑↑ ★ ↑↑
+　H1　★　H2　　　　　MT　D1　D2　ST
+　D1　ST　D2　　　　　H1　D3　D4　H2
+【Arch Inferno】　　※ Stack at D2's position
+　N: MT D1D3H1　　　AoE Spread：　★
+　S: ST D2 D4 H2　　　　　　　　　　M　T
+　Pairs：Melee vs Ranged　　　　　 R　 H
+【Adds tethers】MT→W　ST→E
+【Flamerake】① True-North Spread positions
+　(FFO strat)　② (Flares) Spread pos. or move cw
+　　　　　　　③ True-North Spread positions
+【Flamespire Claw (Limit Cut)】
+　Cleaves：Odd→NW　Even→NE
+　7/8 start w. tethers　Bait cleaves→Take tether

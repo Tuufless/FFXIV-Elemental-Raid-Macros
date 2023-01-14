@@ -9,18 +9,43 @@ permalink: /6.0_endwalker/extreme_trials/rubicante/
 
 # Mount Ordeals (Extreme)
 
-This is [Game8's macro](https://game8.jp/ff14/507079) which follows Nukemaru's strat.
+There are currently two main strats that are going around- the FFO strat, and Nukemaru's strat (which Game8 has also adopted).
+
+Both strats are identical, *except* for how Flamerake is handled and where the party stacks during Sweeping Immolation.
+
+### Things to check on Party Finder
+
+- Check how Flamerake is being resolved.
+- Check the stack/spread positions for Sweeping Immolation.
+
+## FFO strat
+
+The following is the FFO macro for Rubicante EX. It's the macro that best approximates what *actually* gets done in PF, and is the one I would like to use.
+
+### Japanese
+```
+{% include_relative macros/rubicante_ffo.jp.txt %}
+```
+
+### English
+```
+{% include_relative macros/rubicante_ffo.en.txt %}
+```
+
+## Game 8/Nukemaru's strat
+
+These macros are from [Game8](https://game8.jp/ff14/507079) which follows Nukemaru's strat.
 
 {% include youtube.html id="uWR-SoZ4hFw" %}
 
-## Japanese
+### Japanese
 ```
-{% include_relative macros/rubicante.jp.txt %}
+{% include_relative macros/rubicante_g8.jp.txt %}
 ```
 
-## English
+### English
 ```
-{% include_relative macros/rubicante.en.txt %}
+{% include_relative macros/rubicante_g8.en.txt %}
 ```
 
 ## Markers
