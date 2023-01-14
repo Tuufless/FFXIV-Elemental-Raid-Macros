@@ -32,6 +32,34 @@ The following is the FFO macro for Rubicante EX. It's the macro that best approx
 {% include_relative macros/rubicante_ffo.en.txt %}
 ```
 
+### Flamerake (FFO)
+
+The FFO strat places emphasis on the (true-north) spread positions to match all other spreads in the fight.
+
+<table>
+  <tr>
+    <td><p><b>1.</b> Players take up their (true-north) spread positions, and watch the spinner in the middle.</p>
+    <p><em>(In this example, tanks/healers have the Flare markers)</em></p></td>
+    <td><img src="images/flamerake_ffo_1_1.jpg"></td>
+    <td><img src="images/flamerake_ffo_2_1.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>2.</b> The group that the spinners pointed to rotates clockwise.</p></td>
+    <td><img src="images/flamerake_ffo_1_2.jpg"></td>
+    <td><img src="images/flamerake_ffo_2_2.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>3.</b> The Flare players dodge into the first set of AoEs.</p></td>
+    <td><img src="images/flamerake_ffo_1_3.jpg"></td>
+    <td><img src="images/flamerake_ffo_2_3.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>4.</b> Spread according to your (true-north) spread positions.</p></td>
+    <td><img src="images/flamerake_ffo_1_4.jpg"></td>
+    <td><img src="images/flamerake_ffo_2_4.jpg"></td>
+  </tr>
+</table>
+
 ## Game 8/Nukemaru's strat
 
 These macros are from [Game8](https://game8.jp/ff14/507079) which follows Nukemaru's strat.
@@ -47,6 +75,34 @@ These macros are from [Game8](https://game8.jp/ff14/507079) which follows Nukema
 ```
 {% include_relative macros/rubicante_g8.en.txt %}
 ```
+
+### Flamerake (Game8/Nukemaru)
+
+With Nukemaru's strat, players that need to rotate always rotates clockwise. The final spread positions are not the true-north spread positions, but are in whatever orientation the party ends up in at the end of Flamerake.
+
+<table>
+  <tr>
+    <td><p><b>1.</b> Players stand in pairs at the cardinal positions.</p>
+    <p><em>(In this example, tanks/healers have the Flare markers)</em></p></td>
+    <td><img src="images/flamerake_nukemaru_1_1.jpg"></td>
+    <td><img src="images/flamerake_nukemaru_2_1.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>2.</b> If the spinner ends up pointing at you, rotate clockwise.</p></td>
+    <td><img src="images/flamerake_nukemaru_1_2.jpg"></td>
+    <td><img src="images/flamerake_nukemaru_2_2.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>3.</b> The Flare players rotate clockwise into the first set of AoEs.</p></td>
+    <td><img src="images/flamerake_nukemaru_1_3.jpg"></td>
+    <td><img src="images/flamerake_nukemaru_2_3.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>4.</b> Flare players step in, while the stack players step out and spread according to your current positions (depending on how many times you had to rotate).</p></td>
+    <td><img src="images/flamerake_nukemaru_1_4.jpg"></td>
+    <td><img src="images/flamerake_nukemaru_2_4.jpg"></td>
+  </tr>
+</table>
 
 ## Markers
 
