@@ -49,7 +49,7 @@ The FFO strat places emphasis on the (true-north) spread positions to match all 
     <td><img src="images/flamerake_ffo_2_2.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>3.</b> The Flare players dodge into the first set of AoEs.</p></td>
+    <td><p><b>3.</b> The Flare players dodge into the first set of AoEs.</p><p>Dodge either to your spread position, <em>or</em> clockwise from your spread position.</p></td>
     <td><img src="images/flamerake_ffo_1_3.jpg"></td>
     <td><img src="images/flamerake_ffo_2_3.jpg"></td>
   </tr>
