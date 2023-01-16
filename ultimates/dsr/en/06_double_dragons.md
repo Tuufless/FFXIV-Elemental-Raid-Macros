@@ -475,7 +475,6 @@ The reason why we did not stack opposite tethers in Wyrmsbreath #2 was because w
 ## Notes
 
 * DRK is the only tank that doesn't *actually* need Rampart in this phase, as Dark Mind's cooldown is quick enough for it to be available for both Hallowed Wings.
-* PLD is the only tank without a third cooldown, and will literally run out of cooldowns in this phase. Healer targeted cooldowns (Aquaveil, Protraction, Exaltation, Taurachole) will be needed to help a PLD out.
 * There are strats where only one tank invulns Cauterize, or neither tank invulns Cauterize in order to have a 1-1-6 Akh Morn's edge in P7. While the recommended PF strat is to just invuln Cauterize, a static may consider having just one tank invuln Hraesvelgr's Cauterize (and have the other mitigate Nidhogg's). I personally wouldn't recommend having both tanks mitigate Cauterize.
 * If a tank was hit by a fire or ice tether in Wyrmsbreath #2, they should also go in front of the appropriate dragon to get their debuff cleansed by Cauterize.
 * If someone happens to move after the fire debuff turns into Pyretic, they should keep moving into the wall, or into Nidhogg's side so they do **not** die to Hraesvelgr.
