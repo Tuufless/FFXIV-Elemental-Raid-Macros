@@ -72,19 +72,25 @@ This is the macro for the bulk of the fight.
 
 ## Markers
 
-A lot of players use the "outer" markers:
+If you are doing the fixed Wyrmsbreath 2 strat, I recommend you use the "outer" markers as the tanks can use the intercardinal markers for reference on where to stand.
 
 ![](images/markers_outer.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
 ```json
-{"Name":"Dragonsong's Reprise (Outer)","MapID":788,"A":{"X":100.0,"Y":0.0,"Z":80.0,"ID":0,"Active":true},"B":{"X":120.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":120.0,"ID":2,"Active":true},"D":{"X":80.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":114.1421,"Y":0.0,"Z":85.85786,"ID":4,"Active":true},"Two":{"X":114.142,"Y":0.0,"Z":114.142,"ID":5,"Active":true},"Three":{"X":85.85786,"Y":0.0,"Z":114.142,"ID":6,"Active":true},"Four":{"X":85.858,"Y":0.0,"Z":85.858,"ID":7,"Active":true}}
+{"Name":"Dragonsong's Reprise (Outer)","MapID":788,"A":{"X":100.0,"Y":0.0,"Z":79.0,"ID":0,"Active":true},"B":{"X":121.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":121.0,"ID":2,"Active":true},"D":{"X":79.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":114.849,"Y":0.0,"Z":85.151,"ID":4,"Active":true},"Two":{"X":114.849,"Y":0.0,"Z":114.849,"ID":5,"Active":true},"Three":{"X":85.151,"Y":0.0,"Z":114.849,"ID":6,"Active":true},"Four":{"X":85.151,"Y":0.0,"Z":85.151,"ID":7,"Active":true}}
 ```
 
 </details>
 
-I personally *much prefer* "inner" markers.
+Otherwise, the "inner" markers are also popular.
+
+The intercardinal markers demarcate:
+
+- The boundaries for the charges at the start of Strength of the Ward
+- Where to stand to bait the towers in Nidhogg
+- The boundary of Hot Tail in the Double Dragons phase.
 
 ![](images/markers_inner.jpg)
 <details markdown=block>
