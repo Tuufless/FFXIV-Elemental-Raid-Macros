@@ -10,7 +10,7 @@ permalink: /ultimates/dsr/
 
 # Dragonsong's Reprise (Ultimate)
 
-Elemental's DSR PF strat is still evolving. Use the following macros as a base to start with.
+Elemental's DSR PF strat can be broken down as follows:
 
 - [**Ser Adelphel + Grinnaux**](en/01_adelphel_and_grinnaux.md): HMRT
 - [**King Thordan**](en/02_thordan.md): DRK-relative, role adjust
