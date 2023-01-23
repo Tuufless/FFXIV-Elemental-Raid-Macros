@@ -94,8 +94,8 @@ The final dragon will periodically target two random party members with Thunder-
   </tr>
   <tr>
     <td><p><b>4.</b> After the Lunar Dynamo, either stack for Thermionic Beam, or move away from Nael to dodge Iron Chariot.</p></td>
-    <td><img src="../images/02_nael/nael_1_4a.jpg"></td>
-    <td><img src="../images/02_nael/nael_1_4b.jpg"></td>
+    <td><img src="../images/02_nael/nael_1_4a.jpg">
+    <img src="../images/02_nael/nael_1_4b.jpg"></td>
   </tr>
   <tr>
     <td><p><b>5.</b> Dodge the white AoE together in the same movement so the party gets hit by the Fireball.</p></td>
@@ -133,8 +133,8 @@ The final dragon will periodically target two random party members with Thunder-
   </tr>
   <tr>
     <td><p><b>12.</b> Second part of Nael's second line.</p><ul><li>Either stay in and stacked to dodge Lunar Dynamo <em>or</em></li><li>Move back to dodge Iron Chariot.</li></ul></td>
-    <td><img src="../images/02_nael/nael_2_3a.jpg"></td>
-    <td><img src="../images/02_nael/nael_2_3b.jpg"></td>
+    <td><img src="../images/02_nael/nael_2_3a.jpg">
+    <img src="../images/02_nael/nael_2_3b.jpg"></td>
   </tr>
   <tr>
     <td><p><b>13.</b> The first Wings of Salvation resolves, along with <em>three</em> Dooms at 6s, 10s, and 14s.</p></td>
@@ -171,8 +171,8 @@ The final dragon will periodically target two random party members with Thunder-
   </tr>
   <tr>
     <td><p><b>20.</b> The second part of Nael's third line resolves. Either:</p><ul><li>Move close to Nael to dodge Lunar Dynamo <em>or</em></li><li>Move away from Nael to dodge Iron Chariot.</li></ul><p>Two random players will be targeted for Thunderstruck.</p></td>
-    <td><img src="../images/02_nael/nael_3_2a.jpg"></td>
-    <td><img src="../images/02_nael/nael_3_2b.jpg"></td>
+    <td><img src="../images/02_nael/nael_3_2a.jpg">
+    <img src="../images/02_nael/nael_3_2b.jpg"></td>
   </tr>
   <tr>
     <td><p><b>21.</b> The fourth Fire resolves as the first Wings of Salvation AoE appears.</p></td>
@@ -221,13 +221,13 @@ The final dragon will periodically target two random party members with Thunder-
   </tr>
   <tr>
     <td><p><b>31.</b> The first part of Nael's fourth line resolves. Either:</p><ul><li>Spread for Meteor Stream <em>or</em></li><li>Stack in the middle to prepare for Thermionic Beam.</li></ul><p>Because the first divebomb has already resolved, the first divebomb area is generally safe to spread around.</p><p>The party should also avoid the ST.</p></td>
-    <td><img src="../images/02_nael/nael_4_5a.jpg"></td>
-    <td><img src="../images/02_nael/nael_4_5b.jpg"></td>
+    <td><img src="../images/02_nael/nael_4_5a.jpg">
+    <img src="../images/02_nael/nael_4_5b.jpg"></td>
   </tr>
   <tr>
     <td><p><b>32.</b> The second part of Nael's fourth line resolves.</p><p>The party should stack in the middle as it will dodge both cases, which are either:</p><ul><li>A Dalamud Dive on the ST <em>or</em></li><li>A Thermionic Beam stack.</li></ul><p>If Nael does the Thermionic Beam second, the ST can also join the stack to help share in the damage.</p><p>The third set of divebombs will also resolve.</p></td>
-    <td><img src="../images/02_nael/nael_4_6a.jpg"></td>
-    <td><img src="../images/02_nael/nael_4_6b.jpg"></td>
+    <td><img src="../images/02_nael/nael_4_6a.jpg">
+    <img src="../images/02_nael/nael_4_6b.jpg"></td>
   </tr>
   <tr>
     <td><p><b>33.</b> Nael then does the 5-hit Bahamut's Claw on the ST, just like the Dalamud Dive → Bahamut's Claw sequence at the start of the phase.</p></td>
