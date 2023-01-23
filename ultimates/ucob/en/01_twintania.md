@@ -22,7 +22,7 @@ Twintania's first phase is a basic introduction to what to expect- Twisters, and
     <td><img src="../images/01_twintania/twintania_1_2.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>3.</b> Twintania then uses Death Sentence, which is a tankbuster that mandates a tank swap. The loop then repeats from Plummet (with the MT and ST swapped).</p><p><em>(Most groups will push Twintania into the next phase without seeing the second Fireball.)</em></p></td>
+    <td><p><b>3.</b> Twintania then uses Death Sentence, a single-target tankbuster that also applies a slashing damage debuff, thus mandating a tank swap. The loop then repeats from Plummet (with the MT and ST swapped).</p><p><em>(Most groups will push Twintania into the next phase without seeing the second Fireball.)</em></p></td>
     <td><img src="../images/01_twintania/twintania_1_3.jpg"></td>
   </tr>
 </table>
