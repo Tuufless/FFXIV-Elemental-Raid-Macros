@@ -37,3 +37,4 @@ The current item level cap is **iLvl 635**.
 - **UWU** - [The Weapon's Refrain (Ultimate)](ultimates/uwu/README.md)
 - **TEA** - [The Epic of Alexander (Ultimate)](ultimates/tea/README.md)
 - **DSR** - [Dragonsong's Reprise (Ultimate)](ultimates/dsr/README.md)
+- **TOP** - [The Omega Protocol (Ultimate)](ultimates/top/README.md)

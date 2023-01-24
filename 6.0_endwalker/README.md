@@ -46,3 +46,4 @@ The item level cap for Pandæmonium: Asphodelos is **iLvl 635**.
 ## Ultimate
 
 - **DSR** - [Dragonsong's Reprise (Ultimate)](../ultimates/dsr/README.md)
+- **TOP** - [The Omega Protocol (Ultimate)](../ultimates/top/README.md)
