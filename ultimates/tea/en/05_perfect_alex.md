@@ -145,7 +145,7 @@ All players will need to identify the debuffs based on their visual effects when
     <td>
       <p><b>Ordained Stillness</b></p>
       <p><b>All</b> players in the party must keep still.</p>
-      <p><ul><li>Autoattacks count as movement. Tanks and melee should either sheathe their weapons, or untarget the boss to be safe.</li><li>If a player is <b>in the middle</b> of a channeled ability like Meditate or Improvisation, it <b>does not</b> count as movement.</li></ul></p>
+      <p><ul><li>Autoattacks count as movement. Tanks and melee should either sheathe their weapons, or untarget the boss to be safe.</li><li>If a player is <b>in the middle</b> of a channeled ability like Flamethrower, Meditate or Improvisation, it <b>does not</b> count as movement.</li></ul></p>
       <p>Three players will get this.</p></td>
     <td><img src="../images/perfect_alex/fate_calibration_alpha/ordained_stillness.jpg"></td>
   </tr>
@@ -159,7 +159,7 @@ All players will need to identify the debuffs based on their visual effects when
             <li>The gap between when the cast finishes and the GCD is up does <b>not</b> count as movement.</li>
           </ul>
         </li>
-        <li>If a player is <b>in the middle</b> of a channeled ability like Meditate or Improvisation, it <b>does not</b> count as movement.</li>
+        <li>If a player is <b>in the middle</b> of a channeled ability like Flamethrower, Meditate or Improvisation, it <b>does not</b> count as movement.</li>
       </ul>
     </p>
     <p>Three players will get this.</p><p>You can either wiggle your character around, <em>or</em> continually jump up and down to trigger movement.</p><div style="background-color: #200 ; padding: 10px; border: 1px solid;"><b>Do not</b> wiggle around <b>and</b> jump, <em>especially</em> when near the edge of the arena.</div></td>
