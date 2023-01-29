@@ -12,6 +12,12 @@ permalink: /ultimates/top/03_omega_reconfigured/
 <b>UNDER CONSTRUCTION!</b>
 </div>
 
+## Transition
+
+<div style="background-color: #200 ; padding: 10px; border: 1px solid;">
+<b>UNDER CONSTRUCTION!</b>
+</div>
+
 ## Hello, World
 
 Although Hello, World may look overwhelming at first, it is simply a cycle of debuffs to resolve. At any one point, two players will be at each stage in the cycle.
@@ -35,6 +41,8 @@ Although Hello, World may look overwhelming at first, it is simply a cycle of de
     <td><img src="../images/03_omega_reconfigured/hello_world_cycle.jpg"></td>
   </tr>
 </table>
+
+The only variation is which colour each debuffs go to, which is determined by which colour debuff (Critical Performance and Critical Underflow) get paired with Critical Overflow and Critical Synchronization.
 
 This loop is repeated four times (so all players will have their go at each debuff), although the final iteration has one small difference where the Local Regression players stand away from the Critical Overflows instead.
 
@@ -225,6 +233,12 @@ This time around, there are two differences:
     <td><img src="../images/03_omega_reconfigured/hello_world_4_5.jpg"></td>
   </tr>
 </table>
+
+## Oversampled Wave Cannon
+
+<div style="background-color: #200 ; padding: 10px; border: 1px solid;">
+<b>UNDER CONSTRUCTION!</b>
+</div>
 
 ## Frequently Asked Questions
 
