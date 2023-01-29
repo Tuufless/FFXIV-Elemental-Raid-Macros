@@ -208,16 +208,16 @@ All players rotate their roles again for the fourth (and final) iteration.
 
 This time around, there are two differences:
 
-1. Red/green tethers will **avoid** getting hit by Critical Overflow and break **first**.
+1. Red/green tethers will **join** the blue tethers at Critical Synchronizations instead of getting hit by Critical Overflow and break **first**.
 2. Players will **not** pass Critical Underflow and Critical Performance.
 
 <table>
   <tr>
-    <td width="50%"><p><b>14.</b> Pair up and move to your towers.</p><ul><li><b>Red/green tethered players will move <u>to</u> Critical Synchronization this time (and stack).</b></li><li>Critical Synchronization and blue tethered players pair up and move to their towers.</li></ul></td>
+    <td width="50%"><p><b>14.</b> Pair up and move to your towers.</p><ul><li><b>Red/green tethered players will be with Critical Synchronization this time.</b></li><li>Critical Synchronization, blue tethered players, and red/green tethered players group up and move to their towers.</li></ul></td>
     <td><img src="../images/03_omega_reconfigured/hello_world_4_1.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>15.</b> The last set of tethers manifest.</p><p>Latent Defect, Towers, Critical Overflow Bugs, and Critical Synchronization Bugs resolve.</p><p>This will immediately break the red/green tethers.</p></td>
+    <td><p><b>15.</b> The last set of tethers manifest.</p><p>Latent Defect, Towers, Critical Overflow Bugs, and Critical Synchronization Bugs resolve.</p><p>This should immediately break the red/green tethers- break them if they have not.</p></td>
     <td><img src="../images/03_omega_reconfigured/hello_world_4_2.jpg"></td>
   </tr>
   <tr>
