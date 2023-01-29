@@ -81,7 +81,7 @@ To do this, we use the following priority:
 NW: MT > ST > H1 > D1 > D2 > D3 > D4 > H2: SE
 ```
 
-We start by tanking Omega facing **45-degrees from these two positions**, and move to the **nearest** safe sector.
+We start by tanking Omega facing **45-degrees from these two positions**. If the first set of Flamethrowers is on the party, rotate **clockwise** to the next safe sector.
 
 <table>
   <tr>
@@ -173,7 +173,7 @@ This loop repeats until all four players have resolved their Condensed Wave Cann
 <details markdown=block>
 <summary><b>[Pantokrator]</b> Why do you tank the boss 45 degrees from the two stack points before Pantokrator starts?</summary>
 <table>
-  <tr><td><p>The set of Flamethrowers are <em>not</em> based on true North, but are instead based on Omega's orientation.</p><p>The problem with facing Omega at the party is that the Flamethrowers are 60-degree cones that move in multiples of 30 degrees.</p><p>This means that you can have a scenario like the following, where it's now ambiguous whether the N/S parties count as getting hit.</p><p>This is especially problematic when the agreed movement is "always rotate clockwise to the safe sector", which is clearly not ideal in this scenario.</p><p>By pointing Omega at a 45 degree angle from the two assigned points, you guarantee that Omega will <em>never</em> point directly at the party, and that there will <em>always</em> be a "nearest" safe sector.</p><p>I have yet to decide whether I prefer either moving to the nearest safe sector versus rotating clockwise to the nearest safe sector, but pointing the boss at 45 degrees means that the worst case scenario is now a 45 degree movement instead of 60 degrees.</p></td>
+  <tr><td><p>The set of Flamethrowers are <em>not</em> based on true North, but are instead based on Omega's orientation.</p><p>The problem with facing Omega at the party is that the Flamethrowers are 60-degree cones that move in multiples of 30 degrees.</p><p>This means that you can have a scenario like the following, where it's now ambiguous whether the N/S parties count as getting hit.</p><p>This is especially problematic when the agreed movement is "always rotate clockwise to the safe sector", which is clearly not ideal in this scenario.</p><p>By pointing Omega at a 45 degree angle from the two assigned points, you guarantee that Omega will <em>never</em> point directly at the party, removing said ambiguity.</p></td>
   <td><img src="../images/01_omega/pantokrator_faq.jpg"></td></tr>
 </table>
 </details>
