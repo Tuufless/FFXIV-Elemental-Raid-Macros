@@ -129,19 +129,19 @@ We decided to go with **HaruGlory's** Pantokrator strat, which puts the beam at 
     <td><img src="../images/01_omega/pantokrator_05.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>9.</b> The first set of debuffs expire.</p><ul><li><b>1s:</b> Take the Guided Missile Kyrios AoE at the front of the sector and dodge either to the side, or back.</li><li><b>2, 3, 4s:</b> Share a Condensed Wave Cannon Kyrios beam at the back.</li></ul></td>
+    <td><p><b>9.</b> The first set of debuffs expire.</p><ul><li><b>1s:</b> Take the Guided Missile Kyrios AoE at the front of the sector and dodge either to the side, or back.</li><li><b>2, 3, 4s:</b> Share a Condensed Wave Cannon Kyrios beam at the back.</li><li><b>2s:</b> Move into the middle of the arena to start pulling away from the group.</li></ul></td>
     <td><img src="../images/01_omega/pantokrator_06.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>10.</b> First set of AoEs (after beam + missile).</p><ul><li><b>1s:</b> Rejoin the party.</li><li><b>2s:</b> Dodge into the middle of the arena to move ahead of the party.</li></ul></td>
+    <td><p><b>10.</b> First set of AoEs (after beam + missile).</p><ul><li><b>1s:</b> Rejoin the party.</li><li><b>2s:</b> Move to the front of the sector.</li></ul></td>
     <td><img src="../images/01_omega/pantokrator_07.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>11.</b> Second set of AoEs (after beam + missile).</p><ul><li><b>2s:</b> Move in front of the party.</li></ul></td>
+    <td><p><b>11.</b> Second set of AoEs (after beam + missile).</p><ul><li><b>2s:</b> Move in front of the sector.</li></ul></td>
     <td><img src="../images/01_omega/pantokrator_08.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>12.</b> Third set of baited AoEs. The next set of beams and missiles resolve.</p><ul><li><b>2s:</b> Dodge your AoE sideways.</li></ul></td>
+    <td><p><b>12.</b> Third set of baited AoEs. The next set of beams and missiles resolve.</p><ul><li><b>2s:</b> Dodge your AoE backwards and prepare to rejoin the party.</li></ul></td>
     <td><img src="../images/01_omega/pantokrator_09.jpg"></td>
   </tr>
   <tr>
