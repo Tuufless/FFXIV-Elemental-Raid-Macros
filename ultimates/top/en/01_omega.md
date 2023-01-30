@@ -9,19 +9,19 @@ permalink: /ultimates/top/01_omega/
 # Omega
 
 <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
-<b>The following strats have not been decided, and will likely change.</b>
+<b>The following strats have not been settled, and may change.</b>
 </div>
 
 ## Program Loop
 
-<div style="background-color: #200 ; padding: 10px; border: 1px solid;">
-<b>UNDER CONSTRUCTION!</b>
-</div>
+Players receive a set of numbered debuffs. Each number (1, 2, 3, and 4) each have two players.
 
-To summarize:
-
-- **Towers** are resolved in the order of the numbered debuffs (1 > 2 > 3 > 4)
+- The **numbered** debuffs incidate the order players need to take **towers** (1 > 2 > 3 > 4).
 - **Tethers** are resolved two steps away from the towers (3 > 4 > 1 > 2)
+
+When tethers resolve, they explode in a large AoE, applying one stack of Twice-come Ruin and a HP Penalty debuff that reduces that player's maximum HP to 1%.
+
+The HP Penalty debuff will wear off within two steps (players numbered 3 and 4 will need healing to survive their towers).
 
 <table>
   <tr>
@@ -33,7 +33,7 @@ To summarize:
 A priority to determine who takes which tower/tether might look something like this:
 ```
 CW from NW (11 o'clock):
-  MT > ST > H1 > D1 > D2 > D3 > D4 > H2
+  H1 > MT > ST > D1 > D2 > D3 > D4 > H2
 ```
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
 <b>In PF:</b><ul>
@@ -64,6 +64,8 @@ CW from NW (11 o'clock):
   </tr>
 </table>
 
+After the fourth set of towers, top up the party when the last sets of HP Penalties wear off, and prepare for Omega's next mechanic.
+
 ## Pantokrator
 
 Once again, the party will be given random pairs of numbers, from 1-4.
@@ -76,12 +78,7 @@ Once again, the party will be given random pairs of numbers, from 1-4.
   </tr>
 </table>
 
-To do this, we use the following priority:
-```
-NW: MT > ST > H1 > D1 > D2 > D3 > D4 > H2: SE
-```
-
-We start by tanking Omega facing **45-degrees from these two positions**. If the first set of Flamethrowers is on the party, rotate **clockwise** to the next safe sector.
+Tank Omega facing North, **45-degrees from these two positions**. If the first set of Flamethrowers is on the party, rotate **clockwise** to the next safe sector.
 
 <table>
   <tr>
@@ -92,7 +89,7 @@ We start by tanking Omega facing **45-degrees from these two positions**. If the
   </tr>
 </table>
 
-We decided to take the stacks **in front** for now.
+We decided to go with **HaruGlory's** Pantokrator strat, which puts the beam at the back, and the missile in front.
 
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
 <b>In PF:</b><ul>
@@ -113,13 +110,6 @@ We decided to take the stacks **in front** for now.
       <li>Some will have each group rotate clockwise to the safe sector</li><li>Some will have each group go to the nearest safe sector.</li>
     </ul>
   </li>
-  <li>
-    <p>Check where the party will resolve the Wave Cannon stacks.</p>
-    <ul>
-      <li>Some will have the stack at the front of the sector.</li>
-      <li>Some will have the stack at the back of the sector.</li>
-    </ul>
-  </li>
 </ul>
 </div>
 
@@ -127,59 +117,95 @@ We decided to take the stacks **in front** for now.
 
 <table>
   <tr>
-    <td><p><b>6.</b> Numbers appear and the first set of flame telegraphs appear.</p><p>Split the party into the two groups, and move to the safe sectors.</p></td>
+    <td><p><b>6.</b> Numbers appear and the first set of flame telegraphs appear.</p><p>Split the party into the two groups, and move to the middle of the safe sectors.</p></td>
     <td><img src="../images/01_omega/pantokrator_03.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>7.</b> The flame telegraphs start rotating.</p><p>The players numbered 1 move to the back of the sector (in front of the rear AoE), while the other players group at the front of the sector (behind the front AoE).</p></td>
+    <td><p><b>7.</b> The flame telegraphs start rotating.</p><p>The players numbered 1 move to the front of the sector (behind the front AoE).</p><p>The other players can either stay where they are, or move a little bit towards the back.</p></td>
     <td><img src="../images/01_omega/pantokrator_04.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>8.</b> Third set of flame telegraphs.</p></td>
+    <td><p><b>8.</b> Third set of flame telegraphs.</p><p>The first set of AoEs appear under each player.</p><ul><li><b>1s:</b> Bait your AoE, and dodge to the side.</li></ul></td>
     <td><img src="../images/01_omega/pantokrator_05.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>9.</b> First set of baited AoEs.</p></td>
+    <td><p><b>9.</b> The first set of debuffs expire.</p><ul><li><b>1s:</b> Take the Guided Missile Kyrios AoE at the front of the sector and dodge either to the side, or back.</li><li><b>2, 3, 4s:</b> Share a Condensed Wave Cannon Kyrios beam at the back.</li></ul></td>
     <td><img src="../images/01_omega/pantokrator_06.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>10.</b> Second set of baited AoEs.</p><p>The first set of debuffs expire.</p><ul><li>The player with the Guided Missile Kyrios debuff takes their AoE at the back of the sector.</li><li>The other three players share a Condensed Wave Cannon Kyrios beam at the front.</li></ul></td>
+    <td><p><b>10.</b> First set of AoEs (after beam + missile).</p><ul><li><b>1s:</b> Rejoin the party.</li><li><b>2s:</b> Dodge into the middle of the arena to move ahead of the party.</li></ul></td>
     <td><img src="../images/01_omega/pantokrator_07.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>11.</b> Third set of baited AoEs.</p><ul><li>The next player to bait the Guided Missile Kyrios moves backwards along the <b>outside</b> of the arena.</li><li>The player that just finished their missile catches up to the party by using the <b>inside</b> of the arena.</li></ul></td>
+    <td><p><b>11.</b> Second set of AoEs (after beam + missile).</p><ul><li><b>2s:</b> Move in front of the party.</li></ul></td>
     <td><img src="../images/01_omega/pantokrator_08.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>12.</b> Fourth set of baited AoEs.</p></td>
+    <td><p><b>12.</b> Third set of baited AoEs. The next set of beams and missiles resolve.</p><ul><li><b>2s:</b> Dodge your AoE sideways.</li></ul></td>
     <td><img src="../images/01_omega/pantokrator_09.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>13.</b> Fifth set of baited AoEs.</p><p>The second set of debuffs expire.</p><ul><li>The player with the Guided Missile Kyrios debuff takes their AoE at the back of the sector.</li><li>The other three players share a Condensed Wave Cannon Kyrios beam at the front.</li></ul></td>
+    <td><p><b>13.</b> First set of AoEs (after beam + missile).</p><ul><li><b>2s:</b> Rejoin the party.</li><li><b>3s:</b> Dodge into the middle of the arena to move ahead of the party.</li></ul></td>
     <td><img src="../images/01_omega/pantokrator_10.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>14.</b> Second set of AoEs (after beam + missile).</p><ul><li><b>2s:</b> Move in front of the party.</li></ul></td>
+    <td><img src="../images/01_omega/pantokrator_11.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>15.</b> Third set of baited AoEs. The next set of beams and missiles resolve.</p><p>The loop repeats one more time, with the 4s moving out.</p></td>
+    <td><img src="../images/01_omega/pantokrator_12.jpg"></td>
   </tr>
 </table>
 
-This loop repeats until all four players have resolved their Condensed Wave Cannon Kyrios and Guided Missile Kyrios debuffs.
+### Wave Cannons
 
-### Diffuse Wave Cannons
+Omega will target the two furthest players for 120-degree tankbuster cleaves (Diffuse Wave Cannon Kyrios). These should be taken by the tanks.
 
-<div style="background-color: #200 ; padding: 10px; border: 1px solid;">
-<b>UNDER CONSTRUCTION!</b>
+Omega will then target the three random non-tank players with a red marker for Wave Cannon Kyrios.
+
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+<b>In PF:</b><ul>
+  <li>Check the spread positions.</li>
+</ul>
 </div>
+
+<table>
+  <tr>
+    <td><p><b>16.</b> Both tanks stack north, <b>outside</b> Omega's targeting circle and use their invulnerabilities.</p><p>This gives enough space for the rest of the party spreads around the south half of the arena <b>inside</b> of Omega's targeting circle.</p><p>Three random (non-tank) players will be selected for the first set of Wave Cannons.</p></td>
+    <td><img src="../images/01_omega/wave_cannons_01.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>17.</b> First set of Wave Cannons resolve.</p><p>The other three players get marked for the second set of Wave Cannons.</p></td>
+    <td><img src="../images/01_omega/wave_cannons_02.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>17.</b> Second set of Wave Cannons resolve.</p><p>After this, Omega casts Atomic Ray, serving as the hard enrage.</p></td>
+    <td><img src="../images/01_omega/wave_cannons_03.jpg"></td>
+  </tr>
+</table>
 
 ## Frequently Asked Questions
 
 <details markdown=block>
-<summary><b>[Pantokrator]</b> Why do you tank the boss 45 degrees from the two stack points before Pantokrator starts?</summary>
+<summary><b>[Pantokrator]</b> Why does the party group up NW and SE instead of N and S?</summary>
 <table>
-  <tr><td><p>The set of Flamethrowers are <em>not</em> based on true North, but are instead based on Omega's orientation.</p><p>The problem with facing Omega at the party is that the Flamethrowers are 60-degree cones that move in multiples of 30 degrees.</p><p>This means that you can have a scenario like the following, where it's now ambiguous whether the N/S parties count as getting hit.</p><p>This is especially problematic when the agreed movement is "always rotate clockwise to the safe sector", which is clearly not ideal in this scenario.</p><p>By pointing Omega at a 45 degree angle from the two assigned points, you guarantee that Omega will <em>never</em> point directly at the party, removing said ambiguity.</p></td>
+  <tr><td><p>The <em>real</em> ask is to have the MT tank Omega facing 45 degrees from the party (so if the party wants to stack N/S, the MT would face Omega either NW or NE).</p><p>This is done because the set of Flamethrowers are <em>not</em> based on true North, but are instead based on Omega's orientation.</p><p>The problem with facing Omega at the two points is that the Flamethrowers are 60-degree cones that move in multiples of 30 degrees.</p><p>This means that you can have a scenario like the following, where it's now ambiguous whether the N/S parties count as getting hit.</p><p>This is especially problematic when the agreed movement is "always rotate clockwise to the safe sector", which is clearly not ideal in this scenario.</p><p>By pointing Omega at a 45 degree angle from the two assigned points, you guarantee that Omega's Flamethrower will <em>never</em> end up in this scenario, removing said ambiguity altogether.</p></td>
   <td><img src="../images/01_omega/pantokrator_faq.jpg"></td></tr>
 </table>
 </details>
 <details markdown=block>
-<summary><b>[Pantokrator]</b> Stack in front or the back?</summary>
+<summary><b>[Pantokrator]</b> Why do we resolve the stack at the back instead of the front?</summary>
 <table>
-  <tr><td><p>I'm currently undecided on which, as each have their pros and cons and this might just come down to personal preference.</p><p>Stacking at the front means that a player who is late to realise they are next in line to bait the missile AoE can easily split away from the group, which is much harder if the stack is at the back. The player rejoining the group will also have an easier time going into the hitbox to take the stack when it's their turn to catch up.</p><p>However, stacking at the back means you can bait almost all puddles on top of the Flamethrower telegraphs, and you have time to wait at the beginning for the Flamethrowers to catch up before moving.</p></td></tr>
+  <tr><td><p>There are a few advantages to stacking at the back:</p>
+  <ul>
+    <li>Only the first pair of missile players really need to pay attention to which way the Flamethrowers rotate at the beginning.</li>
+    <li>With only one person in front of the party, there is much less variation from run-to-run as there is only one AoE to potentially dodge.</li>
+  </ul>
+  <p>Putting the stack in front (missile at the back) brings about the following cons:</p>
+  <ul>
+    <li>The missile player at the back is potentially blocked by <em>three</em> player's AoEs and it's much easier to accidentally box them in, leaving them with nowhere to go.</li>
+    <li>Furthermore, when something <em>does</em> go wrong, it is much harder to diagnose what the root problem is, as things often look okay from one player's perspective, but has trickle-down consequences for other players.</li>
+  </ul></td></tr>
 </table>
 </details>
