@@ -37,7 +37,7 @@ After a while, Omega-M and Omega-F will both cast Party Synergy, the first major
     <td><img src="../images/02_omega_mf/party_synergy_01.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>2.</b> Playstation markers appear.</p><p>If your group has two of the same marker, the <b>lower</b> player swaps groups.</p><p><em>(In this example, the MT and D4 will swap groups.)</em></p><p>This determines the 4:4 groups for later.</p></td>
+    <td><p><b>2.</b> Playstation markers appear.</p><p>If your group has two of the same marker, the <b>lower</b> player swaps groups.</p><p><em>(In this example, the MT and D4 will swap groups.)</em></p><p><b>Remember your Playstation symbol and which side you will be on for later.</b></p><p>The symbols will disappear.</p></td>
     <td><img src="../images/02_omega_mf/party_synergy_02.jpg"></td>
   </tr>
   <tr>
@@ -66,7 +66,7 @@ After a while, Omega-M and Omega-F will both cast Party Synergy, the first major
     <td><img src="../images/02_omega_mf/party_synergy_04a.jpg"><img src="../images/02_omega_mf/party_synergy_04b.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>5.</b> Come back to the center of the arena, and locate the three Omega-Ms standing in a row. <b>Use this as the new North</b>.</p><p>As you do so, two players will be marked with stack markers. If one group has both stack markers, the <b>lower</b> stack marker swaps with their partner in the other group.</p></td>
+    <td><p><b>5.</b> Come back to the center of the arena, and locate the three Omega-Ms standing in a row. <b>Use this as the new North</b>.</p><p>As you do so, two players will be marked with stack markers. If one group has both stack markers, the <b>lower</b> stack marker swaps with their partner in the other group.</p><p><em>()</em></p></td>
     <td><img src="../images/02_omega_mf/party_synergy_05.jpg"></td>
   </tr>
   <tr>

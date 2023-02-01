@@ -23,3 +23,9 @@ permalink: /ultimates/top/05_run_dynamis/
 <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
 <b>UNDER CONSTRUCTION!</b>
 </div>
+
+## Run: Dynamis (Omega Version)
+
+<div style="background-color: #200 ; padding: 10px; border: 1px solid;">
+<b>UNDER CONSTRUCTION!</b>
+</div>
