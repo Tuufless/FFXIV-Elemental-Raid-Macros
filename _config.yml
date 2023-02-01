@@ -1,4 +1,4 @@
-remote_theme: just-the-docs/just-the-docs@v0.4.0.rc3
+remote_theme: just-the-docs/just-the-docs@v0.4.0.rc4
 
 plugins:
   - jekyll-seo-tag
@@ -14,7 +14,7 @@ aux_links:
 
 aux_links_new_tab: true
 
+enable_copy_code_button: true
+
 back_to_top: true
 back_to_top_text: "Back to top"
-
-footer_content: "Final Fantasy XIV Elemental DC Raid Macros"
