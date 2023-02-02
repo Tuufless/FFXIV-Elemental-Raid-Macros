@@ -66,7 +66,7 @@ After a while, Omega-M and Omega-F will both cast Party Synergy, the first major
     <td><img src="../images/02_omega_mf/party_synergy_04a.jpg"><img src="../images/02_omega_mf/party_synergy_04b.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>5.</b> Come back to the center of the arena, and locate the three Omega-Ms standing in a row. <b>Use this as the new North</b>.</p><p>As you do so, two players will be marked with stack markers. If one group has both stack markers, the <b>lower</b> stack marker swaps with their partner in the other group.</p><p><em>()</em></p></td>
+    <td><p><b>5.</b> Come back to the center of the arena, and locate the three Omega-Ms standing in a row. <b>Use this as the new North</b>.</p><p>As you do so, two players will be marked with stack markers. If one group has both stack markers, the <b>lower</b> stack marker swaps with their partner in the other group.</p></td>
     <td><img src="../images/02_omega_mf/party_synergy_05.jpg"></td>
   </tr>
   <tr>
@@ -83,6 +83,10 @@ After a while, Omega-M and Omega-F will both cast Party Synergy, the first major
     <td><img src="../images/02_omega_mf/party_synergy_06a.jpg"><img src="../images/02_omega_mf/party_synergy_06b.jpg"></td>
   </tr>
 </table>
+
+Identifying the first set of safe spots will take some practice. Nukemaru has compiled a collection of clips which may help:
+
+{% include youtube.html id="tfZgwiXoSoY" %}
 
 ## Limitless Synergy
 
