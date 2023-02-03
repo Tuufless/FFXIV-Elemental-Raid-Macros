@@ -240,6 +240,8 @@ This time around, there are two differences:
 <b>UNDER CONSTRUCTION!</b>
 </div>
 
+![](../images/03_omega_reconfigured/monitors.jpg)
+
 ## Frequently Asked Questions
 
 <details markdown=block>
