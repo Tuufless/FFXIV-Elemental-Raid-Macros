@@ -91,33 +91,30 @@ Tank Omega facing North, **45-degrees from these two positions**. If the first s
 
 We decided to go with **HaruGlory's** Pantokrator strat, which puts the beam at the back, and the missile in front.
 
-<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
-<b>In PF:</b><ul>
-  <li>
-    <p>Check how the party is being split into the two groups.</p>
-    <ul>
-      <li><p>Some adjust the groups based on roles:</p>
-        <ul><li>H1 > MT > D3 > D1 > D2 > D4 > ST > H2</li></ul>
-      </li>
-      <li><p>Some risk not having a healer on each side.</p>
-        <ul><li>MT > ST > H1 > H2 > D1 > D2 > D3 > D4</li></ul>
-      </li>
-    </ul>
-  </li>
-  <li>
-    <p>Check how the party assigns safe sectors if the Flamethrowers point at the party.</p>
-    <ul>
-      <li>Some will have each group rotate clockwise to the safe sector</li><li>Some will have each group go to the nearest safe sector.</li>
-    </ul>
-  </li>
-</ul>
-</div>
+<table>
+  <tr>
+    <td><p>The movement for Pantokrator is as such:</p>
+      <ol>
+        <li>Wave Cannon hits.</li>
+        <li>Everybody moves forward for one AoE.</li>
+      </ol>
+      <p>Everybody continues to <b>stagger-step</b> forward, while the next player to bait the missile then breaks away from the party:</p>
+      <ol start="3">
+        <li>Drop the next AoE in the center.</li>
+        <li>Drop the next AoE in thefront (the next round of beams + missiles resolves here).</li>
+        <li>Drop the next AoE back and <b>out</b>.</b></li>
+        <li>Rejoin the party. You have one extra AoE to do so before the next beam + missile resolves.</li>
+      </ol>
+    </td>
+    <td><img src="../images/01_omega/pantokrator_movement.jpg"></td>
+  </tr>
+</table>
 
 ### Condensed Waves and Guided Missiles
 
 <table>
   <tr>
-    <td><p><b>6.</b> Numbers appear and the first set of flame telegraphs appear.</p><p>Split the party into the two groups, and move to the middle of the safe sectors.</p></td>
+    <td><p><b>6.</b> Numbers appear and the first set of flame telegraphs appear.</p><p>Split the party into the two groups, and move to the middle of the safe sectors.</p><ul><li><b>1s:</b> Stay near the center of the arena.</li></ul></td>
     <td><img src="../images/01_omega/pantokrator_03.jpg"></td>
   </tr>
   <tr>
@@ -129,34 +126,24 @@ We decided to go with **HaruGlory's** Pantokrator strat, which puts the beam at 
     <td><img src="../images/01_omega/pantokrator_05.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>9.</b> The first set of debuffs expire.</p><ul><li><b>1s:</b> Take the Guided Missile Kyrios AoE at the front of the sector and dodge either to the side, or back.</li><li><b>2, 3, 4s:</b> Share a Condensed Wave Cannon Kyrios beam at the back.</li><li><b>2s:</b> Move into the middle of the arena to start pulling away from the group.</li></ul></td>
+    <td><p><b>9.</b> The first set of debuffs expire.</p><ul><li><b>1s:</b> Take the Guided Missile Kyrios AoE at the front of the sector and dodge either to the side, or back.</li><li><b>2, 3, 4s:</b> Share a Condensed Wave Cannon Kyrios beam at the back.</li></ul></td>
     <td><img src="../images/01_omega/pantokrator_06.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>10.</b> First set of AoEs (after beam + missile).</p><ul><li><b>1s:</b> Rejoin the party.</li><li><b>2s:</b> Move to the front of the sector.</li></ul></td>
+    <td><p><b>10.</b> First set of AoEs (after beam + missile).</p><ul><li><b>1s:</b> Rejoin the party.</li><li><b>2s:</b> Move into the middle of the arena to start pulling away from the group.</li></ul></td>
     <td><img src="../images/01_omega/pantokrator_07.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>11.</b> Second set of AoEs (after beam + missile).</p><ul><li><b>2s:</b> Move in front of the sector.</li></ul></td>
+    <td><p><b>11.</b> Second set of AoEs (after beam + missile).</p><ul><li><b>2s:</b> Move to the front of the sector.</li></ul></td>
     <td><img src="../images/01_omega/pantokrator_08.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>12.</b> Third set of baited AoEs. The next set of beams and missiles resolve.</p><ul><li><b>2s:</b> Dodge your AoE backwards and prepare to rejoin the party.</li></ul></td>
+    <td><p><b>12.</b> Third set of baited AoEs. The next set of beams and missiles resolve.</p><ul><li><b>2s:</b> Dodge your AoE to the side and prepare to rejoin the party.</li></ul></td>
     <td><img src="../images/01_omega/pantokrator_09.jpg"></td>
   </tr>
-  <tr>
-    <td><p><b>13.</b> First set of AoEs (after beam + missile).</p><ul><li><b>2s:</b> Rejoin the party.</li><li><b>3s:</b> Dodge into the middle of the arena to move ahead of the party.</li></ul></td>
-    <td><img src="../images/01_omega/pantokrator_10.jpg"></td>
-  </tr>
-  <tr>
-    <td><p><b>14.</b> Second set of AoEs (after beam + missile).</p><ul><li><b>2s:</b> Move in front of the party.</li></ul></td>
-    <td><img src="../images/01_omega/pantokrator_11.jpg"></td>
-  </tr>
-  <tr>
-    <td><p><b>15.</b> Third set of baited AoEs. The next set of beams and missiles resolve.</p><p>The loop repeats one more time, with the 4s moving out.</p></td>
-    <td><img src="../images/01_omega/pantokrator_12.jpg"></td>
-  </tr>
 </table>
+
+The loop repeats two more times (with players numbered 3 and 4 taking their turns to leave the stack to bait missiles).
 
 ### Wave Cannons
 
@@ -207,5 +194,24 @@ Omega will then target the three random non-tank players with a red marker for W
     <li>The missile player at the back is potentially blocked by <em>three</em> player's AoEs and it's much easier to accidentally box them in, leaving them with nowhere to go.</li>
     <li>Furthermore, when something <em>does</em> go wrong, it is much harder to diagnose what the root problem is, as things often look okay from one player's perspective, but has trickle-down consequences for other players.</li>
   </ul></td></tr>
+</table>
+</details>
+
+## Troubleshooting
+
+<details markdown=block>
+<summary><b>[Pantokrator]</b> Why does someone keep getting an AoE dropped in front of them?</summary>
+<table>
+  <tr><td>
+  <p>Check that all players move the same way.</p>
+  <p>There are actually <em>two</em> ways to drop AoEs during Pantokrator.</p>
+  <p>We have the next missile player stay with the group for one more AoE after the Wave Cannon, before breaking away to the front (the yellow path).</p>
+  <p>There is a faster path that Haru Glory used at the beginning of their prog that has the next missile player break away immediately when the Wave Cannon hits (the green path).</p>
+  <p>There will be a problem when one player does the slow, yellow path, and the next player does the faster, green path. The front player's AoEs won't have gone off by the time the next player wants to move into that spot.</p>
+  <p>Haru Glory's group also swapped to the slower path later on.</p>
+  </td>
+  <td><img src="../images/01_omega/pantokrator_movement.jpg"></td>
+  <td><img src="../images/01_omega/pantokrator_movement_fast.jpg"></td>
+  </tr>
 </table>
 </details>
