@@ -240,7 +240,14 @@ This time around, there are two differences:
 <b>UNDER CONSTRUCTION!</b>
 </div>
 
-![](../images/03_omega_reconfigured/monitors.jpg)
+I currently favour the following setup, although may reconsider this in the future.
+
+<table>
+  <tr>
+    <td><img src="../images/03_omega_reconfigured/monitors_pt_left.jpg"></td>
+    <td><img src="../images/03_omega_reconfigured/monitors_pt_right.jpg"></td>
+  </tr>
+</table>
 
 ## Frequently Asked Questions
 
