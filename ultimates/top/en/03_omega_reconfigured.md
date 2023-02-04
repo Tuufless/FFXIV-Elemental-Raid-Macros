@@ -8,15 +8,52 @@ permalink: /ultimates/top/03_omega_reconfigured/
 
 # Omega Reconfigured
 
-<div style="background-color: #200 ; padding: 10px; border: 1px solid;">
-<b>UNDER CONSTRUCTION!</b>
-</div>
+This is the only phase in the fight with a transitional mechanic.
 
 ## Transition
 
 <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
 <b>UNDER CONSTRUCTION!</b>
 </div>
+
+<table>
+  <tr>
+    <td><p><b>1.</b> Identify and split up:</p><ul><li><b>High-powered Sniper Cannon Fodders:</b> Pair up with a player with no debuffs north.</li><li><b>Sniper Cannon Fodders:</b> Spread out along the southern half.</li><li><b>No debuffs:</b> Pair up with a High-powered Sniper Cannon Fodder player north.</li></ul></td>
+    <td><img src="../images/03_omega_reconfigured/transition_01.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>2.</b> First pulse of the expanding AoE goes off.</p><p>Three arms will appear around the arena, 120 degrees from one another.</p><p><b>Note where these first set of arms are.</b></p></td>
+    <td><img src="../images/03_omega_reconfigured/transition_02.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>3.</b> Second pulse goes off.</p><p>The second set of arms will appear around the arena.</p></td>
+    <td><img src="../images/03_omega_reconfigured/transition_03.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>4.</b> Third pulse goes off.</p></td>
+    <td><img src="../images/03_omega_reconfigured/transition_04.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>5.</b> Fourth pulse goes off.</p><p>At this point, all players should be in position for the second wave of mechanics.</p></td>
+    <td><img src="../images/03_omega_reconfigured/transition_05.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>6.</b> First pulse of the second wave goes off.</p></td>
+    <td><img src="../images/03_omega_reconfigured/transition_06.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>7.</b> Second pulse of the second wave goes off.</p><p>The first set of arms will telegraph an AoE around them.</p></td>
+    <td><img src="../images/03_omega_reconfigured/transition_07.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>8.</b> Third pulse of the second wave goes off.</p><p>The first set of arms explode, while the second set of arms telegraph their explosion.</p><p><b>Move into the intersection of the expanding pulse and the first set of AoE</b> so you do not get hit by the second set of arms.</b></p></td>
+    <td><img src="../images/03_omega_reconfigured/transition_08.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>9.</b> Player debuffs resolve along with the second set of arm's AoE.</p></td>
+    <td><img src="../images/03_omega_reconfigured/transition_09.jpg"></td>
+  </tr>
+</table>
 
 ## Hello, World
 
