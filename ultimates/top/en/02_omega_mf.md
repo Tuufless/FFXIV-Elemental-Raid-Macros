@@ -100,19 +100,13 @@ Omega-F will teleport North and begin casting Laser Shower, which acts as the ha
 
 Meanwhile, five more Omega-M/F clones outside the arena will throw various mechanics at the party to resolve.
 
-<div style="background-color: #200 ; padding: 10px; border: 1px solid;">
-<b>UNDER CONSTRUCTION!</b>
-<p>I am currently illustrating <b>Arthars'</b> Limitless Synergy strat, which baits the Sagittarius Arrow through the middle of the boss before dodging towards where the two tethers are.</p><p>This <en>may</em> be changed to <b>Kindred's</b> Limitless Synergy strat, which baits the Sagittarius Arrow outside the boss's hitbox, and dodges inside.</p>
-<p>In addition, super-mitigating Optimised looks simple, so I'm going with that for the time being. <b>However</b>, looking at FFLogs, <em>none</em> of the cleared groups at the time of writing are doing this, making me wonder if there's something I'm missing.</p>
-</div>
-
 <table>
   <tr>
-    <td><p><b>7.</b> Stack under the boss, while the two tanks look for the two tethers.</p><ul><li><b>MT:</b> Take the North (or West) tether and point it clockwise.</li><li><b>ST:</b> Take the South (or East) tether and point it clockwise.</li></ul></td>
+    <td><p><b>7.</b> Stack outside the target circle, SSW of the boss while the two tanks take the two tethers and point them clockwise.</p><ul><li><b>MT:</b> Take the north (or west) tether.</li><li><b>ST:</b> Take the south (or east) tether.</li></ul></td>
     <td><img src="../images/02_omega_mf/limitless_synergy_01.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>8.</b> Dodge the Sagittarius Arrow's telegraph by moving anti-clockwise of either tether.</p></td>
+    <td><p><b>8.</b> When the Sagittarius Arrow's telegraph appears, dodge it by moving into the boss's target circle.</p></td>
     <td><img src="../images/02_omega_mf/limitless_synergy_02.jpg"></td>
   </tr>
   <tr>
