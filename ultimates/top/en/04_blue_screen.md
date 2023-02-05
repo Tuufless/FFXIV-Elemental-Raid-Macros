@@ -12,7 +12,7 @@ permalink: /ultimates/top/04_blue_screen/
 
 <table>
   <tr>
-    <td width="50%"><p><b>1.</b> Spread out along Omega's sides, leaving a space in the south.</p><p>From north-to-south, we have:</p><ul><li><b>Tanks > Healers > Ranged > Melee</b></li></ul><p>Omega will target two random players with Wave Cannon stack markers.</p><ul><li><b>If your side has both stack markers:</b> The <b>lower</b> stack marker will swap to the other side.</li><li><b>If your side has no stack markers:</b> Your <b>melee</b> will swap to the other side.</li></ul><p><em>In this example, MT and D3 are targeted, so D2 and D3 will swap sides later.</em></p></td>
+    <td width="50%"><p><b>1.</b> Spread out along Omega's sides, leaving a space in the south.</p><p>From north-to-south, we have:</p><ul><li><b>Tanks > Ranged > Healers > Melee</b></li></ul><p>Omega will target two random players with Wave Cannon stack markers.</p><ul><li><b>If your side has both stack markers:</b> The <b>lower</b> stack marker will swap to the other side.</li><li><b>If your side has no stack markers:</b> Your <b>melee</b> will swap to the other side.</li></ul><p><em>In this example, MT and H1 are targeted, so H1 and D2 will swap sides later.</em></p></td>
     <td><img src="../images/04_blue_screen/blue_screen_1_1.jpg"></td>
   </tr>
   <tr>
@@ -52,7 +52,7 @@ The following sets of Wave Cannons now come with the expanding AoE from the cent
 
 <table>
   <tr>
-    <td width="50%"><p><b>8.</b> Omega targets two random players with Wave Cannon stacks.</p><p><em>In this example, H2 and D2 are targeted, so D1 and D2 will swap groups later.</em></p></td>
+    <td width="50%"><p><b>8.</b> Omega targets two random players with Wave Cannon stacks.</p><p><em>In this example, D2 and D4 are targeted, so D1 and D2 will swap groups later.</em></p></td>
     <td><img src="../images/04_blue_screen/blue_screen_3_1.jpg"></td>
   </tr>
   <tr>
