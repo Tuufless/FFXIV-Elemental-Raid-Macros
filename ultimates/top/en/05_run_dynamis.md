@@ -13,8 +13,10 @@ Notably, all players must *end* this phase with three stacks of Dynamis in order
 ## Run: Dynamis (Delta Version)
 
 - Two pairs of players will be tethered with the red/green tether.
+  - Red/green tethered players will be **taking monitor hits**.
 - Two pairs of players will be tethered with the blue tether.
-    - Hello, Near World and Hello, Distant World will appear on two players with a blue tether.
+  - Blue tethered players will be handling **Pile Pitch**.
+  - Hello, Near World and Hello, Distant World will appear on two players with a blue tether.
 
 <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
 <p><b>UNDER CONSTRUCTION!</b></p>
