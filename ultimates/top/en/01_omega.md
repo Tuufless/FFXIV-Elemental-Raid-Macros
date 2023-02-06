@@ -101,8 +101,8 @@ We decided to go with **HaruGlory's** Pantokrator strat, which puts the beam at 
       <p>Everybody continues to <b>stagger-step</b> forward, while the next player to bait the missile then breaks away from the party:</p>
       <ol start="3">
         <li>Drop the next AoE in the center.</li>
-        <li>Drop the next AoE in thefront (the next round of beams + missiles resolves here).</li>
-        <li>Drop the next AoE back and <b>out</b>.</b></li>
+        <li>Drop the next AoE in the front (the next round of beams + missiles resolves here).</li>
+        <li>Drop the next AoE back and <b>out</b>.</li>
         <li>Rejoin the party. You have one extra AoE to do so before the next beam + missile resolves.</li>
       </ol>
     </td>
