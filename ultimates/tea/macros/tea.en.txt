@@ -25,8 +25,8 @@
 　■ Initial spread　　　　　■ Enumeration：
 　　D3D4　　MT→CC　　　　West：D1D3H1
 　H1　　H2　ST→BJ　　　　　East：D2D4H2
- 　ST　　MT　※MTST swaps　※D1D2 swap if
-　　D1D2　　　at Photon　　　　needed
+ 　ST　　MT　※MTST swap　　　※D1D2 swap
+　　D1D2　　places at Photon　places if needed
 　■ Nisi　　　　　　　1. After Photon
 　　MTD1*、STD2*　　2. After Enumeration
 　　H1D3、H2D4　　  3. After Plasma Shield
