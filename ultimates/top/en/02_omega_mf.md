@@ -37,7 +37,7 @@ After a while, Omega-M and Omega-F will both cast Party Synergy, the first major
     <td><img src="../images/02_omega_mf/party_synergy_01.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>2.</b> Playstation markers appear.</p><p>If your group has two of the same marker, the <b>lower</b> player swaps groups.</p><p><em>(In this example, the MT and D4 will swap groups.)</em></p><p><b>Remember your Playstation symbol and which side you will be on for later.</b></p><p>The symbols will disappear.</p></td>
+    <td><p><b>2.</b> Playstation markers appear.</p><p>If your group has two of the same marker, the <b>lower</b> player swaps groups.</p><p><em>(Equivalently, if your tether goes upwards, swap groups.)</em></p><p><em>(In this example, the MT and D4 will swap groups.)</em></p><p><b>Remember your Playstation symbol and which side you will be on for later.</b></p><p>The symbols will disappear.</p></td>
     <td><img src="../images/02_omega_mf/party_synergy_02.jpg"></td>
   </tr>
   <tr>
@@ -62,7 +62,7 @@ After a while, Omega-M and Omega-F will both cast Party Synergy, the first major
     <p><b>M Shield, F Spear:</b></p><img src="../images/02_omega_mf/party_synergy_03b.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>4.</b> Using the Eye as North, split up into your 4:4 groups.</p><p>If the party's debuff is Mid-Glitch, spread in the order 〇×△□ from top-to-bottom.</p><p>Otherwise, if the party's debuff is Remote Glitch, only the <b>right-side group's 〇 and □</b> swap positions.</p></td>
+    <td><p><b>4.</b> Using the Eye as North, split up into your 4:4 groups.</p><p>If the party's debuff is Mid Glitch, spread in the order 〇×△□ from top-to-bottom.</p><p>Otherwise, if the party's debuff is Remote Glitch, only the <b>right-side group's 〇 and □</b> swap positions.</p></td>
     <td><img src="../images/02_omega_mf/party_synergy_04a.jpg"><img src="../images/02_omega_mf/party_synergy_04b.jpg"></td>
   </tr>
   <tr>
@@ -75,7 +75,7 @@ After a while, Omega-M and Omega-F will both cast Party Synergy, the first major
       <li>The left-side group will always knockback to the west.</li>
       <li>The right-side group will adjust depending on the party's debuff:
         <ul>
-          <li><b>Mid-Glitch:</b> Knockback south.</li>
+          <li><b>Mid Glitch:</b> Knockback south.</li>
           <li><b>Remote Glitch:</b> Knockback east.</li>
         </ul>
       </li>
