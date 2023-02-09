@@ -114,7 +114,11 @@ The following is the Kinda Awk strat:
 <p>The strat is still in testing, and it is <b>likely</b> to change.</p>
 </div>
 
-The following is an adaptation of the GMT Sigma strat, adapted to better fit some of the conventions done in other phases.
+The following is an adaptation of the GMT Sigma strat, tweaked to better fit some of the conventions done in other phases.
+
+Run: Dynamis (Sigma Version) can be subdivided into three sub-phases.
+
+### Part One
 
 <table>
   <tr>
@@ -162,8 +166,13 @@ The following is an adaptation of the GMT Sigma strat, adapted to better fit som
     <td><p><b>14.</b> Marks and arm beams resolve.</p></td>
     <td><img src="../images/05_run_dynamis/run_dynamis_sigma_05.jpg"></td>
   </tr>
+</table>
+
+### Part Two
+
+<table>
   <tr>
-    <td><p><b>15.</b> Move to the center of the arena.</p><p>Towers will spawn in the formation corresponding to Mid/Remote Glitch.</p><ul><li><b>Remote Glitch:</b> Five towers will spawn.</li><li><b>Mid Glitch:</b> Six towers will spawn.</li></ul><p>The towers will spawn using the same North from before <b>or be flipped vertically</b>.</p><p>Identify the tower orientation, and position yourself in the center to get knocked back into your tower (see below).</p></td>
+    <td width="50%"><p><b>15.</b> Move to the center of the arena.</p><p>Towers will spawn in the formation corresponding to Mid/Remote Glitch.</p><ul><li><b>Remote Glitch:</b> Five towers will spawn.</li><li><b>Mid Glitch:</b> Six towers will spawn.</li></ul><p>The towers will spawn using the same North from before <b>or be flipped vertically</b>.</p><p>Identify the tower orientation, and position yourself in the center to get knocked back into your tower (see below).</p></td>
     <td><b>Remote Glitch:</b><img src="../images/05_run_dynamis/run_dynamis_sigma_06a.jpg"><b>Mid Glitch:</b>
     <img src="../images/05_run_dynamis/run_dynamis_sigma_06b.jpg"></td>
   </tr>
@@ -222,6 +231,41 @@ The following is an adaptation of the GMT Sigma strat, adapted to better fit som
     </ul></td>
     <td><b>Remote Glitch:</b><img src="../images/05_run_dynamis/run_dynamis_sigma_07a.jpg"><b>Mid Glitch:</b>
     <img src="../images/05_run_dynamis/run_dynamis_sigma_07b.jpg"></td>
+  </tr>
+</table>
+
+### Part Three
+
+<table>
+  <tr>
+    <td width="50%"><p><b>17.</b> Omega-F will spawn opposite two Right Arm Units and Omega's Rear Power Unit in the center.</p><p>Use Omega-F as North, and note whether Omega-F is in her blade-legs stance or not.</p>
+    <p>The party needs to organise themselves into three groups:</p>
+    <ul>
+      <li>A group of three goes to Omega-F's side.
+        <ul><li>None of these players can have either Hello, World.</li>
+        <li>Two players will take the Right Arm Units' tethers. These two players <b>must</b> have a stack of Dynamis</li>
+        <li>The remaining player will group with Hello, Distant World.</li></ul>
+      </li>
+      <li>A group of three goes opposite Omega-F.
+        <ul><li>This group contains the player with Hello, Near World.</li></ul>
+      </li>
+      <li>A group of two goes opposite Omega-F.
+        <ul><li>This group contains the player with Hello, Distant World.</li></ul>
+      </li>
+    </ul></td>
+    <td><img src="../images/05_run_dynamis/run_dynamis_sigma_08.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>18.</b> The Rear Power Unit will start firing a straight-line AoE while slowly rotating.</p>Depending on whether Omega-F has her blade-legs or not, either wait and stay outside <b>or</b> follow the Rear Power Unit's AoE.<p></p></td>
+    <td><img src="../images/05_run_dynamis/run_dynamis_sigma_09.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>19.</b> After rotating and firing fourteen times, the Rear Power Unit will fire its last laser in this orientation.</p><p>Use this time to move into position to resolve Hello, World.</p></td>
+    <td><img src="../images/05_run_dynamis/run_dynamis_sigma_10.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>20.</b> Hello, World debuffs resolve along with the Right Arm Unit's lasers.</p><p>Done correctly:</p><ul><li>Four players will have one stack of Dynamis</li><li>The other four players will have two stacks of Dynamis.</li></ul></td>
+    <td><img src="../images/05_run_dynamis/run_dynamis_sigma_11.jpg"></td>
   </tr>
 </table>
 
