@@ -273,16 +273,30 @@ This time around, there are two differences:
 
 ## Oversampled Wave Cannon
 
-<div style="background-color: #200 ; padding: 10px; border: 1px solid;">
-<b>UNDER CONSTRUCTION!</b>
-</div>
+Omega then brings back its "monitors" mechanic from O12S-2, with the added twist that three random players *also* get their own set of monitors to resolve.
 
-I currently favour the following setup, although may reconsider this in the future.
+With four monitors in total (Omega and three players) and each monitor hitting two players, the party needs to arrange themselves such that all players will take exactly one monitor hit each.
+
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+<details markdown=block>
+<summary><b>[Click to Expand] Oversampled Wave Cannon Loading</b></summary>
+<table>
+  <tr>
+    <td><img src="../images/03_omega_reconfigured/debuffs/monitors_debuff.png"></td>
+    <td><p><em>Preparing oversampled wave cannon, which will fire in the direction of designated player when this effect expires.</em></p><p>This is an extension of the mechanic "Oversampled Wave Cannon" from O12S-2.</p><p>Monitors will appear on one side of Omega, and two random players on the side with the monitors will be hit with an AoE. If there are fewer than two players, then a random player (from anywhere) is selected for each player missing instead.</p><p>This phase extends the idea and adds monitors to players that work the same way- when the debuff resolves, two random players on the monitor side of the debuffed <em>player</em> will be selected for an AoE.</p></td>
+  </tr>
+</table>
+</details>
+</div>
 
 <table>
   <tr>
-    <td><img src="../images/03_omega_reconfigured/monitors_pt_left.jpg"></td>
-    <td><img src="../images/03_omega_reconfigured/monitors_pt_right.jpg"></td>
+    <td width="50%"><p><b>19.</b> Line up, north-to-south:</p><ul><li><b>North:</b> MT ST D1 D2 D3 D4 H1 H2 <b>:South</b></li></ul></td>
+    <td><img src="../images/03_omega_reconfigured/monitors_pt_left_01.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>20.</b> Omega will ready Oversampled Wave Cannon (monitors), and debuff three random players with their own set of monitors.</p><p>Resolve them as follows, with all three monitor players on the other side of Omega's monitors.</p><p><em>In this example, Omega's monitors are pointing east, but they may point west instead.</em></p></td>
+    <td><img src="../images/03_omega_reconfigured/monitors_pt_left_02.jpg"></td>
   </tr>
 </table>
 
