@@ -23,6 +23,9 @@ permalink: /ultimates/top/02_omega_mf/
   </tr>
 </table>
 
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+<b>Tip:</b> If tanks use Rampart at the end of the previous phase (when Omega jumps away), Rampart will cover this Solar Ray and be back up in time for the tethers in Limitless Synergy.</div>
+
 After a while, Omega-M and Omega-F will both cast Party Synergy, the first major mechanic of this phase.
 
 ## Party Synergy
@@ -41,28 +44,42 @@ After a while, Omega-M and Omega-F will both cast Party Synergy, the first major
     <td><img src="../images/02_omega_mf/party_synergy_02.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>3.</b> Locate the Omega-M and Omega-F towards the edge of the arena that are opposite one another.</p><p>Dodge their AoEs.</p>
-    <ul>
-      <li><b>Omega-M:</b>
-        <ul>
-          <li><b>Sword:</b> Move out.</li>
-          <li><b>Shield:</b> Stay in.</li>
-        </ul>
-      </li>
-      <li><b>Omega-F:</b>
-        <ul>
-          <li><b>Blade-legs:</b> Stay in the center.</li>
-          <li><b>Spear:</b> Move to the sides.</li>
-        </ul>
-      </li>
-    </ul></td>
-    <td><p><b>M Sword, F Blade-legs:</b></p><img src="../images/02_omega_mf/party_synergy_03d.jpg">
-    <p><b>M Sword, F Spear:</b></p><img src="../images/02_omega_mf/party_synergy_03c.jpg">
-    <p><b>M Shield, F Blade-legs:</b></p><img src="../images/02_omega_mf/party_synergy_03a.jpg">
-    <p><b>M Shield, F Spear:</b></p><img src="../images/02_omega_mf/party_synergy_03b.jpg"></td>
+    <td><p><b>3.</b> Locate the Omega-M and Omega-F towards the edge of the arena that are opposite one another.</p><p>Dodge their AoEs.</p><p><em>(You do not need to consider the Mid/Remote Glitch tethers at this point.)</em></p></td>
+    <td><img src="../images/02_omega_mf/party_synergy_03.jpg"></td>
+  </tr>
+</table>
+
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+<details markdown=block>
+<summary><b>[Click to Expand] Safe spots</b></summary>
+<table>
+  <tr>
+    <td width="50%">
+      <p><b>M Sword, F Blade-legs:</b></p>
+      <img src="../images/02_omega_mf/party_synergy_03d.jpg">
+    </td>
+    <td>
+      <p><b>M Sword, F Spear:</b></p>
+      <img src="../images/02_omega_mf/party_synergy_03c.jpg">
+    </td>
   </tr>
   <tr>
-    <td><p><b>4.</b> Using the Eye as North, split up into your 4:4 groups.</p><p>If the party's debuff is Mid Glitch, spread in the order 〇×△□ from top-to-bottom.</p><p>Otherwise, if the party's debuff is Remote Glitch, only the <b>right-side group's 〇 and □</b> swap positions.</p></td>
+    <td>
+      <p><b>M Shield, F Blade-legs:</b></p>
+      <img src="../images/02_omega_mf/party_synergy_03a.jpg">
+    </td>
+    <td>
+      <p><b>M Shield, F Spear:</b></p>
+      <img src="../images/02_omega_mf/party_synergy_03b.jpg">
+    </td>
+  </tr>
+</table>
+</details>
+</div>
+
+<table>
+  <tr>
+    <td width="50%"><p><b>4.</b> Using the Eye as North, split up into your 4:4 groups.</p><p>If the party's debuff is Mid Glitch, spread in the order 〇×△□ from top-to-bottom.</p><p>Otherwise, if the party's debuff is Remote Glitch, only the <b>right-side group's 〇 and □</b> swap positions.</p></td>
     <td><img src="../images/02_omega_mf/party_synergy_04a.jpg"><img src="../images/02_omega_mf/party_synergy_04b.jpg"></td>
   </tr>
   <tr>
