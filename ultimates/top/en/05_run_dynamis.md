@@ -20,7 +20,7 @@ Notably, all players must *end* this phase with three stacks of Dynamis in order
 
 <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
 <p><b>UNDER CONSTRUCTION!</b></p>
-<p>The strat is still in testing, and it is <b>likely</b> to change.</p>
+<p>The strats are still in testing, and are <b>likely</b> to change.</p>
 </div>
 
 The following is the Kinda Awk strat:
@@ -132,7 +132,7 @@ Run: Dynamis (Sigma Version) can be subdivided into three sub-phases.
     <td><img src="../images/05_run_dynamis/run_dynamis_sigma_02.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>12.</b> Six random players get marked.</p>
+    <td><p><b>12.</b> Six random players get marked, with each tether pair getting at least one marker.</p>
     <p>Check how many marks your pair has, and find the other pair that has the same number of marks.</p>
     <ul>
       <li>The <b>left-most pair with both players marked</b> takes N/S:
@@ -274,3 +274,77 @@ Run: Dynamis (Sigma Version) can be subdivided into three sub-phases.
 <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
 <b>UNDER CONSTRUCTION!</b>
 </div>
+
+### Part One
+
+<table>
+  <tr>
+    <td width="50%"><p><b>21.</b> Unlike Delta and Sigma, Omega-F will stay on the arena during this part of Omega.</p><p>Omega Reconfigured will spawn in the center, and a Omega-M/F pair will spawn at opposite intercardinal positions, again with a random Sword/Shield and Staff/Blade-Legs combo.</p></td>
+    <td><img src="../images/05_run_dynamis/run_dynamis_omega_01.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>22.</b> A second Omega-M/F pair will spawn at the remaining two intercardinal positions, again with a random Sword/Shield and Staff/Blade-Legs combo.</p></td>
+    <td><img src="../images/05_run_dynamis/run_dynamis_omega_02.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>23.</b> Omega will channel a Diffuse Wave Cannon ("lights") at two opposite cardinal directions.</p><p>This must be resolved together with the first Omega-M/F pair's AoEs.</p></td>
+    <td><img src="../images/05_run_dynamis/run_dynamis_omega_03.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>24.</b> The Omega Reconfigured will then repeat this at the other two cardinal directions, which must be resolved together with the second Omega-M/F pair's AoEs.</p></td>
+    <td><img src="../images/05_run_dynamis/run_dynamis_omega_04.jpg"></td>
+  </tr>
+</table>
+
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+<details markdown=block>
+<summary><b>[Click to Expand] Safe spots</b></summary>
+<table>
+  <tr>
+    <td width="50%">
+      <p><b>M Sword, F Blade-legs:</b></p>
+      <img src="../images/05_run_dynamis/run_dynamis_omega_03d.jpg">
+    </td>
+    <td>
+      <p><b>M Sword, F Spear:</b></p>
+      <img src="../images/05_run_dynamis/run_dynamis_omega_03c.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>M Shield, F Blade-legs:</b></p>
+      <img src="../images/05_run_dynamis/run_dynamis_omega_03a.jpg">
+    </td>
+    <td>
+      <p><b>M Shield, F Spear:</b></p>
+      <img src="../images/05_run_dynamis/run_dynamis_omega_03b.jpg">
+    </td>
+  </tr>
+</table>
+</details>
+</div>
+
+### Part Two
+
+<table>
+  <tr>
+    <td width="50%"><p><b>25.</b> Omega will then present a single monitor set, to be resolved together with the first set of Hello, World debuffs.<ul><li>Two players with two Dynamis stacks take Omega's monitor hits.<ul><li>If there are player(s) with two Dynamis stacks <b>and</b> a second Hello, World debuff, they <b>must</b> take the monitors here.</li></ul></li></ul></p></td>
+    <td><img src="../images/05_run_dynamis/run_dynamis_omega_05.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>26.</b> Hello, World debuffs resolve.</p><p>Done correctly, there should be:</p><ul><li>Two players with three Dynamis stacks.<ul><li>These players should <em>not</em> have the second set of Hello, World debuffs.</li></ul></li><li>The other six players should all have two Dynamis stacks.</li></ul></td>
+    <td><img src="../images/05_run_dynamis/run_dynamis_omega_06.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>27.</b> Omega then spawns at the edge of the arena, and tethers to two players.</p><ul><li><b>Players with 3 stacks:</b> Take the tethers and stand beside Omega.</li><li><b>Everybody else:</b> Form up opposite Omega to resolve Hello, Worlds.</li></ul></td>
+    <td><img src="../images/05_run_dynamis/run_dynamis_omega_07.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>28.</b> Hello, World debuffs resolve.</p><p>All players should now have three Dynamis stacks each.</p></td>
+    <td><img src="../images/05_run_dynamis/run_dynamis_omega_08.jpg"></td>
+  </tr>
+</table>
+
+Omega-F then does one more set of Solar Ray tankbusters before casting Blind Faith.
+
+Like Blue Screen, Omega-F **must** be brought to under 20% HP by the end of Blind Faith's cast to proceed onto the final phase of the fight.
