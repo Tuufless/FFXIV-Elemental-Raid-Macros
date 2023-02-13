@@ -114,11 +114,15 @@ The following is the Kinda Awk strat:
 <p>The strat is still in testing, and it is <b>likely</b> to change.</p>
 </div>
 
-The following is an adaptation of the GMT Sigma strat, tweaked to better fit some of the conventions done in other phases.
+The following is the [ETO strat](https://youtu.be/lYVRUeyVfDs) used to resolve towers. It makes the first part a little more frontloaded in exchange for making the tower assignments very simple.
 
-Run: Dynamis (Sigma Version) can be subdivided into three sub-phases.
+The first part is rather unusual, but it means that resolving the towers can be broken down into three rules:
 
-### Part One
+1. Take the tower at, or next to your position.
+2. If you are between two towers, move to the tower that needs two players (these will be the most north, or the most south towers).
+3. If there are no towers either at, or next to your position, take the tower directly opposite.
+
+### Setup
 
 <table>
   <tr>
@@ -128,113 +132,72 @@ Run: Dynamis (Sigma Version) can be subdivided into three sub-phases.
     <td><img src="../images/05_run_dynamis/run_dynamis_sigma_01.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>11.</b> Arrange each row in order:</p><ul><li><b>Left:</b> 〇 > × > △ > □ <b>:Right</b></li></ul><p><em>(All tethers should now be vertical)</em></p><p><b>Remember your group (upper/lower), and your Playstation symbol.</b></p><p>The Playstation symbols will disappear.</p></td>
+    <td><p><b>11.</b> Arrange each row in order:</p><ul><li><b>Left:</b> 〇 > × > △ > □ <b>:Right</b></li></ul><p><em>(All tethers should now be vertical)</em></p></td>
     <td><img src="../images/05_run_dynamis/run_dynamis_sigma_02.jpg"></td>
   </tr>
   <tr>
     <td><p><b>12.</b> Six random players get marked, with each tether pair getting at least one marker.</p>
-    <p>Check how many marks your pair has, and find the other pair that has the same number of marks.</p>
-    <ul>
-      <li>The <b>left-most pair with both players marked</b> takes N/S:
-        <ul>
-          <li>Upper player goes north.</li>
-          <li>Lower player goes south.</li></ul>
-      </li>
-      <li>The <b>right-most pair with both players marked</b> takes E/W:
-        <ul>
-          <li>Upper player goes west.</li>
-          <li>Lower player goes east.</li></ul>
-      </li>
-      <li>The <b>left-most pair with only one player marked</b> resolves the left hand:
-        <ul>
-          <li>Marked player goes south-west.</li>
-          <li>Unmarked player goes north-east.</li></ul>
-      </li>
-      <li>The <b>right-most pair with only one player marked</b> resolves the right hand:
-        <ul>
-          <li>Marked player goes south-east.</li>
-          <li>Unmarked player goes north-west.</li></ul>
-      </li>
-    </ul></td>
+    <p>If your pair only has one marker, swap if needed to have the <b>non-marker</b> player north (away from the hands).</p><p><em>(In this example, H1 and D4 swapped rows.)</em></p></td>
     <td><img src="../images/05_run_dynamis/run_dynamis_sigma_03.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>13.</b> Move to your positions and resolve Mid/Remote Glitch.</p><p><em>In this example, players have Mid Glitch.</em></p></td>
+    <td><p><b>13.</b> The top row takes up their positions at the edge of the arena.</p>
+    <p><em>All these positions will be between two markers.</em></p>
+    <ul>
+      <li>The <b>left-most</b> player <b>without a marker</b> goes NNW.</li>
+      <li>The <b>right-most</b> player <b>without a marker</b> goes NNE.</li>
+      <li>The <b>left-most</b> player <b>with a marker</b> goes WSW.</li>
+      <li>The <b>right-most</b> player <b>with a marker</b> goes ESE.</li>
+    </ul></td>
     <td><img src="../images/05_run_dynamis/run_dynamis_sigma_04.jpg"></td>
-  </tr>
-  <tr>
-    <td><p><b>14.</b> Marks and arm beams resolve.</p></td>
-    <td><img src="../images/05_run_dynamis/run_dynamis_sigma_05.jpg"></td>
   </tr>
 </table>
 
-### Part Two
+With the top row in position, the bottom row now takes up their positions, depending on whether the debuff is Remote, or Mid Glitch.
+
+### Remote Glitch
 
 <table>
   <tr>
-    <td width="50%"><p><b>15.</b> Move to the center of the arena.</p><p>Towers will spawn in the formation corresponding to Mid/Remote Glitch.</p><ul><li><b>Remote Glitch:</b> Five towers will spawn.</li><li><b>Mid Glitch:</b> Six towers will spawn.</li></ul><p>The towers will spawn using the same North from before <b>or be flipped vertically</b>.</p><p>Identify the tower orientation, and position yourself in the center to get knocked back into your tower (see below).</p></td>
-    <td><b>Remote Glitch:</b><img src="../images/05_run_dynamis/run_dynamis_sigma_06a.jpg"><b>Mid Glitch:</b>
-    <img src="../images/05_run_dynamis/run_dynamis_sigma_06b.jpg"></td>
+    <td width="50%"><p><b>14a.</b> The bottom row takes up their positions <b>opposite</b> their tether partner.</p><p><em>The players at the north side (at the WNW and ENE sectors) are far enough to resolve Remote Glitch, but not so far that they steal the tethers from the arms.</em></p></td>
+    <td><img src="../images/05_run_dynamis/run_dynamis_sigma_05a.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>16.</b> Omega-F will teleport into the middle and knockback all players into their towers.</p><p>Your tower is determined by your Playstation symbol from earlier, and whether you were in the upper or lower group.</p>
-    <p><b>Remote Glitch:</b></p>
-    <ul>
-      <li>The upper group will take the upper part of the arena (highlighted in red):
-        <ul>
-          <li><b>West:</b> 1 > 2 > 3 > 4<b> :East</b>
-            <ul>
-              <li>〇 : West tower.</li>
-              <li>× and △ : North tower.</li>
-              <li>□ : East tower.</li>
-            </ul>
-          </li>
-        </ul>
-      </li>
-      <li>The lower group will take the lower part of the arena (highlighted in blue):
-        <ul>
-          <li><b>West:</b> 4 > 3 > 2 > 1<b> :East</b>
-            <ul>
-              <li>〇 and ×: South-east tower.</li>
-              <li>△ and □: South-west tower.</li>
-            </ul>
-          </li>
-        </ul>
-      </li>
-    </ul>
-    <p><b>Mid Glitch:</b></p>
-    <ul>
-      <li>The upper group will take the upper part of the arena (highlighted in red and purple):
-        <ul>
-          <li><b>West:</b> 1 > 2 > 3 > 4<b> :East</b>
-            <ul>
-              <li>〇 : WSW tower.</li>
-              <li>× : NNW tower.</li>
-              <li>△ : NNE tower.</li>
-              <li>□ : ESE tower.</li>
-            </ul>
-          </li>
-        </ul>
-      </li>
-      <li>The lower group will take the lower part of the arena (highlighted in blue and purple):
-        <ul>
-          <li><b>West:</b> 2 > 4 > 1 > 3<b> :East</b>
-            <ul>
-              <li>〇 : SSE tower.</li>
-              <li>× : WSW tower.</li>
-              <li>△ : ESE tower.</li>
-              <li>□ : SSW tower.</li>
-            </ul>
-          </li>
-        </ul>
-      </li>
-    </ul></td>
-    <td><b>Remote Glitch:</b><img src="../images/05_run_dynamis/run_dynamis_sigma_07a.jpg"><b>Mid Glitch:</b>
-    <img src="../images/05_run_dynamis/run_dynamis_sigma_07b.jpg"></td>
+    <td><p><b>15a.</b> Lasers and Wave Cannons resolve.</p></td>
+    <td><img src="../images/05_run_dynamis/run_dynamis_sigma_06a.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>16a.</b> Move into the center as Omega-F will teleport into the middle and knockback all players into their towers.</p></td>
+    <td><img src="../images/05_run_dynamis/run_dynamis_sigma_07a.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>17a.</b> The tower rules are as such:</p><ol><li>Get knocked back to the <b>nearest</b> tower from you.</li><li>If there are two towers next to you, choose the tower that requires two players (these will be the two towers closest to the N/S poles).</li></ol></td>
+    <td><img src="../images/05_run_dynamis/run_dynamis_sigma_08a.jpg"><img src="../images/05_run_dynamis/run_dynamis_sigma_09a.jpg"></td>
   </tr>
 </table>
 
-### Part Three
+### Mid Glitch
+
+<table>
+  <tr>
+    <td width="50%"><p><b>14a.</b> The bottom row takes up their positions on the same north/southern half of the arena, across from their tether partner. The tethers should look criss-crossed.</p><p><em>These player will need to move in and out as needed to satisfy the Mid Glitch requirements (about two rings in from the edge)</em></p></td>
+    <td><img src="../images/05_run_dynamis/run_dynamis_sigma_05b.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>15a.</b> Lasers and Wave Cannons resolve.</p></td>
+    <td><img src="../images/05_run_dynamis/run_dynamis_sigma_06b.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>16a.</b> Move into the center as Omega-F will teleport into the middle and knockback all players into their towers.</p></td>
+    <td><img src="../images/05_run_dynamis/run_dynamis_sigma_07b.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>17a.</b> The tower rules are as such:</p><ol><li>Get knocked back to the tower you came from.</li><li>If there is no tower at your position, take the tower <b>directly opposite</b>.</li></ol></td>
+    <td><img src="../images/05_run_dynamis/run_dynamis_sigma_08b.jpg"><img src="../images/05_run_dynamis/run_dynamis_sigma_09b.jpg"></td>
+  </tr>
+</table>
+
+### Sigma Dynamis Jumps
 
 <table>
   <tr>
