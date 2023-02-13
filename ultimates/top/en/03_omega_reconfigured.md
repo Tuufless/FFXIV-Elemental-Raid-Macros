@@ -166,11 +166,11 @@ This loop is repeated four times (so all players will have their go at each debu
   <tr>
     <td width="50%"><p><b>1.</b> Omega casts Hello, World, and players get their debuffs.</p><ul><li><b>Check which coloured-debuffs go with Critical Overflow and/or Critical Synchronization.</b></li></ul><p><em>In this example:</em></p>
     <ul>
-      <li><em>Critical Overflows start with Critical Performance (blue Nisis), so will go to blue towers.
-        <ul><li>Local Regressions follow Critical Overflows to the same colour (blue).</li></ul>
+      <li><em>Critical Overflows <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_overflow_bug.png"> start with Critical Performance <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_performance_bug.png"> (blue Nisis), so will go to blue towers.
+        <ul><li>Local Regressions (red/green tethers) follow Critical Overflows to the same colour (blue towers).</li></ul>
       </em></li>
-      <li><em>Critical Synchronization start with Critical Underflow (red Nisis), so will go with red towers.
-        <ul><li>Remote Regressions follow Critical Synchronizations to the same colour (red).</li></ul></em></li>
+      <li><em>Critical Synchronization <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_synchronization_bug.png"> start with Critical Underflow <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_underflow_bug.png"> (red Nisis), so will go with red towers.
+        <ul><li>Remote Regressions (blue tethers) follow Critical Synchronizations to the same colour (red towers).</li></ul></em></li>
     </ul>
     </td>
     <td><img src="../images/03_omega_reconfigured/hello_world_1_1.jpg"></td>
