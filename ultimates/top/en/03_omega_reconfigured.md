@@ -291,7 +291,7 @@ With four monitors in total (Omega and three players) and each monitor hitting t
 
 <table>
   <tr>
-    <td width="50%"><p><b>19.</b> Line up, north-to-south:</p><ul><li><b>North:</b> MT ST D1 D2 D3 D4 H1 H2 <b>:South</b></li></ul></td>
+    <td width="50%"><p><b>19.</b> Line up, north-to-south:</p><ul><li><b>North:</b> H1 H2 MT ST D1 D2 D3 D4 <b>:South</b></li></ul></td>
     <td><img src="../images/03_omega_reconfigured/monitors_pt_left_01.jpg"></td>
   </tr>
   <tr>
@@ -306,5 +306,11 @@ With four monitors in total (Omega and three players) and each monitor hitting t
 <summary><b>[Local Regression]</b> Why do the Local Regression players not stand with the Critical Overflows in the final iteration?</summary>
 <table>
   <tr><td><p>Omega casts "Critical Error" at the end of Hello, World.</p><p>This will apply a new Critical Overflow Bug onto <em>all</em> players. However, because all players have the Critical Overflow Debugger buff, this additional Critical Overflow Bug is blocked.</p><p>If the Local Regression players stayed with the Critical Overflow players in the final iteration, their Critical Overflow Debugger buffs would get consumed there instead.</p><p>As as result, they won't have the Critical Overflow Debugger buff when Omega casts Critical Error, and will get another round of Critical Overflows that will last into Oversampled Wave Cannon.</p></td></tr>
+</table>
+</details>
+<details markdown=block>
+<summary><b>[Oversampled Wave Cannon]</b> Why are the healers north-most? Doesn't putting healers south-most guarantee the southern spot goes to a ranged?</summary>
+<table>
+  <tr><td><p>Putting all four ranged players south <em>guarantees</em> that the southern player is a ranged, thus providing full melee uptime even in the scenario where all three monitor players are ranged, but the chances of this happening are 1/14.</p><p>Putting healers at the north side means that both extremeties will have ranged players in the average case, which allows them to go all the way to the edge of the arena to give the other players more room for error, the north-most monitor player in particular.</p><p>That being said, doing so means that a melee may have to disconnect from the boss in the worst case scenario, but this is an acceptable scenario given its likelihood.</p></td></tr>
 </table>
 </details>
