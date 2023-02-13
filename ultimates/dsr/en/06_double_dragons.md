@@ -413,8 +413,8 @@ However, player positioning is precise, and depending on which dragon players ar
       <ul>
         <li><b>D1:</b> NW corner of the white tile beside Nidhogg.</li>
         <li><b>D2:</b> Between the two white tiles besides Hraesvelgr.</li>
-        <li><b>D3:</b> 1/2 a tile east of the eastern "train track", as far north as you can go.</li>
-        <li><b>D4:</b> 1/2 a tile west of the western "train track", as far south as you can go.</li>
+        <li><b>D3:</b> 1/2 a tile west of the western "train track", as far south as you can go.</li>
+        <li><b>D4:</b> 1/2 a tile east of the eastern "train track", as far north as you can go.</li>
       </ul>
       <p><em>Depending on which dragon you are tethered to, your tether <b>may not stretch fully</b>. Use personal mitigations to help survive.</em></p>
     </td>
