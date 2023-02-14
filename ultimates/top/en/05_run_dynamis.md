@@ -112,9 +112,10 @@ The following is the Kinda Awk strat:
 <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
 <p><b>UNDER CONSTRUCTION!</b></p>
 <p>The strat is still in testing, and it is <b>likely</b> to change.</p>
+<p>(I also highly doubt that it will <em>actually</em> be picked up by PF when PF reaches this point, but I think the payoff is worth at least trying.)</p>
 </div>
 
-The following is the [ETO strat](https://youtu.be/lYVRUeyVfDs) used to resolve towers. It makes the first part a little more frontloaded in exchange for making the tower assignments very simple.
+The following is the [ETO strat](https://youtu.be/lYVRUeyVfDs) used to resolve towers. The strat frontloads some of the processing in exchange for making the tower assignments very simple.
 
 The first part is rather unusual, but it means that resolving the towers can be broken down into three rules:
 
@@ -126,22 +127,22 @@ The first part is rather unusual, but it means that resolving the towers can be 
 
 <table>
   <tr>
-    <td width="50%"><p><b>10.</b> Two arms will spawn, followed by an Omega-M clone.</p>
+    <td width="50%"><p><b>1.</b> Two arms will spawn, followed by an Omega-M clone.</p>
     <p><b>Use the Omega-M clone as North</b>. The two hands will always spawn south-west, and south-east.</p>
     <p>Line up in two rows of four.</p><p>If your row has duplicate Playstation symbols, the <b>right-most</b> player swaps.</p><p><em>(Equivalently, if your tether is going to the left, swap groups.)</em></p><p><em>In this example, the ST and D3 will swap groups.</em></p></td>
     <td><img src="../images/05_run_dynamis/run_dynamis_sigma_01.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>11.</b> Arrange each row in order:</p><ul><li><b>Left:</b> 〇 > × > △ > □ <b>:Right</b></li></ul><p><em>(All tethers should now be vertical)</em></p></td>
+    <td><p><b>2.</b> Arrange each row in order:</p><ul><li><b>Left:</b> 〇 > × > △ > □ <b>:Right</b></li></ul><p><em>(All tethers should now be vertical)</em></p></td>
     <td><img src="../images/05_run_dynamis/run_dynamis_sigma_02.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>12.</b> Six random players get marked, with each tether pair getting at least one marker.</p>
+    <td><p><b>3.</b> Six random players get marked, with each tether pair getting at least one marker.</p>
     <p>If your pair only has one marker, swap if needed to have the <b>non-marker</b> player north (away from the hands).</p><p><em>(In this example, H1 and D4 swapped rows.)</em></p></td>
     <td><img src="../images/05_run_dynamis/run_dynamis_sigma_03.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>13.</b> The top row takes up their positions at the edge of the arena.</p>
+    <td><p><b>4.</b> The top row takes up their positions at the edge of the arena.</p>
     <p><em>All these positions will be between two markers.</em></p>
     <ul>
       <li>The <b>left-most</b> player <b>without a marker</b> goes NNW.</li>
@@ -155,23 +156,26 @@ The first part is rather unusual, but it means that resolving the towers can be 
 
 With the top row in position, the bottom row now takes up their positions, depending on whether the debuff is Remote, or Mid Glitch.
 
+- The bottom row will **always** go to the opposite E/W side as their tether partner
+- The bottom row may share the same N/S half as their tether partner, depending on whether the party has Mid Glitch (same N/S) or Remote Glitch (opposite N/S).
+
 ### Remote Glitch
 
 <table>
   <tr>
-    <td width="50%"><p><b>14a.</b> The bottom row takes up their positions <b>opposite</b> their tether partner.</p><p><em>The players at the north side (at the WNW and ENE sectors) are far enough to resolve Remote Glitch, but not so far that they steal the tethers from the arms.</em></p></td>
+    <td width="50%"><p><b>5a.</b> The bottom row takes up their positions <b>opposite</b> their tether partner.</p><p><em>The players at the north side (at the WNW and ENE sectors) are far enough to resolve Remote Glitch, but not so far that they steal the tethers from the arms.</em></p></td>
     <td><img src="../images/05_run_dynamis/run_dynamis_sigma_05a.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>15a.</b> Lasers and Wave Cannons resolve.</p></td>
+    <td><p><b>6a.</b> Lasers and Wave Cannons resolve.</p></td>
     <td><img src="../images/05_run_dynamis/run_dynamis_sigma_06a.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>16a.</b> Move into the center as Omega-F will teleport into the middle and knockback all players into their towers.</p></td>
+    <td><p><b>7a.</b> Move into the center as Omega-F will teleport into the middle and knockback all players into their towers.</p></td>
     <td><img src="../images/05_run_dynamis/run_dynamis_sigma_07a.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>17a.</b> The tower rules are as such:</p><ol><li>Get knocked back to the <b>nearest</b> tower from you.</li><li>If there are two towers next to you, choose the tower that requires two players (these will be the two towers closest to the N/S poles).</li></ol></td>
+    <td><p><b>8a.</b> The tower rules are as such:</p><ol><li>Get knocked back to the <b>nearest</b> tower from you.</li><li>If there are two towers next to you, choose the tower that requires two players (these will be the two towers closest to the N/S poles).</li></ol></td>
     <td><img src="../images/05_run_dynamis/run_dynamis_sigma_08a.jpg"><img src="../images/05_run_dynamis/run_dynamis_sigma_09a.jpg"></td>
   </tr>
 </table>
@@ -180,19 +184,19 @@ With the top row in position, the bottom row now takes up their positions, depen
 
 <table>
   <tr>
-    <td width="50%"><p><b>14a.</b> The bottom row takes up their positions on the same north/southern half of the arena, across from their tether partner. The tethers should look criss-crossed.</p><p><em>These player will need to move in and out as needed to satisfy the Mid Glitch requirements (about two rings in from the edge)</em></p></td>
+    <td width="50%"><p><b>5b.</b> The bottom row takes up their positions on the same north/southern half of the arena, across from their tether partner. The tethers should look criss-crossed.</p><p><em>These player will need to move in and out as needed to satisfy the Mid Glitch requirements (about two rings in from the edge)</em></p></td>
     <td><img src="../images/05_run_dynamis/run_dynamis_sigma_05b.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>15a.</b> Lasers and Wave Cannons resolve.</p></td>
+    <td><p><b>6b.</b> Lasers and Wave Cannons resolve.</p></td>
     <td><img src="../images/05_run_dynamis/run_dynamis_sigma_06b.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>16a.</b> Move into the center as Omega-F will teleport into the middle and knockback all players into their towers.</p></td>
+    <td><p><b>7b.</b> Move into the center as Omega-F will teleport into the middle and knockback all players into their towers.</p></td>
     <td><img src="../images/05_run_dynamis/run_dynamis_sigma_07b.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>17a.</b> The tower rules are as such:</p><ol><li>Get knocked back to the tower you came from.</li><li>If there is no tower at your position, take the tower <b>directly opposite</b>.</li></ol></td>
+    <td><p><b>8b.</b> The tower rules are as such:</p><ol><li>Get knocked back to the tower you came from.</li><li>If there is no tower at your position, take the tower <b>directly opposite</b>.</li></ol></td>
     <td><img src="../images/05_run_dynamis/run_dynamis_sigma_08b.jpg"><img src="../images/05_run_dynamis/run_dynamis_sigma_09b.jpg"></td>
   </tr>
 </table>
@@ -201,7 +205,7 @@ With the top row in position, the bottom row now takes up their positions, depen
 
 <table>
   <tr>
-    <td width="50%"><p><b>17.</b> Omega-F will spawn opposite two Right Arm Units and Omega's Rear Power Unit in the center.</p><p>Use Omega-F as North, and note whether Omega-F is in her blade-legs stance or not.</p>
+    <td width="50%"><p><b>9.</b> Omega-F will spawn opposite two Right Arm Units and Omega's Rear Power Unit in the center.</p><p>Use Omega-F as North, and note whether Omega-F is in her blade-legs stance or not.</p>
     <p>The party needs to organise themselves into three groups:</p>
     <ul>
       <li>A group of three goes to Omega-F's side.
@@ -209,26 +213,31 @@ With the top row in position, the bottom row now takes up their positions, depen
         <li>Two players will take the Right Arm Units' tethers. These two players <b>must</b> have a stack of Dynamis</li>
         <li>The remaining player will group with Hello, Distant World.</li></ul>
       </li>
-      <li>A group of three goes opposite Omega-F.
-        <ul><li>This group contains the player with Hello, Near World.</li></ul>
-      </li>
-      <li>A group of two goes opposite Omega-F.
-        <ul><li>This group contains the player with Hello, Distant World.</li></ul>
+      <li>The remaining five players go opposite Omega-F.
+        <ul>
+          <li>The two players with Hello, World debuffs stand a little towards the center of the arena to separate themselves from the remaining three.</li>
+          <li>The remaining three players briefly line up along the edge
+            <ul>
+              <li>The two players in front will follow the Hello, Near World player.</li>
+              <li>The player at the back will stay behind with the Hello, Distant World player.</li>
+            </ul>
+          </li>
+        </ul>
       </li>
     </ul></td>
-    <td><img src="../images/05_run_dynamis/run_dynamis_sigma_08.jpg"></td>
-  </tr>
-  <tr>
-    <td><p><b>18.</b> The Rear Power Unit will start firing a straight-line AoE while slowly rotating.</p>Depending on whether Omega-F has her blade-legs or not, either wait and stay outside <b>or</b> follow the Rear Power Unit's AoE.<p></p></td>
-    <td><img src="../images/05_run_dynamis/run_dynamis_sigma_09.jpg"></td>
-  </tr>
-  <tr>
-    <td><p><b>19.</b> After rotating and firing fourteen times, the Rear Power Unit will fire its last laser in this orientation.</p><p>Use this time to move into position to resolve Hello, World.</p></td>
     <td><img src="../images/05_run_dynamis/run_dynamis_sigma_10.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>20.</b> Hello, World debuffs resolve along with the Right Arm Unit's lasers.</p><p>Done correctly:</p><ul><li>Four players will have one stack of Dynamis</li><li>The other four players will have two stacks of Dynamis.</li></ul></td>
+    <td><p><b>10.</b> The Rear Power Unit will start firing a straight-line AoE while slowly rotating.</p>Depending on whether Omega-F has her blade-legs or not, either wait and stay outside <b>or</b> follow the Rear Power Unit's AoE.<p></p></td>
     <td><img src="../images/05_run_dynamis/run_dynamis_sigma_11.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>11.</b> After rotating and firing fourteen times, the Rear Power Unit will fire its last laser in this orientation.</p><p>Use this time to move into position to resolve Hello, World.</p></td>
+    <td><img src="../images/05_run_dynamis/run_dynamis_sigma_12.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>12.</b> Hello, World debuffs resolve along with the Right Arm Unit's lasers.</p><p>Done correctly:</p><ul><li>Four players will have one stack of Dynamis</li><li>The other four players will have two stacks of Dynamis.</li></ul></td>
+    <td><img src="../images/05_run_dynamis/run_dynamis_sigma_13.jpg"></td>
   </tr>
 </table>
 
@@ -242,19 +251,19 @@ With the top row in position, the bottom row now takes up their positions, depen
 
 <table>
   <tr>
-    <td width="50%"><p><b>21.</b> Unlike Delta and Sigma, Omega-F will stay on the arena during this part of Omega.</p><p>Omega Reconfigured will spawn in the center, and a Omega-M/F pair will spawn at opposite intercardinal positions, again with a random Sword/Shield and Staff/Blade-Legs combo.</p></td>
+    <td width="50%"><p><b>1.</b> Unlike Delta and Sigma, Omega-F will stay on the arena during this part of Omega.</p><p>Omega Reconfigured will spawn in the center, and a Omega-M/F pair will spawn at opposite intercardinal positions, again with a random Sword/Shield and Staff/Blade-Legs combo.</p></td>
     <td><img src="../images/05_run_dynamis/run_dynamis_omega_01.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>22.</b> A second Omega-M/F pair will spawn at the remaining two intercardinal positions, again with a random Sword/Shield and Staff/Blade-Legs combo.</p></td>
+    <td><p><b>2.</b> A second Omega-M/F pair will spawn at the remaining two intercardinal positions, again with a random Sword/Shield and Staff/Blade-Legs combo.</p></td>
     <td><img src="../images/05_run_dynamis/run_dynamis_omega_02.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>23.</b> Omega will channel a Diffuse Wave Cannon ("lights") at two opposite cardinal directions.</p><p>This must be resolved together with the first Omega-M/F pair's AoEs.</p></td>
+    <td><p><b>3.</b> Omega will channel a Diffuse Wave Cannon ("lights") at two opposite cardinal directions.</p><p>This must be resolved together with the first Omega-M/F pair's AoEs.</p></td>
     <td><img src="../images/05_run_dynamis/run_dynamis_omega_03.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>24.</b> The Omega Reconfigured will then repeat this at the other two cardinal directions, which must be resolved together with the second Omega-M/F pair's AoEs.</p></td>
+    <td><p><b>4.</b> The Omega Reconfigured will then repeat this at the other two cardinal directions, which must be resolved together with the second Omega-M/F pair's AoEs.</p></td>
     <td><img src="../images/05_run_dynamis/run_dynamis_omega_04.jpg"></td>
   </tr>
 </table>
@@ -291,19 +300,19 @@ With the top row in position, the bottom row now takes up their positions, depen
 
 <table>
   <tr>
-    <td width="50%"><p><b>25.</b> Omega will then present a single monitor set, to be resolved together with the first set of Hello, World debuffs.<ul><li>Two players with two Dynamis stacks take Omega's monitor hits.<ul><li>If there are player(s) with two Dynamis stacks <b>and</b> a second Hello, World debuff, they <b>must</b> take the monitors here.</li></ul></li></ul></p></td>
+    <td width="50%"><p><b>5.</b> Omega will then present a single monitor set, to be resolved together with the first set of Hello, World debuffs.<ul><li>Two players with two Dynamis stacks take Omega's monitor hits.<ul><li>If there are player(s) with two Dynamis stacks <b>and</b> a second Hello, World debuff, they <b>must</b> take the monitors here.</li></ul></li></ul></p></td>
     <td><img src="../images/05_run_dynamis/run_dynamis_omega_05.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>26.</b> Hello, World debuffs resolve.</p><p>Done correctly, there should be:</p><ul><li>Two players with three Dynamis stacks.<ul><li>These players should <em>not</em> have the second set of Hello, World debuffs.</li></ul></li><li>The other six players should all have two Dynamis stacks.</li></ul></td>
+    <td><p><b>6.</b> Hello, World debuffs resolve.</p><p>Done correctly, there should be:</p><ul><li>Two players with three Dynamis stacks.<ul><li>These players should <em>not</em> have the second set of Hello, World debuffs.</li></ul></li><li>The other six players should all have two Dynamis stacks.</li></ul></td>
     <td><img src="../images/05_run_dynamis/run_dynamis_omega_06.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>27.</b> Omega then spawns at the edge of the arena, and tethers to two players.</p><ul><li><b>Players with 3 stacks:</b> Take the tethers and stand beside Omega.</li><li><b>Everybody else:</b> Form up opposite Omega to resolve Hello, Worlds.</li></ul></td>
+    <td><p><b>7.</b> Omega then spawns at the edge of the arena, and tethers to two players.</p><ul><li><b>Players with 3 stacks:</b> Take the tethers and stand beside Omega.</li><li><b>Everybody else:</b> Form up opposite Omega to resolve Hello, Worlds.</li></ul></td>
     <td><img src="../images/05_run_dynamis/run_dynamis_omega_07.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>28.</b> Hello, World debuffs resolve.</p><p>All players should now have three Dynamis stacks each.</p></td>
+    <td><p><b>8.</b> Hello, World debuffs resolve.</p><p>All players should now have three Dynamis stacks each.</p></td>
     <td><img src="../images/05_run_dynamis/run_dynamis_omega_08.jpg"></td>
   </tr>
 </table>
