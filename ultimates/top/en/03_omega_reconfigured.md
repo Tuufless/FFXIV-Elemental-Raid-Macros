@@ -304,6 +304,15 @@ With four monitors in total (Omega and three players) and each monitor hitting t
   </tr>
 </table>
 
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+<table>
+  <tr>
+    <td width="50%"><p><b>Alternative:</b> <em>I am considering this setup instead as the three monitor players can use the waymarks for well-defined positions and orientations.</em></p><p><b>2.</b> Resolve as follows, with two of the monitor players soaking Omega's monitors.</p><p><em>In this example, Omega's monitors are pointing east, but they may point west instead.</em></p></td>
+    <td><img src="../images/03_omega_reconfigured/monitors_pt_left_02b.jpg"></td>
+  </tr>
+</table>
+</div>
+
 ## Frequently Asked Questions
 
 <details markdown=block>
