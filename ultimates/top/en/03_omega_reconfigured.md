@@ -18,40 +18,44 @@ This is the only phase in the fight with a transitional mechanic.
 
 <table>
   <tr>
-    <td><p><b>1.</b> Identify and split up:</p><ul><li><b>High-powered Sniper Cannon Fodders:</b> Pair up with a player with no debuffs north.</li><li><b>Sniper Cannon Fodders:</b> Spread out along the southern half.</li><li><b>No debuffs:</b> Pair up with a High-powered Sniper Cannon Fodder player north.</li></ul></td>
+    <td><p><b>1.</b> Line up west-to-east:<ul><li><b>West:</b> MT ST H1 H2 D1 D2 D3 D4 <b>:East</b></li></ul></td>
     <td><img src="../images/03_omega_reconfigured/transition_01.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>2.</b> First pulse of the expanding AoE goes off.</p><p>Three arms will appear around the arena, 120 degrees from one another.</p><p><b>Note where these first set of arms are.</b></p></td>
+    <td><p><b>2.</b> Identify and split up:</p><ul><li><b>High-powered Sniper Cannon Fodders:</b> Pair up with a player with no debuffs north.</li><li><b>Sniper Cannon Fodders:</b> Spread out along the southern half.</li><li><b>No debuffs:</b> Pair up with a High-powered Sniper Cannon Fodder player north.</li></ul></td>
     <td><img src="../images/03_omega_reconfigured/transition_02.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>3.</b> Second pulse goes off.</p><p>The second set of arms will appear around the arena.</p></td>
+    <td><p><b>3.</b> First pulse of the expanding AoE goes off.</p><p>Three arms will appear around the arena, 120 degrees from one another.</p><p><b>Note where these first set of arms are.</b></p></td>
     <td><img src="../images/03_omega_reconfigured/transition_03.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>4.</b> Third pulse goes off.</p></td>
+    <td><p><b>4.</b> Second pulse goes off.</p><p>The second set of arms will appear around the arena.</p></td>
     <td><img src="../images/03_omega_reconfigured/transition_04.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>5.</b> Fourth pulse goes off.</p><p>At this point, all players should be in position for the second wave of mechanics.</p></td>
+    <td><p><b>5.</b> Third pulse goes off.</p></td>
     <td><img src="../images/03_omega_reconfigured/transition_05.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>6.</b> First pulse of the second wave goes off.</p></td>
+    <td><p><b>6.</b> Fourth pulse goes off.</p><p>At this point, all players should be in position for the second wave of mechanics.</p></td>
     <td><img src="../images/03_omega_reconfigured/transition_06.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>7.</b> Second pulse of the second wave goes off.</p><p>The first set of arms will telegraph an AoE around them.</p></td>
+    <td><p><b>7.</b> First pulse of the second wave goes off.</p></td>
     <td><img src="../images/03_omega_reconfigured/transition_07.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>8.</b> Third pulse of the second wave goes off.</p><p>The first set of arms explode, while the second set of arms telegraph their explosion.</p><p><b>Move into the intersection of the expanding pulse and the first set of AoE</b> so you do not get hit by the second set of arms.</b></p></td>
+    <td><p><b>8.</b> Second pulse of the second wave goes off.</p><p>The first set of arms will telegraph an AoE around them.</p></td>
     <td><img src="../images/03_omega_reconfigured/transition_08.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>9.</b> Player debuffs resolve along with the second set of arm's AoE.</p></td>
+    <td><p><b>9.</b> Third pulse of the second wave goes off.</p><p>The first set of arms explode, while the second set of arms telegraph their explosion.</p><p><b>Move into the intersection of the expanding pulse and the first set of AoE</b> so you do not get hit by the second set of arms.</b></p></td>
     <td><img src="../images/03_omega_reconfigured/transition_09.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>10.</b> Player debuffs resolve along with the second set of arm's AoE.</p></td>
+    <td><img src="../images/03_omega_reconfigured/transition_10.jpg"></td>
   </tr>
 </table>
 
@@ -291,11 +295,11 @@ With four monitors in total (Omega and three players) and each monitor hitting t
 
 <table>
   <tr>
-    <td width="50%"><p><b>19.</b> Line up, north-to-south:</p><ul><li><b>North:</b> H1 H2 MT ST D1 D2 D3 D4 <b>:South</b></li></ul></td>
+    <td width="50%"><p><b>1.</b> Line up, north-to-south:</p><ul><li><b>North:</b> H1 H2 MT ST D1 D2 D3 D4 <b>:South</b></li></ul></td>
     <td><img src="../images/03_omega_reconfigured/monitors_pt_left_01.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>20.</b> Omega will ready Oversampled Wave Cannon (monitors), and debuff three random players with their own set of monitors.</p><p>Resolve them as follows, with all three monitor players on the other side of Omega's monitors.</p><p><em>In this example, Omega's monitors are pointing east, but they may point west instead.</em></p></td>
+    <td><p><b>2.</b> Omega will ready Oversampled Wave Cannon (monitors), and debuff three random players with their own set of monitors.</p><p>Resolve them as follows, with all three monitor players on the other side of Omega's monitors.</p><p><em>In this example, Omega's monitors are pointing east, but they may point west instead.</em></p></td>
     <td><img src="../images/03_omega_reconfigured/monitors_pt_left_02.jpg"></td>
   </tr>
 </table>
