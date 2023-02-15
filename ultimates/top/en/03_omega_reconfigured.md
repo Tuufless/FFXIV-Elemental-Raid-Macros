@@ -50,7 +50,7 @@ This is the only phase in the fight with a transitional mechanic.
     <td><img src="../images/03_omega_reconfigured/transition_08.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>9.</b> Third pulse of the second wave goes off.</p><p>The first set of arms explode, while the second set of arms telegraph their explosion.</p><p><b>Move into the intersection of the expanding pulse and the first set of AoE</b> so you do not get hit by the second set of arms.</b></p></td>
+    <td><p><b>9.</b> Third pulse of the second wave goes off.</p><p>The first set of arms explode, while the second set of arms telegraph their explosion.</p><p><b>Move into the intersection of the expanding pulse and the first set of AoE</b> so you do not get hit by the second set of arms.</p></td>
     <td><img src="../images/03_omega_reconfigured/transition_09.jpg"></td>
   </tr>
   <tr>
