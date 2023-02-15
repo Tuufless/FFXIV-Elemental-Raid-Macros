@@ -18,7 +18,7 @@ This is the only phase in the fight with a transitional mechanic.
 
 <table>
   <tr>
-    <td><p><b>1.</b> Line up west-to-east:<ul><li><b>West:</b> MT ST H1 H2 D1 D2 D3 D4 <b>:East</b></li></ul></td>
+    <td><p><b>1.</b> Line up west-to-east:</p><ul><li><b>West:</b> MT ST H1 H2 D1 D2 D3 D4 <b>:East</b></li></ul></td>
     <td><img src="../images/03_omega_reconfigured/transition_01.jpg"></td>
   </tr>
   <tr>
