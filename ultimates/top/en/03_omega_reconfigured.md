@@ -179,8 +179,13 @@ This loop is repeated four times (so all players will have their go at each debu
     </td>
     <td><img src="../images/03_omega_reconfigured/hello_world_1_1.jpg"></td>
   </tr>
+</table>
+
+For brevity's sake, we will only display the relevant debuffs from here onwards.
+
+<table>
   <tr>
-    <td><p><b>2.</b> Pair up and move to your towers.</p><ul><li>Critical Overflow and red/green tethered players pair up and move to their towers <em>(blue in this example).</em></li><li>Critical Synchronization and blue tethered players pair up and move to their towers <em>(red in this example)</em></li></ul><p>Note the red/green tethered players are on the outside of their coloured towers, while the blue tethered players are between their coloured towers.</p></td>
+    <td width="50%"><p><b>2.</b> Pair up and move to your towers.</p><ul><li>Critical Overflow and red/green tethered players pair up and move to their towers <em>(blue in this example).</em></li><li>Critical Synchronization and blue tethered players pair up and move to their towers <em>(red in this example)</em></li></ul><p>Note the red/green tethered players are on the outside of their coloured towers, while the blue tethered players are between their coloured towers.</p></td>
     <td><img src="../images/03_omega_reconfigured/hello_world_1_2.jpg"></td>
   </tr>
   <tr>
@@ -200,6 +205,11 @@ This loop is repeated four times (so all players will have their go at each debu
 ### Second iteration
 
 All players rotate their roles for the second iteration.
+
+- Players who were Critical Overflow become Remote Regression (blue tethers)
+- Players who were Remote Regression become Critical Synchronization
+- Players who were Critical Synchronization become Local Regression (red/green tethers)
+- Players who were Local Regression become Critical Overflow.
 
 <table>
   <tr>
@@ -224,6 +234,11 @@ All players rotate their roles for the second iteration.
 
 All players rotate their roles again for the third iteration.
 
+- Players who were Critical Overflow become Remote Regression (blue tethers)
+- Players who were Remote Regression become Critical Synchronization
+- Players who were Critical Synchronization become Local Regression (red/green tethers)
+- Players who were Local Regression become Critical Overflow.
+
 <table>
   <tr>
     <td width="50%"><p><b>10.</b> Pair up and move to your towers.</p><ul><li>Critical Overflow and red/green tethered players pair up and move to their towers.</li><li>Critical Synchronization and blue tethered players pair up and move to their towers.</li></ul></td>
@@ -246,6 +261,11 @@ All players rotate their roles again for the third iteration.
 ## Fourth iteration
 
 All players rotate their roles again for the fourth (and final) iteration.
+
+- Players who were Critical Overflow become Remote Regression (blue tethers)
+- Players who were Remote Regression become Critical Synchronization
+- Players who were Critical Synchronization become Local Regression (red/green tethers)
+- Players who were Local Regression become Critical Overflow.
 
 This time around, there are two differences:
 
