@@ -12,10 +12,6 @@ This is the only phase in the fight with a transitional mechanic.
 
 ## Transition
 
-<div style="background-color: #200 ; padding: 10px; border: 1px solid;">
-<b>UNDER CONSTRUCTION!</b>
-</div>
-
 <table>
   <tr>
     <td><p><b>1.</b> Line up west-to-east:</p><ul><li><b>West:</b> MT ST H1 H2 D1 D2 D3 D4 <b>:East</b></li></ul></td>
@@ -313,6 +309,8 @@ With four monitors in total (Omega and three players) and each monitor hitting t
 </details>
 </div>
 
+PF currently resolves this using [Astoh's strat](https://twitter.com/Astoh_Shallfir/status/1619911321499361283?s=20) (アスト式).
+
 <table>
   <tr>
     <td width="50%"><p><b>1.</b> Line up, north-to-south:</p><ul><li><b>North:</b> H1 H2 MT ST D1 D2 D3 D4 <b>:South</b></li></ul></td>
@@ -325,10 +323,57 @@ With four monitors in total (Omega and three players) and each monitor hitting t
 </table>
 
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+<p><b>Alternative:</b> <em>I am considering this setup instead as the three monitor players can use the waymarks for well-defined positions and orientations.</em></p>
 <table>
   <tr>
-    <td width="50%"><p><b>Alternative:</b> <em>I am considering this setup instead as the three monitor players can use the waymarks for well-defined positions and orientations.</em></p><p><b>2.</b> Resolve as follows, with two of the monitor players soaking Omega's monitors.</p><p><em>In this example, Omega's monitors are pointing east, but they may point west instead.</em></p></td>
-    <td><img src="../images/03_omega_reconfigured/monitors_pt_left_02b.jpg"></td>
+    <td width="50%"><p><b>1.</b> Preposition by standing in groups of four- tanks/healers North, and DPS south.</p><p>Have the ranged players stand towards the outside.</p></td>
+    <td><img src="../images/03_omega_reconfigured/alt_monitors_01.jpg"></td>
+  </tr>
+</table>
+<p>Unlike the previous strat, the monitors in this setup are dynamic.</p>
+<ul>
+  <li><b>Omega's monitors</b> will always be taken by <b>two players with monitors</b>.</li>
+  <li>All monitor players can use the <b>square markers</b> as guides. Their monitors should <b>overlap</b> the field marker.</li>
+</ul>
+<p>When debuffs appear, look to see how many monitors your group of four has.</p>
+<ul>
+  <li>If your group has just <b>one</b> monitor:
+    <ul><li>That player takes Omega's monitor (north if T/H, south if DPS).</li></ul>
+  </li>
+  <li>If your group has <b>two</b> monitors:
+    <ul><li>One player goes west, and the other goes east (melee flex).</li></ul>
+  </li>
+  <li>If your group has <b>three</b> monitors:
+    <ul><li>One player goes west, one goes east, and the last crosses over and takes the remaining spot for Omega's monitors (melee flex).</li></ul>
+  </li>
+</ul>
+<table>
+  <tr>
+    <td width="50%"><p><b>Example 1:</b> H2, D1, D2 are targeted for monitors.</p>
+    <ul>
+      <li>T/H have just one monitor (H2), so H2 takes Omega's north monitor.</li>
+      <li>DPS have two monitors, so one takes left (D1) and one takes the right (D2).</li>
+    </ul>
+    <p>The other five non-monitor players spread out along Omega's non-monitor side.</p></td>
+    <td><img src="../images/03_omega_reconfigured/alt_monitors_ex01.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>Example 2:</b> H2, D1, D2 are targeted for monitors.</p>
+    <ul>
+      <li>T/H have just one monitor (H2), so H2 takes Omega's north monitor.</li>
+      <li>DPS have two monitors, so one takes left (D1) and one takes the right (D2).</li>
+    </ul>
+    <p><em>Notice D1 and D2's positions and orientations are different from the previous example.</em></p>
+    <p>The other five non-monitor players spread out along Omega's non-monitor side.</p></td>
+    <td><img src="../images/03_omega_reconfigured/alt_monitors_ex02.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>Example 3:</b> H1, MT, ST are targeted for monitors.</p>
+    <ul>
+      <li>T/H have all three monitors. Ranged (H1) does not flex, and takes the nearest monitor (NW).</li><li>The two tanks flex to take the remaining two slots (ST takes NE, as they're closer).</li>
+    </ul>
+    <p>The other five non-monitor players spread out along Omega's non-monitor side.</p></td>
+    <td><img src="../images/03_omega_reconfigured/alt_monitors_ex03.jpg"></td>
   </tr>
 </table>
 </div>
