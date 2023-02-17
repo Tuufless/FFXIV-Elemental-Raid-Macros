@@ -25,23 +25,9 @@ The HP Penalty debuff will wear off within two steps (players numbered 3 and 4 w
 
 <table>
   <tr>
-    <td><p>There are eight possible tower spawn points.</p><p>Two towers will always spawn at a time, and they will always be either 90 degrees, or 180 degrees from one another.</p><p>Towers will not spawn in the same position twice in a row.</p></td>
+    <td width="50%"><p>There are eight possible tower spawn points.</p><p>Two towers will always spawn at a time, and they will always be either 90 degrees, or 180 degrees from one another.</p><p>Towers will not spawn in the same position twice in a row.</p><p>We establish a priority to determine who takes which tower/tether:</p><ul><li><b>CW from NW:</b> MT HT ST D1 D2 D3 D4 H2</li></ul></td>
     <td><img src="../images/01_omega/program_loop_01.jpg"></td>
   </tr>
-</table>
-
-A priority to determine who takes which tower/tether might look something like this:
-```
-CW from NW (11 o'clock):
-  H1 > MT > ST > D1 > D2 > D3 > D4 > H2
-```
-<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
-<b>In PF:</b><ul>
-  <li>Check the priority order. There are multiple variants at the moment.</li>
-</ul>
-</div>
-
-<table>
   <tr>
     <td><p><b>1.</b> First set of towers spawn</p><ul><li><b>3s:</b> Stand in front of the group to take tethers.</li><li><b>Everyone else:</b> Stack together to make the tethers easy to get.</li></ul></td>
     <td><img src="../images/01_omega/program_loop_02.jpg"></td>
@@ -55,11 +41,11 @@ CW from NW (11 o'clock):
     <td><img src="../images/01_omega/program_loop_04.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>3.</b> Third set of towers/tethers</p><ul><li><b>3s:</b> Take your towers.</li><li><b>1s:</b> Take your tethers.</li></ul><p>The max-HP down debuff will wear off on the number 3 players shortly after the previous set of towers. They will need to be healed up to take their towers.</p></td>
+    <td><p><b>3.</b> Third set of towers/tethers</p><ul><li><b>3s:</b> Take your towers.</li><li><b>1s:</b> Take your tethers.</li></ul><p>The max-HP down debuff will wear off on the number 3 players when the previous set of towers resolve. They will need to be healed up to take their towers.</p></td>
     <td><img src="../images/01_omega/program_loop_05.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>4.</b> Fourth set of towers/tethers</p><ul><li><b>4s:</b> Take your towers.</li><li><b>2s:</b> Take your tethers.</li></ul><p>The max-HP down debuff will wear off on the number 4 players shortly after the previous set of towers. They will need to be healed up to take their towers.</p></td>
+    <td><p><b>4.</b> Fourth set of towers/tethers</p><ul><li><b>4s:</b> Take your towers.</li><li><b>2s:</b> Take your tethers.</li></ul><p>The max-HP down debuff will wear off on the number 4 players when the previous set of towers resolve. They will need to be healed up to take their towers.</p></td>
     <td><img src="../images/01_omega/program_loop_06.jpg"></td>
   </tr>
 </table>
@@ -68,17 +54,30 @@ After the fourth set of towers, top up the party when the last sets of HP Penalt
 
 ## Pantokrator
 
-Once again, the party will be given random pairs of numbers, from 1-4.
+We decided to go with **HaruGlory's** Pantokrator strat, which puts the beam at the back, and the missile in front.
 
 <table>
   <tr>
-    <td><p>We need to split the party into two groups of four such that:</p>
-    <ul><li>Each group has one of each number.</li><li>Each group has one healer.</li></ul></td>
+    <td width="50%"><p><b>1.</b> Tank Omega facing North.</p><p>The rest of the party can stay near the center of the arena, ready to adjust if needed.</p></td>
     <td><img src="../images/01_omega/pantokrator_01.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>2.</b> The party will be numbered again in pairs of 1-4.</p>
+    <p>Split the party into two groups, one referencing NW, and the other referencing SE:</p>
+    <p>We need to split the party into two groups of four such that:</p>
+    <ul>
+      <li>Each group has one of each number.</li>
+      <li>Each group has one healer.</li>
+    </ul>
+    <p>To do so, we use the following priority order:</p>
+    <ul>
+      <li><b>NW:</b> H1 MT ST D1 D2 D3 D4 H2 <b>:SE</b></li>
+    </ul></td>
+    <td><img src="../images/01_omega/pantokrator_03.jpg"></td>
   </tr>
 </table>
 
-Tank Omega facing North, **45-degrees from these two positions**. If the first set of Flamethrowers is on the party, rotate **clockwise** to the next safe sector.
+The first set of Flamethrower telegraphs will appear. If the Flamethrowers hit the NW and SE points, rotate **clockwise** to the next safe sector. These will be your starting sectors.
 
 <table>
   <tr>
@@ -89,11 +88,9 @@ Tank Omega facing North, **45-degrees from these two positions**. If the first s
   </tr>
 </table>
 
-We decided to go with **HaruGlory's** Pantokrator strat, which puts the beam at the back, and the missile in front.
-
 <table>
   <tr>
-    <td><p>The movement for Pantokrator is as such:</p>
+    <td><p>The movement for Pantokrator goes like this:</p>
       <ol>
         <li>Wave Cannon hits.</li>
         <li>Everybody moves forward for one AoE.</li>
@@ -114,11 +111,11 @@ We decided to go with **HaruGlory's** Pantokrator strat, which puts the beam at 
 
 <table>
   <tr>
-    <td><p><b>6.</b> Numbers appear and the first set of flame telegraphs appear.</p><p>Split the party into the two groups, and move to the middle of the safe sectors.</p><ul><li><b>1s:</b> Stay near the center of the arena.</li></ul></td>
+    <td width="50%"><p><b>6.</b> Numbers appear and the first set of flame telegraphs appear.</p><p>Split the party into the two groups, and move to the middle of the safe sectors.</p><ul><li><b>1s:</b> Stay near the center of the arena.</li></ul></td>
     <td><img src="../images/01_omega/pantokrator_03.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>7.</b> The flame telegraphs start rotating.</p><p>The players numbered 1 move to the front of the sector (behind the front AoE).</p><p>The other players can either stay where they are, or move a little bit towards the back.</p></td>
+    <td><p><b>7.</b> The flame telegraphs start rotating.</p><p>The players numbered 1 move to the front of the sector (behind the front AoE).</p><p>The other players adjust in the other direction so they stand just in front of the Flamethrower telegraph.</p></td>
     <td><img src="../images/01_omega/pantokrator_04.jpg"></td>
   </tr>
   <tr>
@@ -147,19 +144,19 @@ The loop repeats two more times (with players numbered 3 and 4 taking their turn
 
 ### Wave Cannons
 
-Omega will target the two furthest players for 120-degree tankbuster cleaves (Diffuse Wave Cannon Kyrios). These should be taken by the tanks.
+Omega will target the two **furthest** players for 120-degree tankbuster cleaves (Diffuse Wave Cannon Kyrios). These should be taken by the tanks.
 
 Omega will then target the three random non-tank players with a red marker for Wave Cannon Kyrios.
 
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
 <b>In PF:</b><ul>
-  <li>Check the spread positions.</li>
+  <li>Check the spread positions. The healer and ranged DPS positions are sometimes swapped.</li>
 </ul>
 </div>
 
 <table>
   <tr>
-    <td><p><b>16.</b> Both tanks stack north, <b>outside</b> Omega's targeting circle and use their invulnerabilities.</p><p>This gives enough space for the rest of the party spreads around the south half of the arena <b>inside</b> of Omega's targeting circle.</p><p>Three random (non-tank) players will be selected for the first set of Wave Cannons.</p></td>
+    <td width="50%"><p><b>16.</b> Both tanks stack north, <b>outside</b> Omega's targeting circle and use their invulnerabilities.</p><p>This gives enough space for the rest of the party spreads around the south half of the arena <b>inside</b> of Omega's targeting circle.</p><p>Three random (non-tank) players will be selected for the first set of Wave Cannons.</p></td>
     <td><img src="../images/01_omega/wave_cannons_01.jpg"></td>
   </tr>
   <tr>
@@ -177,7 +174,7 @@ Omega will then target the three random non-tank players with a red marker for W
 <details markdown=block>
 <summary><b>[Pantokrator]</b> Why does the party group up NW and SE instead of N and S?</summary>
 <table>
-  <tr><td><p>The <em>real</em> ask is to have the MT tank Omega facing 45 degrees from the party (so if the party wants to stack N/S, the MT would face Omega either NW or NE).</p><p>This is done because the set of Flamethrowers are <em>not</em> based on true North, but are instead based on Omega's orientation.</p><p>The problem with facing Omega at the two points is that the Flamethrowers are 60-degree cones that move in multiples of 30 degrees.</p><p>This means that you can have a scenario like the following, where it's now ambiguous whether the N/S parties count as getting hit.</p><p>This is especially problematic when the agreed movement is "always rotate clockwise to the safe sector", which is clearly not ideal in this scenario.</p><p>By pointing Omega at a 45 degree angle from the two assigned points, you guarantee that Omega's Flamethrower will <em>never</em> end up in this scenario, removing said ambiguity altogether.</p></td>
+  <tr><td><p>This is done because the Flamethrowers are based on Omega's orientation.</p><p>The problem with facing Omega directly at the party (if they were to start N/S) is that the Flamethrowers are 60-degree cones that move in multiples of 30 degrees.</p><p>This means that you can have a scenario like the following, where it's now ambiguous whether the N/S parties count as getting hit.</p><p>This is especially problematic when the agreed movement is "always rotate clockwise to the safe sector", which is clearly not ideal in this scenario.</p><p>By pointing Omega at a 45 degree angle from the two assigned points, you guarantee that Omega's Flamethrower will <em>never</em> end up in this scenario, removing said ambiguity altogether.</p></td>
   <td><img src="../images/01_omega/pantokrator_faq.jpg"></td></tr>
 </table>
 </details>
@@ -188,8 +185,9 @@ Omega will then target the three random non-tank players with a red marker for W
   <ul>
     <li>Only the first pair of missile players really need to pay attention to which way the Flamethrowers rotate at the beginning.</li>
     <li>With only one person in front of the party, there is much less variation from run-to-run as there is only one AoE to potentially dodge.</li>
+    <li>The first set of AoEs can be baited inside the Flamethrower, giving the party more room to work with.</li>
   </ul>
-  <p>Putting the stack in front (missile at the back) brings about the following cons:</p>
+  <p>In addition, putting the stack in front (missile at the back) has the following disadvantages:</p>
   <ul>
     <li>The missile player at the back is potentially blocked by <em>three</em> player's AoEs and it's much easier to accidentally box them in, leaving them with nowhere to go.</li>
     <li>Furthermore, when something <em>does</em> go wrong, it is much harder to diagnose what the root problem is, as things often look okay from one player's perspective, but has trickle-down consequences for other players.</li>
