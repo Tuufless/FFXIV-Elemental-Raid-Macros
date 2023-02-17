@@ -8,10 +8,6 @@ permalink: /ultimates/top/01_omega/
 
 # Omega
 
-<div style="background-color: #200 ; padding: 10px; border: 1px solid;">
-<b>The following strats have not been settled, and may change.</b>
-</div>
-
 ## Program Loop
 
 Players receive a set of numbered debuffs. Each number (1, 2, 3, and 4) each have two players.
