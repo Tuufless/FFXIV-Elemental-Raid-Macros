@@ -13,6 +13,14 @@ PF largely follows [Clees' UCoB guide](http://clees.me/guides/ucob/) with a few 
 - Neurolinks are placed in an inverted triangle.
 - Blackfire Trio towers are flipped for tanks and healers (healers take the tower closer to the Megaflare stack).
 - Heavensfall Trio spread positions are different (both tanks always go towards Nael, both ranged always opposite Nael).
+<table>
+  <tr>
+    <td><img src="images/03_bahamut/heavensfall_01a.jpg"></td>
+    <td><img src="images/03_bahamut/heavensfall_01b.jpg"></td>
+    <td><img src="images/03_bahamut/heavensfall_01c.jpg"></td>
+  </tr>
+</table>
+
 - Tenstrike Trio is done with one safe spot (the south marker) instead of two.
 
 ### BiS Notes
