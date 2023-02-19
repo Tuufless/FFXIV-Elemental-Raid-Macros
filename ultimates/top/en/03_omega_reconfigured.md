@@ -66,13 +66,13 @@ Although Hello, World may look overwhelming at first, it is simply a cycle of de
       <li>Orientate to coloured towers.</li>
       <li>Pair players together:
         <ul>
-          <li>Critical Overflows pair with Local Regression (red/green).</li>
-          <li>Critical Synchronizations pair with Remote Regression (blue).</li>
+          <li>Critical Overflows <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_overflow_bug.png"> pair with Local Regression <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/local_regression.png"> (red/green tethers).</li>
+          <li>Critical Synchronizations <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_synchronization_bug.png"> pair with Remote Regression <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/remote_regression.png"> (blue tethers).</li>
         </ul>
       </li>
-      <li>Critical Overflows and Critical Synchronizations resolve.</li>
-      <li>Pass Critical Underflow and Critical Performance. Break Remote Regression (blue) tethers.</li>
-      <li>Break Local Regression (red/green) tethers.</li>
+      <li>Critical Overflows <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_overflow_bug.png"> and Critical Synchronizations <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_synchronization_bug.png"> resolve.</li>
+      <li>Pass Critical Underflow <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_underflow_bug.png"> (red Nisi) and Critical Performance <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_performance_bug.png"> (blue Nisi). Break Remote Regression <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/remote_regression.png"> (blue tethers).</li>
+      <li>Break Local Regression <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/local_regression.png"> (red/green tethers).</li>
       <li>Repeat the loop with the next mechanic in the cycle.<ul><em>If you just took a tower, you will swap sides/colours for the next iteration.</em></ul></li>
     </ol></td>
     <td><img src="../images/03_omega_reconfigured/hello_world_cycle.jpg"></td>
@@ -167,10 +167,10 @@ This loop is repeated four times (so all players will have their go at each debu
     <td width="50%"><p><b>1.</b> Omega casts Hello, World, and players get their debuffs.</p><ul><li><b>Check which coloured-debuffs go with Critical Overflow and/or Critical Synchronization.</b></li></ul><p><em>In this example:</em></p>
     <ul>
       <li><em>Critical Overflows <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_overflow_bug.png"> start with Critical Performance <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_performance_bug.png"> (blue Nisis), so will go to blue towers.
-        <ul><li>Local Regressions (red/green tethers) follow Critical Overflows to the same colour (blue towers).</li></ul>
+        <ul><li>Local Regressions <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/local_regression.png"> (red/green tethers) follow Critical Overflows to the same colour (blue towers).</li></ul>
       </em></li>
       <li><em>Critical Synchronization <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_synchronization_bug.png"> start with Critical Underflow <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_underflow_bug.png"> (red Nisis), so will go with red towers.
-        <ul><li>Remote Regressions (blue tethers) follow Critical Synchronizations to the same colour (red towers).</li></ul></em></li>
+        <ul><li>Remote Regressions <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/remote_regression.png"> (blue tethers) follow Critical Synchronizations <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_synchronization_bug.png"> to the same colour (red towers).</li></ul></em></li>
     </ul>
     </td>
     <td><img src="../images/03_omega_reconfigured/hello_world_1_1.jpg"></td>
@@ -181,19 +181,19 @@ For brevity's sake, we will only display the relevant debuffs from here onwards.
 
 <table>
   <tr>
-    <td width="50%"><p><b>2.</b> Pair up and move to your towers.</p><ul><li>Critical Overflow and red/green tethered players pair up and move to their towers <em>(blue in this example).</em></li><li>Critical Synchronization and blue tethered players pair up and move to their towers <em>(red in this example)</em></li></ul><p>Note the red/green tethered players are on the outside of their coloured towers, while the blue tethered players are between their coloured towers.</p></td>
+    <td width="50%"><p><b>2.</b> Pair up and move to your towers.</p><ul><li>Critical Overflow <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_overflow_bug.png"> and red/green tethered players pair up and move to their towers <em>(blue in this example).</em></li><li>Critical Synchronization <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_synchronization_bug.png"> and blue tethered players pair up and move to their towers <em>(red in this example)</em></li></ul><p>Note the red/green tethered players are on the outside of their coloured towers, while the blue tethered players are between their coloured towers.</p></td>
     <td><img src="../images/03_omega_reconfigured/hello_world_1_2.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>3.</b> The first set of tethers manifest.</p><p>Towers, Critical Overflow Bugs, and Critical Synchronization Bugs resolve.</p><ul><li>Critical Overflow Bugs transfer to the red/green tethered players.</li><li>Critical Synchronisations transfer to the blue tethered players.</li></ul></td>
+    <td><p><b>3.</b> The first set of tethers manifest.</p><p>Towers, Critical Overflow Bugs <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_overflow_bug.png">, and Critical Synchronization Bugs <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_synchronization_bug.png"> resolve.</p><ul><li>Critical Overflow Bugs <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_overflow_bug.png"> transfer to the red/green tethered players.</li><li>Critical Synchronisations <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_synchronization_bug.png"> transfer to the blue tethered players.</li></ul></td>
     <td><img src="../images/03_omega_reconfigured/hello_world_1_3.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>4.</b> Pass Critical Underflow and Critical Performance Bugs.</p><p>Blue-tethered players also break their tether in the process.</p></td>
+    <td><p><b>4.</b> Pass Critical Underflow <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_underflow_bug.png"> and Critical Performance Bugs <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_performance_bug.png">.</p><p>Blue-tethered players also break their tether in the process.</p></td>
     <td><img src="../images/03_omega_reconfigured/hello_world_1_4.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>5.</b> Red/green tethered players move together to break their tether.</p><p>Avoid the explosions from Critical Underflow and Critical Performance.</p></td>
+    <td><p><b>5.</b> Red/green tethered players move together to break their tether.</p><p>Avoid the explosions from Critical Underflow <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_underflow_bug.png"> and Critical Performance <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_performance_bug.png">.</p></td>
     <td><img src="../images/03_omega_reconfigured/hello_world_1_5.jpg"></td>
   </tr>
 </table>
@@ -202,26 +202,26 @@ For brevity's sake, we will only display the relevant debuffs from here onwards.
 
 All players rotate their roles for the second iteration.
 
-- Players who were Critical Overflow become Remote Regression (blue tethers)
-- Players who were Remote Regression become Critical Synchronization
-- Players who were Critical Synchronization become Local Regression (red/green tethers)
-- Players who were Local Regression become Critical Overflow.
+- Players who were Critical Overflow <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_overflow_bug.png"> become Remote Regression <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/remote_regression.png"> (blue tethers)
+- Players who were Remote Regression <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/remote_regression.png"> become Critical Synchronization <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_synchronization_bug.png">
+- Players who were Critical Synchronization <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_synchronization_bug.png"> become Local Regression <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/local_regression.png"> (red/green tethers)
+- Players who were Local Regression <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/local_regression.png"> become Critical Overflow <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_overflow_bug.png">.
 
 <table>
   <tr>
-    <td width="50%"><p><b>6.</b> Pair up and move to your towers.</p><ul><li>Critical Overflow and red/green tethered players pair up and move to their towers.</li><li>Critical Synchronization and blue tethered players pair up and move to their towers.</li></ul></td>
+    <td width="50%"><p><b>6.</b> Pair up and move to your towers.</p><ul><li>Critical Overflow <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_overflow_bug.png"> and red/green tethered players pair up and move to their towers.</li><li>Critical Synchronization <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_synchronization_bug.png"> and blue tethered players pair up and move to their towers.</li></ul></td>
     <td><img src="../images/03_omega_reconfigured/hello_world_2_1.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>7.</b> The next set of tethers manifest.</p><p>Towers, Critical Overflow Bugs, and Critical Synchronization Bugs resolve.</p></td>
+    <td><p><b>7.</b> The next set of tethers manifest.</p><p>Towers, Critical Overflow Bugs <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_overflow_bug.png">, and Critical Synchronization Bugs <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_synchronization_bug.png"> resolve.</p></td>
     <td><img src="../images/03_omega_reconfigured/hello_world_2_2.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>8.</b> Pass Critical Underflow and Critical Performance Bugs.</p><p>Blue-tethered players also break their tether in the process.</p></td>
+    <td><p><b>8.</b> Pass Critical Underflow <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_underflow_bug.png"> and Critical Performance Bugs <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_performance_bug.png">.</p><p>Blue-tethered players also break their tether in the process.</p></td>
     <td><img src="../images/03_omega_reconfigured/hello_world_2_3.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>9.</b> Red/green tethered players move together to break their tether.</p><p>Avoid the explosions from Critical Underflow and Critical Performance.</p></td>
+    <td><p><b>9.</b> Red/green tethered players move together to break their tether.</p><p>Avoid the explosions from Critical Underflow <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_underflow_bug.png"> and Critical Performance <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_performance_bug.png">.</p></td>
     <td><img src="../images/03_omega_reconfigured/hello_world_2_4.jpg"></td>
   </tr>
 </table>
@@ -230,26 +230,26 @@ All players rotate their roles for the second iteration.
 
 All players rotate their roles again for the third iteration.
 
-- Players who were Critical Overflow become Remote Regression (blue tethers)
-- Players who were Remote Regression become Critical Synchronization
-- Players who were Critical Synchronization become Local Regression (red/green tethers)
-- Players who were Local Regression become Critical Overflow.
+- Players who were Critical Overflow <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_overflow_bug.png"> become Remote Regression <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/remote_regression.png"> (blue tethers)
+- Players who were Remote Regression <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/remote_regression.png"> become Critical Synchronization <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_synchronization_bug.png">
+- Players who were Critical Synchronization <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_synchronization_bug.png"> become Local Regression <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/local_regression.png"> (red/green tethers)
+- Players who were Local Regression <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/local_regression.png"> become Critical Overflow <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_overflow_bug.png">.
 
 <table>
   <tr>
-    <td width="50%"><p><b>10.</b> Pair up and move to your towers.</p><ul><li>Critical Overflow and red/green tethered players pair up and move to their towers.</li><li>Critical Synchronization and blue tethered players pair up and move to their towers.</li></ul></td>
+    <td width="50%"><p><b>10.</b> Pair up and move to your towers.</p><ul><li>Critical Overflow <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_overflow_bug.png"> and red/green tethered players pair up and move to their towers.</li><li>Critical Synchronization <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_synchronization_bug.png"> and blue tethered players pair up and move to their towers.</li></ul></td>
     <td><img src="../images/03_omega_reconfigured/hello_world_3_1.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>11.</b> The third set of tethers manifest.</p><p>Latent Defect, Towers, Critical Overflow Bugs, and Critical Synchronization Bugs resolve.</p></td>
+    <td><p><b>11.</b> The third set of tethers manifest.</p><p>Latent Defect, Towers, Critical Overflow Bugs <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_overflow_bug.png">, and Critical Synchronization Bugs <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_synchronization_bug.png"> resolve.</p></td>
     <td><img src="../images/03_omega_reconfigured/hello_world_3_2.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>12.</b> Pass Critical Underflow and Critical Performance Bugs.</p><p>Blue-tethered players also break their tether in the process.</p></td>
+    <td><p><b>12.</b> Pass Critical Underflow <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_underflow_bug.png"> and Critical Performance Bugs <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_performance_bug.png">.</p><p>Blue-tethered players also break their tether in the process.</p></td>
     <td><img src="../images/03_omega_reconfigured/hello_world_3_3.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>13.</b> Red/green tethered players move together to break their tether.</p><p>Avoid the explosions from Critical Underflow and Critical Performance.</p></td>
+    <td><p><b>13.</b> Red/green tethered players move together to break their tether.</p><p>Avoid the explosions from Critical Underflow <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_underflow_bug.png"> and Critical Performance <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_performance_bug.png">.</p></td>
     <td><img src="../images/03_omega_reconfigured/hello_world_3_4.jpg"></td>
   </tr>
 </table>
@@ -258,35 +258,35 @@ All players rotate their roles again for the third iteration.
 
 All players rotate their roles again for the fourth (and final) iteration.
 
-- Players who were Critical Overflow become Remote Regression (blue tethers)
-- Players who were Remote Regression become Critical Synchronization
-- Players who were Critical Synchronization become Local Regression (red/green tethers)
-- Players who were Local Regression become Critical Overflow.
+- Players who were Critical Overflow <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_overflow_bug.png"> become Remote Regression <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/remote_regression.png"> (blue tethers)
+- Players who were Remote Regression <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/remote_regression.png"> become Critical Synchronization <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_synchronization_bug.png">
+- Players who were Critical Synchronization <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_synchronization_bug.png"> become Local Regression <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/local_regression.png"> (red/green tethers)
+- Players who were Local Regression <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/local_regression.png"> become Critical Overflow <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_overflow_bug.png">.
 
 This time around, there are two differences:
 
-1. Red/green tethers will **join** the blue tethers at Critical Synchronizations instead of getting hit by Critical Overflow and break **first**.
-2. Players will **not** pass Critical Underflow and Critical Performance.
+1. Red/green tethers will **join** the blue tethers at Critical Synchronizations <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_synchronization_bug.png"> instead of getting hit by Critical Overflow <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_overflow_bug.png"> and break **first**.
+2. Players will **not** pass Critical Underflow <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_underflow_bug.png"> and Critical Performance <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_performance_bug.png">.
 
 <table>
   <tr>
-    <td width="50%"><p><b>14.</b> Pair up and move to your towers.</p><ul><li><b>Red/green tethered players will be with Critical Synchronization this time.</b></li><li>Critical Synchronization, blue tethered players, and red/green tethered players group up and move to their towers.</li></ul></td>
+    <td width="50%"><p><b>14.</b> Pair up and move to your towers.</p><ul><li><b>Red/green tethered players will be with Critical Synchronization <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_synchronization_bug.png"> this time.</b></li><li>Critical Synchronization <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_synchronization_bug.png">, blue tethered players, and red/green tethered players group up and move to their towers.</li></ul></td>
     <td><img src="../images/03_omega_reconfigured/hello_world_4_1.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>15.</b> The last set of tethers manifest.</p><p>Latent Defect, Towers, Critical Overflow Bugs, and Critical Synchronization Bugs resolve.</p><p>This should immediately break the red/green tethers- break them if they have not.</p></td>
+    <td><p><b>15.</b> The last set of tethers manifest.</p><p>Latent Defect, Towers, Critical Overflow Bugs <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_overflow_bug.png">, and Critical Synchronization Bugs <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_synchronization_bug.png"> resolve.</p><p>This should immediately break the red/green tethers- break them if they have not.</p></td>
     <td><img src="../images/03_omega_reconfigured/hello_world_4_2.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>16.</b> <b>Do not</b> pass Critical Underflow and Critical Performance Bugs.</p><p>Blue-tethered players break their tether.</p></td>
+    <td><p><b>16.</b> <b>Do not</b> pass Critical Underflow <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_underflow_bug.png"> and Critical Performance Bugs <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_performance_bug.png">.</p><p>Blue-tethered players break their tether.</p></td>
     <td><img src="../images/03_omega_reconfigured/hello_world_4_3.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>17.</b> Avoid the explosions from Critical Underflow and Critical Performance.</p></td>
+    <td><p><b>17.</b> Avoid the explosions from Critical Underflow <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_underflow_bug.png"> and Critical Performance <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_performance_bug.png">.</p></td>
     <td><img src="../images/03_omega_reconfigured/hello_world_4_4.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>18.</b> All players have resolved their debuffs, and there are no more bugs remaining.</p><p>Importantly, all players still have the Overflow Debugger buffs so Omega's Critical Error will not apply another round of Critical Overflows on the party.</p></td>
+    <td><p><b>18.</b> All players have resolved their debuffs, and there are no more bugs remaining.</p><p>Importantly, all players still have the Overflow Debugger buffs so Omega's Critical Error will not apply another round of Critical Overflows  on the party.</p></td>
     <td><img src="../images/03_omega_reconfigured/hello_world_4_5.jpg"></td>
   </tr>
 </table>
