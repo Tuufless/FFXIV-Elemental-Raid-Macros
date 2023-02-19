@@ -275,6 +275,10 @@ The following is the Kinda Awk strat:
 </details>
 </div>
 
+Identifying the safe spots will take some practice. Nukemaru has compiled a collection of clips which may help:
+
+{% include youtube.html id="tkFKT_uGLGE" %}
+
 <table>
   <tr>
     <td width="50%"><p><b>5.</b> Omega will then present a single monitor set, to be resolved together with the first set of Hello, World debuffs.<ul><li>Two players with two Dynamis stacks take Omega's monitor hits.<ul><li>If there are player(s) with two Dynamis stacks <b>and</b> a second Hello, World debuff, they <b>must</b> take the monitors here.</li></ul></li></ul></p></td>
