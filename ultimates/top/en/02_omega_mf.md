@@ -8,10 +8,6 @@ permalink: /ultimates/top/02_omega_mf/
 
 # Omega M/F
 
-<div style="background-color: #200 ; padding: 10px; border: 1px solid;">
-<b>UNDER CONSTRUCTION!</b>
-</div>
-
 <table>
   <tr>
     <td width="50%"><p><b>1.</b> Stay near to your assigned boss.</p><p>Omega M and F will cast Firewall, which will apply a debuff on the four closest players.</p><p>Those players will only be able to attack that target.</p></td>
