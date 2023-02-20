@@ -145,7 +145,7 @@ The following is the Kinda Awk strat:
       <li><p>Pairs with one marker:</p>
         <ul>
           <li>The top pair goes NW/SE <em>(player without a marker goes NW)</em>.</li>
-          <li>The top pair goes NE/SW <em>(player without a marker goes NE)</em>.</li>
+          <li>The bottom pair goes NE/SW <em>(player without a marker goes NE)</em>.</li>
         </ul>
       </li>
     </ul>
