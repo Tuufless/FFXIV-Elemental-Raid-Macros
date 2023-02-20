@@ -12,8 +12,45 @@ permalink: /ultimates/top/06_alpha_omega/
 <b>UNDER CONSTRUCTION!</b>
 </div>
 
+## Mitigations
+
+This phase requires planning out and coordinating mitigations. One such mitigation plan is:
+
+<table>
+  <tr>
+    <td><b>Cosmo Memory</b></td>
+    <td><p>MT Reprisal, MT 90s, H2 shields, H2 30s, ST LB3, D1</p></td>
+  </tr>
+  <tr>
+    <td><b>Cosmo Dive #1</b></td>
+    <td>ST Reprisal, ST 90s, H1 120s, H2 shields, H2 30s, D4</td>
+  </tr>
+  <tr>
+    <td><b>Wave Cannon #1</b></td>
+    <td>MT Reprisal, H2 shields, H2 30s, H2 120s, D2, D3</td>
+  </tr>
+  <tr>
+    <td><b>Wave Cannon #2</b></td>
+    <td><p>MT 90s, ST Reprisal, H2 shields*, H2 30s, H2 120s, D1</p><p><em>* Expedient/Holos vs Consolation/Panhaima</em></p></td>
+  </tr>
+  <tr>
+    <td><b>Cosmo Dive #2</b></td>
+    <td><p>MT Reprisal, ST 90s, H2 shields, H2 30s*, D4</p><p><em>* Expedient/Holos vs Consolation/Panhaima</em></p></td>
+  </tr>
+  <tr>
+    <td><b>Cosmo Meteor</b></td>
+    <td>ST Reprisal, H1 120s, H2 shields, H2 30s, D2, D3</td>
+  </tr>
+</table>
+
+The above mitigation plan was made in the *absence* of jobs that provide more than one sort of mitigation such as PLD's Passage of Arms, AST's Collective Unconsciousness, MCH's Dismantle, or RDM's Magick Barrier.
+
+## Cosmo Memory
+
+Cosmo Memory is a Tank LB3 check- its damage *still* needs to be mitigated in addition to the Tank LB3.
+
 ## Cosmo Arrow
-</b></li>
+
 Alpha Omega's version of the ranged LB3 fires two sets of line AoEs that travel sideways with each hit.
 
 How the party dodges these is determined by which set of AoEs appeared first.
