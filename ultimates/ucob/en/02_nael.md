@@ -204,7 +204,7 @@ The final dragon will periodically target two random party members with Thunder-
 
 <table>
   <tr>
-    <td><p><b>27.</b> Nael will say her fourth line, which will lead to either:</p><ul><li>Meteor Stream → Dalamud Dive</li><li>Dalamud Dive → Thermionic Beam</li></ul><p><em>(Note this is the first line whose first mechanic is</em>not<em> fixed.)</em></p><p>At the same time, the first divebomb marker will appear above a player that's not the ST (who currently holds hate).</p></td>
+    <td><p><b>27.</b> Nael will say her fourth line, which will lead to either:</p><ul><li>Meteor Stream → Dalamud Dive</li><li>Dalamud Dive → Thermionic Beam</li></ul><p><em>(Note this is the first line whose first mechanic is </em>not<em> fixed.)</em></p><p>At the same time, the first divebomb marker will appear above a player that's not the ST (who currently holds hate).</p></td>
     <td><img src="../images/02_nael/nael_4_1.jpg"></td>
   </tr>
   <tr>
