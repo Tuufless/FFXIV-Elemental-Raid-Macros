@@ -12,51 +12,15 @@ Notably, all players must *end* this phase with three stacks of Dynamis in order
 
 ## Run: Dynamis (Delta Version)
 
-- Two pairs of players will be tethered with the red/green tether.
-  - Red/green tethered players will be **taking monitor hits**.
-- Two pairs of players will be tethered with the blue tether.
-  - Blue tethered players will be handling **Pile Pitch**.
+The following summarizes the Kinda Awk strat:
+
+- Red/green tethered players will be **taking monitor hits**.
+- Blue tethered players will be handling **Pile Pitch**.
   - Hello, Near World and Hello, Distant World will appear on two players with a blue tether.
 
-The following is the Kinda Awk strat:
+<img src="../images/05_run_dynamis/run_dynamis_delta_summary.jpg">
 
-<table>
-  <tr>
-    <td><b>Outer blue tethers</b></td>
-    <td><ol>
-      <li><b>When fists appear:</b> Stay put and break tethers as soon as they activate. Stack with your partner in the other tether when the tether breaks.</li>
-      <li><b>When fist AoEs appear:</b> Bait spinning arms by beetle Omega.</li>
-      <li><b>When spinning fists are baited:</b> Move in to soak Pile Pitch/point monitor.</li>
-      <li><b>After monitors go off:</b> Look at beetle Omega and move to the safe side to either dodge or start Hello, Near/Distant World depending on your debuff.</li>
-    </ol></td>
-  </tr>
-  <tr>
-    <td><b>Inner blue tethers</b></td>
-    <td><ol>
-      <li><b>When fists appear:</b> Swap positions for blue/yellow fists if needed.</li>
-      <li><b>When fist AoEs appear:</b> Break tethers and move to center bait Beyond Defense.</li>
-      <li><b>After Beyond Defense:</b> Stack/avoid Pile Pitch and/or point monitor.</li>
-      <li><b>After monitors go off:</b> Look at beetle Omega and move to the safe side to either dodge or start Hello, Near/Distant World depending on your debuff.</li>
-    </ol></td>
-  </tr>
-  <tr>
-    <td><b>Inner red/green tethers</b></td>
-    <td><ol>
-      <li><b>When fists appear:</b> Swap positions for blue/yellow fists if needed.</li>
-      <li><b>When fist AoEs appear:</b> Move to bait side spinning arms.</li>
-      <li><b>When spinning fists are baited:</b> Stay at the sides to take monitor hits.</li>
-      <li><b>After monitors go off:</b> Look at beetle Omega and move to the safe side to prepare to take Hello, Near World. Break your tether in the process.</li>
-    </ol></td>
-  </tr>
-  <tr>
-    <td><b>Outer red/green tethers</b></td>
-    <td><ol>
-        <li><b>When fist AoEs appear:</b> Bait spinning arms by Reconfigured Omega.</li>
-        <li><b>When spinning fists are baited:</b> Move to the sides to take monitor hits.</li>
-        <li><b>After monitors go off:</b> Look at beetle Omega and move to the safe side to prepare to take Hello, Distant World.</li>
-    </ol></td>
-  </tr>
-</table>
+Breaking this down, we get:
 
 <table>
   <tr>
