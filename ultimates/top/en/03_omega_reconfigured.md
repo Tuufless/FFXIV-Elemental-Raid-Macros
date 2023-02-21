@@ -22,7 +22,7 @@ This is the only phase in the fight with a transitional mechanic.
     <td><img src="../images/03_omega_reconfigured/transition_02.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>3.</b> First pulse of the expanding AoE goes off.</p><p>Three arms will appear around the arena, 120 degrees from one another.</p><p><b>Note where these first set of arms are.</b></p></td>
+    <td><p><b>3.</b> First pulse of the expanding Wave Repeater AoE goes off.</p><p>Three arms will appear around the arena, 120 degrees from one another.</p><p><b>Note where these first set of arms are.</b></p></td>
     <td><img src="../images/03_omega_reconfigured/transition_03.jpg"></td>
   </tr>
   <tr>

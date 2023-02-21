@@ -36,15 +36,15 @@ In the meantime, the party will need to deal with simple stack/spread mechanics 
 
 ## Second Wave
 
-The following sets of Wave Cannons now come with the expanding AoE from the center.
+The following sets of Wave Cannons now come with the expanding Wave Repeater AoE from the center.
 
 <table>
   <tr>
-    <td width="50%"><p><b>4.</b> Omega targets two random players for Wave Cannon stacks.</p><p>The first hit from the expanding AoE resolves in the center.</p><p><em>In this example, each side has one stack marker, so no swaps will be needed.</em></p></td>
+    <td width="50%"><p><b>4.</b> Omega targets two random players for Wave Cannon stacks.</p><p>The first hit from the Wave Repeater resolves in the center.</p><p><em>In this example, each side has one stack marker, so no swaps will be needed.</em></p></td>
     <td><img src="../images/04_blue_screen/blue_screen_2_1.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>5.</b> The second ring of the expanding AoE resolves together with the first set of Wave Cannons.</p><p>Dodge <b>into</b> the ring AoE and gather south, swapping if necessary.</p></td>
+    <td><p><b>5.</b> The second ring of the Wave Repeater resolves together with the first set of Wave Cannons.</p><p>Dodge <b>into</b> the ring AoE and gather south, swapping if necessary.</p></td>
     <td><img src="../images/04_blue_screen/blue_screen_2_2.jpg"></td>
   </tr>
   <tr>
@@ -69,11 +69,11 @@ The following sets of Wave Cannons now come with the expanding AoE from the cent
     <td><img src="../images/04_blue_screen/blue_screen_3_2.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>10.</b> Wave Cannon stacks resolve.</p><p><b>Wait where you are</b> for the ring AoE to go off.</p></td>
+    <td><p><b>10.</b> Wave Cannon stacks resolve.</p><p><b>Wait where you are</b> for the Wave Repeater to go off.</p></td>
     <td><img src="../images/04_blue_screen/blue_screen_3_3.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>11.</b> Dodge into the ring AoE.</p></td>
+    <td><p><b>11.</b> Dodge into the Wave Repeater's AoE.</p></td>
     <td><img src="../images/04_blue_screen/blue_screen_3_4.jpg"></td>
   </tr>
   <tr>
