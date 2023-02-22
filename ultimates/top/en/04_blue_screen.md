@@ -15,7 +15,7 @@ This phase is a short, 55-second race to bring Omega's HP below 20% before Omega
 In the meantime, the party will need to deal with simple stack/spread mechanics while dodging the expanding donut AoEs from the earlier transition phase.
 
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
-<b>Tip:</b> The stack deals more damage than the spread.</p><p>Mitigations that last 15-seconds are best used after the spread beams in order to cover two stacks.</p></div>
+<p><b>Tip:</b> The stack deals more damage than the spread.</p><p>Mitigations that last 15-seconds are best used after the spread beams in order to cover two stacks.</p></div>
 
 ## First Wave
 
