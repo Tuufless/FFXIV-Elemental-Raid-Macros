@@ -57,7 +57,26 @@ This is the only phase in the fight with a transitional mechanic.
 
 ## Hello, World
 
-Although Hello, World may look overwhelming at first, it is simply a cycle of debuffs to resolve. At any one point, two players will be at each stage in the cycle.
+Although Hello, World may look overwhelming at first, there are really just two variations, determined by which colour debuff (Critical Performance and Critical Underflow) get paired with Critical Overflow and Critical Synchronization.
+
+<table>
+  <tr>
+    <td width="50%"><img src="../images/03_omega_reconfigured/hello_world_0_0a.jpg"></td>
+    <td><img src="../images/03_omega_reconfigured/hello_world_0_0b.jpg"></td>
+  </tr>
+  <tr>
+    <td>
+      <p><em>"Blue is Defamation"</em></p>
+      <p>Critical Overflow <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_overflow_bug.png"> has Critical Performance <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_performance_bug.png"></p>
+    </td>
+    <td>
+      <p><em>"Red is Defamation"</em></p>
+      <p>Critical Overflow <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_overflow_bug.png"> has Critical Underflow <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_underflow_bug.png"></p>
+    </td>
+  </tr>
+</table>
+
+After that, Hello, World is simply a cycle of debuffs to resolve. At any one point, two players will be at each stage in the cycle.
 
 <table>
   <tr>
@@ -78,8 +97,6 @@ Although Hello, World may look overwhelming at first, it is simply a cycle of de
     <td><img src="../images/03_omega_reconfigured/hello_world_cycle.jpg"></td>
   </tr>
 </table>
-
-The only variation is which colour each debuffs go to, which is determined by which colour debuff (Critical Performance and Critical Underflow) get paired with Critical Overflow and Critical Synchronization.
 
 This loop is repeated four times (so all players will have their go at each debuff), although the final iteration has one small difference where the Local Regression players stand away from the Critical Overflows instead.
 
@@ -160,7 +177,7 @@ This loop is repeated four times (so all players will have their go at each debu
 </details>
 </div>
 
-### First iteration
+### Setup
 
 <table>
   <tr>
@@ -173,28 +190,37 @@ This loop is repeated four times (so all players will have their go at each debu
         <ul><li>Remote Regressions <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/remote_regression.png"> (blue tethers) follow Critical Synchronizations <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_synchronization_bug.png"> to the same colour (red towers).</li></ul></em></li>
     </ul>
     </td>
-    <td><img src="../images/03_omega_reconfigured/hello_world_1_1.jpg"></td>
+    <td><img src="../images/03_omega_reconfigured/hello_world_0_1.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>2.</b> Preposition to prepare for the first set of towers.</p><ul><li><b>Tethers:</b> Move inside Omega's hitbox.</li><li><b>Critical Underflow/Performance:</b> Move around the outside of Omega's hitbox. Find your partner and stand beside them.</li></ul></td>
+    <td><img src="../images/03_omega_reconfigured/hello_world_0_2.jpg"></td>
   </tr>
 </table>
 
+### First iteration
+
 For brevity's sake, we will only display the relevant debuffs from here onwards.
+
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+<p><b>Tip:</b> The boss will still be auto-attacking the tanks during Hello, World.</p><p>These should be mitigated by cycling through your cooldowns to help reduce strain on the healers. Tank swap after the second set of towers to cycle through the ST's mitigations.</p></div>
 
 <table>
   <tr>
-    <td width="50%"><p><b>2.</b> Pair up and move to your towers.</p><ul><li>Critical Overflow <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_overflow_bug.png"> and red/green tethered players pair up and move to their towers <em>(blue in this example).</em></li><li>Critical Synchronization <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_synchronization_bug.png"> and blue tethered players pair up and move to their towers <em>(red in this example)</em></li></ul><p>Note the red/green tethered players are on the outside of their coloured towers, while the blue tethered players are between their coloured towers.</p></td>
+    <td width="50%"><p><b>3.</b> Pair up and move to your towers.</p><ul><li>Critical Overflow <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_overflow_bug.png"> and red/green tethered players pair up and move to their towers <em>(blue in this example).</em></li><li>Critical Synchronization <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_synchronization_bug.png"> and blue tethered players pair up and move to their towers <em>(red in this example)</em></li></ul><p>Note the red/green tethered players are on the outside of their coloured towers, while the blue tethered players are between their coloured towers.</p></td>
+    <td><img src="../images/03_omega_reconfigured/hello_world_1_1.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>4.</b> The first set of tethers manifest.</p><p>Towers, Critical Overflow Bugs <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_overflow_bug.png">, and Critical Synchronization Bugs <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_synchronization_bug.png"> resolve.</p><ul><li>Critical Overflow Bugs <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_overflow_bug.png"> transfer to the red/green tethered players.</li><li>Critical Synchronisations <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_synchronization_bug.png"> transfer to the blue tethered players.</li></ul></td>
     <td><img src="../images/03_omega_reconfigured/hello_world_1_2.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>3.</b> The first set of tethers manifest.</p><p>Towers, Critical Overflow Bugs <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_overflow_bug.png">, and Critical Synchronization Bugs <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_synchronization_bug.png"> resolve.</p><ul><li>Critical Overflow Bugs <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_overflow_bug.png"> transfer to the red/green tethered players.</li><li>Critical Synchronisations <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_synchronization_bug.png"> transfer to the blue tethered players.</li></ul></td>
+    <td><p><b>5.</b> Pass Critical Underflow <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_underflow_bug.png"> and Critical Performance Bugs <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_performance_bug.png">.</p><p>Blue-tethered players also break their tether in the process.</p></td>
     <td><img src="../images/03_omega_reconfigured/hello_world_1_3.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>4.</b> Pass Critical Underflow <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_underflow_bug.png"> and Critical Performance Bugs <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_performance_bug.png">.</p><p>Blue-tethered players also break their tether in the process.</p></td>
+    <td><p><b>4.</b> Red/green tethered players move together to break their tether.</p><p>Avoid the explosions from Critical Underflow <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_underflow_bug.png"> and Critical Performance <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_performance_bug.png">.</p></td>
     <td><img src="../images/03_omega_reconfigured/hello_world_1_4.jpg"></td>
-  </tr>
-  <tr>
-    <td><p><b>5.</b> Red/green tethered players move together to break their tether.</p><p>Avoid the explosions from Critical Underflow <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_underflow_bug.png"> and Critical Performance <img style="height:1em" src="../images/03_omega_reconfigured/debuffs/critical_performance_bug.png">.</p></td>
-    <td><img src="../images/03_omega_reconfigured/hello_world_1_5.jpg"></td>
   </tr>
 </table>
 
