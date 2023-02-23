@@ -10,6 +10,53 @@ permalink: /ultimates/top/05_run_dynamis/
 
 Notably, all players must *end* this phase with three stacks of Dynamis in order to clear the next phase.
 
+## Solar Ray
+
+There are four Solar Rays in this phase. These are two-hit tankbusters that also apply Magic Vulnerability, forcing either a tank swap, or invuln.
+
+They also hit *extremely* hard (base damage is a little under *three times* a tank's max HP).
+
+Most groups will invuln at least one of these, but which one you invuln will affect what invulns are available in P6.
+
+<table>
+  <tr>
+    <td><b>Before Delta</b></td>
+    <td>
+      <ul>
+        <li><b>WAR:</b> Holmgang will be back for the Solar Ray before Blind Faith.</li>
+        <li><b>DRK:</b> Living Dead will be back for Cosmo Dive 1.</li>
+        <li><b>GNB:</b> Superbolide will be back for Cosmo Dive 1.</li>
+        <li><b>PLD:</b> Hallowed Ground will be back for Wave Cannon 1.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Before Sigma</b></td>
+    <td>
+      <ul>
+        <li><b>WAR:</b> Holmgang will be back for Cosmo Dive 1.</li>
+        <li><b>DRK:</b> Living Dead will be back for Wave Cannon 1.</li>
+        <li><b>GNB:</b> Superbolide will be back for Wave Cannon 2.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Before Omega</b></td>
+    <td>
+      <ul>
+        <li><b>WAR:</b> Holmgang will be back for Wave Cannon 1.</li>
+        <li><b>DRK:</b> Living Dead will be back for Cosmo Dive 2.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Before Blind Faith</b></td>
+    <td>
+      <ul><li>None of the tanks can invuln the last Solar Ray and have it back for a tankbuster in P6.</li></ul>
+    </td>
+  </tr>
+</table>
+
 ## Run: Dynamis (Delta Version)
 
 The following summarizes the Kinda Awk strat:
