@@ -80,7 +80,8 @@ Alternatively, you can mitigate the Chastening Heat, and invuln the Divine Spear
   </tr>
 </table>
 
-You **can** catch the Chastening Heat and all three Divine Spears with a single invuln, but the timing is tight. Consider using cds to take the Chastening Heat, and then invuln the three Divine Spears (there is an auto-attack in between).
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+<p><b>Tip:</b> You <b>can</b> catch the Chastening Heat and all three Divine Spears with a single invuln, but the timing is tight.</p><p>You can mitigate the Chastening Heat instead, and then invuln the three Divine Spears (there is an auto-attack in between).</p></div>
 
 After the Divine Spears, have the MT Provoke and take aggro. Alexander Prime will autoattack twice before casting Inception Formation.
 
@@ -121,7 +122,7 @@ After the Divine Spears, have the MT Provoke and take aggro. Alexander Prime wil
   </tr>
 </table>
 
-Alexander Prime will then reappear in the center and begin another Chastening Heat → 3x Divine Spear combo, all of which will be taken by a timed MT invuln.
+Alexander Prime will then reappear in the center and begin another Chastening Heat → 3x Divine Spear combo on the MT. Handle this like before- either invuln all these attacks, or mitigate Chastening Heat and invuln the Divine Spears.
 
 <table>
   <tr>
