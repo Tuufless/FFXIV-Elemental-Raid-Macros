@@ -312,3 +312,12 @@ Identifying the safe spots will take some practice. Nukemaru has compiled a coll
 Omega-F then does one more set of Solar Ray tankbusters before casting Blind Faith.
 
 Like Blue Screen, Omega-F **must** be brought to under 20% HP by the end of Blind Faith's cast to proceed onto the final phase of the fight.
+
+## Frequently Asked Questions
+
+<details markdown=block>
+<summary><b>[Delta]</b> Is there a reason why blue tethers go opposite Final Omega instead of beside it, or is this an arbitrary choice?</summary>
+<table>
+  <tr><td><p>Putting the blue tethers opposite Final Omega gives them the best vantage point for Final Omega's Oversampled Wave Cannon.</p><p>This is important, as the blue tether players will be the ones resolving Beyond Defense → Pile Pitch together with Final Omega's (and a player's) Oversampled Wave Cannon.</p></td></tr>
+</table>
+</details>
