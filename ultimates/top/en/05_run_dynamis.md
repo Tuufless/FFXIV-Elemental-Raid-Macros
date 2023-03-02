@@ -100,7 +100,7 @@ Breaking this down, we get:
     <td><img src="../images/05_run_dynamis/run_dynamis_delta_06.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>7.</b> The other three blue-tethered players stack together to share Pile Pitch (including the Monitor player).</p><p>The player that was struck with Beyond Defense moves out of the way, but between the two monitors (Omega's and the player's).</p></td>
+    <td><p><b>7.</b> The player with Oversampled Wave Cannon Loading points their monitors in the other direction of Final Omega's Oversampled Wave Cannon.</p><p>This creates a safe corridor for the three blue-tethered players that weren't hit by Beyond Defense to stack together to share Pile Pitch.</p><p>Note that the Pile Pitch stack may or may not include the player with Oversampled Wave Cannon Loading.</p><p>The player hit by Beyond Defense stands somewhere within this corridor, away from the Pile Pitch stack.</p></td>
     <td><img src="../images/05_run_dynamis/run_dynamis_delta_07.jpg"></td>
   </tr>
   <tr>
