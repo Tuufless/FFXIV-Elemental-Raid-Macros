@@ -108,7 +108,7 @@ Breaking this down, we get:
     <td><img src="../images/05_run_dynamis/run_dynamis_delta_08.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>9.</b> The cleave resolves, along with Hello, Near World and Hello, Distant World.</p><p>Wait a couple seconds before breaking the last red/green tether.</p></td>
+    <td><p><b>9.</b> The cleave resolves, along with Hello, Near World and Hello, Distant World.</p><p>Wait for everybody's Magic Vulnerability to wear off (5 seconds) before breaking the last red/green tether.</p></td>
     <td><img src="../images/05_run_dynamis/run_dynamis_delta_09.jpg"></td>
   </tr>
 </table>
@@ -319,5 +319,14 @@ Like Blue Screen, Omega-F **must** be brought to under 20% HP by the end of Blin
 <summary><b>[Delta]</b> Is there a reason why blue tethers go opposite Final Omega instead of beside it, or is this an arbitrary choice?</summary>
 <table>
   <tr><td><p>Putting the blue tethers opposite Final Omega gives them the best vantage point for Final Omega's Oversampled Wave Cannon.</p><p>This is important, as the blue tether players will be the ones resolving Beyond Defense → Pile Pitch together with Final Omega's (and a player's) Oversampled Wave Cannon.</p></td></tr>
+</table>
+</details>
+
+## Troubleshooting
+
+<details markdown=block>
+<summary><b>[Delta]</b> The blue/yellow fists AoEs are missing and we get hit by Unmitigated Explosion- what happened?</summary>
+<table>
+  <tr><td><p>The fist AoEs only appear <em>if and only if</em> a blue fist is correctly stacked with a yellow fist. This is done pair-wise, so players who <em>have</em> fist AoEs did it correctly.</p></td></tr>
 </table>
 </details>
