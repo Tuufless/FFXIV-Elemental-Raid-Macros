@@ -18,7 +18,7 @@ Twintania's first phase is a basic introduction to what to expect- Twisters, and
     <td><img src="../images/01_twintania/twintania_1_1.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>2.</b> Twintania will mark one random (non-tank) player with a Fireball marker, and cast Twister.</p><p>All players <b>other than the tanks and D3</b> will bait Twisters where they stand, and stack behind Twintania to split the Fireball damage in a 5-man stack.</p><ul><li><b>D3: </b> Stay out of the Fireball stack unless you are the Fireball target.</li><li><b>D4: </b>Join the Fireball stack unless D3 is the Fireball target.</li></ul></td>
+    <td><p><b>2.</b> Twintania will mark one random (non-tank) player with a Fireball marker, and cast Twister.</p><p>All players <b>other than the tanks and D3</b> will bait Twisters where they stand, and stack behind Twintania to split the Fireball damage in a 5-man stack.</p><ul><li><b>D3: </b> Stay out of the Fireball stack unless you are the Fireball target.</li><li><b>D4: </b>Join the Fireball stack unless D3 is the Fireball target.</li></ul><p>You will need to mitigate this Fireball to survive- use effects like shields, Sacred Soil/Kerachole and Troubadour/Tactician/Shield Samba. <b>Do not</b> use debuffs like Reprisal, Feint, or Addle.</p></td>
     <td><img src="../images/01_twintania/twintania_1_2.jpg"></td>
   </tr>
   <tr>
@@ -155,7 +155,7 @@ This phase is the culmination of all the mechanics introduced thus far.
 </table>
 </details>
 <details markdown=block>
-<summary><b>[Fireballs]</b> Why wasn't LB generated with the Fireball? What went wrong?</summary>
+<summary><b>[Fireballs]</b> Why wasn't LB generated with the Fireball? Why don't we debuff Twintania with Reprisal/Feint/Addle?</summary>
 <table>
   <tr><td><p>LB is built if someone in the party takes lethal damage, but is saved by shields and mitigations.</p><p>By splitting the Fireball damage between just five players instead of eight, we intentionally "kill" the five players, but save them through shields and mitigations, thus building LB.</p><p>It's important to note that the <b>incoming</b> damage (before party mitigations are applied) must be lethal to the party- avoid debuffing Twintania (Reprisal, Feint, Addle), as this lowers the <b>outgoing</b> damage (<em>before</em> party mitigations are applied) instead, making it not lethal to the players.</p></td></tr>
 </table>
