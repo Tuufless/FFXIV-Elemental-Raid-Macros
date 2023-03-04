@@ -14,7 +14,7 @@ Twintania's first phase is a basic introduction to what to expect- Twisters, and
 
 <table>
   <tr>
-    <td><p><b>1.</b> Pull Twintania over the NW marker, and point it away from the party so Plummet doesn't hit anyone else.</p><p>Have the rest of the party spread out, but make sure all party members (except for the tanks) have a clear path to Twintania's rear.</p></td>
+    <td width="50%"><p><b>1.</b> Pull Twintania over the NW marker, and point it away from the party so Plummet doesn't hit anyone else.</p><p>Have the rest of the party spread out, but make sure all party members (except for the tanks) have a clear path to Twintania's rear.</p></td>
     <td><img src="../images/01_twintania/twintania_1_1.jpg"></td>
   </tr>
   <tr>
@@ -35,7 +35,7 @@ The phase ends when Twintania is pushed below 45% HP.
 
 <table>
   <tr>
-    <td><p><b>4.</b> Pull Twintania clockwise to the next marker.</p></td>
+    <td width="50%"><p><b>4.</b> Pull Twintania clockwise to the next marker.</p></td>
     <td><img src="../images/01_twintania/twintania_2_1.jpg"></td>
   </tr>
   <tr>
@@ -74,7 +74,7 @@ This phase is the culmination of all the mechanics introduced thus far.
 
 <table>
   <tr>
-    <td><p><b>11. </b>Pull Twintania clockwise to the next marker.</p></td>
+    <td width="50%"><p><b>11. </b>Pull Twintania clockwise to the next marker.</p></td>
     <td><img src="../images/01_twintania/twintania_3_1.jpg"></td>
   </tr>
   <tr>
@@ -119,7 +119,7 @@ This phase is the culmination of all the mechanics introduced thus far.
 
 <table>
   <tr>
-    <td><p><b>21. </b>Twintania will leave the third and final Neurolink behind, before disappearing.</p><p>The party should stack on the south waymark. Optionally, the tanks may stand on the north side instead.</p></td>
+    <td width="50%"><p><b>21. </b>Twintania will leave the third and final Neurolink behind, before disappearing.</p><p>The party should stack on the south waymark. Optionally, the tanks may stand on the north side instead.</p></td>
     <td><img src="../images/01_twintania/transition_01.jpg"></td>
   </tr>
   <tr>

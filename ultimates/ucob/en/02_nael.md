@@ -58,7 +58,7 @@ The quotes that Nael will use in this phase are:
 
 <table>
   <tr>
-    <td><p><b>1.</b> Have the MT Provoke Nael after the Bahamut's Claw is over, and center Nael, facing North.</p></td>
+    <td width="50%"><p><b>1.</b> Have the MT Provoke Nael after the Bahamut's Claw is over, and center Nael, facing North.</p></td>
     <td><img src="../images/02_nael/nael_1_1.jpg"></td>
   </tr>
   <tr>
@@ -89,7 +89,7 @@ The final dragon will periodically target two random party members with Thunder-
 
 <table>
   <tr>
-    <td><p><b>3.</b> Nael will say her first line, which will lead to either:</p><ul><li>Lunar Dynamo → Iron Chariot</li><li>Lunar Dynamo → Thermionic Beam</li></ul><p>Two random players will be randomly targeted with a Thunder debuff- these two players must separate from the party while still being within Lunar Dynamo's safe zone.</p><p>The priority goes:</p><ul><li><b>Left:</b> MT ST H1 H2 D1 D2 D3 D4 <b>:Right</b></li></ul></td>
+    <td width="50%"><p><b>3.</b> Nael will say her first line, which will lead to either:</p><ul><li>Lunar Dynamo → Iron Chariot</li><li>Lunar Dynamo → Thermionic Beam</li></ul><p>Two random players will be randomly targeted with a Thunder debuff- these two players must separate from the party while still being within Lunar Dynamo's safe zone.</p><p>The priority goes:</p><ul><li><b>Left:</b> MT ST H1 H2 D1 D2 D3 D4 <b>:Right</b></li></ul></td>
     <td><img src="../images/02_nael/nael_1_3.jpg"></td>
   </tr>
   <tr>
@@ -124,7 +124,7 @@ The final dragon will periodically target two random party members with Thunder-
 
 <table>
   <tr>
-    <td><p><b>10.</b> Nael will say her second line, which will lead to either:</p><ul><li>Thermionic Beam → Lunar Dynamo</li><li>Thermionic Beam → Iron Chariot</li></ul><p>At the same time, the two Thunderstruck debuffs will resolve.</p><ul><li><b>Thunder:</b> Stand away from the party (and not on top of one another).</li></ul></td>
+    <td width="50%"><p><b>10.</b> Nael will say her second line, which will lead to either:</p><ul><li>Thermionic Beam → Lunar Dynamo</li><li>Thermionic Beam → Iron Chariot</li></ul><p>At the same time, the two Thunderstruck debuffs will resolve.</p><ul><li><b>Thunder:</b> Stand away from the party (and not on top of one another).</li></ul></td>
     <td><img src="../images/02_nael/nael_2_1.jpg"></td>
   </tr>
   <tr>
@@ -166,7 +166,7 @@ The final dragon will periodically target two random party members with Thunder-
 
 <table>
   <tr>
-    <td><p><b>19.</b> Nael will say her third line, which will lead to either:</p><ul><li>Raven Dive → Lunar Dynamo</li><li>Raven Dive → Iron Chariot</li></ul><p>The first part of Nael's third line resolves.</p><p>Nael will dive on a random player, hitting them with an AoE that will knock any other player hit out of the arena.</p><p>The Fire Dragon will also tether to a random player.</p></td>
+    <td width="50%"><p><b>19.</b> Nael will say her third line, which will lead to either:</p><ul><li>Raven Dive → Lunar Dynamo</li><li>Raven Dive → Iron Chariot</li></ul><p>The first part of Nael's third line resolves.</p><p>Nael will dive on a random player, hitting them with an AoE that will knock any other player hit out of the arena.</p><p>The Fire Dragon will also tether to a random player.</p></td>
     <td><img src="../images/02_nael/nael_3_1.jpg"></td>
   </tr>
   <tr>
@@ -204,7 +204,7 @@ The final dragon will periodically target two random party members with Thunder-
 
 <table>
   <tr>
-    <td><p><b>27.</b> Nael will say her fourth line, which will lead to either:</p><ul><li>Meteor Stream → Dalamud Dive</li><li>Dalamud Dive → Thermionic Beam</li></ul><p><em>(Note this is the first line whose first mechanic is </em>not<em> fixed.)</em></p><p>At the same time, the first divebomb marker will appear above a player that's not the ST (who currently holds hate).</p></td>
+    <td width="50%"><p><b>27.</b> Nael will say her fourth line, which will lead to either:</p><ul><li>Meteor Stream → Dalamud Dive</li><li>Dalamud Dive → Thermionic Beam</li></ul><p><em>(Note this is the first line whose first mechanic is </em>not<em> fixed.)</em></p><p>At the same time, the first divebomb marker will appear above a player that's not the ST (who currently holds hate).</p></td>
     <td><img src="../images/02_nael/nael_4_1.jpg"></td>
   </tr>
   <tr>
