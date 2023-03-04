@@ -103,6 +103,10 @@ The first set of Flamethrower telegraphs will appear. If the Flamethrowers hit t
   </tr>
 </table>
 
+Put together, it will look something like this:
+<img src="../images/01_omega/pantokrator.gif">
+*(Credit: Aqua Glacies)*
+
 ### Condensed Waves and Guided Missiles
 
 <table>
