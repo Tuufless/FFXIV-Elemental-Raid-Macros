@@ -21,7 +21,7 @@ The HP Penalty debuff will wear off within two steps (players numbered 3 and 4 w
 
 <table>
   <tr>
-    <td width="50%"><p>There are eight possible tower spawn points.</p><p>Two towers will always spawn at a time, and they will always be either 90 degrees, or 180 degrees from one another.</p><p>Towers will not spawn in the same position twice in a row.</p><p>We establish a priority to determine who takes which tower/tether:</p><ul><li><b>CW from NW:</b> MT HT ST D1 D2 D3 D4 H2</li></ul></td>
+    <td width="50%"><p>There are eight possible tower spawn points.</p><p>Two towers will always spawn at a time, and they will always be either 90 degrees, or 180 degrees from one another.</p><p>Towers will not spawn in the same position twice in a row.</p><p>We establish a priority to determine who takes which tower/tether:</p><ul><li><b>CW from NW:</b> H1 MT ST D1 D2 D3 D4 H2</li></ul></td>
     <td><img src="../images/01_omega/program_loop_01.jpg"></td>
   </tr>
   <tr>
