@@ -329,4 +329,4 @@ Like Blue Screen, Omega-F **must** be brought to under 20% HP by the end of Blin
 <table>
   <tr><td><p>The fist AoEs only appear <em>if and only if</em> a blue fist is correctly stacked with a yellow fist. This is done pair-wise, so players who <em>have</em> fist AoEs did it correctly.</p></td></tr>
 </table>
-</details>
+</details> 

@@ -49,6 +49,33 @@ This will let you save runs with a healer LB3 that would otherwise result in a w
 
 ## Blackfire Trio
 
+<table>
+  <tr>
+    <td width="50%"><p><b>1.</b> Stack center, and locate Nael.</p><p>One player will get marked for Bahamut's dive.</p></ol><div style="background-color: #002 ; padding: 10px; border: 1px solid;"><b>Tip:</b> Nael will always be clockwise from Bahamut, and anti-clockwise from Twintania.</div></td>
+    <td><img src="../images/03_bahamut/blackfire_01.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>2.</b> Stagger-step from the center towards Nael, baiting Twintania's Liquid Hell along the way.</p><p>At around the third Liquid Hell, Nael will cast Thermionic Beam on a random player.</p></td>
+    <td><img src="../images/03_bahamut/blackfire_02.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>3.</b> At around the fifth Liquid Hell, Bahamut's divebomb resolves, which should have been baited through the center of the arena.</p></td>
+    <td><img src="../images/03_bahamut/blackfire_03.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>4.</b> Four towers appear relative to Nael's position.</p><p>The party splits into two groups:</p><ul><li>Tanks and healers turn left at the edge of the arena.</li><li>DPS turn right at the edge of the arena.</li></ul><p>One tank, one healer, and two DPS will get the Megaflare ring around their characters. These players will stack between the two towers opposite Nael.</p><p>Using Nael as North, the players that <b>do not</b> have the Megaflare mark stand <b>beside</b> (not in!) your assigned tower:</p><ul><li><b>Tank</b> → NW tower.</li><li><b>Healer</b> → SW tower.</li><li><b>DPS</b> → NE：D1 D2 D3 D4：SE tower</li></ul></td>
+    <td><img src="../images/03_bahamut/blackfire_04.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>5.</b> Nael then targets random players with Hypernova AoEs.</p><p><b>On the second Hypernova</b>, the Megaflare stack resolves and all players without Megaflare marks enter their tower.</p></td>
+    <td><img src="../images/03_bahamut/blackfire_05.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>6.</b> Bahamut reappears in the center of the arena and starts casting Gigaflare, while Nael places her third and fourth Hypernova AoEs.</p><p>Gather in the center, behind Bahamut. <em>(Be careful of the Hypernovas!)</em></p></td>
+    <td><img src="../images/03_bahamut/blackfire_06.jpg"></td>
+  </tr>
+</table>
+
 ## Fellruin Trio
 
 The two possible quotes Nael will use are:
