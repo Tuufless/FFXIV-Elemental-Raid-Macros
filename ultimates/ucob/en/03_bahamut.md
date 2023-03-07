@@ -16,6 +16,37 @@ This will let you save runs with a healer LB3 that would otherwise result in a w
 
 ## Quickmarch Trio
 
+<table>
+  <tr>
+    <td width="50%"><p><b>1.</b> Using the three dragons as North, spread out along the West and East sides of the arena.</p><ul><li><b>MT group:</b> West</li><li><b>ST group:</b> East</li></ul><p>From the dragons, spread in the order:</p><ul><li>Tank > Healer > Melee > Ranged</li></ul></td>
+    <td><img src="../images/03_bahamut/quickmarch_01.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>2.</b> When Bahamut finishes casting Megaflare Dive, all players move along the edge of the arena to dodge Twisters.</p></td>
+    <td><img src="../images/03_bahamut/quickmarch_02.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>3.</b> Four random players will have a large Megaflare AoE placed under them.</p><p>Four random players will also have an untelegraphed Megaflare AoE hitting them <em>(You can be chosen for both)</em>.</p></td>
+    <td><img src="../images/03_bahamut/quickmarch_03.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>4.</b> Bahamut appears and tethers to two random (non-tank) players.</p><p>Three DPS players will get a white Megaflare ring marker around them.</p><ul><li><b>If you get a marker:</b> Stack south.</li><li><b>If you don't get a marker:</b> Go north.</li></ul><p>The telegraphed Megaflare AoEs also go off.</p><p>Healers will need to top up the DPS group as they may have been hit by the Megaflare AoEs from the previous step.</p></td>
+    <td><img src="../images/03_bahamut/quickmarch_04.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>5.</b> Earthshaker markers appear on the two healers, and the DPS that did not have a Megaflare marker in the previous step.</p><p>A Megaflare stack hits one of the three marked players at random, which should be split between the three DPS.</p></td>
+    <td><img src="../images/03_bahamut/quickmarch_05.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>6.</b> Earthshakers resolve.</p><p>The tanks are standing in front of the healers, as they will take minimal damage from the Earthshakers, so long as they do not get hit by two.</p></td>
+    <td><img src="../images/03_bahamut/quickmarch_06.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>7.</b> Tempest Wings resolve.</p></td>
+    <td><img src="../images/03_bahamut/quickmarch_07.jpg"></td>
+  </tr>
+</table>
+
 ## Blackfire Trio
 
 ## Fellruin Trio
@@ -36,6 +67,14 @@ The two possible quotes Nael will use are:
 Note that Nael's lines now telegraph *three* mechanics instead of two.
 
 ## Heavensfall Trio
+
+<table>
+  <tr>
+    <td><img src="../images/03_bahamut/heavensfall_01a.jpg"></td>
+    <td><img src="../images/03_bahamut/heavensfall_01b.jpg"></td>
+    <td><img src="../images/03_bahamut/heavensfall_01c.jpg"></td>
+  </tr>
+</table>
 
 ## Tenstrike Trio
 
