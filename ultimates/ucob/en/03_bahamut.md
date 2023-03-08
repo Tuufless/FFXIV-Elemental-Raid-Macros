@@ -91,6 +91,35 @@ The two possible quotes Nael will use are:
   </tr>
 </table>
 
+<table>
+  <th width="34%"></th>
+  <th width="33%">From on high I descend, the moon and stars to bring!</th>
+  <th>From hallowed moon I descend, a rain of stars to bring!</th>
+  <tr>
+    <td><p><b>1.</b> Find Nael, and either stack or spread around Nael, depending on Nael's line.</p><p>Tanks should be nearest to the middle of the arena.</p></td>
+    <td><img src="../images/03_bahamut/fellruin_01a.jpg"></td>
+    <td><img src="../images/03_bahamut/fellruin_01b.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>2.</b> The first mechanic from Nael's line resolves.</p><p>Tempest Wing tethers appear from Bahamut, and tether to two random players, other than the tanks.</p></td>
+    <td><img src="../images/03_bahamut/fellruin_02a.jpg"></td>
+    <td><img src="../images/03_bahamut/fellruin_02b.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>3.</b> The second mechanic from Nael's line resolves. <em>(This will always be the opposite mechanic.)</em></p><p>Tanks should have the Tempest Wing tethers at this point.</p></td>
+    <td><img src="../images/03_bahamut/fellruin_03a.jpg"></td>
+    <td><img src="../images/03_bahamut/fellruin_03b.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>4.</b> Twintania's Aetheric Profusion resolves together with Bahamut's Tempest Wing.</p><p>All players must be in a Neurolink.</p></td>
+    <td colspan="2"><img src="../images/03_bahamut/fellruin_04.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>5.</b> The third mechanic from Nael's line resolves, which will always be Meteor Stream (AoEs on four random players).</p><p>Spread out around the Neurolink as shown.</p></td>
+    <td colspan="2"><img src="../images/03_bahamut/fellruin_05.jpg"></td>
+  </tr>
+</table>
+
 Note that Nael's lines now telegraph *three* mechanics instead of two.
 
 ## Heavensfall Trio
