@@ -139,6 +139,12 @@ Meanwhile, five more Omega-M/F clones outside the arena will throw various mecha
 ## Frequently Asked Questions
 
 <details markdown=block>
+<summary><b>[Firewall]</b> Should I apply DoTs on the other target before Firewall resolves?</summary>
+<table>
+  <tr><td><p>No. The Firewall effectively only lets you damage either Omega-M <em>or</em> Omega-F, but not both (even certain abilities like Reprisal are blocked).</p><p>If you apply a DoT on the other target before Firewall resolves, it will technically tick, but deals 0 damage.</p></td></tr>
+</table>
+</details>
+<details markdown=block>
 <summary><b>[Party Synergy]</b> Is there a reason why the order is 〇×△□?</summary>
 <table>
   <tr><td><p>The four shapes are lined up in order of the number of lines used to draw the shape.</p><ul><li>〇 has 1 line.</li><li>× has 2 lines.</li><li>△ has 3 lines.</li><li>□ has 4 lines.</li></ul></td></tr>
