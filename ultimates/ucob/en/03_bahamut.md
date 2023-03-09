@@ -91,6 +91,8 @@ The two possible quotes Nael will use are:
   </tr>
 </table>
 
+Note that Nael's lines now telegraph *three* mechanics instead of two.
+
 <table>
   <th width="34%"></th>
   <th width="33%">From on high I descend, the moon and stars to bring!</th>
@@ -120,15 +122,64 @@ The two possible quotes Nael will use are:
   </tr>
 </table>
 
-Note that Nael's lines now telegraph *three* mechanics instead of two.
-
 ## Heavensfall Trio
 
 <table>
   <tr>
-    <td><img src="../images/03_bahamut/heavensfall_01a.jpg"></td>
-    <td><img src="../images/03_bahamut/heavensfall_01b.jpg"></td>
-    <td><img src="../images/03_bahamut/heavensfall_01c.jpg"></td>
+    <td width="50%"><p><b>1.</b> Stack center, and locate the three bosses.</p><p>One player will get marked for Bahamut's dive, while another player will get marked for Twintania's dive.</p></ol></td>
+    <td><img src="../images/03_bahamut/heavensfall_01.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>2.</b> Spread out as follows:</p><ul><li><b>MT, ST:</b> Towards Nael.</li><li><b>H1, D1:</b> To the left of the three bosses.</li><li><b>H2, D2:</b> To the right of the three bosses.</li><li><b>D3, D4:</b> Opposite Nael.</li></ul></td>
+    <td><img src="../images/03_bahamut/heavensfall_02b.jpg"></td>
+  </tr>
+</table>
+
+This will end up looking like one of the three diagrams below:
+
+<table>
+  <th width="33.3%" style="text-align:center">Nael left</th>
+  <th width="33.3%" style="text-align:center">Nael middle</th>
+  <th style="text-align:center">Nael right</th>
+  <tr>
+    <td><img src="../images/03_bahamut/heavensfall_02a.jpg"></td>
+    <td><img src="../images/03_bahamut/heavensfall_02b.jpg"></td>
+    <td><img src="../images/03_bahamut/heavensfall_02c.jpg"></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%"><p><b>3.</b> Twintania and Bahamut dives, leaving Nael behind.</p><p>Move along the edge to dodge Twisters and bait Megaflare AoEs along the outside of the arena, just like Quickmarch Trio.</p></ol></td>
+    <td><img src="../images/03_bahamut/heavensfall_03.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>4.</b> Eight towers will spawn around the edge of the arena.</p><p>Using Nael as a reference point, identify your tower and stand in front of it.</p><ul><li><b>CCW (excluding Nael):</b> MT H1 D1 D3</li><li><b>CW  (including Nael):</b> ST H2 D2 D4</li></ul><p>There <em>may</em> be a tower that spawns at Nael's position. If so, the ST takes that tower.</p><p>Use the Neurolinks as a rough guide on how close to the center to stand.</p><p>As getting knocked into the wall is instant-death, err towards being closer to the center of the arena.</p></td>
+    <td><img src="../images/03_bahamut/heavensfall_04.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>5.</b> The Heavensfall tower drops in the center of the arena, knocking all players towards the edge into their towers.</p><p><em>(You will have about half a second to adjust.)</em></p><div style="background-color: #002 ; padding: 10px; border: 1px solid;"><p><b>Tip:</b> A Tank LB3 will allow the party to miss at most two towers.</p><p>You can use Tank LB3 here for prog, but it won't be available later in Grand Octet.</p></div></td>
+    <td><img src="../images/03_bahamut/heavensfall_05.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>6.</b> The Heavensfall tower AoEs appear.</p><p>Unlike the transition to Nael, these AoEs will simply go around either clockwise or anti-clockwise in a full circle.</p></td>
+    <td><img src="../images/03_bahamut/heavensfall_06.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>7.</b> The second set of tower AoEs appear, which will indicate whether the AoEs are traveling clockwise or anti-clockwise.</p></td>
+    <td><img src="../images/03_bahamut/heavensfall_07.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>8.</b> Spiral in towards the center of the arena while Nael drops four Hypernovas on random players. Be sure not to bait a Hypernova in the center of the arena.</p></td>
+    <td><img src="../images/03_bahamut/heavensfall_08.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>9.</b> A random player gets marked for Twintania's Fireball.</p></td>
+    <td><img src="../images/03_bahamut/heavensfall_09.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>10.</b> Stack in the middle to share Twintania's Fireball damage.</p><p>Bahamut appears and starts casting Gigaflare.</p><div style="background-color: #002 ; padding: 10px; border: 1px solid;"><b>Tip:</b> If accidents have happened and people are dead, consider sacrificing the Fireball target by having them take the Fireball stack solo, away from the party.</div></td>
+    <td><img src="../images/03_bahamut/heavensfall_10.jpg"></td>
   </tr>
 </table>
 
@@ -139,3 +190,13 @@ Note that Nael's lines now telegraph *three* mechanics instead of two.
 Bahamut must be **below 60% HP** by the time it disappears for Grand Octet, or it will gain a damage-up buff in Golden Bahamut, making it impossible to clear the fight (although you will still be able to prog the adds phase).
 
 *(This should* really *not be a problem nowadays.)*
+
+## Frequently Asked Questions
+
+<details markdown=block>
+<summary><b>[Heavensfall Trio]</b> Is there really a small gap between the divebomb AoEs?</summary>
+<table>
+  <tr><td width="50%"><p>Yes, there is.</p><p>Don't use them.</p></td>
+  <td><img src="../images/03_bahamut/heavensfall_faq.jpg"></td></tr>
+</table>
+</details>

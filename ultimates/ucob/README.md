@@ -15,9 +15,9 @@ PF largely follows [Clees' UCoB guide](http://clees.me/guides/ucob/) with a few 
 - Heavensfall Trio spread positions are different (both tanks always go towards Nael, both ranged always opposite Nael).
 <table>
   <tr>
-    <td><img src="images/03_bahamut/heavensfall_01a.jpg"></td>
-    <td><img src="images/03_bahamut/heavensfall_01b.jpg"></td>
-    <td><img src="images/03_bahamut/heavensfall_01c.jpg"></td>
+    <td><img src="images/03_bahamut/heavensfall_02a.jpg"></td>
+    <td><img src="images/03_bahamut/heavensfall_02b.jpg"></td>
+    <td><img src="images/03_bahamut/heavensfall_02c.jpg"></td>
   </tr>
 </table>
 
