@@ -10,7 +10,21 @@ permalink: /ultimates/tea/02_limit_cut/
 
 While not technically a phase, the transition to Brute Justice + Cruise Chaser is by no means trivial.
 
+In the transition leading up to Brute Justice and Cruise Chaser, players will have to resolve Limit Cut in combination with a pair of Hawk Blaster AoEs that go clockwise around the arena.
+
 There are two main strats for Limit Cut- [1211](#1211), and [1256](#1256).
+
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+<details markdown=block>
+<summary><b>[Click to Expand] Limit Cut breakdown</b></summary>
+<table>
+  <tr>
+    <td><p>Limit Cut is a mechanic from A11S where all players get numbered from 1 to 8. The following then happens:</p><ol><li>Cruise Chaser <b>spawns behind</b> the first player (which will be an odd number) based on where that player is facing.</li><li>Cruise Chaser cleaves the first player in a cone AoE.</li><li>Cruise Chaser dashes at the next player (which will be an even number) in a line AoE.</li></ol><p>This process repeats (cleave odd, dash even) until all eight numbers have been resolved. If a number is missing, Cruise Chaser picks a random target instead.</p><p>Getting hit by Cruise Chaser will give you a Magic Vulnerability debuff, so you cannot get hit a second time.</p><p>In addition, <b>you will be knocked in the direction of Cruise Chaser's attack if you are not facing Cruise Chaser when it hits you.</b></p><p>Because Cruise Chaser always spawns behind the odd-numbered players, the odd-numbered players will <em>always</em> be knocked forward, unless nullified with Arm's Length or Surecast.</p></td>
+    <td><img src="../images/bjcc/limit_cut.jpg"></td>
+  </tr>
+</table>
+</details>
+</div>
 
 ## 1211
 
@@ -22,7 +36,7 @@ There are two main strats for Limit Cut- [1211](#1211), and [1256](#1256).
 
 <table>
   <tr>
-    <td>The name "1211" comes from the explosion intervals before each pair of players resolve Cruise Chaser's Alpha Sword + Super Blassty Charge combo.</td>
+    <td width="50%">The name "1211" comes from the explosion intervals before each pair of players resolve Cruise Chaser's Alpha Sword + Super Blassty Charge combo.</td>
 	<td><img src="../images/limit_cut_1211/limit_cut_1211_overview.jpg"></td>
   </tr>
 </table>
@@ -31,7 +45,7 @@ The movement for 1211 is as follows:
 
 <table>
   <tr>
-    <td><b>1.</b> First pair of explosions. All players move towards the explosion in the northern (west) half.</td>
+    <td width="50%"><b>1.</b> First pair of explosions. All players move towards the explosion in the northern (west) half.</td>
 	<td><img src="../images/limit_cut_1211/limit_cut_1211_01.jpg"></td>
   </tr>
   <tr>
@@ -80,7 +94,7 @@ However, it is the harder of the two to learn, especially for players new to TEA
 
 <table>
   <tr>
-    <td>The name "1256" comes from the player numbers in each group. Players <b>1</b>, <b>2</b>, <b>5</b>, and <b>6</b> start from the northern (west) explosion, while players <b>3</b>, <b>4</b>, <b>7</b>, and <b>8</b> start from the southern (east) explosion.</td>
+    <td width="50%">The name "1256" comes from the player numbers in each group. Players <b>1</b>, <b>2</b>, <b>5</b>, and <b>6</b> start from the northern (west) explosion, while players <b>3</b>, <b>4</b>, <b>7</b>, and <b>8</b> start from the southern (east) explosion.</td>
 	<td><img src="../images/limit_cut_1256/limit_cut_1256_overview.jpg"></td>
   </tr>
 </table>
@@ -89,7 +103,7 @@ The movement for 1256 is as follows:
 
 <table>
   <tr>
-    <td><p><b>1.</b> First pair of explosions.</p><ul><li><b>1</b>, <b>2</b>, <b>5</b>, <b>6</b>: Go to the north (west) explosion.</li><li><b>3</b>, <b>4</b>, <b>7</b>, <b>8</b>: Go to the south (east) explosion.</li></ul></td>
+    <td width="50%"><p><b>1.</b> First pair of explosions.</p><ul><li><b>1</b>, <b>2</b>, <b>5</b>, <b>6</b>: Go to the north (west) explosion.</li><li><b>3</b>, <b>4</b>, <b>7</b>, <b>8</b>: Go to the south (east) explosion.</li></ul></td>
 	<td><img src="../images/limit_cut_1256/limit_cut_1256_01.jpg"></td>
   </tr>
   <tr>
