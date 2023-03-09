@@ -68,7 +68,7 @@ All passes happen in the center of the arena, except for the final pass after To
 
 <table>
   <tr>
-    <td>
+    <td width="50%">
       <p><b>1. Wyrmsbreath #1</b></p>
       <p>Have everyone preposition to prepare for the upcoming mechanic.</p>
       <ul>
@@ -162,7 +162,7 @@ Here are some other potential configurations to consider:
 <summary><b>[Hallowed Wings #1]</b> NE quadrant safe, head up</summary>
 <table>
   <tr>
-    <td>
+    <td width="50%">
       <p>Heads up means tanks far, party near.</p>
       <p>The MT takes the northern-most position.</p>
     </td>
@@ -175,7 +175,7 @@ Here are some other potential configurations to consider:
 <summary><b>[Hallowed Wings #1]</b> SW quadrant safe, head down</summary>
 <table>
   <tr>
-    <td>
+    <td width="50%">
       <p>Heads down means tanks near, party far.</p>
       <p>The MT takes the northern-most position.</p>
     </td>
@@ -188,7 +188,7 @@ Here are some other potential configurations to consider:
 <summary><b>[Hallowed Wings #1]</b> SW quadrant safe, head up</summary>
 <table>
   <tr>
-    <td>
+    <td width="50%">
       <p>Heads up means tanks far, party near.</p>
       <p>The MT takes the northern-most position.</p>
     </td>
@@ -205,7 +205,7 @@ When dropping Akh Morns, the most efficient movement (geometrically) is to move 
 
 <table>
   <tr>
-    <td><p><b>1.</b> Identify the starting location.</p>
+    <td width="50%"><p><b>1.</b> Identify the starting location.</p>
       <ol>
         <li>Avoid Hraesvelgr's Cauterize</li>
         <li>Be as far away from the <b>second</b> set of eyes as you can.</li>
@@ -262,7 +262,7 @@ Here are some additional examples to consider:
 <summary><b>[Wroth Flames]</b> Hraesvelgr middle (uptime available), 2-to-1 dodge</summary>
 <table>
   <tr>
-    <td>
+    <td width="50%">
       <p><b>1.</b> Identify the starting location.</p>
       <ul>
         <li>Since Hraesvelgr's in the center, the party can start either west or east.</li>
@@ -294,7 +294,7 @@ Here are some additional examples to consider:
 <summary><b>[Wroth Flames]</b> Hraesvelgr west (forced downtime), 2-to-1 dodge</summary>
 <table>
   <tr>
-    <td>
+    <td width="50%">
       <p><b>1.</b> Identify the starting location.</p>
       <ul>
         <li>Since Hraesvelgr's west, the party can only start east.</li>
@@ -328,7 +328,7 @@ The second half is a rehash of the first, with slightly different spins on the s
 
 <table>
   <tr>
-    <td>
+    <td width="50%">
       <p><b>1. Akh Afah #2</b></p>
       <p>Depending on how much uptime the party got earlier with Hallowed Wings #1 and Wroth Flames, the two dragons' HP may be skewed to one side.</p>
     </td>
@@ -361,7 +361,7 @@ Here are some other potential configurations to consider:
 <summary><b>[Hallowed Wings #2]</b> Hot Wing, head up</summary>
 <table>
   <tr>
-    <td>
+    <td width="50%">
       <p>Hot Wing means all party members must stay near the E/W line.</p>
       <p>Heads up means the tanks are away from Hraesvelgr, and the rest of the party is towards Hraesvelgr.</p>
       <p>The MT takes the western-most position.</p>
@@ -375,7 +375,7 @@ Here are some other potential configurations to consider:
 <summary><b>[Hallowed Wings #2]</b> Hot Tail, head down</summary>
 <table>
   <tr>
-    <td>
+    <td width="50%">
       <p>Hot Wing means all party members must stay near the E/W line.</p>
       <p>Heads up means the tanks are away from Hraesvelgr, and the rest of the party is towards Hraesvelgr.</p>
       <p>The MT takes the western-most position.</p>
@@ -399,7 +399,7 @@ However, player positioning is precise, and depending on which dragon players ar
 
 <table>
   <tr>
-    <td>
+    <td width="50%">
       <ul>
         <li><b>MT:</b> NW if you get the single-target tankbuster (by Nidhogg).</li>
         <li><b>ST:</b> SE if you get the single-target tankbuster (by Hraesvelgr).</li>
@@ -430,7 +430,7 @@ All tethers can be fully stretched, however, players will need to adjust their p
 
 <table>
   <tr>
-    <td>
+    <td width="50%">
       <ul>
         <li><b>MT:</b> SW if you get the single-target tankbuster (by Nidhogg).</li>
         <li><b>ST:</b> SE if you get the single-target tankbuster (by Hraesvelgr).</li>
@@ -449,7 +449,7 @@ The reason why we did not stack opposite tethers in Wyrmsbreath #2 was because w
 
 <table>
   <tr>
-    <td>
+    <td width="50%">
       <p><b>1. Cauterize</b></p>
       <p>Nidhogg and Hraesvelgr will spawn along the north edge in a <b>random</b> orientation.</p>
       <ul>

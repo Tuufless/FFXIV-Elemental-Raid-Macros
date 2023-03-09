@@ -33,7 +33,7 @@ D□ H× H△</code></pre></td>
 
 <table>
   <tr>
-    <td>These spots on the floor (the tips of the "spikes") on the safe side will be safe from the white orb explosions.</td>
+    <td width="50%">These spots on the floor (the tips of the "spikes") on the safe side will be safe from the white orb explosions.</td>
     <td><img src="../images/adelphel_and_grinnaux/adelphel_grinnaux_01.jpg"></td>
   </tr>
 </table>
@@ -59,7 +59,7 @@ This method for Pure of Heart allows for [full melee uptime with minimal movemen
 
 <table>
   <tr>
-    <td><p><b>1.</b> First set of baits.</p><ul><li><b>Healers</b>: Bait the first set of Brightwings.</li></ul></td>
+    <td width="50%"><p><b>1.</b> First set of baits.</p><ul><li><b>Healers</b>: Bait the first set of Brightwings.</li></ul></td>
     <td><img src="../images/adelphel_and_grinnaux/haurchefant_01.jpg"></td>
   </tr>
   <tr>

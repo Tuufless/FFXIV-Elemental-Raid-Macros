@@ -38,7 +38,7 @@ Note that **at most**, only two pairs of arrows will appear. The following diagr
 
 <table>
   <tr>
-    <td><p><b>1.</b> Numbers appear.</p><p>All players claim initial spots:<ul><li><b>1s + 3s:</b> One pair of each West, South, and East.</li><li><b>2s:</b> One NW, one NE.</li></ul></p><p>These will be your positions during Wyrmhole <b>if your numbered group does not get arrows</b>.</p></td>
+    <td width="50%"><p><b>1.</b> Numbers appear.</p><p>All players claim initial spots:<ul><li><b>1s + 3s:</b> One pair of each West, South, and East.</li><li><b>2s:</b> One NW, one NE.</li></ul></p><p>These will be your positions during Wyrmhole <b>if your numbered group does not get arrows</b>.</p></td>
     <td><img src="../images/nidhogg/nidhogg_01.jpg"></td>
   </tr>
   <tr>
@@ -111,7 +111,7 @@ The easiest way to resolve this is to preposition in pairs at each tower:
 
 <table>
   <tr>
-    <td><p><b>Starting positions:</b></p>
+    <td width="50%"><p><b>Starting positions:</b></p>
       <ul>
         <li>
           <b>MT:</b> NW
@@ -142,7 +142,7 @@ The easiest way to resolve this is to preposition in pairs at each tower:
 
 <table>
   <tr>
-    <td>
+    <td width="50%">
       <ul>
         <li>
           <b>MT:</b>
@@ -184,7 +184,7 @@ The easiest way to resolve this is to preposition in pairs at each tower:
 <summary>Example 2</summary>
 <table>
   <tr>
-    <td>
+    <td width="50%">
       <ul>
         <li>
           <b>MT:</b>
@@ -228,7 +228,7 @@ The easiest way to resolve this is to preposition in pairs at each tower:
 <summary>Example 3</summary>
 <table>
   <tr>
-    <td><p><b>Example 3:</b></p>
+    <td width="50%">
       <ul>
         <li>
           <b>MT:</b>
@@ -276,7 +276,7 @@ Just like before, Nidhogg clones will appear where the towers were when resolved
 
 <table>
   <tr>
-    <td>
+    <td width="50%">
       <p><b>1.</b> Just like before, Nidhogg clones will appear where the towers were when resolved.</p>
       <ul>
         <li><b>Three</b> clones will target the closest player with Geirskogul (baited by the healers and ranged DPS).</li>

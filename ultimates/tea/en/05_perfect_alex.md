@@ -95,7 +95,7 @@ While the Forced March timers tick down, Perfect Alexander will then cast *eithe
 
 <table>
   <tr>
-    <td><b>Forced March:</b><ul><li><b>Light Beacon:</b> West</li><li><b>Dark Beacon:</b> East</li><li><b>Everyone else:</b> Just west of the Dark Beacon</li></ul></td>
+    <td width="50%"><b>Forced March:</b><ul><li><b>Light Beacon:</b> West</li><li><b>Dark Beacon:</b> East</li><li><b>Everyone else:</b> Just west of the Dark Beacon</li></ul></td>
 	<td><img src="../images/perfect_alex/forced_march_01.jpg"></td>
   </tr>
 </table>
@@ -112,7 +112,7 @@ Then, Perfect Alexander will then do two simple stack vs. spread mechanics in a 
 
 <table>
   <tr>
-    <td><p>Two <b>random</b> players will be targeted with a stack marker.</p><p><b>Stacks:</b><ul><li><b>West:</b> H1 > D3 > D1 > MT</li><li><b>East:</b> H2 > D4 > D2 > ST</li></ul><em>(N.B: <b>Not</b> Light vs. Dark stacks.)</em></p><p>If a group has two stack markers, only <em>one</em> moves to the other group, and resolve the groups 5-3.</p></td>
+    <td width="50%"><p>Two <b>random</b> players will be targeted with a stack marker.</p><p><b>Stacks:</b><ul><li><b>West:</b> H1 > D3 > D1 > MT</li><li><b>East:</b> H2 > D4 > D2 > ST</li></ul><em>(N.B: <b>Not</b> Light vs. Dark stacks.)</em></p><p>If a group has two stack markers, only <em>one</em> moves to the other group, and resolve the groups 5-3.</p></td>
 	<td><img src="../images/perfect_alex/forced_march_02.jpg"></td>
   </tr>
 </table>
@@ -142,7 +142,7 @@ All players will need to identify the debuffs based on their visual effects when
 <summary><b>[Click to Expand] Fate Calibration α debuffs</b></summary>
 <table>
   <tr>
-    <td>
+    <td width="50%">
       <p><b>Ordained Stillness</b></p>
       <p><b>All</b> players in the party must keep still.</p>
       <p><ul><li>Autoattacks count as movement. Tanks and melee should either sheathe their weapons, or untarget the boss to be safe.</li><li>If a player is <b>in the middle</b> of a channeled ability like Flamethrower, Meditate or Improvisation, it <b>does not</b> count as movement.</li></ul></p>
@@ -196,7 +196,7 @@ The safe spots to resolve the mechanics will always be opposite one of the two *
 
 <table>
   <tr>
-    <td><b>Fate Calibration α:</b><ul><li><b>Shared Sentence:</b> Left</li><li><b>Nothing:</b> Left</li><li><b>Aggravated Assault:</b> Right</li></ul></td>
+    <td width="50%"><b>Fate Calibration α:</b><ul><li><b>Shared Sentence:</b> Left</li><li><b>Nothing:</b> Left</li><li><b>Aggravated Assault:</b> Right</li></ul></td>
 	<td><img src="../images/perfect_alex/fate_calibration_alpha.jpg"></td>
   </tr>
 </table>
@@ -228,7 +228,7 @@ The debuffs will appear in the same order as they resolve:
 <summary><b>[Click to expand] Fate Calibration β debuffs</b></summary>
 <table>
   <tr>
-    <td><p><b>Light</b></p>
+    <td width="50%"><p><b>Light</b></p>
     <p>Four players will be light, that can be further broken down.</p>
     <p>Light players just need to determine whether they are the Beacon or not.</p>
     <p><ul>
@@ -266,7 +266,7 @@ Once again, Perfect Alexander will disappear when Fate Calibration β finishes i
 
 <table>
   <tr>
-    <td><b>1. Initial positions</b><ul><li><b>Light Beacon:</b> Slightly west of North (NNW)</li><li><b>Dark Beacon:</b> East</li><li><b>Red/Green tether:</b> Slightly NW of the Dark Beacon</li><li><b>No debuff:</b> Slightly W of the Dark Beacon</li><li><b>Blue tether:</b> Slightly SW of the Dark Beacon</li></ul></td>
+    <td width="50%"><b>1. Initial positions</b><ul><li><b>Light Beacon:</b> Slightly west of North (NNW)</li><li><b>Dark Beacon:</b> East</li><li><b>Red/Green tether:</b> Slightly NW of the Dark Beacon</li><li><b>No debuff:</b> Slightly W of the Dark Beacon</li><li><b>Blue tether:</b> Slightly SW of the Dark Beacon</li></ul></td>
 	<td><img src="../images/perfect_alex/fate_calibration_beta_01.jpg"><img src="../images/perfect_alex/fate_calibration_beta/beta_positioning.jpg"></td>
   </tr>
   <tr>

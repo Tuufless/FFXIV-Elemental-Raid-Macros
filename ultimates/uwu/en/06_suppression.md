@@ -18,7 +18,7 @@ The important part of this phase, **especially** if DPS has been low is to shiel
 
 <table>
   <tr>
-    <td><p><b>1.</b> Ultima reappears in the center of the arena, while an Eye of the Storm momentarily shrinks the area.</p><p><b>Note the Searing Wind has one more pulse left!</b></p></td>
+    <td width="50%"><p><b>1.</b> Ultima reappears in the center of the arena, while an Eye of the Storm momentarily shrinks the area.</p><p><b>Note the Searing Wind has one more pulse left!</b></p></td>
 	<td><img src="../images/suppression/suppression_01.jpg"></td>
   </tr>
   <tr>
@@ -57,7 +57,7 @@ This phase is pushed when Ultima Weapon's HP drops below 50%.
 
 <table>
   <tr>
-    <td><b>9.</b> Take up your starting positions for Ultimate Suppression.<ul><li><b>Tanks:</b> Stand at the SW corner.</li><li><b>Everyone else:</b> Fan out along the NW edge.</li></ul></td>
+    <td width="50%"><b>9.</b> Take up your starting positions for Ultimate Suppression.<ul><li><b>Tanks:</b> Stand at the SW corner.</li><li><b>Everyone else:</b> Fan out along the NW edge.</li></ul></td>
 	<td><img src="../images/suppression/suppression_09.jpg"></td>
   </tr>
   <tr>

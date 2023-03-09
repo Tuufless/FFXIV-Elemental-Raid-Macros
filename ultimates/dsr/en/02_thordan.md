@@ -29,7 +29,7 @@ If you are already familiar with Thordan, and just need a quick summary:
 
 <table>
   <tr>
-    <td><p><b>1.</b> Light party spreads.</p><p>Healers are in front to allow them to dodge into the upcoming Heavy Impact early. This then lets them cast an additional GCD heal without using Swiftcast.</p></td>
+    <td width="50%"><p><b>1.</b> Light party spreads.</p><p>Healers are in front to allow them to dodge into the upcoming Heavy Impact early. This then lets them cast an additional GCD heal without using Swiftcast.</p></td>
     <td><img src="../images/thordan/strength_of_the_ward_1_1.jpg"></td>
   </tr>
   <tr>
@@ -52,7 +52,7 @@ After dodging the Heavy Impact and Ascalon's Mercy Concealed, orientate yourself
 
 <table>
   <tr>
-    <td><p>Using Thordan as north:</p><ul><li>Three (non-tanks) will be targeted with blue Skyward Leap markers. These players go west, east, and south.</li><li>The other three (non-tanks) go north towards Thordan and loosely spread to communicate tower positions before stacking in front of the "shuriken" mark.</li><li>The two tanks take tethers, and criss-cross them.</li></ul></td>
+    <td width="50%"><p>Using Thordan as north:</p><ul><li>Three (non-tanks) will be targeted with blue Skyward Leap markers. These players go west, east, and south.</li><li>The other three (non-tanks) go north towards Thordan and loosely spread to communicate tower positions before stacking in front of the "shuriken" mark.</li><li>The two tanks take tethers, and criss-cross them.</li></ul></td>
     <td><img src="../images/thordan/strength_of_the_ward_2_1.jpg"></td>
   </tr>
 </table>
@@ -79,12 +79,12 @@ If a player in a group receives the wrong numbered sword (e.g: D3 receives the "
 
 <table>
   <tr>
-    <td><b>1.</b> Sort out swords, and start 3-4 notches away from the outside "shurikens" <b>in the same direction that the inside knights are facing</b>.</td>
+    <td width="34%"><b>1.</b> Sort out swords, and start 3-4 notches away from the outside "shurikens" <b>in the same direction that the inside knights are facing</b>.</td>
     <td><img src="../images/thordan/sanctity_drk_relative_cw_01.jpg"></td>
     <td><img src="../images/thordan/sanctity_drk_relative_ccw_01.jpg"></td>
   </tr>
   <tr>
-    <td>
+    <td width="33%">
       <p><b>2.</b> Your movement will also be in the <b>same direction</b> that the inside knights faced.</p>
       <p>Wait for the explosion in front of you to go off first before moving.</p>
       <ul>
@@ -106,7 +106,7 @@ If a player in a group receives the wrong numbered sword (e.g: D3 receives the "
 
 <table>
   <tr>
-    <td>
+    <td width="50%">
       <p><b>1.</b> Split off into your preassigned pairs.</p>
       <p>When the markers appear:</p>
       <ul>

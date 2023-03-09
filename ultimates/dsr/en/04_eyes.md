@@ -32,7 +32,7 @@ Players get tethered with either blue or red tethers where:
 
 <table>
   <tr>
-    <td><p><b>1.</b> Ghosts of Haurchefant and Ysayle spawn.</p><ul><li>Haurchefant tethers to a random player.</li><li>Ysayle tethers to to Alphinaud.</li></ul>All players stack on Alphinaud (who's standing south of center) to get the two buffs from Haurchefant and Ysayle that lets you attack the two eyes.</td>
+    <td width="50%"><p><b>1.</b> Ghosts of Haurchefant and Ysayle spawn.</p><ul><li>Haurchefant tethers to a random player.</li><li>Ysayle tethers to to Alphinaud.</li></ul>All players stack on Alphinaud (who's standing south of center) to get the two buffs from Haurchefant and Ysayle that lets you attack the two eyes.</td>
     <td><img src="../images/eyes/eyes_01.jpg"></td>
   </tr>
   <tr>

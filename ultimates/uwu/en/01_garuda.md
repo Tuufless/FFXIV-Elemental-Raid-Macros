@@ -60,7 +60,7 @@ The following mechanics will also change when Garuda is woken:
 
 <table>
   <tr>
-    <td><p><b>1.</b> Pull Garuda to the center of the arena.</p>One healer (at random) will get a green mark above their head.<p></p><p><ul><li><b>Healers</b>: Stand East</li></ul></p></td>
+    <td width="50%"><p><b>1.</b> Pull Garuda to the center of the arena.</p>One healer (at random) will get a green mark above their head.<p></p><p><ul><li><b>Healers</b>: Stand East</li></ul></p></td>
 	<td><img src="../images/garuda/garuda_01.jpg"></td>
   </tr>
   <tr>
@@ -95,7 +95,7 @@ This is the major mechanic in Garuda, and is where the party will set Garuda up 
 
 <table>
   <tr>
-    <td><p><b>8.</b> After the Spiny Plume hits the ST for a second time (giving them a second stack of Thermal Low), destroy it. This will cause the Spiny Plume to explode in a telegraphed AoE, leaving behind a bubble.</p><p>The later the Spiny Plume is destroyed, the more time the party has to execute the upcoming mechanics. However, destroying the Spiny Plume too late will give the ST a third stack of Thermal Low, which will wipe the raid.</p></td>
+    <td width="50%"><p><b>8.</b> After the Spiny Plume hits the ST for a second time (giving them a second stack of Thermal Low), destroy it. This will cause the Spiny Plume to explode in a telegraphed AoE, leaving behind a bubble.</p><p>The later the Spiny Plume is destroyed, the more time the party has to execute the upcoming mechanics. However, destroying the Spiny Plume too late will give the ST a third stack of Thermal Low, which will wipe the raid.</p></td>
 	  <td><img src="../images/garuda/garuda_08.jpg"></td>
   </tr>
   <tr>
@@ -130,7 +130,7 @@ Note that Garuda only has three of the four stacks needed to wake her.
 
 <table>
   <tr>
-    <td><p><b>15.</b> Garuda lands and starts casting Aerial Blast. After that, she then summons Chirada and Suparna (the "sisters").</p><p>They follow the same rules as Garuda- they will jump with a shriek, and Feather Rains will drop on five random players when that happens.</p></td>
+    <td width="50%"><p><b>15.</b> Garuda lands and starts casting Aerial Blast. After that, she then summons Chirada and Suparna (the "sisters").</p><p>They follow the same rules as Garuda- they will jump with a shriek, and Feather Rains will drop on five random players when that happens.</p></td>
 	<td><img src="../images/garuda/garuda_15.jpg"></td>
   </tr>
   <tr>
@@ -153,7 +153,7 @@ This is the last part of Garuda's phase, and is where the party will give Garuda
 
 <table>
   <tr>
-    <td><p><b>19.</b> Four Satin Plumes spawn and tether themselves to random players. Destroy these.</p><p>Chirada and Suparna return on the East and West of the arena and tether two random players with a green Mesohigh tether.</p><p><ul><li><b>ST:</b> Take the West tether away from the party.</li><li><b>D4:</b> Take the East tether away from the party.</li><li><b>MT:</b> Bait another Slipstream away from the party.</li></ul></p></td>
+    <td width="50%"><p><b>19.</b> Four Satin Plumes spawn and tether themselves to random players. Destroy these.</p><p>Chirada and Suparna return on the East and West of the arena and tether two random players with a green Mesohigh tether.</p><p><ul><li><b>ST:</b> Take the West tether away from the party.</li><li><b>D4:</b> Take the East tether away from the party.</li><li><b>MT:</b> Bait another Slipstream away from the party.</li></ul></p></td>
 	<td><img src="../images/garuda/garuda_19.jpg"></td>
   </tr>
   <tr>
@@ -194,7 +194,7 @@ The MT, H1, H2, and D3 should each have one stack of Thermal Low. These will be 
 
 <table>
   <tr>
-    <td><p><b>26.</b> Ifrit will spawn on one of the four cardinal directions, and will charge through the arena.</p><p>The entire floor will also be covered in Eruptions, with <b>one</b> safe spot 90 degrees from where Ifrit spawns.</p><p><em>(The timing is quite tight- Sprint is highly recommended.)</em></p></td>
+    <td width="50%"><p><b>26.</b> Ifrit will spawn on one of the four cardinal directions, and will charge through the arena.</p><p>The entire floor will also be covered in Eruptions, with <b>one</b> safe spot 90 degrees from where Ifrit spawns.</p><p><em>(The timing is quite tight- Sprint is highly recommended.)</em></p></td>
     <td><img src="../images/garuda/garuda_26.jpg"></td>
   </tr>
 </table>

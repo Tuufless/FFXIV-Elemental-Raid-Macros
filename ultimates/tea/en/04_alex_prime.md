@@ -89,7 +89,7 @@ After the Divine Spears, have the MT Provoke and take aggro. Alexander Prime wil
 
 <table>
   <tr>
-    <td><p><b>1.</b> Alexander spawns either True North <em>or</em> True South.</p><ul><li><b>Green tethers:</b> Go towards Alexander, opposite your tethered orb. <b>Criss-cross the tethers</b>.</li><li><b>Crystal AoEs:</b> Make a square formation directly opposite Alexander.</li></ul></td>
+    <td width="50%"><p><b>1.</b> Alexander spawns either True North <em>or</em> True South.</p><ul><li><b>Green tethers:</b> Go towards Alexander, opposite your tethered orb. <b>Criss-cross the tethers</b>.</li><li><b>Crystal AoEs:</b> Make a square formation directly opposite Alexander.</li></ul></td>
 	<td><img src="../images/alex_prime/inception_01.jpg"><img src="../images/alex_prime/inception_crystals.jpg"></td>
   </tr>
   <tr>
@@ -141,7 +141,7 @@ Remember that **all odd numbered players must face outside the arena and use Arm
 
 <table>
   <tr>
-    <td><p><b>1.</b> Identify Limit Cut numbers, and stack in the middle of the arena to bait Chakrams.</p><p>Identify where Brute Justice is, as this will determine who baits Super Jump and Apocalyptic Ray (and thus have stricter positioning requirements).</p></td>
+    <td width="50%"><p><b>1.</b> Identify Limit Cut numbers, and stack in the middle of the arena to bait Chakrams.</p><p>Identify where Brute Justice is, as this will determine who baits Super Jump and Apocalyptic Ray (and thus have stricter positioning requirements).</p></td>
 	<td><img src="../images/alex_prime/wormhole_01.jpg"></td>
   </tr>
   <tr>

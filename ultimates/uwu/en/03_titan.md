@@ -51,7 +51,7 @@ The **MT** will take hate at the start of the fight.
 
 <table>
   <tr>
-    <td><p><b>1.</b> Have the <b>MT</b> tank Titan facing south, with the party North.</p><p>Titan opens with Earthern Fury (heavy raid damage), and start a Rock Buster→Mountain Buster sequence.</p><p>Mountain Buster is a particularly dangerous tankbuster because it is always preceeded with a Rock Buster.</p></td>
+    <td width="50%"><p><b>1.</b> Have the <b>MT</b> tank Titan facing south, with the party North.</p><p>Titan opens with Earthern Fury (heavy raid damage), and start a Rock Buster→Mountain Buster sequence.</p><p>Mountain Buster is a particularly dangerous tankbuster because it is always preceeded with a Rock Buster.</p></td>
 	<td><img src="../images/titan/titan_01.jpg"></td>
   </tr>
   <tr>
@@ -64,7 +64,7 @@ The **MT** will take hate at the start of the fight.
 
 <table>
   <tr>
-    <td><p><b>3.</b> Move to the opposite side of where Titan faced before he jumped.</p></td>
+    <td width="50%"><p><b>3.</b> Move to the opposite side of where Titan faced before he jumped.</p></td>
 	  <td><img src="../images/titan/titan_03.jpg"></td>
   </tr>
   <tr>
@@ -93,7 +93,7 @@ The **MT** will take hate at the start of the fight.
 
 <table>
   <tr>
-    <td><p><b>9.</b> With the party stacked together on the left, Titan starts a series of two Weight of the Lands.</p><p>During this time, Titan will wake with "All my fury I shall bring to bear against thy kind!"</p></td>
+    <td width="50%"><p><b>9.</b> With the party stacked together on the left, Titan starts a series of two Weight of the Lands.</p><p>During this time, Titan will wake with "All my fury I shall bring to bear against thy kind!"</p></td>
     <td><img src="../images/titan/titan_09.jpg"></td>
   </tr>
   <tr>
@@ -114,7 +114,7 @@ The **MT** will take hate at the start of the fight.
 
 <table>
   <tr>
-    <td><p><b>13.</b> Titan will once again briefly turn to face a cardinal direction before jumping.</p><p>The party moves to the opposite side of where Titan faced to avoid lethal Geocrush damage, and the arena shrinks again.</p></td>
+    <td width="50%"><p><b>13.</b> Titan will once again briefly turn to face a cardinal direction before jumping.</p><p>The party moves to the opposite side of where Titan faced to avoid lethal Geocrush damage, and the arena shrinks again.</p></td>
     <td><img src="../images/titan/titan_13.jpg"></td>
   </tr>
   <tr>

@@ -33,7 +33,7 @@ Since the last two orbs in Ultimate Annihilation were taken solo by the MT, thes
 
 <table>
   <tr>
-    <td><p><b>1.</b> Ultima casts Aetheric Boom, which also knocks back.</p><ul><li><b>Tanks:</b> Stand SW of Ultima Weapon and Tank LB1.</li><li><b>Everyone else:</b> Stand SE of Ultima Weapon.</li></ul></td>
+    <td width="50%"><p><b>1.</b> Ultima casts Aetheric Boom, which also knocks back.</p><ul><li><b>Tanks:</b> Stand SW of Ultima Weapon and Tank LB1.</li><li><b>Everyone else:</b> Stand SE of Ultima Weapon.</li></ul></td>
     <td><img src="../images/primal_roulette/aetheric_boom_01.jpg"></td>
   </tr>
   <tr>
@@ -90,7 +90,7 @@ While you can simply observe and react to whichever Primal appears, the order is
 
 <table>
   <tr>
-    <td><p><b>1.</b> Garuda readies a Wicked Wheel from the center of the arena.</p><p>Stand just outside the Wicked Wheel and prepare to enter.</p></td>
+    <td width="50%"><p><b>1.</b> Garuda readies a Wicked Wheel from the center of the arena.</p><p>Stand just outside the Wicked Wheel and prepare to enter.</p></td>
     <td><img src="../images/primal_roulette/primal_roulette_garuda_01.jpg"></td>
   </tr>
   <tr>
@@ -107,7 +107,7 @@ While you can simply observe and react to whichever Primal appears, the order is
 
 <table>
   <tr>
-    <td><p><b>1.</b> Woken Ifrit spawns in the middle of the arena, and targets random players for Violent Eruption.</p><p>Two Ifrit clones spawn at cardinal positions.</p></td>
+    <td width="50%"><p><b>1.</b> Woken Ifrit spawns in the middle of the arena, and targets random players for Violent Eruption.</p><p>Two Ifrit clones spawn at cardinal positions.</p></td>
     <td><img src="../images/primal_roulette/primal_roulette_ifrit_01.jpg"></td>
   </tr>
   <tr>
@@ -124,7 +124,7 @@ While you can simply observe and react to whichever Primal appears, the order is
 
 <table>
   <tr>
-    <td><p><b>1.</b> Titan begins with three Weight of the Lands.</p></td>
+    <td width="50%"><p><b>1.</b> Titan begins with three Weight of the Lands.</p></td>
     <td><img src="../images/primal_roulette/primal_roulette_titan_01.jpg"></td>
   </tr>
   <tr>

@@ -50,7 +50,7 @@ The **ST** will take hate at the start of the fight.
 
 <table>
   <tr>
-    <td><p><b>1.</b> Have the <b>ST</b> tank Ifrit facing south, with the party North.</p><p>Ifrit will open with Hellfire (heavy raid damage), and shortly follow up with a Vulcan Burst.</p><p>Vulcan Burst is a large knockback, (just under half the arena) that can be nullified by Arm's Length/Surecast, or by sufficient shields as the knockback only applies if the player takes damage.</p><p>H2's shields will nullify Vulcan Burst's damage, <b>unless H2 is weakened.</b></p><p>Ifrit will then use three Incinerates in a row. Incinerate is a conal tankbuster that also applies a Fire Resistance Down debuff on anyone hit.</p><ul><li><b>ST:</b> Invuln all three Incinerates.</p></li></ul><p><em>(The "proper way" to do this would be to tank swap twice, once between each Incinerate)</em>.</p><p>Once all three Incinerates are done, the MT Provokes and takes over.</p></td>
+    <td width="50%"><p><b>1.</b> Have the <b>ST</b> tank Ifrit facing south, with the party North.</p><p>Ifrit will open with Hellfire (heavy raid damage), and shortly follow up with a Vulcan Burst.</p><p>Vulcan Burst is a large knockback, (just under half the arena) that can be nullified by Arm's Length/Surecast, or by sufficient shields as the knockback only applies if the player takes damage.</p><p>H2's shields will nullify Vulcan Burst's damage, <b>unless H2 is weakened.</b></p><p>Ifrit will then use three Incinerates in a row. Incinerate is a conal tankbuster that also applies a Fire Resistance Down debuff on anyone hit.</p><ul><li><b>ST:</b> Invuln all three Incinerates.</p></li></ul><p><em>(The "proper way" to do this would be to tank swap twice, once between each Incinerate)</em>.</p><p>Once all three Incinerates are done, the MT Provokes and takes over.</p></td>
 	<td><img src="../images/ifrit/ifrit_01.jpg"></td>
   </tr>
 </table>
@@ -61,7 +61,7 @@ This is Ifrit's major mechanic, and where we will wake Ifrit.
 
 <table>
   <tr>
-    <td><p><b>2.</b> Four Infernal Nails will spawn in a trapezium formation, in a <b>random</b> orientation.</p><p>Ifrit will also target one <b>random healer</b> and apply a Searing Wind debuff on that healer.</p><p>Take up positions as follows:</p><ul><li><b>MT:</b> Bring Ifrit between the two close Nails (the top of the trapezium). <b>Remember where this is.</b></li><li><b>D3/D4:</b> Position yourselves beside the bottom-left and bottom-right Nails, about 135 degrees from the MT.</li><li><b>Healer with Searing Wind:</b> Stand opposite the MT.</li></ul></td>
+    <td width="50%"><p><b>2.</b> Four Infernal Nails will spawn in a trapezium formation, in a <b>random</b> orientation.</p><p>Ifrit will also target one <b>random healer</b> and apply a Searing Wind debuff on that healer.</p><p>Take up positions as follows:</p><ul><li><b>MT:</b> Bring Ifrit between the two close Nails (the top of the trapezium). <b>Remember where this is.</b></li><li><b>D3/D4:</b> Position yourselves beside the bottom-left and bottom-right Nails, about 135 degrees from the MT.</li><li><b>Healer with Searing Wind:</b> Stand opposite the MT.</li></ul></td>
 	<td><img src="../images/ifrit/ifrit_02.jpg"></td>
   </tr>
   <tr>
@@ -82,7 +82,7 @@ Ifrit will also start glowing **blue** (which will be important later).
 
 <table>
   <tr>
-    <td><p><b>5.</b> Ifrit returns with a Hellfire (heavy raid-wide damage).</p><p>After that, Ifrit will then target a <b>random healer</b> with another Searing Wind.</p><p>Have the party take up positions as follows:<ul><li><b>MT:</b> Pull Ifrit to an intercardinal position near where the fourth Nail was.</li><li><b>Healer with Searing Wind:</b> Stand to the bottom-left, away from the party (~135 degrees).</li><li><b>D3/D4:</b> Stand to the bottom-right, away from the party (~135 degrees).</li></ul></p></td>
+    <td width="50%"><p><b>5.</b> Ifrit returns with a Hellfire (heavy raid-wide damage).</p><p>After that, Ifrit will then target a <b>random healer</b> with another Searing Wind.</p><p>Have the party take up positions as follows:<ul><li><b>MT:</b> Pull Ifrit to an intercardinal position near where the fourth Nail was.</li><li><b>Healer with Searing Wind:</b> Stand to the bottom-left, away from the party (~135 degrees).</li><li><b>D3/D4:</b> Stand to the bottom-right, away from the party (~135 degrees).</li></ul></p></td>
 	  <td><img src="../images/ifrit/ifrit_05.jpg"></td>
   </tr>
   <tr>
@@ -111,7 +111,7 @@ The four Ifrits will **dash in the same order the Nails were destroyed**.
 
 <table>
   <tr>
-    <td><p><b>9.</b> Move to where the fourth Nail was. The healer with Searing Wind will be diretly opposite the party.</p><p><b>Look for the Ifrit that is glowing blue.</b></p><p>Everybody will run in an anti-clockwise direction to <b>end 90 or 180 degrees from the blue Ifrit</b>.</p><p>The party will <em>always</em> have to move into either one or two dashes to do this.</p><p><em>(In this example, the blue Ifrit is where the fourth Nail was, and the party will be moving twice.)</em></p></td>
+    <td width="50%"><p><b>9.</b> Move to where the fourth Nail was. The healer with Searing Wind will be diretly opposite the party.</p><p><b>Look for the Ifrit that is glowing blue.</b></p><p>Everybody will run in an anti-clockwise direction to <b>end 90 or 180 degrees from the blue Ifrit</b>.</p><p>The party will <em>always</em> have to move into either one or two dashes to do this.</p><p><em>(In this example, the blue Ifrit is where the fourth Nail was, and the party will be moving twice.)</em></p></td>
 	<td><img src="../images/ifrit/ifrit_09.jpg"></td>
   </tr>
   <tr>
@@ -140,7 +140,7 @@ The four Ifrits will **dash in the same order the Nails were destroyed**.
 
 <table>
   <tr>
-    <td><p><b>15.</b> Ifrit will return to the center of the arena.</p><p>The healer with Searing Wind <b>will still have one more pulse</b> before the debuff wears off.</p><ul><li><b>Healer with Searing Wind:</b> Wait for Searing Wind to pulse before rejoining the party.</li><li><b>D3/D4:</b> Position yourselves about 135 degrees away from the MT.</li></ul></td>
+    <td width="50%"><p><b>15.</b> Ifrit will return to the center of the arena.</p><p>The healer with Searing Wind <b>will still have one more pulse</b> before the debuff wears off.</p><ul><li><b>Healer with Searing Wind:</b> Wait for Searing Wind to pulse before rejoining the party.</li><li><b>D3/D4:</b> Position yourselves about 135 degrees away from the MT.</li></ul></td>
 	<td><img src="../images/ifrit/ifrit_15.jpg"></td>
   </tr>
   <tr>
@@ -161,7 +161,7 @@ When a woken Ifrit is defeated, it will also leave behind a light puddle that wi
 
 <table>
   <tr>
-    <td><p><b>18.</b> Titan will land in the center of the arena, dealing proximity damage (Geocrush) to all players.</p><p>Geocrush actually has a very sharp drop-off in damage, and might as well be considered a very large AoE in the center.</p><p>Stand <b>all the way to the edge</b> to avoid dying to Geocrush.</p></td>
+    <td width="50%"><p><b>18.</b> Titan will land in the center of the arena, dealing proximity damage (Geocrush) to all players.</p><p>Geocrush actually has a very sharp drop-off in damage, and might as well be considered a very large AoE in the center.</p><p>Stand <b>all the way to the edge</b> to avoid dying to Geocrush.</p></td>
 	<td><img src="../images/ifrit/ifrit_18.jpg"></td>
   </tr>
 </table>

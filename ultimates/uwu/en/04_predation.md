@@ -32,7 +32,7 @@ In particular, the MT should be first in aggro, while the ST should be second. T
 
 <table>
   <tr>
-    <td><p><b>1.</b> Ultima applies Vicious Aetheroplasm in a small AoE around the player who is highest in hate (which should be the MT).</p><p><ul><li><b>MT:</b> Split away from the party as anyone nearby will also get a Vicious Aetheroplasm debuff.</li></ul></p></td>
+    <td width="50%"><p><b>1.</b> Ultima applies Vicious Aetheroplasm in a small AoE around the player who is highest in hate (which should be the MT).</p><p><ul><li><b>MT:</b> Split away from the party as anyone nearby will also get a Vicious Aetheroplasm debuff.</li></ul></p></td>
 	<td><img src="../images/predation/predation_01.jpg"></td>
   </tr>
   <tr>
@@ -72,7 +72,7 @@ Resolve Ultimate Predation as follows:
 
 <table>
   <tr>
-    <td><p><b>1.</b> Ultima Weapon disappears and will reappear with all the Primals.</p><p>Identify Garuda, and move to the quadrant diagonally opposite.</p></td>
+    <td width="50%"><p><b>1.</b> Ultima Weapon disappears and will reappear with all the Primals.</p><p>Identify Garuda, and move to the quadrant diagonally opposite.</p></td>
 	<td><img src="../images/predation/predation_4_safe_01.jpg"></td>
   </tr>
   <tr>

@@ -14,7 +14,7 @@ This is the second of the four blocks in in Ultima Weapon's timeline.
 
 <table>
   <tr>
-    <td><p><b>1.</b> Ultima Weapon respawns in the center of the arena, while Ifrit spawns outside the arena at the north.</p><ul><li><b>MT:</b> Pull Ultima Weapon slightly north.</li><li><b>D3, D4</b>: Start south and prepare to bait Violent Eruptions.</li></ul></td>
+    <td width="50%"><p><b>1.</b> Ultima Weapon respawns in the center of the arena, while Ifrit spawns outside the arena at the north.</p><ul><li><b>MT:</b> Pull Ultima Weapon slightly north.</li><li><b>D3, D4</b>: Start south and prepare to bait Violent Eruptions.</li></ul></td>
 	<td><img src="../images/annihilation/annihilation_01.jpg"></td>
   </tr>
   <tr>
@@ -59,7 +59,7 @@ Of note, these orbs will always spawn on Ultima Weapon's left leg (the south-eas
 
 <table>
   <tr>
-    <td><p><b>9.</b> Start stacked together on the South-West corner of Ultima Weapon.</p><p>There will be three Weight of the Lands, accompanied with a Flaming Crush stack.</p></td>
+    <td width="50%"><p><b>9.</b> Start stacked together on the South-West corner of Ultima Weapon.</p><p>There will be three Weight of the Lands, accompanied with a Flaming Crush stack.</p></td>
 	<td><img src="../images/annihilation/annihilation_09.jpg"></td>
   </tr>
   <tr>

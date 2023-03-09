@@ -23,7 +23,7 @@ If you are already familiar with the Alternate timeline Thordan phase, and just 
 
 <table>
   <tr>
-    <td>
+    <td width="50%">
       <p><b>1.</b> A white dragon with two knights will spawn at a random cardinal edge.</p>
       <p>Using the white dragon as north:</p>
       <ul>
@@ -96,7 +96,7 @@ My preferred strat is an upside-down version of the "Komazou" strat, which split
 
 <table>
   <tr>
-    <td>
+    <td width="50%">
       <p><b>1.</b> Ser Guerrique (WAR) will spawn on one of the four cardinal locations.</p>
       <ul>
         <li>Use Ser Guerrique as North for the rest of the mechanic.</li>

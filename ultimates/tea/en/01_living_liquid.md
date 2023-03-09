@@ -17,7 +17,7 @@ Notable changes are:
 
 <table>
   <tr>
-    <td><p><b>1.</b> Living Liquid casts the first Cascade and the Liquid Hand spawns.</p><p><ul><li>The party orients themselves to the three water puddles.</li><li><b>MT, ST:</b> Separate Living Liquid and Hand to force Liquid Hand to an open palm.</li></ul></p></td>
+    <td width="50%"><p><b>1.</b> Living Liquid casts the first Cascade and the Liquid Hand spawns.</p><p><ul><li>The party orients themselves to the three water puddles.</li><li><b>MT, ST:</b> Separate Living Liquid and Hand to force Liquid Hand to an open palm.</li></ul></p></td>
 	<td><img src="../images/living_liquid/living_liquid_01.jpg"></td>
   </tr>
   <tr>

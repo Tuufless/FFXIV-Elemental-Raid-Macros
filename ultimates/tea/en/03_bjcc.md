@@ -18,7 +18,7 @@ Tanks should try to have minor cooldowns available for the Lightning passes.
 
 <table>
   <tr>
-    <td>At a basic level, the tanks will keep both bosses stacked in the center, with some healer movement.<br><br>The DPS make up much of the movement in this phase.</td>
+    <td width="50%">At a basic level, the tanks will keep both bosses stacked in the center, with some healer movement.<br><br>The DPS make up much of the movement in this phase.</td>
 	<td><img src="../images/bjcc/bjcc_overview.jpg"></td>
   </tr>
 </table>
@@ -88,7 +88,7 @@ Tanks should try to have minor cooldowns available for the Lightning passes.
 
 <table>
   <tr>
-    <td><p><b>1.</b> Initial positions.</p><p><ul><li><b>MT</b>: Take Cruise Chaser.</li><li><b>ST</b>: Take Brute Justice.</li></ul></p><p><em>(Note the MT and ST starting positions are swapped from the usual convention. The bosses each tank takes spawns on their respective starting side.)</em></p></td>
+    <td width="50%"><p><b>1.</b> Initial positions.</p><p><ul><li><b>MT</b>: Take Cruise Chaser.</li><li><b>ST</b>: Take Brute Justice.</li></ul></p><p><em>(Note the MT and ST starting positions are swapped from the usual convention. The bosses each tank takes spawns on their respective starting side.)</em></p></td>
 	<td><img src="../images/bjcc/bjcc_01.jpg"></td>
   </tr>
   <tr>
