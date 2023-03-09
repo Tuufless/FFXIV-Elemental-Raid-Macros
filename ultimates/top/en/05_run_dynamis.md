@@ -104,11 +104,40 @@ Breaking this down, we get:
     <td><img src="../images/05_run_dynamis/run_dynamis_delta_07.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>8.</b> The "beetle" Omega lights up to cleave one side of the arena.</p><p>Move in to the safe side, breaking the middle red/green tether in the process.</p></td>
+    <td><p><b>8.</b> The "beetle" Omega lights up to cleave one side of the arena Move in to the safe side.</p>
+    <ul>
+      <li><b>The inner green-tether pair:</b>
+        <ol>
+          <li><b>Wait for <em>everyone's</em> Twice-come ruin debuff</em> to wear off</b> (8 seconds).</li>
+          <li>Break the tether.</li>
+          <li>Position to receive Hello, Near World.</li>
+        </ol>
+      </li>
+      <li><b>The outer green-tether pair:</b>
+        <ul>
+          <li>Position to receive Hello, Distant World.</li>
+        </ul>
+      </li>
+      <li><b>Hello, Near World:</b>
+        <ul>
+          <li>Stand three rings from the center.</li>
+        </ul>
+      </li>
+      <li><b>Hello, Distant World:</b>
+        <ul>
+          <li>Stand at the outer cardinal/intercardinal position.</li>
+        </ul>
+      </li>
+      <li><b>The two remaining blue-tethers without either Hello, World:</b>
+        <ul>
+          <li>Stand towards Final Omega- you will <em>not</em> be getting Dynamis stacks this round.</li>
+        </ul>
+      </li>
+    </ul></td>
     <td><img src="../images/05_run_dynamis/run_dynamis_delta_08.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>9.</b> The cleave resolves, along with Hello, Near World and Hello, Distant World.</p><p>Wait for everybody's Magic Vulnerability to wear off (5 seconds) before breaking the last red/green tether.</p></td>
+    <td><p><b>9.</b> The cleave resolves, along with Hello, Near World and Hello, Distant World.</p><p><b>Wait for everybody's Magic Vulnerability to wear off</b> (5 seconds) before breaking the last red/green tether.</p></td>
     <td><img src="../images/05_run_dynamis/run_dynamis_delta_09.jpg"></td>
   </tr>
 </table>
