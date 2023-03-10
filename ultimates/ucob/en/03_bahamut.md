@@ -166,7 +166,7 @@ This will end up looking like one of the three diagrams below:
     <td><img src="../images/03_bahamut/heavensfall_06.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>7.</b> The second set of tower AoEs appear, which will indicate whether the AoEs are traveling clockwise or anti-clockwise.</p></td>
+    <td><p><b>7.</b> The second set of tower AoEs appear, which will indicate whether the AoEs are traveling clockwise or anti-clockwise.</p><div style="background-color: #002 ; padding: 10px; border: 1px solid;"><p><b>Tip:</b> There is a significantly longer gap in time between the first and second slices (but not the ones after).</p><p>Use this time to dodge into where the first slice explodes if you're nearby.</p></div></td>
     <td><img src="../images/03_bahamut/heavensfall_07.jpg"></td>
   </tr>
   <tr>
@@ -184,6 +184,49 @@ This will end up looking like one of the three diagrams below:
 </table>
 
 ## Tenstrike Trio
+
+<table>
+  <tr>
+    <td width="50%"><p><b>1.</b> Line up west-to-east.</p></ol></td>
+    <td><img src="../images/03_bahamut/tenstrike_01.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>2.</b> Twintania appears in the center, and three random players (including tanks and healers) get targeted for Hatches.</p></td>
+    <td><img src="../images/03_bahamut/tenstrike_02.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>3.</b> In order from left-to-right, the three targeted players take up the NW, S, and NE Neurolinks.</p><p>Players who are not targeted spread out.</p><ul><li><b>Do not stand behind a player with Hatch</b>.</li></ul><p>Three of the players not targeted will take the second round of Hatches.</p><ul><li>Players usually jump to indicate that they are going to cover the nearby Neurolink.</li><li>Players taking the second set should stand by the side of the Neurolink.</li></ul></td>
+    <td><img src="../images/03_bahamut/tenstrike_03.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>4.</b> The first set of Hatches reach the three targeted players and resolve.</p><p>In the meantime, Meteor Streams will hit each player, one at a time <em>(although I've shown the first four players here)</em>, starting from DPS, followed by the healers, and finally the tanks.</p></td>
+    <td><img src="../images/03_bahamut/tenstrike_04.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>5.</b> After the first set of Hatches resolve, the players targeted with Hatch <b>move in a straight line to the edge of the arena</b>.</p><p>The three players that are taking the second set of Hatches move into the Neurolinks.</p><p>The paths of the player moving in and the player moving out <b>should not cross</b>.</p><div style="background-color: #200 ; padding: 10px; border: 1px solid;"><p><b>Note:</b> For some reason, the south Neurolink is a little finicky- the Hatch tends to curve <em>around</em> the Neurolink (a bit towards the east) instead of moving in a straight line.</p></div></td>
+    <td><img src="../images/03_bahamut/tenstrike_05.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>6.</b> After the second set of Hatches resolve, Twintania disappears and four random players get marked for Earthshakers.</p></td>
+    <td><img src="../images/03_bahamut/tenstrike_06.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>7.</b> The four marked players spread out along the north part of the arena to bait Earthshakers.</p><p>The four unmarked players <b>stand in a square</b> at the south Neurolink.</p><p>The square indicates which direction the four unmarked players will spread to shortly.</p><div style="background-color: #002 ; padding: 10px; border: 1px solid;"><p><b>Tip:</b> If you used a square marker for the south Neurolink, the four unmarked players can use the four corners of the square.</p></div></td>
+    <td><img src="../images/03_bahamut/tenstrike_07.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>8.</b> The first set of Earthshakers resolve.</p><p>The four previously unmarked players get marked for Earthshakers.</p></td>
+    <td><img src="../images/03_bahamut/tenstrike_08.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>9.</b> The two sets of four players swap places.</p></td>
+    <td><img src="../images/03_bahamut/tenstrike_09.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>10.</b> The second set of Earthshakers resolve.</p><p>Bahamut starts casting Gigaflare.</p></td>
+    <td><img src="../images/03_bahamut/tenstrike_10.jpg"></td>
+  </tr>
+</table>
 
 ## Grand Octet
 
