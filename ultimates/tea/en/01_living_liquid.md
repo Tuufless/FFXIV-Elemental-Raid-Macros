@@ -17,7 +17,7 @@ Notable changes are:
 
 <table>
   <tr>
-    <td width="50%"><p><b>1.</b> Living Liquid casts the first Cascade and the Liquid Hand spawns.</p><p><ul><li>The party orients themselves to the three water puddles.</li><li><b>MT, ST:</b> Separate Living Liquid and Hand to force Liquid Hand to an open palm.</li></ul></p></td>
+    <td width="50%"><p><b>1.</b> Living Liquid casts the first Cascade and the Liquid Hand spawns.</p><p><ul><li>The party orients themselves to the three water puddles.</li><li><b>MT, ST:</b> Separate Living Liquid and Hand to force Liquid Hand to an open palm.</li></ul></p><p>Living Liquid and Liquid Hand need to be kept within 5% HP of one another for the party to survive Hand of Pain.</p><p>This may require some minor adjustments, but as a base:</p><ul><li><b>MT, H1, D1, D3:</b> Living Liquid</li><li><b>ST, H2, D2, D4:</b> Liquid Hand</li></ul></td>
 	<td><img src="../images/living_liquid/living_liquid_01.jpg"></td>
   </tr>
   <tr>
