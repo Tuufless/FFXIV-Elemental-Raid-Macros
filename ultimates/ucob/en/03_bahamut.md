@@ -51,7 +51,7 @@ This will let you save runs with a healer LB3 that would otherwise result in a w
 
 <table>
   <tr>
-    <td width="50%"><p><b>1.</b> Stack center, and locate Nael.</p><p>One player will get marked for Bahamut's dive.</p></ol><div style="background-color: #002 ; padding: 10px; border: 1px solid;"><b>Tip:</b> Nael will always be clockwise from Bahamut, and anti-clockwise from Twintania.</div></td>
+    <td width="50%"><p><b>1.</b> Stack center, and locate Nael.</p><p>One player will get marked for Bahamut's dive.</p><div style="background-color: #002 ; padding: 10px; border: 1px solid;"><b>Tip:</b> Nael will always be clockwise from Bahamut, and anti-clockwise from Twintania.</div></td>
     <td><img src="../images/03_bahamut/blackfire_01.jpg"></td>
   </tr>
   <tr>
@@ -112,8 +112,10 @@ Note that Nael's lines now telegraph *three* mechanics instead of two.
     <td><img src="../images/03_bahamut/fellruin_03a.jpg"></td>
     <td><img src="../images/03_bahamut/fellruin_03b.jpg"></td>
   </tr>
+</table>
+<table>
   <tr>
-    <td><p><b>4.</b> Twintania's Aetheric Profusion resolves together with Bahamut's Tempest Wing.</p><p>All players must be in a Neurolink.</p></td>
+    <td width="50%"><p><b>4.</b> Twintania's Aetheric Profusion resolves together with Bahamut's Tempest Wing.</p><p>All players must be in a Neurolink.</p></td>
     <td colspan="2"><img src="../images/03_bahamut/fellruin_04.jpg"></td>
   </tr>
   <tr>
@@ -124,9 +126,11 @@ Note that Nael's lines now telegraph *three* mechanics instead of two.
 
 ## Heavensfall Trio
 
+Heavensfall Trio marks the halfway point in the fight.
+
 <table>
   <tr>
-    <td width="50%"><p><b>1.</b> Stack center, and locate the three bosses.</p><p>One player will get marked for Bahamut's dive, while another player will get marked for Twintania's dive.</p></ol></td>
+    <td width="50%"><p><b>1.</b> Stack center, and locate the three bosses.</p><p>One player will get marked for Bahamut's dive, while another player will get marked for Twintania's dive.</p></td>
     <td><img src="../images/03_bahamut/heavensfall_01.jpg"></td>
   </tr>
   <tr>
@@ -150,7 +154,7 @@ This will end up looking like one of the three diagrams below:
 
 <table>
   <tr>
-    <td width="50%"><p><b>3.</b> Twintania and Bahamut dives, leaving Nael behind.</p><p>Move along the edge to dodge Twisters and bait Megaflare AoEs along the outside of the arena, just like Quickmarch Trio.</p></ol></td>
+    <td width="50%"><p><b>3.</b> Twintania and Bahamut dives, leaving Nael behind.</p><p>Move along the edge to dodge Twisters and bait Megaflare AoEs along the outside of the arena, just like Quickmarch Trio.</p></td>
     <td><img src="../images/03_bahamut/heavensfall_03.jpg"></td>
   </tr>
   <tr>
@@ -187,7 +191,7 @@ This will end up looking like one of the three diagrams below:
 
 <table>
   <tr>
-    <td width="50%"><p><b>1.</b> Line up west-to-east.</p></ol></td>
+    <td width="50%"><p><b>1.</b> Line up west-to-east.</p></td>
     <td><img src="../images/03_bahamut/tenstrike_01.jpg"></td>
   </tr>
   <tr>
@@ -230,9 +234,76 @@ This will end up looking like one of the three diagrams below:
 
 ## Grand Octet
 
+This mechanic is normally tank LB3'ed.
+
 Bahamut must be **below 60% HP** by the time it disappears for Grand Octet, or it will gain a damage-up buff in Golden Bahamut, making it impossible to clear the fight (although you will still be able to prog the adds phase).
 
 *(This should* really *not be a problem nowadays.)*
+
+<table>
+  <tr>
+    <td width="50%"><p><b>1.</b> As Bahamut casts Grand Octet, five dragons will appear on the outside of the arena.</p><p>Turn your camera to look at empty spaces to prepare for the upcoming mechanic.</p></td>
+    <td><img src="../images/03_bahamut/grand_octet_01.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>2.</b> Twintania, Nael, and Bahamut spawn at the remaining three empty spaces.</p><ol><li>Find Bahamut.</li><li>Determine whether Bahamut is at a cardinal position, or an intercardinal position.<ul><li><b>If Bahamut is at a cardinal position:</b> The party will run <b>anti-clockwise</b>.</li><li><b>If Bahamut is at an intercardinal position:</b> The party will run <b>clockwise</b>.</li></ul></li><li>Check if Nael is directly opposite Bahamut.</li>
+    </ol><div style="background-color: #002 ; padding: 10px; border: 1px solid;"><p><b>Tip:</b> You can use a square marker in the middle to help with this.</p><p>If Bahamut is in line with the edge of the square marker, it's at a cardinal position. Otherwise, Bahamut will be in line with the marker's corner and be at an intercardinal position.</p></div></td>
+    <td><img src="../images/03_bahamut/grand_octet_02.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>3.</b> Two players will get divebomb markers- one for Nael (the yellow mark), and one for one of the five dragons.</p><p>When the markers appear, run <b>opposite</b> Bahamut.</p><ul><li><b>If Nael is opposite Bahamut:</b> Run opposite Bahamut and one spot over in the direction you will be running in.</li></ul><p><em>(In the second example, Nael (SE) is opposite Bahamut (NW). Since Bahamut is an an intercardinal, the party moves one spot clockwise from Nael.)</em></p></td>
+    <td><img src="../images/03_bahamut/grand_octet_03a.jpg"><img src="../images/03_bahamut/grand_octet_03b.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>4.</b> Nael dives.</p><p>The party then runs clockwise or anti-clockwise depending on Bahamut's position.</p><p>One by one, players will get targeted for the other four dragon's dives.</p><p><b>Take note of whether you receive a divebomb marker</b> as you run around the arena.</p></td>
+    <td><img src="../images/03_bahamut/grand_octet_04.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>5.</b> As the party approaches Bahamut, it's advisible to Sprint to make sure you stay ahead of the divebombs.</p></td>
+    <td><img src="../images/03_bahamut/grand_octet_05.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>6.</b> After the five dragons target their players for divebombs, Bahamut targets one of the two remaining players that have not received a divebomb.</p><p><b>When the red divebomb marker appears</b>, run to the center of the arena.</p><p>At this point, only one player would not have received a divebomb. That player prepares to bait Twintania's divebomb.</p></td>
+    <td><img src="../images/03_bahamut/grand_octet_06.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>7.</b> Bahamut dives. <b>Find Twintania</b>.</p></td>
+    <td><img src="../images/03_bahamut/grand_octet_07.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>8.</b> Four random players get marked with the Megaflare marker, and four towers appear.</p><ul><li><b>When the towers appear</b>: Tank LB3</li><li><b>The player that has not received a divebomb marker:</b> Go to the left side (ccw) of Twintania.<ul><li>If this player is a tank, the <em>other</em> tank will need to LB3 instead.</li></ul></li></ul><p>Have the party spread out and have four players take the four towers.</p><p><b>Ignore the Megaflare markers.</b></p></td>
+    <td><img src="../images/03_bahamut/grand_octet_08.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>9.</b> When Twintania's (green) divebomb marker appears, that player dodges to the other side of Twintania.</p></td>
+    <td><img src="../images/03_bahamut/grand_octet_09.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>10.</b> Twintania dives together with the towers, the Megaflare "stack" and Twisters resolving.</p><p>Watch for Twisters, and gather together to prepare for the adds phase.</p></td>
+    <td><img src="../images/03_bahamut/grand_octet_10.jpg"></td>
+  </tr>
+</table>
+
+If you don't have tank LB3, then Grand Octet becomes significantly harder.
+
+Everything stays the same for the last part, except player roles are now fixed.
+
+- The Twintania player still goes to Twintania's left.
+- **Megaflare players stack on Twintania's right.**
+- **Non-Megaflare players take towers.**
+
+However, the Twintania player may be part of the Megaflare group, or the towers (non-Megaflare) group.
+
+<table>
+  <tr>
+    <td><p><b>If the Twintania player does not have Megaflare</b></p><ul><li>The other three players without Megaflare markers take three of the four towers, <b>leaving the nearest tower to Twintania empty</b>.</li><li>The four players with Megaflare loosely stack together on Twintania's right.</li></ul><p>When Twintania's divebomb marker appears, the Twintania player goes to the empty tower.</p></td>
+    <td><img src="../images/03_bahamut/grand_octet_09a.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>If the Twintania player has Megaflare</b></p><ul><li>All four players without Megaflare take the four towers.</li><li>The other three Megaflare players loosely stack on Twintania's right, leaving a spot open for the Twintania player.</li></ul><p>When Twintania's divebomb marker appears, the Twintania player goes to join the Megaflare stack.</p></td>
+    <td><img src="../images/03_bahamut/grand_octet_09b.jpg"></td>
+  </tr>
+</table>
 
 ## Frequently Asked Questions
 
