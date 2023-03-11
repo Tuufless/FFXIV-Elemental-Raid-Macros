@@ -108,8 +108,7 @@ Breaking this down, we get:
     <ul>
       <li><b>The inner green-tether pair:</b>
         <ol>
-          <li><b>Wait for <em>everyone's</em> Twice-come ruin debuff</em> to wear off</b> (8 seconds).</li>
-          <li>Break the tether.</li>
+          <li>Break the tether when the <b>tether's debuff timer reaches 15 seconds</b>.</li>
           <li>Position to receive Hello, Near World.</li>
         </ol>
       </li>
@@ -137,7 +136,7 @@ Breaking this down, we get:
     <td><img src="../images/05_run_dynamis/run_dynamis_delta_08.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>9.</b> The cleave resolves, along with Hello, Near World and Hello, Distant World.</p><p><b>Wait for everybody's Magic Vulnerability to wear off</b> (5 seconds) before breaking the last red/green tether.</p></td>
+    <td><p><b>9.</b> The cleave resolves, along with Hello, Near World and Hello, Distant World.</p><p><b>Break the final red/green tether <b>when the tether's debuff timer reaches 2 seconds</b>.</p></td>
     <td><img src="../images/05_run_dynamis/run_dynamis_delta_09.jpg"></td>
   </tr>
 </table>
@@ -166,8 +165,8 @@ Breaking this down, we get:
       </li>
       <li><p><em>Pairs with one marker:</em></p>
         <ul>
-          <li><em>D3 and D1 are the top pair.</em></li>
-          <li><em>H1 and D4 are the bottom pair.</em></li>
+          <li><em>H1 and D4 are the top pair.</em></li>
+          <li><em>D3 and D1 are the bottom pair.</em></li>
         </ul>
       </li>
     </ul></td>
@@ -184,8 +183,8 @@ Breaking this down, we get:
       </li>
       <li><p>Pairs with one marker:</p>
         <ul>
-          <li>The top pair goes NW/SE <em>(player without a marker goes NW)</em>.</li>
-          <li>The bottom pair goes NE/SW <em>(player without a marker goes NE)</em>.</li>
+          <li>The top pair goes SW/NE <em>(player without a marker goes NE)</em>.</li>
+          <li>The bottom pair goes SE/NW <em>(player without a marker goes NW)</em>.</li>
         </ul>
       </li>
     </ul>
