@@ -124,7 +124,7 @@ Breaking this down, we get:
       </li>
       <li><b>Hello, Distant World:</b>
         <ul>
-          <li>Stand at the outer cardinal/intercardinal position.</li>
+          <li>Stand at the outer cardinal position.</li>
         </ul>
       </li>
       <li><b>The two remaining blue-tethers without either Hello, World:</b>
@@ -229,7 +229,7 @@ From here, the two strats run more or less the same, with some minor differences
       </li>
       <li><b>Hello, Distant World:</b>
         <ul>
-          <li>Stand at the outer cardinal/intercardinal position.</li>
+          <li>Stand at the outer cardinal position.</li>
         </ul>
       </li>
       <li><b>The two remaining blue-tethers without either Hello, World:</b>
