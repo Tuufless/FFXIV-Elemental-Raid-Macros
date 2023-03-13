@@ -160,7 +160,7 @@ Tanks should try to have minor cooldowns available for the Lightning passes.
 	<td><img src="../images/bjcc/bjcc_11.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>12. Second Water + Lightning pass.</b></p><p><ul><li><b>Water:</b> All DPS</li><li><b>Thunder:</b> ST → MT</li></ul></p><p><ul><li><b>MT</b>: Face Cruise Chaser west after receiving Thunder.</li></ul></p><p>Keep in mind that Cruise Chaser will autoattack the MT after this Lightning pass.</p></td>
+    <td><p><b>12. Second Water + Lightning pass.</b></p><p><ul><li><b>Water:</b> All DPS</li><li><b>Thunder:</b> ST → MT</li></ul></p><p><ul><li><b>MT</b>: Face Cruise Chaser west after receiving Thunder.</li></ul></p><p>Keep in mind that Cruise Chaser will autoattack the MT after this Lightning pass.</p><p><b>Brute Justice casts Verdict</b>, which gives all players their Final Judgment Decree Nisi debuffs which determines the next two Nisi passes.</p></td>
 	<td><img src="../images/bjcc/bjcc_12.jpg"></td>
   </tr>
   <tr>
