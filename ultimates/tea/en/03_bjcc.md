@@ -193,6 +193,87 @@ Tanks should try to have minor cooldowns available for the Lightning passes.
   </tr>
 </table>
 
+## Passing Nisi (after Verdict)
+
+Here are some examples on passing Nisis during the third pass.
+
+At this time, either all the tanks and healers have Nisi (who the DPS need to collect the appropriate Nisis from), or the DPS have all the Nisis (which they need to pass to the appropriate tank or healer).
+
+<table>
+  <tr>
+    <td width="50%"><p><b>Example 1:</b> Tanks/Healers have Nisi.</p>
+    <p><b>Third pass:</b></p>
+    <ul>
+      <li>DNC collects orange Nisi from WHM.</li>
+      <li>SAM collects purple Nisi from WAR.</li>
+      <li>RPR collects green Nisi from SGE.</li>
+      <li>SMN collects blue Nisi from DRK.</li>
+    </ul>
+    <p><b>Fourth pass:</b></p>
+    <ul>
+      <li>DNC passes orange Nisi to SGE.</li>
+      <li>SAM passes purple Nisi to WAR.</li>
+      <li>RPR passes green Nisi to DRK.</li>
+      <li>SMN passes blue Nisi to WHM.</li>
+    </ul></td>
+    <td><img src="../images/bjcc/nisi_example_01.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>Example 2:</b> Tanks/Healers have Nisi.</p>
+    <p><b>Third pass:</b></p>
+    <ul>
+      <li>NIN collects orange Nisi from SGE.</li>
+      <li>RPR collects green Nisi from PLD.</li>
+      <li>MCH collects purple Nisi from WHM.</li>
+      <li>RDM collects blue Nisi from DRK.</li>
+    </ul>
+    <p><b>Fourth pass:</b></p>
+    <ul>
+      <li>NIN passes orange Nisi to DRK.</li>
+      <li>RPR passes green Nisi to WHM.</li>
+      <li>MCH passes purple Nisi to SGE.</li>
+      <li>RDM passes blue Nisi to PLD.</li>
+    </ul></td>
+    <td><img src="../images/bjcc/nisi_example_02.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>Example 3:</b> DPS have Nisi.</p>
+    <p><b>Third pass:</b></p>
+    <ul>
+      <li>NIN passes blue Nisi to WHM.</li>
+      <li>MNK passes purple Nisi to PLD.</li>
+      <li>RPR passes green Nisi to DRK.</li>
+      <li>MCH passes orange Nisi to SGE.</li>
+    </ul>
+    <p><b>Fourth pass:</b></p>
+    <ul>
+      <li>NIN collects green Nisi from DRK.</li>
+      <li>MNK collects blue Nisi from WHM.</li>
+      <li>RPR collects purple Nisi from PLD.</li>
+      <li>MCH collects orange Nisi from SGE.</li>
+    </ul></td>
+    <td><img src="../images/bjcc/nisi_example_03.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>Example 4:</b> DPS have Nisi.</p>
+    <p><b>Third pass:</b></p>
+    <ul>
+      <li>RDM passes orange Nisi to PLD.</li>
+      <li>MNK passes purple Nisi to WHM.</li>
+      <li>RPR passes blue Nisi to DRK.</li>
+      <li>MCH passes green Nisi to SGE.</li>
+    </ul>
+    <p><b>Fourth pass:</b></p>
+    <ul>
+      <li>RDM collects orange Nisi from PLD.</li>
+      <li>MNK collects purple Nisi from WHM.</li>
+      <li>RPR collects blue Nisi from DRK.</li>
+      <li>MCH collects green Nisi from SGE.</li>
+    </ul></td>
+    <td><img src="../images/bjcc/nisi_example_04.jpg"></td>
+  </tr>
+</table>
+
 ## Frequently Asked Questions
 
 <details markdown=block>
