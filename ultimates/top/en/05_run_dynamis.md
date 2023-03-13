@@ -459,6 +459,12 @@ Like Blue Screen, Omega-F **must** be brought to under 20% HP by the end of Blin
 ## Troubleshooting
 
 <details markdown=block>
+<summary><b>[Solar Ray]</b> Can you mitigate both Solar Ray and Run: Dynamis?</summary>
+<table>
+  <tr><td><p>Only healer 120s mitigations last long enough (20 seconds) to cover both Solar Ray and Run: Dynamis.</p></td></tr>
+</table>
+</details> 
+<details markdown=block>
 <summary><b>[Delta]</b> The blue/yellow fists AoEs are missing and we get hit by Unmitigated Explosion- what happened?</summary>
 <table>
   <tr><td><p>The fist AoEs only appear <em>if and only if</em> a blue fist is correctly stacked with a yellow fist. This is done pair-wise, so players who <em>have</em> fist AoEs did it correctly.</p></td></tr>
