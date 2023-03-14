@@ -335,11 +335,11 @@ With four monitors in total (Omega and three players) and each monitor hitting t
 </details>
 </div>
 
-PF currently resolves this using [Astoh's strat](https://twitter.com/Astoh_Shallfir/status/1619911321499361283?s=20) (アスト式).
+PF currently resolves this using [Astoh's strat](https://twitter.com/Astoh_Shallfir/status/1619911321499361283?s=20) (アスト式), but with a different lineup order.
 
 <table>
   <tr>
-    <td width="50%"><p><b>1.</b> Line up, north-to-south:</p><ul><li><b>North:</b> MT ST D1 D2 D3 D4 H1 H2<b>:South</b></li></ul></td>
+    <td width="50%"><p><b>1.</b> Line up, north-to-south:</p><ul><li><b>North:</b> H1 H2 MT ST D1 D2 D3 D4<b>:South</b></li></ul></td>
     <td><img src="../images/03_omega_reconfigured/monitors_pt_left_01.jpg"></td>
   </tr>
   <tr>
