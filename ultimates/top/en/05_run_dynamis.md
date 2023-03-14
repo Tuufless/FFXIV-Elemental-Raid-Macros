@@ -469,4 +469,10 @@ Like Blue Screen, Omega-F **must** be brought to under 20% HP by the end of Blin
 <table>
   <tr><td><p>The fist AoEs only appear <em>if and only if</em> a blue fist is correctly stacked with a yellow fist. This is done pair-wise, so players who <em>have</em> fist AoEs did it correctly.</p></td></tr>
 </table>
-</details> 
+</details>
+<details markdown=block>
+<summary><b>[Sigma]</b> There's strats that assigns players to towers based on the waymarks they spread to in the first part of Sigma- why didn't we go along with that strat?</summary>
+<table>
+  <tr><td><p>I personally think that strat is fine, but isn't really suited for PF in the long term.</p><p>The basic principle of assigning waymarks to towers is sound, but ultimately boils down to memorizing an arbitrary assignment, which is where macros come in.</p><p>Inevitably, what'll happen (especially when TOP is no longer current content), either:</p><ul><li>Nobody brings, or hits the macro mid-fight, leading to a wipe.</li><li>Multiple people hit the macro mid-fight, leading to a wipe.</li></ul>In the case of Wingwan's strat (the Japanese style), <em>each</em> player needs to prepare eight macros, one for each waymark they may potentially spread to.</p><p>That may sound okay now, but that's because TOP is current content.</p><p>It'll be a much bigger ask once we're in Patch 7.x and later.</p></td></tr>
+</table>
+</details>
