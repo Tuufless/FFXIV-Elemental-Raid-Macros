@@ -251,11 +251,11 @@ From here, the two strats run more or less the same, with some minor differences
 
 <table>
   <tr>
-    <td width="50%"><p><b>1.</b> Two arms will spawn followed by Omega-M.</p><p>The arms will always spawn SW and NE relative to Omega-M, who will serve as "north" for this part.</p><p>Line up in two columns of four between the arms, facing Omega-M.</p>
+    <td width="50%"><p><b>1.</b> Two arms will spawn followed by Omega-M.</p><p>The arms will always spawn SW and NE relative to Omega-M, who will serve as "north" for this part.</p><p>Line up in two columns of four in by Omega-M.</p>
       <ul>
         <li><b>Top:</b> 〇 × △ □ <b>:Bottom</b></li>
       </ul>
-      <p><em>(All tethers should be horizontal)</em></p></td>
+      <p><em>(All tethers should be horizontal)</em></p><p>This establishes where "North" will be for this first part of the mechanic.</p></td>
     <td><img src="../images/05_run_dynamis/run_dynamis_sigma_01.jpg"></td>
   </tr>
   <tr>
@@ -289,8 +289,8 @@ From here, the two strats run more or less the same, with some minor differences
       </li>
       <li><p>Pairs with one marker:</p>
         <ul>
-          <li>The top pair goes SW/NE <em>(player without a marker goes NE)</em>.</li>
-          <li>The bottom pair goes SE/NW <em>(player without a marker goes NW)</em>.</li>
+          <li>The top pair resolves the left arm and goes SW/NE <em>(player without a marker goes NE)</em>.</li>
+          <li>The bottom pair resolves the right arm goes SE/NW <em>(player without a marker goes NW)</em>.</li>
         </ul>
       </li>
     </ul>
