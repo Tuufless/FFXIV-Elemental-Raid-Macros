@@ -147,7 +147,7 @@ Breaking this down, we get:
 <p><b>Alternative:</b> The Kinda Awk strat isn't working so well with my group.</p><p>In particular, the initial blue tethers + fists are causing problems, so we are experimenting with GMT's strat instead.</p>
 <table>
   <tr>
-    <td width="50%"><p><b>1.</b> When the tethers appear, make a 2x4 box with the blue tethers alongside the bosses, and the green tethers making the sides.</p></td>
+    <td width="50%"><p><b>1.</b> When the tethers appear, make a 2x4 box with the blue tethers alongside the bosses, and the green tethers making the sides.</p><p><b>All players face inwards</b> <em>(everyone on the top row faces down, everyone on the bottom row faces up.)</em></p><p>This is to make the fists tidy and easy to identify.</p></td>
     <td><img src="../images/05_run_dynamis/run_dynamis_delta_gmt_01.jpg"></td>
   </tr>
 </table>
@@ -468,6 +468,14 @@ Like Blue Screen, Omega-F **must** be brought to under 20% HP by the end of Blin
 <summary><b>[Delta]</b> The blue/yellow fists AoEs are missing and we get hit by Unmitigated Explosion- what happened?</summary>
 <table>
   <tr><td><p>The fist AoEs only appear <em>if and only if</em> a blue fist is correctly stacked with a yellow fist. This is done pair-wise, so players who <em>have</em> fist AoEs did it correctly.</p></td></tr>
+</table>
+</details>
+<details markdown=block>
+<summary><b>[Sigma]</b> Why the emphasis on where players should face after making the box formation?</summary>
+<table>
+  <tr><td><p>The fists spawn behind players, and are oriented in the same direction as the players.</p><p>By having all players face the inwards, you get two neat rows of fists, making it easy to identify your stack and tether pairs (and their colours).</p></td>
+  <td><img src="../images/05_run_dynamis/sigma_fists.jpg"></td>
+</tr>
 </table>
 </details>
 <details markdown=block>
