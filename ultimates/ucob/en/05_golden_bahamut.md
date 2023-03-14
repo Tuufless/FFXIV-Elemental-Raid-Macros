@@ -8,7 +8,7 @@ permalink: /ultimates/ucob/05_golden_bahamut/
 
 # Golden Bahamut
 
-This phase is often nicknamed the "victory lap" because when broken down, it's actually quite simple.
+This phase is often nicknamed the "victory lap" because it's the simplest phase in the entire fight.
 
 The final phase of UCoB consists of three mechanics on a loop:
 
@@ -16,7 +16,9 @@ The final phase of UCoB consists of three mechanics on a loop:
 2. Akh Morn (shared tankbuster)
 3. Exaflares
 
-This loop repeats five times in total. **However**, the order for Morn Afah and Akh Morn is switched **only for the second iteration.**
+This loop repeats five times in total.
+
+**However**, the order for Morn Afah and Akh Morn is switched **only for the second iteration.**
 
 ## Mitigations
 
