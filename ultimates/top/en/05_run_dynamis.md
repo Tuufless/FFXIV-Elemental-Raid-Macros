@@ -147,7 +147,7 @@ Breaking this down, we get:
 <p><b>Alternative:</b> The Kinda Awk strat isn't working so well with my group.</p><p>In particular, the initial blue tethers + fists are causing problems, so we are experimenting with GMT's strat instead.</p>
 <table>
   <tr>
-    <td width="50%"><p><b>1.</b> When the tethers appear, make a 2x4 box with the blue tethers alongside the bosses, and the green tethers making the sides.</p></td>
+    <td width="50%"><p><b>1.</b> When the tethers appear, make a 2x4 box with the blue tethers alongside the bosses, and the green tethers making the sides.</p><p><b>All players face inwards</b> <em>(everyone on the top row faces down, everyone on the bottom row faces up.)</em></p><p>This is to make the fists tidy and easy to identify.</p></td>
     <td><img src="../images/05_run_dynamis/run_dynamis_delta_gmt_01.jpg"></td>
   </tr>
 </table>
@@ -251,11 +251,11 @@ From here, the two strats run more or less the same, with some minor differences
 
 <table>
   <tr>
-    <td width="50%"><p><b>1.</b> Two arms will spawn followed by Omega-M.</p><p>The arms will always spawn SW and NE relative to Omega-M, who will serve as "north" for this part.</p><p>Line up in two columns of four between the arms, facing Omega-M.</p>
+    <td width="50%"><p><b>1.</b> Two arms will spawn followed by Omega-M.</p><p>The arms will always spawn SW and NE relative to Omega-M, who will serve as "north" for this part.</p><p>Line up in two columns of four in by Omega-M.</p>
       <ul>
         <li><b>Top:</b> 〇 × △ □ <b>:Bottom</b></li>
       </ul>
-      <p><em>(All tethers should be horizontal)</em></p></td>
+      <p><em>(All tethers should be horizontal)</em></p><p>This establishes where "North" will be for this first part of the mechanic.</p></td>
     <td><img src="../images/05_run_dynamis/run_dynamis_sigma_01.jpg"></td>
   </tr>
   <tr>
@@ -289,8 +289,8 @@ From here, the two strats run more or less the same, with some minor differences
       </li>
       <li><p>Pairs with one marker:</p>
         <ul>
-          <li>The top pair goes SW/NE <em>(player without a marker goes NE)</em>.</li>
-          <li>The bottom pair goes SE/NW <em>(player without a marker goes NW)</em>.</li>
+          <li>The top pair resolves the left arm and goes SW/NE <em>(player without a marker goes NE)</em>.</li>
+          <li>The bottom pair resolves the right arm goes SE/NW <em>(player without a marker goes NW)</em>.</li>
         </ul>
       </li>
     </ul>
@@ -469,4 +469,18 @@ Like Blue Screen, Omega-F **must** be brought to under 20% HP by the end of Blin
 <table>
   <tr><td><p>The fist AoEs only appear <em>if and only if</em> a blue fist is correctly stacked with a yellow fist. This is done pair-wise, so players who <em>have</em> fist AoEs did it correctly.</p></td></tr>
 </table>
-</details> 
+</details>
+<details markdown=block>
+<summary><b>[Sigma]</b> Why the emphasis on where players should face after making the box formation?</summary>
+<table>
+  <tr><td><p>The fists spawn behind players, and are oriented in the same direction as the players.</p><p>By having all players face the inwards, you get two neat rows of fists, making it easy to identify your stack and tether pairs (and their colours).</p></td>
+  <td><img src="../images/05_run_dynamis/sigma_fists.jpg"></td>
+</tr>
+</table>
+</details>
+<details markdown=block>
+<summary><b>[Sigma]</b> There's strats that assigns players to towers based on the waymarks they spread to in the first part of Sigma- why didn't we go along with that strat?</summary>
+<table>
+  <tr><td><p>I personally think that strat is fine, but isn't really suited for PF in the long term.</p><p>The basic principle of assigning waymarks to towers is sound, but ultimately boils down to memorizing an arbitrary assignment, which is where macros come in.</p><p>Inevitably, what'll happen (especially when TOP is no longer current content), either:</p><ul><li>Nobody brings, or hits the macro mid-fight, leading to a wipe.</li><li>Multiple people hit the macro mid-fight, leading to a wipe.</li></ul>In the case of Wingwan's strat (the Japanese style), <em>each</em> player needs to prepare eight macros, one for each waymark they may potentially spread to.</p><p>That may sound okay now, but that's because TOP is current content.</p><p>It'll be a much bigger ask once we're in Patch 7.x and later.</p></td></tr>
+</table>
+</details>
