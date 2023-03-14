@@ -465,17 +465,17 @@ Like Blue Screen, Omega-F **must** be brought to under 20% HP by the end of Blin
 </table>
 </details> 
 <details markdown=block>
-<summary><b>[Delta]</b> The blue/yellow fists AoEs are missing and we get hit by Unmitigated Explosion- what happened?</summary>
-<table>
-  <tr><td><p>The fist AoEs only appear <em>if and only if</em> a blue fist is correctly stacked with a yellow fist. This is done pair-wise, so players who <em>have</em> fist AoEs did it correctly.</p></td></tr>
-</table>
-</details>
-<details markdown=block>
-<summary><b>[Sigma]</b> Why the emphasis on where players should face after making the box formation?</summary>
+<summary><b>[Delta]</b> Why the emphasis on where players should face after making the box formation?</summary>
 <table>
   <tr><td><p>The fists spawn behind players, and are oriented in the same direction as the players.</p><p>By having all players face the inwards, you get two neat rows of fists, making it easy to identify your stack and tether pairs (and their colours).</p></td>
   <td><img src="../images/05_run_dynamis/sigma_fists.jpg"></td>
 </tr>
+</table>
+</details>
+<details markdown=block>
+<summary><b>[Delta]</b> The blue/yellow fists AoEs are missing and we get hit by Unmitigated Explosion- what happened?</summary>
+<table>
+  <tr><td><p>The fist AoEs only appear <em>if and only if</em> a blue fist is correctly stacked with a yellow fist. This is done pair-wise, so players who <em>have</em> fist AoEs did it correctly.</p></td></tr>
 </table>
 </details>
 <details markdown=block>
