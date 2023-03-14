@@ -284,6 +284,8 @@ Bahamut must be **below 60% HP** by the time it disappears for Grand Octet, or i
   </tr>
 </table>
 
+### Grand Octet (without Tank LB3)
+
 If you don't have tank LB3, then Grand Octet becomes significantly harder.
 
 Everything stays the same for the last part, except player roles are now fixed.
@@ -296,7 +298,7 @@ However, the Twintania player may be part of the Megaflare group, or the towers 
 
 <table>
   <tr>
-    <td><p><b>If the Twintania player does not have Megaflare</b></p><ul><li>The other three players without Megaflare markers take three of the four towers, <b>leaving the nearest tower to Twintania empty</b>.</li><li>The four players with Megaflare loosely stack together on Twintania's right.</li></ul><p>When Twintania's divebomb marker appears, the Twintania player goes to the empty tower.</p></td>
+    <td width="50%"><p><b>If the Twintania player does not have Megaflare</b></p><ul><li>The other three players without Megaflare markers take three of the four towers, <b>leaving the nearest tower to Twintania empty</b>.</li><li>The four players with Megaflare loosely stack together on Twintania's right.</li></ul><p>When Twintania's divebomb marker appears, the Twintania player goes to the empty tower.</p></td>
     <td><img src="../images/03_bahamut/grand_octet_09a.jpg"></td>
   </tr>
   <tr>
