@@ -48,7 +48,7 @@ Bahamut opens with a Flare Breath into Flatten (and an auto-attack) before start
     <td><img src="../images/03_bahamut/quickmarch_04.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>5.</b> Earthshaker markers appear on the two healers, and the DPS that did not have a Megaflare marker in the previous step.</p><p>A Megaflare stack hits one of the three marked players at random, which should be split between the three DPS.</p></td>
+    <td><p><b>5.</b> Earthshaker markers appear on the two healers, and the DPS that did not have a Megaflare marker in the previous step.</p><p>A Megaflare stack hits one of the three marked players at random, which should be split between the three DPS.</p><p>The tanks should pick up the Tempest Wing tethers either before, or immediately after this Megaflare stack.</p></td>
     <td><img src="../images/03_bahamut/quickmarch_05.jpg"></td>
   </tr>
   <tr>
