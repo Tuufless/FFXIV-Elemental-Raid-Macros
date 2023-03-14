@@ -308,9 +308,9 @@ However, the Twintania player may be part of the Megaflare group, or the towers 
 ## Frequently Asked Questions
 
 <details markdown=block>
-<summary><b>[Heavensfall Trio]</b> Is there really a small gap between the divebomb AoEs?</summary>
+<summary><b>[Heavensfall Trio]</b> Are there really small gaps between the divebomb AoEs?</summary>
 <table>
-  <tr><td width="50%"><p>Yes, there is.</p><p>Don't use them.</p></td>
+  <tr><td width="50%"><p>Yes, there are.</p><p>Don't use them.</p></td>
   <td><img src="../images/03_bahamut/heavensfall_faq.jpg"></td></tr>
 </table>
 </details>
