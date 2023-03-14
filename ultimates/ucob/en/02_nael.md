@@ -29,7 +29,7 @@ The quotes that Nael will use in this phase are:
   </tr>
   <tr>
     <td>Take <b>fire</b>, O <b>hallowed moon</b>!</td>
-    <td>Thermionic Beam → Iron Chariot</td>
+    <td>Thermionic Beam → Lunar Dynamo</td>
   </tr>
   <tr>
     <td><b>Blazing</b> path, lead me to <b>iron</b> rule!</td>
