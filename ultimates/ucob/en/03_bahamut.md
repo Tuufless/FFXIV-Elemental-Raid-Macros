@@ -28,6 +28,8 @@ The healers should start casting a heal to make it in time for Calamitous Blaze,
 
 ## Quickmarch Trio
 
+Bahamut opens with a Flare Breath into Flatten (and an auto-attack) before starting the first of many Trios.
+
 <table>
   <tr>
     <td width="50%"><p><b>1.</b> Using the three dragons as North, spread out along the West and East sides of the arena.</p><ul><li><b>MT group:</b> West</li><li><b>ST group:</b> East</li></ul><p>From the dragons, spread in the order:</p><ul><li>Tank > Healer > Melee > Ranged</li></ul></td>
@@ -61,6 +63,8 @@ The healers should start casting a heal to make it in time for Calamitous Blaze,
 
 ## Blackfire Trio
 
+After Quickmarch Trio, Bahamut Flare Breathes into Flatten again, before moving onto the second Trio.
+
 <table>
   <tr>
     <td width="50%"><p><b>1.</b> Stack center, and locate Nael.</p><p>One player will get marked for Bahamut's dive.</p><div style="background-color: #002 ; padding: 10px; border: 1px solid;"><b>Tip:</b> Nael will always be clockwise from Bahamut, and anti-clockwise from Twintania.</div></td>
@@ -89,6 +93,8 @@ The healers should start casting a heal to make it in time for Calamitous Blaze,
 </table>
 
 ## Fellruin Trio
+
+After Blackfire Trio, Bahamut Flare Breaths three times, before starting Fellruin Trio.
 
 The two possible quotes Nael will use are:
 
@@ -138,7 +144,9 @@ Note that Nael's lines now telegraph *three* mechanics instead of two.
 
 ## Heavensfall Trio
 
-Heavensfall Trio marks the halfway point in the fight.
+After Blackfire Trio, Bahamut *immediately* turns to Flare Breath the tank, before doing Flatten into Flare Breath.
+
+Bahamut then starts Heavensfall Trio, marking the halfway point in the fight.
 
 <table>
   <tr>
@@ -201,6 +209,8 @@ This will end up looking like one of the three diagrams below:
 
 ## Tenstrike Trio
 
+Just like after Blackfire Trio, Bahamut will Flare Breath the tank three times before starting Tenstrike Trio.
+
 <table>
   <tr>
     <td width="50%"><p><b>1.</b> Line up west-to-east.</p></td>
@@ -244,9 +254,9 @@ This will end up looking like one of the three diagrams below:
   </tr>
 </table>
 
-## Grand Octet
+## Grand Octet (with Tank LB)
 
-This mechanic is normally tank LB3'ed.
+After Tenstrike, Bahamut Flattens and Flare Breaths before starting Grand Octet.
 
 Bahamut must be **below 60% HP** by the time it disappears for Grand Octet, or it will gain a damage-up buff in Golden Bahamut, making it impossible to clear the fight (although you will still be able to prog the adds phase).
 
