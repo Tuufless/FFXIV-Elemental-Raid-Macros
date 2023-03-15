@@ -249,6 +249,12 @@ From here, the two strats run more or less the same, with some minor differences
 
 ## Run: Dynamis (Sigma Version)
 
+Sigma is split into three parts:
+
+1. Wave Cannons and Lasers
+2. Mid/Remote Glitch and Towers
+3. Hello, World
+
 <table>
   <tr>
     <td width="50%"><p><b>1.</b> Two arms will spawn followed by Omega-M.</p><p>The arms will always spawn SW and NE relative to Omega-M, who will serve as "north" for this part.</p><p>Line up in two columns of four in by Omega-M.</p>
@@ -294,39 +300,48 @@ From here, the two strats run more or less the same, with some minor differences
         </ul>
       </li>
     </ul>
-    <p>Spread apart as needed to satisfy Mid or Remote Glitch. <em>(Mid Glitch is shown in the example.)</em></p>
-    <p><b>Identify your clockwise (red numbers) or anti-clockwise (blue numbers) position relative to North</b></p><p><em>Clockwise players include North, anti-clockwise players exclude North.</em></p></td>
+    <p>Spread apart as needed to satisfy Mid or Remote Glitch. <em>(Mid Glitch is shown in the example.)</em></p></td>
     <td><img src="../images/05_run_dynamis/run_dynamis_sigma_03.jpg"></td>
   </tr>
   <tr>
     <td><b>4.</b> Lasers and Wave Cannons resolve.</td>
     <td><img src="../images/05_run_dynamis/run_dynamis_sigma_04.jpg"></td>
   </tr>
+</table>
+
+From here, the next step are the towers with Mid/Remote Glitch.
+
+There are two strategies that I am currently considering for this.
+
+### Heavensfall-style towers
+
+This was the strat I was originally going with.
+
+<table>
   <tr>
-    <td><p><b>5.</b> Towers spawn relative to <b>either North or South</b>.</p>
+    <td width="50%"><p><b>5.</b> Identify your clockwise (red numbers) or anti-clockwise (blue numbers) position relative to North (where Omega-M is).</p><ul><li>Clockwise players <b>include</b> North</li><li>Anti-clockwise players <b>exclude</b> North.</li></ul>
+    </td>
+    <td><img src="../images/05_run_dynamis/run_dynamis_sigma_05a.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>6.</b> Towers spawn relative to <b>either North or South</b>.</p>
     <ul>
       <li>If players have Mid Glitch, six towers will spawn.</li>
       <li>If players have Remote Glitch, five towers will spawn.</li>
     </ul>
-    <p><b>Come back to the center of the arena, and orient yourself so that the "tip" of the star points upwards.</b></p>
-    <p><em>(In this example, we will not need to flip the arena as the "star" points upwards.)</em></p><p>Stand in front of, and prepare to be knocked back into your assigned tower.</p>
-    </td>
-    <td><img src="../images/05_run_dynamis/run_dynamis_sigma_05.jpg"></td>
-  </tr>
-  <tr>
-    <td><p><b>6.</b> Omega-F teleports into the center of the arena and knocks back all players.</p>
+    <p>Come back to the center of the arena, and <b>orient yourself so that the "tip" of the star points upwards.</b></p><p>Omega-F teleports into the center of the arena and knocks back all players.</p>
     <ul>
       <li>
         <p>If the party has <b>Remote Glitch</b>:</p>
         <ul>
-          <li><b>Including the tip</b>, players take the 1st, 2nd, 3rd, and 4th towers (anti-)clockwise in-order from the tip of the star.</li>
+          <li><b>Including the tip</b>, players take the 1st, 2nd, 3rd, and 4th clockwise and anti-clockwise towers in-order from the tip of the star.</li>
           <li>Stand at the edge of the arena.</li>
         </ul>
       </li>
       <li>
         <p>If the party has <b>Mid Glitch</b>:</p>
         <ul>
-          <li>Players take the 1st, 2nd, 3rd, and <b>5th</b> towers (anti-)clockwise in-order from the tip of the star.</li>
+          <li>Players take the 1st, 2nd, 3rd, and <b>5th</b> towers clockwise and anti-clockwise towers in-order from the tip of the star.</li>
           <li>Stand in the middle of the towers.</li>
         </ul>
       </li>
@@ -334,8 +349,49 @@ From here, the two strats run more or less the same, with some minor differences
     </td>
     <td><img src="../images/05_run_dynamis/run_dynamis_sigma_06a.jpg"><img src="../images/05_run_dynamis/run_dynamis_sigma_06b.jpg"></td>
   </tr>
+</table>
+
+### No-flip strat
+
+*(I don't know what to call this strat)*
+
+This strat is the one I am currently trying out. It's quite simple, and one advantage it has is that you are fairly agnostic to whether the towers flip.
+
+<table>
   <tr>
-    <td><p><b>7.</b> Omega-F will spawn opposite two Right Arm Units and Omega's Rear Power Unit in the center.</p><p>Use Omega-F as North, and note whether Omega-F is in her blade-legs stance or not.</p>
+    <td width="50%"><p><b>5.</b> After the Wave Cannons and lasers go off, have the two cardinal tethers form two vertical lines from north-to-south.</p><p>Have the N/S tether move a little west, and the E/W tether rotate clockwise to make a line to the east.</p></td>
+    <td><img src="../images/05_run_dynamis/run_dynamis_sigma_05b.jpg"></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+    <p><b>6.</b> Towers spawn relative to either North or South.</p>
+    <ul>
+      <li>If players have Mid Glitch, six towers will spawn.</li>
+      <li>If players have Remote Glitch, five towers will spawn.</li>
+    </ul>
+    <p><b>Four towers will be together on one side.</b></p>
+    <p>The four players at intercardinal positions <b>maintain their formation</b> and take the side with four towers (tethers drawn in red).</p>
+    <p>The two players at the north or south "point" take the tower(s) there (tethers drawn in blue).</p>
+    <p>The remaining two N/S players (which will be on the side with four towers) take either the mid-range, or far-range towers, depending on whether you have Mid or Remote Glitch.</p>
+    <p>This process works regardless of whether the towers flipped.</p></td>
+  </tr>
+  <tr>
+    <td><img src="../images/05_run_dynamis/run_dynamis_sigma_06c.jpg"></td>
+    <td><img src="../images/05_run_dynamis/run_dynamis_sigma_06d.jpg"></td>
+  </tr>
+  <tr>
+    <td><img src="../images/05_run_dynamis/run_dynamis_sigma_06e.jpg"></td>
+    <td><img src="../images/05_run_dynamis/run_dynamis_sigma_06f.jpg"></td>
+  </tr>
+</table>
+
+### Hello, World (Sigma)
+
+From here, we finally reach the last part of Run, Dynamis: Sigma which is the part where we resolve Hello, World.
+
+<table>
+  <tr>
+    <td width="50%"><p><b>7.</b> Omega-F will spawn opposite two Right Arm Units and Omega's Rear Power Unit in the center.</p><p>Use Omega-F as North, and note whether Omega-F is in her blade-legs stance or not.</p>
     <p>The party needs to organise themselves into three groups:</p>
     <ul>
       <li>A group of three goes to Omega-F's side.
@@ -426,7 +482,14 @@ Identifying the safe spots will take some practice. Nukemaru has compiled a coll
 
 <table>
   <tr>
-    <td width="50%"><p><b>5.</b> Omega will then present a single monitor set, to be resolved together with the first set of Hello, World debuffs.<ul><li>Two players with two Dynamis stacks take Omega's monitor hits.<ul><li>If there are player(s) with two Dynamis stacks <b>and</b> a second Hello, World debuff, they <b>must</b> take the monitors here.</li></ul></li></ul></p></td>
+    <td width="50%"><p><b>5.</b> Omega will then present a single monitor set, to be resolved together with the first set of Hello, World debuffs.</p>
+    <ul>
+      <li>Two players with two Dynamis stacks take Omega's monitor hits.
+        <ul>
+          <li>If there are player(s) with two Dynamis stacks <b>and</b> a second Hello, World debuff, they <b>must</b> take the monitors here.</li>
+        </ul>
+      </li>
+    </ul></td>
     <td><img src="../images/05_run_dynamis/run_dynamis_omega_05.jpg"></td>
   </tr>
   <tr>
@@ -481,6 +544,15 @@ Like Blue Screen, Omega-F **must** be brought to under 20% HP by the end of Blin
 <details markdown=block>
 <summary><b>[Sigma]</b> There's strats that assigns players to towers based on the waymarks they spread to in the first part of Sigma- why didn't we go along with that strat?</summary>
 <table>
-  <tr><td><p>I personally think that strat is fine, but isn't really suited for PF in the long term.</p><p>The basic principle of assigning waymarks to towers is sound, but ultimately boils down to memorizing an arbitrary assignment, which is where macros come in.</p><p>Inevitably, what'll happen (especially when TOP is no longer current content), either:</p><ul><li>Nobody brings, or hits the macro mid-fight, leading to a wipe.</li><li>Multiple people hit the macro mid-fight, leading to a wipe.</li></ul>In the case of Wingwan's strat (the Japanese style), <em>each</em> player needs to prepare eight macros, one for each waymark they may potentially spread to.</p><p>That may sound okay now, but that's because TOP is current content.</p><p>It'll be a much bigger ask once we're in Patch 7.x and later.</p></td></tr>
+  <tr><td><p>I personally think that strat is fine, but isn't really suited for PF in the long term.</p>
+  <p>The basic principle of assigning waymarks to towers is sound, but ultimately boils down to memorizing an arbitrary assignment, which is where macros come in.</p>
+  <p>Inevitably, what'll happen (especially when TOP is no longer current content), either:</p>
+  <ul>
+    <li>Nobody brings, or hits the macro mid-fight, leading to a wipe.</li>
+    <li>Multiple people hit the macro mid-fight, leading to a wipe.</li>
+  </ul>
+  <p>In the case of Wingwan's strat (the Japanese style), <em>each</em> player needs to prepare eight macros, one for each waymark they may potentially spread to.</p>
+  <p>That may sound okay now, but that's because TOP is current content.</p>
+  <p>It'll be a much bigger ask once we're in Patch 7.x and later.</p></td></tr>
 </table>
 </details>
