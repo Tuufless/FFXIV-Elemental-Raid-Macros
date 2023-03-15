@@ -351,9 +351,10 @@ This was the strat I was originally going with.
   </tr>
 </table>
 
-### No-flip strat
+### No-counting strat
 
-*(I don't know what to call this strat)*
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+<b>Alternative:</b> <em>(I don't know what to call this strat)</em>
 
 This strat is the one I am currently trying out. It's quite simple, and one advantage it has is that you are fairly agnostic to whether the towers flip.
 
@@ -383,7 +384,9 @@ This strat is the one I am currently trying out. It's quite simple, and one adva
     <td><img src="../images/05_run_dynamis/run_dynamis_sigma_06e.jpg"></td>
     <td><img src="../images/05_run_dynamis/run_dynamis_sigma_06f.jpg"></td>
   </tr>
+  <tr><td colspan="2"><p>Note in these examples, D3 and D4 are always on the "more north" side, while D1 and H1 are "more south" side of the four towers.</p><p>MT and H2 also stay on the north side, relative to ST and D2, so players do not need to reorient themselves in the event the towers flip.</p></td></tr>
 </table>
+</div>
 
 ### Hello, World (Sigma)
 
