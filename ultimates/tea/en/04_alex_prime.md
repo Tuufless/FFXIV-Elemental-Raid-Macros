@@ -89,7 +89,7 @@ After the Divine Spears, have the MT Provoke and take aggro. Alexander Prime wil
 
 <table>
   <tr>
-    <td width="50%"><p><b>1.</b> Alexander spawns either True North <em>or</em> True South.</p><ul><li><b>Green tethers:</b> Go towards Alexander, opposite your tethered orb. <b>Criss-cross the tethers</b>.</li><li><b>Crystal AoEs:</b> Make a square formation directly opposite Alexander.</li></ul></td>
+    <td width="50%"><p><b>1.</b> Alexander spawns either True North <em>or</em> True South.</p><p>Brute Justice and Cruise Chaser will spawn East and West in a random configuration.</p><ul><li><b>Green tethers:</b> Go towards Alexander, opposite your tethered orb. <b>Criss-cross the tethers</b>.</li><li><b>Crystal AoEs:</b> Make a square formation directly opposite Alexander.</li></ul></td>
 	<td><img src="../images/alex_prime/inception_01.jpg"><img src="../images/alex_prime/inception_crystals.jpg"></td>
   </tr>
   <tr>
