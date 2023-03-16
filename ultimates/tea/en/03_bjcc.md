@@ -240,14 +240,14 @@ At this time, either all the tanks and healers have Nisi (who the DPS need to co
     <td><p><b>Example 3:</b> DPS have Nisi.</p>
     <p><b>Third pass:</b></p>
     <ul>
-      <li>NIN passes blue Nisi to WHM.</li>
+      <li>RDM passes blue Nisi to WHM.</li>
       <li>MNK passes purple Nisi to PLD.</li>
       <li>RPR passes green Nisi to DRK.</li>
       <li>MCH passes orange Nisi to SGE.</li>
     </ul>
     <p><b>Fourth pass:</b></p>
     <ul>
-      <li>NIN collects green Nisi from DRK.</li>
+      <li>RDM collects green Nisi from DRK.</li>
       <li>MNK collects blue Nisi from WHM.</li>
       <li>RPR collects purple Nisi from PLD.</li>
       <li>MCH collects orange Nisi from SGE.</li>
