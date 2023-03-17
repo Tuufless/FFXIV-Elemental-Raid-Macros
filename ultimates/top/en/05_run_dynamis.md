@@ -351,7 +351,7 @@ This was the strat I was originally going with.
   </tr>
 </table>
 
-### No-counting strat
+### Fixed north strat
 
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
 <b>Alternative:</b> <em>(I don't know what to call this strat)</em>
@@ -371,7 +371,7 @@ This strat is the one I am currently trying out. It's quite simple, and one adva
       <li>If players have Remote Glitch, five towers will spawn.</li>
     </ul>
     <p><b>Four towers will be together on one side.</b></p>
-    <p>The four players at intercardinal positions <b>maintain their formation</b> and take the side with four towers (tethers drawn in red).</p>
+    <p>The four players at intercardinal positions <b>maintain their formation</b> and take the side with four towers, "squashing" their "X-shaped tethers" (tethers drawn in red).</p>
     <p>The two players at the north or south "point" take the tower(s) there (tethers drawn in blue).</p>
     <p>The remaining two N/S players (which will be on the side with four towers) take either the mid-range, or far-range towers, depending on whether you have Mid or Remote Glitch.</p>
     <p>This process works regardless of whether the towers flipped.</p></td>
@@ -521,6 +521,21 @@ Like Blue Screen, Omega-F **must** be brought to under 20% HP by the end of Blin
   <tr><td><p>Putting the blue tethers opposite Final Omega gives them the best vantage point for Final Omega's Oversampled Wave Cannon.</p><p>This is important, as the blue tether players will be the ones resolving Beyond Defense → Pile Pitch together with Final Omega's (and a player's) Oversampled Wave Cannon.</p></td></tr>
 </table>
 </details>
+<details markdown=block>
+<summary><b>[Sigma]</b> There are strats that assign players to towers based on the waymarks they spread to in the first part of Sigma- why didn't we go along with one of those?</summary>
+<table>
+  <tr><td><p>I personally think those strats are fine, but isn't really suited for PF in the long term.</p>
+  <p>The basic principle of assigning waymarks to towers is sound, but ultimately boils down to memorizing an arbitrary assignment, which is where macros come in.</p>
+  <p>Inevitably, what'll happen (especially when TOP is no longer current content), either:</p>
+  <ul>
+    <li>Nobody brings, or hits the macro mid-fight, leading to a wipe.</li>
+    <li>Multiple people hit the macro mid-fight, leading to a wipe.</li>
+  </ul>
+  <p>In the case of Wingwan's strat (the Japanese style), <em>each</em> player needs to prepare eight macros, one for each waymark they may potentially spread to.</p>
+  <p>That may sound okay now, but that's because TOP is current content.</p>
+  <p>It'll be a much bigger ask once we're in Patch 7.x and later.</p></td></tr>
+</table>
+</details>
 
 ## Troubleshooting
 
@@ -542,20 +557,5 @@ Like Blue Screen, Omega-F **must** be brought to under 20% HP by the end of Blin
 <summary><b>[Delta]</b> The blue/yellow fists AoEs are missing and we get hit by Unmitigated Explosion- what happened?</summary>
 <table>
   <tr><td><p>The fist AoEs only appear <em>if and only if</em> a blue fist is correctly stacked with a yellow fist. This is done pair-wise, so players who <em>have</em> fist AoEs did it correctly.</p></td></tr>
-</table>
-</details>
-<details markdown=block>
-<summary><b>[Sigma]</b> There's strats that assigns players to towers based on the waymarks they spread to in the first part of Sigma- why didn't we go along with that strat?</summary>
-<table>
-  <tr><td><p>I personally think that strat is fine, but isn't really suited for PF in the long term.</p>
-  <p>The basic principle of assigning waymarks to towers is sound, but ultimately boils down to memorizing an arbitrary assignment, which is where macros come in.</p>
-  <p>Inevitably, what'll happen (especially when TOP is no longer current content), either:</p>
-  <ul>
-    <li>Nobody brings, or hits the macro mid-fight, leading to a wipe.</li>
-    <li>Multiple people hit the macro mid-fight, leading to a wipe.</li>
-  </ul>
-  <p>In the case of Wingwan's strat (the Japanese style), <em>each</em> player needs to prepare eight macros, one for each waymark they may potentially spread to.</p>
-  <p>That may sound okay now, but that's because TOP is current content.</p>
-  <p>It'll be a much bigger ask once we're in Patch 7.x and later.</p></td></tr>
 </table>
 </details>
