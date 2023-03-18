@@ -164,7 +164,7 @@ Tanks should try to have minor cooldowns available for the Lightning passes.
 	<td><img src="../images/bjcc/bjcc_12.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>13.</b> Plasma Shield spawns. Tanks and Healers line up to form the Tollgate.</p><p><ul><li><b>ST:</b> Point Brute Justice south to hit the waterspout with Flarethrower.</li></ul></p></td>
+    <td><p><b>13.</b> Plasma Shield spawns. Tanks and Healers line up to form the Tollgate.</p><p><ul><li><b>MT:</b> Face Cruise Chaser west until Cruise Chaser starts casting Limit Cut (which will spawn the Plasma Shield).</li><li><b>ST:</b> <b>Stay close to Brute Justice</b> and point Brute Justice south to hit the waterspout with Flarethrower.</li><li><b>DPS:</b> Destroy the Plasma Shield. The Plasma Shield can <b>only be damaged from the front</b>.</li></ul><p></p></p></td>
 	<td><img src="../images/bjcc/bjcc_13.jpg"></td>
   </tr>
   <tr>
@@ -283,12 +283,6 @@ At this time, either all the tanks and healers have Nisi (who the DPS need to co
 </table>
 </details>
 <details markdown=block>
-<summary><b>[Crashing Thunder]</b> Why did this deal more damage than usual?</summary>
-<table>
-  <tr><td><p>Water and Thunder work differently.</p><p>While Crashing Wave works like any other stack damage (damage is lowered as more people are hit by Crashing Wave), Thunder is the opposite; damage <em>increases</em> as more people are hit by Crashing Thunder.</p><p>This is why we want the Thunder stacks to contain exactly two players.</p></td></tr>
-</table>
-</details>
-<details markdown=block>
 <summary><b>[Hidden Mines]</b> Why doesn't D3 bait the west Hidden Mine instead of H1?</summary>
 <table>
   <tr><td><p>The objective is to have both Enumeration targets visible and in close proximity to one another.</p><p>Suppose D3 and H2 baited the Hidden Mines instead and D2 and D3 were targeted for Enumeration.</p><p>D2 only sees the Enumeration on D2, but now has to look at D3 to determine whether they need to switch positions with D1, with two giant robots in the center blocking the view.</p></td></tr>
@@ -300,9 +294,24 @@ At this time, either all the tanks and healers have Nisi (who the DPS need to co
   <tr><td><p>The idea is to keep both bosses in the center. In particular, if the West mine is baited towards the edge, the MT has to pull Cruise Chaser closer to the edge in order to take the Hidden Mine, and doesn't leave much space for the DPS to fit in for the Plasma Shield.</p><p>Of course, you could have the MT and ST switch sides again to recenter the bosses, but that violates a different principle which is to try and keep the tanks and healers to their half of the arena as much as possible.</p></td></tr>
 </table>
 </details>
+
+## Troubleshooting
+
+<details markdown=block>
+<summary><b>[Crashing Thunder]</b> Why did this deal more damage than usual?</summary>
+<table>
+  <tr><td><p>Water and Thunder work differently.</p><p>While Crashing Wave works like any other stack damage (damage is lowered as more people are hit by Crashing Wave), Thunder is the opposite; damage <em>increases</em> as more people are hit by Crashing Thunder.</p><p>This is why we want the Thunder stacks to contain exactly two players.</p></td></tr>
+</table>
+</details>
 <details markdown=block>
 <summary><b>[Hidden Mines]</b> What went wrong with the Hidden Mine baits? Why was a mine baited on the DPS instead of a healer?</summary>
 <table>
   <tr><td><p>The Hidden Mines are baited by the two furthest players from Brute Justice, which should be the healers.</p><p>If a DPS ended up baiting the Hidden Mine, it is likely because:<ul><li>A DPS was outside the green sector marked in Step 7 above <em>or</em></li><li>The ST did not position Brute Justice in the center of the arena.</li></ul></p></td></tr>
+</table>
+</details>
+<details markdown=block>
+<summary><b>[Plasma Shield]</b> How did the MT get one-shot?</summary>
+<table>
+  <tr><td><p>Cruise Chaser gains a damage-up buff if the Plasma Shield is not destroyed in time, and its auto-attack will one-shot the MT.</p><p>Even if the MT survives this, the follow-up Whirlwind (before third Water) will wipe the party.</p></td></tr>
 </table>
 </details>
