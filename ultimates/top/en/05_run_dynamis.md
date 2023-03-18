@@ -353,27 +353,22 @@ This was the strat I was originally going with.
 
 ### Alternative Run: Dynamis (Sigma Version) - Nukemaru
 
-My group is currently going with Nukemaru's strat. Personally, I feel it's simple, and more importantly, the strat is agnostic to whether the towers flip.
+My group is currently going with a small modification on Nukemaru's strat. Personally, I feel it's simple, and more importantly, the strat is agnostic to whether the towers flip.
 
 {% include youtube.html id="3x-_d8RZJXE?start=211" %}
 
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
 <table>
   <tr>
-    <td width="50%"><p><b>5.</b> After the Wave Cannons and lasers go off, have the two cardinal tethers form two vertical lines from north-to-south.</p><p>Have the N/S tether move a little west, and the E/W tether rotate clockwise to make a line to the east.</p></td>
+    <td width="50%"><p><b>5.</b> After the Wave Cannons and lasers go off, the players E/W rotate clockwise to stand N/S.</p><p>These four players (the players that were originally at the cardinal positions) will be responsible for taking the N/S towers.</p><ul><li>The players that started N/S will be responsible for the <b>west-side</b> towers.</li><li>The players that started W/E will be responsible for the <b>east-side</b> towers.</li></ul></td>
     <td><img src="../images/05_run_dynamis/run_dynamis_sigma_05b.jpg"></td>
   </tr>
   <tr>
     <td colspan="2">
-    <p><b>6.</b> Towers spawn relative to either North or South.</p>
-    <ul>
-      <li>If players have Mid Glitch, six towers will spawn.</li>
-      <li>If players have Remote Glitch, five towers will spawn.</li>
-    </ul>
-    <p><b>Four towers will be together on one side.</b></p>
+    <p><b>6.</b> Towers spawn relative to either North or South, with four towers together on one side.</p>
     <p>The four players at intercardinal positions <b>maintain their formation</b> and take the side with four towers, "squashing" their "X-shaped tethers" (tethers drawn in red).</p>
-    <p>The two players at the north or south "point" take the tower(s) there (tethers drawn in blue).</p>
-    <p>The remaining two N/S players (which will be on the side with four towers) take either the mid-range, or far-range towers, depending on whether you have Mid or Remote Glitch.</p>
+    <p>The two cardinal players at the star's "point" take the tower(s) there.</p>
+    <p>The remaining two cardinal players (which will be on the side with four towers) take either the mid-range, or far-range towers, depending on whether you have Mid or Remote Glitch (tethers drawn in blue).</p>
     <p>This process works regardless of whether the towers flipped.</p></td>
   </tr>
   <tr>
