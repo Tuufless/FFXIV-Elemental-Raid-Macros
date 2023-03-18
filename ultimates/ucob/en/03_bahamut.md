@@ -113,8 +113,8 @@ Note that Nael's lines now telegraph *three* mechanics instead of two.
 
 <table>
   <th width="34%"></th>
-  <th width="33%">From on high I descend, the moon and stars to bring!</th>
-  <th>From hallowed moon I descend, a rain of stars to bring!</th>
+  <th width="33%">From hallowed moon I descend, a rain of stars to bring!</th>
+  <th>From on high I descend, the moon and stars to bring!</th>
   <tr>
     <td><p><b>1.</b> Find Nael, and either stack or spread around Nael, depending on Nael's line.</p><p>Tanks should be nearest to the middle of the arena.</p></td>
     <td><img src="../images/03_bahamut/fellruin_01a.jpg"></td>
@@ -336,5 +336,14 @@ However, the Twintania player may be part of the Megaflare group, or the towers 
 <table>
   <tr><td width="50%"><p>Yes, there are.</p><p>Don't use them.</p></td>
   <td><img src="../images/03_bahamut/heavensfall_faq.jpg"></td></tr>
+</table>
+</details>
+
+## Troubleshooting
+
+<details markdown=block>
+<summary><b>[Fellruin Trio]</b> The tanks can't get to the Neurolinks in time to survive Aetherial Profusion!</summary>
+<table>
+  <tr><td><p>This can happen if Nael's line goes Raven's Dive → Lunar Dynamo and the person they dive to is too far back (towards the edge of the arena).</p><p>Tanks can save Sprint for this part to help.</p></td></tr>
 </table>
 </details>
