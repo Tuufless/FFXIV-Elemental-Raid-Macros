@@ -351,13 +351,13 @@ This was the strat I was originally going with.
   </tr>
 </table>
 
-### Fixed north strat
+### Alternative Run: Dynamis (Sigma Version) - Nukemaru
+
+My group is currently going with Nukemaru's strat. Personally, I feel it's simple, and more importantly, the strat is agnostic to whether the towers flip.
+
+{% include youtube.html id="3x-_d8RZJXE?start=211" %}
 
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
-<b>Alternative:</b> <em>(I don't know what to call this strat)</em>
-
-This strat is the one I am currently trying out. It's quite simple, and one advantage it has is that you are fairly agnostic to whether the towers flip.
-
 <table>
   <tr>
     <td width="50%"><p><b>5.</b> After the Wave Cannons and lasers go off, have the two cardinal tethers form two vertical lines from north-to-south.</p><p>Have the N/S tether move a little west, and the E/W tether rotate clockwise to make a line to the east.</p></td>
