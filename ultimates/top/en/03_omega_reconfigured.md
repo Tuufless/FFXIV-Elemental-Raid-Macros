@@ -204,6 +204,8 @@ For brevity's sake, we will only display the relevant debuffs from here onwards.
 
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
 <p><b>Tip:</b> The boss will still be auto-attacking the tanks during Hello, World.</p><p>These should be mitigated by cycling through your cooldowns to help reduce strain on the healers. Tank swap after the second set of towers to cycle through the ST's mitigations.</p></div>
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+<p><b>Tip:</b> The party will be taking raid-wide damage from Critical Overflow, Critical Synchronization, and the two tethers. Three mitigations (including shields) are needed for non-tanks to survive all the damage without any additional healing.</p><p>Boss debuffs (Reprisal, Dismantle, Feint, Addle) are particularly handy because having all players in range can be tricky.</p></div>
 
 <table>
   <tr>
