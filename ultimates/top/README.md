@@ -47,3 +47,9 @@ Looking towards the future:
 ```
 
 </details>
+
+## English
+**(Work in progress)**
+```
+{% include_relative macros/top.en.txt %}
+```

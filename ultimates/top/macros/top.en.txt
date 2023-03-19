@@ -1,0 +1,54 @@
+―《P1 Omega》―――――――――――――――――
+【Program Loop】
+　Towers→1234　Tethers→3412
+　CW from NW：H1 MT ST D1 D2 D3 D4 H2
+【Pantokrator】
+　Start NW/SE - rotate cw if needed
+　NW：H1 MT ST D1 D2 D3 D4 H2：SE
+【Wave Cannons】
+ 　　　　MTST　　　　　　※ Tanks stack North
+ 　H1　　　　　　　H2　　　and both invuln
+ 　　  D1 D3 D4 D2
+―《P2 Omega M/F》――――――――――――――
+【Party Synergy】
+　　H1　　　　H2　※ If a group has duplicate
+　　MT (M) (F) ST　　　symbols → bottom
+　　D1　　　　D2　　　player adjusts
+　　D3　　　　D4
+　■ Mid Glitch　■ Remote Glitch
+　　　Eye　　　　　　Eye
+　　〇　　〇　　　　〇　　□　※ If a side has two
+　　×　　×　　　　×　　×　　stacks → Furthest
+　　△　　△　　　　△　　△　　from eye adjusts
+　　□　　□　　　　□　　〇
+　Using the three Omega-M as North:
+　　Mid：Left→West, Right→South
+　　Remote：Left→West, Right→East
+【Limitless Synergy】
+　Party stack：South
+　Tethers：MT→NW/NE tether
+　　　　　　ST→SW/SE tether
+　■ Beyond Defense + Pile Pitch
+　　Tanks bait Beyond Defense
+―《P3 Final Omega》――――――――――――――
+　■ Transition
+　 ❶①：H1 MT ST D1 D2 D3 D4 H2：②❹
+　 　　　①　　②　　White + nothing：①②
+　　 　❶　  ★  　❹　Purple：❶❷❸❹
+ 　　　　  ❷　❸
+　■ Oversampled Wave Cannon (Astoh)
+　　①❶：H1 H2 MT ST D1 D2 D3 D4：❸⑤
+　　　　　　①A
+　　　←❶
+　　↑　４　　　　　１　　　　※ Flip horizontally
+　　❷　　　　　≫　　　　　　　if Omega's
+　　B　　　　★≫②　　B③　　monitors face
+　　❸　　　　　≫　　　　　　　West
+　　↓　３　④　　　２
+.
+　　　　　　⑤C
+―《P4 Blue Screen》――――――――――――――
+　MT　　　　　　ST　※ 2 stacks on one side →
+　D3　　  ★　　  D4　 　　Lower stack adjusts
+　　H1　　　　H2　　※ No stacks on one side →
+　　　D1　　D2　　　　　 Melee adjust
