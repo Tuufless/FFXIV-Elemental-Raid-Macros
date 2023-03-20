@@ -302,12 +302,6 @@ The party then proceeds onto Perfect Alexander.
 </table>
 </details>
 <details markdown=block>
-<summary><b>[Wormhole]</b> How are players getting clipped by Apocalyptic Ray?</summary>
-<table>
-  <tr><td><p>This is quite common while learning the strat, and is the technical part of executing the strat.</p><p>First off, check that the people that are taking the Void puddles aren't moving too close to the center of the arena, since that would obviously put them in the Apocalyptic Ray's AoE.</p><p>More likely, either Player 3 or Player 4 (whoever wasn't baiting Super Jump) gets killed by an Apocalyptic Ray, in which case check the following:</p><ul><li>Was the Super Jump baited in front of the red dot?</li><li>Was the player not baiting Super Jump all the way at the edge of the arena?</li><li>Did the player responsible for baiting Apocalyptic Ray (either Player 1 or Player 2) move out of position early? <em>(This will tilt the Apocalyptic Ray slightly, enough to kill the other player.)</em></li></ul></td></tr>
-</table>
-</details>
-<details markdown=block>
 <summary><b>[Enumeration]</b> Why don't we group both tanks with one Enumeration target, and both healers with the other Enumeration target?</summary>
 <table>
   <tr><td>
@@ -366,5 +360,20 @@ The party then proceeds onto Perfect Alexander.
       Without knowing what the Enumeration split will be ahead of time, only two players potentially have to adjust with the melee-swap strat 1/3 of the time, while at least two DPS are guaranteed to adjust (with all four DPS potentially having to adjust) with the TTD/HHD strat <em>all</em> the time, leading to more points of error.
     </p>
   </td></tr>
+</table>
+</details>
+
+## Troubleshooting
+
+<details markdown=block>
+<summary><b>[Temporal Stasis, Inception]</b> What is Plaint of Severity, Solidarity, and Surety?</summary>
+<table>
+  <tr><td><p>These are the names of the damage coming from Alexander's mechanics.</p><ul><li>Plaint of Severity is the damage from Aggravated Assault.</li><li>Plaint of Solidarity is the damage from Shared Sentence.</li><li>Plaint of Surety is the damage from the red/green and blue tethers resolving.</li></ul></td></tr>
+</table>
+</details>
+<details markdown=block>
+<summary><b>[Wormhole]</b> How are players getting clipped by Apocalyptic Ray?</summary>
+<table>
+  <tr><td><p>This is quite common while learning the strat, and is the technical part of executing the strat.</p><p>First off, check that the people that are taking the Void puddles aren't moving too close to the center of the arena, since that would obviously put them in the Apocalyptic Ray's AoE.</p><p>More likely, either Player 3 or Player 4 (whoever wasn't baiting Super Jump) gets killed by an Apocalyptic Ray, in which case check the following:</p><ul><li>Was the Super Jump baited in front of the red dot?</li><li>Was the player not baiting Super Jump all the way at the edge of the arena?</li><li>Did the player responsible for baiting Apocalyptic Ray (either Player 1 or Player 2) move out of position early? <em>(This will tilt the Apocalyptic Ray slightly, enough to kill the other player.)</em></li></ul></td></tr>
 </table>
 </details>
