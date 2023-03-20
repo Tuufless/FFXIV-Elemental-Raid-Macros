@@ -248,3 +248,32 @@ The sequence of mechanics after this point are:
 The fifth and sixth lines are a random selection of any combination from Nael's first three lines.
 
 This is much simpler now that the dragons are gone, so the party will no longer need to contend with Fire/Ice, Thunder, or Doom.
+
+## Seventh Umbral Era (Transition to Bahamut)
+
+Depending on how the party did with Twintania and Nael, you should have either a Tank LB2 or LB3 available at this point.
+
+Stack together at the south Neurolink (same place where you stacked for the transition to Nael) to prepare for a knockback.
+
+- If you have LB2: Tank LB **before** the knockback.
+- If you have LB3: Tank LB **at** the knockback.
+
+The giant fireball will then pulse four times for raidwide damage- three weak pulses (Calamitous Flame), followed by one strong pulse at the end (Calamitous Blaze).
+
+### Recovering LB3
+
+If you have an LB3 at the end of Nael, it may be useful to learn how to cheese Seventh Umbral Era so that you begin Quickmarch Trio with an LB3 (or at least very close to it), especially while progging Bahamut.
+
+This will let you save runs with a healer LB3 that would otherwise result in a wipe, allowing the group to get some more practice in.
+
+{% include youtube.html id="L6UnJ42eEMk" %}
+
+LB is built if someone in the party takes lethal damage, but is saved by shields or in this case, mitigation from the tank LB3. This is we build the LB gauge by doing a 5-man Fireball stack at Twintania (increase damage to lethal by removing players, who are then saved by the shields).
+
+The knockback damage from Seventh Umbral Era is based on proximity to the center.
+
+The goal is to go down to around 6k HP, at which point Calamitous Flame would have killed the party in the absence of tank LB3. If players are taking too little damage, consider removing shields, or standing closer. If someone's HP goes below 3k at the knockback, they are too close.
+
+With a tank LB3 (80% mitigation), each weak damage pulse hits for a little under 1.4k damage, and the strong one for around 5.5k.
+
+The healers should start casting a heal to make it in time for Calamitous Blaze, but watch out in case some party members are too low HP after the knockback (under 2.8k HP).
