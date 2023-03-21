@@ -49,7 +49,7 @@ We break down the mechanics below.
 
 <table>
   <tr>
-    <td><p><b>No debuff:</b> Go to the <b>east</b> boss.
+    <td width="50%"><p><b>No debuff:</b> Go to the <b>east</b> boss.
       <ul><li><b>Tanks/Healers</b>: North</li>
         <li><b>DPS:</b> South</li>
       </ul></p>
