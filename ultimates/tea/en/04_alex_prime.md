@@ -89,11 +89,12 @@ After the Divine Spears, have the MT Provoke and take aggro. Alexander Prime wil
 
 <table>
   <tr>
-    <td width="50%"><p><b>1.</b> Alexander spawns either True North <em>or</em> True South.</p><p>Brute Justice and Cruise Chaser will spawn East and West in a random configuration.</p><ul><li><b>Green tethers:</b> Go towards Alexander, opposite your tethered orb. <b>Criss-cross the tethers</b>.</li><li><b>Crystal AoEs:</b> Make a square formation directly opposite Alexander.</li></ul></td>
+    <td width="50%"><p><b>1.</b> Alexander spawns either True North <em>or</em> True South.</p><p>Brute Justice and Cruise Chaser will spawn East and West in a random configuration.</p><ul><li><b>Green tethers:</b> Go towards Alexander, opposite your tethered orb. <b>Criss-cross the tethers</b>.</li><li><b>Crystal AoEs:</b> Make a square formation directly opposite Alexander.</li></ul><p>The two Crystal players furthest from Alexander stands about 1.5 notches away from the red dot opposite Alexander.</p><p>The other two Crystal players take reference from these players to make a square.</p>
+    <div style="background-color: #200 ; padding: 10px; border: 1px solid;"><p><b>Note:</b> Be careful not to accidentally slant the square into a diamond!</p></div></td>
 	<td><img src="../images/alex_prime/inception_01.jpg"><img src="../images/alex_prime/inception_crystals.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>2.</b> Resolve the Crystal AoEs and the green orbs.</p><p>Note that the residual AoEs will be slightly <b>larger</b> than their telegraphed size.</p><p>The party wipes if any AoEs touch each other.</p><p>Done correctly, the True Heart that spawns opposite Alexander Prime will <b>hit all four crystals</b> and turn gold, giving the party the Enigma Codex buff.</p><p><em>(The Perfect Alexander phase will be <b>impossible</b> without the Enigma Codex.)</em></p></td>
+    <td><p><b>2.</b> Resolve the Crystal AoEs and the green orbs.</p><ul><li>The residual AoEs will be slightly <b>larger</b> than their telegraphed size.</li><li>The green orbs can be placed on the red dots, although the two orbs closer to Alexander should be placed one notch up.</li></ul><p>The party wipes if any AoEs touch each other.</p><p>Done correctly, the True Heart that spawns opposite Alexander Prime will <b>hit all four crystals</b> and turn gold, giving the party the Enigma Codex buff.</p><p><em>(The Perfect Alexander phase will be <b>impossible</b> without the Enigma Codex.)</em></p></td>
 	<td><img src="../images/alex_prime/inception_02.jpg"></td>
   </tr>
   <tr>
