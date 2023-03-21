@@ -38,7 +38,7 @@ Tanks should try to have minor cooldowns available for the Lightning passes.
 <table>
   <tr>
     <td><img src="../images/bjcc/debuffs/compressed_water.png"></td>
-    <td><p><b>Compressed Water</b></p><ul><li>Starts on a <b>random healer</b>.</li><li>The more players that are hit, the less damage each player takes.</li><li>At least three players should share the Water stack damage.</li><li>A waterspout will also spawn where the debuffed player was standing.<ul><li>Players that move too near this waterspout will be instantly killed.</li><li>The waterspout must either be frozen with Brute Justice's Ice, or destroyed with fire from Brute Justice's Flarethrower. Failing to do so will wipe the raid.</li></ul></li></ul></td>
+    <td><p><b>Compressed Water</b></p><ul><li>Starts on a <b>random healer</b>.</li><li>The more players that are hit, the less damage each player takes.</li><li>At least three players should share the Water stack damage.</li><li>A waterspout will also spawn where the debuffed player was standing.<ul><li>Players that move or stay too near this waterspout will be instantly killed.</li><li>The waterspout must either be frozen with Brute Justice's Ice, or destroyed with fire from Brute Justice's Flarethrower. Failing to do so will wipe the raid.</li></ul></li></ul></td>
   </tr>
   <tr>
     <td><img src="../images/bjcc/debuffs/compressed_lightning.png"></td>
@@ -301,6 +301,12 @@ At this time, either all the tanks and healers have Nisi (who the DPS need to co
 <summary><b>[Crashing Thunder]</b> Why did this deal more damage than usual?</summary>
 <table>
   <tr><td><p>Water and Thunder work differently.</p><p>While Crashing Wave works like any other stack damage (damage is lowered as more people are hit by Crashing Wave), Thunder is the opposite; damage <em>increases</em> as more people are hit by Crashing Thunder.</p><p>This is why we want the Thunder stacks to contain exactly two players.</p></td></tr>
+</table>
+</details>
+<details markdown=block>
+<summary><b>[Compressed Water]</b> What is "Severe Contamination"?</summary>
+<table>
+  <tr><td><p>This is the pulsing raid-wide damage that you get if the waterspout left behind from Compressed Water is not frozen or destroyed by Flarethrower.</p></td></tr>
 </table>
 </details>
 <details markdown=block>
