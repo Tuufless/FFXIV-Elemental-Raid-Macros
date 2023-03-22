@@ -499,13 +499,12 @@ Identifying the safe spots will take some practice. Nukemaru has compiled a coll
 <table>
   <tr>
     <td width="50%"><p><b>5.</b> Omega will then present a single monitor set, to be resolved together with the first set of Hello, World debuffs.</p>
+    <p>Omega's monitors will be taken by two players with two Dynamis stacks. However:</p>
     <ul>
-      <li>Two players with two Dynamis stacks take Omega's monitor hits.
-        <ul>
-          <li>If there are player(s) with two Dynamis stacks <b>and</b> a second Hello, World debuff, they <b>must</b> take the monitors here.</li>
-        </ul>
-      </li>
-    </ul></td>
+      <li>Player(s) with with two Dynamis stacks and Second in Line <b>must</b> take Omega's monitors.</li>
+      <li>Player(s) with with two Dynamis stacks and First in Line, <b>cannot</b> take Omega's monitors <em>(because they'll resolve their Hello, World instead)</em>.</li>
+    </ul>
+    <p><em>In this example, MT ST, D1, and D2 each have two stacks of Dynamis.</em></p><ul><li><em>D2 has Second in Line, so they must take Omega's monitor.</em></li><li><em>ST has first in Line, so they cannot take Omega's monitor.</em></li><li><em>Either the MT or D1 can be the second player to take Omega's monitor.</em></li></ul></td>
     <td><img src="../images/05_run_dynamis/run_dynamis_omega_05.jpg"></td>
   </tr>
   <tr>
