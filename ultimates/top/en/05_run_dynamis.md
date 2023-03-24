@@ -295,8 +295,8 @@ Sigma is split into three parts:
       </li>
       <li><p><em>Pairs with one marker:</em></p>
         <ul>
-          <li><em>H1 and D4 are the top pair.</em></li>
-          <li><em>D3 and D1 are the bottom pair.</em></li>
+          <li><em>D3 and D1 are the top pair.</em></li>
+          <li><em>H1 and D4 are the bottom pair.</em></li>
         </ul>
       </li>
     </ul></td>
@@ -313,8 +313,8 @@ Sigma is split into three parts:
       </li>
       <li><p>Pairs with one marker:</p>
         <ul>
-          <li>The top pair resolves the left arm and goes SW/NE <em>(player without a marker goes NE)</em>.</li>
-          <li>The bottom pair resolves the right arm goes SE/NW <em>(player without a marker goes NW)</em>.</li>
+          <li>The top pair goes NW/SE <em>(player without a marker goes NW)</em>.</li>
+          <li>The bottom pair goes NE/SW <em>(player without a marker goes NE)</em>.</li>
         </ul>
       </li>
     </ul>
