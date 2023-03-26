@@ -65,17 +65,7 @@ Broadly speaking, players are split into two groups based on their tethers, with
 - Blue tethered players will be handling **Pile Pitch**.
   - Hello, Near World and Hello, Distant World will also appear on two players with a blue tether.
 
-There are two methods to resolve Run: Dynamis (Delta)- Kinda Awk, and GMT.
-
-My group had originally started with Kinda Awk's strat (see below), but it wasn't working out as well as I would've liked in practice.
-
-In particular, the initial blue tethers + fists were causing problems, so we switched over to GMT's strat instead and haven't looked back.
-
-Having tried both strats out in prog, I *highly* recommend GMT's strat over Kinda Awk's.
-
-### Run: Dynamis (Delta Version) - GMT
-
-This is my group's current (and my preferred) method for resolving Run: Dynamis (Delta).
+My group's current (and my preferred) method for resolving Run: Dynamis (Delta) uses GMT's strat as a base.
 
 <table>
   <tr>
@@ -147,8 +137,13 @@ Once you have determined who adjusts, the party then splits up towards the two b
     <td><p><b>6.</b> The player with Oversampled Wave Cannon Loading points their monitors in the other direction of Final Omega's Oversampled Wave Cannon.</p><p>This creates a safe corridor for the three blue-tethered players that weren't hit by Beyond Defense to stack together to share Pile Pitch.</p><p>Note that the Pile Pitch stack may or may not include the player with Oversampled Wave Cannon Loading.</p><p>The player hit by Beyond Defense stands somewhere within this corridor, away from the Pile Pitch stack.</p></td>
     <td><img src="../images/05_run_dynamis/run_dynamis_delta_gmt_07.jpg"></td>
   </tr>
+</table>
+
+From here, we resolve the two Hello, World debuffs. We stuck with Kinda Awk's layout, even though it doesn't *quite* fit GMT.
+
+<table>
   <tr>
-    <td><p><b>7.</b> The "beetle" Omega lights up to cleave one side of the arena Move in to the safe side.</p>
+    <td width="50%"><p><b>7.</b> The "beetle" Omega lights up to cleave one side of the arena Move in to the safe side.</p>
     <ul>
       <li><b>The green-tether pair on the unsafe side:</b>
         <ol>
@@ -176,7 +171,7 @@ Once you have determined who adjusts, the party then splits up towards the two b
           <li>Stand towards Final Omega- you will <em>not</em> be getting Dynamis stacks this round.</li>
         </ul>
       </li>
-    </ul></td>
+    </ul><div style="background-color: #200 ; padding: 10px; border: 1px solid;"><p>This part differs from GMT's original strat- they have the green tethers on the safe side of Swivel Cannon break first instead.</p></div></td>
     <td><img src="../images/05_run_dynamis/run_dynamis_delta_gmt_08.jpg"></td>
   </tr>
   <tr>
@@ -185,14 +180,14 @@ Once you have determined who adjusts, the party then splits up towards the two b
   </tr>
 </table>
 
-### Run: Dynamis (Delta Version) - Kinda Awk
-
-This was the strat we originally started with, but it has since fallen out of favour with my group.
-
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+<details markdown=block>
+<summary><b>Older strat: Run: Dynamis (Delta Version) - Kinda Awk</b></summary>
+<p>This was the strat we originally started with, but it has since fallen out of favour with my group.</p>
+<p>In particular, the initial blue tethers + fists were causing problems, so we switched over to GMT's strat instead and haven't looked back.</p>
+<p>Having tried both strats out in prog, I <em>highly</em> recommend GMT's strat over Kinda Awk's.</p>
 <img src="../images/05_run_dynamis/run_dynamis_delta_summary.jpg">
-
-Breaking this down, we get:
-
+<p>Breaking this down, we get:</p>
 <table>
   <tr>
     <td width="50%"><p><b>1.</b> Split off into your initial positions:</p>
@@ -264,6 +259,8 @@ Breaking this down, we get:
     <td><img src="../images/05_run_dynamis/run_dynamis_delta_09.jpg"></td>
   </tr>
 </table>
+</details>
+</div>
 
 ## Run: Dynamis (Sigma Version)
 
