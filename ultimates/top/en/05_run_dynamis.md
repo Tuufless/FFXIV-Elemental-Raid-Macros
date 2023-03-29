@@ -272,7 +272,7 @@ Sigma is split into three parts:
 
 <table>
   <tr>
-    <td width="50%"><p><b>1.</b> Two arms will spawn followed by Omega-M.</p><p>The arms will always spawn SW and NE relative to Omega-M, who will serve as "north" for this part.</p><p>Line up in two columns of four in by Omega-M.</p>
+    <td width="50%"><p><b>1.</b> Two arms will spawn followed by Omega-M.</p><p>The arms will always spawn SW and NE relative to Omega-M, who will serve as "north" for this part.</p><p>Line up in two columns of four between the two arms.</p>
       <ul>
         <li><b>Top:</b> 〇 × △ □ <b>:Bottom</b></li>
       </ul>
