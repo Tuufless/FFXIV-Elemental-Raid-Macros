@@ -368,7 +368,7 @@ This was the strat I was originally going with.
 
 ### Alternative Run: Dynamis (Sigma Version) - Nukemaru
 
-My group is currently going with a small modification on Nukemaru's strat. Personally, I feel it's simple, and more importantly, the strat is agnostic to whether the towers flip.
+My group is currently going with Nukemaru's strat to resolve the knockback towers. Personally, I feel it's simple, and more importantly, the strat is agnostic to whether the towers flip.
 
 {% include youtube.html id="3x-_d8RZJXE?start=211" %}
 
