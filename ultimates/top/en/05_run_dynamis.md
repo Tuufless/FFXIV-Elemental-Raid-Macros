@@ -405,22 +405,20 @@ From here, we finally reach the last part of Run, Dynamis: Sigma which is the pa
 <table>
   <tr>
     <td width="50%"><p><b>7.</b> Omega-F will spawn opposite two Right Arm Units and Omega's Rear Power Unit in the center.</p><p>Use Omega-F as North, and note whether Omega-F is in her blade-legs stance or not.</p>
-    <p>The party needs to organise themselves into three groups:</p>
+    <p>Identify three players to go to Omega-F with the following priority:</p>
+    <p><b>Omega-F:</b> MT ST H1 H2 D1 D2 D3 D4 <b>:Opposite</b></p>
+    <p>These players must:</p>
     <ul>
-      <li>A group of three goes to Omega-F's side.
-        <ul><li>None of these players can have either Hello, World.</li>
-        <li>Two players will take the Right Arm Units' tethers. These two players <b>must</b> have a stack of Dynamis</li>
-        <li>The remaining player will group with Hello, Distant World.</li></ul>
-      </li>
-      <li>The remaining five players go opposite Omega-F.
+      <li>Each have one stack of Dynamis.</li>
+      <li>Must not have a Hello, World debuff.</li>
+    </ul>
+    <p>The remaining five players go opposite Omega-F.</p>
+    <ul>
+      <li>The two players with Hello, World debuffs stand a little towards the center of the arena to separate themselves from the remaining three.</li>
+      <li>The remaining three players briefly line up along the edge
         <ul>
-          <li>The two players with Hello, World debuffs stand a little towards the center of the arena to separate themselves from the remaining three.</li>
-          <li>The remaining three players briefly line up along the edge
-            <ul>
-              <li>The two players in front will follow the Hello, Near World player.</li>
-              <li>The player at the back will stay behind with the Hello, Distant World player.</li>
-            </ul>
-          </li>
+          <li>The two players in front will follow the Hello, Near World player.</li>
+          <li>The player at the back will stay behind with the Hello, Distant World player.</li>
         </ul>
       </li>
     </ul></td>
@@ -435,7 +433,7 @@ From here, we finally reach the last part of Run, Dynamis: Sigma which is the pa
     <td><img src="../images/05_run_dynamis/run_dynamis_sigma_09.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>10.</b> Hello, World debuffs resolve along with the Right Arm Unit's lasers.</p><p>Done correctly:</p><ul><li>Four players will have one stack of Dynamis</li><li>The other four players will have two stacks of Dynamis.</li></ul></td>
+    <td><p><b>10.</b> Hello, World debuffs resolve along with the Right Arm Unit's lasers.</p><p>If there are any tanks that started by Omega-F, they should bait the Arm lasers if possible.</p><p>Done correctly:</p><ul><li>Four players will have one stack of Dynamis</li><li>The other four players will have two stacks of Dynamis.</li></ul></td>
     <td><img src="../images/05_run_dynamis/run_dynamis_sigma_10.jpg"></td>
   </tr>
 </table>
@@ -576,6 +574,15 @@ Like Blue Screen, Omega-F **must** be brought to under 20% HP by the end of Blin
   <p>In the case of Wingwan's strat (the Japanese style), <em>each</em> player needs to prepare eight macros, one for each waymark they may potentially spread to.</p>
   <p>That may sound okay now, but that's because TOP is current content.</p>
   <p>It'll be a much bigger ask once we're in Patch 7.x and later.</p></td></tr>
+</table>
+</details>
+<details markdown=block>
+<summary><b>[Hello, World (Sigma)]</b> Why the THD priority, and why should tanks take the Arm lasers if possible?</summary>
+<table>
+  <tr><td><p>This is done to try and avoid a scenario where tanks are the ones taking Beetle Omega's tethers during the last set of Hello, Worlds in Run: Dynamis (Omega Version).</p>
+  <p>If a tank ends up taking a tether, the Max HP debuff will wear off, and the tank will need to be topped up for the last set of Solar Ray tankbusters. While doable, it is rather annoying to deal with.</p>
+  <p>In order to guarantee that the tanks will not take tethers in Omega, they must enter Omega with just one stack of Dynamis. Hence, they must miss <em>either</em> the Dynamis passes in Delta (they are blue tethers, but not either Hello, World), <em>or</em> miss the Dynamis passes in Sigma (they take the hand lasers).</p>
+  <p>While you cannot <em>guarantee</em> that a tank will <em>never</em> take the tethers (since a tank can be extremely unlucky and be assigned three Hello, World debuffs), this at least greatly reduces the chance of that happening.</p></td></tr>
 </table>
 </details>
 
