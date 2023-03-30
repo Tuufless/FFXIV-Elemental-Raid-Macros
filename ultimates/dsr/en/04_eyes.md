@@ -114,3 +114,18 @@ If Haurchefant dies in this phase, the fight loops back to Thordan in Phase 2.
 - In Phase 1, the pulsing AoE damage from the Spear ends early when Haurchefant is killed. This time around, Haurchefant stays alive so the pulsing AoE damage will continue until Pure of Heart resolves.
 - Haurchefant will take heavy damage from Pure of Heart, and will need to be roughly 65% health to survive.
 - Benediction **works** on Haurchefant.
+
+## Frequently Asked Questions
+
+<details markdown=block>
+<summary><b>[Fangbound]</b> Does the Right Eye recover HP from autoattacking a tank with a blue tether?</summary>
+<table>
+  <tr><td><p>Unlike the original Fang and Claw mechanic from Nidhogg EX, the Right (blue) Eye will not recover HP from a tank getting autoattacked.</p></td></tr>
+</table>
+</details>
+<details markdown=block>
+<summary><b>[Clawbound/Fangbound]</b> Do mitigations affect the amount of damage taken by the Left Eye (or HP recovered by the Right Eye)?</summary>
+<table>
+  <tr><td><p>No, mitigations do not affect the amount of HP recovered or damage taken.</p><p>It's a binary "did you get hit by this mechanic or not" decision.</p></td></tr>
+</table>
+</details>
