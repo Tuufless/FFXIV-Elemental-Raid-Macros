@@ -581,7 +581,8 @@ Like Blue Screen, Omega-F **must** be brought to under 20% HP by the end of Blin
 <table>
   <tr><td><p>This is done to try and avoid a scenario where tanks are the ones taking Beetle Omega's tethers during the last set of Hello, Worlds in Run: Dynamis (Omega Version).</p>
   <p>If a tank ends up taking a tether, the Max HP debuff will wear off, and the tank will need to be topped up for the last set of Solar Ray tankbusters. While doable, it is rather annoying to deal with.</p>
-  <p>In order to guarantee that the tanks will not take tethers in Omega, they must enter Omega with just one stack of Dynamis. Hence, they must miss <em>either</em> the Dynamis passes in Delta (they are blue tethers, but not either Hello, World), <em>or</em> miss the Dynamis passes in Sigma (they take the hand lasers).</p>
+  <p>To ensure a tank will not take a tether at the end of Omega, that player must enter Omega with just one stack of Dynamis, which means they must miss <em>either</em> the Dynamis stack from Delta, <em>or</em> the Dynamis stack from Sigma.</p>
+  <p>If a tank is going to Omega-F, that implies that they <em>already</em> have a Dynamis stack from Delta, so we want them to miss getting a Dynamis stack from Sigma (baiting the Arm lasers) to guarantee they will not take the tethers at the end of Omega.</p>
   <p>While you cannot <em>guarantee</em> that a tank will <em>never</em> take the tethers (since a tank can be extremely unlucky and be assigned three Hello, World debuffs), this at least greatly reduces the chance of that happening.</p></td></tr>
 </table>
 </details>

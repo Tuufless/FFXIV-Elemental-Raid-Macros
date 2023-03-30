@@ -39,7 +39,7 @@ The phase ends when Twintania is pushed below 45% HP.
     <td><img src="../images/01_twintania/twintania_2_1.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>5.</b>Twintania will then cast five rounds of Liquid Hell that is baited by a random player past a certain distance.</p><ul><li><b>D3:</b> Bait the Liquid Hells.</li><li><b>All other players:</b> Stay near Twintania to avoid accidentally taking a Liquid Hell.</li></ul></td>
+    <td><p><b>5.</b> Twintania will then cast five rounds of Liquid Hell that is baited by a random player past a certain distance.</p><ul><li><b>D3:</b> Bait the Liquid Hells.</li><li><b>All other players:</b> Stay near Twintania to avoid accidentally taking a Liquid Hell.</li></ul></td>
     <td><img src="../images/01_twintania/twintania_2_2.jpg"></td>
   </tr>
   <tr>
