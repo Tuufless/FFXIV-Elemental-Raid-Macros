@@ -18,7 +18,7 @@ Twintania's first phase is a basic introduction to what to expect- Twisters, and
     <td><img src="../images/01_twintania/twintania_1_1.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>2.</b> Twintania will mark one random (non-tank) player with a Fireball marker, and cast Twister.</p><p>All players <b>other than the tanks and D3</b> will bait Twisters where they stand, and stack behind Twintania to split the Fireball damage in a 5-man stack.</p><ul><li><b>D3: </b> Stay out of the Fireball stack unless you are the Fireball target.</li><li><b>D4: </b>Join the Fireball stack unless D3 is the Fireball target.</li></ul><p>You will need to mitigate this Fireball to survive- use effects like shields, Sacred Soil/Kerachole and Troubadour/Tactician/Shield Samba. <b>Do not</b> use debuffs like Reprisal, Feint, or Addle.</p></td>
+    <td><p><b>2.</b> Twintania will mark one random (non-tank) player with a Fireball marker, and cast Twister.</p><p>All players will bait Twisters where they stand.</p><p>While doing so, all players except the tanks and D3 moves to stack together behind Twintania to split Fireball's damage in a 5-man stack.</p><ul><li><b>D3: </b> Stay out of the Fireball stack unless you are the Fireball target.</li><li><b>D4: </b>Join the Fireball stack unless D3 is the Fireball target.</li></ul><p>You will need to mitigate this Fireball to survive- use effects like shields, Sacred Soil/Kerachole and Troubadour/Tactician/Shield Samba.</p><p><b>Do not</b> use debuffs like Reprisal, Feint, or Addle.</p></td>
     <td><img src="../images/01_twintania/twintania_1_2.jpg"></td>
   </tr>
   <tr>
