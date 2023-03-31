@@ -353,12 +353,6 @@ Note that DoTs will continue to tick even after the player has been imprisoned.
 ## Frequently Asked Questions
 
 <details markdown=block>
-<summary><b>[Divine Retribution]</b> What happened?</summary>
-<table>
-  <tr><td><p>This happens when either a Light player touches the Light Beacon, or a Dark player moves too far away from the Dark Beacon.</p></td></tr>
-</table>
-</details>
-<details markdown=block>
 <summary><b>[Ordained Stillness]</b> Do emotes count as movement?</summary>
 <table>
   <tr><td><p>No, they do not.</p></td></tr>
@@ -377,21 +371,9 @@ Note that DoTs will continue to tick even after the player has been imprisoned.
 </table>
 </details>
 <details markdown=block>
-<summary><b>[Collective Reprobation (stacks)]</b> Why did the party wipe? What is "Faithlessness"?</summary>
-<table>
-  <tr><td><p>The stacks have an anti-cheese mechanic built into them, and cannot be taken solo.</p><p>When a stack is solo'ed (even with invuln), raid-wide damage called "Faithlessness" is triggered, which wipes the raid.</p></td></tr>
-</table>
-</details>
-<details markdown=block>
 <summary><b>[Fate Calibration β]</b> Why does Fate Calibration β need to be mitigated?</summary>
 <table>
   <tr><td><p>This is to hedge against the worst case scenario, where the party has to spread (Individual Reprobation).</p><p>The Dark players will bait Super Jump and the Light players have the Shared Sentence stack that will deal damage.</p><p>The mitigations are to try and reduce this damage to let everybody survive the incoming spread damage, as there is no guarantee a healer will be nearby.</p></td></tr>
-</table>
-</details>
-<details markdown=block>
-<summary><b>[Fate Calibration β]</b> How did someone get hit with two J Jumps?</summary>
-<table>
-  <tr><td><p>This happens when either the Dark Beacon, or the Dark player with no tether forgets to go to the edge of the arena to bait the jump.</p><p>The Alexander clones target the furthest players from them to jump to- if either player forgets to bait this, then the Dark player with the blue tether (who is south) becomes the furthest player for <b>two</b> of the Alexanders.</p></td></tr>
 </table>
 </details>
 <details markdown=block>
@@ -427,5 +409,26 @@ Note that DoTs will continue to tick even after the player has been imprisoned.
     </ul>
   </p>
   <p><a href="https://na.finalfantasyxiv.com/lodestone/topics/detail/c73cd284013587066d8f9e697fab1db9f007372c/">Patch 6.1</a> fixed this by adding a delay from when players lose control of their character, to when the forced march starts. Now, if you try to jump, this delay will cause the forced march to begin only after your character lands, and you will march the full distance out of the arena.</p></td></tr>
+</table>
+</details>
+
+## Troubleshooting
+
+<details markdown=block>
+<summary><b>[Divine Retribution]</b> What is this? What happened?</summary>
+<table>
+  <tr><td><p>This happens when either a Light player touches the Light Beacon, or a Dark player moves too far away from the Dark Beacon.</p></td></tr>
+</table>
+</details>
+<details markdown=block>
+<summary><b>[Collective Reprobation (stacks)]</b> Why did the party wipe? What is "Faithlessness"?</summary>
+<table>
+  <tr><td><p>The stacks have an anti-cheese mechanic built into them, and cannot be taken solo.</p><p>When a stack is solo'ed (even with invuln), raid-wide damage called "Faithlessness" is triggered, which wipes the raid.</p></td></tr>
+</table>
+</details>
+<details markdown=block>
+<summary><b>[Fate Calibration β]</b> How did someone get hit with two J Jumps?</summary>
+<table>
+  <tr><td><p>This happens when either the Dark Beacon, or the Dark player with no tether forgets to go to the edge of the arena to bait the jump.</p><p>The Alexander clones target the furthest players from them to jump to- if either player forgets to bait this, then the Dark player with the blue tether (who is south) becomes the furthest player for <b>two</b> of the Alexanders.</p></td></tr>
 </table>
 </details>
