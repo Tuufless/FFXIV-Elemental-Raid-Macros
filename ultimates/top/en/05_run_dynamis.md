@@ -406,7 +406,7 @@ From here, we finally reach the last part of Run, Dynamis: Sigma which is the pa
   <tr>
     <td width="50%"><p><b>7.</b> Omega-F will spawn opposite two Right Arm Units and Omega's Rear Power Unit in the center.</p><p>Use Omega-F as North, and note whether Omega-F is in her blade-legs stance or not.</p>
     <p>Identify three players to go to Omega-F with the following priority:</p>
-    <p><b>Omega-F:</b> MT ST H1 H2 D1 D2 D3 D4 <b>:Opposite</b></p>
+    <p><b>Omega-F:</b> H1 MT ST D1 D2 D3 D4 H2<b>:Opposite</b></p>
     <p>These players must:</p>
     <ul>
       <li>Each have one stack of Dynamis.</li>
@@ -577,10 +577,10 @@ Like Blue Screen, Omega-F **must** be brought to under 20% HP by the end of Blin
 </table>
 </details>
 <details markdown=block>
-<summary><b>[Hello, World (Sigma)]</b> Why the THD priority, and why should tanks take the Arm lasers if possible?</summary>
+<summary><b>[Hello, World (Sigma)]</b> Why the HTDH priority, and why should tanks take the Arm lasers if possible?</summary>
 <table>
-  <tr><td><p>This is done to try and avoid a scenario where tanks are the ones taking Beetle Omega's tethers during the last set of Hello, Worlds in Run: Dynamis (Omega Version).</p>
-  <p>If a tank ends up taking a tether, the Max HP debuff will wear off, and the tank will need to be topped up for the last set of Solar Ray tankbusters. While doable, it is rather annoying to deal with.</p>
+  <tr><td><p>The goal is to avoid a scenario where tanks are the ones taking Beetle Omega's tethers during the last set of Hello, Worlds in Run: Dynamis (Omega Version).</p>
+  <p>This is because if a tank ends up taking a tether, the Max HP debuff will wear off, and the tank will need to be topped up for the last set of Solar Ray tankbusters. While doable, it is rather annoying to deal with.</p>
   <p>To ensure a tank will not take a tether at the end of Omega, that player must enter Omega with just one stack of Dynamis, which means they must miss <em>either</em> the Dynamis stack from Delta, <em>or</em> the Dynamis stack from Sigma.</p>
   <p>If a tank is going to Omega-F, that implies that they <em>already</em> have a Dynamis stack from Delta, so we want them to miss getting a Dynamis stack from Sigma (baiting the Arm lasers) to guarantee they will not take the tethers at the end of Omega.</p>
   <p>While you cannot <em>guarantee</em> that a tank will <em>never</em> take the tethers (since a tank can be extremely unlucky and be assigned three Hello, World debuffs), this at least greatly reduces the chance of that happening.</p></td></tr>
