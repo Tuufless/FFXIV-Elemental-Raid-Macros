@@ -18,28 +18,31 @@ This phase requires planning out and coordinating mitigations. One such mitigati
 
 <table>
   <tr>
+    <td colspan="2">All with H2 shields, H2 30s, and:</td>
+  </tr>
+  <tr>
     <td><b>Cosmo Memory</b></td>
-    <td><p>MT Reprisal, MT 90s, H2 shields, H2 30s, ST LB3, D1</p></td>
+    <td><p>Tank LB3, MT 90s, ST Reprisal, D1</p><p><em>(Tank LB priority: WAR > DRK > PLD > GNB)</em></p></td>
   </tr>
   <tr>
     <td><b>Cosmo Dive #1</b></td>
-    <td>ST Reprisal, ST 90s, H1 120s, H2 shields, H2 30s, D4</td>
+    <td>MT Reprisal, H2 120s, D2, D4</td>
   </tr>
   <tr>
     <td><b>Wave Cannon #1</b></td>
-    <td>MT Reprisal, H2 shields, H2 30s, H2 120s, D2, D3</td>
+    <td>ST Reprisal, ST 90s, D3</td>
   </tr>
   <tr>
     <td><b>Wave Cannon #2</b></td>
-    <td><p>MT 90s, ST Reprisal, H2 shields*, H2 30s, H2 120s, D1</p><p><em>* Expedient/Holos vs Consolation/Panhaima</em></p></td>
+    <td><p>MT Reprisal, MT 90s, H1 120s, D1</p></td>
   </tr>
   <tr>
     <td><b>Cosmo Dive #2</b></td>
-    <td><p>MT Reprisal, ST 90s, H2 shields, H2 30s*, D4</p><p><em>* Expedient/Holos vs Consolation/Panhaima</em></p></td>
+    <td><p>ST Reprisal, D2, D4</p></td>
   </tr>
   <tr>
     <td><b>Cosmo Meteor</b></td>
-    <td>ST Reprisal, H1 120s, H2 shields, H2 30s, D2, D3</td>
+    <td>MT Reprisal, ST 90s, H2 120s, D3</td>
   </tr>
 </table>
 
@@ -309,7 +312,7 @@ In particular, this final beam deals extra damage to the two front players, whic
 
  The catch this time as the Wave Cannon in the middle, as the party will now need to spread for the two sets of four beams while dodging the Cosmo Arrow.
 
- The final Wave Cannon beam resolves shortly after Cosmo Arrow finishes. We stack East to reduce movement for H2 and D4.
+ The final Wave Cannon beam resolves shortly after Cosmo Arrow finishes.
 
  <table>
   <th colspan="2" style="text-align:center">Inside first</th>
@@ -479,7 +482,7 @@ In particular, this final beam deals extra damage to the two front players, whic
     <td><img src="../images/06_alpha_omega/alpha_omega_3_10a.jpg"></td>
   </tr>
   <tr>
-    <td colspan="2"><p><b>11.</b> Stack together east (tanks in front) for the Wave Cannon</p></td>
+    <td colspan="2"><p><b>11.</b> Stack together South (tanks in front) for the Wave Cannon</p></td>
     <td colspan="2"><img src="../images/06_alpha_omega/alpha_omega_3_11.jpg"></td>
   </tr>
 </table>
