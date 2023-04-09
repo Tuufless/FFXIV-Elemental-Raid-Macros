@@ -129,11 +129,11 @@ This loop is repeated four times (so all players will have their go at each debu
   </tr>
   <tr>
     <td><img src="../images/03_omega_reconfigured/debuffs/overflow_code_smell.png"><img src="../images/03_omega_reconfigured/debuffs/critical_overflow_bug.png"><img src="../images/03_omega_reconfigured/debuffs/overflow_debugger.png"></td>
-    <td><p><b>Overflow Code Smell</b></p><ul><li>This is a 3 second debuff that acts as a grace period.</li><li>When the debuff expires, it turns into a Critical Overflow Bug.</li></ul><p><b>Critical Overflow Bug</b></p><ul><li>This debuff is often nicknamed "Defamation".</li><li>When the timer expires, a giant AoE (roughly the same size as the arena) centered on the player goes off.</li><li>Any players hit by this AoE get a fresh Critical Overflow Bug.</li><li>When the debuff expires, it turns into an Overflow Debugger buff.</li></ul><p><b>Overflow Debugger</b></p><ul><li>Blocks the player from receiving one instance of Critical Overflow.</li></ul></td>
+    <td><p><b>Overflow Code Smell</b></p><ul><li>This is a 3 second debuff that acts as a grace period.</li><li>When the debuff expires, it turns into a Critical Overflow Bug.</li></ul><p><b>Critical Overflow Bug</b></p><ul><li>This debuff is often nicknamed "Defamation".</li><li>When the timer expires, a giant AoE (roughly the same size as the arena) centered on the player goes off.</li><li>Any players hit by this AoE get a fresh Critical Overflow Bug.</li><li>When the debuff expires, it turns into an Overflow Debugger buff.</li></ul><p><b>Overflow Debugger</b></p><ul><li>The next time the player would receive a Critical Overflow Bug, the buff is consumed and blocks the player from getting the Critical Overflow Bug.</li></ul><p>This last detail is important, because Omega will cast "Critical Error" at the end of all four iterations, which will apply a Critical Overflow Bug on the entire party (which will then be blocked by everybody's Critical Overflow Debuggers).</p></td>
   </tr>
   <tr>
     <td><img src="../images/03_omega_reconfigured/debuffs/synchronization_code_smell.png"><img src="../images/03_omega_reconfigured/debuffs/critical_synchronization_bug.png"><img src="../images/03_omega_reconfigured/debuffs/synchronization_debugger.png"></td>
-    <td><p><b>Synchronization Code Smell</b></p><ul><li>This is a 3 second debuff that acts as a grace period.</li><li>When the debuff expires, it turns into a Critical Synchronization Bug.</li></ul><p><b>Critical Synchronization Bug</b></p><ul><li>When the timer expires, an AoE (roughly the same size as a tower) centered on the player goes off that is divided between all players hit.</li><li>This AoE should be shared with one other player.</li><li>Any players hit by this AoE get a fresh Critical Synchronization Bug.</li><li>When the debuff expires, it turns into an Synchronization Debugger buff.</li></ul><p><b>Synchronization Debugger</b></p><ul><li>Blocks the player from receiving one instance of Critical Synchronization.</li></ul></td>
+    <td><p><b>Synchronization Code Smell</b></p><ul><li>This is a 3 second debuff that acts as a grace period.</li><li>When the debuff expires, it turns into a Critical Synchronization Bug.</li></ul><p><b>Critical Synchronization Bug</b></p><ul><li>When the timer expires, an AoE (roughly the same size as a tower) centered on the player goes off that is divided between all players hit.</li><li>This AoE should be shared with one other player.</li><li>Any players hit by this AoE get a fresh Critical Synchronization Bug.</li><li>When the debuff expires, it turns into an Synchronization Debugger buff.</li></ul><p><b>Synchronization Debugger</b></p><ul><li>The next time the player would receive a Critical Synchronization Bug, the buff is consumed and blocks the player from getting the Critical Synchronization Bug.</li></ul></td>
   </tr>
   <tr>
     <td><img src="../images/03_omega_reconfigured/debuffs/underflow_code_smell.png"><img src="../images/03_omega_reconfigured/debuffs/critical_underflow_bug.png"><img src="../images/03_omega_reconfigured/debuffs/underflow_debugger.png"></td>
@@ -152,7 +152,7 @@ This loop is repeated four times (so all players will have their go at each debu
         <li>When passed, the player gains a Underflow Debugger buff.</li>
       </ul>
       <p><b>Underflow Debugger</b></p>
-      <ul><li>Prevents the player from receiving a Critical Underflow Bug.</li></ul></td>
+      <ul><li>The next time the player would receive a Critical Underflow Bug, the buff is consumed and blocks the player from getting Critical Underflow Bug.</li></ul></td>
   </tr>
   <tr>
     <td><img src="../images/03_omega_reconfigured/debuffs/performance_code_smell.png"><img src="../images/03_omega_reconfigured/debuffs/critical_performance_bug.png"><img src="../images/03_omega_reconfigured/debuffs/performance_debugger.png"></td>
@@ -170,7 +170,7 @@ This loop is repeated four times (so all players will have their go at each debu
       <li>When passed, the player gains a Performance Debugger buff.</li>
     </ul>
     <p><b>Performance Debugger</b></p>
-    <ul><li>Prevents the player from receiving a Critical Performance Bug.</li></ul></td>
+    <ul><li>The next time the player would receive a Critical Performance Bug, the buff is consumed and blocks the player from getting the Critical Performance Bug.</li></ul></td>
   </tr>
 </table>
 
