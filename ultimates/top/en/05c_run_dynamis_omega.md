@@ -90,7 +90,7 @@ Identifying the safe spots will take some practice. Nukemaru has compiled a coll
 
 <table>
   <tr>
-    <td width="50%"><p><b>7.</b> Omega then spawns at a random cardinal position, and tethers to two players. These are the same tethers from P1.</p><ul><li><b>Players with 3 stacks:</b> Take the tethers and stand beside Omega.</li><li><b>Everybody else:</b> Form up opposite Omega to resolve Hello, Worlds.</li></ul></td>
+    <td width="50%"><p><b>7.</b> Omega then spawns at a random cardinal position, and tethers to two players. These are the same tethers from P1.</p><ul><li><b>Players with 3 stacks:</b> Take the tethers and stand beside Omega.</li><li><p><b>Everybody else:</b> Form up opposite Omega to resolve Hello, Worlds.</p><p>The player with Hello, Near World can move away from the player with Hello, Distant World to ensure Near World doesn't jump to the Hello, Distant World player.</p></li></ul></td>
     <td><img src="../images/05_run_dynamis/run_dynamis_omega_07.jpg"></td>
   </tr>
   <tr>
