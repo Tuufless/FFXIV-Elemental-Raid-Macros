@@ -10,7 +10,7 @@ permalink: /ultimates/top/05_run_dynamis_delta/
 
 P5 is split up into three "trios"- Delta, Sigma, and Omega. Each trio involves a series of mechanics before ending with Hello, World debuffs resolving that give players stacks of Dynamis, needed to clear the final phase.
 
-The "big puzzle" in this phase is to resolve the Hello, Worlds such that **each player ends the phase with exactly 3 stacks of Dynamis**.
+The "big puzzle" in this phase is to resolve the Hello, Worlds such that **each player ends the phase with 3 stacks of Dynamis**.
 
 ## Solar Ray
 
@@ -246,6 +246,12 @@ This is the last part of the mechanic, and is where players will finally resolve
 <summary><b>[Hello, World]</b> Can Hello, World jump back to the original player?</summary>
 <table>
   <tr><td><p>Yes. If the original player with Hello, Near World or Hello, Distant World is the nearest (or furthest) player after the first bounce, it will bounce back to the original player, killing them.</p></td></tr>
+</table>
+</details>
+<details markdown=block>
+<summary><b>[Hello, World]</b> What happens if a player that already has three stacks of Dynamis gets a Hello, World jump?</summary>
+<table>
+  <tr><td><p>Nothing- Dynamis is capped at three stacks.</p></td></tr>
 </table>
 </details>
 <!-- <details markdown=block>
