@@ -10,9 +10,9 @@ permalink: /ultimates/top/05_run_dynamis_omega/
 
 Run: Dynamis (Omega Version) can be split down into the following three blocks:
 
-1. Dodging AoEs
-2. Hello, World #1 with Oversampled Wave Cannon
-3. Hello, World #2 with tethers
+1. [Dodging AoEs](#1-dodging-aoes)
+2. [Hello, World #1 with Oversampled Wave Cannon](#2-first-hello-world-with-monitors)
+3. [Hello, World #2 with tethers](#3-second-hello-world-with-tethers)
 
 ## 1. Dodging AoEs
 
@@ -77,7 +77,8 @@ Identifying the safe spots will take some practice. Nukemaru has compiled a coll
       <li>Player(s) with with two Dynamis stacks and Second in Line <b>must</b> take Omega's monitors.</li>
       <li>Player(s) with with two Dynamis stacks and First in Line, <b>cannot</b> take Omega's monitors <em>(because they'll resolve their Hello, World instead)</em>.</li>
     </ul>
-    <p><em>In this example, MT ST, D1, and D2 each have two stacks of Dynamis.</em></p><ul><li><em>D2 has Second in Line, so they must take Omega's monitor.</em></li><li><em>ST has first in Line, so they cannot take Omega's monitor.</em></li><li><em>Either the MT or D1 can be the second player to take Omega's monitor.</em></li></ul></td>
+    <p><em>In this example, H1, D2, D3, and D4 each have two stacks of Dynamis.</em></p><ul><li><em>D2 has Second in Line, so they <b>must</b> take Omega's monitor.</em></li><li><em>H1 has First in Line, so they <b>cannot</b> take Omega's monitor.</em></li><li><em>Either D3 or D4 can be the second player to take Omega's monitor.</em></li></ul>
+    <p>Once everyone has taken up their positions, the player with Hello, Near World can move a little bit away from the player with Hello, Distant World to ensure Hello, Near World jumps to the correct players.</p></td>
     <td><img src="../images/05_run_dynamis/run_dynamis_omega_05.jpg"></td>
   </tr>
   <tr>
@@ -90,7 +91,7 @@ Identifying the safe spots will take some practice. Nukemaru has compiled a coll
 
 <table>
   <tr>
-    <td width="50%"><p><b>7.</b> Omega then spawns at a random cardinal position, and tethers to two players. These are the same tethers from P1.</p><ul><li><b>Players with 3 stacks:</b> Take the tethers and stand beside Omega.</li><li><p><b>Everybody else:</b> Form up opposite Omega to resolve Hello, Worlds.</p><p>The player with Hello, Near World can move away from the player with Hello, Distant World to ensure Near World doesn't jump to the Hello, Distant World player.</p></li></ul></td>
+    <td width="50%"><p><b>7.</b> Omega then spawns at a random cardinal position, and tethers to two players. These are the same tethers from P1.</p><ul><li><b>Players with 3 stacks:</b> Take the tethers and stand beside Omega.</li><li><p><b>Everybody else:</b> Form up opposite Omega to resolve Hello, Worlds.</p><p>Similarly here, the player with Hello, Near World can move away from the player with Hello, Distant World to ensure Near World jumps to the correct players.</p></li></ul></td>
     <td><img src="../images/05_run_dynamis/run_dynamis_omega_07.jpg"></td>
   </tr>
   <tr>

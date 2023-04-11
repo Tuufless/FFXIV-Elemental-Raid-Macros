@@ -8,11 +8,11 @@ permalink: /ultimates/top/05_run_dynamis_sigma/
 
 # Run: Dynamis (Sigma Version)
 
-Sigma is split into three parts:
+Run: Dynamis (Sigma Version) can be broken down into three parts:
 
-1. Wave Cannons and Lasers
-2. Mid/Remote Glitch and Towers
-3. Hello, World
+1. [Wave Cannons and Lasers](#1-wave-cannons-and-lasers)
+2. [Mid/Remote Glitch and knockback towers](#2-knockback-towers)
+3. [Hello, World](#3-hello-world-sigma)
 
 ## 1. Wave Cannons and Lasers
 
@@ -65,93 +65,27 @@ Sigma is split into three parts:
     <td><img src="../images/05_run_dynamis/run_dynamis_sigma_03.jpg"></td>
   </tr>
   <tr>
-    <td><b>4.</b> Lasers and Wave Cannons resolve.</td>
+    <td><p><b>4.</b> Lasers and Wave Cannons resolve.</p><p><b>Note which waymark you are standing besides for the next section.</b></p></td>
     <td><img src="../images/05_run_dynamis/run_dynamis_sigma_04.jpg"></td>
   </tr>
 </table>
 
 ## 2. Knockback Towers
 
-From here, the next step are the towers with Mid/Remote Glitch.
+The next step are the towers with Mid/Remote Glitch.
 
-There are **three** different strategies to resolve this.
-
-### Waymark strat
-
-This strat is probably the simplest to explain- it assigns players to towers based on the waymark they were standing at during the previous segment with the cone AoEs and hand lasers.
+There are several strategies to deal with this, but we have chosen to go with a strategy that assigns players to towers based on the waymarks they were standing at at the end of the previous section.
 
 <table>
+  <tr>
+    <td colspan="2"><p><b>5.</b> Towers will spawn along the edge of the arena.</p><ul><li>If players have <b>Remote Glitch</b>, five towers will spawn.</li><li>If players have <b>Mid Glitch</b>, six towers will spawn.</li></ul><p>The towers will spawn in a fixed formation, oriented either to where Omega-M was standing before, or directly opposite.</p><p><b>Identify your tower.</b></p></td>
+  </tr>
   <tr>
     <td width="50%"><img src="../images/05_run_dynamis/run_dynamis_sigma_waymark_01a.jpg"></td>
     <td><img src="../images/05_run_dynamis/run_dynamis_sigma_waymark_01b.jpg"></td>
   </tr>
-</table>
-
-### Nukemaru's strat
-
-My group is currently going with Nukemaru's strat to resolve the knockback towers. It resolves fairly similarly to the Waymark assignment, except which tower players take depend on whether the towers flipped.
-
-{% include youtube.html id="3x-_d8RZJXE?start=211" %}
-
-<table>
   <tr>
-    <td width="50%"><p><b>5.</b> After the Wave Cannons and lasers go off, the players E/W rotate clockwise to stand N/S.</p><p>These four players (the players that were originally at the cardinal positions) will be responsible for taking the N/S towers.</p><ul><li>The players that started N/S will be responsible for the <b>west-side</b> towers.</li><li>The players that started W/E will be responsible for the <b>east-side</b> towers.</li></ul><p>This effectively splits the party into two- four players making the <b>cross</b> (tethers marked in red), and four players going <b>north-to-south</b> (tethers marked in blue).</p></td>
-    <td><img src="../images/05_run_dynamis/run_dynamis_sigma_nukemaru_01.jpg"></td>
-  </tr>
-  <tr>
-    <td colspan="2">
-    <p><b>6.</b> Towers spawn relative to either North or South, with four towers together on one side.</p>
-    <p>The four players at intercardinal positions <b>maintain their formation</b> and take the side with four towers, "squashing" their "X-shaped tethers" (tethers drawn in red).</p>
-    <p>The two cardinal players at the star's "point" take the tower(s) there.</p>
-    <p>The remaining two cardinal players (which will be on the side with four towers) take either the mid-range, or far-range towers, depending on whether you have Mid or Remote Glitch (tethers drawn in blue).</p>
-    <p>This process works regardless of whether the towers flipped.</p></td>
-  </tr>
-  <tr>
-    <td><img src="../images/05_run_dynamis/run_dynamis_sigma_nukemaru_02a.jpg"></td>
-    <td><img src="../images/05_run_dynamis/run_dynamis_sigma_nukemaru_02b.jpg"></td>
-  </tr>
-  <tr>
-    <td><img src="../images/05_run_dynamis/run_dynamis_sigma_nukemaru_03a.jpg"></td>
-    <td><img src="../images/05_run_dynamis/run_dynamis_sigma_nukemaru_03b.jpg"></td>
-  </tr>
-  <tr><td colspan="2"><p>Note in these examples, D3 and D4 are always on the "more north" side, while D1 and H1 are "more south" side of the four towers.</p><p>MT and H2 also stay on the north side, relative to ST and D2, so players do not need to reorient themselves in the event the towers flip.</p></td></tr>
-</table>
-
-### Heavensfall-style
-
-The third method for resolving towers sort of mirrors how Heavensfall Trio is resolved in the Unending Coil of Bahamut.
-
-<table>
-  <tr>
-    <td width="50%"><p><b>5.</b> Identify your clockwise (red numbers) or anti-clockwise (blue numbers) position relative to North (where Omega-M is).</p><ul><li>Clockwise players <b>include</b> North</li><li>Anti-clockwise players <b>exclude</b> North.</li></ul>
-    </td>
-    <td><img src="../images/05_run_dynamis/run_dynamis_sigma_heavensfall_01.jpg"></td>
-  </tr>
-  <tr>
-    <td><p><b>6.</b> Towers spawn relative to <b>either North or South</b>.</p>
-    <ul>
-      <li>If players have Mid Glitch, six towers will spawn.</li>
-      <li>If players have Remote Glitch, five towers will spawn.</li>
-    </ul>
-    <p>Come back to the center of the arena, and <b>orient yourself so that the "tip" of the star points upwards.</b></p><p>Omega-F teleports into the center of the arena and knocks back all players.</p>
-    <ul>
-      <li>
-        <p>If the party has <b>Remote Glitch</b>:</p>
-        <ul>
-          <li><b>Including the tip</b>, players take the 1st, 2nd, 3rd, and 4th clockwise and anti-clockwise towers in-order from the tip of the star.</li>
-          <li>Stand at the edge of the arena.</li>
-        </ul>
-      </li>
-      <li>
-        <p>If the party has <b>Mid Glitch</b>:</p>
-        <ul>
-          <li>Players take the 1st, 2nd, 3rd, and <b>5th</b> towers clockwise and anti-clockwise towers in-order from the tip of the star.</li>
-          <li>Stand in the middle of the towers.</li>
-        </ul>
-      </li>
-    </ul>
-    </td>
-    <td><img src="../images/05_run_dynamis/run_dynamis_sigma_heavensfall_02a.jpg"><img src="../images/05_run_dynamis/run_dynamis_sigma_heavensfall_02b.jpg"></td>
+    <td colspan="2"><p><b>7.</b> Move towards the center, and position yourself in front of your tower.</p><p>Omega-F then appears in the center of the arena, and knocks back all players towards the edge.</p><p>Stand either in the center of the towers (if Mid Glitch), or at the edge of the towers (if Remote Glitch).</p></td>
   </tr>
 </table>
 

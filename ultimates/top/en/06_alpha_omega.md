@@ -299,7 +299,7 @@ In particular, this final beam deals extra damage to the two front players, whic
     <td><img src="../images/06_alpha_omega/alpha_omega_2_5.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>6.</b> Stack up east (where H2 is), with both tanks in front to take the final shared beam.</p><p>This is a tankbuster, and all this will need to be heavily mitigated.</p></td>
+    <td><p><b>6.</b> Stack together south, with both tanks in front to take the final shared beam.</p><p>This is a tankbuster, and all this will need to be heavily mitigated.</p></td>
     <td><img src="../images/06_alpha_omega/alpha_omega_2_6.jpg"></td>
   </tr>
 </table>
