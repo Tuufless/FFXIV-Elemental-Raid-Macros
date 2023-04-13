@@ -97,11 +97,10 @@ From here, we finally reach the last part of Run, Dynamis: Sigma which is the pa
   <tr>
     <td width="50%"><p><b>7.</b> Omega-F will spawn at any cardinal or intercardinal position, with two Right Arm Units opposite, and Omega's Rear Power Unit in the center.</p><p>Use Omega-F as North, and note whether Omega-F is in her blade-legs stance or not.</p>
     <p>Identify three players to go to Omega-F with the following priority:</p>
-    <p><b>Omega-F:</b> H1 MT ST D1 D2 D3 D4 H2<b>:Opposite</b></p>
-    <p>These players must:</p>
+    <p style="text-align:center"><b>Omega-F:</b> H1 MT ST D1 D2 D3 D4 H2 <b>:Opposite</b></p>
     <ul>
-      <li>Each have one stack of Dynamis.</li>
-      <li>Must not have a Hello, World debuff.</li>
+      <li>At least two of these players must have one stack of Dynamis each.</li>
+      <li>None of these players can have a Hello, World debuff.</li>
     </ul>
     <p>The remaining five players go opposite Omega-F.</p>
     <ul>
@@ -124,7 +123,7 @@ From here, we finally reach the last part of Run, Dynamis: Sigma which is the pa
     <td><img src="../images/05_run_dynamis/run_dynamis_sigma_09.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>10.</b> Hello, World debuffs resolve along with the Right Arm Unit's lasers.</p><p>If there are any tanks that started by Omega-F, they should bait the Arm lasers if possible.</p><p>Done correctly:</p><ul><li>Four players will have one stack of Dynamis</li><li>The other four players will have two stacks of Dynamis.</li></ul></td>
+    <td><p><b>10.</b> Hello, World debuffs resolve along with the Right Arm Unit's lasers.</p><ul><li>If there are any tanks with one stack of Dynamis that started by Omega-F, they should bait the Arm lasers.</li><li>If there is anyone that started by Omega-F that does not have a stack of Dynamis, they must take the center position to receive Hello, Distant World.</li></ul><p>Done correctly:</p><ul><li>Four players will have one stack of Dynamis</li><li>The other four players will have two stacks of Dynamis.</li></ul></td>
     <td><img src="../images/05_run_dynamis/run_dynamis_sigma_10.jpg"></td>
   </tr>
 </table>
