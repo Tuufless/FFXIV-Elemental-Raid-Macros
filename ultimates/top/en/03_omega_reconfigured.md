@@ -364,3 +364,12 @@ PF currently resolves this using [Astoh's strat](https://twitter.com/Astoh_Shall
   <tr><td><p>Putting all four ranged players south <em>guarantees</em> that the southern player is a ranged, thus providing full melee uptime even in the scenario where all three monitor players are ranged, but the chances of this happening are 1/14.</p><p>Putting healers at the north side means that both extremeties will have ranged players in the average case, which allows them to go all the way to the edge of the arena to give the other players more room for error, the north-most monitor player in particular.</p><p>That being said, doing so means that a melee may have to disconnect from the boss in the worst case scenario, but this is an acceptable scenario given its likelihood.</p></td></tr>
 </table>
 </details>
+
+## Troubleshooting
+
+<details markdown=block>
+<summary><b>[Cascading Latent Defect/Latent Performance Defect]</b> Why did we wipe to this even though we took the towers correctly?</summary>
+<table>
+  <tr><td><p>Someone picked up Critical Performance Bug (the blue Nisi) or Critical Underflow Bug (the red Nisi) too late.</p><p>Taking the towers gives players a 10-second Cascading Latent Defect or Latent Performance Defect debuffs, and the Bug debuffs <b>must expire before</b> the Defects do, or the raid wipes.</p><p>If you passed/picked up the Bugs too late, they will not expire in time to cleanse the Defects before they explode and wipe the raid.</p></td></tr>
+</table>
+</details>
