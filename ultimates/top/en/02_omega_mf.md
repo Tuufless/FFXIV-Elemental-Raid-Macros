@@ -26,10 +26,6 @@ After a while, Omega-M and Omega-F will both cast Party Synergy, the first major
 
 ## Party Synergy
 
-<div style="background-color: #200 ; padding: 10px; border: 1px solid;">
-<b>UNDER CONSTRUCTION!</b>
-</div>
-
 <table>
   <tr>
     <td width="50%"><p><b>1.</b> Line-up in your light parties from north-to-south.</p></td>

@@ -36,6 +36,11 @@ Run: Dynamis (Omega Version) can be split down into the following three blocks:
 </table>
 
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+<p><b>Tip:</b> Omega-F will auto-attack a total of eight times during this whole sequence, and tanks cannot use cooldowns to mitigate them because of the upcoming Solar Ray.</p><p>Consider tank-swapping halfway (around the first AoE dodge) to split the auto-attack damage between the two tanks.</p></div>
+
+Identifying the safe spots will take some practice.
+
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
 <details markdown="block">
 <summary><b>[Click to Expand] Safe spots</b></summary>
 <table>
@@ -63,7 +68,7 @@ Run: Dynamis (Omega Version) can be split down into the following three blocks:
 </details>
 </div>
 
-Identifying the safe spots will take some practice. Nukemaru has compiled a collection of clips which may help:
+Nukemaru has compiled a collection of clips which may help:
 
 {% include youtube.html id="tkFKT_uGLGE" %}
 

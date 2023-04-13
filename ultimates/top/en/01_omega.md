@@ -148,12 +148,6 @@ Omega will target the two **furthest** players for 120-degree tankbuster cleaves
 
 Omega will then target the three random non-tank players with a red marker for Wave Cannon Kyrios.
 
-<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
-<b>In PF:</b><ul>
-  <li>Check the spread positions. The healer and ranged DPS positions are sometimes swapped.</li>
-</ul>
-</div>
-
 <table>
   <tr>
     <td width="50%"><p><b>16.</b> Both tanks stack north, <b>outside</b> Omega's targeting circle and use their invulnerabilities.</p><p>This gives enough space for the rest of the party spreads around the south half of the arena <b>inside</b> of Omega's targeting circle.</p><p>Three random (non-tank) players will be selected for the first set of Wave Cannons.</p></td>
