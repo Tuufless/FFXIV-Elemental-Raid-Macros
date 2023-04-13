@@ -110,13 +110,7 @@ Cosmo Dive targets the two closest players with a high-damage AoE (which should 
     <td><img src="../images/06_alpha_omega/alpha_omega_1_02a.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>3.</b> Inside AoEs resolve.</p></td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_1_03b.jpg"></td>
-    <td><p><b>3.</b> Outside AoEs resolve.</p></td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_1_03a.jpg"></td>
-  </tr>
-  <tr>
-    <td><p><b>4.</b> Dodge AoEs.</p>
+    <td><p><b>3.</b> Inside AoEs resolve.</p>
       <ol>
         <li><b>In</b></li>
         <li style="color:grey">Wait</li>
@@ -126,11 +120,34 @@ Cosmo Dive targets the two closest players with a high-damage AoE (which should 
         <li style="color:grey">In</li>
       </ol>
     </td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_1_04b.jpg"></td>
-    <td><p><b>4.</b> Dodge AoEs.</p>
+    <td><img src="../images/06_alpha_omega/alpha_omega_1_03b.jpg"></td>
+    <td><p><b>3.</b> Outside AoEs resolve.</p>
       <ol>
         <li><b>Out</b></li>
         <li style="color:grey">Wait</li>
+        <li style="color:grey">In</li>
+        <li style="color:grey">Out (spread)</li>
+        <li style="color:grey">In</li>
+      </ol>
+    </td>
+    <td><img src="../images/06_alpha_omega/alpha_omega_1_03a.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>4.</b> Dodge AoEs.</p>
+      <ol>
+        <li style="color:grey">In</li>
+        <li><b>Wait</b></li>
+        <li style="color:grey">Out</li>
+        <li style="color:grey">Wait</li>
+        <li style="color:grey">Out (spread)</li>
+        <li style="color:grey">In</li>
+      </ol>
+    </td>
+    <td><img src="../images/06_alpha_omega/alpha_omega_1_04b.jpg"></td>
+    <td><p><b>4.</b> Dodge AoEs.</p>
+      <ol>
+        <li style="color:grey">Out</li>
+        <li><b>Wait</b></li>
         <li style="color:grey">In</li>
         <li style="color:grey">Out (spread)</li>
         <li style="color:grey">In</li>
@@ -142,8 +159,8 @@ Cosmo Dive targets the two closest players with a high-damage AoE (which should 
     <td><p><b>5.</b> Dodge AoEs.</p>
       <ol>
         <li style="color:grey">In</li>
-        <li><b>Wait</b></li>
-        <li style="color:grey">Out</li>
+        <li style="color:grey">Wait</li>
+        <li><b>Out</b></li>
         <li style="color:grey">Wait</li>
         <li style="color:grey">Out (spread)</li>
         <li style="color:grey">In</li>
@@ -153,8 +170,8 @@ Cosmo Dive targets the two closest players with a high-damage AoE (which should 
     <td><p><b>5.</b> Dodge AoEs.</p>
       <ol>
         <li style="color:grey">Out</li>
-        <li><b>Wait</b></li>
-        <li style="color:grey">In</li>
+        <li style="color:grey">Wait</li>
+        <li><b>In</b></li>
         <li style="color:grey">Out (spread)</li>
         <li style="color:grey">In</li>
       </ol>
@@ -166,8 +183,8 @@ Cosmo Dive targets the two closest players with a high-damage AoE (which should 
       <ol>
         <li style="color:grey">In</li>
         <li style="color:grey">Wait</li>
-        <li><b>Out</b></li>
-        <li style="color:grey">Wait</li>
+        <li style="color:grey">Out</li>
+        <li><b>Wait</b></li>
         <li style="color:grey">Out (spread)</li>
         <li style="color:grey">In</li>
       </ol>
@@ -177,8 +194,8 @@ Cosmo Dive targets the two closest players with a high-damage AoE (which should 
       <ol>
         <li style="color:grey">Out</li>
         <li style="color:grey">Wait</li>
-        <li><b>In</b></li>
-        <li style="color:grey">Out (spread)</li>
+        <li style="color:grey">In</li>
+        <li><b>Out (spread)</b></li>
         <li style="color:grey">In</li>
       </ol>
     </td>
@@ -190,8 +207,8 @@ Cosmo Dive targets the two closest players with a high-damage AoE (which should 
         <li style="color:grey">In</li>
         <li style="color:grey">Wait</li>
         <li style="color:grey">Out</li>
-        <li><b>Wait</b></li>
-        <li style="color:grey">Out (spread)</li>
+        <li style="color:grey">Wait</li>
+        <li><b>Out (spread)</b></li>
         <li style="color:grey">In</li>
       </ol>
     </td>
@@ -201,8 +218,8 @@ Cosmo Dive targets the two closest players with a high-damage AoE (which should 
         <li style="color:grey">Out</li>
         <li style="color:grey">Wait</li>
         <li style="color:grey">In</li>
-        <li><b>Out (spread)</b></li>
-        <li style="color:grey">In</li>
+        <li style="color:grey">Out (spread)</li>
+        <li><b>In</b></li>
       </ol>
     </td>
     <td><img src="../images/06_alpha_omega/alpha_omega_1_07a.jpg"></td>
@@ -214,8 +231,8 @@ Cosmo Dive targets the two closest players with a high-damage AoE (which should 
         <li style="color:grey">Wait</li>
         <li style="color:grey">Out</li>
         <li style="color:grey">Wait</li>
-        <li><b>Out (spread)</b></li>
-        <li style="color:grey">In</li>
+        <li style="color:grey">Out (spread)</li>
+        <li><b>In</b></li>
       </ol>
     </td>
     <td><img src="../images/06_alpha_omega/alpha_omega_1_08b.jpg"></td>
@@ -231,25 +248,10 @@ Cosmo Dive targets the two closest players with a high-damage AoE (which should 
     <td><img src="../images/06_alpha_omega/alpha_omega_1_08a.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>9.</b> Dodge AoEs.</p>
-      <ol>
-        <li style="color:grey">In</li>
-        <li style="color:grey">Wait</li>
-        <li style="color:grey">Out</li>
-        <li style="color:grey">Wait</li>
-        <li style="color:grey">Out (spread)</li>
-        <li><b>In</b></li>
-      </ol>
+    <td><p><b>9.</b> Take up Cosmo Dive positions.</p>
     </td>
     <td><img src="../images/06_alpha_omega/alpha_omega_1_09b.jpg"></td>
-    <td><p><b>9.</b> Last AoEs.</p>
-      <ol>
-        <li style="color:grey">Out</li>
-        <li style="color:grey">Wait</li>
-        <li style="color:grey">In</li>
-        <li style="color:grey">Out (spread)</li>
-        <li style="color:grey">In</li>
-      </ol>
+    <td><p><b>9.</b> Last AoEs.</p><p>Take up Cosmo Dive positions.</p>
     </td>
     <td><img src="../images/06_alpha_omega/alpha_omega_1_09a.jpg"></td>
   </tr>
@@ -330,13 +332,7 @@ In particular, this final beam deals extra damage to the two front players, whic
     <td><img src="../images/06_alpha_omega/alpha_omega_3_02a.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>3.</b> Inside AoEs resolve.</p></td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_3_03b.jpg"></td>
-    <td><p><b>3.</b> Outside AoEs resolve.</p></td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_3_03a.jpg"></td>
-  </tr>
-  <tr>
-    <td><p><b>4.</b> Dodge AoEs.</p>
+    <td><p><b>3.</b> Inside AoEs resolve.</p>
       <ol>
         <li><b>In</b></li>
         <li style="color:grey">Wait</li>
@@ -346,11 +342,34 @@ In particular, this final beam deals extra damage to the two front players, whic
         <li style="color:grey">In</li>
       </ol>
     </td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_3_04b.jpg"></td>
-    <td><p><b>4.</b> Dodge AoEs.</p>
+    <td><img src="../images/06_alpha_omega/alpha_omega_3_03b.jpg"></td>
+    <td><p><b>3.</b> Outside AoEs resolve.</p>
       <ol>
         <li><b>Out</b></li>
         <li style="color:grey">Wait</li>
+        <li style="color:grey">In</li>
+        <li style="color:grey">Out (spread)</li>
+        <li style="color:grey">In</li>
+      </ol>
+    </td>
+    <td><img src="../images/06_alpha_omega/alpha_omega_3_03a.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>4.</b> Dodge AoEs.</p>
+      <ol>
+        <li style="color:grey">In</li>
+        <li><b>Wait</b></li>
+        <li style="color:grey">Out</li>
+        <li style="color:grey">Wait</li>
+        <li style="color:grey">Out (spread)</li>
+        <li style="color:grey">In</li>
+      </ol>
+    </td>
+    <td><img src="../images/06_alpha_omega/alpha_omega_3_04b.jpg"></td>
+    <td><p><b>4.</b> Dodge AoEs.</p>
+      <ol>
+        <li style="color:grey">Out</li>
+        <li><b>Wait</b></li>
         <li style="color:grey">In</li>
         <li style="color:grey">Out (spread)</li>
         <li style="color:grey">In</li>
@@ -362,8 +381,8 @@ In particular, this final beam deals extra damage to the two front players, whic
     <td><p><b>5.</b> Dodge AoEs.</p>
       <ol>
         <li style="color:grey">In</li>
-        <li><b>Wait</b></li>
-        <li style="color:grey">Out</li>
+        <li style="color:grey">Wait</li>
+        <li><b>Out</b></li>
         <li style="color:grey">Wait</li>
         <li style="color:grey">Out (spread)</li>
         <li style="color:grey">In</li>
@@ -373,8 +392,8 @@ In particular, this final beam deals extra damage to the two front players, whic
     <td><p><b>5.</b> Dodge AoEs.</p>
       <ol>
         <li style="color:grey">Out</li>
-        <li><b>Wait</b></li>
-        <li style="color:grey">In</li>
+        <li style="color:grey">Wait</li>
+        <li><b>In</b></li>
         <li style="color:grey">Out (spread)</li>
         <li style="color:grey">In</li>
       </ol>
@@ -386,8 +405,8 @@ In particular, this final beam deals extra damage to the two front players, whic
       <ol>
         <li style="color:grey">In</li>
         <li style="color:grey">Wait</li>
-        <li><b>Out</b></li>
-        <li style="color:grey">Wait</li>
+        <li style="color:grey">Out</li>
+        <li><b>Wait</b></li>
         <li style="color:grey">Out (spread)</li>
         <li style="color:grey">In</li>
       </ol>
@@ -397,8 +416,8 @@ In particular, this final beam deals extra damage to the two front players, whic
       <ol>
         <li style="color:grey">Out</li>
         <li style="color:grey">Wait</li>
-        <li><b>In</b></li>
-        <li style="color:grey">Out (spread)</li>
+        <li style="color:grey">In</li>
+        <li><b>Out (spread)</b></li>
         <li style="color:grey">In</li>
       </ol>
     </td>
@@ -410,8 +429,8 @@ In particular, this final beam deals extra damage to the two front players, whic
         <li style="color:grey">In</li>
         <li style="color:grey">Wait</li>
         <li style="color:grey">Out</li>
-        <li><b>Wait</b></li>
-        <li style="color:grey">Out (spread)</li>
+        <li style="color:grey">Wait</li>
+        <li><b>Out (spread)</b></li>
         <li style="color:grey">In</li>
       </ol>
     </td>
@@ -421,8 +440,8 @@ In particular, this final beam deals extra damage to the two front players, whic
         <li style="color:grey">Out</li>
         <li style="color:grey">Wait</li>
         <li style="color:grey">In</li>
-        <li><b>Out (spread)</b></li>
-        <li style="color:grey">In</li>
+        <li style="color:grey">Out (spread)</li>
+        <li><b>In</b></li>
       </ol>
     </td>
     <td><img src="../images/06_alpha_omega/alpha_omega_3_07a.jpg"></td>
@@ -434,8 +453,8 @@ In particular, this final beam deals extra damage to the two front players, whic
         <li style="color:grey">Wait</li>
         <li style="color:grey">Out</li>
         <li style="color:grey">Wait</li>
-        <li><b>Out (spread)</b></li>
-        <li style="color:grey">In</li>
+        <li style="color:grey">Out (spread)</li>
+        <li><b>In</b></li>
       </ol>
     </td>
     <td><img src="../images/06_alpha_omega/alpha_omega_3_08b.jpg"></td>
@@ -556,3 +575,12 @@ From here, Alpha Omega will cast Magic Number, which *must* be mitigated with a 
 </table>
 
 Alpha Omega will do a second Magic Number (requiring another Tank into Healer LB3) before casting Run: \*\*\*\*mi\* as the hard enrage of the fight.
+
+## Frequently Asked Questions
+
+<details markdown=block>
+<summary><b>[Wave Cannon 2]</b> Why do we use H1 120s mitigation here? Don't we lose a use over the entire phase?</summary>
+<table>
+  <tr><td><p>We lose a use over the entire phase, but this is done to hedge against the bad case where the preceeding Cosmo Arrow starts with the outside AoEs first.</p><p>Because Wave Cannon takes such a long time to resolve, we would really like something that lasts long enough to mitigate both the individual beams and the party stack while the party is potentially split up.</p><p>Temperance and Neutral Sect meet these requirements.</p></td></tr>
+</table>
+</details>
