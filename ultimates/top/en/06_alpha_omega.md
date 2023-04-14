@@ -52,6 +52,10 @@ The above mitigation plan was made in the *absence* of jobs that provide more th
 
 Cosmo Memory is a Tank LB3 check- its damage *still* needs to be mitigated in addition to the Tank LB3.
 
+As far as priorities go, the tank that LB3s should go:
+
+WAR > DRK > PLD > GNB
+
 This will also convert everyone with three stacks of Quickening Dynamis into a stack of Brilliant Dynamis.
 
 <table>
@@ -578,6 +582,12 @@ Alpha Omega will do a second Magic Number (requiring another Tank into Healer LB
 
 ## Frequently Asked Questions
 
+<details markdown=block>
+<summary><b>[Cosmo Memory]</b> Why is the tank LB3 priority WAR > DRK > PLD > GNB?</summary>
+<table>
+  <tr><td><p>Which tank should LB3 is determined by who loses the least from doing so.</p><p>Because a WAR's and a DRK's burst is based on stacks with a very lenient timer (Inner Release and Delirium), it is very flexible.</p><p>WAR and DRK get to use their 1m cooldowns on time with the rest of the party and still get the full benefit of their cooldowns, losing only a couple of filler GCDs.</p><p>In contrast, PLD and GNB have their bursts on a timer (Fight or Flight and No Mercy), and their rotation revolves around getting as many attacks in that buff window as they can.</p><p>As a result, a PLD or GNB either has to desynchronise with the party raid buffs, or give up GCDs in their own window, neither of which are attractive choices.</p></td></tr>
+</table>
+</details>
 <details markdown=block>
 <summary><b>[Wave Cannon 2]</b> Why do we use H1 120s mitigation here? Don't we lose a use over the entire phase?</summary>
 <table>
