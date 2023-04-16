@@ -9,6 +9,11 @@ permalink: /3.0_heavensward/extreme_trials/zurvan/
 
 # Containment Bay Z1T9 (Extreme)
 
+## English
+```
+{% include_relative macros/zurvan.en.txt %}
+```
+
 ## Japanese
 ```
 {% include_relative macros/zurvan.jp.txt %}
