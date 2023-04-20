@@ -99,7 +99,12 @@ However, it is the harder of the two to learn, especially for players new to TEA
   </tr>
 </table>
 
-The movement for 1256 is as follows:
+To summarize the movement:
+
+- The first set of Limit Cuts will be resolved at the **3rd and 4th** explosion.
+- The second set of Limit Cuts will be resolved at the **7th and 8th** explosion.
+
+After each group resolves their first Limit Cut, the pair on the outside (that will resolve their Limit Cut next) and the pair on the inside (that just finished resolving their Limit Cut) swaps places.
 
 <table>
   <tr>
@@ -115,7 +120,7 @@ The movement for 1256 is as follows:
 	<td><img src="../images/limit_cut_1256/limit_cut_1256_03.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>4.</b> Fourth pair of explosions.</p><ul><li><b>3</b>: Move to where the fourth explosion was without crossing the line.</li><li><b>4</b>: Position yourself behind <b>1</b>, within the same "pizza slice".</li></ul></td>
+    <td><p><b>4.</b> Fourth pair of explosions.</p><ul><li><b>3</b>: Move to where the fourth explosion was without crossing the line.</li><li><b>4</b>: Position yourself behind <b>3</b>, within the same "pizza slice".</li></ul></td>
 	<td><img src="../images/limit_cut_1256/limit_cut_1256_04.jpg"></td>
   </tr>
   <tr>
