@@ -22,7 +22,7 @@ This phase requires planning out and coordinating mitigations. One such mitigati
   </tr>
   <tr>
     <td><b>Cosmo Memory</b></td>
-    <td><p>Tank LB3, MT 90s, ST Reprisal, D1</p><p><em>(Tank LB priority: WAR > DRK > PLD > GNB)</em></p></td>
+    <td><p>Tank LB3, MT 90s, ST Reprisal, D1</p><p><em>(Tank LB priority: WAR > PLD > DRK > GNB)</em></p></td>
   </tr>
   <tr>
     <td><b>Cosmo Dive #1</b></td>
@@ -54,7 +54,7 @@ Cosmo Memory is a Tank LB3 check- its damage *still* needs to be mitigated in ad
 
 As far as priorities go, the tank that LB3s should go:
 
-WAR > DRK > PLD > GNB
+WAR > PLD > DRK > GNB
 
 This will also convert everyone with three stacks of Quickening Dynamis into a stack of Brilliant Dynamis.
 
@@ -87,6 +87,9 @@ Before each mechanic combo starts, Alpha Omega will autoattack twice.
     <td><img src="../images/06_alpha_omega/alpha_omega_aa.jpg"></td>
   </tr>
 </table>
+
+<div style="background-color: #200 ; padding: 10px; border: 1px solid;">
+Auto-attacks go through tank invulns. Tanks whose invuln leaves them at 1HP will need to be healed to survive incoming auto-attacks.</div>
 
 ## Cosmo Arrow → Cosmo Dive
 
@@ -583,7 +586,13 @@ Alpha Omega will do a second Magic Number (requiring another Tank into Healer LB
 ## Frequently Asked Questions
 
 <details markdown=block>
-<summary><b>[Cosmo Memory]</b> Why is the tank LB3 priority WAR > DRK > PLD > GNB?</summary>
+<summary><b>[Death Wall]</b> Will the Death Wall kill you if you use an ability while still in it (similar to resurrection invulnerability)?</summary>
+<table>
+  <tr><td><p>No, it won't. The death wall activates based on time, not player activity.</p></td></tr>
+</table>
+</details>
+<details markdown=block>
+<summary><b>[Cosmo Memory]</b> Why is the tank LB3 priority WAR > PLD > DRK > GNB?</summary>
 <table>
   <tr><td><p>Which tank should LB3 is determined by who loses the least from doing so.</p><p>Because a WAR's and a DRK's burst is based on stacks with a very lenient timer (Inner Release and Delirium), it is very flexible.</p><p>WAR and DRK get to use their 1m cooldowns on time with the rest of the party and still get the full benefit of their cooldowns, losing only a couple of filler GCDs.</p><p>In contrast, PLD and GNB have their bursts on a timer (Fight or Flight and No Mercy), and their rotation revolves around getting as many attacks in that buff window as they can.</p><p>As a result, a PLD or GNB either has to desynchronise with the party raid buffs, or give up GCDs in their own window, neither of which are attractive choices.</p></td></tr>
 </table>
