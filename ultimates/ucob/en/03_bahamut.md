@@ -87,11 +87,11 @@ The two possible quotes Nael will use are:
 <table>
   <tr>
     <td>From on high I <b>descend</b>, the <b>moon</b> and <b>stars</b> to bring!</td>
-    <td>Raven's Dive → Lunar Dynamo → Meteor Stream</td>
+    <td><p>Raven's Dive → Lunar Dynamo → Meteor Stream</p><p><em>Spread → In → (Neurolinks) → Spread</em></p></td>
   </tr>
   <tr>
     <td>From <b>hallowed moon</b> I <b>descend</b>, a rain of <b>stars</b> to bring!</td>
-    <td>Lunar Dynamo → Raven's Dive → Meteor Stream</td>
+    <td><p>Lunar Dynamo → Raven's Dive → Meteor Stream</p><p><em>In → Spread → (Neurolinks) → Spread</em></p></td>
   </tr>
 </table>
 

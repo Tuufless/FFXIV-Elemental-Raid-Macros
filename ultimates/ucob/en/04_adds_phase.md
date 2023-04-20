@@ -8,24 +8,36 @@ permalink: /ultimates/ucob/04_adds/
 
 # Twintania + Nael deus Darnus
 
-The possible quotes Nael will use in this phase are:
+Commonly referred to as the "adds phase", this phase can be intimidating at first, but it's actually **less** chaotic compared to Nael's phase near the start of the fight.
+
+This phase is essentially a loop repeated twice:
+
+1. Plummet/Bahamut's Claw
+2. Liquid Hell
+3. Hatches → Twisters
+4. Nael's line → Twisters
+5. Megaflare → Death Sentence/Ravensbeak *(this swaps order on the second loop)*
+
+There are four possible quotes Nael will use in this phase. Note that the first mechanic will always be either Lunar Dynamo, or Iron Chariot.
+
+This is important, because Nael will always start with the opposite mechanic in the second loop.
 
 <table>
   <tr>
     <td>From <b>hallowed moon</b> I <b>descend</b>, upon <b>burning</b> earth to tread!</td>
-    <td>Lunar Dynamo → Raven's Dive → Thermionic Beam</td>
+    <td><p>Lunar Dynamo → Raven's Dive → Thermionic Beam</p><p><em>In → Spread → Stack</em></p></td>
   </tr>
   <tr>
     <td>From <b>hallowed moon</b> I bare <b>iron</b>, in my <b>descent</b> to wield!</td>
-    <td>Lunar Dynamo → Iron Chariot → Raven's Dive</td>
+    <td><p>Lunar Dynamo → Iron Chariot → Raven's Dive</p><p><em>In → Out → Spread</em></p></td>
   </tr>
   <tr>
     <td>Unbending <b>iron</b>, take <b>fire</b> and <b>descend</b>!</td>
-    <td>Iron Chariot → Thermionic Beam → Raven's Dive</td>
+    <td><p>Iron Chariot → Thermionic Beam → Raven's Dive</p><p><em>Out → Stack → Spread</em></p></td>
   </tr>
   <tr>
     <td>Unbending <b>iron</b>, <b>descend</b> with <b>fiery</b> edge!</td>
-    <td>Iron Chariot → Raven's Dive → Thermionic Beam</td>
+    <td><p>Iron Chariot → Raven's Dive → Thermionic Beam</p><p><em>Out → Spread → Stack</em></p></td>
   </tr>
 </table>
 
@@ -69,12 +81,12 @@ Note that because Nael is at the edge of the arena, ranged players can outrange 
 
 <table>
   <tr>
-    <td width="50%"><img src="../images/04_adds_phase/adds_06a.jpg"></td>
-    <td><img src="../images/04_adds_phase/adds_06b.jpg"></td>
+    <td width="50%"><p><em>Lunar Dynamo (In or outrange)</em></p><img src="../images/04_adds_phase/adds_06a.jpg"></td>
+    <td><p><em>Iron Chariot (Out)</em></p><img src="../images/04_adds_phase/adds_06b.jpg"></td>
   </tr>
   <tr>
-    <td><img src="../images/04_adds_phase/adds_06c.jpg"></td>
-    <td><img src="../images/04_adds_phase/adds_06d.jpg"></td>
+    <td><p><em>Raven's Dive (Spread)</em></p><img src="../images/04_adds_phase/adds_06c.jpg"></td>
+    <td><p><em>Thermionic Beam (Stack)</em></p><img src="../images/04_adds_phase/adds_06d.jpg"></td>
   </tr>
 </table>
 
@@ -86,7 +98,7 @@ Note that because Nael is at the edge of the arena, ranged players can outrange 
     <td><img src="../images/04_adds_phase/adds_07.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>8.</b> Carefully gather together back in the center of the arena, watching for Twisters <em>especially on Neurolinks</em>.</p><p>Nael will cast Megaflare, followed by the two bosses's major tankbusters (Death Sentence and Ravensclaw).</p><p>The vulnerabilities inflicted by these tankbusters enforce a tank swap; Provoke <em>but do not Shirk</em>.</p></td>
+    <td><p><b>8.</b> Carefully gather together back in the center of the arena, watching for Twisters <em>especially on Neurolinks</em>.</p><p>Nael will cast Megaflare, followed by the two bosses's major tankbusters (Death Sentence and Ravensclaw).</p><p>The vulnerabilities inflicted by these tankbusters enforce a tank swap; Provoke <em>but do not Shirk</em>.</p><p>The tanks will swap positions from here instead of the bosses (i.e: Twintania stays "west" and Nael stays "east")</p></td>
     <td><img src="../images/04_adds_phase/adds_08.jpg"></td>
   </tr>
 </table>
