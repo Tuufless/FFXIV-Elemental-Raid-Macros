@@ -112,7 +112,7 @@ Tanks should try to have minor cooldowns available for the Lightning passes.
 	<td><img src="../images/bjcc/bjcc_06.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>7. First Water/Thunder pass</b>.</p><p><ul><li>Water: Healer + at least two of <b>D2</b>, <b>D3</b>, <b>D4</b> (excluding whoever had Thunder)</li><li>Thunder: DPS → <b>ST</b></li><li><b>D1</b>: You may need to avoid the Thunder explosion by moving towards the <b>MT</b>.</li></ul></p></td>
+    <td><p><b>7. First Water/Thunder pass</b>.</p><p><ul><li>Water: Healer + at least two of <b>D2</b>, <b>D3</b>, <b>D4</b> (excluding whoever had Thunder)</li><li>Thunder: DPS → <b>ST</b></li><li><b>D1</b>: You may need to avoid the Thunder explosion by moving towards the <b>MT</b>.</li></ul><div style="background-color: #002 ; padding: 10px; border: 1px solid;"><p><b>Tip:</b> If tanks pop Rampart just before the first Water/Thunder, it will mitigate the Thunder, autoattacks from Cruise Chaser/Brute Justice, the upcoming Hidden Mine if the tanks are quick, <em>and</em> be back up in time for Double Rocket Punch at the end of the phase.</p></div></p></td>
 	<td><img src="../images/bjcc/bjcc_07.jpg"></td>
   </tr>
   <tr>
@@ -160,11 +160,11 @@ Tanks should try to have minor cooldowns available for the Lightning passes.
 	<td><img src="../images/bjcc/bjcc_11.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>12. Second Water + Lightning pass.</b></p><p><ul><li><b>Water:</b> All DPS</li><li><b>Thunder:</b> ST → MT</li></ul></p><p><ul><li><b>MT</b>: Face Cruise Chaser west after receiving Thunder.</li></ul></p><p>Keep in mind that Cruise Chaser will autoattack the MT after this Lightning pass.</p><p><b>Brute Justice casts Verdict</b>, which gives all players their Final Judgment Decree Nisi debuffs which determines the next two Nisi passes.</p></td>
+    <td><p><b>12. Second Water + Lightning pass.</b></p><p><ul><li><b>Water:</b> All DPS</li><li><b>Thunder:</b> ST → MT</li></ul></p><p><ul><li><b>MT</b>: Face Cruise Chaser west after receiving Thunder to prepare for the Plasma Shield.</li></ul></p><p>Keep in mind that Cruise Chaser will autoattack the MT after this Lightning pass.</p><p><b>Brute Justice casts Verdict</b>, which gives all players their Final Judgment Decree Nisi debuffs which determines the next two Nisi passes.</p></td>
 	<td><img src="../images/bjcc/bjcc_12.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>13.</b> Plasma Shield spawns. Tanks and Healers line up to form the Tollgate.</p><p><ul><li><b>MT:</b> Face Cruise Chaser west until Cruise Chaser starts casting Limit Cut (which will spawn the Plasma Shield).</li><li><b>ST:</b> <b>Stay close to Brute Justice</b> and point Brute Justice south to hit the waterspout with Flarethrower.</li><li><b>DPS:</b> Destroy the Plasma Shield. The Plasma Shield can <b>only be damaged from the front</b>.</li></ul><p></p></p></td>
+    <td><p><b>13.</b> Cruise Chaser casts "Limit Cut", which will spawn a Plasma Shield in front of Cruise Chaser.</p><p>Meanwhile, Brute Justice will prepare Flarethrower, which we will use to destroy the waterspout left behind by the 2nd Water.</p><p><ul><li><b>MT:</b> Face Cruise Chaser west until Cruise Chaser starts casting Limit Cut (which will spawn the Plasma Shield).</li><li><b>ST:</b> <b>Stay close to Brute Justice</b> and point Brute Justice south to hit the waterspout with Flarethrower.</li><li><b>DPS:</b> Destroy the Plasma Shield. The Plasma Shield can <b>only be damaged from the front</b>.</li></ul></p><p>Tanks and Healers line up to form the "tollgate" while the DPS destroys the Plasma Shield.</p></td>
 	<td><img src="../images/bjcc/bjcc_13.jpg"></td>
   </tr>
   <tr>
@@ -292,6 +292,12 @@ At this time, either all the tanks and healers have Nisi (who the DPS need to co
 <summary><b>[Hidden Mines]</b> Why don't we bait the Hidden Mines towards the outer edge of the arena? Doesn't that put the healers further away from Brute Justice so a ranged DPS doesn't bait a Hidden Mine by mistake?</summary>
 <table>
   <tr><td><p>The idea is to keep both bosses in the center. In particular, if the West mine is baited towards the edge, the MT has to pull Cruise Chaser closer to the edge in order to take the Hidden Mine, and doesn't leave much space for the DPS to fit in for the Plasma Shield.</p><p>Of course, you could have the MT and ST switch sides again to recenter the bosses, but that violates a different principle which is to try and keep the tanks and healers to their half of the arena as much as possible.</p></td></tr>
+</table>
+</details>
+<details markdown=block>
+<summary><b>[Plasma Shield]</b> Why are all four DPS on the Plasma Shield? Isn't that overkill?</summary>
+<table>
+  <tr><td><p>Yes, it's overkill.</p><p>You really only need three DPS to destroy the Plasma Shield in time, but this is a single point of failure and having all four DPS on the shield is insurance against someone targeting the wrong thing by accident, or one of the DPS angled too far from the shield's front so they don't do any damage.</p></td></tr>
 </table>
 </details>
 

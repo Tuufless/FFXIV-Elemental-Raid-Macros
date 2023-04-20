@@ -174,15 +174,21 @@ Remember that **all odd numbered players must face outside the arena and use Arm
 	<td><img src="../images/alex_prime/wormhole_08.jpg"></td>
   </tr>
   <tr>
-    <td><b>9.</b> Cruise Chaser cleaves <b>7</b>.</td>
+    <td><p><b>9.</b> Cruise Chaser cleaves <b>7</b>.</p>
+    <ul>
+      <li><b>1</b>, <b>2</b>: Resolve Void puddles.</li>
+      <li><b>3</b>, <b>4</b>, <b>5</b>, and <b>6</b>: Start moving to the center to prepare for Incinerating Heat.</li>
+    </ul></td>
 	<td><img src="../images/alex_prime/wormhole_09.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>10.</b> Cruise Chaser dashes <b>8</b>.</p><p><em>(</em><b>7</b><em> needs to either wait for Cruise Chaser to dash</em> before <em>moving to the center, or run</em> around <em> it instead.)</em></p></td>
+    <td><p><b>10.</b> Cruise Chaser dashes <b>8</b>.</p>
+    <div style="background-color: #200 ; padding: 10px; border: 1px solid;"><p><b>7</b> must either wait for Cruise Chaser to dash <em>before</em> moving to the center, or run <em>around</em> Cruise Chaser instead.</p></div>
+    <div style="background-color: #002 ; padding: 10px; border: 1px solid;"><p><b>Tip:</b> <b>8</b> doesn't <em>have</em> to resolve Super Blassty Charge south-east; they can resolve it south instead to be slightly closer to the Incinerating Heat stack.</p></div></td>
 	<td><img src="../images/alex_prime/wormhole_10.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>11.</b> Party makes three groups near each other in the middle for Incinerating Heat- far enough that it is easy to identify whether a swap is needed for Enumeration, but close enough for all party members to split the Incinerating Heat damage.</p><ul><li><b>D1, D3:</b> Stack a little bit west.</li><li><b>Tanks + Healers:</b> Stack together in the center.</li><li><b>D2, D4:</b> Stack a little bit east.</li></ul></td>
+    <td><p><b>11.</b> The party stacks in the middle for Incinerating Heat.</p><p>Stack in three groups far enough that it is easy to identify whether a swap is needed for Enumeration, but close enough for all party members to split the Incinerating Heat damage.</p><ul><li><b>D1, D3:</b> Stack a little bit west.</li><li><b>Tanks + Healers:</b> Stack together in the center.</li><li><b>D2, D4:</b> Stack a little bit east.</li></ul></td>
 	<td><img src="../images/alex_prime/wormhole_11.jpg"></td>
   </tr>
   <tr>
