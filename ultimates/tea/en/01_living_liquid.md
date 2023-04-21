@@ -61,31 +61,37 @@ Notable changes are:
 	<td><img src="../images/living_liquid/living_liquid_11.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>12.</b> 2nd Cascade. The party should reorient themselves to the new water puddles.</p><p><ul><li><b>MT, ST, D3, D4:</b> Stack together "north" to bait the telegraphed Protean Waves</li><li><b>H1, H2, D3, D4:</b> Stack together "south" to bait the telegraphed Protean Waves.</li><li><b>H1, H2:</b> Esuna Throttled players</li></ul></p></td>
+    <td><p><b>12.</b> 2nd Cascade. The party should reorient themselves to the new water puddles.</p>
+    <ul><li><b>MT, ST, D3, D4:</b> Stack together "north".</li><li><b>H1, H2, D1, D2:</b> Stack together "south".</li></ul>
+    <p>Six players (at random) will get a Throttle debuff, which must be removed via Esuna (or Warden's Paean).</p><p><ul><li><b>H1, H2:</b> Esuna Throttled players.</li></ul></p><p>How the two healers split up the Esunas doesn't matter, so long as they agree. We go with the following priority:</p><ul><li><b>H1:</b> MT ST H1 H2 D1 D2 D3 D4 <b>:H2</b></li></ul></td>
 	<td><img src="../images/living_liquid/living_liquid_12.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>13.</b> 1st untelegraphed Protean Waves from Living Liquid.</p><p>The Liquid Hand will also do a Hand of Pain here.</p><p><ul><li><b>H1, H2, D3, D4:</b> Bait AoEs next to assigned puddles. Don't move until you see the telegraphed Protean waves from the puddles.</li></ul></p><div style="background-color: #020 ; padding: 10px; border: 1px solid;">If Living Liquid is ~10% HP at this point, the whole party can switch over to focus only on hitting Living Liquid.</div></td>
+    <td><p><b>13.</b> Start of Protean Waves #2.</p><p>Just like the first iteration, this begins with baited, telegraphed Protean Waves north and south of Living Liquid.</p><div style="background-color: #002 ; padding: 10px; border: 1px solid;"><b>Tip:</b> If <b>both</b> Living Liquid and the Liquid Hand are around 10-11% HP at this point, the whole party can switch to Living Liquid and kill it before the next Hand of Pain resolves.</div></td>
 	<td><img src="../images/living_liquid/living_liquid_13.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>14.</b> 1st telegraphed Protean Waves from the puddles.</p><p><ul><li><b>D1, D2:</b> Prepare to bait the "west" and "east" puddles.</li><li><b>H1, H2, D3, D4:</b> Move in to bait Living Liquid's Protean Waves after the puddle's telegraphs appear.</li></ul></p><p><em>(The East puddle's Protean Wave can be baited by either H2 or D4.)</em></p></td>
+    <td><p><b>14.</b> 1st untelegraphed Protean Waves from Living Liquid.</p><p>The Liquid Hand will also do a Hand of Pain here.</p><p><ul><li><b>H1, H2, D3, D4:</b> Bait AoEs next to assigned puddles. Don't move until you see the telegraphed Protean waves from the puddles.</li></ul></p></td>
 	<td><img src="../images/living_liquid/living_liquid_14.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>15.</b> 2nd untelegraphed Protean Waves from Living Liquid.</p></td>
+    <td><p><b>15.</b> 1st telegraphed Protean Waves from the puddles.</p><p><ul><li><b>D1, D2:</b> Prepare to bait the "west" and "east" puddles.</li><li><b>H1, H2, D3, D4:</b> Move in to bait Living Liquid's Protean Waves after the puddle's telegraphs appear.</li></ul></p><p><em>(The East puddle's Protean Wave can be baited by either H2 or D4.)</em></p></td>
 	<td><img src="../images/living_liquid/living_liquid_15.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>16.</b> 2nd untelegraphed Protean Waves from the puddles.</p><p><ul><li><b>ST:</b> If you're confident on the party's DPS, you can alternatively bring the Liquid Hand "south" instead, but an Embolus may now go through the center if DPS is low.</li></ul></p></td>
+    <td><p><b>16.</b> 2nd untelegraphed Protean Waves from Living Liquid.</p></td>
 	<td><img src="../images/living_liquid/living_liquid_16.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>17.</b> Embolus orbs spawn.</p><p><ul><li><b>MT, ST:</b> Stack Living Liquid and the Liquid Hand together for Hand of Parting once the Liquid Hand glows as an open palm.</li></ul></p></td>
+    <td><p><b>17.</b> 2nd untelegraphed Protean Waves from the puddles.</p><p><ul><li><b>ST:</b> If you're confident on the party's DPS, you can alternatively bring the Liquid Hand "south" instead, but an Embolus may now go through the center if DPS is low.</li></ul></p></td>
 	<td><img src="../images/living_liquid/living_liquid_17.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>18.</b> The Liquid Hand does a final Hand of Pain while Living Liquid Splashes six times before targeting the MT with Fluid Swing.</p><p>Living Liquid then casts one final Cascade, serving as the enrage.</p></td>
+    <td><p><b>18.</b> Embolus orbs spawn.</p><p><ul><li><b>MT, ST:</b> Stack Living Liquid and the Liquid Hand together for Hand of Parting once the Liquid Hand glows as an open palm.</li></ul></p></td>
 	<td><img src="../images/living_liquid/living_liquid_18.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>19.</b> The Liquid Hand does one final Hand of Pain. If the party went "all in" on Living Liquid, you need to kill Living Liquid before this Hand of Pain resolves.</p><p>After the Hand of Pain, Living Liquid Splashes six times before targeting the MT with Fluid Swing.</p><p>Living Liquid then casts one final Cascade, serving as the enrage.</p></td>
+	<td><img src="../images/living_liquid/living_liquid_19.jpg"></td>
   </tr>
 </table>
