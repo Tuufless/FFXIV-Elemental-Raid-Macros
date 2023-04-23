@@ -40,9 +40,6 @@ Run: Dynamis (Omega Version) can be split down into the following three blocks:
 
 Identifying the safe spots will take some practice.
 
-<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
-<details markdown="block">
-<summary><b>[Click to Expand] Safe spots</b></summary>
 <table>
   <tr>
     <td width="50%">
@@ -65,8 +62,6 @@ Identifying the safe spots will take some practice.
     </td>
   </tr>
 </table>
-</details>
-</div>
 
 Nukemaru has compiled a collection of clips which may help:
 
