@@ -552,21 +552,33 @@ This is the final mechanic of the fight, and marks the start to the LB3 rush thi
     <td><img src="../images/06_alpha_omega/alpha_omega_5_1.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>2.</b> When the telegraphs appear, spread out to your waymarked positions.</p></td>
+    <td><p><b>2.</b> When the telegraphed AoE appears, spread out to your waymarked positions, and Caster LB3 targeting the center after dodging the telegraphed AoE.</p></td>
     <td><img src="../images/06_alpha_omega/alpha_omega_5_2.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>3.</b> Several Meteors of different sizes will spawn.</p><p>You will need a Caster LB3 to damage all the Meteors. This will destroy the four small Cosmo Comets, but only damage the two larger Cosmo Meteors at the North and South.</p><p><b>Do not attack the Comets and Meteors</b> during this period, focusing on Alpha Omega instead.</p><p>Four random players get an untelegraphed AoE on them. Healers can move back in closer to the center to heal the party.</p></td>
+    <td><p><b>3.</b> Two large Cosmo Meteors will spawn North and South, and five small Cosmo Comets will spawn around the edge of the boss's hitbox.</p><p>The Caster LB3 will destroy all the Cosmo Comets, and damage the Meteors.</p><p><b>Do not attack the Comets and Meteors</b> during this period, focusing on Alpha Omega instead.</p><p>Four random players get an untelegraphed AoE on them. Healers can move back in closer to the center to heal the party.</p></td>
     <td><img src="../images/06_alpha_omega/alpha_omega_5_3.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>4.</b> The second set of untelegraphed AoEs will hit the other four players.</p><p>A Ranged LB3 from North (or south) is needed to finish off the two Cosmo Meteors.</p><p>Three Flare markers will appear on three random players.</p><p>Because D3 is in the middle of their LB3, <b>they will not be able to move</b>, and the party will need to adjust around D3 depending on whether D3 has a Flare marker.</p></td>
+    <td><p><b>4.</b> The four players that weren't hit by the untelegraphed AoEs now get hit.</p></td>
     <td><img src="../images/06_alpha_omega/alpha_omega_5_4.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>5.</b> Have the three Flare markers move to cardinal locations. One of the remaining five players will be targeted for an untelegraphed shared damage AoE.</p>
-    <ul><li><b>If D3 does not have a Flare:</b> Flare players go W, S, and E. The party stacks N.</li><li><b>If D3 has a Flare:</b> The other two Flare markers adjust to other cardinal positions, giving D3 North. The party stacks at the remaining cardinal.</li></ul></td>
+    <td><p><b>5.</b> After the Caster LB3 resolves, the party will take a second set of Cosmo Meteor AoEs, targeting players four at a time.</p></td>
     <td><img src="../images/06_alpha_omega/alpha_omega_5_5.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>6.</b> Like the previous set of Cosmo Meteor AoEs, the four players that weren't hit before now get hit.</p></td>
+    <td><img src="../images/06_alpha_omega/alpha_omega_5_6.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>7.</b> When the Limit Break bar replenishes, use a Ranged LB3 from North (or south) to finish off the two Cosmo Meteors.</p><p>Around the same time, three Flare markers will appear on three random players.</p><p>Because D3 is in the middle of their LB3, <b>they will not be able to move</b>, and the party will need to adjust around D3 depending on whether D3 has a Flare marker.</p></td>
+    <td><img src="../images/06_alpha_omega/alpha_omega_5_7.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>8.</b> Have the three Flare markers move to cardinal locations. One of the remaining five players will be targeted for an untelegraphed shared damage AoE.</p>
+    <ul><li><b>If D3 does not have a Flare:</b> Flare players go W, S, and E. The party stacks N.</li><li><b>If D3 has a Flare:</b> The other two Flare markers adjust to other cardinal positions, giving D3 North. The party stacks at the remaining cardinal.</li></ul></td>
+    <td><img src="../images/06_alpha_omega/alpha_omega_5_8.jpg"></td>
   </tr>
 </table>
 
