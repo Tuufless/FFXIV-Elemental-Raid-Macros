@@ -10,7 +10,10 @@ permalink: /ultimates/top/05_run_dynamis_delta/
 
 P5 is split up into three "trios"- Delta, Sigma, and Omega. Each trio involves a series of mechanics before ending with Hello, World debuffs resolving that give players stacks of Dynamis, needed to clear the final phase.
 
-The "big puzzle" in this phase is to resolve the Hello, Worlds such that **each player ends the phase with 3 stacks of Dynamis**.
+There are two strategies to resolve this- either you put like tethers together (Kinda Awk), or not (GMT).
+
+- [Kinda Awk](#run-dynamis-delta-version---kinda-awk) - PF currently does this strat.
+- [GMT-style](#run-dynamis-delta-version---gmt-style) - My preferred strat.
 
 ## Solar Ray
 
@@ -62,17 +65,15 @@ Two of these will be taken with invulnerabilities, and the other two with mitiga
   </tr>
 </table>
 
-# Run: Dynamis (Delta Version)
+# Run: Dynamis (Delta Version) - Kinda Awk
 
 Run: Dynamis (Delta Version) can be broken down into three parts:
 
-1. [Rocket Punches](#1-rocket-punches)
-2. [Oversampled Wave Cannon and Pile Pitch](#2-oversampled-wave-cannon-and-pile-pitch)
-3. [Hello, World](#3-hello-world)
+1. [Rocket Punches](#1-rocket-punches-kinda-awk)
+2. [Oversampled Wave Cannon and Pile Pitch](#2-oversampled-wave-cannon-and-pile-pitch-kinda-awk)
+3. [Hello, World](#3-hello-world-kinda-awk)
 
-The most common strategy for this is "Kinda Awk's" strat, that pairs both tethers together.
-
-## 1. Rocket Punches
+## 1. Rocket Punches (Kinda Awk)
 
 Tethers appear, splitting the party up into two groups:
 
@@ -108,7 +109,7 @@ Tethers appear, splitting the party up into two groups:
   </tr>
 </table>
 
-## 2. Oversampled Wave Cannon and Pile Pitch
+## 2. Oversampled Wave Cannon and Pile Pitch (Kinda Awk)
 
 After baiting the outside arm lasers, players are split into two groups based on their tethers, with each tether group having different responsibilities.
 
@@ -126,9 +127,11 @@ After baiting the outside arm lasers, players are split into two groups based on
   </tr>
 </table>
 
-## 3. Hello, World
+## 3. Hello, World (Kinda Awk)
 
 This is the last part of the mechanic, and is where players will finally resolve Hello, Near World and Hello, Distant World.
+
+The "big puzzle" over the course of Delta, Sigma, and Omega is to resolve the Hello, Worlds such that **each player ends the phase with 3 stacks of Dynamis**.
 
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
 <details markdown=block>
@@ -196,6 +199,126 @@ This is the last part of the mechanic, and is where players will finally resolve
   </tr>
 </table>
 
+# Run: Dynamis (Delta Version) - GMT-style
+
+This strat uses GMT's strat as a base, which pairs one green and one blue tether together for Rocket Punches, and is my preferred strat for Run: Dynamis (Delta Version).
+
+Run: Dynamis (Delta Version) can be broken down into three parts:
+
+1. [Rocket Punches](#1-rocket-punches-gmt-style)
+2. [Oversampled Wave Cannon and Pile Pitch](#2-oversampled-wave-cannon-and-pile-pitch-gmt-style)
+3. [Hello, World](#3-hello-world-gmt-style)
+
+Here are some clips of this strat in action:
+
+- [Long-blue, no swap](https://clips.twitch.tv/BlueShortWatermelonPraiseIt-7lLWiJgZ-bqR0S5w)
+- [Long-blue, swap](https://clips.twitch.tv/FancyAggressiveWatermelonBIRB-lv-YD4rG2p5uZoFV)
+- [Short-blue](https://clips.twitch.tv/TiredEnthusiasticElkUncleNox-uGMSen2jj0xstbQ7)
+- [Green, swap](https://clips.twitch.tv/MoralPreciousClipzChocolateRain-TV_FvUvOzvYa-FyP)
+- [Green](https://clips.twitch.tv/CarefulEnjoyableSangCoolStoryBro-7ojtmrxt_5nvLizj)
+
+## 1. Rocket Punches (GMT-style)
+
+<table>
+  <tr>
+    <td width="50%"><p><b>1.</b> When the tethers appear, make a box with the blue tethers alongside the bosses, and the green tethers making the sides.</p><p>Each corner now has a pair consisting of one player with a red/green tether, and one player with a blue tether.</p><p><em>(In this example, the starting pairs are MT+D3, ST+H1, D1+H2, and D2+D4).</em></p><ul></ul><p><b>All players face inwards</b> <em>(everyone on the top row faces down, everyone on the bottom row faces up.)</em></p><p>This is done to make the fists tidy and easy to identify.</p></td>
+    <td><img src="../images/05_run_dynamis/run_dynamis_delta_gmt_01.jpg"></td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>2.</b> Blue and yellow fists appear above each player.</p>
+      <p>Players adjust as needed to pair one blue fist with one yellow fist, and the party needs to determine which colour tethers will adjust if there's a need to.</p>
+      <p>Between the two red/green tethers and the two blue tethers:</p>
+      <ul>
+        <li>One set of tethers will have fists of the same colour (blue + blue, and yellow + yellow)</li>
+        <li>The other set of tethers will each have one blue fist and one yellow fist.</li>
+      </ul>
+      <p><b>The tethers with the blue + yellow fists will adjust if needed.</b></p>
+      <p><em>In the first example, green tethers have the blue + yellow fists, so green tethers will adjust if needed (H1 and D4).</em></p>
+      <p><em>In the second example, blue tethers have the blue + yellow fists, so blue tethers will adjust if needed (H2 and D2).</em></p>
+    </td>
+    <td><img src="../images/05_run_dynamis/run_dynamis_delta_gmt_02a.jpg"><img src="../images/05_run_dynamis/run_dynamis_delta_gmt_02b.jpg"></td>
+  </tr>
+  <tr>
+    <td><b>3.</b> Split off and form a trapezium, with the long side at Beetle Omega (long enough to trigger the blue tethers), and the short side at Final Omega.</td>
+    <td><img src="../images/05_run_dynamis/run_dynamis_delta_gmt_03.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>4.</b> The spinning arms appear around the arena.</p></td>
+    <td><img src="../images/05_run_dynamis/run_dynamis_delta_gmt_04.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>5.</b> The tethers will activate, breaking the long blue tether (do not move!)</p>
+    <p>When the fist AoEs appear under each player, split off (stretch your tethers).</p>
+    <ul>
+      <li><b>Green tethers:</b> Bait the spinning arms by the two bosses.</li>
+      <li><b>Long blue tethers:</b> Bait the middle spinning arms.</li>
+      <li><b>Short blue tethers:</b> Break the tether and prepare to bait Beyond Defense.</li>
+    </ul></td>
+    <td><img src="../images/05_run_dynamis/run_dynamis_delta_gmt_05.jpg"></td>
+  </tr>
+</table>
+
+## 2. Oversampled Wave Cannon and Pile Pitch (GMT-style)
+
+<table>
+  <tr>
+    <td width="50%"><p><b>6.</b> The outer arms will telegraph their AoEs targeting the closest player.</p><p>The Omega-M clone hits one of the two closest players with Beyond Defense.</p></td>
+    <td><img src="../images/05_run_dynamis/run_dynamis_delta_gmt_06.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>7.</b> The player with Oversampled Wave Cannon Loading points their monitors in the other direction of Final Omega's Oversampled Wave Cannon (Sprint is very useful here!)</p><p>This creates a safe corridor for the three blue-tethered players that weren't hit by Beyond Defense to stack together to share Pile Pitch.</p><p>Note that the Pile Pitch stack may or may not include the player with Oversampled Wave Cannon Loading.</p><p>The player hit by Beyond Defense stands somewhere within this corridor, away from the Pile Pitch stack.</p></td>
+    <td><img src="../images/05_run_dynamis/run_dynamis_delta_gmt_07.jpg"></td>
+  </tr>
+</table>
+
+## 3. Hello, World (GMT-style)
+
+This is the last part of the mechanic, and is where players will finally resolve Hello, Near World and Hello, Distant World.
+
+The "big puzzle" over the course of Delta, Sigma, and Omega is to resolve the Hello, Worlds such that **each player ends the phase with 3 stacks of Dynamis**.
+
+We decided to follow Kinda Awk's spread positions, which doesn't *quite* fit the strat, but it's only a minor adjustment.
+
+<table>
+  <tr>
+    <td><p><b>8.</b> The "beetle" Omega lights up to cleave one side of the arena. Move in to the safe side.</p>
+    <ul>
+      <li><b>The green-tether pair on the unsafe side:</b>
+        <ol>
+          <li>Break the tether when the <b>tether's debuff timer reaches 15 seconds</b>.</li>
+          <li>Position to receive Hello, Near World. We have the player closer to Beetle Omega take the outer edge position.</li>
+        </ol>
+      </li>
+      <li><b>The green-tether pair on the safe side:</b>
+        <ul>
+          <li>Position to receive Hello, Distant World.</li>
+        </ul>
+      </li>
+      <li><b>Hello, Near World:</b>
+        <ul>
+          <li>Stand three rings from the center.</li>
+        </ul>
+      </li>
+      <li><b>Hello, Distant World:</b>
+        <ul>
+          <li>Stand at the outer cardinal position.</li>
+        </ul>
+      </li>
+      <li><b>The two remaining blue-tethers without either Hello, World:</b>
+        <ul>
+          <li>Stand towards Final Omega- you will <em>not</em> be getting Dynamis stacks this round.</li>
+        </ul>
+      </li>
+    </ul></td>
+    <td><img src="../images/05_run_dynamis/run_dynamis_delta_gmt_08.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>9.</b> The cleave resolves, along with Hello, Near World and Hello, Distant World.</p><p><b>Break the final red/green tether when the tether's debuff timer reaches 2 seconds</b>.</p></td>
+    <td><img src="../images/05_run_dynamis/run_dynamis_delta_gmt_09.jpg"></td>
+  </tr>
+</table>
+
 ## Frequently Asked Questions
 
 <details markdown=block>
@@ -237,7 +360,7 @@ This is the last part of the mechanic, and is where players will finally resolve
 </table>
 </details> 
 <details markdown=block>
-<summary><b>[Delta]</b> Is there a reason why blue tethers go opposite Final Omega instead of beside it, or is this an arbitrary choice?</summary>
+<summary><b>[Delta (Awk)]</b> Is there a reason why blue tethers go opposite Final Omega instead of beside it, or is this an arbitrary choice?</summary>
 <table>
   <tr><td><p>Putting the blue tethers opposite Final Omega gives them the best vantage point for Final Omega's Oversampled Wave Cannon.</p><p>This is important, as the blue tether players will be the ones resolving Beyond Defense → Pile Pitch together with Final Omega's (and a player's) Oversampled Wave Cannon.</p></td></tr>
 </table>
@@ -254,8 +377,8 @@ This is the last part of the mechanic, and is where players will finally resolve
   <tr><td><p>Nothing- Dynamis is capped at three stacks.</p></td></tr>
 </table>
 </details>
-<!-- <details markdown=block>
-<summary><b>[Delta (GMT)]</b> What is the difference, and why did we switch from Awk to GMT?</summary>
+<details markdown=block>
+<summary><b>[Delta (GMT)]</b> Why did we switch from Awk to GMT?</summary>
 <table>
   <tr><td><p>I had originally started with Kinda Awk's strat because at a first glance, it looked simple and easy to execute. In addition, PF over in Mana had started adopting Sara-chan's strat, which does the same thing in principle (except Sara-chan breaks the first blue tether <em>after</em> baiting fists, instead of before).</p><p>I also didn't fully understood GMT's strat at the time (I wasn't aware that the fists spawn in BB/YY and BY/BY combinations), and so I decided not to go with GMT when I couldn't figure out how to resolve a theoretical "worst-case" configuration that in the end, will never happen in-game.</p><p>However, when my group <em>actually</em> got to progging Delta, we kept wiping to the initial fist bait, particularly on the blue-tether side.</p><p>Common complaints were:</p>
   <ul>
@@ -276,9 +399,9 @@ This is the last part of the mechanic, and is where players will finally resolve
   <ul>
     <li>It shares one advantage Awk has over Sara-chan by breaking the first blue tether immediately.</li>
     <li>Fists are baited in the middle of the arena (where the eye beam hits), which are <b>completely</b> out of the way.</li>
-    <li>You have more time to resolve fists by orders of <b>magnitude</b>.</li>
+    <li>You have <b>much</b> more time to resolve fists.</li>
     <li>It's harder to confuse your roles since GMT's pairs are one red/green and one blue tether- your tether points in the direction you're supposed to go to next after the fist AoEs appear.</li>
-    <li>All players move together with the same cues, regardless of their tether. This is important as this far into the fight, we want to eliminate as many special cases as we can to avoid the situation where players have to take turns wiping the party to "the first time they get X".</li>
+    <li>All players move together with the same cues, regardless of their tether. This is important as this far into the fight, we want to eliminate as many special cases as we can to avoid players taking turns wiping the party to "the first time they get X".</li>
     <li>Players are reacting to one less thing (the blue tether breaking), since you start off stacked in pairs.</li>
     <li>There is <em>no</em> chance you accidentally break a green tether if the spinning fists force you to bait inwards.</li>
     <li>Resolving the green tethers for Swivel Cannon/Hello, World feels very natural since one green tether pair is <em>already</em> on Beetle Omega's safe side.</li>
@@ -286,7 +409,7 @@ This is the last part of the mechanic, and is where players will finally resolve
   <p>Perhaps we hadn't given Awk a fair chance before switching strats, or that the issues pointed above can be mitigated by looking at castbars, debuff timers, more practice, etc. and are non-issues <em>once familiar with the strat</em>.</p>
   <p>However, watching other groups prog and run into the same issues we had, I am convinced that GMT's strat is the better way to handle this mechanic.</p></td></tr>
 </table>
-</details> -->
+</details>
 
 ## Troubleshooting
 
