@@ -30,11 +30,11 @@ This phase requires planning out and coordinating mitigations. One such mitigati
   </tr>
   <tr>
     <td><b>Wave Cannon #1</b></td>
-    <td>ST Reprisal, ST 90s, D3</td>
+    <td><p>ST Reprisal, ST 90s, D3</p><p>ST invuln</p></td>
   </tr>
   <tr>
     <td><b>Wave Cannon #2</b></td>
-    <td><p>MT Reprisal, MT 90s, H1 120s, D1</p></td>
+    <td><p>MT Reprisal, MT 90s, H1 120s, D1</p><p>MT invuln</p></td>
   </tr>
   <tr>
     <td><b>Cosmo Dive #2</b></td>
@@ -308,7 +308,7 @@ In particular, this final beam deals extra damage to the two front players, whic
     <td><img src="../images/06_alpha_omega/alpha_omega_2_5.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>6.</b> Stack together south, with both tanks in front to take the final shared beam.</p><p>This is a tankbuster, and all this will need to be heavily mitigated.</p></td>
+    <td><p><b>6.</b> Stack together south, with both tanks in front to take the final shared beam.</p><p>This is an extremely hard-hitting tankbuster.</p><ul><li><b>MT:</b> Heavy mitigation</li><li><b>ST:</b> Invuln</li></ul></td>
     <td><img src="../images/06_alpha_omega/alpha_omega_2_6.jpg"></td>
   </tr>
 </table>
@@ -508,7 +508,7 @@ In particular, this final beam deals extra damage to the two front players, whic
     <td><img src="../images/06_alpha_omega/alpha_omega_3_10a.jpg"></td>
   </tr>
   <tr>
-    <td colspan="2"><p><b>11.</b> Stack together South (tanks in front) for the Wave Cannon</p></td>
+    <td colspan="2"><p><b>11.</b> Stack together South (tanks in front) for the Wave Cannon</p><ul><li><b>MT:</b> Invuln</li><li><b>ST:</b> Heavy mitigations</li></ul></td>
     <td colspan="2"><img src="../images/06_alpha_omega/alpha_omega_3_11.jpg"></td>
   </tr>
 </table>
@@ -607,6 +607,12 @@ Alpha Omega will do a second Magic Number (requiring another Tank into Healer LB
 <summary><b>[Cosmo Memory]</b> Why is the tank LB3 priority WAR > PLD > DRK > GNB?</summary>
 <table>
   <tr><td><p>Which tank should LB3 is determined by who loses the least from doing so.</p><p>Because a WAR's and a DRK's burst is based on stacks with a very lenient timer (Inner Release and Delirium), it is very flexible.</p><p>WAR and DRK get to use their 1m cooldowns on time with the rest of the party and still get the full benefit of their cooldowns, losing only a couple of filler GCDs.</p><p>In contrast, PLD and GNB have their bursts on a timer (Fight or Flight and No Mercy), and their rotation revolves around getting as many attacks in that buff window as they can.</p><p>As a result, a PLD or GNB either has to desynchronise with the party raid buffs, or give up GCDs in their own window, neither of which are attractive choices.</p></td></tr>
+</table>
+</details>
+<details markdown=block>
+<summary><b>[Wave Cannons]</b> Why does the ST invuln first and not the MT?</summary>
+<table>
+  <tr><td><p>There are a couple reasons for this:</p><ul><li><p>If you happen to have a GNB (MT) + PLD (ST) for tanks, PLD must Hallowed Ground the first Solar Ray (before Delta) for them to get a Hallowed Ground use in P6.</p><p>This then means the GNB would have to Superbolide the second Solar Ray (before Sigma), and if so, Superbolide won't be up in time for Wave Cannon #1.</p></li><li><p>If you have a WAR (MT), the mitigation plan has Shake it Off on Wave Cannon #2. This should coincide with Holmgang, because Shake it Off will dispel Vengeance and Bloodwhetting if used in the wrong order.</p></li><li><p>Finally, it makes more sense that the tank whose turn it is to use more party mitigations uses their invuln, simply to have fewer buttons to press overall.</p></li></ul></td></tr>
 </table>
 </details>
 <details markdown=block>
