@@ -61,15 +61,15 @@ This will also convert everyone with three stacks of Quickening Dynamis into a s
 <table>
   <tr>
     <td><img src="../images/06_alpha_omega/brilliant_dynamis.png"></td>
-    <td><p><em>Burning with dynamis inspired by Omega's passion and exceeding own limits.</em></p><ul><li>When a player with Brilliant Dynamis uses an LB3, the limit break gauge will be refilled, and Brilliant Dynamis will turn to Spark of Dynamis.</li><li>Mitigates a large portion of damage from Omega.</li></ul></td>
+    <td><p><b>Brilliant Dynamis</b></p></p><p><em>Burning with dynamis inspired by Omega's passion and exceeding own limits.</em></p><ul><li>When a player with Brilliant Dynamis uses an LB3, the limit break gauge will be refilled, and Brilliant Dynamis will turn to Spark of Dynamis.</li><li>Mitigates a large portion of damage from Omega.</li></ul></td>
   </tr>
   <tr>
     <td><img src="../images/06_alpha_omega/spark_of_dynamis.png"></td>
-    <td><p><em>Burning with dynamis inspired by Omega's passion.</em></p><ul><li>Mitigates a large portion of damage from Omega.</li></ul></td>
+    <td><p><b>Spark of Dynamis</b></p><p><em>Burning with dynamis inspired by Omega's passion.</em></p><ul><li>Mitigates a large portion of damage from Omega.</li></ul></td>
   </tr>
 </table>
 
-The Dynamis buffs are lost when a player dies, and all of Alpha's Omega's mechanics will be impossible to survive thereafter.
+The Dynamis buffs are lost when a player dies, which will end up killing that player for all of Alpha's Omega's mechanics thereafter.
 
 ## Auto-attacks
 
