@@ -52,3 +52,63 @@
 　D3　　  ★　　  D4　 　　Lower stack adjusts
 　　H1　　　　H2　　※ No stacks on one side →
 　　　D1　　D2　　　　　 Melee adjust
+―《P5 Run: Dynamis (Delta) - Kinda Awk》―――
+　　　  ①　　　❶❷　　　■ Tether cuts
+　　　  ｜②　　｜｜　　　①→Immediately
+Beetle｜｜　　｜｜Final  ②→After Fist AoEs
+　　　  ｜②　　｜｜　　　❶→@15s left on debuff
+　　　  ①　　　❶❷　　　❷→@2s left on debuff
+Rocket Punch：Inner tethers adjust
+【Hello, World (Delta)】
+(Beetle) ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+　❷Green　＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+　　　　　　　　　　　◆　　　＝＝＝＝＝＝＝
+　　　　　〇　　Near World　　　　　　　❷
+　　　　Green　　　　　　　　　　　　Green
+　　　〇　　　　　　　　　　　　　　
+　　Green　　　　 　　　　　　　❶❶
+　　　　　　　　　　　〇　　　Blue (w. no debuff)
+　　　　　　　　Distant World
+―《P5 Run: Dynamis (Sigma)》―――――――――
+ Final Omega  ｜　②　　❶L　　①
+　　〇　〇　　 ｜no mark　　no mark
+　　×　×　　 ｜　❷L　　　　　❷R
+　　△　△　　 ｜
+　　□　□　　 ｜　①　　❶R　　②
+Beetle Omega｜❶❷：2-marker pairs
+　　　　　　　 ｜①②：1-marker pairs
+【Knockback Towers (Waymark-based)】
+　≪Mid Glitch≫　　≪Remote Glitch≫
+　　　1　2　　　　　　　　　12
+
+　A3　　　　D4　　　　A　　　　　B
+　　B　　　C　　　　　　　C3　D4
+【Hello, World (Sigma】
+　　　❶　①　❷　　　　　❶❷：1 Dynamis stack
+　　　　　　　　　　　　　　▼：Near World
+　②　▼　　　　　　　　　　★：Distant World
+　③　　　★　　　　　①②③④：Others
+
+　　　　　④
+―《P5 Run: Dynamis (Omega)》――――――――
+　　　　　①　　　　　　　❶❷：Monitors/Tethers
+　　　　　　　　❶　　　　　▼：Near World
+　②　▼　　　　　　　　　　★：Distant World
+　③　　　★　　　　　①②③④：Others
+　　　　　　　　❷
+　　　　　④
+―《P6 Alpha Omega》―――――――――――――
+【Mitigations】
+※ All with shields + H2 mitigation and：
+　Cosmo Memory：Tank LB3
+　Cosmo Dive 1：MT Reprisal, H2 120s, D2, D4
+　Wave Cannon 1：ST Reprisal, ST 90s, D3
+　Wave Cannon 2：MT Rep, MT 90s, H1 120s, D1
+　Cosmo Dive 2：ST Reprisal, D2, D4
+　Cosmo Meteor：MT Rep, ST 90s, H2 120s, D3
+　【Spread】　　【Wave Cannon 2】
+　MT D3 D4　　　　　 D3 D4
+　H1　　H2　　　　MT　　　H2
+　D1 ST D2　　　　  H1　　　D2
+　※ Stack South　　 　D1 ST
+【Exaflares】Move to 1.5 markers away
