@@ -29,7 +29,9 @@ In the meantime, the party will need to deal with simple stack/spread mechanics 
     <td><img src="../images/04_blue_screen/blue_screen_1_2.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>3.</b> Stack markers resolve.</p><p>Return to your <b>original</b> positions.</p></td>
+    <td><p><b>3.</b> Stack markers resolve.</p><p>Return to your <b>original</b> positions.</p>
+    <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+    <b>Tip:</b> This is a good place to use Sprint, especially for tanks</div></td>
     <td><img src="../images/04_blue_screen/blue_screen_1_3.jpg"></td>
   </tr>
 </table>
