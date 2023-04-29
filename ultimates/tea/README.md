@@ -21,6 +21,7 @@ Since Elemental PF hasn't agreed on a TEA strat since Patch 5.1, I'm going to ta
 ### PoVs
 
 - [MT PoV (WAR)](https://youtu.be/uJVHsrhHsJ8)
+- [ST PoV (PLD)](https://youtu.be/leQ9t61W4OY)
 - [H1 PoV (WHM)](https://youtu.be/IqcxKunPY5Q)
 - [H2 PoV (SGE)](https://youtu.be/Q80yoHMcxhg)
 - [D1 PoV (SAM)](https://youtu.be/RCkbxPT3prI)
