@@ -104,8 +104,8 @@ Tanks should try to have minor cooldowns available for the Lightning passes.
 	<td><img src="../images/bjcc/bjcc_04.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>5.</b> The two tanks should use this time to try and center the bosses. <em>(Use the arrowheads on the side of the boss's targeting circles to help)</em></p><p>The bosses don't <em>really</em> need to be centered N/S, but should be centered E/W.</p><p>After Photon is cast is the <b>first Nisi pass</b>.</p><p><ul><li><b>MT</b>, <b>D1</b>: Do not pass Nisi yet.</li><li><b>ST</b>, <b>D2</b>: Pass Nisi with each other.</li><li><b>H1</b>, <b>D3</b>: Pass Nisi with each other.</li><li><b>H2</b>, <b>D4</b>: Pass Nisi with each other.</li></ul></p></td>
-	<td><img src="../images/bjcc/bjcc_05.jpg"></td>
+    <td><p><b>5.</b> The two tanks should use this time to try and center the bosses, particularly the ST that's holding Brute Justice.</p><p><em>(Use the arrowheads on the side of the boss's targeting circles to help)</em></p><p>The bosses don't <em>really</em> need to be centered N/S, but should be centered E/W.</p><p>After Photon is cast is the <b>first Nisi pass</b>.</p><p><ul><li><b>MT</b>, <b>D1</b>: Do not pass Nisi yet.</li><li><b>ST</b>, <b>D2</b>: Pass Nisi with each other.</li><li><b>H1</b>, <b>D3</b>: Pass Nisi with each other.</li><li><b>H2</b>, <b>D4</b>: Pass Nisi with each other.</li></ul></p></td>
+	<td><img src="../images/bjcc/bjcc_05.jpg"><img src="../images/bjcc/brute_justice_position.jpg"></td>
   </tr>
   <tr>
     <td><p><b>6.</b> Cruise Chaser casts Spin Crusher.</p><p><ul><li><b>MT</b>: Dodge Spin Crusher and pass Nisi with <b>D1</b>.</li><li><b>H1</b>, <b>H2</b>: The healer <em>with</em> Water goes to the first Water position (<b>H1</b> in this example). The healer <em>without</em> Water can preposition to bait Fire and the Hidden Mine.</li><li><b>D1</b>: Note <b>D1</b> is <em>never</em> involved in the first Water stack.</li><li><b>D3</b>: Be careful if you have the first Thunder as your path may cross <b>D2</b>'s path to the Water stack.</li></ul></p></td>
