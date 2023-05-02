@@ -577,8 +577,8 @@ This is the final mechanic of the fight, and marks the start to the LB3 rush thi
   </tr>
   <tr>
     <td><p><b>8.</b> Have the three Flare markers move to cardinal locations. One of the remaining five players will be targeted for an untelegraphed shared damage AoE.</p>
-    <ul><li><b>If D3 does not have a Flare:</b> Flare players go W, S, and E. The party stacks N.</li><li><b>If D3 has a Flare:</b> The other two Flare markers adjust to other cardinal positions, giving D3 North. The party stacks at the remaining cardinal.</li></ul></td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_5_8.jpg"></td>
+    <ul><li><b>If D3 has a Flare:</b> Flare players go N (D3), W, and E. The party stacks S.</li><li><b>If D3 does not have a Flare:</b> Flare players go S, W, and E. The party stacks N.</li></ul></td>
+    <td><img src="../images/06_alpha_omega/alpha_omega_5_8a.jpg"><img src="../images/06_alpha_omega/alpha_omega_5_8b.jpg"></td>
   </tr>
 </table>
 
