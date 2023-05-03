@@ -70,18 +70,20 @@ The quotes that Nael will use in this phase are:
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
 <details markdown=block>
 <summary><b>[Click to Expand] Dragon mechanics breakdown</b></summary>
-<b>Fire and Ice</b>
-One dragon will cycle through the party list, hitting each player with an Ice debuff. If a player has an active Fire debuff, the two will cancel out Ice. If a player already has Ice, this will kill the player.
-
-Another dragon will periodically tether to a random player, and after a period, hit that player with a Fire AoE that applies a Fire debuff to any player hit. If a player has an active Ice debuff, the two will cancel out. If a player already has Fire, this will kill the player.
-
-<b>Doom</b>
-One dragon will target a random player for a white AoE that leaves behind a small puddle.
-
-One dragon will Doom 2-3 players that will kill the players when the timer expires. The only way to remove the Doom is to step into a small white puddle left behind when Light explodes.
-
-<b>Thunder</b>
-The final dragon will periodically target two random party members with Thunder- a debuff that will go off in an AoE centered on that player that deals damage and paralyzes any <em>other</em> players that get hit.
+<table>
+  <tr>
+    <td><img src="../images/02_nael/fire_resistance.png"><img src="../images/02_nael/ice_resistance.png"></td>
+    <td><p><b>Firescorched and Icebitten</b></p><p>One dragon will periodically tether to a random player, and after a period, hit that player with a Fire AoE that applies a Fire debuff to any player hit. If a player has an active Ice debuff, the two will cancel out. If a player already has Fire, this will kill the player.</p><p>Another dragon will cycle through the party list, hitting each player with an Ice debuff. If a player has an active Fire debuff, the two will cancel out Ice. If a player already has Ice, this will kill the player.</p></td>
+  </tr>
+  <tr>
+    <td><img src="../images/02_nael/doom.png"></td>
+    <td><p><b>Dooms and Wings of Salvation</b></p><p>One dragon will Doom 2-3 players that will kill the players when the timer expires. The Dooms are staggered and will expire one-by-one, after 6 seconds, 11 seconds and 16 seconds.</p><p>Another dragon will target a random player once for each Doom debuff with a white AoE that leaves behind a small puddle.</p><p>The only way to remove the Doom is to step into a small white puddle left behind when Light explodes.</p><p>Because the Dooms are staggered, they must be cleaned in the right order.</p></td>
+  </tr>
+  <tr>
+    <td><img src="../images/02_nael/thunderstruck.png"></td>
+    <td><p><b>Thunderstruck</b></p><p>The final dragon will periodically target two random party members with Thunder- a debuff that will go off in an AoE centered on that player that deals damage and paralyzes any <em>other</em> players that get hit.</p></td>
+  </tr>
+</table>
 </details>
 </div>
 
