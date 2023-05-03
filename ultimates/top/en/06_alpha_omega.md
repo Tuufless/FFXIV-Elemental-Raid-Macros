@@ -61,7 +61,7 @@ This will also convert everyone with three stacks of Quickening Dynamis into a s
 <table>
   <tr>
     <td><img src="../images/06_alpha_omega/brilliant_dynamis.png"></td>
-    <td><p><b>Brilliant Dynamis</b></p></p><p><em>Burning with dynamis inspired by Omega's passion and exceeding own limits.</em></p><ul><li>When a player with Brilliant Dynamis uses an LB3, the limit break gauge will be refilled, and Brilliant Dynamis will turn to Spark of Dynamis.</li><li>Mitigates a large portion of damage from Omega.</li></ul></td>
+    <td><p><b>Brilliant Dynamis</b></p><p><em>Burning with dynamis inspired by Omega's passion and exceeding own limits.</em></p><ul><li>When a player with Brilliant Dynamis uses an LB3, the limit break gauge will be refilled, and Brilliant Dynamis will turn to Spark of Dynamis.</li><li>Mitigates a large portion of damage from Omega.</li></ul></td>
   </tr>
   <tr>
     <td><img src="../images/06_alpha_omega/spark_of_dynamis.png"></td>
