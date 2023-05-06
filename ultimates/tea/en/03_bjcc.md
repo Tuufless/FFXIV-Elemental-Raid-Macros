@@ -88,11 +88,11 @@ Tanks should try to have minor cooldowns available for the Lightning passes.
 
 <table>
   <tr>
-    <td width="50%"><p><b>1.</b> Initial positions.</p><p><ul><li><b>MT</b>: Take Cruise Chaser.</li><li><b>ST</b>: Take Brute Justice.</li></ul></p><p><em>(Note the MT and ST starting positions are swapped from the usual convention. The bosses each tank takes spawns on their respective starting side.)</em></p></td>
+    <td width="50%"><p><b>1.</b> Initial positions.</p><p><ul><li><b>MT</b>: Take Cruise Chaser.</li><li><b>ST</b>: Take Brute Justice.</li></ul></p><p><em>(Note the MT and ST starting positions are swapped from the usual convention. The bosses each tank takes spawns on their respective starting side.)</em></p><p>Cruise Chaser will cast Whirlwind, while Brute Justice will cast Judgment Nisi which debuffs the party with Nisis, Compressed Water, and Compressed Lightning.</p><p>Stand as close as you can towards the center of the arena, without passing Nisi debuffs.</p></td>
 	<td><img src="../images/bjcc/bjcc_01.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>2.</b> Chakrams will spawn directly opposite one another at any of the eight intercardinal directions, effectively splitting the party into two.</p><p>All players move towards the edge of the arena to dodge Chakrams and bait Hawk Blasters.</p></td>
+    <td><p><b>2.</b> Two Chakrams will spawn directly opposite one another at any of the eight intercardinal directions and target a random party member's position.</p><p>Move towards the edge of the arena to dodge the Chakrams' path.</p></td>
 	<td><img src="../images/bjcc/bjcc_02.jpg"></td>
   </tr>
   <tr>
@@ -108,15 +108,15 @@ Tanks should try to have minor cooldowns available for the Lightning passes.
 	<td><img src="../images/bjcc/bjcc_05.jpg"><img src="../images/bjcc/brute_justice_position.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>6.</b> Cruise Chaser casts Spin Crusher.</p><p><ul><li><b>MT</b>: Dodge Spin Crusher and pass Nisi with <b>D1</b>.</li><li><b>H1</b>, <b>H2</b>: The healer <em>with</em> Water goes to the first Water position (<b>H1</b> in this example). The healer <em>without</em> Water can preposition to bait Fire and the Hidden Mine.</li><li><b>D1</b>: Note <b>D1</b> is <em>never</em> involved in the first Water stack.</li><li><b>D3</b>: Be careful if you have the first Thunder as your path may cross <b>D2</b>'s path to the Water stack.</li></ul></p></td>
+    <td><p><b>6.</b> Cruise Chaser casts Spin Crusher.</p><p><ul><li><b>MT</b>: Dodge Spin Crusher and pass Nisi with D1.</li><li><b>H1</b>, <b>H2</b>: The healer <em>with</em> Water goes to the first Water position (H1 in this example). The healer <em>without</em> Water can preposition to bait Fire and the Hidden Mine.</li><li><b>D1</b>: Note D1 is <em>never</em> involved in the first Water stack.</li><li><b>D3</b>: Be careful if you have the first Thunder as your path may cross D2's path to the Water stack.</li></ul></p></td>
 	<td><img src="../images/bjcc/bjcc_06.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>7. First Water/Thunder pass</b>.</p><p><ul><li>Water: Healer + at least two of <b>D2</b>, <b>D3</b>, <b>D4</b> (excluding whoever had Thunder)</li><li>Thunder: DPS → <b>ST</b></li><li><b>D1</b>: You may need to avoid the Thunder explosion by moving towards the <b>MT</b>.</li></ul><div style="background-color: #002 ; padding: 10px; border: 1px solid;"><p><b>Tip:</b> If tanks pop Rampart just before the first Water/Thunder, it will mitigate the Thunder, autoattacks from Cruise Chaser/Brute Justice, the upcoming Hidden Mine if the tanks are quick, <em>and</em> be back up in time for Double Rocket Punch at the end of the phase.</p></div></p></td>
+    <td><p><b>7. First Water/Thunder pass</b>.</p><p><ul><li><b>Water:</b> Healer + at least two of D2, D3, D4 (excluding whoever had Thunder)</li><li><b>Thunder:</b> DPS → ST</li><li><b>D1</b>: You may need to avoid the Thunder explosion by moving towards the MT.</li></ul><div style="background-color: #002 ; padding: 10px; border: 1px solid;"><p><b>Tip:</b> If tanks pop Rampart just before the first Water/Thunder, it will mitigate the Thunder, autoattacks from Cruise Chaser/Brute Justice, the upcoming Hidden Mine if the tanks are quick, <em>and</em> be back up in time for Double Rocket Punch at the end of the phase.</p></div></p></td>
 	<td><img src="../images/bjcc/bjcc_07.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>8.</b> After Water resolves, Healers and DPS move to prepare for Hidden Mines and Enumeration.</p><p><ul><li><b>D2</b>: Move under the bosses, between the two tanks.</li><li><b>D3</b>: Move behind the <b>MT</b></li><li><b>D4</b>: Move behind the <b>ST</b>.</li></ul></p><p>All DPS should stay within the sector marked by the green dotted line:<ul><li>This prevents the DPS baiting the Hidden Mines by accident.</li><li>This prevents the DPS from getting hit by the Hidden Mines when they explode later.</li></ul></p></td>
+    <td><p><b>8.</b> After Water resolves, Healers and DPS move to prepare for Hidden Mines and Enumeration.</p><p><ul><li><b>D2</b>: Move under the bosses, between the two tanks.</li><li><b>D3</b>: Move behind the MT</li><li><b>D4</b>: Move behind the ST.</li></ul></p><p>All DPS should stay within the sector marked by the green dotted line:<ul><li>This prevents the DPS baiting the Hidden Mines by accident.</li><li>This prevents the DPS from getting hit by the Hidden Mines when they explode later.</li></ul></p></td>
 	<td><img src="../images/bjcc/bjcc_08.jpg"></td>
   </tr>
   <tr><td>
@@ -138,7 +138,7 @@ Tanks should try to have minor cooldowns available for the Lightning passes.
       </ul>
     </p>
     <p><b>DPS:</b> Resolve Enumeration with the Healers.</p>
-    <p>If either side has both Enumerations (or equivalently, no Enumerations), <b>D1</b> and <b>D2</b> swap sides.</p>
+    <p>If either side has both Enumerations (or equivalently, no Enumerations), D1 and D2 swap sides.</p>
     <p>
       <ul>
         <li><b>D1</b>: West Enumeration unless a swap is needed.</li>
@@ -176,7 +176,7 @@ Tanks should try to have minor cooldowns available for the Lightning passes.
 	<td><img src="../images/bjcc/bjcc_15.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>16. Fourth Nisi pass</b>.</p><p>Tank and healer positions are fixed (<b>MT > H1 > ST > H2</b>). DPS pass with the appropriate tank or healer.</p><p><ul><li><b>MT</b>: Pull Cruise Chaser to the east of the Ice block.</li></ul></p></td>
+    <td><p><b>16. Fourth Nisi pass</b>.</p><p>Tank and healer positions are fixed (MT > H1 > ST > H2). DPS pass with the appropriate tank or healer.</p><p><ul><li><b>MT</b>: Pull Cruise Chaser to the east of the Ice block.</li></ul></p></td>
 	<td><img src="../images/bjcc/bjcc_16.jpg"></td>
   </tr>
   <tr>
