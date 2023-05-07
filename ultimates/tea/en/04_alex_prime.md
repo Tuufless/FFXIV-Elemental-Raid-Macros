@@ -150,11 +150,11 @@ Remember that **all odd numbered players must face outside the arena and use Arm
 	<td><img src="../images/alex_prime/wormhole_02.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>3. </b>Chakrams fly. Brute Justice Super Jumps on the furthest player.</p><p>Cruise Chaser cleaves <b>1</b>.</p></td>
+    <td><p><b>3. </b>Chakrams fly. Brute Justice Super Jumps on the furthest player.</p><p>Cruise Chaser cleaves <b>1</b>.</p><p>The player that originally started in front of Brute Justice (either <b>1</b> or <b>2</b>) stays on the red dot until Apocalyptic Ray comes out. </p></td>
 	<td><img src="../images/alex_prime/wormhole_03.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>4.</b> Brute Justice turns to face the furthest player (<b>1</b> or <b>2</b>) and casts Apocalyptic Ray.</p><p>Cruise Chaser dashes <b>2</b>.</p><ul><li><b>3</b> and <b>4</b> use anti-knockback.</li><li><b>5</b> and <b>6</b> move inside the Void puddles.</li></ul></td>
+    <td><p><b>4.</b> Brute Justice turns to face the furthest player (which should be <b>1</b> or <b>2</b>) and casts Apocalyptic Ray.</p><p>Cruise Chaser dashes <b>2</b>.</p><ul><li><b>3</b> and <b>4</b> use anti-knockback.</li><li><b>5</b> and <b>6</b> move inside the Void puddles.</li></ul></td>
 	<td><img src="../images/alex_prime/wormhole_04.jpg"></td>
   </tr>
   <tr>
