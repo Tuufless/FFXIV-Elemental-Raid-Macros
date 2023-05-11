@@ -79,11 +79,11 @@ Beetle Omega｜❶❷：2-marker pairs
 　　　　　　　 ｜①②：1-marker pairs
 【Knockback Towers (Waymark-based)】
 　≪Mid Glitch≫　　≪Remote Glitch≫
-　　　1　2　　　　　　　　　12
+　　　1　2　　　　　　　　　21
 
-　A3　　　　D4　　　　A　　　　　B
-　　B　　　C　　　　　　　C3　D4
-【Hello, World (Sigma】
+　A3　　　　D4　　　　A　　　　　D
+　　B　　　C　　　　　　　B3　C4
+【Hello, World (Sigma)】
 　　　❶　①　❷　　　　　❶❷：1 Dynamis stack
 　　　　　　　　　　　　　　▼：Near World
 　②　▼　　　　　　　　　　★：Distant World
