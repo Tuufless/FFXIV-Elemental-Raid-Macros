@@ -53,9 +53,9 @@ The MT will take hate to start this phase. The outline to Perfect Alexander look
 
 ## Forced March
 
-This is the "tutorial" phase of Perfect Alex, where Ordained Stillness, Ordained Motion, and the Light/Dark mechanics are introduced.
+This is the "tutorial" section of Perfect Alex, where Ordained Stillness, Ordained Motion, and the Light/Dark mechanics are introduced.
 
-This phase can be blocked out as follows:
+This section can be blocked out as follows:
 
 1. Ordained Stillness/Motion
 2. Forced March
@@ -91,7 +91,7 @@ Dark players need to pay attention to who the Dark Beacon is as they need to sta
 </details>
 </div>
 
-While the Forced March timers tick down, Perfect Alexander will then cast *either* Ordained Stillness or Ordained Motion. Players should be in their Forced March positions before this cast finishes:
+While the Forced March timers tick down, Perfect Alexander will then cast *either* Ordained Stillness or Ordained Motion.
 
 <table>
   <tr>
@@ -104,7 +104,8 @@ While the Forced March timers tick down, Perfect Alexander will then cast *eithe
 <b>RESPECT STILLNESS</b>. It is a meme for a reason.
 </div>
 
-If you are unable to make it all the way to your position, there will still be a little bit of time after Ordained Stillness/Motion resolves, and before the Forced March starts for you to adjust if needed.
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+<p><b>Tip:</b>: If you are unable to make it all the way to your position and Ordained Stillness is cast first, <b>resolve Stillness first</b>. There will be a little bit of time before the Forced March starts for you to finish getting into position.</p></div>
 
 After the Forced March, Perfect Alexander will then use the opposite Ordained Stillness or Motion, whichever was not done first.
 
