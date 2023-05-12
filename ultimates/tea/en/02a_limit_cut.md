@@ -1,14 +1,14 @@
 ---
 layout: default
-title: 2. Limit Cut
+title: 2a. Limit Cut
 parent: Lv 80. TEA
 grand_parent: Ultimates
-permalink: /ultimates/tea/02_limit_cut/
+permalink: /ultimates/tea/02a_limit_cut/
 ---
 
 # Limit Cut
 
-While not technically a phase, the transition to Brute Justice + Cruise Chaser is by no means trivial.
+While not technically a phase, the transition to Brute Justice + Cruise Chaser is not trivial, and is probably the only transition in all the Ultimate fights that takes up actual prog time.
 
 In the transition leading up to Brute Justice and Cruise Chaser, players will have to resolve Limit Cut in combination with a pair of Hawk Blaster AoEs that go clockwise around the arena.
 
