@@ -593,10 +593,16 @@ From here, Alpha Omega will cast Magic Number, which *must* be mitigated with a 
   </tr>
 </table>
 
-Alpha Omega will do a second Magic Number (requiring another Tank into Healer LB3) before casting Run: \*\*\*\*mi\* as the hard enrage of the fight.
+Alpha Omega will do a second Magic Number (requiring another Tank into Healer LB3) before casting Run: \*\*\*\*mi\* (which is a 30-second cast) as the hard enrage of the fight.
 
 ## Frequently Asked Questions
 
+<details markdown=block>
+<summary><b>[Potions]</b> When should we use our potions?</summary>
+<table>
+  <tr><td><p>There are three possible places to use potions:</p><ol><li>The P6 reopener</li><li>At the end of Wave Cannon 2</li><li>Right after the second Healer LB3</li></ol><p>Bear in mind that the 2-minute buffs won't be up at the second Healer LB3. However, this is the latest you can use pots to get the full duration before the enrage cuts it short.</p><p>2-minute buffs should be up roughly 10 seconds after the Healer LB3.</p></td></tr>
+</table>
+</details>
 <details markdown=block>
 <summary><b>[Death Wall]</b> Will the Death Wall kill you if you use an ability while still in it (similar to resurrection invulnerability)?</summary>
 <table>
