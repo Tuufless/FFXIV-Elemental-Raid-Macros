@@ -288,7 +288,7 @@ In particular, this final beam deals extra damage to the two front players, whic
 
 <table>
   <tr>
-    <td width="50%"><p><b>1.</b> Four consecutive Exaflare AoE telegraphs will appear on the outside of the arena.</p><p>Stack in the middle to bait AoEs, before moving out, 1.5 markers before the first Exaflare telegraph.</p></td>
+    <td width="50%"><p><b>1.</b> Four consecutive Exaflare AoE telegraphs will appear on the outside of the arena.</p><p>The first Exaflare telegraph will appear just before the castbar finishes.</p><p>Stack in the middle to bait AoEs, before moving out, 1.5 markers before the first Exaflare telegraph.</p></td>
     <td><img src="../images/06_alpha_omega/alpha_omega_2_1.jpg"></td>
   </tr>
   <tr>
@@ -523,7 +523,7 @@ The tanks will move forward into the boss's hitbox, with the MT going to the lef
 
 <table>
   <tr>
-    <td width="50%"><p><b>1.</b> Four consecutive Exaflare AoE telegraphs will appear on the outside of the arena.</p><p>Stack in the middle to bait AoEs, before moving out, 1.5 markers before the first Exaflare telegraph.</p></td>
+    <td width="50%"><p><b>1.</b> Just like before, four consecutive Exaflare AoE telegraphs will appear on the outside of the arena.</p><p>The first Exaflare telegraph will appear just before the castbar finishes.</p><p>Stack in the middle to bait AoEs, before moving out, 1.5 markers before the first Exaflare telegraph.</p></td>
     <td><img src="../images/06_alpha_omega/alpha_omega_4_1.jpg"></td>
   </tr>
   <tr>
