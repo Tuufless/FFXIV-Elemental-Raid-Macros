@@ -595,14 +595,29 @@ From here, Alpha Omega will cast Magic Number, which *must* be mitigated with a 
 
 Alpha Omega will do a second Magic Number (requiring another Tank into Healer LB3) before casting Run: \*\*\*\*mi\* (which is a 30-second cast) as the hard enrage of the fight.
 
+## Buff windows
+
+There are three buff windows in P6, and each player can use a potions once.
+
+However, because players will be taking turns LB3'ing, some players will prefer not to use their potions at certain buff windows.
+
+<table>
+  <tr>
+    <td><b>1. Opener</b></td>
+    <td><p>The tank that LB3s <b>should not</b> use potions here.</p><p>If you did not use potions immediately at the end of Delta, they will not be available here.</p></td>
+  </tr>
+  <tr>
+    <td><b>2. Immediately after Wave Cannon #2</b></td>
+    <td><p>If 2-minute buffs are delayed here, the next 2-minute window will be cut short by the enrage.</p><p>Healers and Casters <b>should not</b> use potions here because of upcoming movement.</p><p>Melee DPS <em>can</em> use potions here, but be careful as both melees will need to LB3 after dodging Exaflares, and have them finish before Cosmo Meteor starts.</p></td>
+  </tr>
+  <tr>
+    <td><b>3. Halfway into the enrage cast</b></td>
+    <td><p>The melee that will LB3 after the Healer LB3s <b>should not</b> use potions here.</p><p>Potions should be used immediately after the second Healer LB3 (when Run: ****mi* starts) to get the full use before the enrage resolves.</p>2-minute buffs will come up <em>halfway</em> into the pot duration and may be clipped by the enrage depending on their duration, and how much they were delayed after Wave Cannon #2.</p></td>
+  </tr>
+</table>
+
 ## Frequently Asked Questions
 
-<details markdown=block>
-<summary><b>[Potions]</b> When should we use our potions?</summary>
-<table>
-  <tr><td><p>There are three possible places to use potions:</p><ol><li>The P6 reopener</li><li>At the end of Wave Cannon 2</li><li>Right after the second Healer LB3</li></ol><p>Bear in mind that the 2-minute buffs won't be up at the second Healer LB3. However, this is the latest you can use pots to get the full duration before the enrage cuts it short.</p><p>2-minute buffs should be up roughly 10 seconds after the Healer LB3.</p></td></tr>
-</table>
-</details>
 <details markdown=block>
 <summary><b>[Death Wall]</b> Will the Death Wall kill you if you use an ability while still in it (similar to resurrection invulnerability)?</summary>
 <table>
