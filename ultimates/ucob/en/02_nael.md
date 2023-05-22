@@ -54,7 +54,7 @@ The quotes that Nael will use in this phase are:
   </tr>
 </table>
 
-## First line
+## Bahamut's Favor
 
 <table>
   <tr>
@@ -89,6 +89,14 @@ The quotes that Nael will use in this phase are:
 
 ## First line
 
+To summarize the mechanics sequence for Nael's first line:
+
+1. Lunar Dynamo + Thunders
+2. Iron Chariot *or* Thermionic Beam
+3. Wings of Salvation #1 + Fire (in)
+4. Wings of Salvation #2
+5. Bahamut's Claw
+
 <table>
   <tr>
     <td width="50%"><p><b>3.</b> Nael will say her first line, which will lead to either:</p><ul><li>Lunar Dynamo → Iron Chariot</li><li>Lunar Dynamo → Thermionic Beam</li></ul><p>Two random players will be randomly targeted with a Thunder debuff- these two players must separate from the party while still being within Lunar Dynamo's safe zone.</p><p>The priority goes:</p><ul><li><b>Left:</b> MT ST H1 H2 D1 D2 D3 D4 <b>:Right</b></li></ul></td>
@@ -115,18 +123,30 @@ The quotes that Nael will use in this phase are:
     <td><p><b>8.</b> Nael does a 5-hit Bahamut's Claw on the MT.</p></td>
     <td><img src="../images/02_nael/nael_1_8.jpg"></td>
   </tr>
-  <tr>
-    <td><p><b>9.</b> The second Fire tether appears.</p><ul><li><b>2nd Fire:</b> Stand away from the party and take the Fireball solo.</li><li><b>Other players:</b> If you have the Icebitten debuff (i.e: you missed the first Fireball), stack with the 2nd Fire player to remove Icebitten.</li></ul>
-    </td>
-    <td><img src="../images/02_nael/nael_1_9.jpg"></td>
-  </tr>
 </table>
 
 ## Second line
 
+This is potentially the most hectic sequence in this phase:
+
+1. Fire (out)
+2. Thunder
+3. Thermionic Beam
+4. Lunar Dynamo *or* Iron Chariot
+5. Wings of Salvation #1
+6. Wings of Salvation #2
+7. Wings of Salvation #3 + Thunder
+8. Fire (in)
+9. Bahamut's Claw
+
 <table>
   <tr>
-    <td width="50%"><p><b>10.</b> Nael will say her second line, which will lead to either:</p><ul><li>Thermionic Beam → Lunar Dynamo</li><li>Thermionic Beam → Iron Chariot</li></ul><p>At the same time, the two Thunderstruck debuffs will resolve.</p><ul><li><b>Thunder:</b> Stand away from the party (and not on top of one another).</li></ul></td>
+    <td width="50%"><p><b>9.</b> The second Fire tether appears.</p><ul><li><b>2nd Fire:</b> Stand away from the party and take the Fireball solo.</li><li><b>Other players:</b> If you have the Icebitten debuff (i.e: you missed the first Fireball), stack with the 2nd Fire player to remove Icebitten.</li></ul>
+    </td>
+    <td><img src="../images/02_nael/nael_1_9.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>10.</b> Nael will say her second line, which will lead to either:</p><ul><li>Thermionic Beam → Lunar Dynamo</li><li>Thermionic Beam → Iron Chariot</li></ul><p>At the same time, the two Thunderstruck debuffs will resolve.</p><ul><li><b>Thunder:</b> Stand away from the party (and not on top of one another).</li></ul></td>
     <td><img src="../images/02_nael/nael_2_1.jpg"></td>
   </tr>
   <tr>
@@ -164,7 +184,20 @@ The quotes that Nael will use in this phase are:
   </tr>
 </table>
 
+Be careful, as *all* the mechanics can target a single player:
+
+{% include youtube.html id="dQd-VEMR47U" %}
+
 ## Third line
+
+The mechanics for Nael's third line will go:
+
+1. Spread
+2. Lunar Dynamo *or* Iron Chariot
+3. Wings of Salvation #1 + Fire → Thunder
+4. Wings of Salvation #2
+5. Wings of Salvation #3
+6. Ravensbeak
 
 <table>
   <tr>
