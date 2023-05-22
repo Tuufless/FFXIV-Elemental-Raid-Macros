@@ -237,6 +237,17 @@ The mechanics for Nael's third line will go:
 
 ## Fourth line (Cauterize)
 
+The party will have to resolve Nael's fourth line in conjunction with divebombs.
+
+- Three random players (other than the tank currently holding hate) will get marked with a green marker.
+- When the marker *disappears*, the dragons that will dive will lock onto where that player was standing at the time, and then dive at that position.
+- There are three dives in total in a 2-1-2 configuration:
+  - The first two dragons clockwise from north (including north).
+  - The third dragon clockwise from north.
+  - The last two dragons clockwise from north.
+- The goal is to direct these divebombs away from the center of the arena where the rest of the party is.
+- Nael will also drop Hypernova AoEs on the first two baiters.
+
 <table>
   <tr>
     <td width="50%"><p><b>27.</b> Nael will say her fourth line, which will lead to either:</p><ul><li>Meteor Stream → Dalamud Dive</li><li>Dalamud Dive → Thermionic Beam</li></ul><p><em>(Note this is the first line whose first mechanic is </em>not<em> fixed.)</em></p><p>At the same time, the first divebomb marker will appear above a player that's not the ST (who currently holds hate).</p></td>
