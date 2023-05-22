@@ -231,7 +231,7 @@ The mechanics for Nael's third line will go:
   </tr>
   <tr>
     <td><p><b>26. </b>Nael will then target the MT with Ravensbeak, a single-target tankbuster that also applies a piercing damage debuff, thus mandating a tank swap.</p></td>
-    <td><img src="../images/02_nael/nael_3_7.jpg"></td>
+    <td><img src="../images/02_nael/nael_3_8.jpg"></td>
   </tr>
 </table>
 
