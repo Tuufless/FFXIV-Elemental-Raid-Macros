@@ -14,3 +14,4 @@ permalink: /6.0_endwalker/extreme_trials/
 - **Endsinger EX** - [The Minstrel's Ballad: The Endsinger's Aria](endsinger/README.md)
 - **Barbariccia EX** - [Storm's Crown (Extreme)](barbariccia/README.md)
 - **Rubicante EX** - [Mount Ordeals (Extreme)](rubicante/README.md)
+- **Golbez EX** - [The Voidcast Dais (Extreme)](golbez/README.md)

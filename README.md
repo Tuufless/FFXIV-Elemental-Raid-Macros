@@ -13,23 +13,23 @@ Because Elemental is ultimately a Japanese DC, these macros are for **Japanese**
 
 Of course, there will probably be small differences between the macros here and the ones you may encounter in PF- use the ones here as a base to work with.
 
-## Current content (Patch 6.3)
+## Current content (Patch 6.4)
 
-The current item level cap is **iLvl 635**.
+The current item level cap is **iLvl 665**.
 
 **Extreme Trials:**
-- **Rubicante EX** - [Mount Ordeals (Extreme)](6.0_endwalker/extreme_trials/rubicante/README.md)
+- **Golbez EX** - [The Voidcast Dais (Extreme)](6.0_endwalker/extreme_trials/golbez/README.md)
 
 **Unreal Trial:**
-- **Sophia** - [Containment Bay P1T6 (Unreal)](3.0_heavensward/extreme_trials/sophia/README.md)
+- **Zurvan** - [Containment Bay Z1T9 (Unreal)](3.0_heavensward/extreme_trials/zurvan/README.md)
 
 **Savage Raids:**
-- **P5S** - [Abyssos: The Fifth Circle (Savage)](6.0_endwalker/savage_raids/p5s/README.md)
-- **P6S** - [Abyssos: The Sixth Circle (Savage)](6.0_endwalker/savage_raids/p6s/README.md)
-- **P7S** - [Abyssos: The Seventh Circle (Savage)](6.0_endwalker/savage_raids/p7s/README.md)
-- **P8S** - Abyssos: The Eighth Circle (Savage)
-    - [Part 1](6.0_endwalker/savage_raids/p8s_1/README.md)
-    - [Part 2](6.0_endwalker/savage_raids/p8s_2/README.md)
+- **P9S** - [Anabaseios: The Ninth Circle (Savage)](6.0_endwalker/savage_raids/p9s/README.md)
+- **P10S** - [Anabaseios: The Tenth Circle (Savage)](6.0_endwalker/savage_raids/p10s/README.md)
+- **P11S** - [Anabaseios: The Eleventh Circle (Savage)](6.0_endwalker/savage_raids/p11s/README.md)
+- **P12S** - Anabaseios: The Twelfth Circle (Savage)
+    - [Part 1](6.0_endwalker/savage_raids/p12s_1/README.md)
+    - [Part 2](6.0_endwalker/savage_raids/p12s_2/README.md)
 
 ## Ultimate Raids
 

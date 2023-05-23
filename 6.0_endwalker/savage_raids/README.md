@@ -35,11 +35,9 @@ The item level cap for Pandæmonium: Asphodelos is **iLvl 635**.
 
 The item level cap for Pandæmonium: Anabaseios is **iLvl 665**.
 
-- **P9S**
-- **P10S**
-- **P11S**
-- **P12S**
-
-### Resources
-
-- [Mitigation spreadsheets](https://docs.google.com/spreadsheets/d/1a6O-Vd6wC2I-HujoPeYzgkri_AvUIKb4G2g45MegPBA/edit#gid=0)
+- **P9S** - [Anabaseios: The Ninth Circle (Savage)](p9s/README.md)
+- **P10S** - [Anabaseios: The Tenth Circle (Savage)](p10s/README.md)
+- **P11S** - [Anabaseios: The Eleventh Circle (Savage)](p11s/README.md)
+- **P12S** - Anabaseios: The Twelfth Circle (Savage)
+	- [Part 1](p12s_1/README.md)
+	- [Part 2](p12s_2/README.md)
