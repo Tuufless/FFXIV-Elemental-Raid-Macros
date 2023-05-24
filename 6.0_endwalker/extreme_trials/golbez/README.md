@@ -9,9 +9,9 @@ permalink: /6.0_endwalker/extreme_trials/golbez/
 
 # The Voidcast Dais (Extreme)
 
-<div style="background-color: #200 ; padding: 10px; border: 1px solid;"><b>UNDER CONSTRUCTION</b></div>
+[Game8](https://game8.jp/ff14/529320) has gone ahead with Hamkatsu's strat for Golbez EX.
 
-The following macros are still kind of tentative.
+{% include youtube.html id="Js6k0I2yImw" %}
 
 ## English
 
