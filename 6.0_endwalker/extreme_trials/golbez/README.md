@@ -24,3 +24,17 @@ permalink: /6.0_endwalker/extreme_trials/golbez/
 ```
 {% include_relative macros/golbez.jp.txt %}
 ```
+
+## Markers
+
+Game8/Hamkatsu uses the following markers:
+
+- `ABCD` are for orientation. 
+- The `1` marker in the middle is for the healer knockback position.
+![](images/markers2.jpg)
+
+I personally quite like these markers:
+
+- `ABCD` are for orientation. 
+- The `1234` markers demarcate the boundaries of the Gale Force line AoEs, and the stack position for the inner stack during Terrastorm #2.
+![](images/markers1.jpg)
