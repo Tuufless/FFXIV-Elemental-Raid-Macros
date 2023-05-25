@@ -2,14 +2,14 @@
 　　D3 MT D4　　　　　N/W/Out: MT H1 D1 D3
 　　H1 ★ H2　　　　　　　S/E/In: ST H2 D2 D4
 　　D1 ST D2
-■ Latent Spark ーーーーーーーーーーーーーーーーー
+■ Lingering Spark ーーーーーーーーーーーーーーー
 　Move when cast finishes
 ■ Double Meteor ーーーーーーーーーーーーーーー
 　DPS: 3-man tower　Flare: North
 　 T/H: 2-man tower　Flare: South　KB: Mid
 ■ Void Stardust ーーーーーーーーーーーーーーーー
 　N1:H1D3　N2:MTD1　S1:H2D4　S2:STD2
-■ Gale Force #2, #3 ーーーーーーーーーーーーーー
+■ Gale Sphere #2, #3 ーーーーーーーーーーーーーー
 　N/W：H1D3　MTD1　STD2　H2D4：S/E
 ■ Eventide Triad ーーーーーーーーーーーーーーーー
 　Tanks→North　Healers→E/W　DPS→South
