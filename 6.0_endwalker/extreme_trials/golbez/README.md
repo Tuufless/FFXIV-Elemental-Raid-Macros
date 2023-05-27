@@ -11,7 +11,20 @@ permalink: /6.0_endwalker/extreme_trials/golbez/
 
 [Game8](https://game8.jp/ff14/529320) has gone ahead with Hamkatsu's strat for Golbez EX.
 
+However, the strat is still very much in turmoil, and has not settled set.
+
 {% include youtube.html id="Js6k0I2yImw" %}
+
+*N.B: Hamkatsu has released a [follow-up video](https://youtu.be/uqJI2jL-8rw) where he updated the Gale Sphere positions to melee-in, ranged-out.
+
+### Things to check
+
+- Check the stack positions for the Meteor + Ice + stacks.
+  - The macro says MT group outside, ST group inside.
+  - MTH1D1D2 (melee) inside, STH2D3D4 (ranged) outside is also very popular.
+- Check how the groups are split for Void Stardust.
+  - The macro splits the arena N/S.
+  - However, E/W is technically better, especially if healer stacks are fixed to E/W.
 
 ## English
 
