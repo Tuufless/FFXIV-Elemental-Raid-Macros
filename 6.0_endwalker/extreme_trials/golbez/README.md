@@ -43,12 +43,12 @@ Game8/Hamkatsu uses the following markers:
 I personally quite like these markers:
 
 - `ABCD` are for orientation. 
-- The `1234` markers demarcate the boundaries of the Gale Force line AoEs, and the stack position for the inner stack during Terrastorm #2.
+- The `1234` markers demarcate the boundaries of the Gale Force line AoEs (markers are *not* safe), and players can stand on the markers to get knocked back to the towers.
 ![](images/markers1.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
 ```json
-{"Name":"Golbez EX","MapID":950,"A":{"X":100.0,"Y":0.03,"Z":87.0,"ID":0,"Active":true},"B":{"X":113.0,"Y":0.03,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.03,"Z":113.0,"ID":2,"Active":true},"D":{"X":87.0,"Y":0.03,"Z":100.0,"ID":3,"Active":true},"One":{"X":93.9,"Y":0.03,"Z":93.9,"ID":4,"Active":true},"Two":{"X":106.1,"Y":0.03,"Z":93.9,"ID":5,"Active":true},"Three":{"X":93.9,"Y":0.03,"Z":106.1,"ID":6,"Active":true},"Four":{"X":106.1,"Y":0.03,"Z":106.1,"ID":7,"Active":true}}
+{"Name":"Golbez EX","MapID":950,"A":{"X":100.0,"Y":0.029,"Z":87.0,"ID":0,"Active":true},"B":{"X":113.0,"Y":0.029,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.029,"Z":113.0,"ID":2,"Active":true},"D":{"X":87.0,"Y":0.029,"Z":100.0,"ID":3,"Active":true},"One":{"X":96.1,"Y":0.029,"Z":96.1,"ID":4,"Active":true},"Two":{"X":103.9,"Y":0.029,"Z":96.1,"ID":5,"Active":true},"Three":{"X":96.1,"Y":0.029,"Z":103.9,"ID":6,"Active":true},"Four":{"X":103.9,"Y":0.029,"Z":103.9,"ID":7,"Active":true}}
 ```
 </details>
