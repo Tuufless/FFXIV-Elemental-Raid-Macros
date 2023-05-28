@@ -11,20 +11,29 @@ permalink: /6.0_endwalker/extreme_trials/golbez/
 
 [Game8](https://game8.jp/ff14/529320) has gone ahead with Hamkatsu's strat for Golbez EX.
 
-However, the strat is still very much in turmoil, and has not settled set.
-
 {% include youtube.html id="Js6k0I2yImw" %}
 
 *N.B: Hamkatsu has released a [follow-up video](https://youtu.be/uqJI2jL-8rw) where he updated the Gale Sphere positions to melee-in, ranged-out.
 
+However, the strat is still very much in turmoil, and has not settled set.
+
 ### Things to check
 
-- Check the stack positions for the Meteor + Ice + stacks.
-  - The macro says MT group outside, ST group inside.
-  - MTH1D1D2 (melee) inside, STH2D3D4 (ranged) outside is also very popular.
-- Check how the groups are split for Void Stardust.
-  - The macro splits the arena N/S.
-  - However, E/W is technically better, especially if healer stacks are fixed to E/W.
+Check the following things:
+
+1. How the groups are split for Void Stardust.
+  - Game8/Hamkatsu puts the **MT group north, ST group south**.
+  - Other strats (Nukemaru/FFO) puts the **MT group west, ST group east**.
+2. The stack positions for the Meteor + Ice + stacks.
+  - Game8/Hamkatsu puts the **MT group outside, ST group inside**.
+  - Other strats (Nukemaru/FFO) puts the **MT group inside, ST group outside**.
+  - Putting **melee inside** (MTH1D1D2), and **ranged outside** (STH2D3D4) is also popular.
+
+The main combinations are:
+
+- **Game8** → N/S Stardust, MT group outside *(most common)*
+- **FFO/Nukemaru** → E/W Stardust, MT group inside
+- **Nukemaru uptime** → E/W Stardust, melee inside
 
 ## English
 
@@ -64,13 +73,4 @@ You can use these markers instead:
 ```json
 {"Name":"Golbez EX","MapID":950,"A":{"X":100.0,"Y":0.029,"Z":87.0,"ID":0,"Active":true},"B":{"X":113.0,"Y":0.029,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.029,"Z":113.0,"ID":2,"Active":true},"D":{"X":87.0,"Y":0.029,"Z":100.0,"ID":3,"Active":true}, "One":{"X":103.9,"Y":0.029,"Z":96.1,"ID":5,"Active":true}, "Two":{"X":103.9,"Y":0.029,"Z":103.9,"ID":7,"Active":true}, "Three":{"X":96.1,"Y":0.029,"Z":103.9,"ID":6,"Active":true}, "Four":{"X":96.1,"Y":0.029,"Z":96.1,"ID":4,"Active":true}}
 ```
-</details>
-
-## Frequently Asked Questions
-
-<details markdown=block>
-<summary><b>[Void Stardust]</b> Why is should the split be E/W instead of N/S?</summary>
-<table>
-  <tr><td><p>This depends on how you decide to stack for Eventide Fall.</p><p>Since the macro has the Eventide Fall stacks on the East and West, it makes sense to also split the arena for Void Stardust East and West as well.</p><p>Not only does this keep things consistent, it avoids a scenario where players have to cross over the arena.</p><p>For example, we split the arena N/S for Void Stardust, but have Eventide Fall stacks be E/W, if the first two AoEs in Void Stardust spawn NE and SW, then H1 would resolve their pair east, but then have to cross over to stack west for Eventide Fall (and vice versa for H2).</p></td></tr>
-</table>
 </details>
