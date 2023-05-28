@@ -44,7 +44,7 @@ Game8/Hamkatsu uses the following markers:
 
 - `ABCD` are for orientation. 
 - The `1` marker in the middle is for the healer knockback position.
-![](images/markers2.jpg)
+![](images/markers1.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
@@ -57,7 +57,7 @@ You can use these markers instead:
 
 - `ABCD` are for orientation. 
 - The `1234` markers demarcate the boundaries of the Gale Force line AoEs (markers are *not* safe), and players can stand on the markers to get knocked back to the towers.
-![](images/markers1.jpg)
+![](images/markers2.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
