@@ -53,7 +53,7 @@ Game8/Hamkatsu uses the following markers:
 ```
 </details>
 
-I personally quite like these markers:
+You can use these markers instead:
 
 - `ABCD` are for orientation. 
 - The `1234` markers demarcate the boundaries of the Gale Force line AoEs (markers are *not* safe), and players can stand on the markers to get knocked back to the towers.
@@ -64,4 +64,13 @@ I personally quite like these markers:
 ```json
 {"Name":"Golbez EX","MapID":950,"A":{"X":100.0,"Y":0.029,"Z":87.0,"ID":0,"Active":true},"B":{"X":113.0,"Y":0.029,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.029,"Z":113.0,"ID":2,"Active":true},"D":{"X":87.0,"Y":0.029,"Z":100.0,"ID":3,"Active":true},"One":{"X":96.1,"Y":0.029,"Z":96.1,"ID":4,"Active":true},"Two":{"X":103.9,"Y":0.029,"Z":96.1,"ID":5,"Active":true},"Three":{"X":96.1,"Y":0.029,"Z":103.9,"ID":6,"Active":true},"Four":{"X":103.9,"Y":0.029,"Z":103.9,"ID":7,"Active":true}}
 ```
+</details>
+
+## Frequently Asked Questions
+
+<details markdown=block>
+<summary><b>[Void Stardust]</b> Why is should the split be E/W instead of N/S?</summary>
+<table>
+  <tr><td><p>This depends on how you decide to stack for Eventide Fall.</p><p>Since the macro has the Eventide Fall stacks on the East and West, it makes sense to also split the arena for Void Stardust East and West as well.</p><p>Not only does this keep things consistent, it avoids a scenario where players have to cross over the arena.</p><p>For example, we split the arena N/S for Void Stardust, but have Eventide Fall stacks be E/W, if the first two AoEs in Void Stardust spawn NE and SW, then H1 would resolve their pair east, but then have to cross over to stack west for Eventide Fall (and vice versa for H2).</p></td></tr>
+</table>
 </details>
