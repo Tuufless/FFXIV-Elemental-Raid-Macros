@@ -30,7 +30,7 @@ To summarize:
 
 - **Game8** → N/S Stardust, MT group outside *(most common)*
 - **FFO/Nukemaru** → E/W Stardust, MT group inside
-- **FFO melee uptime** → E/W Stardust, melee inside
+- **FFO melee uptime** (アース氷近接内) → E/W Stardust, melee inside
 
 ## Game8/Modified Hamkatsu
 
