@@ -12,7 +12,7 @@ permalink: /6.0_endwalker/extreme_trials/golbez/
 There are two strats that are going around:
 
 1. [Game8/Modified Hamkatsu](#game8modified-hamkatsu) *(this is by far the more common strat)*
-2. [FFO](#ffo)
+2. [FFO/Modified Nukemaru](#ffomodified-nukemaru)
 
 ### Things to check
 
@@ -28,8 +28,8 @@ Check the following things:
 
 To summarize:
 
-- **Game8** → N/S Stardust, MT group outside *(most common)*
-- **FFO/Nukemaru** → E/W Stardust, MT group inside
+- **Game8/Modified Hamkatsu** → N/S Stardust, MT group outside *(most common)*
+- **FFO/Modified Nukemaru** → E/W Stardust, MT group inside
 - **FFO melee uptime** (アース氷近接内) → E/W Stardust, melee inside
 
 ## Game8/Modified Hamkatsu
@@ -56,11 +56,12 @@ The key points to note are:
 {% include_relative macros/golbez_g8.jp.txt %}
 ```
 
-## FFO
+## FFO/Modified Nukemaru
 
 Nukemaru has also released their guide to the fight. Nukemaru's strat and FFO are very similar with one exception ([see below](#frequently-asked-questions)).
 
 {% include youtube.html id="yuaQqB-Wi60" %}
+*(English subtitled)*
 
 The key points to note are:
 - Void Stardust splits are **East/West**.
@@ -114,13 +115,23 @@ You can use these markers instead:
 ## Frequently Asked Questions
 
 <details markdown=block>
-<summary><b>[Nukemaru/FFO]</b> What is the difference between the two?</summary>
+<summary><b>[Game8/Modified Hamkatsu]</b> What was the modification made to Hamkatsu's to get to Game8?</summary>
+<table>
+  <tr><td><p>The difference is in the lineup for Gale Spheres #2 and #3.</p>
+  <p>Hamkatsu's original strategy has the tanks/healers and DPS line up differently:</p>
+  <pre><code>N/W：MTD1 > STD2 > H1D3 > H2D4：S/E</code></pre>
+  <p>This has a couple issues, namely that it is difficult for the MT and D1 to maintain uptime on the boss.</p>
+  <p>Hamkatsu released a <a href="https://youtu.be/uqJI2jL-8rw/">follow-up video</a> where he updated the Gale Sphere positions to what we have now (melee-in, ranged-out), which Game8 picked up, hence the "Modified Hamkatsu".</p></td></tr>
+</table>
+</details>
+<details markdown=block>
+<summary><b>[FFO/Modified Nukemaru]</b> What was the modification made to Nukemaru's strat to get to FFO?</summary>
 <table>
   <tr><td><p>The difference is how the two strategies resolves the 4:4 light party stacks during Gale Sphere #2 and #3.</p>
   <ul>
     <li>The <b>FFO strat</b> follows Hamkatsu, and puts the MT group towards N/W, and the ST group towards S/E.</li>
-    <li><b>Nukemaru's strat</b> mirrors the Terrastorm + Arctic Assault stacks, with the MT group near the boss, and the ST group away.</li>
+    <li><b>Nukemaru's strat</b> mirrors the Terrastorm + Arctic Assault stacks, with the MT group near the boss, and the ST group away <em>(and it wasn't clear which side)</em>.</li>
   </ul>
-  <p>If you take Nukemaru's strat, and replace Gale Spheres with the (modified) Hamkatsu's method, you get the FFO strat.</p></td></tr>
+  <p>If you take Nukemaru's strat, and replace Gale Spheres with the melee-in method in Hamkatsu's modified strat, you get the FFO strat.</p></td></tr>
 </table>
 </details>
