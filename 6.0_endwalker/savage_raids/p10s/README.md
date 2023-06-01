@@ -14,3 +14,9 @@ permalink: /6.0_endwalker/savage_raids/p10s/
 Nukemaru has released his video for P10S:
 
 {% include youtube.html id="wCdf3cnq168" %}
+
+### Japanese
+
+```
+{% include_relative macros/p10s.jp.txt %}
+```
