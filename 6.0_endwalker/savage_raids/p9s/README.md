@@ -13,6 +13,12 @@ permalink: /6.0_endwalker/savage_raids/p9s/
 
 {% include youtube.html id="URo06JSGEgM" %}
 
+### Things to check on Party Finder
+
+- Check the Chimeric Succession positions for players marked `1` and `2`.
+    - Some macros have `1` go **west**, and `2` go **east**.
+    - Some macros have `1` go **east**, and `2` go **west**.
+
 ### English
 
 ```
