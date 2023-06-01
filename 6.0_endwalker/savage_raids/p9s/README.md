@@ -47,7 +47,7 @@ The colours indicate the pairs positions (MT/D3 are on red, etc).
 
 You may see the square markers rotated 90 degrees clockwise in Japanese parties.
 
-![](images/markers.jpg)
+![](images/markers2.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
