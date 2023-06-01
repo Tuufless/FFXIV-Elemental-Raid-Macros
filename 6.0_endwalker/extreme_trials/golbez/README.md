@@ -11,8 +11,8 @@ permalink: /6.0_endwalker/extreme_trials/golbez/
 
 There are two strats that are going around:
 
-1. [Game8/Modified Hamkatsu](#game8modified-hamkatsu) *(this is by far the more common strat)*
-2. [FFO/Modified Nukemaru](#ffomodified-nukemaru)
+1. [Game8 (Modified Hamkatsu)](#game8-modified-hamkatsu) *(this is by far the more common strat)*
+2. [FFO (Modified Nukemaru)](#ffo-modified-nukemaru)
 
 ### Things to check
 
@@ -28,11 +28,11 @@ Check the following things:
 
 To summarize:
 
-- **Game8/Modified Hamkatsu** → N/S Stardust, MT group outside *(most common)*
+- **Game8/Modified Hamkatsu** (ハムカツ改) → N/S Stardust, MT group outside *(most common)*
 - **FFO/Modified Nukemaru** → E/W Stardust, MT group inside
 - **FFO melee uptime** (アース氷近接内) → E/W Stardust, melee inside
 
-## Game8/Modified Hamkatsu
+## Game8 (Modified Hamkatsu)
 
 [Game8](https://game8.jp/ff14/529320) has gone ahead with Hamkatsu's strat for Golbez EX.
 
@@ -56,9 +56,11 @@ The key points to note are:
 {% include_relative macros/golbez_g8.jp.txt %}
 ```
 
-## FFO/Modified Nukemaru
+## FFO (Modified Nukemaru)
 
-Nukemaru has also released their guide to the fight. Nukemaru's strat and FFO are very similar with one exception ([see below](#frequently-asked-questions)).
+Nukemaru has also released their guide to the fight, which is the base of the FFO strat.
+
+If you take Nukemaru's strat and also update the Gale Sphere positions like the Modified Hamkatsu strat, you get the FFO strat.
 
 {% include youtube.html id="yuaQqB-Wi60" %}
 *(English subtitled)*
@@ -115,7 +117,7 @@ You can use these markers instead:
 ## Frequently Asked Questions
 
 <details markdown=block>
-<summary><b>[Game8/Modified Hamkatsu]</b> What was the modification made to Hamkatsu's to get to Game8?</summary>
+<summary><b>[Game8]</b> What was the modification made to Hamkatsu's to get to Game8?</summary>
 <table>
   <tr><td><p>The difference is in the lineup for Gale Spheres #2 and #3.</p>
   <p>Hamkatsu's original strategy has the tanks/healers and DPS line up differently:</p>
@@ -125,7 +127,7 @@ You can use these markers instead:
 </table>
 </details>
 <details markdown=block>
-<summary><b>[FFO/Modified Nukemaru]</b> What was the modification made to Nukemaru's strat to get to FFO?</summary>
+<summary><b>[FFO]</b> What was the modification made to Nukemaru's strat to get to FFO?</summary>
 <table>
   <tr><td><p>The difference is how the two strategies resolves the 4:4 light party stacks during Gale Sphere #2 and #3.</p>
   <ul>
