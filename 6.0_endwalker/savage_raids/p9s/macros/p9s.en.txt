@@ -12,4 +12,4 @@
 　Poison：CW from 12 o'clock　D → T/H
 　Cone AoEs：T/H → D
 ■ Chimeric Succession (Limit Cut #2)
-　1 → W　2 → E　3,4 → N　No debuff → S
+　1 → E　2 → W　3,4 → N　No debuff → S
