@@ -20,11 +20,17 @@ Nukemaru has released his video for P10S:
 ### Japanese
 
 ```
-{% include_relative macros/p10s.jp.txt %}
+{% include_relative macros/p10s_nukemaru.jp.txt %}
 ```
 
-## Inumaru's strat
+## Inumaru's strat (FFO)
 
 Inumaru has also released his video for P10S which FFO has picked up for now.
 
 {% include youtube.html id="AMLwlkIvFf0" %}
+
+### Japanese
+
+```
+{% include_relative macros/p10s_ffo.jp.txt %}
+```
