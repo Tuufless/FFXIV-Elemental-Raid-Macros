@@ -114,6 +114,10 @@ You can use these markers instead:
 ```
 </details>
 
+## Timeline
+![](https://preview.redd.it/ap6oimoekt1b1.png?width=2177&format=png&auto=webp&v=enabled&s=89dc7a5fd1b07d415e23b1c263c361b56ce46d29)
+*(Credit: [u/ExiaKuromonji](https://www.reddit.com/r/ffxiv/comments/13qswiz/spoiler_64_ex6_abilities_and_timeline/))*
+
 ## Frequently Asked Questions
 
 <details markdown=block>

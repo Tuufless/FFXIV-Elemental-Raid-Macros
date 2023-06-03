@@ -46,3 +46,7 @@ The FFO strat is Inumaru's strat with two adjustments:
 ```
 
 </details>
+
+## Timeline
+![](https://preview.redd.it/sx39dv14tf3b1.png?width=1771&format=png&auto=webp&v=enabled&s=ca82e7200e0bdc1e1c6aa41e5c0bafbaf29c37fb)
+*(Credit: [u/ExiaKuromonji](https://www.reddit.com/r/ffxiv/comments/13xmxhz/spoiler_64_p10s_timeline_and_abilities/))*
