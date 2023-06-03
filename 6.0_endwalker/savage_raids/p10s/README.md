@@ -9,28 +9,20 @@ permalink: /6.0_endwalker/savage_raids/p10s/
 
 # Anabaseios: The Tenth Circle (Savage)
 
-<div style="background-color: #200 ; padding: 10px; border: 1px solid;"><b>UNDER CONSTRUCTION</b></div>
+[Game8](https://game8.jp/ff14/532718) has gone with the FFO strat.
 
-## Nukemaru's strat
-
-Nukemaru has released his video for P10S:
-
-{% include youtube.html id="wCdf3cnq168" %}
-
-### Japanese
-
-```
-{% include_relative macros/p10s_nukemaru.jp.txt %}
-```
-
-## Inumaru's strat (FFO)
-
-Inumaru has also released his video for P10S which FFO has picked up for now.
+The FFO strat is just Inumaru's strat with a small adjustment to resolve the first set of Dæmoniac Bonds using just the west-side island.
 
 {% include youtube.html id="AMLwlkIvFf0" %}
 
+### English
+
+```
+{% include_relative macros/p10s.en.txt %}
+```
+
 ### Japanese
 
 ```
-{% include_relative macros/p10s_ffo.jp.txt %}
+{% include_relative macros/p10s.jp.txt %}
 ```
