@@ -11,7 +11,12 @@ permalink: /6.0_endwalker/savage_raids/p10s/
 
 [Game8](https://game8.jp/ff14/532718) has gone with the FFO strat.
 
-The FFO strat is just Inumaru's strat with a small adjustment to resolve the first set of Dæmoniac Bonds using just the west-side island.
+The FFO strat is Inumaru's strat with two adjustments:
+
+1. The first set of Dæmoniac Bonds use just the west-side island.
+2. The turret order is different.
+  - Inumaru: (**melee** + tank) → (**healer** + ranged) → (**healer** + tank) → tank
+  - FFO: (**healer** + tank) → (**ranged** + tank) → (**melee** + tank) → tank
 
 {% include youtube.html id="AMLwlkIvFf0" %}
 
