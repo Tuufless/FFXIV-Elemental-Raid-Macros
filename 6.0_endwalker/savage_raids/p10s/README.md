@@ -34,6 +34,9 @@ The FFO strat is Inumaru's strat with two adjustments:
 
 ## Markers
 
+- `A`, `B`, and `4` are markers to stand on for Silksplit.
+- The `1`, `2`, `3` markers are to stand on when building the web for Pandæmoniac Web.
+
 ![](images/markers.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
