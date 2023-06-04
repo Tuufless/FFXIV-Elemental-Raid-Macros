@@ -11,6 +11,18 @@ permalink: /6.0_endwalker/savage_raids/p11s/
 
 <div style="background-color: #200 ; padding: 10px; border: 1px solid;"><b>UNDER CONSTRUCTION</b></div>
 
+## Markers
+
+![](images/markers.jpg)
+<details markdown=block>
+<summary>XIVLauncher WaymarkPresetPlugin positions</summary>
+
+```json
+{"Name":"P11S","MapID":941,"A":{"X":100.0,"Y":0.0,"Z":86.0,"ID":0,"Active":true},"B":{"X":114.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":114.0,"ID":2,"Active":true},"D":{"X":86.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":109.9,"Y":0.0,"Z":90.1,"ID":4,"Active":true},"Two":{"X":109.9,"Y":0.0,"Z":109.9,"ID":5,"Active":true},"Three":{"X":90.1,"Y":0.0,"Z":109.9,"ID":6,"Active":true},"Four":{"X":90.1,"Y":0.0,"Z":90.1,"ID":7,"Active":true}}
+```
+
+</details>
+
 ## Timeline
 ![](https://preview.redd.it/rm6mpxvwhh3b1.png?width=1796&format=png&auto=webp&v=enabled&s=916f64761d5fb5770f590329c1b41cdfc0619b21)
 *(Credit: [u/ExiaKuromonji](https://www.reddit.com/r/ffxiv/comments/13xvne7/spoiler_64_p11s_timeline_and_abilities/))*
