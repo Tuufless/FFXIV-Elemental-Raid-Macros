@@ -50,3 +50,35 @@ The FFO strat is Inumaru's strat with two adjustments:
 ## Timeline
 ![](https://preview.redd.it/sx39dv14tf3b1.png?width=1771&format=png&auto=webp&v=enabled&s=ca82e7200e0bdc1e1c6aa41e5c0bafbaf29c37fb)
 *(Credit: [u/ExiaKuromonji](https://www.reddit.com/r/ffxiv/comments/13xmxhz/spoiler_64_p10s_timeline_and_abilities/))*
+
+## Notes
+
+- If you **do not** have a PLD, you can invuln four Soul Grasps like so:
+
+<table>
+  <tr>
+    <td><b>Soul Grasp #1</b></td>
+    <td>0:24</td>
+    <td>Superbolide > Living Dead</td>
+  </tr>
+  <tr>
+    <td><b>Soul Grasp #2</b></td>
+    <td>2:49</td>
+    <td>Living Dead > Holmgang</td>
+  </tr>
+  <tr>
+    <td><b>Soul Grasp #3</b></td>
+    <td>4:18</td>
+    <td>2x tank share</td>
+  </tr>
+  <tr>
+    <td><b>Soul Grasp #4</b></td>
+    <td>6:24</td>
+    <td>Superbolide > Living Dead</td>
+  </tr>
+  <tr>
+    <td><b>Soul Grasp #5</b></td>
+    <td>8:10</td>
+    <td>Living Dead > Holmgang</td>
+  </tr>
+</table>
