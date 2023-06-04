@@ -33,6 +33,8 @@ The colours indicate the pairs positions (MT/D3 are on red, etc).
 {"Name":"P11S","MapID":941,"A":{"X":100.0,"Y":0.0,"Z":86.0,"ID":0,"Active":true},"B":{"X":114.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":114.0,"ID":2,"Active":true},"D":{"X":86.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":90.101,"Y":0.0,"Z":90.101,"ID":4,"Active":true},"Two":{"X":109.899,"Y":0.0,"Z":90.101,"ID":5,"Active":true},"Three":{"X":109.899,"Y":0.0,"Z":109.899,"ID":6,"Active":true},"Four":{"X":90.101,"Y":0.0,"Z":109.899,"ID":7,"Active":true}}
 ```
 
+</details>
+
 You may see the square markers rotated 90 degrees clockwise in Japanese parties.
 
 ![](images/markers2.jpg)
