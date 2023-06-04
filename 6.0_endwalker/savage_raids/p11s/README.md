@@ -11,6 +11,16 @@ permalink: /6.0_endwalker/savage_raids/p11s/
 
 <div style="background-color: #200 ; padding: 10px; border: 1px solid;"><b>UNDER CONSTRUCTION</b></div>
 
+PF is currently split between Shinosho's strat and Hamkatsu's strat.
+
+### Shinosho
+
+{% include youtube.html id="KrSiLn45934" %}
+
+### Hamkatsu
+
+{% include youtube.html id="-EM-XR6qocU" %}
+
 ## Markers
 
 The colours indicate the pairs positions (MT/D3 are on red, etc).
