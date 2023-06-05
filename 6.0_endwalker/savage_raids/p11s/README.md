@@ -11,15 +11,22 @@ permalink: /6.0_endwalker/savage_raids/p11s/
 
 <div style="background-color: #200 ; padding: 10px; border: 1px solid;"><b>UNDER CONSTRUCTION</b></div>
 
-PF is currently split between Shinosho's strat and Hamkatsu's strat.
-
-### Shinosho
-
-{% include youtube.html id="KrSiLn45934" %}
-
-### Hamkatsu
+[Game8](https://game8.jp/ff14/532825) is using an updated version of Hamkatsu's strat, with ZizieZip's updated Light and Darkness strat.
 
 {% include youtube.html id="-EM-XR6qocU" %}
+
+### Things to check on Party Finder
+
+- **Japanese** parties will:
+  - Begin Shadowed Messengers with the boss facing true West. This results in two movements while dodging all the AoEs, but doesn't rely on the MT looking for the Light clone.
+- **English** groups will:
+  - Begin Shadowed Messengers with the boss facing the Light clone (or directly opposite), resulting in one less movement from the dodge.
+
+### Japanese
+
+```
+{% include_relative macros/p11s.jp.txt %}
+```
 
 ## Markers
 
