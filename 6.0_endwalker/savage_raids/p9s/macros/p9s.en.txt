@@ -2,7 +2,7 @@
 　D3 MT D4　　　　　　　MT/D3
 　H1 ★ H2　　　　H1/D1　★　H2/D4
 　D1 ST D2　　　　　　　 ST/D2
-■ Archaic Demonish (4:4 stacks)
+■ Archaic Demolish (4:4 stacks)
 　West：MTH1D1D3 / STH2D2D4 ：East
 ■ Scrambled Succession (Limit Cut #1)
 　Nothing：Start at 1, drop blue AoEs at walls
