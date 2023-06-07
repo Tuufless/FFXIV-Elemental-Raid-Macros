@@ -17,7 +17,7 @@ permalink: /6.0_endwalker/savage_raids/p9s/
 
 - Check the Scrambled Succession ("Limit Cut 1") strat used.
   - **Japanese** parties will go with the strat that has [the party run around in a circle](#nukemarusleepo無色マラソン) (known as 無職マラソン in Japanese).
-  - **English** parties may do the "Intercardinal" strat that resolves two of the Ice AoEs at one corner, before flipping the map around (known as ぶたばら式 in Japanese).
+  - **English** parties may do the ["Intercard" strat](#intercardbraindeadぶたばら式) that resolves two of the Ice AoEs at one corner, before flipping the map around (known as ぶたばら式 in Japanese).
 
 - Check the Chimeric Succession positions for players marked `1` and `2`.
   - Some macros have `1` go **west**, and `2` go **east**.
