@@ -22,6 +22,12 @@ permalink: /6.0_endwalker/savage_raids/p11s/
 - **English** groups will:
   - Begin Shadowed Messengers with the boss facing the Light clone (or directly opposite), resulting in one less movement from the dodge.
 
+### English
+
+```
+{% include_relative macros/p11s.en.txt %}
+```
+
 ### Japanese
 
 ```

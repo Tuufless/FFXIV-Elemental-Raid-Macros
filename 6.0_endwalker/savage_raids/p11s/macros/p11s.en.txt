@@ -1,24 +1,29 @@
 MT-group：MTH1D1D3　ST-group：STH2D2D4
-　【Spread】　　　　【Darkness/Towers】
-　　D3 MT D4　　｜　　　　　MTD3
-　　H1 ★ H2 　　｜　　　H1D1 ★ H2D4
-　　D1 ST D2　　｜　　　　　　STD2
-　※True North 　｜　※X-formation⇒rotate ccw
+　【Spread】　　　【Darkness Pairs/Towers】
+　　D3 MT D4　　｜　　　　MTD3
+　　H1 ★ H2 　　｜　　H1D1 ★ H2D4
+　　D1 ST D2　　｜　　　　　STD2
+　※True North 　｜×-formation → Rotate CCW
 【Arcane Revelation ＆ Shadowed Messengers】
-　MT-group：Start West　ST-group：Start East
-Divisive Overruling (Dark)⇒ Facing boss Left:MTD3/STD2 Right:H1D1/H2D4
-※Shadowed Messenger tethers⇒Tank：Nearest marker　Light：Mid
+　　MT-group：Start West　ST-group：Start East
+【Divisive Overruling (Dark)】　※ Facing boss
+　　　← MTD3/STD2　▼　H1D1/H2D4 →
+　※ Shadowed Messenger tethers
+　　Tank：Nearest marker　　Light：Mid
 【Divisive Overruling (Lightstream)】
-Facing boss Left:MTD3/STD2 Right:H1D1/H2D4
-【Dark and Light：ZizieZip】
-Light⇒TH：West　DPS：East
-Dark⇒TH：East　DPS：West
+　　　← MT-group　▼　ST-group →
+【Dark and Light：ZizieZip】※ Rotate CW
+　　Light ⇒ TH：West　　DPS：East
+　　Dark ⇒ TH：East　　DPS：West
 【Divisive Overruling (Dark and Light)】
-Wait at a marker→Rotate clockwise when orientation is fixed
-Darkness Pairs⇒Facing boss：Short tether(Different colours)：Left　Long tether(Same colours)：Right
+　Wait at a marker → Rotate clockwise
+　Dark pairs：
+　　　← Short tethers　▼　Long tethers →
 【Dark Current】
-MT-group:N/W ST-group:S/E
-Inside: Tank front, Melee back / Outside: Healer front, Ranged back
+　　MT-group：N/W　　ST-group：S/E
+　　※ In the direction of travel：
+　　　T/H：Forward　　DPS：Back
+　　　Inside: T + M　　Outside：H + R
 【Letter of the Law】
-Dark tether mid　Light tether stay
-Towers：Same as pairs (using true north)
+　　Dark tether：Mid　Light tether：Outside
+　　Towers：Pair positions (use True North)
