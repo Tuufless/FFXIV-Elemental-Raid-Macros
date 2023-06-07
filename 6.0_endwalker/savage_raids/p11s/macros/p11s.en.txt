@@ -1,26 +1,24 @@
-■Tetra/Octa/baits/Snakes 2　 ■ Basic Spread
-　MT/D3　→　ST/D4　　　　　　  D3 MT D4
-　　↑　　 ☆　　↓　　　　　　　　H1(H2) ST
-　H1/D1　←　H2/D2　　　　　　 D1 H2 D2
-■ Into the Shadows #1
-　Gorgons：From N, going clockwise
-　　　MTD1>STD2>H1D3>H2D4
-■ Stomp Dead
-　1st, 3rd→NW　2nd, 4th→mid　Standby→N
-■ Illusory Creation
-◎2x Dragon + spread│◎ 2x Phoenix + spread
-　　　　D3　　　 　 　│　D3 MT D4
-　　　　MT　ST　D4   │　H1 ☆  ST
-　　H1 D1　D2　　　 │　D1 H2 D2
-　　　　　　 H2　　 　│
-■Fourfold Fires(sides) ｜■Fourfold Fires(corners)
-　　　　　 MT　　　　　│　　　　(BOSS)
-　　　 D1 ST D2 　　　   ｜　T　M　　※MT group：　
-　　D3 H1 H2 D4 　　　│　R　H　　　West priority
-◎ Stacks：M+H locations (MTD1/STD2/H1D3/H2D4)
-■ Into the Shadows #2 (4:4 stacks)
-　Debuffs：N/W：MT/D1>ST/D2>H1/D3>H2/D4：S/E
-　Nothing：N/W→TH　S/E→DPS
-■ Tetraflare/Diflare
-　Tetraflare：(Boss)MT/D1>ST/D2>H1/D3>H2/D4
-　Diflare：(Boss)MTH1D1D2>STH2D3D4 
+MT-group：MTH1D1D3　ST-group：STH2D2D4
+　【Spread】　　　　【Darkness/Towers】
+　　D3 MT D4　　｜　　　　　MTD3
+　　H1 ★ H2 　　｜　　　H1D1 ★ H2D4
+　　D1 ST D2　　｜　　　　　　STD2
+　※True North 　｜　※X-formation⇒rotate ccw
+【Arcane Revelation ＆ Shadowed Messengers】
+　MT-group：Start West　ST-group：Start East
+Divisive Overruling (Dark)⇒ Facing boss Left:MTD3/STD2 Right:H1D1/H2D4
+※Shadowed Messenger tethers⇒Tank：Nearest marker　Light：Mid
+【Divisive Overruling (Lightstream)】
+Facing boss Left:MTD3/STD2 Right:H1D1/H2D4
+【Dark and Light：ZizieZip】
+Light⇒TH：West　DPS：East
+Dark⇒TH：East　DPS：West
+【Divisive Overruling (Dark and Light)】
+Wait at a marker→Rotate clockwise when orientation is fixed
+Darkness Pairs⇒Facing boss：Short tether(Different colours)：Left　Long tether(Same colours)：Right
+【Dark Current】
+MT-group:N/W ST-group:S/E
+Inside: Tank front, Melee back / Outside: Healer front, Ranged back
+【Letter of the Law】
+Dark tether mid　Light tether stay
+Towers：Same as pairs (using true north)

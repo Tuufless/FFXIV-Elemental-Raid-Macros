@@ -145,3 +145,65 @@ This is the strat chosen by Game8 that involves splitting the party into two gro
     <td><img src="images/lc1_nukemaru_10.jpg"></td>
   </tr>
 </table>
+
+### Intercard/"Braindead"/ぶたばら式
+
+This is the strat more favoured in EN that involves resolving the Ice/Fire twice before swapping sides. Of note, the player numbered 6 needs to pay special attention as they can potentially cause a party wipe if they are slow to move.
+
+(N.B: This is also confusingly called the "JP strat", even though JP DCs no longer do this.)
+
+- Start between the orbs numbered 5 and 7.
+- First two iterations:
+  - Ice goes between the orbs numbered 1 and 3.
+  - Fire (players 2 and 4) goes between the orbs numbered 5 and 7.
+- Last two iterations (swap sides):
+  - Ice goes between the orbs numbered 5 and 7.
+  - Fire (players 6 and 8) goes between the orbs numbered 1 and 3.
+
+<table>
+  <tr>
+    <td width="50%"><p><b>1.</b> Numbers appear. All players go between the orbs numbered 5 and 7.</p>
+    <ul><li><b>2:</b> You can preposition at the outer edge behind the party.</li></ul></td>
+    <td><img src="images/lc1_intercard_01.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>2.</b> The first blue mark appears on a random player that did not have a number.</p>
+    <ul><li><b>If you were marked:</b> Move to the opposite edge (between the orbs numbered 1 and 3).</li></ul></td>
+    <td><img src="images/lc1_intercard_02.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>3.</b> The boss will become untargetable, teleport behind the orb numbered 1, and kick it across the arena.</p><p>When the orb hits the wall, it will explode in an AoE and leave behind a tower.</p><ul><li><b>6:</b> Enter the tower after the orb explodes.</li></ul><p>A second non-numbered player will get a blue mark.</p></td>
+    <td><img src="images/lc1_intercard_03.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>4.</b> First round of AoEs resolve together:</p><ul><li>A giant Ice AoE on the player with the blue orb</li><li>A Fire AoE on the even-numbered player.</li><li>The tower left behind by the first orb.</li></ul>
+    <p>The next pair of players (the second marked player and the player numbered 4) takes over the previous two player's positions.</p></td>
+    <td><img src="images/lc1_intercard_04.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>5.</b> The boss will teleport behind next orb (3), and kick it across the arena.</p><ul><li><b>8:</b> Enter the tower after the orb explodes.</li></ul><p>The next non-numbered player will get a blue mark.</p></td>
+    <td><img src="images/lc1_intercard_05.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>6.</b> Second round of AoEs resolve together with the tower.</p><p><b>All players swap sides.</b></p>
+    <ul><li><p>The next numbered player (6) moves to the opposite end of the arena (between where the orbs numbered 1 and 3 were).</p><p><b>Be quick. Sprint is recommended.</b></p></li><li>The third marked player goes to the edge where the party was standing (between the two remaining orbs).</li></ul></td>
+    <td><img src="images/lc1_intercard_06.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>7.</b> The boss will teleport behind next orb (5), and kick it across the arena.</p><ul><li><b>2:</b> Enter the tower after the orb explodes.</li></ul><p>The remaining non-numbered player will get a blue mark.</p></td>
+    <td><img src="images/lc1_intercard_07.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>8.</b> Third round of AoEs resolve together with the tower.</p>
+    <p>The next pair of players (the fourth marked player and the player numbered 8) takes over the previous two player's positions.</p></td>
+    <td><img src="images/lc1_intercard_08.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>9.</b> The boss will teleport behind final orb (7), and kick it across the arena.</p><ul><li><b>4:</b> Enter the tower after the orb explodes.</li></ul></td>
+    <td><img src="images/lc1_intercard_09.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>10.</b> Final round of AoEs resolve together with the tower.</p><p>Quickly heal up, and prepare for Two Minds.</p></td>
+    <td><img src="images/lc1_intercard_10.jpg"></td>
+  </tr>
+</table>
