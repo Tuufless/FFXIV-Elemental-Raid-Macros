@@ -21,9 +21,9 @@ MT-group：MTH1D1D3　ST-group：STH2D2D4
 　　　← Short tethers　▼　Long tethers →
 【Dark Current】
 　　MT-group：N/W　　ST-group：S/E
-　　※ In the direction of travel：
 　　　T/H：Forward　　DPS：Back
 　　　Inside: T + M　　Outside：H + R
 【Letter of the Law】
+　　Tank tether：N/E　　Others：S/W
 　　Dark tether：Mid　Light tether：Outside
 　　Towers：Pair positions (use True North)
