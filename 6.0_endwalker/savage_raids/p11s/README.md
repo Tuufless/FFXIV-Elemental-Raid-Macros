@@ -128,9 +128,9 @@ The party will always rotate **clockwise** to resolve the upcoming mechanics.
     <p>From the stack positions in the previous step:</p>
     <ul>
       <li><b>Long Light:</b> Stay where you are.</li>
-      <li><b>Long Dark:</b> Rotate one clockwise 45 degrees.</li>
-      <li><b>Short Light:</b> Rotate clockwise 90 degrees (these will always be DPS).</li>
-      <li><b>Short Dark:</b> Rotate clockwise 135 degrees (these will always be Tanks/Healers).</li>
+      <li><b>Long Dark:</b> Rotate clockwise once (45 degrees).</li>
+      <li><b>Short Light:</b> Rotate clockwise twice (90 degrees).</li>
+      <li><b>Short Dark:</b> Rotate clockwise three times (135 degrees).</li>
     </ul>
     <p>The long tethers can use the waymarks on the ground.</p><p>The short tethers will use the diamond marks on the floor inside the boss's targeting circle.</p></td>
     <td><img src="images/dark_and_light_05.jpg"></td>
