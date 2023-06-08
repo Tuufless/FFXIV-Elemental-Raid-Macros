@@ -154,7 +154,8 @@ The party will always rotate **clockwise** to resolve the upcoming mechanics.
       <ul>
         <li><b>Short tethers:</b> Rotate <b>clockwise</b>.</li>
         <li><b>Long tethers:</b> Rotate <b>anti-clockwise</b>.</li>
-    </ul></td>
+      </ul>
+    </li></ul></td>
     <td><img src="images/dark_and_light_09a.jpg">
     <img src="images/dark_and_light_09b.jpg"></td>
   </tr>
