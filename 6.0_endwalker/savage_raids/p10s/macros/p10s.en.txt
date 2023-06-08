@@ -4,7 +4,7 @@
 　ST H1 MT 　　　   ｜D1 MT ST D2
 　D1 H2 D2 　　　  ｜
 　D3　　D4　　　   ｜D3 H1 H2 D4
-■ Silksplit-------------｜■ Steel Web -------------------
+■ Silkspit--------------｜■ Steel Web -------------------
 　MT　　　　　　ST｜ TH → Left　DPS → Right
 　　　D1 　　D2 　 ｜ Fans → Point North
 　　　　　H1 　　　｜ Stacks → South in a line
