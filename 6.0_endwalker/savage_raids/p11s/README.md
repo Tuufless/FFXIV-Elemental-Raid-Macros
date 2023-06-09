@@ -9,8 +9,6 @@ permalink: /6.0_endwalker/savage_raids/p11s/
 
 # Anabaseios: The Eleventh Circle (Savage)
 
-<div style="background-color: #200 ; padding: 10px; border: 1px solid;"><b>UNDER CONSTRUCTION</b></div>
-
 [Game8](https://game8.jp/ff14/532825) is using an updated version of Hamkatsu's strat, with ZizieZip's updated Light and Darkness strat.
 
 {% include youtube.html id="-EM-XR6qocU" %}
