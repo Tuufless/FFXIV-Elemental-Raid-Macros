@@ -13,7 +13,7 @@ permalink: /6.0_endwalker/savage_raids/p12s_1/
 
 Nukemaru has released a video going over the fight:
 
-{% include youtube.html id="_mfBKUzGeao" %}
+{% include youtube.html id="hkCG_VH4sI4" %}
 
 ### Japanese
 
