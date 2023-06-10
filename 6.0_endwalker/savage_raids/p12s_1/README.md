@@ -15,6 +15,12 @@ Nukemaru has released a video going over the fight:
 
 {% include youtube.html id="hkCG_VH4sI4" %}
 
+### English
+
+```
+{% include_relative macros/p12s_1.en.txt %}
+```
+
 ### Japanese
 
 ```
