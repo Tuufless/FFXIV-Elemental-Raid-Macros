@@ -12,11 +12,12 @@
 　H1　　　H2　　H1/D3　H2/D4　　H1D3　　　　　
 　　D3　D4　　　　　　　　　　　　　H2D4
 ーーーーーーーーーーーーーーーーーーーーーーーー
-　《Beams/4:4》　　　《Towers/AoE Spread》
-　　　　　★　　　　　　　MT/D1　　ST/D2
-　□ Beam　  ■ Beam　　　　　　★
-　■ Debuff　□ Debuff　　  ■ Towers □
-　　　　　　　　　　　　　H1/D3　　H2/D4
+■ Superchain Theory I - (L)ight and (D)ark
+　　《Beams/4:4》　　　《Towers/AoE Spread》
+　　　　　　★　　　　　　　MT/D1　　ST/D2
+　(D) Beam　  (L) Beam　　　　　　★
+　(L) Debuff　(D) Debuff　　(L) Towers (D)
+　　　　　　　　　　　　　　H1/D3　　H2/D4
 ーーーーーーーーーーーーーーーーーーーーーーーー
 ■ Apodialogos ：H/D near + Tanks far
 　 Peridialogos：Tanks near + H/D far
