@@ -38,3 +38,12 @@ Nukemaru has released a video going over the fight:
 ```
 
 </details>
+
+## Frequently Asked Questions
+
+<details markdown=block>
+<summary><b>[Paradeigma 2, 3]</b> Can two tanks (or two healers) both get tethered (or equivalently, debuffed)?</summary>
+<table>
+  <tr><td><p>Yes.</p><p>One <em>tank or healer</em> will get a Light tether/debuff, and another <em>tank or healer</em> will get a Dark tether/debuff.</p><p>Both tanks can have tethers, and both healers can have debuffs (or vice versa).</p></td></tr>
+</table>
+</details>
