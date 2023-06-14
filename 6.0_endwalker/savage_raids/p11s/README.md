@@ -158,3 +158,12 @@ The party will always rotate **clockwise** to resolve the upcoming mechanics.
     <img src="images/dark_and_light_09b.jpg"></td>
   </tr>
 </table>
+
+## Frequently Asked Questions
+
+<details markdown=block>
+<summary><b>[Letter of the Law]</b> Why is the split N/E vs S/W, and not N/W vs S/E like before?</summary>
+<table>
+  <tr><td><p>This is because the logic is "from your base positions, rotate clockwise as needed".</p><p>For most other mechanics, the base positions are E/W, which means the MT group takes W or N, while the ST group takes E or S.</p><p>With Letter of the Law, the "natural" position there (supposedly) is the usual "tanks North, party South". By then applying the same logic above, you then get "tanks N or E, party S or W".</p></td></tr>
+</table>
+</details>
