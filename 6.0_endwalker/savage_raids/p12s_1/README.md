@@ -41,3 +41,7 @@ permalink: /6.0_endwalker/savage_raids/p12s_1/
 ```
 
 </details>
+
+## Timeline
+![](images/timeline.jpg)
+*(Credit: [u/ExiaKuromonji](https://www.reddit.com/r/ffxiv/comments/141xz50/spoiler64_p12s_part_1_timeline_and_abilities/))*

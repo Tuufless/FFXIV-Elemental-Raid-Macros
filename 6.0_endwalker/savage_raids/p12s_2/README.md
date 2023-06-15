@@ -10,3 +10,7 @@ permalink: /6.0_endwalker/savage_raids/p12s_2/
 # Anabaseios: The Twelfth Circle (Savage) - Part 2
 
 <div style="background-color: #200 ; padding: 10px; border: 1px solid;"><b>UNDER CONSTRUCTION</b></div>
+
+## Timeline
+![](images/timeline.jpg)
+*(Credit: [u/ExiaKuromonji](https://www.reddit.com/r/ffxiv/comments/141y028/spoiler64_p12s_part_2_timeline_and_abilities/))*
