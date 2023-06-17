@@ -18,6 +18,10 @@ permalink: /6.0_endwalker/savage_raids/p12s_1/
 - Idyllshire's Paradeigma 3
 - Neverland's Limit Cut
 
+### Approximate milestones
+
+- **32%** when the boss disappears for Limit Cut.
+
 ### English
 
 ```
