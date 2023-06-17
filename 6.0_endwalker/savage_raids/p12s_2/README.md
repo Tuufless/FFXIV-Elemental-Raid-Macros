@@ -15,7 +15,7 @@ permalink: /6.0_endwalker/savage_raids/p12s_2/
 
 Meanwhile, Nukemaru has published a video outlining the PF strat:
 
-{% include youtube.html id="wqhEshextys" %}
+{% include youtube.html id="5c3-Rinh6lA" %}
 
 ### English
 
