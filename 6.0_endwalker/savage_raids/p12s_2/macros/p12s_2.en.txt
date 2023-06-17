@@ -19,7 +19,7 @@
 ■ Pangenesis
 　No stacks：Gather slime tethers → Dodge East
 　MT：Invuln Palladian Grasp West
-　1 stack：West ← MTSTH1H2D1D2D3D4 → East
+　Colourless：W ← MTSTH1H2D1D2D3D4 → E
 　No stacks：
 　　Wait → N tower → Tower → W to , E to 
 ■ Caloric Theory 2 (Starting positions)
