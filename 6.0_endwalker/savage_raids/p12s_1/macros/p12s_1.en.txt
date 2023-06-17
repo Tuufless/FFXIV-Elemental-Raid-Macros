@@ -29,7 +29,7 @@
 ーーーーーーーーーーーーーーーーーーーーーーーー
 ■ Palladion (Limit Cut) - Neverland
 　　　　★
-　　　　2/4　　　　※ 2,4 stacks along the
+　　　　　2/4　　　※ 2,4 stacks along the
 　　5/7　　6/8　　　　edge, not corner
 　　　　1/3　　　　※ Drop puddles clockwise
 　※ Beams：5, 7 → 6, 8 → 1, 3 → 2, 4
