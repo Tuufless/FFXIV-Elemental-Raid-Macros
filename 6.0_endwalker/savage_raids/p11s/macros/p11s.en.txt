@@ -9,7 +9,7 @@ MT-group：MTH1D1D3　ST-group：STH2D2D4
 【Divisive Overruling (Dark)】　※ Facing boss
 　　　← MTD3/STD2　▼　H1D1/H2D4 →
 　※ Shadowed Messenger tethers
-　　Tank：Nearest marker　　Light：Mid
+　　Tank：North　　Light：Mid
 【Divisive Overruling (Lightstream)】
 　　　← MT-group　▼　ST-group →
 【Dark and Light：ZizieZip】※ Rotate CW
