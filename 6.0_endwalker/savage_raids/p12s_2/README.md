@@ -29,6 +29,12 @@ Meanwhile, Nukemaru has published a video outlining the PF strat:
 {% include_relative macros/p12s_2.jp.txt %}
 ```
 
+## Markers
+
+![](images/markers.jpg)
+<details markdown=block>
+<summary>XIVLauncher WaymarkPresetPlugin positions</summary>
+
 ## Timeline
 ![](images/timeline.jpg)
 *(Credit: [u/ExiaKuromonji](https://www.reddit.com/r/ffxiv/comments/141y028/spoiler64_p12s_part_2_timeline_and_abilities/))*

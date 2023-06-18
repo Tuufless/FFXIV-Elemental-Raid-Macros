@@ -34,3 +34,9 @@
 　Moves ＞ MTD1・STD2・H1D3・H2D4 ＜ Stays
 ■ Summon Darkness (Tethers)
 　Resolve in pairs: MTD1　STD2　H1D3　H2D4
+■ Palladian Ray 2
+　●　　●　　●　　●
+　□α ★ △α 　×α ★ 〇α　※ Bait first → go to ★
+　●　　●　　●　　●
+　□β ★ △β　 ×β ★ 〇β
+　●　　●　　●　　●
