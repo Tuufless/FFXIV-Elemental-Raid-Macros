@@ -20,7 +20,7 @@ permalink: /6.0_endwalker/savage_raids/p12s_1/
 
 ### Approximate milestones
 
-- **32%** when the boss disappears for Limit Cut.
+- **Under 32%** when the boss disappears for Limit Cut.
 
 ### English
 
@@ -49,3 +49,8 @@ permalink: /6.0_endwalker/savage_raids/p12s_1/
 ## Timeline
 ![](images/timeline.jpg)
 *(Credit: [u/ExiaKuromonji](https://www.reddit.com/r/ffxiv/comments/141xz50/spoiler64_p12s_part_1_timeline_and_abilities/))*
+
+### Limit Cut
+
+![](images/limit_cut.jpg)
+*(Credit: [R'ubia Neko](https://twitter.com/RubiaNeko/status/1670087804431536128?s=20))*

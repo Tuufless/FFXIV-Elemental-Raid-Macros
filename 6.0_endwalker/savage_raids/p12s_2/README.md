@@ -32,9 +32,12 @@ Meanwhile, Nukemaru has published a video outlining the PF strat:
 ## Markers
 
 ![](images/markers.jpg)
-<details markdown=block>
-<summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
 ## Timeline
 ![](images/timeline.jpg)
 *(Credit: [u/ExiaKuromonji](https://www.reddit.com/r/ffxiv/comments/141y028/spoiler64_p12s_part_2_timeline_and_abilities/))*
+
+### Caloric Theory 1 (Mochibe strat)
+
+![](images/caloric_mochibe.jpg)
+*(Credit: Unknown)*
