@@ -18,7 +18,7 @@ Meanwhile, Nukemaru has published a video outlining the PF strat:
 {% include youtube.html id="5c3-Rinh6lA" %}
 
 ### English
-
+*(This macro is not yet in sync with the Japanese version)*
 ```
 {% include_relative macros/p12s_2.en.txt %}
 ```
