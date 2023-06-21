@@ -18,7 +18,7 @@ Meanwhile, Nukemaru has published a video outlining the PF strat:
 {% include youtube.html id="5c3-Rinh6lA" %}
 
 ### English
-*(This macro is not yet in sync with the Japanese version)*
+
 ```
 {% include_relative macros/p12s_2.en.txt %}
 ```
@@ -36,8 +36,3 @@ Meanwhile, Nukemaru has published a video outlining the PF strat:
 ## Timeline
 ![](images/timeline.jpg)
 *(Credit: [u/ExiaKuromonji](https://www.reddit.com/r/ffxiv/comments/141y028/spoiler64_p12s_part_2_timeline_and_abilities/))*
-
-### Caloric Theory 1 (Mochibe strat)
-
-![](images/caloric_mochibe.jpg)
-*(Credit: Unknown)*
