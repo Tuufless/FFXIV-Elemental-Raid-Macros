@@ -12,6 +12,7 @@ permalink: /6.0_endwalker/savage_raids/p12s_1/
 [Game8](https://game8.jp/ff14/534748) has gone along with Nukemaru's strategy for the fight:
 
 {% include youtube.html id="hkCG_VH4sI4" %}
+*(English subtitled)*
 
 - Invuln Paradeigma 1
 - 十-shaped Paradeigma 2
