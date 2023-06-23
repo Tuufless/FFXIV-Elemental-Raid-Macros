@@ -31,7 +31,17 @@ Meanwhile, Nukemaru has published a video outlining the PF strat:
 
 ## Markers
 
+The following markers are for Mochibe's Caloric Theory 1 strat:
+
 ![](images/markers.jpg)
+<details markdown=block>
+<summary>XIVLauncher WaymarkPresetPlugin positions</summary>
+
+```json
+{"Name":"P12S-2 (Mochibe)","MapID":943,"A":{"X":97.67,"Y":0.0,"Z":92.67,"ID":0,"Active":true},"B":{"X":102.33,"Y":0.0,"Z":92.67,"ID":1,"Active":true},"C":{"X":102.33,"Y":0.0,"Z":97.33,"ID":2,"Active":true},"D":{"X":97.67,"Y":0.0,"Z":97.33,"ID":3,"Active":true},"One":{"X":99.0,"Y":0.0,"Z":81.0,"ID":4,"Active":true},"Two":{"X":119.0,"Y":0.0,"Z":91.0,"ID":5,"Active":true},"Three":{"X":105.67,"Y":0.0,"Z":101.0,"ID":6,"Active":true},"Four":{"X":94.33,"Y":0.0,"Z":101.0,"ID":7,"Active":true}}
+```
+
+</details>
 
 ## Timeline
 ![](images/timeline.jpg)
