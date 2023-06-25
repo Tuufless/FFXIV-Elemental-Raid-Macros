@@ -51,7 +51,27 @@ permalink: /6.0_endwalker/savage_raids/p12s_1/
 ![](images/timeline.jpg)
 *(Credit: [u/ExiaKuromonji](https://www.reddit.com/r/ffxiv/comments/141xz50/spoiler64_p12s_part_1_timeline_and_abilities/))*
 
-### Limit Cut
+## Superchain Theory 1
+
+The debuffs applied during Superchain Theory 1 split the party into tanks/healers and DPS:
+
+- One role is responsible for placing and resolving the aspected towers.
+- The other role will spread for the Heavensflame AoEs.
+
+Because of this, the movement after the third set of shapes is fixed:
+
+<table>
+  <tr>
+    <th>Tanks + Healers Heavensflame, DPS towers</th>
+    <th>DPS Heavensflame, Tanks + Healers towers</th>
+  </tr>
+  <tr>
+    <td><img src="images/superchain_theory_01a.jpg"></td>
+    <td><img src="images/superchain_theory_01b.jpg"></td>
+  </tr>
+</table>
+
+## Limit Cut
 
 ![](images/limit_cut.jpg)
 *(Credit: [R'ubia Neko](https://twitter.com/RubiaNeko/status/1670087804431536128?s=20))*
