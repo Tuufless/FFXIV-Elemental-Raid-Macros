@@ -121,9 +121,10 @@ The following markers are for Mochibe's Caloric Theory 1 strat:
 
 ## Nukemaru + Papan's Caloric 1
 
-This is the preferred strat by EN. The macro below follows [Papan's Toolbox](https://ff14.toolboxgaming.space/?id=845983862306861&preview=1) and the following video guide:
+This is the preferred strat by EN. The macro below follows [Papan's Toolbox](https://ff14.toolboxgaming.space/?id=845983862306861&preview=1).
 
-{% include youtube.html id="r1aDCRfNTWc" %}
+<div style="background-color: #200 ; padding: 10px; border: 1px solid;">
+<b>Note:</b> There is a <a href="https://youtu.be/r1aDCRfNTWc"><b>video guide on Papan's strat</b></a>- however, it has <em>flipped the melee and ranged priority</em> from the Toolbox (and thus is also flipped from the macro).</div>
 
 ### English (Papan)
 
