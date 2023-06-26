@@ -74,11 +74,11 @@ The following markers are for Mochibe's Caloric Theory 1 strat:
     <p>The party also takes raid-wide damage.</p>
     <p>All party members get marked with either Pyrefaction (Fire <img style="height:1em" src="images/pyrefaction.png">) or Atmosfaction (Wind <img style="height:1em" src="images/atmosfaction.png">) debuffs.</p>
     <ul><li>The two marked players are guaranteed to get Wind.</li><li>The remaining four Fire and two Wind debuffs are randomly distributed among the six unmarked players.</li></ul>
-    <p><em>In this example:</p>
+    <p><em>In this example:</em></p>
     <ul>
-      <li>MT, D1, D2, D4 are marked for Fire.</li>
-      <li>ST, H1, H2, D3 are marked for Wind.</li>
-    </ul></em></td>
+      <li><em>MT, D1, D2, D4 are marked for Fire.</em></li>
+      <li><em>ST, H1, H2, D3 are marked for Wind.</em></li>
+    </ul></td>
     <td><img src="images/mochibe_02.jpg"></td>
   </tr>
   <tr>
@@ -90,14 +90,13 @@ The following markers are for Mochibe's Caloric Theory 1 strat:
     <p><b>Clockwise from A:</b> MT ST H1 H2 D1 D2 D3 D4</p>
     <p>The pairs on the north side should stand in the markers, but <b>above</b> the blue line.</p>
     <p>Similarly, the pairs on the south side should stand in the markers, but <b>below</b> the blue line.</p>
-    <p><em>In this example, we have:
+    <p><em>In this example, we have:</em></p>
     <ul>
-      <li><b>A (NW):</b> MT (Fire), ST (Wind)</li>
-      <li><b>B (NE):</b> D1 (Fire), D3 (Wind)</li>
-      <li><b>C (SE):</b> D2 (Fire), H1 (Wind)</li>
-      <li><b>D (SW):</b> D4 (Fire), H2 (Wind)</li>
-    </ul></em></p>
-    </td>
+      <li><em><b>A (NW):</b> MT (Fire), ST (Wind)</em></li>
+      <li><em><b>B (NE):</b> D1 (Fire), D3 (Wind)</em></li>
+      <li><em><b>C (SE):</b> D2 (Fire), H1 (Wind)</em></li>
+      <li><em><b>D (SW):</b> D4 (Fire), H2 (Wind)</em></li>
+    </ul></td>
     <td><img src="images/mochibe_03.jpg"></td>
   </tr>
   <tr>
@@ -119,8 +118,6 @@ The following markers are for Mochibe's Caloric Theory 1 strat:
     <td><img src="images/mochibe_06.jpg"></td>
   </tr>
 </table>
-
-</details>
 
 ## Nukemaru + Papan's Caloric 1
 
@@ -161,8 +158,8 @@ The following markers are for Papan's Caloric Theory 1 strat:
     <ul>
       <li><b>Marked tank/healer:</b> Swap positions with H1 (west).</li>
       <li><b>Marked DPS:</b> Swap positions with D4 (east).</li>
-    </ul></td>
-    <p>The players on the B and D markers should stand in the markers, but <b>towards the party in the middle</b>.</p>
+    </ul>
+    <p>The players on the B and D markers should stand in the markers, but <b>towards the party in the middle</b>.</p></td>
     <td><img src="images/papan_02.jpg"></td>
   </tr>
   <tr>
@@ -170,11 +167,11 @@ The following markers are for Papan's Caloric Theory 1 strat:
     <p>The party also takes raid-wide damage.</p>
     <p>All party members get marked with either Pyrefaction (Fire <img style="height:1em" src="images/pyrefaction.png">) or Atmosfaction (Wind <img style="height:1em" src="images/atmosfaction.png">) debuffs.</p>
     <ul><li>The two marked players are guaranteed to get Wind.</li><li>The remaining four Fire and two Wind debuffs are randomly distributed among the six unmarked players.</li></ul>
-    <p><em>In this example:</p>
+    <p><em>In this example:</em></p>
     <ul>
-      <li>MT, D1, D2, D4 are marked for Fire.</li>
-      <li>ST, H1, H2, D3 are marked for Wind.</li>
-    </ul></em></td>
+      <li><em>MT, D1, D2, D4 are marked for Fire.</em></li>
+      <li><em>ST, H1, H2, D3 are marked for Wind.</em></li>
+    </ul></td>
     <td><img src="images/papan_03.jpg"></td>
   </tr>
   <tr>
@@ -182,14 +179,13 @@ The following markers are for Papan's Caloric Theory 1 strat:
     <p>Take turns moving into position, following the priority order.</p>
     <p><b>CCW from West:</b> H1 MT ST D2 D1 D4 <b>:CW from North</b></p>
     <p><em>(This is essentially ranged adjust first, then melee, with the MT group going first.)</em></p>
-    <p><em>In this example, we have:
+    <p><em>In this example, we have:</em></p>
     <ul>
-      <li><b>North:</b> D4 (Fire), H1 (Wind)</li>
-      <li><b>East:</b> D1 (Fire), D3 (Wind)</li>
-      <li><b>South:</b> D2 (Fire), H2 (Wind)</li>
-      <li><b>West:</b> MT (Fire), ST (Wind)</li>
-    </ul></em></p>
-    </td>
+      <li><em><b>North:</b> D4 (Fire), H1 (Wind)</em></li>
+      <li><em><b>East:</b> D1 (Fire), D3 (Wind)</em></li>
+      <li><em><b>South:</b> D2 (Fire), H2 (Wind)</em></li>
+      <li><em><b>West:</b> MT (Fire), ST (Wind)</em></li>
+    </ul></td>
     <td><img src="images/papan_04.jpg"></td>
   </tr>
   <tr>
