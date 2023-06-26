@@ -73,5 +73,9 @@ Because of this, the movement after the third set of shapes is fixed:
 
 ## Limit Cut
 
+The diagram below showcases the general idea, but the positioning for baiting the beams is inconsistent.
+
+When baiting the beams, **PF will put the smaller number on the right**, facing inwards (numbers increase as you go clockwise).
+
 ![](images/limit_cut.jpg)
 *(Credit: [R'ubia Neko](https://twitter.com/RubiaNeko/status/1670087804431536128?s=20))*
