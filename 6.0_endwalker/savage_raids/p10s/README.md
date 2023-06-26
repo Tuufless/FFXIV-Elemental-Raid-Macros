@@ -15,8 +15,8 @@ The FFO strat is Inumaru's strat with two adjustments:
 
 1. The first set of Dæmoniac Bonds use just the west-side island.
 2. The turret order is different.
-  - Inumaru: (**melee** + tank) → (**healer** + ranged) → (**healer** + tank) → tank
-  - FFO: (**healer** + tank) → (**ranged** + tank) → (**melee** + tank) → tank
+  - Inumaru: (**melee** + tank) → (ranged + **healer**) → (**healer** + tank) → tank
+  - FFO: (**healer** + tank) → (ranged + **tank**) → (**melee** + tank) → tank
 
 {% include youtube.html id="AMLwlkIvFf0" %}
 
