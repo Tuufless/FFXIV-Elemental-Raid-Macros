@@ -211,3 +211,18 @@ The following markers are for Papan's Caloric Theory 1 strat:
 ## Timeline
 ![](images/timeline.jpg)
 *(Credit: [u/ExiaKuromonji](https://www.reddit.com/r/ffxiv/comments/141y028/spoiler64_p12s_part_2_timeline_and_abilities/))*
+
+## Frequently Asked Questions
+
+<details markdown=block>
+<summary><b>[Caloric Theory 1 (Papan)]</b> Why is the priority order so strange? Why is H2 and D3 missing from the priority?</summary>
+<table>
+  <tr><td><p>Papan's strat does quite a lot of things that do not follow historical convention for some reason.</p><p>The idea behind Papan's priority is that starting from the two end points (West for tanks and healers, and North for DPS), ranged have priority before melee, with the MT group going first, over the ST group.</p>
+  <p>Put another way, it is effectively the same as:</p>
+  <ul>
+    <li><b>CCW from West:</b> H1 > MT > ST</li>
+    <li><b>CW from North:</b> D4 > D1 > D2</li>
+  </ul>
+  <p>As for why H2 and D3 are missing from the priority, recall that the priority applies to the players in the <em>middle</em> that need to fill in waymarked positions.</p><p>Since H2 and D3 start on a marker, and will only ever swap with H1 and D4 (who are also on markers), H2 and D3 will <em>never</em> be in the middle group, so there is no need for them to be in the priority list.</p><p>H1 and D4, on the other hand, <em>do</em> need to be in the priority order, because they may potentially swap with a melee and putting them in the middle to fill in empty spots later.</p></td></tr>
+</table>
+</details>
