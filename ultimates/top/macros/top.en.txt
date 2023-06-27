@@ -36,6 +36,14 @@
 　 　　　①　　②　　White + nothing：①②
 　　 　❶　  ★  　❹　Purple：❶❷❸❹
  　　　　  ❷　❸
+　■ Mitigations
+　　※ All with shields and：
+　　Hello, World：MT Reprisal, H2 30s, D1, D4
+　　Towers 1：MT 90s, ST Reprisal, D2
+　　Towers 2：H1 120s, H2 120s
+　　Towers 3：MT Reprisal, ST 90s, D3
+　　Towers 4：ST Reprisal, D1, D4
+　　Critical Error：MT 90s, H2 30s, D2
 　■ Oversampled Wave Cannon (Astoh)
 　　①❶：H1 H2 MT ST D1 D2 D3 D4：❸⑤
 　　　　　　①A
@@ -98,17 +106,16 @@ Beetle Omega｜❶❷：2-marker pairs
 　　　　　　　　❷
 　　　　　④
 ―《P6 Alpha Omega》―――――――――――――
-【Mitigations】
-※ All with shields + H2 mitigation and：
-　Cosmo Memory：Tank LB3
-　Cosmo Dive 1：MT Reprisal, H2 120s, D2, D4
-　Wave Cannon 1：ST Reprisal, ST 90s, D3
-　Wave Cannon 2：MT Rep, MT 90s, H1 120s, D1
-　Cosmo Dive 2：ST Reprisal, D2, D4
-　Cosmo Meteor：MT Rep, ST 90s, H2 120s, D3
-　【Spread】　　【Wave Cannon 2】
-　MT D3 D4　　　　　 D3 D4
-　H1　　H2　　　　MT　　　H2
-　D1 ST D2　　　　  H1　　　D2
-　※ Stack South　　 　D1 ST
-【Exaflares】Move to 1.5 markers away
+　■ Mitigations
+　※ All with shields + H2 mitigation and：
+　Cosmo Memory：Tank LB3, MT 90s, ST Rep, D1
+　Cosmo Dive 1：MT Rep, H1 120s, D2, D4
+　Wave Cannon 1：ST Rep, ST 90s, D3
+　Wave Cannon 2：MT Rep, MT 90s, H2 120s, D1
+　Cosmo Dive 2：ST Rep, D2, D4
+　Cosmo Meteor：MT Rep, ST 90s, H1 120s, D3
+　■ Spread
+　　MT D3 D4
+　　H1　　H2　※ Wave Cannon 2：Stack South
+　　D1 ST D2
+　■ Exaflares：Move to 1.5 markers away

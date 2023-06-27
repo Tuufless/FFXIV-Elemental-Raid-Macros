@@ -8,10 +8,6 @@ permalink: /ultimates/top/06_alpha_omega/
 
 # Alpha Omega
 
-<div style="background-color: #200 ; padding: 10px; border: 1px solid;">
-<b>UNDER CONSTRUCTION!</b>
-</div>
-
 ## Mitigations
 
 This phase requires planning out and coordinating mitigations. One such mitigation plan is:
@@ -26,7 +22,7 @@ This phase requires planning out and coordinating mitigations. One such mitigati
   </tr>
   <tr>
     <td><b>Cosmo Dive #1</b></td>
-    <td>MT Reprisal, H2 120s, D2, D4</td>
+    <td>MT Reprisal, H1 120s, D2, D4</td>
   </tr>
   <tr>
     <td><b>Wave Cannon #1</b></td>
@@ -34,7 +30,7 @@ This phase requires planning out and coordinating mitigations. One such mitigati
   </tr>
   <tr>
     <td><b>Wave Cannon #2</b></td>
-    <td><p>MT Reprisal, MT 90s, H1 120s, D1</p><p>MT invuln</p></td>
+    <td><p>MT Reprisal, MT 90s, H2 120s, D1</p><p>MT invuln</p></td>
   </tr>
   <tr>
     <td><b>Cosmo Dive #2</b></td>
@@ -42,7 +38,7 @@ This phase requires planning out and coordinating mitigations. One such mitigati
   </tr>
   <tr>
     <td><b>Cosmo Meteor</b></td>
-    <td>MT Reprisal, ST 90s, H2 120s, D3</td>
+    <td>MT Reprisal, ST 90s, H1 120s, D3</td>
   </tr>
 </table>
 
@@ -634,11 +630,5 @@ However, because players will be taking turns LB3'ing, some players will prefer 
 <summary><b>[Wave Cannons]</b> Why does the ST invuln first and not the MT?</summary>
 <table>
   <tr><td><p>There are a couple reasons for this:</p><ul><li><p>If you happen to have a GNB (MT) + PLD (ST) for tanks, PLD must Hallowed Ground the first Solar Ray (before Delta) for them to get a Hallowed Ground use in P6.</p><p>This then means the GNB would have to Superbolide the second Solar Ray (before Sigma), and if so, Superbolide won't be up in time for Wave Cannon #1.</p></li><li><p>If you have a WAR (MT), the mitigation plan has Shake it Off on Wave Cannon #2. This should coincide with Holmgang, because Shake it Off will dispel Vengeance and Bloodwhetting if used in the wrong order.</p></li><li><p>Finally, it makes more sense that the tank whose turn it is to use more party mitigations uses their invuln, simply to have fewer buttons to press overall.</p></li></ul></td></tr>
-</table>
-</details>
-<details markdown=block>
-<summary><b>[Wave Cannon 2]</b> Why do we use H1 120s mitigation here? Don't we lose a use over the entire phase?</summary>
-<table>
-  <tr><td><p>We lose a use over the entire phase, but this is done to hedge against the bad case where the preceeding Cosmo Arrow starts with the outside AoEs first.</p><p>Because Wave Cannon takes such a long time to resolve, we would really like something that lasts long enough to mitigate both the individual beams and the party stack while the party is potentially split up.</p><p>Temperance and Neutral Sect meet these requirements.</p></td></tr>
 </table>
 </details>

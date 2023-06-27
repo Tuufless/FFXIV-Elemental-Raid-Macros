@@ -55,6 +55,42 @@ This is the only phase in the fight with a transitional mechanic.
   </tr>
 </table>
 
+## Mitigations
+
+This phase requires some mitigation planning. Each round of Hello, World requires at least three mitigations for the party to survive all damage *without* healing in between.
+
+One such mitigation plan is:
+
+<table>
+  <tr>
+    <td colspan="2">All with H2 shields, and:</td>
+  </tr>
+  <tr>
+    <td><b>Hello, World</b></td>
+    <td><p>MT Reprisal, H2 30s, D1, D4</p></td>
+  </tr>
+  <tr>
+    <td><b>Towers #1</b></td>
+    <td>MT 90s, ST Reprisal, D2</td>
+  </tr>
+  <tr>
+    <td><b>Towers #2</b></td>
+    <td><p>H1 120s, H2 120s</p></td>
+  </tr>
+  <tr>
+    <td><b>Towers #3</b></td>
+    <td><p>MT Reprisal, ST 90s, D3</p></td>
+  </tr>
+  <tr>
+    <td><b>Towers #4</b></td>
+    <td><p>ST Reprisal, D1, D4</p></td>
+  </tr>
+  <tr>
+    <td><b>Critical Error</b></td>
+    <td>MT 90s, H2 30s, D2</td>
+  </tr>
+</table>
+
 ## Hello, World
 
 Although Hello, World may look overwhelming at first, there are really just two variations, determined by which colour debuff (Critical Performance and Critical Underflow) get paired with Critical Overflow and Critical Synchronization.
