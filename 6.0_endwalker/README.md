@@ -44,7 +44,7 @@ The item level cap for Pandæmonium: Asphodelos is **iLvl 635**.
 	- [Part 1](savage_raids/p8s_1/README.md)
 	- [Part 2](savage_raids/p8s_2/README.md)
 
-## Pandæmonium: Anabaseios (Patch 6.4)
+### Pandæmonium: Anabaseios (Patch 6.4)
 
 The item level cap for Pandæmonium: Anabaseios is **iLvl 665**.
 
