@@ -16,72 +16,30 @@ permalink: /6.0_endwalker/savage_raids/p9s/
 ### Things to check on Party Finder
 
 - Check the Scrambled Succession ("Limit Cut 1") strat used.
-  - **Japanese** parties will go with the strat that has [the party run around in a circle](#nukemarusleepo無色マラソン) (known as 無職マラソン in Japanese).
-  - **English** parties may do the ["Intercard" strat](#intercardbraindeadぶたばら式) that resolves two of the Ice AoEs at one corner, before flipping the map around (known as ぶたばら式 in Japanese).
+  - **Japanese** parties will go with the strat that has [the party run around in a circle](#scrambled-succession-mario-kart) (known as 無職マラソン in Japanese).
+  - **English** parties may do the ["Intercard" strat](#scrambled-succession-intercard) that resolves two of the Ice AoEs at one corner, before flipping the map around (known as ぶたばら式 in Japanese).
 
 - Check the Chimeric Succession positions for players marked `1` and `2`.
   - Some macros have `1` go **west**, and `2` go **east**.
   - Some macros have `1` go **east**, and `2` go **west**.
 
-### English
+## Nukemaru's strat (Mario Kart)
+
+This is the preferred strat by JP that Nukemaru featured. It uses the "Mario Kart" strat for Scrambled Succession, known as 無職マラソン in Japanese.
+
+### English (Mario Kart)
 
 ```
-{% include_relative macros/p9s.en.txt %}
+{% include_relative macros/p9s_mariokart.en.txt %}
 ```
 
-### Japanese
+### Japanese (Mario Kart)
 
 ```
-{% include_relative macros/p9s.jp.txt %}
+{% include_relative macros/p9s_mariokart.jp.txt %}
 ```
 
-## Markers
-
-The colours indicate the pairs positions (MT/D3 are on red, etc).
-
-![](images/markers.jpg)
-<details markdown=block>
-<summary>XIVLauncher WaymarkPresetPlugin positions</summary>
-
-```json
-{"Name":"P9S","MapID":937,"A":{"X":100.0,"Y":0.0,"Z":86.0,"ID":0,"Active":true},"B":{"X":114.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":114.0,"ID":2,"Active":true},"D":{"X":86.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":90.101,"Y":0.0,"Z":90.101,"ID":4,"Active":true},"Two":{"X":109.899,"Y":0.0,"Z":90.101,"ID":5,"Active":true},"Three":{"X":109.899,"Y":0.0,"Z":109.899,"ID":6,"Active":true},"Four":{"X":90.101,"Y":0.0,"Z":109.899,"ID":7,"Active":true}}
-```
-
-</details>
-
-You may see the square markers rotated 90 degrees clockwise in Japanese parties.
-
-![](images/markers2.jpg)
-<details markdown=block>
-<summary>XIVLauncher WaymarkPresetPlugin positions</summary>
-
-```json
-{"Name":"P9S (JP)","MapID":937,"A":{"X":100.0,"Y":0.0,"Z":86.0,"ID":0,"Active":true},"B":{"X":114.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":114.0,"ID":2,"Active":true},"D":{"X":86.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":109.899,"Y":0.0,"Z":90.1,"ID":4,"Active":true},"Two":{"X":109.899,"Y":0.0,"Z":109.899,"ID":5,"Active":true},"Three":{"X":90.1,"Y":0.0,"Z":109.899,"ID":6,"Active":true},"Four":{"X":90.1,"Y":0.0,"Z":90.1,"ID":7,"Active":true}}
-```
-
-</details>
-
-## Timeline
-![](https://preview.redd.it/0jw482dujc3b1.png?width=1813&format=png&auto=webp&v=enabled&s=7beaeeebfb30a297fbb243c5e00fa31c0a654327)
-*(Credit: [u/ExiaKuromonji](https://www.reddit.com/r/ffxiv/comments/13vzzms/spoiler_64_p9s_timeline_and_abilities/))*
-
-## Scrambled Succession (Limit Cut 1)
-
-Four orbs will spawn and be numbered with **odd numbers** in a clockwise, or anti-clockwise order.
-
-Four random players will be numbered with **even numbers**.
-
-- The even-numbered players will be responsible for both baiting Fire AoEs in order, and resolving towers.
-  - **Fire AoEs** are resolved in order: 2 → 4 → 6 → 8
-  - **Towers** are resolved in order: 6 → 8 → 2 → 4
-
-One way to remember it is that even-numbered players will always alternate between "doing something" (whether it's baiting Fire, or soaking a tower), and "doing nothing".
-
-This leaves four players who are unmarked.
-
-- Unmarked players are responsible for baiting giant Ice AoEs.
-
-### Nukemaru/Sleepo/無色マラソン
+### Scrambled Succession (Mario Kart)
 
 This is the strat chosen by Game8 that involves splitting the party into two groups- players with numbers, and players without numbers.
 
@@ -146,7 +104,23 @@ This is the strat chosen by Game8 that involves splitting the party into two gro
   </tr>
 </table>
 
-### Intercard/"Braindead"/ぶたばら式
+## Nukemaru's strat + Intercardinal Limit Cut
+
+This is the preferred strat by EN. It takes Nukemaru's strat, but replaces Scrambled Succession (Limit Cut) with the Intercard strat, known as ぶたばら式 in Japanese.
+
+### English (Intercard)
+
+```
+{% include_relative macros/p9s_intercard.en.txt %}
+```
+
+### Japanese (Intercard/ぶたばら式)
+
+```
+{% include_relative macros/p9s_intercard.jp.txt %}
+```
+
+### Scrambled Succession (Intercard)
 
 This is the strat more favoured in EN that involves resolving the Ice/Fire twice before swapping sides. Of note, the player numbered 6 needs to pay special attention as they can potentially cause a party wipe if they are slow to move.
 
@@ -207,3 +181,33 @@ This is the strat more favoured in EN that involves resolving the Ice/Fire twice
     <td><img src="images/lc1_intercard_10.jpg"></td>
   </tr>
 </table>
+
+## Markers
+
+The colours indicate the pairs positions (MT/D3 are on red, etc).
+
+![](images/markers.jpg)
+<details markdown=block>
+<summary>XIVLauncher WaymarkPresetPlugin positions</summary>
+
+```json
+{"Name":"P9S","MapID":937,"A":{"X":100.0,"Y":0.0,"Z":86.0,"ID":0,"Active":true},"B":{"X":114.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":114.0,"ID":2,"Active":true},"D":{"X":86.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":90.101,"Y":0.0,"Z":90.101,"ID":4,"Active":true},"Two":{"X":109.899,"Y":0.0,"Z":90.101,"ID":5,"Active":true},"Three":{"X":109.899,"Y":0.0,"Z":109.899,"ID":6,"Active":true},"Four":{"X":90.101,"Y":0.0,"Z":109.899,"ID":7,"Active":true}}
+```
+
+</details>
+
+You may see the square markers rotated 90 degrees clockwise in Japanese parties.
+
+![](images/markers2.jpg)
+<details markdown=block>
+<summary>XIVLauncher WaymarkPresetPlugin positions</summary>
+
+```json
+{"Name":"P9S (JP)","MapID":937,"A":{"X":100.0,"Y":0.0,"Z":86.0,"ID":0,"Active":true},"B":{"X":114.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":114.0,"ID":2,"Active":true},"D":{"X":86.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":109.899,"Y":0.0,"Z":90.1,"ID":4,"Active":true},"Two":{"X":109.899,"Y":0.0,"Z":109.899,"ID":5,"Active":true},"Three":{"X":90.1,"Y":0.0,"Z":109.899,"ID":6,"Active":true},"Four":{"X":90.1,"Y":0.0,"Z":90.1,"ID":7,"Active":true}}
+```
+
+</details>
+
+## Timeline
+![](https://preview.redd.it/0jw482dujc3b1.png?width=1813&format=png&auto=webp&v=enabled&s=7beaeeebfb30a297fbb243c5e00fa31c0a654327)
+*(Credit: [u/ExiaKuromonji](https://www.reddit.com/r/ffxiv/comments/13vzzms/spoiler_64_p9s_timeline_and_abilities/))*

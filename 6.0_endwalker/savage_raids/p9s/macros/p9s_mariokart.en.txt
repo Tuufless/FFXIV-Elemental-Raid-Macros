@@ -4,7 +4,7 @@
 　D1 ST D2　　　　　　　 ST/D2
 ■ Archaic Demolish (4:4 stacks)
 　West：MTH1D1D3 / STH2D2D4 ：East
-■ Scrambled Succession (Limit Cut #1)
+■ Scrambled Succession (Mario Kart)
 　Nothing：Start at 1, drop blue AoEs at walls
 　Towers：6 → 8 → 2 → 4
 　　   Fire：2 → 4 → 6 → 8　※45° ahead of tower
