@@ -279,7 +279,7 @@ At this time, either all the tanks and healers have Nisi (who the DPS need to co
 <details markdown=block>
 <summary><b>[Tank swap]</b> Why don't we do a Provoke swap instead of having the two tanks cross each other (especially with Nisi)?</summary>
 <table>
-  <tr><td><p>Two reasons:<ol><li>If a tank happens to die in Limit Cut and gets raised at the start of BJCC, their first instinct is to Provoke whichever boss they're supposed to hold. Now that Provoke has been used, you cannot then swap the bosses by Provoking the other right after Chakrams go off.</li><li>Cruise Chaser stops to cast Photon. If you swap bosses using Provoke, the tank that Provoked Cruise Chaser can only attack Brute Justice, and either has to hold damage, potentially steal hate back, or resort to stance dancing tricks that is more trouble than it is worth.</li></ol></p></td></tr>
+  <tr><td><p>Two reasons:<ol><li>If a tank happens to die in Limit Cut and gets raised at the start of BJCC, their first instinct is to Provoke whichever boss they're supposed to hold. Now that Provoke has been used, you cannot then swap the bosses by Provoking the other right after Chakrams go off.</li><li>Cruise Chaser stops to cast Photon. If you swap bosses using Provoke, the tank that Provokes Brute Justice can only attack Cruise Chaser, and either has to hold damage, potentially steal hate back, or resort to stance dancing tricks that is more trouble than it is worth.</li></ol></p></td></tr>
 </table>
 </details>
 <details markdown=block>
