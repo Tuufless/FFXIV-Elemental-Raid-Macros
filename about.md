@@ -43,22 +43,64 @@ The standard composition consists of one melee, one physical ranged, one caster,
 
 Generally, PF recruitment will generally follow the following progression:
 
-- First time/初見 : Sometimes, you'll see 未予習 which means "without prep" or basically going blind, or 予習済 which is "have prepared" (have watched guides/videos)
-- Practice○○/○○練習 : You will often see a mechanic in place of ○○, although 前半 is also common ("first half"). The focus is on learning the mechanic.
-- Stabilize○○/○○安定: An extension of the above, except you are expected to have reached the mechanic before and the aim is to resolve the mechanic consistently.
-- Aim to clear (A2C)/クリ目 : It is expected that you have made it to enrage at this point, and know all the mechanics. A couple words to look out for are:
-    - 未 (not yet);　e.g: "未消化" = "not yet done weeklies"
-    - 済 (already);　e.g: "クリア済" = "already cleared"
-    - 手伝いさん (helpers)
-- Weekly clear/消化 : You'll often see additional stipulations, like the party disbanding after three wipes, or after 30 minutes. These aren't practice parties. At least, they're not supposed to be. -_-
-    - 3滅解散 - "disband after three wipes" is quite common with these parties.
+<table>
+  <tr>
+    <td><b>First time</b></td>
+    <td><b>初見</b></td>
+    <td>Sometimes, you'll see 未予習 which means "without prep" or basically going blind, or 予習済 which is "have prepared" (have watched guides/videos)</td>
+  </tr>
+  <tr>
+    <td><b>Practice○○</b></td>
+    <td><b>○○練習</b></td>
+    <td>You will often see a mechanic in place of ○○, although 前半 is also common ("first half"). The focus is on learning the mechanic.</td>
+  </tr>
+  <tr>
+    <td><b>Stabilize○○</b></td>
+    <td><b>○○安定</b></td>
+    <td><p>An extension of the above, except you are expected to have reached the mechanic before and the aim is to resolve the mechanic consistently.</p><p>You may also see "Skillup/練度上げ" parties- these are typically parties that have already cleared, but would essentially like to "stabilize" the clear. <b>These are not parse parties.</b></p></td>
+  </tr>
+  <tr>
+    <td><b>Aim to clear (A2C)</b></td>
+    <td><b>クリ目</b></td>
+    <td><p>It is expected that you have made it to enrage at this point, and know all the mechanics. A couple words to look out for are:</p>
+    <ul>
+      <li><b>未 (not yet)</b>;　e.g: "未消化" = "not yet done weeklies"</li>
+      <li><b>済 (already)</b>;　e.g: "クリア済" = "already cleared"</li>
+      <li><b>手伝いさん</b> (helpers)</li>
+    </ul></td>
+  </tr>
+  <tr>
+    <td><b>Weekly clear</b></td>
+    <td><b>消化</b></td>
+    <td><p>You'll often see additional stipulations, like the party disbanding after three wipes, or after 30 minutes. These aren't practice parties. At least, they're not supposed to be. -_-</p>
+    <ul>
+      <li><b>3滅解散</b>: "disband after three wipes" is quite common with these parties.</li>
+    </ul></td>
+  </tr>
+  <tr>
+    <td><b>Parse</b></td>
+    <td><b>(火力)詰め</b></td>
+    <td>These are runs that aim to get a good parse for FFLogs. BiS (Best-in-slot gear is typically expected) and you are expected to be comfortable with the fight.</td>
+  </tr>
+</table>
 
 ## Loot rules
 
-- フリロ : "Free-lot". Basically roll Need/Greed on whatever you want.
-- 取り抜け : Take and drop. Everyone takes turns rolling on loot one at a time. Anyone who wins an item then drops from the instance (so everyone only gets 1 item at most).
-
-Oftentimes, this is "take and drop from the left" (左から取り抜け), but it's also common to explicitly list out an order for 4th floor raids, like "Weapon > Weapon coffer > Body coffer > Others" (武器＞武器箱＞胴箱＞他) 
+<table>
+  <tr>
+    <td><b>L>R</b></td>
+    <td><b>取り抜け</b></td>
+    <td><p>"Take loot and drop".</p>
+    <p>This is typically seen in Savage weekly clears.</p>
+    <p>Everyone takes turns rolling on loot one at a time. Anyone who wins an item then drops from the instance (so everyone only gets 1 item at most).</p><p>Oftentimes, this is "take and drop from the left" (左から取り抜け), but it's also common to explicitly list out an order for 4th floor raids, like "Weapon > Weapon coffer > Body coffer > Others" (武器＞武器箱＞胴箱＞他) </p>
+    <p>While it is not enforcible that players don't just loot on multiple items, doing so would almost certainly get you blacklisted, and is a reportable offense.</p></td>
+  </tr>
+  <tr>
+    <td><b>FFA</b></td>
+    <td><b>フリロ</b></td>
+    <td><p>"Free-lot" or "Free for All".</p><p>Everyone rolls Need/Greed on the items that drop.</p><p>This is more typically practiced when doing Savage weekly clears via the Raid Finder.</p></td>
+  </tr>
+</table>
 
 ## Contributing
 
