@@ -15,10 +15,12 @@ permalink: /6.0_endwalker/savage_raids/p11s/
 
 ### Things to check on Party Finder
 
-- **Japanese** parties will:
-  - Begin Shadowed Messengers with the boss facing true West. This results in two movements while dodging all the AoEs, but doesn't rely on the MT looking for the Light clone.
-- **English** groups will:
-  - Begin Shadowed Messengers with the boss facing the Light clone (or directly opposite), resulting in one less movement from the dodge.
+- Check the Shadowed Messengers strat:
+  - **Japanese** parties will begin Shadowed Messengers with the boss facing true West. This results in two movements while dodging all the AoEs, but doesn't rely on the MT looking for the Light clone.
+  - **English** groups will have the MT face the boss towards the Light clone (or directly opposite), resulting in one less movement from the dodge.
+- Check who adjusts for (Dark) Jury Overruling:
+  - **Japanese** parties will generally stick to the macro and have the DPS rotate clockwise to their respective T/H partners.
+  - **English** parties *may* opt to have the T/H rotate anti-clockwise to join their DPS partners instead.
 
 ### English
 
