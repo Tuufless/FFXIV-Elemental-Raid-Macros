@@ -7,10 +7,10 @@
 　D3　　　D4　　D3　　D4　　D3 D1 D2 D4
 　　D1　D2　　　D1　　D2　
 【The Classical Concepts】
-　West ← 〇×△□ → East
-　α → North　　β → South
+　※ Go to Blue：West ← 〇×▽□ → East
+　α → Block Red ▲　　β → Block Yellow ■
 【Palladian Ray - X-formation】
-  ●　　●　　●　　●　　2nd round：Flip 〇×△□
+  ●　　●　　●　　●　　2nd round：Flip 〇×▽□
   〇α ★ ×α 　△α ★ □α　※ Bait then go to ★
   ●　　●　　●　　●
   〇β ★ ×β　 △β ★ □β
