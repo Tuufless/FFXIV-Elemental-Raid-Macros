@@ -400,6 +400,18 @@ PF currently resolves this using [Astoh's strat](https://twitter.com/Astoh_Shall
   <tr><td><p>Putting all four ranged players south <em>guarantees</em> that the southern player is a ranged, thus providing full melee uptime even in the scenario where all three monitor players are ranged, but the chances of this happening are 1/14.</p><p>Putting healers at the north side means that both extremeties will have ranged players in the average case, which allows them to go all the way to the edge of the arena to give the other players more room for error, the north-most monitor player in particular.</p><p>That being said, doing so means that a melee may have to disconnect from the boss in the worst case scenario, but this is an acceptable scenario given its likelihood.</p></td></tr>
 </table>
 </details>
+<details markdown=block>
+<summary><b>[Oversampled Wave Cannon]</b> Are two of the monitor players supposed to be angled slightly up and down as shown in the diagram?</summary>
+<table>
+  <tr>
+    <td>
+      <p>Astoh's original diagram had those players look exactly East/West horizontally, and that's still fine and a workable strat.</p>
+      <p>However, the problem with going horizontally is that if you're off by a little bit, there's a chance you accidentally clip the player on the far East/West (marked "3"). It doesn't help that Omega in the center is blocking your view of that player.</p>
+      <p>One of the advantages of Astoh's strat is that each monitor player can clearly see the <b>two</b> other players they are supposed to hit with their monitors (without Omega in the way). Tilting up/down a little gives you additional margin of error to not hit the player at "3"- you can tilt as much as you want, so long as you still hit the two people you're supposed to (who aren't blocked by Omega).</p>
+    </td>
+  </tr>
+</table>
+</details>
 
 ## Troubleshooting
 
