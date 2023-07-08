@@ -209,6 +209,33 @@ The following markers are for Papan's Caloric Theory 1 strat:
   </tr>
 </table>
 
+## Palladian Ray
+
+Palladian Rays need to be baited at the end of each Classical Concepts. However, because the mechanics resolve in a different order each time, the way the Rays are baited will also change.
+
+The most common way to bait the rays is:
+
+- Baiting the first Rays in a 'K'-formation.
+- Baiting the second Rays in an 'X'-formation.
+
+<table>
+  <tr>
+    <td width="50%">
+      <p><b>Palladian Ray #1</b></p>
+      <p>Players will dodge the shapes' AoEs first, <em>then</em> bait the Palladian Rays in this formation (that looks like the letter 'K').</p>
+    </td>
+    <td><img src="images/classical_concepts_01.jpg"></td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <p><b>Palladian Ray #2</b></p>
+      <p>Players will bait the Palladian Rays <em>between the shapes</em> in this formation (which will looks like the letter 'X') first, <em>then</em> dodge the shapes' AoEs (which also avoids the lingering cone AoEs).</p>
+      <p>Note that because of Panta Rhei (which rotated all the shapes), the 〇×▽□ order is flipped (although α still takes the north, and β takes the south).</p>
+    </td>
+    <td><img src="images/classical_concepts_02.jpg"></td>
+  </tr>
+</table>
+
 ## Timeline
 ![](images/timeline.jpg)
 *(Credit: [u/ExiaKuromonji](https://www.reddit.com/r/ffxiv/comments/141y028/spoiler64_p12s_part_2_timeline_and_abilities/))*
