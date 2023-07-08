@@ -40,3 +40,13 @@ Looking towards the future:
 ```
 {% include_relative macros/top.en.txt %}
 ```
+
+## Frequently Asked Questions
+
+<details markdown=block>
+<summary><b>[Damage Down]</b> How strong is the damage down debuff in this fight?</summary>
+<table>
+  <tr><td><p>The Damage Down debuff in this phase lowers a player's damage by <b>90%</b>.</p>
+  <p><em>(Yes, this is </em>worse<em> than double-weakness!)</em></p></td></tr>
+</table>
+</details>

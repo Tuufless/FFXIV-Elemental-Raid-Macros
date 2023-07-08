@@ -82,3 +82,12 @@ The FFO strat is Inumaru's strat with two adjustments:
     <td>Living Dead > Holmgang</td>
   </tr>
 </table>
+
+## Frequently Asked Questions
+
+<details markdown=block>
+<summary><b>[Damage Down]</b> How strong is the damage down debuff in this fight?</summary>
+<table>
+  <tr><td><p>The Damage Down debuff in this phase lowers a player's damage by <b>31%</b>.</p></td></tr>
+</table>
+</details>

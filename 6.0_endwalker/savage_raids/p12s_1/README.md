@@ -79,3 +79,12 @@ When baiting the beams, **PF will put the smaller number on the right**, facing 
 
 ![](images/limit_cut.jpg)
 *(Credit: [R'ubia Neko](https://twitter.com/RubiaNeko/status/1670087804431536128?s=20))*
+
+## Frequently Asked Questions
+
+<details markdown=block>
+<summary><b>[Damage Down]</b> How strong is the damage down debuff in this fight?</summary>
+<table>
+  <tr><td><p>The Damage Down debuff in this phase lowers a player's damage by <b>38%</b>.</p></td></tr>
+</table>
+</details>

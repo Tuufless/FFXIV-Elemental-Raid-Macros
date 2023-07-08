@@ -101,3 +101,12 @@ The intercardinal markers demarcate:
 ```
 
 </details>
+
+## Frequently Asked Questions
+
+<details markdown=block>
+<summary><b>[Damage Down]</b> How strong is the damage down debuff in this fight?</summary>
+<table>
+  <tr><td><p>The Damage Down debuff in this phase lowers a player's damage by <b>50%</b>.</p></td></tr>
+</table>
+</details>

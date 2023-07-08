@@ -211,3 +211,12 @@ You may see the square markers rotated 90 degrees clockwise in Japanese parties.
 ## Timeline
 ![](https://preview.redd.it/0jw482dujc3b1.png?width=1813&format=png&auto=webp&v=enabled&s=7beaeeebfb30a297fbb243c5e00fa31c0a654327)
 *(Credit: [u/ExiaKuromonji](https://www.reddit.com/r/ffxiv/comments/13vzzms/spoiler_64_p9s_timeline_and_abilities/))*
+
+## Frequently Asked Questions
+
+<details markdown=block>
+<summary><b>[Damage Down]</b> How strong is the damage down debuff in this fight?</summary>
+<table>
+  <tr><td><p>The Damage Down debuff in this phase lowers a player's damage by <b>25%</b>.</p></td></tr>
+</table>
+</details>

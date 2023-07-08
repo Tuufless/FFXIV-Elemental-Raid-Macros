@@ -216,6 +216,12 @@ The following markers are for Papan's Caloric Theory 1 strat:
 ## Frequently Asked Questions
 
 <details markdown=block>
+<summary><b>[Damage Down]</b> How strong is the damage down debuff in this fight?</summary>
+<table>
+  <tr><td><p>The Damage Down debuff in this phase lowers a player's damage by <b>42%</b>.</p></td></tr>
+</table>
+</details>
+<details markdown=block>
 <summary><b>[Caloric Theory 1 (Papan)]</b> Why is the priority order so strange? Why is H2 and D3 missing from the priority?</summary>
 <table>
   <tr><td><p>Papan's strat does quite a lot of things that do not follow historical convention for some reason.</p><p>The idea behind Papan's priority is that starting from the two end points (West for tanks and healers, and North for DPS), ranged have priority before melee, with the MT group going first, over the ST group.</p>
