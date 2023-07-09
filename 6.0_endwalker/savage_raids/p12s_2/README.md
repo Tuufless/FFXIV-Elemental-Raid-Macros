@@ -21,6 +21,8 @@ Nukemaru has published a video outlining the PF strat:
 - Check the Caloric Theory 1 strat.
   - **Japanese** parties will go with [Mochibe's strat](#mochibes-caloric-theory-1)
   - **English** parties will go with [Papan's strat](#papans-caloric-theory-1).
+- Check whether the party will line up for Pangenesis (パンゲ整列).
+  - Parties that **will not** line up for Pangenesis will mention something like 非整列 or 整列なし.
 
 ## Nukemaru + Mochibe's Caloric 1
 
