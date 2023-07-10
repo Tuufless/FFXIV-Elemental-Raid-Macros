@@ -54,7 +54,73 @@ The following markers are for Mochibe's Caloric Theory 1 strat:
 
 </details>
 
+## Nukemaru + Papan's Caloric 1
+
+This is the preferred strat by EN. The macro below follows [Papan's Toolbox](https://ff14.toolboxgaming.space/?id=845983862306861&preview=1).
+
+<div style="background-color: #200 ; padding: 10px; border: 1px solid;">
+<b>Note:</b> There is a <a href="https://youtu.be/r1aDCRfNTWc"><b>video guide on Papan's strat</b></a>- however, it has <em>flipped the melee and ranged priority</em> from the Toolbox (and thus is also flipped from the macro).</div>
+
+### English (Papan)
+
+```
+{% include_relative macros/p12s_2_papan.en.txt %}
+```
+
+### Markers (Papan)
+
+The following markers are for Papan's Caloric Theory 1 strat:
+
+![](images/markers_papan.jpg)
+<details markdown=block>
+<summary>XIVLauncher WaymarkPresetPlugin positions</summary>
+
+```json
+{"Name":"P12S-2 (Papan)","MapID":943,"A":{"X":100.0,"Y":0.0,"Z":89.0,"ID":0,"Active":true},"B":{"X":104.0,"Y":0.0,"Z":93.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":97.0,"ID":2,"Active":true},"D":{"X":96.0,"Y":0.0,"Z":93.0,"ID":3,"Active":true},"One":{"X":99.0,"Y":0.0,"Z":81.0,"ID":6,"Active":true},"Two":{"X":113.0,"Y":0.0,"Z":93.0,"ID":5,"Active":true},"Three":{"X":119.0,"Y":0.0,"Z":91.0,"ID":7,"Active":true},"Four":{"X":87.0,"Y":0.0,"Z":93.0,"ID":4,"Active":true}}
+```
+
+</details>
+
+## Classical Concepts
+
+There is a site built for Classical Concepts that you can use for practice:
+
+[https://idea-elemental.pages.dev/](https://idea-elemental.pages.dev/)
+
+### Palladian Ray
+
+Palladian Rays need to be baited at the end of each Classical Concepts. However, because the mechanics resolve in a different order each time, the way the Rays are baited will also change.
+
+The most common way to bait the rays is:
+
+- Baiting the first Rays in a 'K'-formation.
+- Baiting the second Rays in an 'X'-formation.
+
+<table>
+  <tr>
+    <td width="50%">
+      <p><b>Palladian Ray #1</b></p>
+      <p>Players will dodge the shapes' AoEs first, <em>then</em> bait the Palladian Rays in this formation (that looks like the letter 'K').</p>
+    </td>
+    <td><img src="images/classical_concepts_01.jpg"></td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <p><b>Palladian Ray #2</b></p>
+      <p>Players will bait the Palladian Rays <em>between the shapes</em> in this formation (which will looks like the letter 'X') first, <em>then</em> dodge the shapes' AoEs (which also avoids the lingering cone AoEs).</p>
+      <p>Note that because of Panta Rhei (which rotated all the shapes), the 〇×▽□ order is flipped (although α still takes the north, and β takes the south).</p>
+    </td>
+    <td><img src="images/classical_concepts_02.jpg"></td>
+  </tr>
+</table>
+
+## Caloric Theory 1
+
+There are two strategies used for Caloric Theory 1.
+
 ### Mochibe's Caloric Theory 1
+
+This is the strategy favoured by Japanese parties.
 
 <table>
   <tr>
@@ -121,34 +187,9 @@ The following markers are for Mochibe's Caloric Theory 1 strat:
   </tr>
 </table>
 
-## Nukemaru + Papan's Caloric 1
-
-This is the preferred strat by EN. The macro below follows [Papan's Toolbox](https://ff14.toolboxgaming.space/?id=845983862306861&preview=1).
-
-<div style="background-color: #200 ; padding: 10px; border: 1px solid;">
-<b>Note:</b> There is a <a href="https://youtu.be/r1aDCRfNTWc"><b>video guide on Papan's strat</b></a>- however, it has <em>flipped the melee and ranged priority</em> from the Toolbox (and thus is also flipped from the macro).</div>
-
-### English (Papan)
-
-```
-{% include_relative macros/p12s_2_papan.en.txt %}
-```
-
-### Markers (Papan)
-
-The following markers are for Papan's Caloric Theory 1 strat:
-
-![](images/markers_papan.jpg)
-<details markdown=block>
-<summary>XIVLauncher WaymarkPresetPlugin positions</summary>
-
-```json
-{"Name":"P12S-2 (Papan)","MapID":943,"A":{"X":100.0,"Y":0.0,"Z":89.0,"ID":0,"Active":true},"B":{"X":104.0,"Y":0.0,"Z":93.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":97.0,"ID":2,"Active":true},"D":{"X":96.0,"Y":0.0,"Z":93.0,"ID":3,"Active":true},"One":{"X":99.0,"Y":0.0,"Z":81.0,"ID":6,"Active":true},"Two":{"X":113.0,"Y":0.0,"Z":93.0,"ID":5,"Active":true},"Three":{"X":119.0,"Y":0.0,"Z":91.0,"ID":7,"Active":true},"Four":{"X":87.0,"Y":0.0,"Z":93.0,"ID":4,"Active":true}}
-```
-
-</details>
-
 ### Papan's Caloric Theory 1
+
+This is the strategy favoured by English parties.
 
 <table>
   <tr>
@@ -208,33 +249,6 @@ The following markers are for Papan's Caloric Theory 1 strat:
   <tr>
     <td><p><b>7.</b> Fire stacks and Wind AoEs resolve.</p></td>
     <td><img src="images/papan_07.jpg"></td>
-  </tr>
-</table>
-
-## Palladian Ray
-
-Palladian Rays need to be baited at the end of each Classical Concepts. However, because the mechanics resolve in a different order each time, the way the Rays are baited will also change.
-
-The most common way to bait the rays is:
-
-- Baiting the first Rays in a 'K'-formation.
-- Baiting the second Rays in an 'X'-formation.
-
-<table>
-  <tr>
-    <td width="50%">
-      <p><b>Palladian Ray #1</b></p>
-      <p>Players will dodge the shapes' AoEs first, <em>then</em> bait the Palladian Rays in this formation (that looks like the letter 'K').</p>
-    </td>
-    <td><img src="images/classical_concepts_01.jpg"></td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <p><b>Palladian Ray #2</b></p>
-      <p>Players will bait the Palladian Rays <em>between the shapes</em> in this formation (which will looks like the letter 'X') first, <em>then</em> dodge the shapes' AoEs (which also avoids the lingering cone AoEs).</p>
-      <p>Note that because of Panta Rhei (which rotated all the shapes), the 〇×▽□ order is flipped (although α still takes the north, and β takes the south).</p>
-    </td>
-    <td><img src="images/classical_concepts_02.jpg"></td>
   </tr>
 </table>
 
