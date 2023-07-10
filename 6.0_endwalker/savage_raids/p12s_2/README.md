@@ -265,6 +265,20 @@ This is the strategy favoured by English parties.
 </table>
 </details>
 <details markdown=block>
+<summary><b>[Caloric Theory]</b> How does Close Caloric gain stacks?</summary>
+<table>
+  <tr>
+    <td><p>Close Caloric accumulates the <b>total</b> distance a player has moved with the debuff active.</p><p>Players gain a stack of Close Caloric when they first move, and then gain additional stacks from:</p>
+    <ul>
+      <li>Getting hit by the Fire stacks <em>and</em></li>
+      <li>Every 9 yalms of movement (accumulated)</li>
+    </ul>
+    <p>The diagram on the right illustrates how far 9 yalms is on the arena, assuming you move in a straight line outwards.</p></td>
+    <td><img src="images/caloric_faq.jpg"></td>
+  </tr>
+</table>
+</details>
+<details markdown=block>
 <summary><b>[Caloric Theory 1 (Papan)]</b> Why is the priority order so strange? Why is H2 and D3 missing from the priority?</summary>
 <table>
   <tr><td><p>Papan's strat does quite a lot of things that do not follow historical convention for some reason.</p><p>The idea behind Papan's priority is that starting from the two end points (West for tanks and healers, and North for DPS), ranged have priority before melee, with the MT group going first, over the ST group.</p>
