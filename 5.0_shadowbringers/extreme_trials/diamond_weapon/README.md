@@ -29,7 +29,18 @@ Note that you will not be able to place the east-side markers until you've clear
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
 ```json
-{"Name":"Diamond Weapon EX","MapID":782,"A":{"X":0.0,"Y":0.0,"Z":0.0,"ID":0,"Active":false},"B":{"X":0.0,"Y":0.0,"Z":0.0,"ID":1,"Active":false},"C":{"X":0.0,"Y":0.0,"Z":0.0,"ID":2,"Active":false},"D":{"X":0.0,"Y":0.0,"Z":0.0,"ID":3,"Active":false},"One":{"X":88.75,"Y":0.0,"Z":81.5,"ID":4,"Active":true},"Two":{"X":111.25,"Y":0.0,"Z":81.5,"ID":5,"Active":true},"Three":{"X":88.75,"Y":0.0,"Z":118.5,"ID":6,"Active":true},"Four":{"X":111.25,"Y":0.0,"Z":118.5,"ID":7,"Active":true}}
+{
+  "Name":"Diamond Weapon EX",
+  "MapID":782,
+  "A":{"X":0.0,"Y":0.0,"Z":0.0,"ID":0,"Active":false},
+  "B":{"X":0.0,"Y":0.0,"Z":0.0,"ID":1,"Active":false},
+  "C":{"X":0.0,"Y":0.0,"Z":0.0,"ID":2,"Active":false},
+  "D":{"X":0.0,"Y":0.0,"Z":0.0,"ID":3,"Active":false},
+  "One":{"X":88.75,"Y":0.0,"Z":81.5,"ID":4,"Active":true},
+  "Two":{"X":111.25,"Y":0.0,"Z":81.5,"ID":5,"Active":true},
+  "Three":{"X":88.75,"Y":0.0,"Z":118.5,"ID":6,"Active":true},
+  "Four":{"X":111.25,"Y":0.0,"Z":118.5,"ID":7,"Active":true}
+}
 ```
 </details>
 

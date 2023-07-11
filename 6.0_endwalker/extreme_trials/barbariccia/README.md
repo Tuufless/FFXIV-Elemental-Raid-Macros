@@ -36,7 +36,18 @@ You might see the `ABCD` markers placed further out towards the edge of the aren
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
 ```json
-{"Name":"Barbariccia EX","MapID":871,"A":{"X":100.0,"Y":0.0,"Z":91.5,"ID":0,"Active":true},"B":{"X":108.5,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":108.5,"ID":2,"Active":true},"D":{"X":91.5,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":106.0,"Y":0.0,"Z":94.0,"ID":4,"Active":true},"Two":{"X":106.0,"Y":0.0,"Z":94.0,"ID":5,"Active":false},"Three":{"X":94.0,"Y":0.0,"Z":106.0,"ID":6,"Active":true},"Four":{"X":94.0,"Y":0.0,"Z":106.0,"ID":7,"Active":false}}
+{
+  "Name":"Barbariccia EX",
+  "MapID":871,
+  "A":{"X":100.0,"Y":0.0,"Z":91.5,"ID":0,"Active":true},
+  "B":{"X":108.5,"Y":0.0,"Z":100.0,"ID":1,"Active":true},
+  "C":{"X":100.0,"Y":0.0,"Z":108.5,"ID":2,"Active":true},
+  "D":{"X":91.5,"Y":0.0,"Z":100.0,"ID":3,"Active":true},
+  "One":{"X":106.0,"Y":0.0,"Z":94.0,"ID":4,"Active":true},
+  "Two":{"X":106.0,"Y":0.0,"Z":94.0,"ID":5,"Active":false},
+  "Three":{"X":94.0,"Y":0.0,"Z":106.0,"ID":6,"Active":true},
+  "Four":{"X":94.0,"Y":0.0,"Z":106.0,"ID":7,"Active":false}
+}
 ```
 </details>
 

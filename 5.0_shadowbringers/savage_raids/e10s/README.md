@@ -33,7 +33,18 @@ The markers are just for orientation. The intercardinal markers also are indicat
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
 ```json
-{"Name":"E10S","MapID":748,"A":{"X":100.0,"Y":0.0,"Z":84.444,"ID":0,"Active":true},"B":{"X":115.556,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":115.556,"ID":2,"Active":true},"D":{"X":84.444,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":111.0,"Y":0.0,"Z":89.0,"ID":4,"Active":true},"Two":{"X":111.0,"Y":0.0,"Z":111.0,"ID":5,"Active":true},"Three":{"X":89.0,"Y":0.0,"Z":111.0,"ID":6,"Active":true},"Four":{"X":89.0,"Y":0.0,"Z":89.0,"ID":7,"Active":true}}
+{
+  "Name":"E10S",
+  "MapID":748,
+  "A":{"X":100.0,"Y":0.0,"Z":84.444,"ID":0,"Active":true},
+  "B":{"X":115.556,"Y":0.0,"Z":100.0,"ID":1,"Active":true},
+  "C":{"X":100.0,"Y":0.0,"Z":115.556,"ID":2,"Active":true},
+  "D":{"X":84.444,"Y":0.0,"Z":100.0,"ID":3,"Active":true},
+  "One":{"X":111.0,"Y":0.0,"Z":89.0,"ID":4,"Active":true},
+  "Two":{"X":111.0,"Y":0.0,"Z":111.0,"ID":5,"Active":true},
+  "Three":{"X":89.0,"Y":0.0,"Z":111.0,"ID":6,"Active":true},
+  "Four":{"X":89.0,"Y":0.0,"Z":89.0,"ID":7,"Active":true}
+}
 ```
 
 </details>

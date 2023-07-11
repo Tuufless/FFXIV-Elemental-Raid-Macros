@@ -41,7 +41,18 @@ The markers are used for orientation, and for "Hobo Lala" Sundered Sky.
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
 ```json
-{"Name":"E11S","MapID":752,"A":{"X":100.0,"Y":0.0,"Z":90.0,"ID":0,"Active":true},"B":{"X":110.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":110.0,"ID":2,"Active":true},"D":{"X":90.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":107.071,"Y":0.0,"Z":92.929,"ID":4,"Active":true},"Two":{"X":107.071,"Y":0.0,"Z":107.071,"ID":5,"Active":true},"Three":{"X":92.929,"Y":0.0,"Z":107.071,"ID":6,"Active":true},"Four":{"X":92.929,"Y":0.0,"Z":92.929,"ID":7,"Active":true}}
+{
+  "Name":"E11S",
+  "MapID":752,
+  "A":{"X":100.0,"Y":0.0,"Z":90.0,"ID":0,"Active":true},
+  "B":{"X":110.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},
+  "C":{"X":100.0,"Y":0.0,"Z":110.0,"ID":2,"Active":true},
+  "D":{"X":90.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},
+  "One":{"X":107.071,"Y":0.0,"Z":92.929,"ID":4,"Active":true},
+  "Two":{"X":107.071,"Y":0.0,"Z":107.071,"ID":5,"Active":true},
+  "Three":{"X":92.929,"Y":0.0,"Z":107.071,"ID":6,"Active":true},
+  "Four":{"X":92.929,"Y":0.0,"Z":92.929,"ID":7,"Active":true}
+}
 ```
 
 </details>

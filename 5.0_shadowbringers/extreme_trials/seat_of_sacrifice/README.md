@@ -28,7 +28,18 @@ X-formation Meteors, 十-formation NIN KB
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
 ```json
-{"Name":"Seat of Sacrifice EX","MapID":739,"A":{"X":100.0,"Y":0.0,"Z":81.5,"ID":0,"Active":true},"B":{"X":118.5,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":118.5,"ID":2,"Active":true},"D":{"X":81.5,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":93.5,"Y":0.0,"Z":100.0,"ID":4,"Active":true},"Two":{"X":106.5,"Y":0.0,"Z":100.0,"ID":5,"Active":true},"Three":{"X":100.0,"Y":0.0,"Z":111.5,"ID":6,"Active":true},"Four":{"X":0.0,"Y":0.0,"Z":0.0,"ID":7,"Active":false}}
+{
+  "Name":"Seat of Sacrifice EX",
+  "MapID":739,
+  "A":{"X":100.0,"Y":0.0,"Z":81.5,"ID":0,"Active":true},
+  "B":{"X":118.5,"Y":0.0,"Z":100.0,"ID":1,"Active":true},
+  "C":{"X":100.0,"Y":0.0,"Z":118.5,"ID":2,"Active":true},
+  "D":{"X":81.5,"Y":0.0,"Z":100.0,"ID":3,"Active":true},
+  "One":{"X":93.5,"Y":0.0,"Z":100.0,"ID":4,"Active":true},
+  "Two":{"X":106.5,"Y":0.0,"Z":100.0,"ID":5,"Active":true},
+  "Three":{"X":100.0,"Y":0.0,"Z":111.5,"ID":6,"Active":true},
+  "Four":{"X":0.0,"Y":0.0,"Z":0.0,"ID":7,"Active":false}
+}
 ```
 
 </details>

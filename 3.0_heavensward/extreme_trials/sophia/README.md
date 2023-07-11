@@ -42,7 +42,18 @@ The `A` marker is used as a gathering point to bait falloff AoEs during second Q
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
 ```json
-{"Name":"Sophia EX","MapID":184,"A":{"X":18.4,"Y":0.0,"Z":-13.3,"ID":0,"Active":true},"B":{"X":0.0,"Y":0.0,"Z":0.0,"ID":1,"Active":false},"C":{"X":0.0,"Y":0.0,"Z":0.0,"ID":2,"Active":false},"D":{"X":0.0,"Y":0.0,"Z":0.0,"ID":3,"Active":false},"One":{"X":9.3,"Y":0.0,"Z":-9.3,"ID":4,"Active":true},"Two":{"X":9.3,"Y":0.0,"Z":9.3,"ID":5,"Active":true},"Three":{"X":-9.3,"Y":0.0,"Z":9.3,"ID":6,"Active":true},"Four":{"X":-9.3,"Y":0.0,"Z":-9.3,"ID":7,"Active":true}}
+{
+  "Name":"Sophia EX",
+  "MapID":184,
+  "A":{"X":18.4,"Y":0.0,"Z":-13.3,"ID":0,"Active":true},
+  "B":{"X":0.0,"Y":0.0,"Z":0.0,"ID":1,"Active":false},
+  "C":{"X":0.0,"Y":0.0,"Z":0.0,"ID":2,"Active":false},
+  "D":{"X":0.0,"Y":0.0,"Z":0.0,"ID":3,"Active":false},
+  "One":{"X":9.3,"Y":0.0,"Z":-9.3,"ID":4,"Active":true},
+  "Two":{"X":9.3,"Y":0.0,"Z":9.3,"ID":5,"Active":true},
+  "Three":{"X":-9.3,"Y":0.0,"Z":9.3,"ID":6,"Active":true},
+  "Four":{"X":-9.3,"Y":0.0,"Z":-9.3,"ID":7,"Active":true}
+}
 ```
 
 </details>

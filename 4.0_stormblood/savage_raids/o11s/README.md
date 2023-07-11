@@ -29,7 +29,18 @@ Markers are used for Rocket Punch. `1` and `2` are for the first set (before the
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
 ```json
-{"Name":"O11S","MapID":593,"A":{"X":89.0,"Y":0.0,"Z":81.0,"ID":0,"Active":true},"B":{"X":119.0,"Y":0.0,"Z":89.0,"ID":1,"Active":true},"C":{"X":111.0,"Y":0.0,"Z":119.0,"ID":2,"Active":true},"D":{"X":81.0,"Y":0.0,"Z":111.0,"ID":3,"Active":true},"One":{"X":100.0,"Y":0.0,"Z":100.0,"ID":4,"Active":true},"Two":{"X":100.0,"Y":0.0,"Z":110.0,"ID":5,"Active":true},"Three":{"X":0.0,"Y":0.0,"Z":0.0,"ID":6,"Active":false},"Four":{"X":0.0,"Y":0.0,"Z":0.0,"ID":7,"Active":false}}
+{
+  "Name":"O11S",
+  "MapID":593,
+  "A":{"X":89.0,"Y":0.0,"Z":81.0,"ID":0,"Active":true},
+  "B":{"X":119.0,"Y":0.0,"Z":89.0,"ID":1,"Active":true},
+  "C":{"X":111.0,"Y":0.0,"Z":119.0,"ID":2,"Active":true},
+  "D":{"X":81.0,"Y":0.0,"Z":111.0,"ID":3,"Active":true},
+  "One":{"X":100.0,"Y":0.0,"Z":100.0,"ID":4,"Active":true},
+  "Two":{"X":100.0,"Y":0.0,"Z":110.0,"ID":5,"Active":true},
+  "Three":{"X":0.0,"Y":0.0,"Z":0.0,"ID":6,"Active":false},
+  "Four":{"X":0.0,"Y":0.0,"Z":0.0,"ID":7,"Active":false}
+}
 ```
 
 </details>

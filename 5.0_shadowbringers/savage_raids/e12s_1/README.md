@@ -44,7 +44,18 @@ Small lions are pointed to the center of the markers, while the big lion players
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
 ```json
-{"Name":"E12S P1 (EN)","MapID":759,"A":{"X":0.0,"Y":75.0,"Z":-86.3,"ID":0,"Active":true},"B":{"X":11.3,"Y":75.0,"Z":-75.0,"ID":1,"Active":true},"C":{"X":0.0,"Y":75.0,"Z":-63.7,"ID":2,"Active":true},"D":{"X":-11.3,"Y":75.0,"Z":-75.0,"ID":3,"Active":true},"One":{"X":8.43,"Y":75.0,"Z":-81.75,"ID":4,"Active":true},"Two":{"X":8.43,"Y":75.0,"Z":-68.25,"ID":5,"Active":true},"Three":{"X":-8.43,"Y":75.0,"Z":-68.25,"ID":6,"Active":true},"Four":{"X":-8.43,"Y":75.0,"Z":-81.75,"ID":7,"Active":true}}
+{
+  "Name":"E12S P1 (EN)",
+  "MapID":759,
+  "A":{"X":0.0,"Y":75.0,"Z":-86.3,"ID":0,"Active":true},
+  "B":{"X":11.3,"Y":75.0,"Z":-75.0,"ID":1,"Active":true},
+  "C":{"X":0.0,"Y":75.0,"Z":-63.7,"ID":2,"Active":true},
+  "D":{"X":-11.3,"Y":75.0,"Z":-75.0,"ID":3,"Active":true},
+  "One":{"X":8.43,"Y":75.0,"Z":-81.75,"ID":4,"Active":true},
+  "Two":{"X":8.43,"Y":75.0,"Z":-68.25,"ID":5,"Active":true},
+  "Three":{"X":-8.43,"Y":75.0,"Z":-68.25,"ID":6,"Active":true},
+  "Four":{"X":-8.43,"Y":75.0,"Z":-81.75,"ID":7,"Active":true}
+}
 ```
 
 </details>
@@ -57,7 +68,18 @@ Small lions are pointed towards specific corners of the square markers, while th
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
 ```json
-{"Name":"E12S P1 (JP)","MapID":759,"A":{"X":0.0,"Y":75.0,"Z":-85.0,"ID":0,"Active":true},"B":{"X":10.0,"Y":75.0,"Z":-75.0,"ID":1,"Active":true},"C":{"X":0.0,"Y":75.0,"Z":-65.0,"ID":2,"Active":true},"D":{"X":-10.0,"Y":75.0,"Z":-75.0,"ID":3,"Active":true},"One":{"X":7.071,"Y":75.0,"Z":-82.071,"ID":4,"Active":true},"Two":{"X":7.071,"Y":75.0,"Z":-67.929,"ID":5,"Active":true},"Three":{"X":-7.071,"Y":75.0,"Z":-67.929,"ID":6,"Active":true},"Four":{"X":-7.071,"Y":75.0,"Z":-82.071,"ID":7,"Active":true}}
+{
+  "Name":"E12S P1 (JP)",
+  "MapID":759,
+  "A":{"X":0.0,"Y":75.0,"Z":-85.0,"ID":0,"Active":true},
+  "B":{"X":10.0,"Y":75.0,"Z":-75.0,"ID":1,"Active":true},
+  "C":{"X":0.0,"Y":75.0,"Z":-65.0,"ID":2,"Active":true},
+  "D":{"X":-10.0,"Y":75.0,"Z":-75.0,"ID":3,"Active":true},
+  "One":{"X":7.071,"Y":75.0,"Z":-82.071,"ID":4,"Active":true},
+  "Two":{"X":7.071,"Y":75.0,"Z":-67.929,"ID":5,"Active":true},
+  "Three":{"X":-7.071,"Y":75.0,"Z":-67.929,"ID":6,"Active":true},
+  "Four":{"X":-7.071,"Y":75.0,"Z":-82.071,"ID":7,"Active":true}
+}
 ```
 
 </details>

@@ -23,7 +23,18 @@ All other markers are not really needed, but can be useful for calling out safe 
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
 ```json
-{"Name":"Zodiark EX","MapID":803,"A":{"X":100.0,"Y":0.0,"Z":92.0,"ID":0,"Active":true},"B":{"X":114.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":114.0,"ID":2,"Active":true},"D":{"X":86.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":114.0,"Y":0.0,"Z":86.0,"ID":4,"Active":true},"Two":{"X":114.0,"Y":0.0,"Z":114.0,"ID":5,"Active":true},"Three":{"X":86.0,"Y":0.0,"Z":114.0,"ID":6,"Active":true},"Four":{"X":86.0,"Y":0.0,"Z":86.0,"ID":7,"Active":true}}
+{
+  "Name":"Zodiark EX",
+  "MapID":803,
+  "A":{"X":100.0,"Y":0.0,"Z":92.0,"ID":0,"Active":true},
+  "B":{"X":114.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},
+  "C":{"X":100.0,"Y":0.0,"Z":114.0,"ID":2,"Active":true},
+  "D":{"X":86.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},
+  "One":{"X":114.0,"Y":0.0,"Z":86.0,"ID":4,"Active":true},
+  "Two":{"X":114.0,"Y":0.0,"Z":114.0,"ID":5,"Active":true},
+  "Three":{"X":86.0,"Y":0.0,"Z":114.0,"ID":6,"Active":true},
+  "Four":{"X":86.0,"Y":0.0,"Z":86.0,"ID":7,"Active":true}
+}
 ```
 
 </details>

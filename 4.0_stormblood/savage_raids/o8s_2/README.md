@@ -26,7 +26,18 @@ permalink: /4.0_stormblood/savage_raids/o8s_2/
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
 ```json
-{"Name":"O8S P2","MapID":295,"A":{"X":0.0,"Y":0.0,"Z":-18.5,"ID":0,"Active":true},"B":{"X":18.5,"Y":0.0,"Z":0.0,"ID":1,"Active":true},"C":{"X":0.0,"Y":0.0,"Z":18.5,"ID":2,"Active":true},"D":{"X":-18.5,"Y":0.0,"Z":0.0,"ID":3,"Active":true},"One":{"X":0.0,"Y":0.0,"Z":0.0,"ID":4,"Active":true},"Two":{"X":0.0,"Y":0.0,"Z":9.25,"ID":5,"Active":true},"Three":{"X":0.0,"Y":0.0,"Z":0.0,"ID":6,"Active":false},"Four":{"X":0.0,"Y":0.0,"Z":0.0,"ID":7,"Active":false}}
+{
+  "Name":"O8S P2",
+  "MapID":295,
+  "A":{"X":0.0,"Y":0.0,"Z":-18.5,"ID":0,"Active":true},
+  "B":{"X":18.5,"Y":0.0,"Z":0.0,"ID":1,"Active":true},
+  "C":{"X":0.0,"Y":0.0,"Z":18.5,"ID":2,"Active":true},
+  "D":{"X":-18.5,"Y":0.0,"Z":0.0,"ID":3,"Active":true},
+  "One":{"X":0.0,"Y":0.0,"Z":0.0,"ID":4,"Active":true},
+  "Two":{"X":0.0,"Y":0.0,"Z":9.25,"ID":5,"Active":true},
+  "Three":{"X":0.0,"Y":0.0,"Z":0.0,"ID":6,"Active":false},
+  "Four":{"X":0.0,"Y":0.0,"Z":0.0,"ID":7,"Active":false}
+}
 ```
 
 </details>

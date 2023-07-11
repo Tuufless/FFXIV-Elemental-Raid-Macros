@@ -31,7 +31,18 @@ Looking towards the future:
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
 ```json
-{"Name":"TOP","MapID":908,"A":{"X":100.0,"Y":0.0,"Z":87.0,"ID":0,"Active":true},"B":{"X":113.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":113.0,"ID":2,"Active":true},"D":{"X":87.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":109.192,"Y":0.0,"Z":90.808,"ID":4,"Active":true},"Two":{"X":109.192,"Y":0.0,"Z":109.192,"ID":5,"Active":true},"Three":{"X":90.808,"Y":0.0,"Z":109.192,"ID":6,"Active":true},"Four":{"X":90.808,"Y":0.0,"Z":90.808,"ID":7,"Active":true}}
+{
+  "Name":"TOP",
+  "MapID":908,
+  "A":{"X":100.0,"Y":0.0,"Z":87.0,"ID":0,"Active":true},
+  "B":{"X":113.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},
+  "C":{"X":100.0,"Y":0.0,"Z":113.0,"ID":2,"Active":true},
+  "D":{"X":87.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},
+  "One":{"X":109.192,"Y":0.0,"Z":90.808,"ID":4,"Active":true},
+  "Two":{"X":109.192,"Y":0.0,"Z":109.192,"ID":5,"Active":true},
+  "Three":{"X":90.808,"Y":0.0,"Z":109.192,"ID":6,"Active":true},
+  "Four":{"X":90.808,"Y":0.0,"Z":90.808,"ID":7,"Active":true}
+}
 ```
 
 </details>

@@ -47,7 +47,18 @@ All markers are used for Sleepo's Purgation. Of note, the spread position for th
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
 ```json
-{"Name":"P7S (Game8)","MapID":877,"A":{"X":114.29,"Y":0.0,"Z":86.151,"ID":0,"Active":true},"B":{"X":119.543,"Y":0.0,"Z":96.25,"ID":1,"Active":true},"C":{"X":114.29,"Y":0.0,"Z":100.75,"ID":2,"Active":true},"D":{"X":114.29,"Y":0.0,"Z":91.75,"ID":3,"Active":true},"One":{"X":85.71,"Y":0.0,"Z":86.151,"ID":4,"Active":true},"Two":{"X":80.457,"Y":0.0,"Z":96.25,"ID":5,"Active":true},"Three":{"X":85.71,"Y":0.0,"Z":100.75,"ID":6,"Active":true},"Four":{"X":85.71,"Y":0.0,"Z":91.75,"ID":7,"Active":true}}
+{
+  "Name":"P7S (Game8)",
+  "MapID":877,
+  "A":{"X":114.29,"Y":0.0,"Z":86.151,"ID":0,"Active":true},
+  "B":{"X":119.543,"Y":0.0,"Z":96.25,"ID":1,"Active":true},
+  "C":{"X":114.29,"Y":0.0,"Z":100.75,"ID":2,"Active":true},
+  "D":{"X":114.29,"Y":0.0,"Z":91.75,"ID":3,"Active":true},
+  "One":{"X":85.71,"Y":0.0,"Z":86.151,"ID":4,"Active":true},
+  "Two":{"X":80.457,"Y":0.0,"Z":96.25,"ID":5,"Active":true},
+  "Three":{"X":85.71,"Y":0.0,"Z":100.75,"ID":6,"Active":true},
+  "Four":{"X":85.71,"Y":0.0,"Z":91.75,"ID":7,"Active":true}
+}
 ```
 
 </details>
@@ -68,7 +79,18 @@ All markers are used for Sleepo's Purgation.
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
 ```json
-{"Name":"P7S (Sleepo)","MapID":877,"A":{"X":114.29,"Y":0.0,"Z":82.75,"ID":0,"Active":true},"B":{"X":122.084,"Y":0.0,"Z":87.25,"ID":1,"Active":true},"C":{"X":122.0842,"Y":0.0,"Z":96.25,"ID":2,"Active":true},"D":{"X":114.29,"Y":0.0,"Z":100.75,"ID":3,"Active":true},"One":{"X":85.71,"Y":0.0,"Z":82.75,"ID":4,"Active":true},"Two":{"X":77.915,"Y":0.0,"Z":87.25,"ID":5,"Active":true},"Three":{"X":77.915,"Y":0.0,"Z":96.25,"ID":6,"Active":true},"Four":{"X":85.71,"Y":0.0,"Z":100.75,"ID":7,"Active":true}}
+{
+  "Name":"P7S (Sleepo)",
+  "MapID":877,
+  "A":{"X":114.29,"Y":0.0,"Z":82.75,"ID":0,"Active":true},
+  "B":{"X":122.084,"Y":0.0,"Z":87.25,"ID":1,"Active":true},
+  "C":{"X":122.0842,"Y":0.0,"Z":96.25,"ID":2,"Active":true},
+  "D":{"X":114.29,"Y":0.0,"Z":100.75,"ID":3,"Active":true},
+  "One":{"X":85.71,"Y":0.0,"Z":82.75,"ID":4,"Active":true},
+  "Two":{"X":77.915,"Y":0.0,"Z":87.25,"ID":5,"Active":true},
+  "Three":{"X":77.915,"Y":0.0,"Z":96.25,"ID":6,"Active":true},
+  "Four":{"X":85.71,"Y":0.0,"Z":100.75,"ID":7,"Active":true}
+}
 ```
 
 </details>

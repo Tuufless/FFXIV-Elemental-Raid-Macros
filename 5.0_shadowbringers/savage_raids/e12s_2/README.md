@@ -44,7 +44,18 @@ Note: There are some details that are added in the macro, in particular, a DPS p
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
 ```json
-{"Name":"E12S P2","MapID":759,"A":{"X":0.0,"Y":75.0,"Z":-85.0,"ID":0,"Active":true},"B":{"X":10.0,"Y":75.0,"Z":-75.0,"ID":1,"Active":true},"C":{"X":0.0,"Y":75.0,"Z":-65.0,"ID":2,"Active":true},"D":{"X":-10.0,"Y":75.0,"Z":-75.0,"ID":3,"Active":true},"One":{"X":7.071,"Y":75.0,"Z":-82.071,"ID":4,"Active":true},"Two":{"X":7.071,"Y":75.0,"Z":-67.929,"ID":5,"Active":true},"Three":{"X":-7.071,"Y":75.0,"Z":-67.929,"ID":6,"Active":true},"Four":{"X":-7.071,"Y":75.0,"Z":-82.071,"ID":7,"Active":true}}
+{
+  "Name":"E12S P2",
+  "MapID":759,
+  "A":{"X":0.0,"Y":75.0,"Z":-85.0,"ID":0,"Active":true},
+  "B":{"X":10.0,"Y":75.0,"Z":-75.0,"ID":1,"Active":true},
+  "C":{"X":0.0,"Y":75.0,"Z":-65.0,"ID":2,"Active":true},
+  "D":{"X":-10.0,"Y":75.0,"Z":-75.0,"ID":3,"Active":true},
+  "One":{"X":7.071,"Y":75.0,"Z":-82.071,"ID":4,"Active":true},
+  "Two":{"X":7.071,"Y":75.0,"Z":-67.929,"ID":5,"Active":true},
+  "Three":{"X":-7.071,"Y":75.0,"Z":-67.929,"ID":6,"Active":true},
+  "Four":{"X":-7.071,"Y":75.0,"Z":-82.071,"ID":7,"Active":true}
+}
 ```
 
 </details>

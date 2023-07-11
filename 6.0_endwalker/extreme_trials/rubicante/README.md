@@ -113,7 +113,18 @@ With Nukemaru's strat, players that need to rotate always rotates clockwise. The
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
 ```json
-{"Name":"Rubicante EX","MapID":924,"A":{"X":100.0,"Y":0.0,"Z":88.5,"ID":0,"Active":true},"B":{"X":111.5,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":111.5,"ID":2,"Active":true},"D":{"X":88.5,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":91.868,"Y":0.0,"Z":91.868,"ID":4,"Active":true},"Two":{"X":108.131,"Y":0.0,"Z":91.868,"ID":5,"Active":true},"Three":{"X":108.131,"Y":0.0,"Z":108.131,"ID":6,"Active":true},"Four":{"X":91.868,"Y":0.0,"Z":108.131,"ID":7,"Active":true}}
+{
+  "Name":"Rubicante EX",
+  "MapID":924,
+  "A":{"X":100.0,"Y":0.0,"Z":88.5,"ID":0,"Active":true},
+  "B":{"X":111.5,"Y":0.0,"Z":100.0,"ID":1,"Active":true},
+  "C":{"X":100.0,"Y":0.0,"Z":111.5,"ID":2,"Active":true},
+  "D":{"X":88.5,"Y":0.0,"Z":100.0,"ID":3,"Active":true},
+  "One":{"X":91.868,"Y":0.0,"Z":91.868,"ID":4,"Active":true},
+  "Two":{"X":108.131,"Y":0.0,"Z":91.868,"ID":5,"Active":true},
+  "Three":{"X":108.131,"Y":0.0,"Z":108.131,"ID":6,"Active":true},
+  "Four":{"X":91.868,"Y":0.0,"Z":108.131,"ID":7,"Active":true}
+}
 ```
 
 </details>

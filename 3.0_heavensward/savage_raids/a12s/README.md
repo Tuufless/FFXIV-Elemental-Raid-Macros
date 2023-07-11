@@ -43,7 +43,18 @@ Now that more markers are available, I would place the markers as below. The `A`
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
 ```json
-{"Name":"A12S","MapID":193,"A":{"X":0.0,"Y":400.0,"Z":-24.5,"ID":0,"Active":true},"B":{"X":24.5,"Y":400.0,"Z":0.0,"ID":1,"Active":true},"C":{"X":0.0,"Y":0.0,"Z":0.0,"ID":2,"Active":false},"D":{"X":-24.5,"Y":400.0,"Z":0.0,"ID":3,"Active":true},"One":{"X":-5.0,"Y":400.0,"Z":24.7,"ID":4,"Active":true},"Two":{"X":5.0,"Y":400.0,"Z":24.7,"ID":5,"Active":true},"Three":{"X":0.0,"Y":0.0,"Z":0.0,"ID":6,"Active":false},"Four":{"X":0.0,"Y":0.0,"Z":0.0,"ID":7,"Active":false}}
+{
+  "Name":"A12S",
+  "MapID":193,
+  "A":{"X":0.0,"Y":400.0,"Z":-24.5,"ID":0,"Active":true},
+  "B":{"X":24.5,"Y":400.0,"Z":0.0,"ID":1,"Active":true},
+  "C":{"X":0.0,"Y":0.0,"Z":0.0,"ID":2,"Active":false},
+  "D":{"X":-24.5,"Y":400.0,"Z":0.0,"ID":3,"Active":true},
+  "One":{"X":-5.0,"Y":400.0,"Z":24.7,"ID":4,"Active":true},
+  "Two":{"X":5.0,"Y":400.0,"Z":24.7,"ID":5,"Active":true},
+  "Three":{"X":0.0,"Y":0.0,"Z":0.0,"ID":6,"Active":false},
+  "Four":{"X":0.0,"Y":0.0,"Z":0.0,"ID":7,"Active":false}
+}
 ```
 
 </details>

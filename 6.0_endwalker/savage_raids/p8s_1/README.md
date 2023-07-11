@@ -66,7 +66,18 @@ Some parties (particularly English groups) will do ["Spriggan Gorgons 2"](#sprig
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
 ```json
-{"Name":"P8S","MapID":884,"A":{"X":100.0,"Y":0.0,"Z":91.6,"ID":0,"Active":true},"B":{"X":108.4,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":108.4,"ID":2,"Active":true},"D":{"X":91.6,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":91.6,"Y":0.0,"Z":91.6,"ID":4,"Active":true},"Two":{"X":108.4,"Y":0.0,"Z":91.6,"ID":5,"Active":true},"Three":{"X":108.4,"Y":0.0,"Z":108.4,"ID":6,"Active":true},"Four":{"X":91.6,"Y":0.0,"Z":108.4,"ID":7,"Active":true}}
+{
+  "Name":"P8S",
+  "MapID":884,
+  "A":{"X":100.0,"Y":0.0,"Z":91.6,"ID":0,"Active":true},
+  "B":{"X":108.4,"Y":0.0,"Z":100.0,"ID":1,"Active":true},
+  "C":{"X":100.0,"Y":0.0,"Z":108.4,"ID":2,"Active":true},
+  "D":{"X":91.6,"Y":0.0,"Z":100.0,"ID":3,"Active":true},
+  "One":{"X":91.6,"Y":0.0,"Z":91.6,"ID":4,"Active":true},
+  "Two":{"X":108.4,"Y":0.0,"Z":91.6,"ID":5,"Active":true},
+  "Three":{"X":108.4,"Y":0.0,"Z":108.4,"ID":6,"Active":true},
+  "Four":{"X":91.6,"Y":0.0,"Z":108.4,"ID":7,"Active":true}
+}
 ```
 
 </details>

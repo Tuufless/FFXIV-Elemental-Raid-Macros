@@ -56,7 +56,18 @@ All markers are used to bait Hyperdimensional Slashes (black orbs).
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
 ```json
-{"Name":"Adelphel and Grinnaux","MapID":788,"A":{"X":93.015,"Y":0.0,"Z":89.036,"ID":0,"Active":true},"B":{"X":110.964,"Y":0.0,"Z":93.015,"ID":1,"Active":true},"C":{"X":106.985,"Y":0.0,"Z":110.964,"ID":2,"Active":true},"D":{"X":89.036,"Y":0.0,"Z":106.985,"ID":3,"Active":true},"One":{"X":106.985,"Y":0.0,"Z":89.036,"ID":4,"Active":true},"Two":{"X":110.964,"Y":0.0,"Z":106.985,"ID":5,"Active":true},"Three":{"X":93.015,"Y":0.0,"Z":110.964,"ID":6,"Active":true},"Four":{"X":89.036,"Y":0.0,"Z":93.015,"ID":7,"Active":true}}
+{
+  "Name":"Adelphel and Grinnaux",
+  "MapID":788,
+  "A":{"X":93.015,"Y":0.0,"Z":89.036,"ID":0,"Active":true},
+  "B":{"X":110.964,"Y":0.0,"Z":93.015,"ID":1,"Active":true},
+  "C":{"X":106.985,"Y":0.0,"Z":110.964,"ID":2,"Active":true},
+  "D":{"X":89.036,"Y":0.0,"Z":106.985,"ID":3,"Active":true},
+  "One":{"X":106.985,"Y":0.0,"Z":89.036,"ID":4,"Active":true},
+  "Two":{"X":110.964,"Y":0.0,"Z":106.985,"ID":5,"Active":true},
+  "Three":{"X":93.015,"Y":0.0,"Z":110.964,"ID":6,"Active":true},
+  "Four":{"X":89.036,"Y":0.0,"Z":93.015,"ID":7,"Active":true}
+}
 ```
 
 </details>
@@ -79,7 +90,18 @@ If you are doing the fixed Wyrmsbreath 2 strat, I recommend you use the "outer" 
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
 ```json
-{"Name":"Dragonsong's Reprise (Outer)","MapID":788,"A":{"X":100.0,"Y":0.0,"Z":79.0,"ID":0,"Active":true},"B":{"X":121.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":121.0,"ID":2,"Active":true},"D":{"X":79.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":114.849,"Y":0.0,"Z":85.151,"ID":4,"Active":true},"Two":{"X":114.849,"Y":0.0,"Z":114.849,"ID":5,"Active":true},"Three":{"X":85.151,"Y":0.0,"Z":114.849,"ID":6,"Active":true},"Four":{"X":85.151,"Y":0.0,"Z":85.151,"ID":7,"Active":true}}
+{
+  "Name":"Dragonsong's Reprise (Outer)",
+  "MapID":788,
+  "A":{"X":100.0,"Y":0.0,"Z":79.0,"ID":0,"Active":true},
+  "B":{"X":121.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},
+  "C":{"X":100.0,"Y":0.0,"Z":121.0,"ID":2,"Active":true},
+  "D":{"X":79.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},
+  "One":{"X":114.849,"Y":0.0,"Z":85.151,"ID":4,"Active":true},
+  "Two":{"X":114.849,"Y":0.0,"Z":114.849,"ID":5,"Active":true},
+  "Three":{"X":85.151,"Y":0.0,"Z":114.849,"ID":6,"Active":true},
+  "Four":{"X":85.151,"Y":0.0,"Z":85.151,"ID":7,"Active":true}
+}
 ```
 
 </details>
@@ -97,7 +119,18 @@ The intercardinal markers demarcate:
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
 ```json
-{"Name":"Dragonsong's Reprise (Inner)","MapID":788,"A":{"X":100.0,"Y":0.0,"Z":87.0,"ID":0,"Active":true},"B":{"X":113.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":113.0,"ID":2,"Active":true},"D":{"X":87.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":109.192,"Y":0.0,"Z":90.807,"ID":4,"Active":true},"Two":{"X":109.192,"Y":0.0,"Z":109.192,"ID":5,"Active":true},"Three":{"X":90.807,"Y":0.0,"Z":109.192,"ID":6,"Active":true},"Four":{"X":90.807,"Y":0.0,"Z":90.807,"ID":7,"Active":true}}
+{
+  "Name":"Dragonsong's Reprise (Inner)",
+  "MapID":788,
+  "A":{"X":100.0,"Y":0.0,"Z":87.0,"ID":0,"Active":true},
+  "B":{"X":113.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},
+  "C":{"X":100.0,"Y":0.0,"Z":113.0,"ID":2,"Active":true},
+  "D":{"X":87.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},
+  "One":{"X":109.192,"Y":0.0,"Z":90.807,"ID":4,"Active":true},
+  "Two":{"X":109.192,"Y":0.0,"Z":109.192,"ID":5,"Active":true},
+  "Three":{"X":90.807,"Y":0.0,"Z":109.192,"ID":6,"Active":true},
+  "Four":{"X":90.807,"Y":0.0,"Z":90.807,"ID":7,"Active":true}
+}
 ```
 
 </details>

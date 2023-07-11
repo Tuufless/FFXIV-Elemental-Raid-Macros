@@ -29,7 +29,18 @@ The macros are for the [Okome strategy](https://blog.lariceworks.net/archives/26
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
 ```json
-{"Name":"Hades EX","MapID":693,"A":{"X":100.0,"Y":0.0,"Z":95.35,"ID":0,"Active":true},"B":{"X":104.65,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":104.65,"ID":2,"Active":true},"D":{"X":95.35,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":94.9,"Y":0.0,"Z":95.95,"ID":4,"Active":true},"Two":{"X":105.1,"Y":0.0,"Z":95.95,"ID":5,"Active":true},"Three":{"X":0.0,"Y":0.0,"Z":0.0,"ID":6,"Active":false},"Four":{"X":0.0,"Y":0.0,"Z":0.0,"ID":7,"Active":false}}
+{
+  "Name":"Hades EX",
+  "MapID":693,
+  "A":{"X":100.0,"Y":0.0,"Z":95.35,"ID":0,"Active":true},
+  "B":{"X":104.65,"Y":0.0,"Z":100.0,"ID":1,"Active":true},
+  "C":{"X":100.0,"Y":0.0,"Z":104.65,"ID":2,"Active":true},
+  "D":{"X":95.35,"Y":0.0,"Z":100.0,"ID":3,"Active":true},
+  "One":{"X":94.9,"Y":0.0,"Z":95.95,"ID":4,"Active":true},
+  "Two":{"X":105.1,"Y":0.0,"Z":95.95,"ID":5,"Active":true},
+  "Three":{"X":0.0,"Y":0.0,"Z":0.0,"ID":6,"Active":false},
+  "Four":{"X":0.0,"Y":0.0,"Z":0.0,"ID":7,"Active":false}
+}
 ```
 
 </details>

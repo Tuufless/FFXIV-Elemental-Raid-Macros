@@ -62,7 +62,18 @@ Players rotate moving "down" in the markers (i.e: 4→3→2→1→4 and D→C→
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
 ```json
-{"Name":"P6S (Nukemaru)","MapID":881,"A":{"X":108.7,"Y":0.0,"Z":91.3,"ID":0,"Active":true},"B":{"X":115.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":108.7,"Y":0.0,"Z":108.7,"ID":2,"Active":true},"D":{"X":104.5,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":91.3,"Y":0.0,"Z":91.3,"ID":4,"Active":true},"Two":{"X":85.0,"Y":0.0,"Z":100.0,"ID":5,"Active":true},"Three":{"X":91.3,"Y":0.0,"Z":108.7,"ID":6,"Active":true},"Four":{"X":95.5,"Y":0.0,"Z":100.0,"ID":7,"Active":true}}
+{
+  "Name":"P6S (Nukemaru)",
+  "MapID":881,
+  "A":{"X":108.7,"Y":0.0,"Z":91.3,"ID":0,"Active":true},
+  "B":{"X":115.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},
+  "C":{"X":108.7,"Y":0.0,"Z":108.7,"ID":2,"Active":true},
+  "D":{"X":104.5,"Y":0.0,"Z":100.0,"ID":3,"Active":true},
+  "One":{"X":91.3,"Y":0.0,"Z":91.3,"ID":4,"Active":true},
+  "Two":{"X":85.0,"Y":0.0,"Z":100.0,"ID":5,"Active":true},
+  "Three":{"X":91.3,"Y":0.0,"Z":108.7,"ID":6,"Active":true},
+  "Four":{"X":95.5,"Y":0.0,"Z":100.0,"ID":7,"Active":true}
+}
 ```
 
 </details>
@@ -80,7 +91,18 @@ Letters are N/S, while numbers are E/W to also help with that grouping when dodg
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
 ```json
-{"Name":"P6S (ZizieZip)","MapID":881,"A":{"X":95.0,"Y":0.0,"Z":88.333,"ID":0,"Active":true},"B":{"X":105.0,"Y":0.0,"Z":88.333,"ID":1,"Active":true},"C":{"X":105.0,"Y":0.0,"Z":111.666,"ID":2,"Active":true},"D":{"X":95.0,"Y":0.0,"Z":111.666,"ID":3,"Active":true},"One":{"X":88.333,"Y":0.0,"Z":95.0,"ID":4,"Active":true},"Two":{"X":111.666,"Y":0.0,"Z":95.0,"ID":5,"Active":true},"Three":{"X":111.666,"Y":0.0,"Z":105.0,"ID":6,"Active":true},"Four":{"X":88.333,"Y":0.0,"Z":105.0,"ID":7,"Active":true}}
+{
+  "Name":"P6S (ZizieZip)",
+  "MapID":881,
+  "A":{"X":95.0,"Y":0.0,"Z":88.333,"ID":0,"Active":true},
+  "B":{"X":105.0,"Y":0.0,"Z":88.333,"ID":1,"Active":true},
+  "C":{"X":105.0,"Y":0.0,"Z":111.666,"ID":2,"Active":true},
+  "D":{"X":95.0,"Y":0.0,"Z":111.666,"ID":3,"Active":true},
+  "One":{"X":88.333,"Y":0.0,"Z":95.0,"ID":4,"Active":true},
+  "Two":{"X":111.666,"Y":0.0,"Z":95.0,"ID":5,"Active":true},
+  "Three":{"X":111.666,"Y":0.0,"Z":105.0,"ID":6,"Active":true},
+  "Four":{"X":88.333,"Y":0.0,"Z":105.0,"ID":7,"Active":true}
+}
 ```
 
 </details>

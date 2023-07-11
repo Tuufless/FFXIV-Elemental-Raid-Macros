@@ -27,7 +27,18 @@ permalink: /5.0_shadowbringers/savage_raids/e3s/
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
 ```json
-{"Name":"E3S","MapID":683,"A":{"X":92.5,"Y":0.0,"Z":100.0,"ID":0,"Active":true},"B":{"X":107.5,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":81.0,"Y":0.0,"Z":103.5,"ID":2,"Active":true},"D":{"X":119.0,"Y":0.0,"Z":103.5,"ID":3,"Active":true},"One":{"X":91.2,"Y":0.0,"Z":81.2,"ID":4,"Active":true},"Two":{"X":108.8,"Y":0.0,"Z":81.2,"ID":5,"Active":true},"Three":{"X":0.0,"Y":0.0,"Z":0.0,"ID":6,"Active":false},"Four":{"X":0.0,"Y":0.0,"Z":0.0,"ID":7,"Active":false}}
+{
+  "Name":"E3S",
+  "MapID":683,
+  "A":{"X":92.5,"Y":0.0,"Z":100.0,"ID":0,"Active":true},
+  "B":{"X":107.5,"Y":0.0,"Z":100.0,"ID":1,"Active":true},
+  "C":{"X":81.0,"Y":0.0,"Z":103.5,"ID":2,"Active":true},
+  "D":{"X":119.0,"Y":0.0,"Z":103.5,"ID":3,"Active":true},
+  "One":{"X":91.2,"Y":0.0,"Z":81.2,"ID":4,"Active":true},
+  "Two":{"X":108.8,"Y":0.0,"Z":81.2,"ID":5,"Active":true},
+  "Three":{"X":0.0,"Y":0.0,"Z":0.0,"ID":6,"Active":false},
+  "Four":{"X":0.0,"Y":0.0,"Z":0.0,"ID":7,"Active":false}
+}
 ```
 
 </details>

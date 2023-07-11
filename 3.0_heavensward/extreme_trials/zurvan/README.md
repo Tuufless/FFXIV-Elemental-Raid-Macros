@@ -34,7 +34,18 @@ An up-to-date reference would be Nukemaru's guide:
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
 ```json
-{"Name":"Zurvan EX","MapID":224,"A":{"X":0.0,"Y":0.0,"Z":-18.0,"ID":0,"Active":true},"B":{"X":18.0,"Y":0.0,"Z":0.0,"ID":1,"Active":true},"C":{"X":0.0,"Y":0.0,"Z":18.0,"ID":2,"Active":true},"D":{"X":-18.0,"Y":0.0,"Z":0.0,"ID":3,"Active":true},"One":{"X":15.588457,"Y":0.0,"Z":-9.0,"ID":4,"Active":true},"Two":{"X":15.588,"Y":0.0,"Z":9.0,"ID":5,"Active":true},"Three":{"X":-15.588,"Y":0.0,"Z":9.0,"ID":6,"Active":true},"Four":{"X":-15.588,"Y":0.0,"Z":-9.0,"ID":7,"Active":true}}
+{
+  "Name":"Zurvan EX",
+  "MapID":224,
+  "A":{"X":0.0,"Y":0.0,"Z":-18.0,"ID":0,"Active":true},
+  "B":{"X":18.0,"Y":0.0,"Z":0.0,"ID":1,"Active":true},
+  "C":{"X":0.0,"Y":0.0,"Z":18.0,"ID":2,"Active":true},
+  "D":{"X":-18.0,"Y":0.0,"Z":0.0,"ID":3,"Active":true},
+  "One":{"X":15.588457,"Y":0.0,"Z":-9.0,"ID":4,"Active":true},
+  "Two":{"X":15.588,"Y":0.0,"Z":9.0,"ID":5,"Active":true},
+  "Three":{"X":-15.588,"Y":0.0,"Z":9.0,"ID":6,"Active":true},
+  "Four":{"X":-15.588,"Y":0.0,"Z":-9.0,"ID":7,"Active":true}
+}
 ```
 
 </details>
