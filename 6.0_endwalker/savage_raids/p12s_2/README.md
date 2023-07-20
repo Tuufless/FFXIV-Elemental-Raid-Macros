@@ -20,7 +20,7 @@ Nukemaru has published a video outlining the PF strat:
 
 - Check the Caloric Theory 1 strat.
   - **Japanese** parties will go with [Mochibe's strat](#mochibes-caloric-theory-1)
-  - **English** parties will go with [Papan's strat](#papans-caloric-theory-1).
+  - **English** parties will go with [Papan's original strat](#papans-original-caloric-theory-1).
 - Check whether the party will line up for Pangenesis (パンゲ整列).
   - Parties that **will not** line up for Pangenesis will mention something like 非整列 or 整列なし.
 
@@ -67,10 +67,9 @@ The following markers are for Mochibe's Caloric Theory 1 strat:
 
 ## Nukemaru + Papan's Caloric 1
 
-This is the preferred strat by EN. The macro below follows [Papan's Toolbox](https://ff14.toolboxgaming.space/?id=845983862306861&preview=1).
+This is the preferred strat by EN, and follows [Papan's Original Toolbox](https://ff14.toolboxgaming.space/?id=845983862306861&preview=1).
 
-<div style="background-color: #200 ; padding: 10px; border: 1px solid;">
-<b>Note:</b> There is a <a href="https://youtu.be/r1aDCRfNTWc"><b>video guide on Papan's strat</b></a>- however, it has <em>flipped the melee and ranged priority</em> from the Toolbox (and thus is also flipped from the macro).</div>
+Take note that Papan's strat has **updated versions going around in other data centers**, so take note if you are going to reference other guides.
 
 ### English (Papan)
 
@@ -80,7 +79,9 @@ This is the preferred strat by EN. The macro below follows [Papan's Toolbox](htt
 
 ### Markers (Papan)
 
-The following markers are for Papan's Caloric Theory 1 strat:
+The following markers are for Papan's Caloric Theory 1 strat.
+
+- The `BD` markers are 9 yalms away from the corresponding east/west markers, which indicate the distance a player can travel before gaining a Close Caloric stack.
 
 ![](images/markers_papan.jpg)
 <details markdown=block>
@@ -209,9 +210,16 @@ This is the strategy favoured by Japanese parties.
   </tr>
 </table>
 
-### Papan's Caloric Theory 1
+### Papan's Original Caloric Theory 1
 
 This is the strategy favoured by English parties.
+
+<div style="background-color: #200 ; padding: 10px; border: 1px solid;">
+<p><b>Note:</b> There are a couple video guides on Papan's strat- however, they go over <b>different</b> versions.</p>
+<ul>
+  <li><a href="https://youtu.be/r1aDCRfNTWc"><b>Hope's video guide</b></a>- This has <em>flipped the melee and ranged priority</em> from the Toolbox (and thus is also flipped from the macro).</li>
+  <li><a href="https://youtu.be/O3_V1DwPA1I?t=493"><b>Hector's video guide</b></a>- This goes over an <em>updated</em> version of Papan's strat (done in NA) that pairs players up by <em>roles</em>, and has the <em>role pairs</em> take up the marker positions.</li>
+</ul></div>
 
 <table>
   <tr>
