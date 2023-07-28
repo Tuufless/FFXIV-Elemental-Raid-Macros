@@ -88,7 +88,7 @@ The movement for 1211 is as follows:
 
 ## 1256
 
-1256 is personally my preferred method of resolving Limit Cut as it is more fluid and doesn't require players to face outside, or use anti-knockback abilities. The 1256 vs. 3478 split also mirrors how Limit Cut will be resolved later in [Wormhole Formation](../en/04_alex_prime.md#wormhole-formation).
+1256 is personally my preferred method of resolving Limit Cut as it is more fluid and doesn't require players to face outside, or use anti-knockback abilities. The 1256 vs. 3478 split also mirrors how Limit Cut will be resolved later in [Wormhole Formation](../en/03_alex_prime.md#wormhole-formation).
 
 However, it is the harder of the two to learn, especially for players new to TEA.
 

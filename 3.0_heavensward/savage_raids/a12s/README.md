@@ -12,8 +12,8 @@ permalink: /3.0_heavensward/savage_raids/a12s/
 This is [Cien Choco's macro](https://jp.finalfantasyxiv.com/lodestone/character/1622544/blog/3194463/) for Pekoelog's strat.
 
 Pekoelog:
-  - [Part 1](http://pekoe1001.blog.shinobi.jp/Entry/1585/)
-  - [Part 2](http://pekoe1001.blog.shinobi.jp/Entry/1586/)
+  - [Part 1](https://pekoe1001.blog.shinobi.jp/Entry/1585/)
+  - [Part 2](https://pekoe1001.blog.shinobi.jp/Entry/1586/)
 
 ## Japanese
 

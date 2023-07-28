@@ -10,7 +10,7 @@ permalink: /ultimates/ucob/
 
 # The Unending Coil of Bahamut (Ultimate)
 
-PF largely follows [Clees' UCoB guide](http://clees.me/guides/ucob/) with a few differences:
+PF largely follows [Clees' UCoB guide](https://clees.me/guides/ucob/) with a few differences:
 
 - Neurolinks are placed in an inverted triangle.
 - Blackfire Trio towers are flipped for tanks and healers (healers take the tower closer to the Megaflare stack).

@@ -37,7 +37,7 @@ This is an evolution of Amaya's strategy, and largely became the PF standard. It
 
 The other strategy used for Orogenesis was the Idyll strat (イディル式). This strat is characterized by bringing Titan north in line with the second row of tiles. Yellow melee are resolved on the top two rows, while Orange stack is resolved on the third row from the top.
 
-- Guide (Japanese): [link](http://kanatan.info/archives/18869710.html)
+- Guide (Japanese): [link](https://kanatan.info/archives/18869710.html)
 - Orogenesis: [video](https://youtu.be/HRN7Fw9xbrA)
 
 ### English
