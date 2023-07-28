@@ -24,21 +24,22 @@ Nukemaru has published a video outlining the PF strat:
 - Check whether the party will line up for Pangenesis (パンゲ整列).
   - Parties that **will not** line up for Pangenesis will mention something like 非整列 or 整列なし.
 
-## Nukemaru + Mochibe's Caloric 1
+## Japanese (Nukemaru + Mochibe's Caloric 1)
 
-This is the preferred strat by JP.
+Japanese parties will do [Mochibe's strat](#mochibes-caloric-theory-1) for Caloric Theory 1.
 
-### English (Mochibe)
+```
+{% include_relative macros/p12s_2_mochibe.jp.txt %}
+```
+
+<details markdown=block>
+<summary>English translation</summary>
 
 ```
 {% include_relative macros/p12s_2_mochibe.en.txt %}
 ```
 
-### Japanese (Mochibe)
-
-```
-{% include_relative macros/p12s_2_mochibe.jp.txt %}
-```
+</details>
 
 ### Markers (Mochibe)
 
@@ -65,7 +66,7 @@ The following markers are for Mochibe's Caloric Theory 1 strat:
 
 </details>
 
-## Nukemaru + Papan's Caloric 1
+## English (Nukemaru + Papan's Caloric 1)
 
 This is the preferred strat by EN, and follows [Papan's Original Toolbox](https://ff14.toolboxgaming.space/?id=845983862306861&preview=1).
 
@@ -76,6 +77,15 @@ Take note that Papan's strat has **updated versions going around in other data c
 ```
 {% include_relative macros/p12s_2_papan.en.txt %}
 ```
+
+<details markdown=block>
+<summary>Japanese translation</summary>
+
+```
+{% include_relative macros/p12s_2_papan.jp.txt %}
+```
+
+</details>
 
 ### Markers (Papan)
 
