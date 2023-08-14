@@ -292,6 +292,75 @@ This is the strategy favoured by English parties.
   </tr>
 </table>
 
+## Pangenesis
+
+The Pangenesis strat done here is the "2+1" variant. The numbers refer to the number of stacks of the two players that take the **first** towers (in this case, the players with two stacks, and one stack).
+
+<table>
+  <tr>
+    <td><p><b>1.</b> Raid-wide damage and debuffs appear.</p><p>Players take up their initial positions.</p>
+    <ul>
+      <li><b>No debuff:</b> Find your partner, and preposition at where the <b>second North-side tower</b> will spawn.</li>
+      <li><b>1 stack:</b> Find your partner, and preposition at where the <b>first tower</b> will spawn.</li>
+      <li><b>2 stacks:</b> Determine if you are the fast or slow debuff (look at the timer on the <b>coloured debuff</b>), and wait in the middle.</li>
+    </ul>
+    <p>The players with either 1 or no stacks will order themselves with the priority:</p>
+    <ul>
+      <li><b>West:</b> MT ST H1 H2 D1 D2 D3 D4 <b>:East</b></li>
+    </ul></td>
+    <td><img src="images/pangenesis_01.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>2.</b> First set of coloured towers appear.</p>
+    <ul>
+      <li><b>2 stacks (fast):</b> Go into the <b>first tower</b> of the <b>opposite colour</b> to your debuff.</li>
+      <li><b>2 stacks (slow):</b> Preposition at where the <b>second South-side tower</b> will spawn beside the <b>opposite colour</b> tower to your debuff.</li>
+    </ul></td>
+    <td><img src="images/pangenesis_02.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>3.</b> First towers resolve. Wait for the slime to form before moving to the next tower.</p>
+    <p>One of the two players in each tower (at random) will get a coloured debuff, and the other will not.</p>
+    <ul>
+      <li><b>If you received a coloured debuff:</b> Go to the second North-side tower.</li>
+      <li><b>If you did not receive a coloured debuff:</b> Go to the second South-side tower.</li>
+    </ul></td>
+    <td><img src="images/pangenesis_03.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>4.</b> Second towers resolve. Wait for the slime to form before moving to the next tower.</p>
+    <p>One of the two players in each tower (at random) will get a coloured debuff, and the other will not.</p>
+    <ul>
+      <li><b>If you received a coloured debuff:</b> Cross diagonally to the opposite-coloured tower.</li>
+      <li><b>If you did not receive a coloured debuff:</b> Move horizontally to the same-coloured tower as before.</li>
+    </ul></td>
+    <td><img src="images/pangenesis_04.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>5.</b> Third towers resolve. Wait for the slime to form before moving to the next tower.</p>
+    <p>There will be three slimes on each side as the result of all the fusions.</p>
+    <ul>
+      <li><b>Players that started with no stacks:</b> Gather the tethers from the slimes on your side, and go to the markers to bait AoEs. When the AoEs resolve, move to the east side of the arena.</li>
+      <li><b>MT:</b> Stand on the west side of the arena and prepare to invuln Palladian Grasp.</li>
+      <li><b>Everyone else:</b> Stand on the east side of the arena.</li>
+    </ul></td>
+    <td><img src="images/pangenesis_05.jpg"></td>
+  </tr>
+</table>
+
+## Caloric Theory 2
+
+The strat used passes the Fire **anti-clockwise** around the arena, **skipping** the player in the center.
+
+These are the starting positions for all players:
+
+![](images/caloric_2.jpg)
+
+- The player with the **red** mark will swap positions with the MT.
+- Each player (except the one in the center) will move exactly twice:
+  1. Follow the red arrow anti-clockwise around the arena when the first AoE telegraph appears.
+  2. Follow the next white arrow when the second AoE telegraph appears.
+
 ## Timeline
 ![](images/timeline.jpg)
 *(Credit: [u/ExiaKuromonji](https://www.reddit.com/r/ffxiv/comments/141y028/spoiler64_p12s_part_2_timeline_and_abilities/))*
@@ -328,5 +397,16 @@ This is the strategy favoured by English parties.
     <li><b>CW from North:</b> D4 > D1 > D2</li>
   </ul>
   <p>As for why H2 and D3 are missing from the priority, recall that the priority applies to the players in the <em>middle</em> that need to fill in waymarked positions.</p><p>Since H2 and D3 start on a marker, and will only ever swap with H1 and D4 (who are also on markers), H2 and D3 will <em>never</em> be in the middle group, so there is no need for them to be in the priority list.</p><p>H1 and D4, on the other hand, <em>do</em> need to be in the priority order, because they may potentially swap with a melee and putting them in the middle to fill in empty spots later.</p></td></tr>
+</table>
+</details>
+<details markdown=block>
+<summary><b>[Caloric Theory 2]</b> Why are the starting positions like this?</summary>
+<table>
+  <tr><td><p>This is an unfortunate case of PF converging on a suboptimal solution:</p>
+  <ul>
+    <li>If the MT has to swap with D3, they are now out of melee range <b>in the middle of a 2-minute burst window</b>.</li>
+    <li>Ekpyrosis follows up immediately after Caloric 2, and the healers end up on the wrong side of the arena to where they need to be.</li>
+  </ul>
+  <p>Unfortunately, it's the one that's standard, so we're stuck with it for the time being.</p></td></tr>
 </table>
 </details>
