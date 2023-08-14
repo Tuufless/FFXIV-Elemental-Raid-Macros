@@ -199,6 +199,13 @@ My preferred strat is an upside-down version of the "Komazou" strat, which split
 </table>
 </details>
 <details markdown=block>
+<summary><b>[Death of the Heavens]</b> Is there a particular reason why Dooms go North instead of South?</summary>
+<table>
+  <tr><td><p>This is just for simplification- having the Dooms "North" (towards Ser Guerrique) couples the Dooms to North/South positions.</p>
+  <p>That, in turn means that players can dodge based on whether they have Doom or not (Dooms dodge immediately, non-Dooms next), instead of adding a second layer of whether they're North or South.</p></td></tr>
+</table>
+</details>
+<details markdown=block>
 <summary><b>[Thordan]</b> What happens if you kill Thordan in this phase?</summary>
 <table>
   <tr><td><p>At the end of the next phase with Nidhogg and Hraesvelgr, Nidhogg's eyes threaten to take over Estinien again.</p><p>If Thordan was spared at the end of this phase, this is where Thordan jumps in to take the eyes and become Dragonking Thordan.</p><p>However, if you kill Thordan in this alternate timeline, Thordan isn't around to take the eyes and the party returns to a repeat of the Eyes phase except this time, Haurchefant isn't dead and the party is now missing Huarchefant's buff needed to damage the blue eye.</p><blockquote class="twitter-tweet"><p lang="ja" dir="ltr">もしも最後のトールダンを生かさず倒したらルート <a href="https://t.co/KSCL1DuGH7">pic.twitter.com/KSCL1DuGH7</a></p>&mdash; たかぱすと (@takapast) <a href="https://twitter.com/takapast/status/1522008634158649345?ref_src=twsrc%5Etfw">May 5, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td></tr>
