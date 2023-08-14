@@ -296,6 +296,11 @@ This is the strategy favoured by English parties.
 
 The Pangenesis strat done here is the "2+1" variant. The numbers refer to the number of stacks of the two players that take the **first** towers (in this case, the players with two stacks, and one stack).
 
+One variation between EN and JP is whether players will line up prior to Pangenesis' cast, the idea being that by having the relevant debuffed players move forwards or backwards, it would be easier to identify your partner.
+
+- **English** parties prefer lining up, and have the players with 1 stack move forward, and no stacks move backwards. You can then identify your partner, and then the player on the west side of each pair takes the west tower, etc.
+- **Japanese** parties will often *not* line up (you'll see 非整列 in PF comments), instead choosing to identify your partner via the party list.
+
 <table>
   <tr>
     <td><p><b>1.</b> Raid-wide damage and debuffs appear.</p><p>Players take up their initial positions.</p>
@@ -350,7 +355,7 @@ The Pangenesis strat done here is the "2+1" variant. The numbers refer to the nu
 
 ## Caloric Theory 2
 
-The strat used passes the Fire **anti-clockwise** around the arena, **skipping** the player in the center.
+The strat used passes the Fire **anti-clockwise** around the arena, **skipping** the player in the center (you'll often see 非経由 written in PFs).
 
 These are the starting positions for all players:
 
