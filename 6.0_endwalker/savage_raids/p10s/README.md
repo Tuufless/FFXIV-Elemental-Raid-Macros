@@ -102,3 +102,9 @@ The FFO strat is Inumaru's strat with two adjustments:
   <tr><td><p>The Damage Down debuff in this phase lowers a player's damage by <b>31%</b>.</p></td></tr>
 </table>
 </details>
+<details markdown=block>
+<summary><b>[Soul Grasp]</b> Can you tank swap to change which tank gets the stack damage midway?</summary>
+<table>
+  <tr><td><p>No- the initially targeted tank will get all the stacks (unless they die), even if hate transfers in between.</p></td></tr>
+</table>
+</details>
