@@ -376,9 +376,9 @@ Here are some other potential configurations to consider:
 <table>
   <tr>
     <td width="50%">
-      <p>Hot Wing means all party members must stay near the E/W line.</p>
-      <p>Heads up means the tanks are away from Hraesvelgr, and the rest of the party is towards Hraesvelgr.</p>
-      <p>The MT takes the western-most position.</p>
+      <p>Hot Tail means all party members must go to north <em>or</em> south without getting hit by Hallowed Wings' AoE.</p>
+      <p>Heads down means the tanks are towards Hraesvelgr, and the rest of the party is away from Hraesvelgr.</p>
+      <p>The ST takes the eastern-most position.</p>
     </td>
     <td><img src="images/hallowed_wings_02_02.jpg"></td>
   </tr>
