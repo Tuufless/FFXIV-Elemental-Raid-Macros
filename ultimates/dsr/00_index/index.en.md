@@ -37,11 +37,6 @@ Looking towards the future:
 
 Dragonsong's Reprise is the first Ultimate to showcase a "door" boss. As such, there are two sets of markers and macros to use for this fight.
 
-### Things to check on Party Finder
-
-- Check the marker order for Hyperdimensional Slash (some groups do N→S).
-- Check the Playstation positions (there are many variants).
-
 ## English
 ```
 {% include_relative macros/dsr_1.en.txt %}

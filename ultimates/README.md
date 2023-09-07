@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Ultimates
+nav_order: 8
 has_children: true
 has_toc: false
 permalink: /ultimates/
