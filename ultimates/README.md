@@ -21,5 +21,5 @@ Ultimate raids on Elemental are unique because they are **not** PF'ed by Japanes
 
 ## Level 90 Ultimates
 
-- **DSR** - [Dragonsong's Reprise (Ultimate)](dsr/README.md)
+- **DSR** - [Dragonsong's Reprise (Ultimate)](dsr/00_index/index.en.md)
 - **TOP** - [The Omega Protocol (Ultimate)](top/README.md)

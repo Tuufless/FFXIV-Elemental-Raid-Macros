@@ -34,7 +34,7 @@ D□ H× H△</code></pre></td>
 <table>
   <tr>
     <td width="50%">These spots on the floor (the tips of the "spikes") on the safe side will be safe from the white orb explosions.</td>
-    <td><img src="../images/adelphel_and_grinnaux/adelphel_grinnaux_01.jpg"></td>
+    <td><img src="images/adelphel_grinnaux_01.jpg"></td>
   </tr>
 </table>
 
@@ -60,26 +60,26 @@ This method for Pure of Heart allows for [full melee uptime with minimal movemen
 <table>
   <tr>
     <td width="50%"><p><b>1.</b> First set of baits.</p><ul><li><b>Healers</b>: Bait the first set of Brightwings.</li></ul></td>
-    <td><img src="../images/adelphel_and_grinnaux/haurchefant_01.jpg"></td>
+    <td><img src="images/haurchefant_01.jpg"></td>
   </tr>
   <tr>
     <td><p><b>2.</b> Second set of baits.</p><ul><li><b>Healers</b>: Move in front of Ser Charibert to bait the puddles.</li><li><b>Melee</b>: Bait the second set of Brightwings.</li></ul></td>
-    <td><img src="../images/adelphel_and_grinnaux/haurchefant_02.jpg"></td>
+    <td><img src="images/haurchefant_02.jpg"></td>
   </tr>
   <tr>
     <td><p><b>3.</b> Third set of baits.</p><ul><li><b>Healers</b>: Rejoin the party stack to dodge the puddles.</li><li><b>Melee</b>: Move behind Ser Charibert to bait the puddles.</li><li><b>Ranged</b>: Bait the third set of Brightwings.</li></ul></td>
-    <td><img src="../images/adelphel_and_grinnaux/haurchefant_03.jpg"></td>
+    <td><img src="images/haurchefant_03.jpg"></td>
   </tr>
   <tr>
     <td><p><b>4.</b> Fourth set of baits.</p><ul><li><b>Melee</b>: Rejoin the party stack to dodge the puddles.</li><li><b>Ranged</b>: Move in front of Ser Charibert to bait the puddles.</li><li><b>Tanks</b>: Bait the fourth set of Brightwings.</li></ul></td>
-    <td><img src="../images/adelphel_and_grinnaux/haurchefant_04.jpg"></td>
+    <td><img src="images/haurchefant_04.jpg"></td>
   </tr>
   <tr>
     <td><p><b>5.</b> Last set of movement before Pure of Heart resolves.</p><ul><li><b>Ranged</b>: Rejoin the party stack to dodge the puddles.</li><li><b>Tanks</b>: Move in front of Ser Charibert to bait the puddles.</li></ul></td>
-    <td><img src="../images/adelphel_and_grinnaux/haurchefant_05.jpg"></td>
+    <td><img src="images/haurchefant_05.jpg"></td>
   </tr>
   <tr>
     <td><p><b>6.</b> Pure of Heart resolves.</p><ul><li><b>Tanks</b>: Rejoin the party stack to dodge the puddles.</li></ul></td>
-    <td><img src="../images/adelphel_and_grinnaux/haurchefant_06.jpg"></td>
+    <td><img src="images/haurchefant_06.jpg"></td>
   </tr>
 </table>

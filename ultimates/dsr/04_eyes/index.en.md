@@ -33,11 +33,11 @@ Players get tethered with either blue or red tethers where:
 <table>
   <tr>
     <td width="50%"><p><b>1.</b> Ghosts of Haurchefant and Ysayle spawn.</p><ul><li>Haurchefant tethers to a random player.</li><li>Ysayle tethers to to Alphinaud.</li></ul>All players stack on Alphinaud (who's standing south of center) to get the two buffs from Haurchefant and Ysayle that lets you attack the two eyes.</td>
-    <td><img src="../images/eyes/eyes_01.jpg"></td>
+    <td><img src="images/eyes_01.jpg"></td>
   </tr>
   <tr>
     <td><p><b>2.</b> After getting the Soul of Friendship and Soul of Devotion buffs, spread out to your initial positions.</p></td>
-    <td><img src="../images/eyes/eyes_02.jpg"></td>
+    <td><img src="images/eyes_02.jpg"></td>
   </tr>
   <tr>
     <td><p><b>3.</b> After the eyes cast <b>Hatebound</b>, blue and red tethers spawn and attach to four random players each.</p>
@@ -47,47 +47,47 @@ Players get tethered with either blue or red tethers where:
     </ul>
     If you have the <b>wrong</b> tether, stack on top of Estinien, who's in the middle of the arena to swap with someone else (who will also have the wrong tether).
     </td>
-    <td><img src="../images/eyes/eyes_03.jpg"></td>
+    <td><img src="images/eyes_03.jpg"></td>
   </tr>
   <tr>
     <td><p><b>4.</b> When the yellow orbs grow for the second time, <b>tanks and healers</b> pop the yellow orb together (shared damage).</p></td>
-    <td><img src="../images/eyes/eyes_04.jpg"></td>
+    <td><img src="images/eyes_04.jpg"></td>
   </tr>
   <tr>
     <td><p><b>5.</b> After the yellow orbs have been popped, DPS go to the tanks and healers to swap tethers (giving them blue and picking up red).</p></td>
-    <td><img src="../images/eyes/eyes_05.jpg"></td>
+    <td><img src="images/eyes_05.jpg"></td>
   </tr>
   <tr>
     <td><p><b>6.</b> When the blue orbs grow for the second time, <b>DPS</b> pop the blue orbs (one each).</p></td>
-    <td><img src="../images/eyes/eyes_06.jpg"></td>
+    <td><img src="images/eyes_06.jpg"></td>
   </tr>
   <tr>
     <td><p><b>7.</b> All players gather west to prepare for Mirage Dives.</p></td>
-    <td><img src="../images/eyes/eyes_07.jpg"></td>
+    <td><img src="images/eyes_07.jpg"></td>
   </tr>
   <tr>
     <td><p><b>8.</b> First set of dives.</p><p><b>Healers</b> swap with the two dive targets.</p>
     <pre><code>Starting from North:
     ccw: H1 > H2 :cw</code></pre>
     <p>Remember which two DPS were hit here, as those two DPS will be the ones swapping tethers after the third set of dives.</p></td>
-    <td><img src="../images/eyes/eyes_08.jpg"></td>
+    <td><img src="images/eyes_08.jpg"></td>
   </tr>
   <tr>
     <td><p><b>9.</b> Second set of dives.</p><p><b>Tanks</b> swap with the two dive targets.</p><pre><code>Starting from North:
     ccw: MT > ST :cw</code></pre></td>
-    <td><img src="../images/eyes/eyes_09.jpg"></td>
+    <td><img src="images/eyes_09.jpg"></td>
   </tr>
   <tr>
     <td><p><b>10.</b> Third set of dives.</p><p>The <b>two DPS</b> that were hit earlier swap with the two dive targets.</p><pre><code>Starting from North:
     ccw: D1 > D2 > D3 > D4 :cw</code></pre>
     <p><em>(In this example, D1 and D3 were hit earlier in Step 8.)</em></p></td>
-    <td><img src="../images/eyes/eyes_10.jpg"></td>
+    <td><img src="images/eyes_10.jpg"></td>
   </tr>
   <tr>
     <td><p><b>11.</b> Fourth (final) set of dives.</p><p>Both eyes will begin to cast Steep in Rage shortly after.</p><p>At least one eye must be killed before Steep in Rage resolves, or the outgoing damage will wipe the party.</p>
     <p>Note that because red-tethered players take damage from Steep in Rage, the red eye will also take damage as a result.</p>
     <p>Similarly, the blue eye will revive (as the blue-tethered players took damage).</p></td>
-    <td><img src="../images/eyes/eyes_11.jpg"></td>
+    <td><img src="images/eyes_11.jpg"></td>
   </tr>
 </table>
 
