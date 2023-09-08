@@ -14,7 +14,7 @@ permalink: /jp/ultimates/dsr/
 
 - [**教皇庁フェーズ**](../01_adelphel_and_grinnaux/index.en.md): H近遠T
 - [**トールダン**](../02_thordan/index.en.md): ゼフィラン基準、 ロール内で交代
-- [**ニーズヘッグ**](../03_nidhogg/index.en.md): イルB スパイD
+- [**ニーズヘッグ**](../03_nidhogg/index.en.md): イルB スパD (東向き)
 - [**邪眼**](../04_eyes/index.en.md): T/H赤, DPS青
 - [**偽典トールダン**](../05_alternate_thordan/index.en.md): 死の宣告北、死の宣告固定
 - [**二天竜**](../06_double_dragons/index.en.md): △, DTTMR, 竜の息吹2回目 固定位置 *か* 5-1
