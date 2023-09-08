@@ -6,11 +6,15 @@ plugins:
 title: "FFXIV Elemental Raid Macros"
 description: "Final Fantasy XIV Elemental DC Raid Macros"
 
+favicon_ico: "favicon.ico"
+
 color_scheme: dark
 
 aux_links:
   "Elemental DC Raid Macros Discord":
     - "https://discord.gg/WEzhVHwAU6"
+  "Github":
+    - "https://github.com/Tuufless/FFXIV-Elemental-raid-macros"
 
 aux_links_new_tab: true
 
