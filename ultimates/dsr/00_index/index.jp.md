@@ -10,22 +10,22 @@ permalink: /jp/ultimates/dsr/
 
 # 絶竜詩戦争
 
-エレDCの野良のやり方は以下に要約する:
+Elemental DC の野良のやり方を以下に要約する：
 
-- [**教皇庁フェーズ**](../01_adelphel_and_grinnaux/index.en.md): H近遠T
-- [**トールダン**](../02_thordan/index.en.md): ゼフィラン基準、 ロール内で交代
-- [**ニーズヘッグ**](../03_nidhogg/index.en.md): イルB スパD (東向き)
-- [**邪眼**](../04_eyes/index.en.md): T/H赤, DPS青
-- [**偽典トールダン**](../05_alternate_thordan/index.en.md): 死の宣告北、死の宣告固定
-- [**二天竜**](../06_double_dragons/index.en.md): △, DTTMR, 竜の息吹2回目 固定位置 *か* 5-1
-- [**騎竜神トールダン**](../07_dragonking_thordan/index.en.md): アク・モーン3-3-2
+- [**教皇庁フェーズ**](../01_adelphel_and_grinnaux/index.en.md)：光翼閃 H1H2 D1D2 D3D4 MTST
+- [**正典トールダン**](../02_thordan/index.en.md)：聖杖ゼフィラン基準、ロール内で交代
+- [**ニーズヘッグ**](../03_nidhogg/index.en.md)：イル B スパ D（東向き）
+- [**邪眼フェーズ**](../04_eyes/index.en.md)：T/H 赤、DPS 青
+- [**偽典トールダン**](../05_alternate_thordan/index.en.md)：宣告北 & 宣告固定
+- [**二天竜フェーズ**](../06_double_dragons/index.en.md)：息吹 1 三角散開、滅殺 DTTMR、息吹 2 位置固定 *または* 北 5 南 1（5-1）
+- [**騎竜神トールダン**](../07_dragonking_thordan/index.en.md)：アク・モーン 3-3-2
 
 ![](images/dsr_cheatsheet_jp.jpg)
 *(リンク: [https://cutt.ly/EleDC_DSR_summary](images/dsr_cheatsheet_jp.jpg))*
 
 # 教皇庁フェーズ
 
-絶竜詩戦争は絶シリーズに初めてチェックポイントがあるし、マクロとマーカーが2つあります。
+絶竜詩戦争は絶シリーズ初のチェックポイントがあるため、マクロとマーカーが 2 つある。
 
 ## マクロ
 ```
@@ -34,11 +34,11 @@ permalink: /jp/ultimates/dsr/
 
 ## マーカー
 
-マーカーがハイパーディメンションの直線範囲を誘導するため。
+すべてのマーカーをハイパーディメンションの誘導に使用する。
 
 ![](images/markers_1.jpg)
 <details markdown=block>
-<summary>XIVLauncherのWaymarkPresetPluginの座標</summary>
+<summary>XIVLauncher WaymarkPresetPlugin の座標</summary>
 
 ```json
 {
@@ -57,9 +57,9 @@ permalink: /jp/ultimates/dsr/
 
 </details>
 
-# トールダン
+# 正典トールダン
 
-以下がトールダン以後使ったマクロ。
+以下は正典トールダン以後のマクロ。
 
 ## マクロ
 ```
@@ -68,11 +68,11 @@ permalink: /jp/ultimates/dsr/
 
 ## マーカー
 
-もし竜の息吹2回目の固定位置処理法をしたら、タンクさんが数字マーカーで安置を楽にわかって、外周マーカーをおすすめする。
+息吹 2 回目で位置固定法を使う場合、タンクの安地を分かりやすくするために数字マーカーを外周に置くことを推奨する。
 
 ![](images/markers_outer.jpg)
 <details markdown=block>
-<summary>XIVLauncherのWaymarkPresetPluginの座標</summary>
+<summary>XIVLauncher WaymarkPresetPlugin の座標</summary>
 
 ```json
 {
@@ -91,17 +91,17 @@ permalink: /jp/ultimates/dsr/
 
 </details>
 
-内周マーカーも人気です。
+ただし、内周マーカーも好んで使用される。
 
-数字マーカーは:
+内周マーカーの数字マーカーは以下を分かりやすくする。
 
-- 雷槍の直線範囲の限界
-- ニーズヘッグの４ヵ塔に直線範囲を誘導するところ
-- ２天龍のホットテールの限界
+- 雷槍開幕の突進の安地
+- ニーズヘッグの 4 塔
+- 二天竜フェーズのヒートテイルの安地
 
 ![](images/markers_inner.jpg)
 <details markdown=block>
-<summary>XIVLauncherのWaymarkPresetPluginの座標</summary>
+<summary>XIVLauncher WaymarkPresetPlugin の座標</summary>
 
 ```json
 {
@@ -120,11 +120,11 @@ permalink: /jp/ultimates/dsr/
 
 </details>
 
-## 質問
+## よくある質問
 
 <details markdown=block>
-<summary><b>[ダメージ低下デバフ]</b> ダメージ低下はどれぐらいですか？</summary>
+<summary><b>[与ダメージ低下デバフ]</b> 与ダメージ低下率はどれくらいですか？</summary>
 <table>
-  <tr><td><p>ダメージは<b>50%</b>低下します。</p></td></tr>
+  <tr><td><p>ダメージは <b>50%</b> 低下します。</p></td></tr>
 </table>
 </details>
