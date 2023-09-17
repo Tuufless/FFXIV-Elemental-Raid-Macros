@@ -30,11 +30,11 @@ If you are already familiar with Thordan, and just need a quick summary:
 <table>
   <tr>
     <td width="50%"><p><b>1.</b> Light party spreads.</p><p>Healers are in front to allow them to dodge into the upcoming Heavy Impact early. This then lets them cast an additional GCD heal without using Swiftcast.</p></td>
-    <td><img src="../images/thordan/strength_of_the_ward_1_1.jpg"></td>
+    <td><img src="images/strength_of_the_ward_1_1.jpg"></td>
   </tr>
   <tr>
     <td><p><b>2.</b> Heavy Impact boundaries.</p></td>
-    <td><img src="../images/thordan/strength_of_the_ward_1_2.jpg"></td>
+    <td><img src="images/strength_of_the_ward_1_2.jpg"></td>
   </tr>
 </table>
 
@@ -53,7 +53,7 @@ After dodging the Heavy Impact and Ascalon's Mercy Concealed, orientate yourself
 <table>
   <tr>
     <td width="50%"><p>Using Thordan as north:</p><ul><li>Three (non-tanks) will be targeted with blue Skyward Leap markers. These players go west, east, and south.</li><li>The other three (non-tanks) go north towards Thordan and loosely spread to communicate tower positions before stacking in front of the "shuriken" mark.</li><li>The two tanks take tethers, and criss-cross them.</li></ul></td>
-    <td><img src="../images/thordan/strength_of_the_ward_2_1.jpg"></td>
+    <td><img src="images/strength_of_the_ward_2_1.jpg"></td>
   </tr>
 </table>
 
@@ -80,8 +80,8 @@ If a player in a group receives the wrong numbered sword (e.g: D3 receives the "
 <table>
   <tr>
     <td width="34%"><b>1.</b> Sort out swords, and start 3-4 notches away from the outside "shurikens" <b>in the same direction that the inside knights are facing</b>.</td>
-    <td><img src="../images/thordan/sanctity_drk_relative_cw_01.jpg"></td>
-    <td><img src="../images/thordan/sanctity_drk_relative_ccw_01.jpg"></td>
+    <td><img src="images/sanctity_drk_relative_cw_01.jpg"></td>
+    <td><img src="images/sanctity_drk_relative_ccw_01.jpg"></td>
   </tr>
   <tr>
     <td width="33%">
@@ -92,13 +92,13 @@ If a player in a group receives the wrong numbered sword (e.g: D3 receives the "
         <li>If you are moving <b>away</b> from the N/S poles, you have the <b>slow/delayed</b> dodge (example on the right).</li>
       </ul>
     </td>
-    <td><img src="../images/thordan/sanctity_drk_relative_cw_02.jpg"></td>
-    <td><img src="../images/thordan/sanctity_drk_relative_ccw_02.jpg"></td>
+    <td><img src="images/sanctity_drk_relative_cw_02.jpg"></td>
+    <td><img src="images/sanctity_drk_relative_ccw_02.jpg"></td>
   </tr>
   <tr>
     <td><b>3.</b> Stop three notches away from the next shuriken.</td>
-    <td><img src="../images/thordan/sanctity_drk_relative_cw_03.jpg"></td>
-    <td><img src="../images/thordan/sanctity_drk_relative_ccw_03.jpg"></td>
+    <td><img src="images/sanctity_drk_relative_cw_03.jpg"></td>
+    <td><img src="images/sanctity_drk_relative_ccw_03.jpg"></td>
   </tr>
 </table>
 
@@ -115,11 +115,11 @@ If a player in a group receives the wrong numbered sword (e.g: D3 receives the "
         <li>If the two marked players are east and west, west swaps with north, and east swaps with south.</li>
       </ul>
     </td>
-    <td><img src="../images/thordan/meteors_01_01.jpg"></td>
+    <td><img src="images/meteors_01_01.jpg"></td>
   </tr>
   <tr>
     <td><b>2.</b> After adjusting players, ice puddles get dropped on each pair.</td>
-    <td><img src="../images/thordan/meteors_01_02.jpg"></td>
+    <td><img src="images/meteors_01_02.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -141,7 +141,7 @@ If a player in a group receives the wrong numbered sword (e.g: D3 receives the "
       </ul>
       <p><em>* If you have voice comms to coordinate, try to get the two meteor players opposite one another- prioritizing center is best in the</em> absence <em>of external player communication.</em></p>
     </td>
-    <td><img src="../images/thordan/meteors_01_03.jpg"></td>
+    <td><img src="images/meteors_01_03.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -160,14 +160,14 @@ If a player in a group receives the wrong numbered sword (e.g: D3 receives the "
         <li>If you are on the inside, align yourself to get knocked back into that tower.</li>
       </ul>
     </td>
-    <td><img src="../images/thordan/meteors_01_04.jpg"></td>
+    <td><img src="images/meteors_01_04.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>5. </b>When the fifth Meteor lands, players on the <b>outside</b> use anti-knockback abilities.</p>
       <p>Players on the <b>inside</b> get knocked back to their (intercardinal) towers.</p>
     </td>
-    <td><img src="../images/thordan/meteors_01_05.jpg"></td>
+    <td><img src="images/meteors_01_05.jpg"></td>
   </tr>
 </table>
 
@@ -188,11 +188,11 @@ Since there are many Meteor configurations, here are a couple additional scenari
         <li>DPS are the Meteor-role, T/H are the non-Meteors.</li>
       </ul>
     </td>
-    <td><img src="../images/thordan/meteors_02_01.jpg"></td>
+    <td><img src="images/meteors_02_01.jpg"></td>
   </tr>
   <tr>
     <td><b>2.</b> After adjusting players, ice puddles get dropped on each pair.</td>
-    <td><img src="../images/thordan/meteors_02_02.jpg"></td>
+    <td><img src="images/meteors_02_02.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -238,7 +238,7 @@ Since there are many Meteor configurations, here are a couple additional scenari
         </li>
       </ul>
     </td>
-    <td><img src="../images/thordan/meteors_02_03.jpg"></td>
+    <td><img src="images/meteors_02_03.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -255,14 +255,14 @@ Since there are many Meteor configurations, here are a couple additional scenari
         <li>H1 moves to get knocked back to the tower clockwise of their original ice puddle (NW).</li>
       </ul>
     </td>
-    <td><img src="../images/thordan/meteors_02_04.jpg"></td>
+    <td><img src="images/meteors_02_04.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>5. </b>When the fifth Meteor lands, players on the <b>outside</b> use anti-knockback abilities.</p>
       <p>Players on the <b>inside</b> get knocked back to their (intercardinal) towers.</p>
     </td>
-    <td><img src="../images/thordan/meteors_02_05.jpg"></td>
+    <td><img src="images/meteors_02_05.jpg"></td>
   </tr>
 </table>
 </details>
@@ -279,11 +279,11 @@ Since there are many Meteor configurations, here are a couple additional scenari
         <li>DPS are the Meteor-role, T/H are the non-Meteors.</li>
       </ul>
     </td>
-    <td><img src="../images/thordan/meteors_03_01.jpg"></td>
+    <td><img src="images/meteors_03_01.jpg"></td>
   </tr>
   <tr>
     <td><b>2.</b> After adjusting players, ice puddles get dropped on each pair.</td>
-    <td><img src="../images/thordan/meteors_03_02.jpg"></td>
+    <td><img src="images/meteors_03_02.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -332,7 +332,7 @@ Since there are many Meteor configurations, here are a couple additional scenari
         </li>
       </ul>
     </td>
-    <td><img src="../images/thordan/meteors_03_03.jpg"></td>
+    <td><img src="images/meteors_03_03.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -348,14 +348,14 @@ Since there are many Meteor configurations, here are a couple additional scenari
         <li>ST and H1 move to get knocked back to the tower clockwise of their original ice puddle (SW and NW).</li>
       </ul>
     </td>
-    <td><img src="../images/thordan/meteors_03_04.jpg"></td>
+    <td><img src="images/meteors_03_04.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>5. </b>When the fifth Meteor lands, players on the <b>outside</b> use anti-knockback abilities.</p>
       <p>Players on the <b>inside</b> get knocked back to their (intercardinal) towers.</p>
     </td>
-    <td><img src="../images/thordan/meteors_03_05.jpg"></td>
+    <td><img src="images/meteors_03_05.jpg"></td>
   </tr>
 </table>
 </details>

@@ -34,7 +34,7 @@ If you are already familiar with the Alternate timeline Thordan phase, and just 
       <p>Ser Grinnaux (WAR) and Ser Charibert (BLM) will also spawn in the arena, one north, one south <b>in a random configuration</b>.</p>
       <p><b>Identify which is Ser Grinnaux (WAR), and which is Ser Charibert (BLM)</b>.</p>
     </td>
-    <td><img src="../images/alternate_thordan/wrath_of_the_heavens_01.jpg"></td>
+    <td><img src="images/wrath_of_the_heavens_01.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -44,7 +44,7 @@ If you are already familiar with the Alternate timeline Thordan phase, and just 
         <li>One player gets targeted with a green divebomb marker.</li>
       </ul>
     </td>
-    <td><img src="../images/alternate_thordan/wrath_of_the_heavens_02.jpg"></td>
+    <td><img src="images/wrath_of_the_heavens_02.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -55,7 +55,7 @@ If you are already familiar with the Alternate timeline Thordan phase, and just 
         <li>The remaining players spread out along the east side.</li>
       </ul>
     </td>
-    <td><img src="../images/alternate_thordan/wrath_of_the_heavens_03.jpg"></td>
+    <td><img src="images/wrath_of_the_heavens_03.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -66,7 +66,7 @@ If you are already familiar with the Alternate timeline Thordan phase, and just 
       </ul>
       <p>A player with Thunder <b>will not</b> be targeted by either Altar Pyre, or Liquid Heaven.</p>
     </td>
-    <td><img src="../images/alternate_thordan/wrath_of_the_heavens_04.jpg"></td>
+    <td><img src="images/wrath_of_the_heavens_04.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -78,7 +78,7 @@ If you are already familiar with the Alternate timeline Thordan phase, and just 
       <p>The player on the east with Liquid Heaven should try to <b>enter the safe spot from the side</b>, as a player on the west side will be one-shot if they get hit by the Liquid Heaven AoE.</p>
       <p>Sprint is <b>very useful</b> here.</p>
     </td>
-    <td><img src="../images/alternate_thordan/wrath_of_the_heavens_05.jpg"></td>
+    <td><img src="images/wrath_of_the_heavens_05.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -86,7 +86,7 @@ If you are already familiar with the Alternate timeline Thordan phase, and just 
       <p>Heal and prepare for Ancient Quaga.</p>
       <p>N.B: The MT will need to use their 2m buff to mitigate Ancient Quaga (and the subsequent Heavenly Heel) for it to be back in time for the first tankbuster in P6.</p>
     </td>
-    <td><img src="../images/alternate_thordan/wrath_of_the_heavens_06.jpg"></td>
+    <td><img src="images/wrath_of_the_heavens_06.jpg"></td>
   </tr>
 </table>
 
@@ -103,7 +103,7 @@ My preferred strat is an upside-down version of the "Komazou" strat, which split
         <li>Line up east-to-west.</li>
       </ul>
     </td>
-    <td><img src="../images/alternate_thordan/death_of_the_heavens_01.jpg"></td>
+    <td><img src="images/death_of_the_heavens_01.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -114,7 +114,7 @@ My preferred strat is an upside-down version of the "Komazou" strat, which split
       </ul>
       <p>This step forward/back is to help the players in the center identify their order within each Doom vs. non-Doom group.</p>
     </td>
-    <td><img src="../images/alternate_thordan/death_of_the_heavens_02.jpg"></td>
+    <td><img src="images/death_of_the_heavens_02.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -125,7 +125,7 @@ My preferred strat is an upside-down version of the "Komazou" strat, which split
       </ul>
       <p><b>Find Thordan and the Dragon's Eye.</b></p>
     </td>
-    <td><img src="../images/alternate_thordan/death_of_the_heavens_03.jpg"></td>
+    <td><img src="images/death_of_the_heavens_03.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -140,7 +140,7 @@ My preferred strat is an upside-down version of the "Komazou" strat, which split
         <li>Dodge into the <b>next</b> Heavy Impact AoE.</li>
       </ul>
     </td>
-    <td><img src="../images/alternate_thordan/death_of_the_heavens_04.jpg"></td>
+    <td><img src="images/death_of_the_heavens_04.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -155,7 +155,7 @@ My preferred strat is an upside-down version of the "Komazou" strat, which split
         <li>Line up west-to-east a little north of center.</li>
       </ul>
     </td>
-    <td><img src="../images/alternate_thordan/death_of_the_heavens_05.jpg"></td>
+    <td><img src="images/death_of_the_heavens_05.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -172,18 +172,18 @@ My preferred strat is an upside-down version of the "Komazou" strat, which split
         <li>Square and Triangle move opposite the Doomed player with the same symbol.</li>
       </ul>
     </td>
-    <td><img src="../images/alternate_thordan/death_of_the_heavens_06.jpg"></td>
+    <td><img src="images/death_of_the_heavens_06.jpg"></td>
   </tr>
   <tr>
     <td>
       <b>7.</b> Players adjust as needed, use markers/outside "shurikens" to properly align yourself, and <b>look away from both Thordan and the Dragon's Eye.</b>
     </td>
-    <td><img src="../images/alternate_thordan/death_of_the_heavens_07.jpg"></td>
+    <td><img src="images/death_of_the_heavens_07.jpg"></td>
   </tr>
   <tr>
     <td><p><b>8.</b> Faith Unmoving (knockback) and Heavensflame (AoEs on each player) resolves.</p>
     <p><b>Doomed players:</b></p><ul><li>Step into the white puddle left behind to cleanse Doom</li></ul></td>
-    <td><img src="../images/alternate_thordan/death_of_the_heavens_08.jpg"></td>
+    <td><img src="images/death_of_the_heavens_08.jpg"></td>
   </tr>
 </table>
 
@@ -195,7 +195,7 @@ My preferred strat is an upside-down version of the "Komazou" strat, which split
 <details markdown=block>
 <summary><b>[Death of the Heavens]</b> Is there a pattern to how the Dooms are assigned?</summary>
 <table>
-  <tr><td><p>Unfortunately not- who gets the Dooms are completely random.</p><p>Here's an example where all four tank/healers get Doom.</p></td><td><img src="../images/alternate_thordan/doth_debuffs.jpg"></td></tr>
+  <tr><td><p>Unfortunately not- who gets the Dooms are completely random.</p><p>Here's an example where all four tank/healers get Doom.</p></td><td><img src="images/doth_debuffs.jpg"></td></tr>
 </table>
 </details>
 <details markdown=block>

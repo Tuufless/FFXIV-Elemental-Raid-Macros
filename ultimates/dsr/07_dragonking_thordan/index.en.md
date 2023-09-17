@@ -65,7 +65,7 @@ If any extra mitigations are available, it's recommended they be slotted into ei
 <table>
   <tr>
     <td width="50%"><p>Have whoever's tanking face Dragonking Thordan either true North, or true South- this lets you also use the floor markings to guide your movement.</p><p>A backwards dodge (see the diagram) will <b>always</b> be safe.</p></td>
-    <td><img src="../images/dragonking_thordan/dragonking_thordan_01.jpg"></td>
+    <td><img src="images/dragonking_thordan_01.jpg"></td>
   </tr>
 </table>
 
@@ -96,7 +96,7 @@ The base strat for Akh Morn's Edge is a 3-3-2 split.
 <table>
   <tr>
     <td width="50%"><ul><li><b>Front-left:</b> H1, D1, D3</li><li><b>Front-right:</b> H2, D2, D4</li><li><b>Back:</b> MT, ST</li></ul></td>
-    <td><img src="../images/dragonking_thordan/dragonking_thordan_02a.jpg"></td>
+    <td><img src="images/dragonking_thordan_02a.jpg"></td>
   </tr>
 </table>
 
@@ -109,7 +109,7 @@ This has the advantage of making Akh Morn's Edge **much** easier to heal, especi
 <table>
   <tr>
     <td width="50%"><ul><li><b>Front-left:</b> All non-tanks</li><li><b>Front-right:</b> Tank (buffs)</li><li><b>Back:</b> Tank (invuln)</li></ul></td>
-    <td><img src="../images/dragonking_thordan/dragonking_thordan_02b.jpg"></td>
+    <td><img src="images/dragonking_thordan_02b.jpg"></td>
   </tr>
 </table>
 

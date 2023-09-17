@@ -78,7 +78,7 @@ All passes happen in the center of the arena, except for the final pass after To
       </ul>
       <p>This will also be your second pot window.</p>
     </td>
-    <td><img src="../images/double_dragons/wyrmsbreath_01_01.jpg"></td>
+    <td><img src="images/wyrmsbreath_01_01.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -87,7 +87,7 @@ All passes happen in the center of the arena, except for the final pass after To
       <p><b>None of these positions are in melee range.</b></p>
       <p><em>(Note the white tile that can be used as reference for the center position.)</em></p>
     </td>
-    <td><img src="../images/double_dragons/tethers_01.jpg"></td>
+    <td><img src="images/tethers_01.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -99,7 +99,7 @@ All passes happen in the center of the arena, except for the final pass after To
       </ul>
       <p><em>(In this example, D1 and D3 will swap positions.)</em></p>
     </td>
-    <td><img src="../images/double_dragons/wyrmsbreath_01_02.jpg"></td>
+    <td><img src="images/wyrmsbreath_01_02.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -110,14 +110,14 @@ All passes happen in the center of the arena, except for the final pass after To
       </ul>
       <p><em>(In this example, Nidhogg's mouth is glowing.)</em></p>
     </td>
-    <td><img src="../images/double_dragons/wyrmsbreath_01_03.jpg"></td>
+    <td><img src="images/wyrmsbreath_01_03.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>5. Mortal Vow</b></p>
       <p>DPS spread out- Nidhogg will target a random DPS for the first Mortal Vow (in an AoE around that player).</p>
     </td>
-    <td><img src="../images/double_dragons/mortal_vow_01.jpg"></td>
+    <td><img src="images/mortal_vow_01.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -130,7 +130,7 @@ All passes happen in the center of the arena, except for the final pass after To
         <li><b>White tether:</b> Hraesvelgr's HP is too high.</li>
       </ul>  
     </td>
-    <td><img src="../images/double_dragons/akh_afah.jpg"></td>
+    <td><img src="images/akh_afah.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -145,14 +145,14 @@ All passes happen in the center of the arena, except for the final pass after To
       </ul>
       <p><em>(In this example, Hraesvelgr's head is down.)</em></p>
     </td>
-    <td><img src="../images/double_dragons/hallowed_wings_01_01.jpg"></td>
+    <td><img src="images/hallowed_wings_01_01.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>8. Mortal Vow pass #1</b></p>
       <p>The DPS that Nidhogg targeted with Mortal Vow passes it to the MT in the middle of the arena.</p>
     </td>
-    <td><img src="../images/double_dragons/mortal_vow_02.jpg"></td>
+    <td><img src="images/mortal_vow_02.jpg"></td>
   </tr>
 </table>
 
@@ -166,7 +166,7 @@ Here are some other potential configurations to consider:
       <p>Heads up means tanks far, party near.</p>
       <p>The MT takes the northern-most position.</p>
     </td>
-    <td><img src="../images/double_dragons/hallowed_wings_01_02.jpg"></td>
+    <td><img src="images/hallowed_wings_01_02.jpg"></td>
   </tr>
 </table>
 </details>
@@ -179,7 +179,7 @@ Here are some other potential configurations to consider:
       <p>Heads down means tanks near, party far.</p>
       <p>The MT takes the northern-most position.</p>
     </td>
-    <td><img src="../images/double_dragons/hallowed_wings_01_03.jpg"></td>
+    <td><img src="images/hallowed_wings_01_03.jpg"></td>
   </tr>
 </table>
 </details>
@@ -192,7 +192,7 @@ Here are some other potential configurations to consider:
       <p>Heads up means tanks far, party near.</p>
       <p>The MT takes the northern-most position.</p>
     </td>
-    <td><img src="../images/double_dragons/hallowed_wings_01_04.jpg"></td>
+    <td><img src="images/hallowed_wings_01_04.jpg"></td>
   </tr>
 </table>
 </details>
@@ -212,32 +212,32 @@ When dropping Akh Morns, the most efficient movement (geometrically) is to move 
       </ol>
       <p><em>(In this example, Hraesvelgr's Cauterize will hit the east half.)</em></p>
     </td>
-    <td><img src="../images/double_dragons/wroth_flames_ex_01_01.jpg"></td>
+    <td><img src="images/wroth_flames_ex_01_01.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>2.</b> Hraesvelgr's Cauterize resolves. Drop first Akh Morn puddle.</p>
       <p>The initial Akh Morn movement will always go east-to-west or vice versa.</p>
     </td>
-    <td><img src="../images/double_dragons/wroth_flames_ex_01_02.jpg"></td>
+    <td><img src="images/wroth_flames_ex_01_02.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>3.</b> First set of eye AoEs resolve. Drop the second Akh Morn puddle without getting hit by the eye AoE.</p>
     </td>
-    <td><img src="../images/double_dragons/wroth_flames_ex_01_03.jpg"></td>
+    <td><img src="images/wroth_flames_ex_01_03.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>4.</b> Drop third and fourth Akh Morn puddles.</p>
     </td>
-    <td><img src="../images/double_dragons/wroth_flames_ex_01_04.jpg"></td>
+    <td><img src="images/wroth_flames_ex_01_04.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>5.</b> Move to the middle and identify whether Nidhogg is casting Hot Wing or Hot Tail.</p>
     </td>
-    <td><img src="../images/double_dragons/wroth_flames_ex_01_05.jpg"></td>
+    <td><img src="images/wroth_flames_ex_01_05.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -246,13 +246,13 @@ When dropping Akh Morns, the most efficient movement (geometrically) is to move 
       <pre><code>(Center) Tanks > Healers > Ranged > Melee (Edge)</code></pre>
       <p>There is enough space for two "spreads" to stand side-by-side if they are on the sides of the safe zone.</p>
     </td>
-    <td><img src="../images/double_dragons/wroth_flames_ex_01_06.jpg"></td>
+    <td><img src="images/wroth_flames_ex_01_06.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>7.</b> Finally, pass Mortal Vow from the MT to the ST.</p>
     </td>
-    <td><img src="../images/double_dragons/mortal_vow_03.jpg"></td>
+    <td><img src="images/mortal_vow_03.jpg"></td>
   </tr>
 </table>
 
@@ -269,23 +269,23 @@ Here are some additional examples to consider:
         <li>In this case, west gives the party melee uptime on Nidhogg, but with a 2-1 dodge.</li>
       </ul>
     </td>
-    <td><img src="../images/double_dragons/wroth_flames_ex_02_01.jpg"></td>
+    <td><img src="images/wroth_flames_ex_02_01.jpg"></td>
   </tr>
   <tr>
     <td><p><b>2.</b> Hraesvelgr's Cauterize resolves. Drop first Akh Morn puddle.</p></td>
-    <td><img src="../images/double_dragons/wroth_flames_ex_02_02.jpg"></td>
+    <td><img src="images/wroth_flames_ex_02_02.jpg"></td>
   </tr>
   <tr>
     <td><p><b>3.</b> First set of eye AoEs resolve. Drop the second Akh Morn puddle without getting hit.</p></td>
-    <td><img src="../images/double_dragons/wroth_flames_ex_02_03.jpg"></td>
+    <td><img src="images/wroth_flames_ex_02_03.jpg"></td>
   </tr>
   <tr>
     <td><p><b>4.</b> Drop third and fourth Akh Morn puddles.</p></td>
-    <td><img src="../images/double_dragons/wroth_flames_ex_02_04.jpg"></td>
+    <td><img src="images/wroth_flames_ex_02_04.jpg"></td>
   </tr>
   <tr>
     <td><p><b>5.</b> Move to the middle, identify whether Nidhogg is casting Hot Wing or Hot Tail.</p></td>
-    <td><img src="../images/double_dragons/wroth_flames_ex_02_05.jpg"></td>
+    <td><img src="images/wroth_flames_ex_02_05.jpg"></td>
   </tr>
 </table>
 </details>
@@ -301,23 +301,23 @@ Here are some additional examples to consider:
         <li>The furthest position away from the second set of eyes is NE.</li>
       </ul>
     </td>
-    <td><img src="../images/double_dragons/wroth_flames_ex_03_01.jpg"></td>
+    <td><img src="images/wroth_flames_ex_03_01.jpg"></td>
   </tr>
   <tr>
     <td><b>2.</b> Hraesvelgr's Cauterize resolves. Drop first Akh Morn puddle.</td>
-    <td><img src="../images/double_dragons/wroth_flames_ex_03_02.jpg"></td>
+    <td><img src="images/wroth_flames_ex_03_02.jpg"></td>
   </tr>
   <tr>
     <td><b>3.</b> First set of eye AoEs resolve. Drop the second Akh Morn puddle without getting hit.</td>
-    <td><img src="../images/double_dragons/wroth_flames_ex_03_03.jpg"></td>
+    <td><img src="images/wroth_flames_ex_03_03.jpg"></td>
   </tr>
   <tr>
     <td><b>4.</b> Drop third and fourth Akh Morn puddles.</td>
-    <td><img src="../images/double_dragons/wroth_flames_ex_03_04.jpg"></td>
+    <td><img src="images/wroth_flames_ex_03_04.jpg"></td>
   </tr>
   <tr>
     <td><b>5.</b> Move to the middle, identify whether Nidhogg is casting Hot Wing or Hot Tail.</td>
-    <td><img src="../images/double_dragons/wroth_flames_ex_03_05.jpg"></td>
+    <td><img src="images/wroth_flames_ex_03_05.jpg"></td>
   </tr>
 </table>
 </details>
@@ -332,7 +332,7 @@ The second half is a rehash of the first, with slightly different spins on the s
       <p><b>1. Akh Afah #2</b></p>
       <p>Depending on how much uptime the party got earlier with Hallowed Wings #1 and Wroth Flames, the two dragons' HP may be skewed to one side.</p>
     </td>
-    <td><img src="../images/double_dragons/akh_afah.jpg"></td>
+    <td><img src="images/akh_afah.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -344,14 +344,14 @@ The second half is a rehash of the first, with slightly different spins on the s
       </ul>
       <p><em>(This example has Hot Wing with Hraesvelgr's head up.)</em></p>
     </td>
-    <td><img src="../images/double_dragons/hallowed_wings_02_01.jpg"></td>
+    <td><img src="images/hallowed_wings_02_01.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>3. Mortal Vow pass #3</b></p>
       <p>This pass goes from the ST to D1, <em>unless</em> D1 started with the first Mortal Vow, in which case ST passes to D2 instead.</p>
     </td>
-    <td><img src="../images/double_dragons/mortal_vow_04.jpg"></td>
+    <td><img src="images/mortal_vow_04.jpg"></td>
   </tr>
 </table>
 
@@ -366,7 +366,7 @@ Here are some other potential configurations to consider:
       <p>Heads up means the tanks are away from Hraesvelgr, and the rest of the party is towards Hraesvelgr.</p>
       <p>The MT takes the western-most position.</p>
     </td>
-    <td><img src="../images/double_dragons/hallowed_wings_02_01.jpg"></td>
+    <td><img src="images/hallowed_wings_02_01.jpg"></td>
   </tr>
 </table>
 </details>
@@ -376,11 +376,11 @@ Here are some other potential configurations to consider:
 <table>
   <tr>
     <td width="50%">
-      <p>Hot Wing means all party members must stay near the E/W line.</p>
-      <p>Heads up means the tanks are away from Hraesvelgr, and the rest of the party is towards Hraesvelgr.</p>
-      <p>The MT takes the western-most position.</p>
+      <p>Hot Tail means all party members must go to north <em>or</em> south without getting hit by Hallowed Wings' AoE.</p>
+      <p>Heads down means the tanks are towards Hraesvelgr, and the rest of the party is away from Hraesvelgr.</p>
+      <p>The ST takes the eastern-most position.</p>
     </td>
-    <td><img src="../images/double_dragons/hallowed_wings_02_02.jpg"></td>
+    <td><img src="images/hallowed_wings_02_02.jpg"></td>
   </tr>
 </table>
 </details>
@@ -418,7 +418,7 @@ However, player positioning is precise, and depending on which dragon players ar
       </ul>
       <p><em>Depending on which dragon you are tethered to, your tether <b>may not stretch fully</b>. Use personal mitigations to help survive.</em></p>
     </td>
-    <td><img src="../images/double_dragons/fixed_wyrmsbreath2.jpg"><a href="../images/double_dragons/fixed_wyrmsbreath2.jpg"><em>(Full-sized image)</em></a></td>
+    <td><img src="images/fixed_wyrmsbreath2.jpg"><a href="images/fixed_wyrmsbreath2.jpg"><em>(Full-sized image)</em></a></td>
   </tr>
 </table>
 
@@ -439,7 +439,7 @@ All tethers can be fully stretched, however, players will need to adjust their p
       </ul>
       <p><em>(In this example, Hraesvelgr's mouth is glowing).</em></p>
     </td>
-    <td><img src="../images/double_dragons/wyrmsbreath_02.jpg"></td>
+    <td><img src="images/wyrmsbreath_02.jpg"></td>
   </tr>
 </table>
 
@@ -460,7 +460,7 @@ The reason why we did not stack opposite tethers in Wyrmsbreath #2 was because w
       </ul>
       <p><b>Do not move</b> once Nidhogg's debuff turns into Pyretic, or Hraesvelgr's Cauterize will kill you and enrage.</p><p>If you moved and took Pyretic damage, quickly switch over to Nidhogg's side to avoid getting killed by Hraesvelgr.</p>
     </td>
-    <td><img src="../images/double_dragons/cauterize_01.jpg"></td>
+    <td><img src="images/cauterize_01.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -468,7 +468,7 @@ The reason why we did not stack opposite tethers in Wyrmsbreath #2 was because w
       <p>After Cauterize, everybody gathers north to avoid Nidhogg's and Hraesvelgr's Touchdown damage.</p>
       <p>After Touchdown, all players move away from the stack point <em>except</em> the DPS with Mortal Vow and D3.</p>
     </td>
-    <td><img src="../images/double_dragons/mortal_vow_05.jpg"></td>
+    <td><img src="images/mortal_vow_05.jpg"></td>
   </tr>
 </table>
 
@@ -490,6 +490,6 @@ The reason why we did not stack opposite tethers in Wyrmsbreath #2 was because w
 <details markdown=block>
 <summary><b>[Wroth Flames]</b> Is there a pattern to how the debuffs are assigned?</summary>
 <table>
-  <tr><td><p>Unfortunately not- the debuff distribution is random.</p><p>Here's an example where two of the no-debuff players are both DPS.</p></td><td><img src="../images/double_dragons/wroth_flames_debuffs.jpg"></td></tr>
+  <tr><td><p>Unfortunately not- the debuff distribution is random.</p><p>Here's an example where two of the no-debuff players are both DPS.</p></td><td><img src="images/wroth_flames_debuffs.jpg"></td></tr>
 </table>
 </details>
