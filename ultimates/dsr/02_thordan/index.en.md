@@ -363,6 +363,12 @@ Since there are many Meteor configurations, here are a couple additional scenari
 ## Frequently Asked Questions
 
 <details markdown=block>
+<summary><b>[Strength of the Ward]</b> Why are the healers in front?</summary>
+<table>
+  <tr><td><p>Putting the healers in front lets them get to the middle quickly and start casting a GCD heal (hitting both light parties) <em>before</em> having to dodge the Ascalon's Mercy Concealed and <em>without</em> using Swiftcast.</p><p>This affects AST and SCH (as opposed to WHM and SGE), as those healers do not have native access to GCD heals during movement.</p></td></tr>
+</table>
+</details>
+<details markdown=block>
 <summary><b>[Sanctity of the Ward]</b> Why is there a need for a role swap? Aren't there simpler strategies?</summary>
 <table>
   <tr><td><p>We do a role swap because we want each group to have:<ol><li>One healer</li><li>Four players</li></ol>This minimises the damage each group takes, while still being able to heal in between the two Sacred Severs each group takes.</p><p>You <em>can</em> use other strats under <em>certain</em> conditions (e.g: an AST's Macrocosmos lets you do pretty much any strat you want), but this unfortunately doesn't generalise to PF.</p></td></tr>
