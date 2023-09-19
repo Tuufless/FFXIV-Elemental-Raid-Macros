@@ -179,3 +179,12 @@ Within each block of four dashes, the center add will do a small 270-degree clea
   </tr>
 </table>
 </details>
+<details markdown=block>
+<summary><b>[Superchain Theory 2]</b> How am I still getting hit by the angel beams?</summary>
+<table>
+  <tr>
+    <td width="50%"><p>The angel beams in the middle of Superchain Theory 2 do <em>not</em> split the arena into four columns of equal width.</p><p>As you can see from the diagram here, the beams are actually slightly displaced <em>(in this example, the party needed to dodge east)</em>.</p></td>
+    <td><img src="images/superchain_theory_02.jpg"></td>
+  </tr>
+</table>
+</details>
