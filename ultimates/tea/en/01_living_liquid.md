@@ -71,7 +71,16 @@ Notable changes are:
 	<td><img src="../images/living_liquid/living_liquid_13.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>14.</b> 1st untelegraphed Protean Waves from Living Liquid.</p><p>The Liquid Hand will also do a Hand of Pain here.</p><p><ul><li><b>H1, H2, D3, D4:</b> Bait AoEs next to assigned puddles. Don't move until you see the telegraphed Protean waves from the puddles.</li></ul></p></td>
+    <td>
+      <p><b>14.</b> 1st untelegraphed Protean Waves from Living Liquid.</p>
+      <p>The Liquid Hand will also do a Hand of Pain here.</p>
+      <ul>
+        <li>
+          <p><b>H1, H2, D3, D4:</b> Bait AoEs next to assigned puddles.</p>
+          <p>If you plan on using a gap-closer, wait until you see the telegraphed Protean Waves from the puddles as they are <em>slightly</em> offset.</p>
+        </li>
+      </ul>
+    </td>
 	<td><img src="../images/living_liquid/living_liquid_14.jpg"></td>
   </tr>
   <tr>
