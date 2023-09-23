@@ -54,14 +54,14 @@ All markers are used to bait Hyperdimensional Slashes (black orbs).
 {
   "Name":"Adelphel and Grinnaux",
   "MapID":788,
-  "A":{"X":93.015,"Y":0.0,"Z":89.036,"ID":0,"Active":true},
-  "B":{"X":110.964,"Y":0.0,"Z":93.015,"ID":1,"Active":true},
-  "C":{"X":106.985,"Y":0.0,"Z":110.964,"ID":2,"Active":true},
-  "D":{"X":89.036,"Y":0.0,"Z":106.985,"ID":3,"Active":true},
-  "One":{"X":106.985,"Y":0.0,"Z":89.036,"ID":4,"Active":true},
-  "Two":{"X":110.964,"Y":0.0,"Z":106.985,"ID":5,"Active":true},
-  "Three":{"X":93.015,"Y":0.0,"Z":110.964,"ID":6,"Active":true},
-  "Four":{"X":89.036,"Y":0.0,"Z":93.015,"ID":7,"Active":true}
+  "A":{"X":95.0,"Y":0.0,"Z":91.5,"ID":1,"Active":true},
+  "B":{"X":108.5,"Y":0.0,"Z":95.0,"ID":2,"Active":true},
+  "C":{"X":105.0,"Y":0.0,"Z":108.5,"ID":5,"Active":true},
+  "D":{"X":91.5,"Y":0.0,"Z":105.0,"ID":6,"Active":true},
+  "One":{"X":105.0,"Y":0.0,"Z":91.5,"ID":3,"Active":true},
+  "Two":{"X":108.5,"Y":0.0,"Z":105.0,"ID":4,"Active":true},
+  "Three":{"X":95.0,"Y":0.0,"Z":108.5,"ID":7,"Active":true},
+  "Four":{"X":91.5,"Y":0.0,"Z":95.0,"ID":0,"Active":true}
 }
 ```
 
