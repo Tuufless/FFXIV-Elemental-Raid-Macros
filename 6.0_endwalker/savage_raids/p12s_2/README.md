@@ -357,9 +357,9 @@ One variation between EN and JP is whether players will line up prior to Pangene
     <p><b>Wait for the slime to form before moving south.</b></p>
     <p>There will be three slimes on each side as the result of all the fusions.</p>
     <ul>
-      <li><b>Players that started with no stacks:</b> Gather the tethers from the slimes on your side, and go to the markers to bait AoEs. When the AoEs resolve, move to the east side of the arena.</li>
-      <li><b>MT:</b> Stand on the west side of the arena and prepare to invuln Palladian Grasp.</li>
-      <li><b>Everyone else:</b> Stand on the east side of the arena.</li>
+      <li><b>Players that started with no stacks:</b> Gather the tethers from the slimes on your side, and go to the markers to bait AoEs. When the AoEs resolve, move to the <b>east</b> side of the arena.</li>
+      <li><b>MT:</b> Stand south on the <b>west</b> side of the arena and prepare to invuln Palladian Grasp.</li>
+      <li><b>Everyone else:</b> Stand south, on the <b>east</b> side of the arena.</li>
     </ul></td>
     <td><img src="images/pangenesis_05.jpg"></td>
   </tr>
