@@ -333,7 +333,8 @@ One variation between EN and JP is whether players will line up prior to Pangene
     <td><img src="images/pangenesis_02.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>3.</b> First towers resolve. Wait for the slime to form before moving to the next tower.</p>
+    <td><p><b>3.</b> First towers resolve.</p>
+    <p><b>Wait for the slime to form before moving to the next tower.</b></p>
     <p>One of the two players in each tower (at random) will get a coloured debuff, and the other will not.</p>
     <ul>
       <li><b>If you received a coloured debuff:</b> Go to the second North-side tower.</li>
@@ -342,7 +343,8 @@ One variation between EN and JP is whether players will line up prior to Pangene
     <td><img src="images/pangenesis_03.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>4.</b> Second towers resolve. Wait for the slime to form before moving to the next tower.</p>
+    <td><p><b>4.</b> Second towers resolve.</p>
+    <p><b>Wait for the slime to form before moving to the next tower.</b></p>
     <p>One of the two players in each tower (at random) will get a coloured debuff, and the other will not.</p>
     <ul>
       <li><b>If you received a coloured debuff:</b> Cross diagonally to the opposite-coloured tower.</li>
@@ -351,7 +353,8 @@ One variation between EN and JP is whether players will line up prior to Pangene
     <td><img src="images/pangenesis_04.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>5.</b> Third towers resolve. Wait for the slime to form before moving to the next tower.</p>
+    <td><p><b>5.</b> Third towers resolve.</p>
+    <p><b>Wait for the slime to form before moving south.</b></p>
     <p>There will be three slimes on each side as the result of all the fusions.</p>
     <ul>
       <li><b>Players that started with no stacks:</b> Gather the tethers from the slimes on your side, and go to the markers to bait AoEs. When the AoEs resolve, move to the east side of the arena.</li>
