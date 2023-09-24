@@ -305,14 +305,23 @@ One variation between EN and JP is whether players will line up prior to Pangene
   <tr>
     <td><p><b>1.</b> Raid-wide damage and debuffs appear.</p><p>Players take up their initial positions.</p>
     <ul>
-      <li><b>No debuff:</b> Find your partner, and preposition at where the <b>second North-side tower</b> will spawn.</li>
-      <li><b>1 stack:</b> Find your partner, and preposition at where the <b>first tower</b> will spawn.</li>
-      <li><b>2 stacks:</b> Determine if you are the fast or slow debuff (look at the timer on the <b>coloured debuff</b>), and wait in the middle.</li>
+      <li>
+        <p><b>No debuff or 1 stack:</b> Find the other player with the same debuff, and determine who goes west/east via the priority</p>
+        <p><b>West:</b> MT ST H1 H2 D1 D2 D3 D4 <b>:East</b></p>
+        <p>Then, preposition at your tower based on your debuff:</p>
+        <ul>
+          <li><b>No debuff:</b> Go to where the <b>second North-side tower</b> will spawn.</li>
+          <li><b>1 stack:</b> Go to where the <b>first tower</b> will spawn.</li>
+        </ul>
+      </li>
+      <li><p><b>2 stacks:</b> Wait in the middle, and take note of:</p>
+        <ul>
+          <li>What colour your coloured debuff is</li>
+          <li>Whether you are the fast or slow debuff (look at the timer on the <b>coloured debuff</b>)</li>
+        </ul>
+      </li>
     </ul>
-    <p>The players with either 1 or no stacks will order themselves with the priority:</p>
-    <ul>
-      <li><b>West:</b> MT ST H1 H2 D1 D2 D3 D4 <b>:East</b></li>
-    </ul></td>
+  </td>
     <td><img src="images/pangenesis_01.jpg"></td>
   </tr>
   <tr>
