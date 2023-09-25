@@ -307,7 +307,7 @@ One variation between EN and JP is whether players will line up prior to Pangene
     <ul>
       <li>
         <p><b>No debuff or 1 stack:</b> Find the other player with the same debuff, and determine who goes west/east via the priority</p>
-        <p><b>West:</b> MT ST H1 H2 D1 D2 D3 D4 <b>:East</b></p>
+        <p style="text-align:center"><b>West:</b> MT ST H1 H2 D1 D2 D3 D4 <b>:East</b></p>
         <p>Then, preposition at your tower based on your debuff:</p>
         <ul>
           <li><b>No debuff:</b> Go to where the <b>second North-side tower</b> will spawn.</li>
