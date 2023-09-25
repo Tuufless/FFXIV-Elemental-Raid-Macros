@@ -79,7 +79,7 @@ After dodging the Heavy Impact and Ascalon's Mercy Concealed, orientate yourself
     <td><img src="images/strength_of_the_ward_2_2.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>4.</b> The two tanks will be stunned and hit with <em>Holy Bladedance</em>.</b></p><p>All other players enter their towers.</p></td>
+    <td><p><b>4.</b> The two tanks will be stunned and hit with <em>Holy Bladedance</em>.</p><p>All other players enter their towers.</p></td>
     <td><img src="images/strength_of_the_ward_2_3.jpg"></td>
   </tr>
 </table>
