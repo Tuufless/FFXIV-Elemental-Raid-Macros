@@ -46,36 +46,67 @@ Note that players on the back row can simply run forward to naturally dodge the 
 - [Near Heavy Impact](https://clips.twitch.tv/SecretiveUnsightlyBorkRitzMitz-xUIR65ezwTfJOZL3)
 - [Nearest Heavy Impact](https://clips.twitch.tv/RelatedPiercingGrasshopperOMGScoots-iqC09dukfOnorski)
 
+As you are dodging the Heavy Impact, locate the two knights towards the center of the arena.
+
+These knights indicate the orientation of the map for the next part of Strength of the Ward, and will always spawn "southwest" and "southeast".
+
+![](images/strength_orientation.jpg)
+
+Thordan will do another Ascalon's Mercy Concealed that locks on each player's position at the fourth Heavy Impact.
+
+Dodge the Ascalon's Mercy Concealed, and orientate yourself to the new "North" as indicated by the two knights.
+
 ### Part 2
 
 After dodging the Heavy Impact and Ascalon's Mercy Concealed, orientate yourself such that Thordan is north.
 
 <table>
   <tr>
-    <td width="50%"><p>Using Thordan as north:</p><ul><li>Three (non-tanks) will be targeted with blue Skyward Leap markers. These players go west, east, and south.</li><li>The other three (non-tanks) go north towards Thordan and loosely spread to communicate tower positions before stacking in front of the "shuriken" mark.</li><li>The two tanks take tethers, and criss-cross them.</li></ul></td>
+    <td width="50%"><p><b>1.</b> Using <b>Thordan as north</b>:</p><ul><li>Three (non-tanks) will be targeted with blue <em>Skyward Leap</em> markers. These players go west, east, and south.</li><li>The other three (non-tanks) go north towards Thordan.<ul><li>Two of these players will shortly be tethered to by the two knights.</li><li>The last player will later be targeted for stack damage (<em>The Dragon's Rage</em>).</li></ul></li><li>The two tanks need to take the two tethers, and criss-cross them.</li></ul></td>
     <td><img src="images/strength_of_the_ward_2_1.jpg"></td>
+  </tr>
+  <tr>
+    <td><b>2.</b> To help communicate who will take which tower, the three (non-tanks) at Thordan will briefly spread to communicate which tower they will take <b>before collapsing together in the middle for the stack.</b></td>
+    <td><img src="images/strength_towers.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>3.</b> AoEs resolve.</b></p>
+    <ul>
+      <li>Each of the three blue-marked players will have a giant <em>Skyward Leap</em> AoE centered on them. Take care not to hit the tanks with these.</li>
+      <li><em>The Dragon's Rage</em> resolves, which should be split between the three unmarked players and the two tanks.</li>
+      <li>The two tanks will each be hit by <em>Holy Shield Bash</em>.</li>
+    </ul></td>
+    <td><img src="images/strength_of_the_ward_2_2.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>4.</b> The two tanks will be stunned and hit with <em>Holy Bladedance</em>.</b></p><p>All other players enter their towers.</p></td>
+    <td><img src="images/strength_of_the_ward_2_3.jpg"></td>
   </tr>
 </table>
 
-**Tips:**
-- Do not look for Thordan. Instead, look for the two (of three) knights that spawn closest to the center.
-  - Thordan appears at his position last, giving you the least amount of time to find him.
-  - The two knights will spawn while the Heavy Impacts are resolving (and Thordan is still in the center).
-  - The two knights will always spawn SW and SE relative to where Thordan will teleport to later.
-- Have the tanks stand halfway in between and let the party members bring the tethers to them.
-  - Tanks have probably been trained to stand right next to the knights (the tether sources) to pick up the tethers. However, if you do this, there isn't enough time to make it to the edge (without Sprint).
-- The two blue prey targets east and west should stand one notch away from the party to avoid hitting the tanks with the AoE (and giving them a debuff that will kill them).
+Thordan will reappear in the middle of the arena and begin to cast Ancient Quaga.
+
+After the Ancient Quaga, Thordan will do another Heavenly Heel (tank swap), followed by 3x Ascalon's Might.
+
+Thordan will then cast Sanctity of the Ward.
 
 ## Sanctity of the Ward
 
 ### Part 1: Sacred Severs
 
-Currently, the most popular way to resolve Sacred Severs is a **DRK-relative, role-adjust** strat.
+We resolve Sacred Severs with a **DRK-relative, role-adjust** strat.
 
-- The MT group takes Group 1 as its base position, away from the DRK.
-- The ST group takes Group 2 as its base position, on the same side as the DRK.
+- MT, H1, D1, D3 takes Group 1 as its base position, **opposite** the DRK.
+- ST, H2, D2, D4 takes Group 2 as its base position, on the **same side** as the DRK.
 
-If a player in a group receives the wrong numbered sword (e.g: D3 receives the "2" sword), then the corresponding role in the other group (D4) swaps groups with that person.
+Two random players will be assigned "1" and "2", indicated by the number of swords above their head. This forces them to join that group.
+
+If a player in a group receives the wrong numbered sword from their group (e.g: D3 receives the "2" sword), then the **corresponding role** in the other group (D4) swaps groups with that person.
+
+In other words:
+
+1. If **you have a sword** above your head, **move to that group.**
+2. Otherwise, if your **role-partner has your group's sword, swap groups.**
 
 <table>
   <tr>
