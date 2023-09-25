@@ -29,26 +29,75 @@ D□ H× H△</code></pre></td>
   </tr>
 </table>
 
-## White orbs
+## Hyperdimensional Slash
 
 <table>
   <tr>
-    <td width="50%">These spots on the floor (the tips of the "spikes") on the safe side will be safe from the white orb explosions.</td>
-    <td><img src="images/adelphel_grinnaux_01.jpg"></td>
+    <td width="50%"><p><b>1.</b> Ser Adelphel will disappear while Ser Grinnaux will teleport to the center of the arena.</p>
+    <ul>
+      <li>Four random players will get marked, and spread along the <b>south</b> side.
+      <ul>
+        <li>Each marked player will be hit by a <em>Hyperdimensional Slash</em> line AoE that leaves a void puddle where it hits the wall.</li>
+      </ul>
+      </li>
+      <li>The remaining four unmarked players stack <b>north</b> to share a <em>Hyperdimensional Slash</em> cleave.</li>
+    </ul></td>
+    <td><img src="images/hyperdimensional_slash_01.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>2.</b> Each group then swaps roles- the previously unmarked players will now get marked, and vice-versa.</p>
+    <ul>
+      <li>Newly marked players spread along the <b>north</b> side for <em>Hyperdimensional Slash</em> line AoEs.</li>
+      <li>The now unmarked players stack <b>south</b> to share a <em>Hyperdimensional Slash</em> cleave.</li>
+    </ul></td>
+    <td><img src="images/hyperdimensional_slash_02.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>3.</b> Ser Adelphel will reappear at a <b>random</b> cardinal edge and cast another <em>Holiest of Holy</em>.</p><p>Ser Grinnaux simultaneously casts <em>Faith Unmoving</em>, a knockback that can be nullified with Arm's Length or Surecast. Be sure not to get knocked back into any of the void puddles along the wall.</p>
+    <p>Ser Adelphel then dashes left or right to one of the <b>adjacent cardinal</b> walls.</p>
+    <p>The party moves towards <b>whichever side Adelphel dashed to first.</b></p></td>
+    <td><img src="images/hyperdimensional_slash_03.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>4.</b> A whole series of AoEs then resolve along Ser Adelphel's path.</p>
+    <p>The tips of these spokes on the floor will <em>always</em> be safe from the AoEs.</p></td>
+    <td><img src="images/hyperdimensional_slash_04.jpg">
+    <img src="images/hyperdimensional_slash_safe_spot.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>5.</b> The ST then moves ahead of the party as Ser Adelphel will land on that player, knocking back and killing anyone else that gets hit.</p><p>The ST can invuln this hit.</p><p>Ser Adelphel will then begin to cast <em>Holiest Hallowing</em>. This must be interrupted (by the ST), or it will recover 50% HP to both Ser Adelphel and Ser Grinnaux.</p></td>
+    <td><img src="images/hyperdimensional_slash_05.jpg"></td>
   </tr>
 </table>
 
 ## Playstation
 
-The important positions here are the two N/S crosses, and the E/W circles. This will come up again in the Playstation 2 tethers in Death of the Heavens.
-```
-【Playstation chains】
-　　D△  T× T□
-　　D〇　 　D〇　west: D1>2>3>4: east
-　　D□ H× H△
-```
+The MT recenters Ser Grinnaux to prepare for the Playstation mechanic.
 
-## Haurchefant
+<table>
+  <tr>
+    <td width="50%"><p><b>1.</b> Players will get paired together, indicated by Playstation symbols.</p>
+    <ul>
+      <li>Two DPS will be paired with a 〇</li>
+      <li>A tank and a healer will be paired with an ×</li>
+      <li>A healer and a DPS will be paired with a ▽</li>
+      <li>A tank and a DPS will be paired with an □</li>
+    </ul>
+    <p>The two 〇 DPS have a priority to determine who goes where:</p>
+    <p style="text-align:center"><b>West:</b> D1 > D2 > D3 > D4 <b>:East</b></p></td>
+    <td><img src="images/playstation_01.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>2.</b> Ser Grinnaux then casts <em>Faith Unmoving</em> again, knocking all players back from Ser Grinnaux.</p>
+    <p>This will break the chains that connect each Playstation pair, and each player will have a <em>Heavensflame</em> AoE centered on them.</p>
+    <p>Note that we <b>do not</b> want to use anti-knockback abilities here, as we need the knockback in order to break the chains.</p></td>
+    <td><img src="images/playstation_02.jpg"></td>
+  </tr>
+</table>
+
+Ser Adelphel will then cast a second *Holiest Hallowing*, which should be interrupted by D3 this time.
+
+## Pure of Heart
 
 The general order goes HMRT (Healer → Melee → Ranged → Tanks).
 
