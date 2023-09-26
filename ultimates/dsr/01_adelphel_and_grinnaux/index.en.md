@@ -18,6 +18,10 @@ If you are already familiar with Adelphel and Grinnaux, and just need a summary:
     <td><ul><li>South → North</li></ul></td>
   </tr>
   <tr>
+    <td><b>Silence</b></td>
+    <td><ul><li>ST → D3 → ST</li></ul></td>
+  </tr>
+  <tr>
     <td><b>Playstation</b></td>
     <td><pre><code>D△  T× T□
 D〇　 　D〇
@@ -26,6 +30,26 @@ D□ H× H△</code></pre></td>
   <tr>
     <td><b>Pure of Heart</b></td>
     <td><ul><li>HMRT</li></ul></td>
+  </tr>
+</table>
+
+## Opener
+
+<table>
+  <tr>
+    <td width="50%"><p><b>1.</b> The two tanks will take the two bosses and stack them in the middle.</p>
+    <ul>
+      <li><b>MT:</b> Take Ser Grinnaux (the east boss)</li>
+      <li><b>ST:</b> Take Ser Adelphel (the west boss)</li>
+    </ul>
+    <p>Try to keep Ser Adelphel a little north of Ser Grinnaux to give more space for the upcoming combination.</p>
+    <ul>
+      <li>Ser Adelphel will tether a random player- this tether should be taken by the MT and invulned.</li>
+      <li>Ser Grinnaux will use <em>Empty Dimension</em>, which is a donut AoE.</li>
+      <li>Ser Charibert will target the furthest player from North with <em>Heavensflame</em>, which is a shared stack.</li>
+    </ul>
+    </td>
+    <td><img src="images/adelphel_grinnaux_01.jpg"></td>
   </tr>
 </table>
 
@@ -53,9 +77,10 @@ D□ H× H△</code></pre></td>
     <td><img src="images/hyperdimensional_slash_02.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>3.</b> Ser Adelphel will reappear at a <b>random</b> cardinal edge and cast another <em>Holiest of Holy</em>.</p><p>Ser Grinnaux simultaneously casts <em>Faith Unmoving</em>, a knockback that can be nullified with Arm's Length or Surecast. Be sure not to get knocked back into any of the void puddles along the wall.</p>
+    <td><p><b>3.</b> Ser Adelphel will reappear at a <b>random</b> cardinal edge and cast another <em>Holiest of Holy</em>.</p><p>Ser Grinnaux will also cast <em>Faith Unmoving</em>, a knockback that can be nullified with Arm's Length or Surecast. Be sure not to get knocked back into any of the void puddles along the wall.</p>
     <p>Ser Adelphel then dashes left or right to one of the <b>adjacent cardinal</b> walls.</p>
-    <p>The party moves towards <b>whichever side Adelphel dashed to first.</b></p></td>
+    <p>The party moves towards <b>whichever side Adelphel dashes to first.</b></p>
+    <p><em>(In this example, Ser Adelphel dashes to the left.)</em></p></td>
     <td><img src="images/hyperdimensional_slash_03.jpg"></td>
   </tr>
   <tr>
@@ -65,7 +90,7 @@ D□ H× H△</code></pre></td>
     <img src="images/hyperdimensional_slash_safe_spot.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>5.</b> The ST then moves ahead of the party as Ser Adelphel will land on that player, knocking back and killing anyone else that gets hit.</p><p>The ST can invuln this hit.</p><p>Ser Adelphel will then begin to cast <em>Holiest Hallowing</em>. This must be interrupted (by the ST), or it will recover 50% HP to both Ser Adelphel and Ser Grinnaux.</p></td>
+    <td><p><b>5.</b> The ST moves ahead of the party as Ser Adelphel will land on that player, knocking back and killing anyone else that gets hit.</p><p>The ST can invuln this hit.</p><p>Ser Adelphel will then begin to cast <em>Holiest Hallowing</em>. This must be interrupted (by the ST), or it will recover 50% HP to both Ser Adelphel and Ser Grinnaux.</p></td>
     <td><img src="images/hyperdimensional_slash_05.jpg"></td>
   </tr>
 </table>
@@ -97,14 +122,22 @@ The MT recenters Ser Grinnaux to prepare for the Playstation mechanic.
 
 Ser Adelphel will then cast a second *Holiest Hallowing*, which should be interrupted by D3 this time.
 
+From here, the mechanics are straightforward- Ser Adelphel will cast another *Holiest of Holy* (raid-wide damage) while Ser Grinnaux will use either *Empty Dimension* (donut AoE) or *Full Dimension* (point-blank AoE).
+
+Ser Adelphel will then cast a third *Holiest Hallowing*, requiring another Silence, followed by another *Holest of Holy* (raid-wide damage).
+
+At this point, if both bosses are alive, they begin their enrage. If either boss dies, the other starts casting their enrage.
+
 ## Pure of Heart
 
-The general order goes HMRT (Healer → Melee → Ranged → Tanks).
+Ser Charibert now appears west and pulls the party into a ring.
+
+We resolve Ser Charibert's attacks in the order HMRT (Healer → Melee → Ranged → Tanks).
 
 - Ranged and melee alternate sides when dropping the Light Puddles.
 - Tanks are last so healers are not rushing to top up the party before Pure of Heart resolves.
 
-This method for Pure of Heart allows for [full melee uptime with minimal movement](https://clips.twitch.tv/SuaveOddArmadilloSeemsGood-VfDpqFIoUkVKUF7Q).
+This method allows for [full melee uptime with minimal movement](https://clips.twitch.tv/SuaveOddArmadilloSeemsGood-VfDpqFIoUkVKUF7Q).
 
 <table>
   <tr>
