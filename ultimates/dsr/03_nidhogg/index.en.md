@@ -29,37 +29,43 @@ Nidhogg's phase opens with Final Chorus, another very hard-hitting raid-wide att
 
 The first phase of Nidhogg is often called "Wyrmhole", due to its strong resemblance to Wormhole Formation in TEA.
 
-Wyrmhole has two variants, affectionately dubbed "Easthogg" or "Westhogg", which dictates where players with arrow debuffs go, and which direction they face when placing towers.
+This Wyrmhole strat is affectionately dubbed "Easthogg", which dictates where debuffs go, and which direction players face.
 
-- **English** parties prefer to go with "Easthogg".
-- **Japanese** parties prefer to go with "Westhogg". Simply reflect all arrow positions and have players face west when placing towers instead.
+1. Players are split into three groups based on their numbered debuffs.
+2. Each group is then *possibly* assigned arrow debuffs, which further determine which positions each player takes.
 
-Note that **at most**, only two pairs of arrows will appear. The following diagrams illustrate a scenario where all numbered groups have a pair of arrows, but this will not actually happen in-game.
+Only one or two pairs of arrow debuffs will appear. The following diagrams illustrate a scenario where all groups have a pair of arrows, but this will not actually happen in-game.
 
 <table>
   <tr>
-    <td width="50%"><p><b>1.</b> Numbers appear.</p><p>All players claim initial spots:<ul><li><b>1s + 3s:</b> One pair of each West, South, and East.</li><li><b>2s:</b> One NW, one NE.</li></ul></p><p>These will be your positions during Wyrmhole <b>if your numbered group does not get arrows</b>.</p></td>
+    <td width="50%"><p><b>1.</b> Numbers appear.</p><p>All players claim initial spots:<ul><li><b>1s + 3s:</b> One pair of each West, South, and East.</li><li><b>2s:</b> One NW, one NE.</li></ul></p><p>These will be your positions <b>if your group does not get arrows</b>.</p></td>
     <td><img src="images/nidhogg_01.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>2.</b> Arrow debuffs appear.</p><p>If your numbered group contains arrows (Elusive/Spineshatter Dives), <b>the arrows override the claimed positions from the previous step.</b></p>
+    <td><p><b>2.</b> Arrow debuffs appear.</p><p>If your group contains arrows (<em>Elusive/Spineshatter Dives</em>), <b>the arrows override the claimed positions from the previous step.</b></p>
     <ul>
-      <li><b>Up arrow</b> (Spineshatter Dive Target): <b>West</b></li>
-      <li><b>No arrow</b> (High Jump Target): <b>South</b></li>
-      <li><b>Down arrow</b> (Elusive Jump Target): <b>East</b></li></ul>
+      <li><b>Up arrow</b> (<em>Spineshatter Dive Target</em>): <b>West</b></li>
+      <li><b>No arrow</b> (<em>High Jump Target</em>): <b>South</b></li>
+      <li><b>Down arrow</b> (<em>Elusive Jump Target</em>): <b>East</b></li></ul>
     These are now the final player positions for the Wyrmhole phase.</td>
     <td><img src="images/nidhogg_02.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>3.</b> First loop begins</p><ul><li><b>1s:</b> Place towers (face east if you have an arrow!)</li><li><b>2s:</b> Stack north</li><li><b>3s:</b> Stack north</li></ul></td>
+    <td>
+      <p><b>3.</b> First loop begins.</p>
+      <p>Nidhogg will cast either <em>Gnash and Lash</em> or <em>Lash and Gnash</em>, which determines the sequence of Nidhogg's upcoming attacks.</p>
+      <p>(<em>Lash</em> = move in, <em>Gnash</em> = move out).</p>
+      <p>When it resolves, Nidhogg clones land on all the "1" players, and a random player in front of Nidhogg is targeted for a stack (<em>Eye of the Tyrant</em>).</p>
+      <ul><li><b>1s:</b> Place towers (face east if you have an arrow!)</li><li><b>2s:</b> Stack north</li><li><b>3s:</b> Stack north</li></ul></td>
     <td><img src="images/nidhogg_03.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>4.</b> First "Lash and Gnash" or "Gnash and Lash".</p><ul><li><b>1s:</b> Move north</li><li><b>3s:</b> Take towers while dodging in/out AoEs.</li></ul><p><em>(The diagram illustrates "Gnash and Lash")</em></p></td>
+    <td><p><b>4.</b> <b>After the clones land</b>, the first part of <em>Lash and Gnash</em> or <em>Gnash and Lash</em> resolves.</p><ul><li><b>1s:</b> Move north</li><li><b>3s:</b> Take towers while dodging in/out AoEs.</li></ul><p><em>(The diagram illustrates "<b>Gnash</b> and Lash", so players stay out first.)</em></p></td>
     <td><img src="images/nidhogg_04.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>5.</b> First "Lash and Gnash" or "Gnash and Lash" (cont'd).</p><ul><li><b>1s:</b> Move north</li><li><b>3s:</b> Take towers while dodging in/out AoEs.</li></ul></td>
+    <td><p><b>5.</b> The second part of <em>Lash and Gnash</em> or <em>Gnash and Lash</em> resolves.</p><ul><li><b>1s:</b> Move north</li><li><b>3s:</b> Take towers while dodging in/out AoEs.</li></ul>
+    <p><em>(The diagram illustrates "Gnash and <b>Lash</b>", so players move in next.)</em></p></td>
     <td><img src="images/nidhogg_05.jpg"></td>
   </tr>
   <tr>
@@ -67,7 +73,7 @@ Note that **at most**, only two pairs of arrows will appear. The following diagr
     <td><img src="images/nidhogg_06.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>7.</b> Second set of towers.</p><ul><li><b>1s (with arrows):</b> Take towers.</li><li><b>2s:</b> Return to the stack north.</li><li><b>3s:</b> Dodge Geirskoguls.</li></ul></td>
+    <td><p><b>7.</b> Second set of towers.</p><p>Nidhogg will start casting another <em>Lash and Gnash</em> or <em>Gnash and Lash</em>, which will go with the third set of towers.</p><ul><li><b>1s (with arrows):</b> Take towers.</li><li><b>2s:</b> Return to the stack north.</li><li><b>3s:</b> Dodge Geirskoguls.</li></ul></td>
     <td><img src="images/nidhogg_07.jpg"></td>
   </tr>
   <tr>
@@ -75,30 +81,41 @@ Note that **at most**, only two pairs of arrows will appear. The following diagr
     <td><img src="images/nidhogg_08.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>9.</b> Second loop.</p><ul><li><b>1s:</b> After baiting Geirskogul, <em>quickly</em> join the stack at north.</li><li><b>3s:</b> Place towers (face east if you have an arrow!).</li></ul></td>
+    <td><p><b>9.</b> The second <em>Lash and Gnash</em> or <em>Gnash and Lash</em> finishes its cast, which drops the third set of towers together with another <em>Eye of the Tyrant</em>.</p><ul><li><b>1s:</b> After baiting Geirskogul, <em>quickly</em> join the stack at north.</li><li><b>3s:</b> Place towers (face east if you have an arrow!).</li></ul></td>
     <td><img src="images/nidhogg_09.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>10.</b> Second "Lash and Gnash" or "Gnash and Lash".</p><ul>
-    <li><b>1 (no arrow):</b> Take south tower while dodging in/out AoEs.</li><li><b>2s:</b> Take east/west towers while dodging in/out AoEs.</li><li><b>3s:</b> Move north.</li></ul><p><em>(The diagram illustrates "Lash and Gnash")</em></p></td>
+    <td>
+      <p><b>10.</b> <b>After the clones land</b>, the first part of <em>Lash and Gnash</em> or <em>Gnash and Lash</em> resolves.</p>
+      <ul>
+        <li><b>1 (no arrow):</b> Take south tower while dodging in/out AoEs.</li>
+        <li><b>2s:</b> Take east/west towers while dodging in/out AoEs.</li>
+        <li><b>3s:</b> Move north.</li>
+      </ul>
+      <p><em>(The diagram illustrates "<b>Lash</b> and Gnash", so players move in first.)</em></p>
+    </td>
     <td><img src="images/nidhogg_10.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>11.</b> Second "Lash and Gnash" or "Gnash and Lash" (cont'd).</p><ul>
-    <li><b>1 (no arrow):</b> Take south tower while dodging in/out AoEs.</li><li><b>2s:</b> Take east/west towers while dodging in/out AoEs.</li><li><b>3s:</b> Move north.</li></ul></td>
+    <td><p><b>11.</b> The second part of <em>Lash and Gnash</em> or <em>Gnash and Lash</em> resolves.</p><ul>
+    <li><b>1 (no arrow):</b> Take south tower while dodging in/out AoEs.</li><li><b>2s:</b> Take east/west towers while dodging in/out AoEs.</li><li><b>3s:</b> Move north.</li></ul>
+    <p><em>(The diagram illustrates "Lash and <b>Gnash</b>", so players move out next.)</em></p></td>
     <td><img src="images/nidhogg_11.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>12.</b> Second set of towers.</p><ul><li><b>1s (no arrow):</b> Bait south Geirskogul outside.</li><li><b>2s:</b> Bait east/west Geirskoguls outside.</li></ul></td>
+    <td><p><b>12.</b> Bait the third set of Geirskoguls.</p><ul><li><b>1s (no arrow):</b> Bait south Geirskogul outside.</li><li><b>2s:</b> Bait east/west Geirskoguls outside.</li></ul></td>
     <td><img src="images/nidhogg_12.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>13.</b> Second set of towers.</p><ul><li><b>1s (no arrow):</b> Dodge Geirskogul.</li><li><b>2s:</b> Dodge Geirskogul.</li></ul>
-    <p>Nidhogg will also resume auto-attacking the MT at this point, so players will need to dodge that as well.</p></td>
+    <td><p><b>13.</b> Nidhogg will resume auto-attacking the MT.</p><p>If the MT was part of the stack, be sure to point Nidhogg away from the party.</p>
+    <ul>
+      <li><b>1s (no arrow):</b> Dodge Geirskogul.</li>
+      <li><b>2s:</b> Dodge Geirskogul.</li>
+    </ul></td>
     <td><img src="images/nidhogg_13.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>14.</b> Nidhogg will auto-attack the MT <b>twice</b> before turning to face a <b>random</b> party member and cast Drachenlance.</p><p>Dodge or outrange this, and prepare for 4x towers.</p></td>
+    <td><p><b>14.</b> After two auto-attacks, Nidhogg will turn to face a <b>random</b> party member and cast Drachenlance.</p><p>Dodge or outrange this, and prepare for 4x towers.</p></td>
     <td><img src="images/nidhogg_14.jpg"></td>
   </tr>
 </table>
@@ -288,17 +305,17 @@ Just like before, Nidhogg clones will appear where the towers were when resolved
   </tr>
   <tr>
     <td>
-      <p><b>2.</b> Tanks take the Soul tethers, and everyone dodges the Geirskoguls.</p>
+      <p><b>2.</b> Tanks take the Soul tethers, stack under Nidhogg and use their invulnerabilities <em>(Each Soul tether hits for ~270% of a tank's max HP!)</em>.</p>
       <ul>
-        <li><b>MT:</b> Take Nidhogg's Soul tether and resolve it near Nidhogg.</li>
-        <li><b>ST:</b> Take the clone's Soul tether and resolve it away from Nidhogg.</li>
+        <li><b>MT:</b> Take Nidhogg's Soul tether.</li>
+        <li><b>ST:</b> Take the clone's Soul tether.</li>
       </ul>
-      <p>Soul tethers are <b>extremely</b> hard-hitting tankbusters (~270% of a tank's max HP!)</p>
+      <p>Everyone dodges the Geirskoguls.</p>
     </td>
     <td><img src="images/soul_tethers_02.jpg"></td>
   </tr>
 </table>
 
-After the Soul tethers resolve, Nidhogg will then autoattack the MT **five times** before turning for one final Drachenlance (which will **always** point South).
+After the Soul tethers resolve, Nidhogg will then auto-attack the MT **five times** before turning for one final Drachenlance (which will **always** point South).
 
 Nidhogg then starts casting Revenge of the Horde (enrage).
