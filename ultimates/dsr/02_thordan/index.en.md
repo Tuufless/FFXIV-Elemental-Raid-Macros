@@ -70,7 +70,7 @@ After dodging the Heavy Impact and Ascalon's Mercy Concealed, orientate yourself
     <td><img src="images/strength_towers.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>3.</b> AoEs resolve.</b></p>
+    <td><p><b>3.</b> AoEs resolve.</p>
     <ul>
       <li>Each of the three blue-marked players will have a giant <em>Skyward Leap</em> AoE centered on them. Take care not to hit the tanks with these.</li>
       <li><em>The Dragon's Rage</em> resolves, which should be split between the three unmarked players and the two tanks.</li>
@@ -390,6 +390,12 @@ Since there are many Meteor configurations, here are a couple additional scenari
   </tr>
 </table>
 </details>
+
+After Sanctity of the Ward, Thordan reappears North and begins casting *Ultimate End* (which does not have a visible castbar). This is very-heavy raid-wide damage that needs to be mitigated.
+
+Thordan will flail around, doing two sets of Broad Swings. Each Broad Swing requires the party to dodge from behind Thordan to either his front-left or front-right, depending on which he cleaves first.
+
+After both sets are complete, Thordan will cast *Aetheric Burst*, which serves as the hard enrage for this phase.
 
 ## Frequently Asked Questions
 
