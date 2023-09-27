@@ -89,27 +89,12 @@ The blue tower deals increased damage, and is meant to be taken by the tanks.
 
 All players must be **inside** Thordan's hitbox in order to be within healing range of both healers- remember to step inside if Thordan's swords were originally red.
 
-### 3-3-2
-
-The base strat for Akh Morn's Edge is a 3-3-2 split.
+Akh Morn's Edge will be resolved with a 3-3-2 split.
 
 <table>
   <tr>
     <td width="50%"><ul><li><b>Front-left:</b> H1, D1, D3</li><li><b>Front-right:</b> H2, D2, D4</li><li><b>Back:</b> MT, ST</li></ul></td>
     <td><img src="images/dragonking_thordan_02a.jpg"></td>
-  </tr>
-</table>
-
-### 1-1-6
-
-Depending on how many invulns you have available (e.g: whether you used any in Cauterize, or if you have a WAR), you can take Akh Morn's Edge with a 1-1-6 split instead.
-
-This has the advantage of making Akh Morn's Edge **much** easier to heal, especially Akh Morn #2.
-
-<table>
-  <tr>
-    <td width="50%"><ul><li><b>Front-left:</b> All non-tanks</li><li><b>Front-right:</b> Tank (buffs)</li><li><b>Back:</b> Tank (invuln)</li></ul></td>
-    <td><img src="images/dragonking_thordan_02b.jpg"></td>
   </tr>
 </table>
 

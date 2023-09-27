@@ -23,6 +23,14 @@ If you are already familiar with Thordan, and just need a quick summary:
   </tr>
 </table>
 
+Thordan opens with two auto-attacks. Each auto-attack is a small cleave, so Thordan should be pointed away from the party.
+
+- Thordan will cast *Ascalon's Mercy Concealed*- this will fire a lethal cone AoE at each player. All players (except the MT) stack behind Thordan to bait these, and dodge to the side when the cast finishes.
+- Thordan will then target the MT with three *Ascalon's Might* (large cleaves) before starting the first major mechanic.
+
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+<b>Tip:</b> A WAR can Holmgang this first set of <em>Ascalon's Might</em> and have Holmgang back up in time.</div>
+
 ## Strength of the Ward
 
 ### Part 1
@@ -84,11 +92,10 @@ After dodging the Heavy Impact and Ascalon's Mercy Concealed, orientate yourself
   </tr>
 </table>
 
-Thordan will reappear in the middle of the arena and begin to cast Ancient Quaga.
+- Thordan will reappear in the middle of the arena and begin to cast *Ancient Quaga*.
+- After the *Ancient Quaga*, Thordan will do another *Heavenly Heel* (tank swap), followed by 3x *Ascalon's Might*.
 
-After the Ancient Quaga, Thordan will do another Heavenly Heel (tank swap), followed by 3x Ascalon's Might.
-
-Thordan will then cast Sanctity of the Ward.
+Thordan will then cast *Sanctity of the Ward*.
 
 ## Sanctity of the Ward
 
@@ -393,7 +400,7 @@ Since there are many Meteor configurations, here are a couple additional scenari
 
 After Sanctity of the Ward, Thordan reappears North and begins casting *Ultimate End* (which does not have a visible castbar). This is very-heavy raid-wide damage that needs to be mitigated.
 
-Thordan will flail around, doing two sets of Broad Swings. Each Broad Swing requires the party to dodge from behind Thordan to either his front-left or front-right, depending on which he cleaves first.
+Thordan will flail around, doing two sets of *Broad Swings*. Each *Broad Swing* requires the party to dodge from behind Thordan to either his front-left or front-right, depending on which he cleaves first.
 
 After both sets are complete, Thordan will cast *Aetheric Burst*, which serves as the hard enrage for this phase.
 

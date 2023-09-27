@@ -53,13 +53,15 @@ D□ H× H△</code></pre></td>
   </tr>
 </table>
 
+The party here should focus on Ser Adelphel, as Adelphel will disappear shortly. Ser Grinnaux will teleport to the center of the arena.
+
 ## Hyperdimensional Slash
 
 <table>
   <tr>
-    <td width="50%"><p><b>1.</b> Ser Adelphel will disappear while Ser Grinnaux will teleport to the center of the arena.</p>
+    <td width="50%"><p><b>1.</b> Four random players will get marked.</p>
     <ul>
-      <li>Four random players will get marked, and spread along the <b>south</b> side.
+      <li>The marked players spread along the <b>south</b> side.
       <ul>
         <li>Each marked player will be hit by a <em>Hyperdimensional Slash</em> line AoE that leaves a void puddle where it hits the wall.</li>
       </ul>
@@ -69,7 +71,7 @@ D□ H× H△</code></pre></td>
     <td><img src="images/hyperdimensional_slash_01.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>2.</b> Each group then swaps roles- the previously unmarked players will now get marked, and vice-versa.</p>
+    <td><p><b>2.</b> All players now swap roles- the previously unmarked players will now get marked, and vice-versa.</p>
     <ul>
       <li>Newly marked players spread along the <b>north</b> side for <em>Hyperdimensional Slash</em> line AoEs.</li>
       <li>The now unmarked players stack <b>south</b> to share a <em>Hyperdimensional Slash</em> cleave.</li>
@@ -120,13 +122,12 @@ The MT recenters Ser Grinnaux to prepare for the Playstation mechanic.
   </tr>
 </table>
 
-Ser Adelphel will then cast a second *Holiest Hallowing*, which should be interrupted by D3 this time.
+From here, the mechanics are straightforward:
 
-From here, the mechanics are straightforward- Ser Adelphel will cast another *Holiest of Holy* (raid-wide damage) while Ser Grinnaux will use either *Empty Dimension* (donut AoE) or *Full Dimension* (point-blank AoE).
-
-Ser Adelphel will then cast a third *Holiest Hallowing*, requiring another Silence, followed by another *Holest of Holy* (raid-wide damage).
-
-At this point, if both bosses are alive, they begin their enrage. If either boss dies, the other starts casting their enrage.
+- Ser Adelphel will then cast a second *Holiest Hallowing*, which should be interrupted by D3 this time.
+- Ser Adelphel will cast another *Holiest of Holy* (raid-wide damage) while Ser Grinnaux will use either *Empty Dimension* (donut AoE) or *Full Dimension* (point-blank AoE).
+- Ser Adelphel will then cast a third *Holiest Hallowing*, requiring another Silence, followed by another *Holest of Holy* (raid-wide damage).
+- At this point, if both bosses are alive, they begin their enrage. If either boss dies, the other starts casting their enrage.
 
 ## Pure of Heart
 
@@ -165,3 +166,5 @@ This method allows for [full melee uptime with minimal movement](https://clips.t
     <td><img src="images/haurchefant_06.jpg"></td>
   </tr>
 </table>
+
+The arena will change, and Thordan will appear. Make sure someone in the party attacks Thordan, or you will restart from Adelphel and Grinnaux.

@@ -90,6 +90,11 @@ If you are already familiar with the Alternate timeline Thordan phase, and just 
   </tr>
 </table>
 
+Thordan will auto-attack the MT once, before doing a *Heavenly Heel* → 3x *Ascalon's Might* combo.
+
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+<b>Tip:</b> A WAR can Holmgang this combo and have Holmgang back up in time for Cauterize at the end of P6.</div>
+
 ## Death of the Heavens
 
 My preferred strat is an upside-down version of the "Komazou" strat, which splits the Dooms 2-2.
@@ -187,8 +192,15 @@ My preferred strat is an upside-down version of the "Komazou" strat, which split
   </tr>
 </table>
 
-## Notes
-- **Only WAR** can Holmgang the tankbuster after Wrath of the Heavens and still invuln P6's Cauterize.
+After Death of the Heavens, eight Meteor Circles will spawn that must be defeated quickly.
+
+A caster LB2 will destroy three Meteor Circles; if there are no casters alive, a ranged LB2 will also suffice.
+
+- After all Meteors have been destroyed, Thordan will reappear in the middle and start casting *Ancient Quaga*.
+- This is then followed by a *Heavenly Heel* → 3x *Ascalon's Mercy* combo.
+- Thordan then auto-attacks one more time before casting *Aetheric Burst* as the enrage.
+
+Once Thordan's HP reaches **under 3%**, he will stumble, yield, and beg for mercy. **Do not kill Thordan.**
 
 ## Frequently Asked Questions
 
@@ -203,6 +215,12 @@ My preferred strat is an upside-down version of the "Komazou" strat, which split
 <table>
   <tr><td><p>This is just for simplification- having the Dooms "North" (towards Ser Guerrique) couples the Dooms to North/South positions.</p>
   <p>That, in turn means that players can dodge based on whether they have Doom or not (Dooms dodge immediately, non-Dooms next), instead of adding a second layer of whether they're North or South.</p></td></tr>
+</table>
+</details>
+<details markdown=block>
+<summary><b>[Meteors]</b> Why caster LB2 instead of ranged LB2?</summary>
+<table>
+  <tr><td><p>A caster LB2 can target a Meteor and hit the two adjacent Meteors. A ranged LB2 will need to be properly aimed to hit three Meteors.</p></td></tr>
 </table>
 </details>
 <details markdown=block>
