@@ -32,7 +32,7 @@ Players get tethered with either blue or red tethers where:
 
 <table>
   <tr>
-    <td width="50%"><p><b>1.</b> Ghosts of Haurchefant and Ysayle spawn.</p><ul><li>Haurchefant tethers to a random player.</li><li>Ysayle tethers to to Alphinaud.</li></ul>All players stack on Alphinaud (who's standing south of center) to get the two buffs from Haurchefant and Ysayle that lets you attack the two eyes.</td>
+    <td width="50%"><p><b>1.</b> Ghosts of Haurchefant and Ysayle spawn.</p><ul><li>Haurchefant tethers to a random player.</li><li>Ysayle tethers to to Alphinaud.</li></ul><p>All players stack on Alphinaud (who's standing south of center) to get the two buffs from Haurchefant and Ysayle that lets you attack the two eyes.</p><p>This also means if a player dies and is revived, they will lose Haurchefant's and Ysayle's buffs and be unable damage the eyes.</p></td>
     <td><img src="images/eyes_01.jpg"></td>
   </tr>
   <tr>
@@ -40,12 +40,12 @@ Players get tethered with either blue or red tethers where:
     <td><img src="images/eyes_02.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>3.</b> After the eyes cast <b>Hatebound</b>, blue and red tethers spawn and attach to four random players each.</p>
+    <td><p><b>3.</b> After the eyes cast <em>Hatebound</em>, blue and red tethers spawn and attach to four random players each.</p>
     <ul>
       <li><b>Tanks, Healers:</b> Want <b>red</b> tethers</li>
       <li><b>DPS:</b> Want <b>blue</b> tethers</li>
     </ul>
-    If you have the <b>wrong</b> tether, stack on top of Estinien, who's in the middle of the arena to swap with someone else (who will also have the wrong tether).
+    If you have the <b>wrong-coloured</b> tether/debuff, stack on top of Estinien, who's in the middle of the arena to swap with someone else (who will also have the wrong tether).
     </td>
     <td><img src="images/eyes_03.jpg"></td>
   </tr>
@@ -67,19 +67,18 @@ Players get tethered with either blue or red tethers where:
   </tr>
   <tr>
     <td><p><b>8.</b> First set of dives.</p><p><b>Healers</b> swap with the two dive targets.</p>
-    <pre><code>Starting from North:
-    ccw: H1 > H2 :cw</code></pre>
+    <p style="text-align:center"><b>ccw from N:</b> H1 > H2 <b>:cw from N</b></p>
     <p>Remember which two DPS were hit here, as those two DPS will be the ones swapping tethers after the third set of dives.</p></td>
     <td><img src="images/eyes_08.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>9.</b> Second set of dives.</p><p><b>Tanks</b> swap with the two dive targets.</p><pre><code>Starting from North:
-    ccw: MT > ST :cw</code></pre></td>
+    <td><p><b>9.</b> Second set of dives.</p><p><b>Tanks</b> swap with the two dive targets.</p>
+    <p style="text-align:center"><b>ccw from N:</b> MT > ST <b>:cw from N</b></p></td>
     <td><img src="images/eyes_09.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>10.</b> Third set of dives.</p><p>The <b>two DPS</b> that were hit earlier swap with the two dive targets.</p><pre><code>Starting from North:
-    ccw: D1 > D2 > D3 > D4 :cw</code></pre>
+    <td><p><b>10.</b> Third set of dives.</p><p>The <b>two DPS</b> that were hit earlier swap with the two dive targets.</p>
+    <p style="text-align:center"><b>ccw from N:</b> D1 > D2 > D3 > D4 <b>:cw from N</b></p>
     <p><em>(In this example, D1 and D3 were hit earlier in Step 8.)</em></p></td>
     <td><img src="images/eyes_10.jpg"></td>
   </tr>
@@ -90,11 +89,6 @@ Players get tethered with either blue or red tethers where:
     <td><img src="images/eyes_11.jpg"></td>
   </tr>
 </table>
-
-### Notes
-
-- The only thing that affects how much damage the red eye takes is the size of the orbs when taken. How much damage the players actually take (through shields, mitigations) does **not** affect the damage the red eye takes.
-- If a player dies and is revived, they will be unable to deal damage to the eyes as they will have lost Haurchefant's and Ysayle's buffs.
 
 # Saving Haurchefant
 
@@ -127,5 +121,11 @@ If Haurchefant dies in this phase, the fight loops back to Thordan in Phase 2.
 <summary><b>[Clawbound/Fangbound]</b> Do mitigations affect the amount of damage taken by the Left Eye (or HP recovered by the Right Eye)?</summary>
 <table>
   <tr><td><p>No, mitigations do not affect the amount of HP recovered or damage taken.</p><p>It's a binary "did you get hit by this mechanic or not" decision.</p></td></tr>
+</table>
+</details>
+<details markdown=block>
+<summary><b>[Clawbound/Fangbound]</b> How much HP will the Left Eye take over the course of the Mirage Dives?</summary>
+<table>
+  <tr><td>The Left Eye will take a total of <b>40%</b> of its max HP during Mirage Dives, so there's no reason to damage it past that point during the orbs phase.</td></tr>
 </table>
 </details>
