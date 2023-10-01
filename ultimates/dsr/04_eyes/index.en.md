@@ -129,3 +129,14 @@ If Haurchefant dies in this phase, the fight loops back to Thordan in Phase 2.
   <tr><td>The Left Eye will take a total of <b>40%</b> of its max HP during Mirage Dives, so there's no reason to damage it past that point during the orbs phase.</td></tr>
 </table>
 </details>
+<details markdown=block>
+<summary><b>[Haurchefant]</b> WHMs can Benediction Haurchefant- what other abilities work?</summary>
+<table>
+  <tr>
+    <td>
+      <p>Read the tooltips carefully. Abilities that <em>can</em> be used on Haurchefant will not put any restrictions on who can be targeted.</p><p>For example, WHMs can Benediction Haurchefant:</p>
+      <blockquote>"Restores all of <b>a target's</b> HP.</blockquote>
+      <p>While other abilities that cannot be used on Haurchefant, like a SGE's Haima say:</p>
+      <blockquote>Erects a magicked barrier around <b>self or target party member</b> that absorbs damage equivalent to a heal of 300 potency.</blockquote></td></tr>
+</table>
+</details>
