@@ -242,3 +242,9 @@ You may see the square markers rotated 90 degrees clockwise in Japanese parties.
   <tr><td><p>The Damage Down debuff in this phase lowers a player's damage by <b>25%</b>.</p></td></tr>
 </table>
 </details>
+<details markdown=block>
+<summary><b>[Chimeric Succession (Limit Cut 2)]</b> Are the numbers baitable?</summary>
+<table>
+  <tr><td><p>The four numbered players are the four <b>furthest</b> people from the boss, with number 1 going to the furthest player, 2 goes to the second furthest, and so on.</p></td></tr>
+</table>
+</details>
