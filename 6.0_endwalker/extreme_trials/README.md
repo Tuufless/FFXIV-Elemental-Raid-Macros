@@ -15,3 +15,4 @@ permalink: /6.0_endwalker/extreme_trials/
 - **Barbariccia EX** - [Storm's Crown (Extreme)](barbariccia/README.md)
 - **Rubicante EX** - [Mount Ordeals (Extreme)](rubicante/README.md)
 - **Golbez EX** - [The Voidcast Dais (Extreme)](golbez/README.md)
+- **Zeromus EX** - [The Abyssal Fracture (Extreme)](zeromus/README.md)

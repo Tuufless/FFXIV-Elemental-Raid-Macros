@@ -19,6 +19,7 @@ The level cap for Endwalker is **Level 90**.
 - **Barbariccia EX** - [Storm's Crown (Extreme)](extreme_trials/barbariccia/README.md)
 - **Rubicante EX** - [Mount Ordeals (Extreme)](extreme_trials/rubicante/README.md)
 - **Golbez EX** - [The Voidcast Dais (Extreme)](extreme_trials/golbez/README.md)
+- **Zeromus EX** - [The Abyssal Fracture (Extreme)](extreme_trials/zeromus/README.md)
 
 ## Savage
 

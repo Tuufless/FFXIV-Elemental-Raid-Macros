@@ -13,15 +13,15 @@ Because Elemental is ultimately a Japanese DC, these macros are for **Japanese**
 
 Of course, there will probably be small differences between the macros here and the ones you may encounter in PF- use the ones here as a base to work with.
 
-## Current content (Patch 6.4)
+## Current content (Patch 6.5)
 
 The current item level cap is **iLvl 665**.
 
 **Extreme Trials:**
-- **Golbez EX** - [The Voidcast Dais (Extreme)](6.0_endwalker/extreme_trials/golbez/README.md)
+- **Zeromus EX** - [The Abyssal Fracture (Extreme)](6.0_endwalker/extreme_trials/zeromus/README.md)
 
 **Unreal Trial:**
-- **Zurvan** - [Containment Bay Z1T9 (Unreal)](3.0_heavensward/extreme_trials/zurvan/README.md)
+- **Thordan** - [The Singularity Reactor (Unreal)](3.0_heavensward/extreme_trials/thordan/README.md)
 
 **Savage Raids:**
 - **P9S** - [Anabaseios: The Ninth Circle (Savage)](6.0_endwalker/savage_raids/p9s/README.md)
