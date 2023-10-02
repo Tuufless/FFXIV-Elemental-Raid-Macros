@@ -10,6 +10,6 @@
 ■ KoR #2 Towers:　
 　　(closest) Melee → Healer → Ranged (far)
 　Towers → Gather mid → Knockback + Stack
-■KoR #3　※ Take outer knight as N
+■ KoR #3　※ Take outer knight as N
 　Stack → NW　Tether → SW　Dive → E
-■KoR #4　Gather behind boss → Spread
+■ KoR #4　Gather behind boss → Spread
