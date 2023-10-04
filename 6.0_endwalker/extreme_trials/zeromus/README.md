@@ -9,16 +9,16 @@ permalink: /6.0_endwalker/extreme_trials/zeromus/
 
 # The Abyssal Fracture (Extreme)
 
-<div style="background-color: #200 ; padding: 10px; border: 1px solid;">
-<b>Game8 has not yet published their article for this fight - SUBJECT TO CHANGE</b></div>
-
-PF currently uses Hamkatsu's strat:
+[Game8](https://game8.jp/ff14/557945) has gone ahead with Hamkatsu's strat:
 
 {% include youtube.html id="jfL35wWxylY" %}
 
-### Japanese
+### English
+```
+{% include_relative macros/zeromus.en.txt %}
+```
 
-*This macro will likely get updated*
+### Japanese
 ```
 {% include_relative macros/zeromus.jp.txt %}
 ```
