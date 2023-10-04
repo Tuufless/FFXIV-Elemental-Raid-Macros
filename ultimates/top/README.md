@@ -14,7 +14,8 @@ The PF strat is starting to settle.
 
 ### BiS Notes
 
-- Use your i630 BiS.
+- The Omega Protocal is a current Ultimate, and is **not** outgeared yet.
+    - BiS will be a mix of i630 gear, and i635 gear from The Lunar Subterrane.
 
 Looking towards the future:
 
