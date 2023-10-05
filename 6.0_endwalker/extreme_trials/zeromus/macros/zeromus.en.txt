@@ -5,7 +5,7 @@ D3　　　D4 | ■ Meteor Impact
 　H1　H2　 | W ← H1D3/MTD1/STD2/H2D4 → E
 ■ Visceral Whirl + Tethers
 　DPS：N　T/H：S
-■ Sparking/Branding Flare
+■ Branding/Sparking Flare
 　【Towers】W：MTH1D1D3　E：STH2D2D4
 　　MT/D1　ST/D2　　　Branding → Pairs
 　　　　　  ◆　　　　　　 Sparking → Spread
