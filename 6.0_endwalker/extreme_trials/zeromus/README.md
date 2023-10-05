@@ -28,3 +28,12 @@ permalink: /6.0_endwalker/extreme_trials/zeromus/
 - The `AB` markers are for the party to stack at during Black Hole, while the `12` markers are for the blue marker.
 
 ![](images/markers.jpg)
+
+## Frequently Asked Questions
+
+<details markdown=block>
+<summary><b>[Meteors]</b> Can a tank invuln the tethers and not stretch their tether instead?</summary>
+<table>
+  <tr><td>Alas, no- the damage from the tethers ignores invulnerability.</td></tr>
+</table>
+</details>

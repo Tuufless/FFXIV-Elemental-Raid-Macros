@@ -50,3 +50,15 @@ You can use markers in this fight, but it's not really needed as Thordan leaves 
 ```
 
 </details>
+
+
+## Frequently Asked Questions
+
+<details markdown=block>
+<summary><b>[Knights of the Round 4]</b> Why do people LB3 Ser Zephirin here?</summary>
+<table>
+  <tr><td><p>Thordan is immune while tethered to Ser Zephirin.</p>
+  <p>If you're reaching this part of the fight, chances are something has gone wrong in the previous Knights of the Round for Thordan to still be alive at this point.</p>
+  <p>If that's the case, then there's also a good chance that the party may struggle to bring Ser Zephirin's HP low enough to survive this Sacred Cross.</p></td></tr>
+</table>
+</details>
