@@ -34,6 +34,6 @@ permalink: /6.0_endwalker/extreme_trials/zeromus/
 <details markdown=block>
 <summary><b>[Meteors]</b> Can a tank invuln the tethers and not stretch their tether instead?</summary>
 <table>
-  <tr><td>Alas, no- the damage from the tethers ignores invulnerability.</td></tr>
+  <tr><td><p>Alas, no- the damage from the tethers ignores invulnerability.</p><p>With some help from the party, an unstretched tether <em>can</em> be super-mitigated- it will hit a tank for about 300% of their max HP (remember there are Max HP down debuffs at the time!).</p></td></tr>
 </table>
 </details>
