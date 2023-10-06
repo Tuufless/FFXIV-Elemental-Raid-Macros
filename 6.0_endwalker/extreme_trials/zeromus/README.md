@@ -25,9 +25,29 @@ permalink: /6.0_endwalker/extreme_trials/zeromus/
 
 ## Markers
 
-- The `AB` markers are for the party to stack at during Black Hole, while the `12` markers are for the blue marker.
+All markers (except for a center marker) mark safe spots during Visceral Whirl.
+
+In addition, the `AB` markers are for the party to stack at during Black Hole, while the `12` markers are for the marked player dropping the Black Hole.
 
 ![](images/markers.jpg)
+<details markdown=block>
+<summary>XIVLauncher WaymarkPresetPlugin positions</summary>
+
+```json
+{
+  "Name":"Zeromus EX",
+  "MapID":965,
+  "A":{"X":93.0,"Y":0.0,"Z":81.2,"ID":0,"Active":true},
+  "B":{"X":107.0,"Y":0.0,"Z":81.2,"ID":1,"Active":true},
+  "C":{"X":0.0,"Y":0.0,"Z":0.0,"ID":2,"Active":false},
+  "D":{"X":0.0,"Y":0.0,"Z":0.0,"ID":3,"Active":false},
+  "One":{"X":81.2,"Y":0.0,"Z":81.2,"ID":4,"Active":true},
+  "Two":{"X":118.8,"Y":0.0,"Z":81.2,"ID":5,"Active":true},
+  "Three":{"X":118.8,"Y":0.0,"Z":93.0,"ID":6,"Active":true},
+  "Four":{"X":81.2,"Y":0.0,"Z":93.0,"ID":7,"Active":true}
+}
+```
+</details>
 
 ## Frequently Asked Questions
 
