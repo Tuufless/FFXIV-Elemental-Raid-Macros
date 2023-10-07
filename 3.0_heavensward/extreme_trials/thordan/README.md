@@ -9,7 +9,7 @@ permalink: /3.0_heavensward/extreme_trials/thordan/
 
 # The Minstrel's Ballad: Thordan's Reign
 
-A more up-to-date reference would be Nukemaru's guide:
+A more up-to-date reference would be Nukemaru's guide, which [Game8](https://game8.jp/ff14/557234) also featured:
 
 {% include youtube.html id="MexDR_KSmZc" %}
 
