@@ -25,7 +25,7 @@ A more up-to-date reference would be Nukemaru's guide, which [Game8](https://gam
 
 ## Markers
 
-You can use markers in this fight, but it's not really needed as Thordan leaves behind his sword at North for the parts where you have map-relative spreads.
+You can use markers in this fight, but they're not really needed as Thordan leaves his sword behind at true North for the parts where you have map-relative spreads.
 
 - `ABCD` are for orientation.
 - The `1` marker is for the marked healer at the first Knights of Round mechanic.
@@ -65,14 +65,8 @@ You can use markers in this fight, but it's not really needed as Thordan leaves 
 
 </details>
 
+## Notes
 
-## Frequently Asked Questions
+You don't *have* to destroy all the small Comet Circles during the Meteors phase- you can let one explode and still survive (it will deal a little over half the party's max HP).
 
-<details markdown=block>
-<summary><b>[Knights of the Round 4]</b> Why do people LB3 Ser Zephirin here?</summary>
-<table>
-  <tr><td><p>Thordan is immune while tethered to Ser Zephirin.</p>
-  <p>If you're reaching this part of the fight, chances are something has gone wrong in the previous Knights of the Round for Thordan to still be alive at this point.</p>
-  <p>If that's the case, then there's also a good chance that the party may struggle to bring Ser Zephirin's HP low enough to survive this Sacred Cross.</p></td></tr>
-</table>
-</details>
+If your party is struggling with this phase, you can choose to ignore the north Comet (which is easily recognisable via Thordan's sword just beside it).
