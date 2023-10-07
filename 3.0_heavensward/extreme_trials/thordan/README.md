@@ -48,6 +48,20 @@ You can use markers in this fight, but it's not really needed as Thordan leaves 
   "Four":{"X":0.0,"Y":0.0,"Z":0.0,"ID":7,"Active":false}
 }
 ```
+```json
+{
+  "Name":"Thordan Unreal",
+  "MapID":963,
+  "A":{"X":0.0,"Y":0.039,"Z":-19.0,"ID":0,"Active":true},
+  "B":{"X":19.0,"Y":0.039,"Z":0.0,"ID":1,"Active":true},
+  "C":{"X":0.0,"Y":0.039,"Z":19.0,"ID":2,"Active":true},
+  "D":{"X":-19.0,"Y":0.039,"Z":0.0,"ID":3,"Active":true},
+  "One":{"X":8.03,"Y":0.039,"Z":-17.22,"ID":4,"Active":true},
+  "Two":{"X":0.0,"Y":0.0,"Z":0.0,"ID":5,"Active":false},
+  "Three":{"X":0.0,"Y":0.0,"Z":0.0,"ID":6,"Active":false},
+  "Four":{"X":0.0,"Y":0.0,"Z":0.0,"ID":7,"Active":false}
+}
+```
 
 </details>
 
