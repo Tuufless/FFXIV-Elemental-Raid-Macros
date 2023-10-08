@@ -17,7 +17,7 @@ permalink: /ultimates/uwu/02_ifrit/
 
 ## Waking Ifrit
 
-Infernal Nails can be hit by baited Violent Eruptions. When a Nail is hit by an Eruption, it gains a stack (to up two) and increases in size.
+Infernal Nails can be hit by baited Violent Eruptions. When a Nail is hit by an Eruption, it gains a stack (max two) and increases in size.
 
 Each stack it receives does the following:
 
