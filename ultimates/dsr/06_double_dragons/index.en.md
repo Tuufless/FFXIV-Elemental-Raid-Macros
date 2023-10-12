@@ -243,10 +243,13 @@ When dropping Akh Morns, the most efficient movement (geometrically) is to move 
     <td>
       <p><b>6.</b> Spreads will go towards Nidhogg (west), stacks will go towards Hraesvelgr (east).</p>
       <p>A general priority order would resemble:</p>
-      <pre><code>(Center) Tanks > Healers > Ranged > Melee (Edge)</code></pre>
+      <p style="text-align:center">(Center) Tanks > Healers > Ranged > Melee (Edge)</p>
       <p>There is enough space for two "spreads" to stand side-by-side if they are on the sides of the safe zone.</p>
     </td>
-    <td><img src="images/wroth_flames_ex_01_06.jpg"></td>
+    <td>
+      <img src="images/wroth_flames_ex_01_06a.jpg">
+      <img src="images/wroth_flames_ex_01_06b.jpg">
+    </td>
   </tr>
   <tr>
     <td>
