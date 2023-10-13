@@ -475,12 +475,13 @@ The reason why we did not stack opposite tethers in Wyrmsbreath #2 was because w
   </tr>
 </table>
 
-## Notes
+After both dragons *Touchdown*, they will each start casting their enrage, *Revenge of the Horde*.
 
-* DRK is the only tank that doesn't *actually* need Rampart in this phase, as Dark Mind's cooldown is quick enough for it to be available for both Hallowed Wings.
-* There are strats where only one tank invulns Cauterize, or neither tank invulns Cauterize in order to have a 1-1-6 Akh Morn's edge in P7. While the recommended PF strat is to just invuln Cauterize, a static may consider having just one tank invuln Hraesvelgr's Cauterize (and have the other mitigate Nidhogg's). I personally wouldn't recommend having both tanks mitigate Cauterize.
-* If a tank was hit by a fire or ice tether in Wyrmsbreath #2, they should also go in front of the appropriate dragon to get their debuff cleansed by Cauterize.
-* If someone happens to move after the fire debuff turns into Pyretic, they should keep moving into the wall, or into Nidhogg's side so they do **not** die to Hraesvelgr.
+After the two dragons are defeated, the two dragon eyes will be left behind. Just like before, they will do raid-wide damage with a bleed (*Resentment*).
+
+This time around, if Thordan was spared in the previous phase, he will jump down and do another raid-wide with a bleed on the party (*Shockwave*) before taking the eyes for his own, starting his transformation to Dragonking Thordan.
+
+When the bleed from *Shockwave* disappears, **heavily shield and mitigate** in order to survive *Alternative End*, the final raid-wide damage that marks the transition to the final phase *(Dragonking Thordan will not be targetable during this)*.
 
 ## Frequently Asked Questions
 
@@ -494,5 +495,11 @@ The reason why we did not stack opposite tethers in Wyrmsbreath #2 was because w
 <summary><b>[Wroth Flames]</b> Is there a pattern to how the debuffs are assigned?</summary>
 <table>
   <tr><td><p>Unfortunately not- the debuff distribution is random.</p><p>Here's an example where two of the no-debuff players are both DPS.</p></td><td><img src="images/wroth_flames_debuffs.jpg"></td></tr>
+</table>
+</details>
+<details markdown=block>
+<summary><b>[General]</b> Can you defeat one dragon early?</summary>
+<table>
+  <tr><td>No. Each dragon will have a floor of 1HP until they start casting their enrage.</td></tr>
 </table>
 </details>

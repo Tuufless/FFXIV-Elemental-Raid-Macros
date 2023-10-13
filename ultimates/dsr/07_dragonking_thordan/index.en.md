@@ -60,24 +60,94 @@ Alternative End needs at least six party mitigations for everyone to survive.
 
 If any extra mitigations are available, it's recommended they be slotted into either Gigaflare's Edge, or Akh Morn's Edge #2.
 
-<div style="background-color: #002 ; padding: 10px; border: 1px solid;"><b>Note:</b> H2's 30s mitigations should be used when Akh Morn's Edge begins its cast for it to be back up in time for Gigaflare's Edge.</div>
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;"><b>Tip:</b> H2's 30s mitigations should be used when Akh Morn's Edge begins its cast for it to be back up in time for Gigaflare's Edge.</div>
 
-## Exaflare's Edge
+## Fire/Ice of Ascalon
+
+All of Dragonking Thordan's mechanics are combined with either Fire or Ice of Ascalon, which resolves together at the beginning of the mechanic.
 
 <table>
   <tr>
-    <td width="50%"><p>Have whoever's tanking face Dragonking Thordan either true North, or true South- this lets you also use the floor markings to guide your movement.</p><p>A backwards dodge (see the diagram) will <b>always</b> be safe.</p></td>
-    <td><img src="images/dragonking_thordan_01.jpg"></td>
+    <td width="34%"><p>If Dragonking Thordan's swords glow <b>red</b>, he will use <em>Fire of Ascalon</em>, which is a point-blank AoE.</p><p>Players must be <b>outside</b> his targeting circle.</p></td>
+    <td width="33%"><img src="images/fire_of_ascalon_01.jpg"></td>
+    <td><img src="images/fire_of_ascalon_02.jpg"></td>
+  </tr>
+  <tr>
+    <td width="34%"><p>If Dragonking Thordan's swords glow <b>blue</b>, he will use <em>Ice of Ascalon</em>, which is a donut AoE.</p><p>Players must be <b>inside</b> his targeting circle.</p></td>
+    <td width="33%"><img src="images/ice_of_ascalon_01.jpg"></td>
+    <td><img src="images/ice_of_ascalon_02.jpg"></td>
   </tr>
 </table>
 
 ## Trinity
 
-- It's easy for the tanks to lose track of who is supposed to be tanking the boss. Some things to help keep track are:
-    - Add text to a Provoke macro so the chat log has a record of who last Provoked.
-    - Look at the time remaining on the two Light/Dark debuff timers- **if the Dark debuff is lower than Light (or if you have no Dark debuff), you should be holding aggro.**
-- We put D1 and D2 after Exaflares as they will naturally be the closest if they do an uptime dodge.
-- We put H1 and H2 after Gigaflares as healers are the squishiest and there are only two Gigaflare's Edge.
+After each mechanic, Dragonking Thordan will auto-attack twice.
+
+<table>
+  <tr>
+    <td width="50%"><p>Each auto-attack hits <em>three</em> players:</p><ul>
+      <li>The player with highest aggro will get hit with dark damage, and gain a stack of Dark Resistance Down.</li>
+      <li>The player with the second-highest aggro will get hit with light damage, and gain a stack of Light Resistance Down.</li>
+      <li>The <b>closest</b> player will get hit, and gain a stack of Dark Resistance Down, Light Resistance Down, and Physical Vulnerability Up.</li>
+    </ul></td>
+    <td><img src="images/trinity.jpg"></td>
+  </tr>
+</table>
+
+Over the course of the fight, the non-tank players will rotate in to take one auto-attack each.
+
+<table>
+  <tr>
+    <td><b>After Exaflare's Edge</b></td>
+    <td>D1 → D2</td>
+  </tr>
+  <tr>
+    <td><b>After Akh Morn's Edge</b></td>
+    <td>D3 → D4</td>
+  </tr>
+  <tr>
+    <td><b>After Gigaflare's Edge</b></td>
+    <td>H1 → H2</td>
+  </tr>
+</table>
+
+Because of the stacking Light/Dark Resistance Down debuffs on the tanks, the tanks will be constantly swapping aggro throughout the fight.
+
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;"><p><b>Tip:</b> It's easy for the tanks to lose track of who is supposed to be tanking the boss. To help keep track of things:</p>
+<ul>
+  <li>Add text to a Provoke macro so the chat log has a record of who last Provoked.</li>
+  <li>The tank with <b>0 or 1 stack of Dark Resistance Down</b> should be holding aggro.</li>
+</ul></div>
+
+With all that setup, we can now go over Dragonking Thordan's major mechanics.
+
+## Exaflare's Edge
+
+Have the tank with aggro point Dragonking Thordan either North or South before the start of this mechanic.
+
+<table>
+  <tr>
+    <td width="50%"><p><b>1.</b> Three Exaflare telegraphs will appear relative to Thordan's orientation.</p></td>
+    <td><img src="images/exaflare_01.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>2.</b> Focus on the bright dot at the center of the Exaflares. This will be your first dodge point.</p>
+    <p>If Dragonking Thordan is facing either north or south, you can also use the floor markings to guide your movement.</p></td>
+    <td><img src="images/exaflare_02.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>3.</b> When the Exaflares resolve, dodge to where the bright dot was.</p></td>
+    <td><img src="images/exaflare_03.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>4.</b> Continue dodging the next set of Exaflare AoEs.</p><p>Dodging backwards (see the diagram) will <b>always</b> be safe.</p><p>As you get more experienced with the mechanic, you will notice Exaflare patterns where you can maintain melee uptime <em>(dodging to the left in this case)</em>, but this is not necessary.</p></td>
+    <td><img src="images/exaflare_04.jpg"></td>
+  </tr>
+</table>
+
+Thordan will then auto-attack twice, which should be taken by the two tanks, and D1, followed by D2.
+
+The tanks should continue to face Thordan north or south, away from the party.
 
 ## Akh Morn's Edge
 
@@ -91,27 +161,35 @@ The blue tower deals increased damage, and is meant to be taken by the tanks.
 
 All players must be **inside** Thordan's hitbox in order to be within healing range of both healers- remember to step inside if Thordan's swords were originally red.
 
-Akh Morn's Edge will be resolved with a 3-3-2 split.
+*Akh Morn's Edge* will be resolved with a 3-3-2 split.
 
 <table>
   <tr>
     <td width="50%"><ul><li><b>Front-left:</b> H1, D1, D3</li><li><b>Front-right:</b> H2, D2, D4</li><li><b>Back:</b> MT, ST</li></ul></td>
-    <td><img src="images/dragonking_thordan_02a.jpg"></td>
+    <td><img src="images/akh_morn.jpg"></td>
   </tr>
 </table>
+
+Thordan will then auto-attack twice, which should be taken by the two tanks, and D3, followed by D4.
+
+Where Thordan faces after *Akh Morn's Edge* doesn't matter.
 
 ## Gigaflare's Edge
 
 <table>
   <tr>
     <td width="50%"><p><em>Gigaflare's Edge</em> is a series of three raid-wide AoEs, each with an epicenter in a triangle going clockwise or anti-clockwise around Dragonking Thordan.</p><p>This is <em>not</em> falloff damage- standing inside the marked region <em>(illustrating a South Gigaflare)</em> will one-shot a player, while standing outside just deals heavy damage.</p><p>Mitigations for <em>Gigaflare's Edge</em> should be timed as the entire sequence lasts 8 seconds, while several debuffs (Reprisal, Feint, Addle) lasts only 10 seconds.</p></td>
-    <td><img src="images/dragonking_thordan_03.jpg"></td>
+    <td><img src="images/gigaflare.jpg"></td>
   </tr>
 </table>
 
+Thordan will then auto-attack twice, which should be taken by the two tanks, and H1, followed by H2.
+
 After *Gigaflare's Edge*, whoever's tanking the boss should face the boss **directly North or South** to prepare for *Exaflare's Edge*.
 
-The loop then repeats from *Exaflare's Edge*. There are three loops in total, except the third *Gigaflare's Edge* is instead replaced by Dragonking Thordan's enrage, *Morn Afah's Edge*.
+The loop then repeats from *Exaflare's Edge*.
+
+There are three loops in total, except the third *Gigaflare's Edge* is instead replaced by Dragonking Thordan's enrage, *Morn Afah's Edge*.
 
 ## Morn Afah's Edge
 
