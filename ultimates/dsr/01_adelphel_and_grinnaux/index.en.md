@@ -162,7 +162,7 @@ This method allows for [full melee uptime with minimal movement](https://clips.t
     <td><img src="images/haurchefant_05.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>6.</b> Pure of Heart resolves.</p><ul><li><b>Tanks</b>: Rejoin the party stack to dodge the puddles.</li></ul></td>
+    <td><p><b>6.</b> Pure of Heart resolves.</p><p>This will be lethal unless Ser Charibert is <b>under 30% HP</b>.</p><ul><li><b>Tanks</b>: Rejoin the party stack to dodge the puddles.</li></ul></td>
     <td><img src="images/haurchefant_06.jpg"></td>
   </tr>
 </table>
