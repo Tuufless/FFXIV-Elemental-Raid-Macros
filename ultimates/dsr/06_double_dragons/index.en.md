@@ -144,6 +144,7 @@ All passes happen in the center of the arena, except for the final pass after To
         <li><b>ST:</b> South</li>
       </ul>
       <p><em>(In this example, Hraesvelgr's head is down.)</em></p>
+      <div style="background-color: #200 ; padding: 10px; border: 1px solid;"><b>Note:</b> Nidhogg's Cauterize is <em>slightly</em> larger than half the arena.</div>
     </td>
     <td><img src="images/hallowed_wings_01_01.jpg"></td>
   </tr>
