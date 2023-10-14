@@ -81,26 +81,38 @@ The markers also indicate the tether order for Act 4. Of note, 1234 overlap the 
 
 Elemental uses the [Idyllshire Act 2 strat](https://youtu.be/1sfnBHXf2nA?t=278).
 
+To begin, the boss will telegraph two sets of tethers. Each set triggers two opposite towers, and two opposite AoEs.
+
+Pay attention to which pair of **towers** get triggered first- that determines where the party moves.
+
 <table>
+  <th></th>
+  <th style="text-align:center">N/S towers first</th>
+  <th style="text-align:center">E/W towers first</th>
   <tr>
-    <td><p><b>1.</b> Break AoEs, break Dark tether</p><ul><li><b>Dark (no orb) Tank:</b> Always NW.</li><li><b>Dark Healer:</b> Always SE.</li><li><b>Fire DPS:</b> Identify your Fire partner and priority for later.</li><li><b>Everybody except Dark Tank/Healer:</b> Stack middle.</li></ul></td>
-	<td><img src="images/act_2_01.jpg"></td>
+    <td width="34%"><p><b>1.</b> Break AoEs, break Dark tether</p><ul><li><b>Dark (no orb) Tank:</b> Always NW.</li><li><b>Dark Healer:</b> Always SE.</li><li><b>Fire DPS:</b> Identify your Fire partner and priority for later.</li><li><b>Everybody except Dark Tank/Healer:</b> Stack middle.</li></ul></td>
+	<td width="33%"><img src="images/act_2_1a.jpg"></td>
+  <td><img src="images/act_2_1b.jpg"></td>
   </tr>
   <tr>
-    <td><p><em>(The following diagrams assume the N/S towers will resolve first- rotate 90 degrees anti-clockwise if E/W towers will resolve first instead.)</em></p><p><b>2.</b> After baiting AoEs, everyone moves into position for the first set of mechanics.</p><ul><li>Dark Tank/Healer always get towers.</li><li>Fire Tank + Healer break their tether.</li></ul></td>
-	<td><img src="images/act_2_02.jpg"></td>
+    <td><p><b>2.</b> After baiting AoEs, everyone moves into position for the first set of mechanics.</p><ul><li>Dark Tank/Healer always get towers.</li><li>Fire Tank + Healer break their tether.</li></ul></td>
+	<td width="33%"><img src="images/act_2_2a.jpg"></td>
+  <td><img src="images/act_2_2b.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>3.</b> First set of mechanics resolve.</p></td>
-	<td><img src="images/act_2_03.jpg"></td>
+    <td><p><b>3.</b> First set of towers and fire stacks resolve.</p></td>
+	<td width="33%"><img src="images/act_2_3a.jpg"></td>
+  <td><img src="images/act_2_3b.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>4.</b> Everyone moves in for healing, then moves to prepare for the second set of mechanics:</p><ul><li><b>Healers:</b> Rotate <b>clockwise</b></li><li><b>Dark Tank:</b> Rotate <b>clockwise</b> to the next tower.</li><li><b>Fire Tank:</b> Rotate <b>anti-clockwise</b> to the next stack.</li><li><b>Fire DPS:</b> Break your tether.</li></ul><p>Everyone rotates clockwise <em>except</em> the Fire Tank and the Fire DPS in the following priority:</p><p>clockwise: D1 > D2 > D3 > D4: anti-clockwise</p></td>
-	<td><img src="images/act_2_04.jpg"></td>
+    <td><p><b>4.</b> Everyone moves in for healing, then moves to prepare for the second set of mechanics:</p><ul><li><b>Healers:</b> Rotate <b>clockwise</b></li><li><b>Dark Tank:</b> Rotate <b>clockwise</b> to the next tower.</li><li><b>Fire Tank:</b> Rotate <b>anti-clockwise</b> to the next stack.</li><li><b>Fire DPS:</b> Break your tether.</li></ul><p>Everyone rotates clockwise <em>except</em> the Fire Tank and the Fire DPS in the following priority:</p><p style="text-align:center"><b>cw:</b> D1 > D2 > D3 > D4 <b>:ccw</b></p></td>
+	<td width="33%"><img src="images/act_2_4a.jpg"></td>
+  <td><img src="images/act_2_4b.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>5.</b> Second set of mechanics resolve.</p></td>
-	<td><img src="images/act_2_05.jpg"></td>
+    <td><p><b>5.</b> Second set of towers and fire stacks resolve.</p></td>
+	<td width="33%"><img src="images/act_2_5a.jpg"></td>
+  <td><img src="images/act_2_5b.jpg"></td>
   </tr>
 </table>
 
