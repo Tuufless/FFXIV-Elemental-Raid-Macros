@@ -103,14 +103,83 @@ For example, if the first two explosions were the ones below (east and west), th
 
 There are two main ways of doing Firestorms of Asphodelos (FoA) in PF.
 
-- **Japanese** parties will do follow Inumaru's strat. ([Inumaru FoA](https://imgur.com/a/V0UWZym))
-  - **Tanks** + Melee north
-  - **Healers** + Ranged south
+### Firestorms of Asphodelos (Inumaru)
 
-- **English** parties will do "my" strat instead. ([Tuufless FoA](https://imgur.com/a/yCdVkTW))
-  - Explanations [in English](https://ffxiv.link/061500) and [in Japanese](https://ffxiv.link/062054)
-  - **Healers** + Melee north
-  - **Tanks** + Ranged south.
+**Japanese** parties will follow Inumaru's strat. Inumaru's strat maintains the pairs from the earlier Experimental Gloryplume:
+
+- **Tanks** + Melee north
+- **Healers** + Ranged south
+
+<table>
+  <tr>
+    <td><p><b>Experimental Ashplume (Spread)</b></p>
+    <p>Dodge the "pizza" AoEs, followed by stacking or spreading as required.</p>
+    <p>If the party needs to spread, follow this formation.</p></td>
+    <td><img src="images/foa_inumaru_01.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>Storms of Asphodelos</b></p>
+    <p>Dodge the "pizza" AoEs, and move into position:</p>
+    <ul>
+      <li><b>Tanks:</b> Take the tethers, stand outside the boss's target circle to the NW and NE.</li>
+      <li><b>H1, H2, D3:</b> Bait the fire tornadoes.</li>
+      <li><b>D1, D2, D4:</b> Fan out along the south side, inside the boss's target circle. Use the floor markings to help with positioning.</li>
+      </ul>
+    </td>
+    <td><img src="images/foa_inumaru_02.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>Darkblaze Twister (Spread)</b></p>
+    <p>Start from the black tornado, move clockwise around the boss to bait five sets of AoEs before getting knocked back. Stay close to the other tornados to dodge the donut AoEs before stacking or spreading as needed.</p>
+    <p>Using the black tornado as north:</p>
+    <ul>
+      <li><b>Tanks + Melee:</b> Knockback bottom-left</li>
+      <li><b>Healers + Ranged:</b> Knockback bottom-right</li>
+    </ul>
+    <p>If the party needs to spread, take up this formation.</p></td>
+    <td><img src="images/foa_inumaru_03.jpg"></td>
+  </tr>
+</table>
+
+### Firestorms of Asphodelos (Tuufless)
+
+**English** parties will do ["my" strat](https://na.finalfantasyxiv.com/lodestone/character/10898230/blog/4933610/) instead. The pairings for Firestorms of Asphodelos are different:
+
+- **Healers** + Melee north
+- **Tanks** + Ranged south.
+
+{% include youtube.html id="ETQ-lHv57n0" %}
+
+<table>
+  <tr>
+    <td><p><b>Experimental Ashplume (Spread)</b></p>
+    <p>Dodge the "pizza" AoEs, followed by stacking or spreading as required.</p>
+    <p>If the party needs to spread, follow this formation.</p></td>
+    <td><img src="images/foa_tuufless_01.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>Storms of Asphodelos</b></p>
+    <p>Dodge the "pizza" AoEs, and move into position:</p>
+    <ul>
+      <li><b>Tanks:</b> Take the tethers, stand inside the boss's target circle to the south, and invuln.</li>
+      <li><b>D1, D2, H1:</b> Stack NE of the boss, outside the target circle.</li>
+      <li><b>D3, D4, H2:</b> Bait the fire tornadoes.</li></ul>
+      <p>In the event any of the ranged players are dead, H1 (followed by D2) goes and takes their position instead.</p>
+    </td>
+    <td><img src="images/foa_tuufless_02.jpg"></td>
+  </tr>
+  <tr>
+    <td><p><b>Darkblaze Twister (Spread)</b></p>
+    <p>Start from the black tornado, move clockwise around the boss to bait five sets of AoEs before getting knocked back. Stay close to the other tornados to dodge the donut AoEs before stacking or spreading as needed.</p>
+    <p>Using the black tornado as north:</p>
+    <ul>
+      <li><b>Healers + Melee:</b> Knockback bottom-left</li>
+      <li><b>Tanks + Ranged:</b> Knockback bottom-right</li>
+    </ul>
+    <p>If the party needs to spread, take up this formation.</p></td>
+    <td><img src="images/foa_tuufless_03.jpg"></td>
+  </tr>
+</table>
 
 ## Timeline
 
