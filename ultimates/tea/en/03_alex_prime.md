@@ -128,9 +128,13 @@ Alexander Prime will then reappear in the center and begin another Chastening He
 <table>
   <tr>
     <td><b>Chastening Heat + Divine Spears #2</b></td>
-    <td><p>MT invuln.</p><p><em>(No tank swap needed after.)</em></p></td>
+    <td>MT invuln.</td>
+  </tr>
+  <tr>
   </tr>
 </table>
+
+<td width="50%"><div style="background-color: #200 ; padding: 10px; border: 1px solid;"><p><b>Note:</b> If you have a <b>PLD MT</b>, depending on how fast you cleared the previous phases, Hallowed Ground may <em>not</em> be available here.</p><p>In that event, both tanks should mitigate and swap when Chastening Heat is being cast (have the ST point the Divine Spears east).</p></div></td>
 
 Alexander Prime then auto-attacks twice and casts Wormhole Formation.
 
