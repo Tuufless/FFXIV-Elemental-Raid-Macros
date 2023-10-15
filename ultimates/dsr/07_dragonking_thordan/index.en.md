@@ -62,7 +62,11 @@ If any extra mitigations are available, it's recommended they be slotted into ei
 
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;"><b>Tip:</b> H2's 30s mitigations should be used when Akh Morn's Edge begins its cast for it to be back up in time for Gigaflare's Edge.</div>
 
-## Fire/Ice of Ascalon
+## Basic Mechanics
+
+There are a couple of details that we should first go over before going into the main mechanics loop.
+
+### Fire/Ice of Ascalon
 
 All of Dragonking Thordan's mechanics are combined with either Fire or Ice of Ascalon, which resolves together at the beginning of the mechanic.
 
@@ -79,9 +83,9 @@ All of Dragonking Thordan's mechanics are combined with either Fire or Ice of As
   </tr>
 </table>
 
-## Trinity
+### Trinity
 
-After each mechanic, Dragonking Thordan will auto-attack twice.
+After each mechanic has completed, Dragonking Thordan will auto-attack twice.
 
 <table>
   <tr>
@@ -121,7 +125,15 @@ Because of the stacking Light/Dark Resistance Down debuffs on the tanks, the tan
 
 With all that setup, we can now go over Dragonking Thordan's major mechanics.
 
-## Exaflare's Edge
+## Mechanics Loop
+
+Dragonking Thordan will execute the following loop three times:
+
+1. [Exaflare's Edge](#exaflares-edge)
+2. [Akh Morn's Edge](#akh-morns-edge)
+3. [Gigaflare's Edge](#gigaflares-edge) *(this will be replaced with [Morn Afah's Edge](#morn-afahs-edge) on the third loop.)*
+
+### Exaflare's Edge
 
 Have the tank with aggro point Dragonking Thordan either North or South before the start of this mechanic.
 
@@ -149,7 +161,7 @@ Thordan will then auto-attack twice, which should be taken by the two tanks, and
 
 The tanks should continue to face Thordan north or south, away from the party.
 
-## Akh Morn's Edge
+### Akh Morn's Edge
 
 Thordan will spawn three towers relative to where he is facing:
 
@@ -174,7 +186,7 @@ Thordan will then auto-attack twice, which should be taken by the two tanks, and
 
 Where Thordan faces after *Akh Morn's Edge* doesn't matter.
 
-## Gigaflare's Edge
+### Gigaflare's Edge
 
 <table>
   <tr>
@@ -188,8 +200,6 @@ Thordan will then auto-attack twice, which should be taken by the two tanks, and
 After *Gigaflare's Edge*, whoever's tanking the boss should face the boss **directly North or South** to prepare for *Exaflare's Edge*.
 
 The loop then repeats from *Exaflare's Edge*.
-
-There are three loops in total, except the third *Gigaflare's Edge* is instead replaced by Dragonking Thordan's enrage, *Morn Afah's Edge*.
 
 ## Morn Afah's Edge
 
