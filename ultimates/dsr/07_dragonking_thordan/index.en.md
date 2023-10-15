@@ -62,6 +62,8 @@ If any extra mitigations are available, it's recommended they be slotted into ei
 
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;"><b>Tip:</b> H2's 30s mitigations should be used when Akh Morn's Edge begins its cast for it to be back up in time for Gigaflare's Edge.</div>
 
+---
+
 ## Basic Mechanics
 
 There are a couple of details that we should first go over before going into the main mechanics loop.
@@ -124,6 +126,8 @@ Because of the stacking Light/Dark Resistance Down debuffs on the tanks, the tan
 </ul></div>
 
 With all that setup, we can now go over Dragonking Thordan's major mechanics.
+
+---
 
 ## Mechanics Loop
 
@@ -225,6 +229,8 @@ A general kill order should resemble:
 </table>
 
 Morn Afah's Edge towers will match the Akh Morn's Edge tower groups.
+
+---
 
 ## Buff windows
 
