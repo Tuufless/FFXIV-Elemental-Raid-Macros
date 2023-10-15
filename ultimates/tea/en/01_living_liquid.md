@@ -17,19 +17,27 @@ Notable changes are:
 
 <table>
   <tr>
-    <td width="50%"><p><b>1.</b> Living Liquid casts the first Cascade and the Liquid Hand spawns.</p><p><ul><li>The party orients themselves to the three water puddles.</li><li><b>MT, ST:</b> Separate Living Liquid and Hand to force Liquid Hand to an open palm.</li></ul></p><p>Living Liquid and Liquid Hand need to be kept within 5% HP of one another for the party to survive Hand of Pain.</p><p>This may require some minor adjustments, but as a base:</p><ul><li><b>MT, H1, D1, D3:</b> Living Liquid</li><li><b>ST, H2, D2, D4:</b> Liquid Hand</li></ul></td>
+    <td width="50%"><p><b>1.</b> Living Liquid casts the first Cascade and the Liquid Hand spawns.</p>
+    <p>
+      <ul>
+        <li>The party orients themselves to the three water puddles.</li>
+        <li><b>MT, ST:</b> Separate Living Liquid and Hand to force Liquid Hand to an   open palm.</li>
+      </ul>
+    </p>
+    <div style="background-color: #002 ; padding: 10px; border: 1px solid;"><b>Tip:</b> If the ST is having trouble taking the Liquid Hand's hate from the MT, the MT can momentarily turn off their tank stance when the Liquid Hand spawns to let the ST secure hate.</div>
+    <p>As a rough guide, we split the party as such:</p><ul><li><b>MT, H1, D1, D3:</b> Living Liquid</li><li><b>ST, H2, D2, D4:</b> Liquid Hand</li></ul></td>
 	<td><img src="../images/living_liquid/living_liquid_01.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>2.</b> Liquid Hand glows as an open palm.</p><p><ul><li><b>MT:</b> Provoke the Liquid Hand to stack it on top of Living Liquid.</li><li><b>MT, H1, H2:</b> Bait the first set of (telegraphed) Protean Waves from the water puddles.</li></ul></p></td>
+    <td><p><b>2.</b> If Liquid Hand has been sufficiently separated from Living Liquid, it will now glow as an open palm.</p><p><ul><li><b>MT:</b> Provoke the Liquid Hand to stack it on top of Living Liquid.</li><li><b>MT, H1, H2:</b> Bait the first set of (telegraphed) Protean Waves from the water puddles.</li></ul></p></td>
 	<td><img src="../images/living_liquid/living_liquid_02.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>3.</b> Jagd Dolls spawn, and first set of untelegraphed Protean Waves resolve.</p><p><ul><li><b>MT:</b> Invuln Living Liquid's Fluid Swing and the Living Hand's Fluid Swing.</li><li><b>MT, H1, H2:</b> Bait telegraphed Protean Waves from the puddles</li><li><b>DPS:</b> Take your assigned Jagd Doll.</li></ul></p></td>
+    <td><p><b>3.</b> Jagd Dolls spawn, and first set of untelegraphed Protean Waves resolve.</p><p><ul><li><b>MT:</b> Invuln Living Liquid's Fluid Swing and the Living Hand's Fluid Swing.</li><li><b>MT, H1, H2:</b> Bait telegraphed Protean Waves from the puddles</li><li><b>DPS:</b> Take your assigned Jagd Doll.</li></ul></p><p>The Liquid Hand will also use <em>Hand of Parting</em> here. The Hand should've been an open palm, which will wipe the raid unless the Liquid Hand is stacked on top of Living Liquid.</p></td>
 	<td><img src="../images/living_liquid/living_liquid_03.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>4.</b> The second set of untelegraphed Protean Waves resolve.</p><p><ul><li><b>D1, D2:</b> Stack on top of your doll to avoid getting hit by two Doll AoEs. Be careful not to accidentally bait the Protean Wave away from the MT.</li></ul></p></td>
+    <td><p><b>4.</b> The second set of untelegraphed Protean Waves resolve.</p><p><ul><li><b>D1, D2:</b> Stack on top of your doll to avoid getting hit by two Doll AoEs. Be careful not to accidentally bait the Protean Wave away from the MT.</li></ul></p><p>The Liquid Hand will also use <em>Hand of Pain</em> here. Living Liquid and the Liquid Hand's HP need to be kept within 5% HP of each another for the party to survive this.</p></td>
 	<td><img src="../images/living_liquid/living_liquid_04.jpg"></td>
   </tr>
   <tr>
