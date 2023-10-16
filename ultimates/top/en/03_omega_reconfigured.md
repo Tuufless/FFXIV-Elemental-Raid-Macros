@@ -381,7 +381,7 @@ PF currently resolves this using [Astoh's strat](https://twitter.com/Astoh_Shall
     <td><img src="../images/03_omega_reconfigured/monitors_pt_left_01.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>2.</b> Omega will ready Oversampled Wave Cannon (monitors), and debuff three random players with their own set of monitors.</p><p>Resolve them as follows, with all three monitor players on the other side of Omega's monitors.</p><p><em>In this example, Omega's monitors are pointing east, but they may point west instead.</em></p></td>
+    <td><p><b>2.</b> Omega will ready Oversampled Wave Cannon (monitors), and debuff three random players with their own set of monitors.</p><p>Resolve them as follows, with all three monitor players on the other side of Omega's monitors.</p><p>Note that the non-monitor player marked 2 can be near the center of the arena (but on the monitor side) to give 3 more space to work with.</p><p><em>In this example, Omega's monitors are pointing east, but they may point west instead.</em></p></td>
     <td><img src="../images/03_omega_reconfigured/monitors_pt_left_02.jpg"></td>
   </tr>
 </table>
