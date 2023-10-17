@@ -65,21 +65,28 @@ The structure of this phase can be broken down as follows:
   - [Wyrmsbreath #2](#wyrmsbreath-2)
 - [Cauterize](#cauterize)
 
-In addition, each dragon also has their own enrage condition. Enraging either dragon will cause their attacks to one-shot anyone hit (including tanks), and lower their damage taken.
+In addition, each dragon also has their own enrage condition. Causing either dragon to break their vow will result in their attacks one-shotting anyone hit (including tanks), and lower their damage taken.
 
-**Hraesvelgr will enrage if she kills *any* player.**
+### Solemn Vow
+
+This one is simple. **Hraesvelgr will enrage if she kills *any* player.**
 
 ### Mortal Vow
 
-After Wyrmsbreath #1, Nidhogg will give a random DPS a *Mortal Vow* debuff. When the debuff expires, it explodes in a small AoE, and the player that had *Mortal Vow* will now get a *Mortal Atonement* debuff.
+After Wyrmsbreath #1, Nidhogg will give a random DPS a *Mortal Vow* debuff. This debuff:
 
-*Mortal Vow* then transfers onto a random player that was hit by the AoE that *does not have Mortal Atonement*. (If additional players get hit, they get a *Suppuration* debuff that lowers their max HP).
+- Applies a light DoT on the player.
+- Significantly *reduces* healing potency.
 
-**Nidhogg will enrage of *Mortal Vow* is not passed.**
+When the debuff expires, it explodes in a small AoE, and the player that had *Mortal Vow* will now get a *Mortal Atonement* debuff that prevents them from getting *Mortal Vow* again.
+
+*Mortal Vow* transfers onto a random player that was hit by the AoE that does not have *Mortal Atonement*. (If additional players are hit, they get a *Suppuration* debuff that reduces their max HP by half).
 
 Thus, when passing *Mortal Vow*, we need exactly *two* players to stack- the player that has the debuff, and the player that is about to receive it.
 
-There are *four* Mortal Vow passes in this phase.
+**Nidhogg will enrage if *Mortal Vow* is not passed.**
+
+There are *four* passes in this phase.
 
 1. After Hallowed Wings #1
 2. After Wroth Flames (this pass is *quick*)
@@ -124,7 +131,7 @@ This first part cycles through the three main mechanics of the fight.
   </tr>
   <tr>
     <td>
-      <p><b>3.</b> Tethers appear.</p>
+      <p><b>3.</b> Fire and Ice-aspected tethers appear. The goal is to get hit by one tether of each, canceling their associated debuffs.</p>
       <ul>
         <li><b>D1, D2, D3:</b> If your pair has the same-coloured tether, swap with the other pair that also has two tethers of the opposite colour.</li>
         <li><b>H1, H2, D4:</b> Does not move.</li>
