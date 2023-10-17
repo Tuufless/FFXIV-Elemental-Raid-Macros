@@ -33,6 +33,8 @@ D□ H× H△</code></pre></td>
   </tr>
 </table>
 
+---
+
 ## Opener
 
 <table>
@@ -54,6 +56,8 @@ D□ H× H△</code></pre></td>
 </table>
 
 The party here should focus on Ser Adelphel, as Adelphel will disappear shortly. Ser Grinnaux will teleport to the center of the arena.
+
+---
 
 ## Hyperdimensional Slash
 
@@ -97,6 +101,8 @@ The party here should focus on Ser Adelphel, as Adelphel will disappear shortly.
   </tr>
 </table>
 
+---
+
 ## Playstation
 
 The MT recenters Ser Grinnaux to prepare for the Playstation mechanic.
@@ -128,6 +134,8 @@ From here, the mechanics are straightforward:
 - Ser Adelphel will cast another *Holiest of Holy* (raid-wide damage) while Ser Grinnaux will use either *Empty Dimension* (donut AoE) or *Full Dimension* (point-blank AoE).
 - Ser Adelphel will then cast a third *Holiest Hallowing*, requiring another Silence, followed by another *Holest of Holy* (raid-wide damage).
 - At this point, if both bosses are alive, they begin their enrage. If either boss dies, the other starts casting their enrage.
+
+---
 
 ## Pure of Heart
 

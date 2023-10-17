@@ -48,7 +48,36 @@ If you are already familiar with the Double Dragons phase, and just need a quick
   </tr>
 </table>
 
-## Mortal Vow
+---
+
+## Overview
+
+The structure of this phase can be broken down as follows:
+
+- First half
+  - [Wyrmsbreath #1](#wyrmsbreath-1)
+  - [Akh Afah #1](#akh-afah-1)
+  - [Hallowed Wings #1](#hallowed-wings-1)
+- [Wroth Flames](#wroth-flames)
+- Second half
+  - [Akh Afah #2](#akh-afah-2)
+  - [Hallowed Wings #2](#hallowed-wings-2)
+  - [Wyrmsbreath #2](#wyrmsbreath-2)
+- [Cauterize](#cauterize)
+
+In addition, each dragon also has their own enrage condition. Enraging either dragon will cause their attacks to one-shot anyone hit (including tanks), and lower their damage taken.
+
+**Hraesvelgr will enrage if she kills *any* player.**
+
+### Mortal Vow
+
+After Wyrmsbreath #1, Nidhogg will give a random DPS a *Mortal Vow* debuff. When the debuff expires, it explodes in a small AoE, and the player that had *Mortal Vow* will now get a *Mortal Atonement* debuff.
+
+*Mortal Vow* then transfers onto a random player that was hit by the AoE that *does not have Mortal Atonement*. (If additional players get hit, they get a *Suppuration* debuff that lowers their max HP).
+
+**Nidhogg will enrage of *Mortal Vow* is not passed.**
+
+Thus, when passing *Mortal Vow*, we need exactly *two* players to stack- the player that has the debuff, and the player that is about to receive it.
 
 There are *four* Mortal Vow passes in this phase.
 
@@ -64,13 +93,18 @@ DPS → MT → ST → D1/D2 → D3
 ```
 All passes happen in the center of the arena, except for the final pass after Touchdown (which is just done at the edge).
 
+---
+
 ## First half
+
+This first part cycles through the three main mechanics of the fight.
+
+### Wyrmsbreath #1
 
 <table>
   <tr>
     <td width="50%">
-      <p><b>1. Wyrmsbreath #1</b></p>
-      <p>Have everyone preposition to prepare for the upcoming mechanic.</p>
+      <p><b>1.</b> Have everyone preposition to prepare for the upcoming mechanic.</p>
       <ul>
         <li><b>Center:</b> D3, D4</li>
         <li><b>Bottom-left:</b> H1, D1</li>
@@ -82,8 +116,7 @@ All passes happen in the center of the arena, except for the final pass after To
   </tr>
   <tr>
     <td>
-      <p><b>2. Wyrmsbreath #1</b></p>
-      <p>More precisely, these are the anchor (H1, H2, D4) positions.</p>
+      <p><b>2.</b> More precisely, these are the anchor (H1, H2, D4) positions.</p>
       <p><b>None of these positions are in melee range.</b></p>
       <p><em>(Note the white tile that can be used as reference for the center position.)</em></p>
     </td>
@@ -91,8 +124,7 @@ All passes happen in the center of the arena, except for the final pass after To
   </tr>
   <tr>
     <td>
-      <p><b>3. Wyrmsbreath #1</b></p>
-      <p>Tethers appear.</p>
+      <p><b>3.</b> Tethers appear.</p>
       <ul>
         <li><b>D1, D2, D3:</b> If your pair has the same-coloured tether, swap with the other pair that also has two tethers of the opposite colour.</li>
         <li><b>H1, H2, D4:</b> Does not move.</li>
@@ -103,8 +135,7 @@ All passes happen in the center of the arena, except for the final pass after To
   </tr>
   <tr>
     <td>
-      <p><b>4. Wyrmsbreath #1</b></p>
-      <p>Mechanics resolve.</p>
+      <p><b>4.</b> Mechanics resolve.</p>
       <ul>
         <li><b>MT, ST:</b> If your dragon's mouth is <b>not</b> glowing, you have a single-target tankbuster. Otherwise, you have a shared tankbuster (stack in the middle).</li>
       </ul>
@@ -119,10 +150,14 @@ All passes happen in the center of the arena, except for the final pass after To
     </td>
     <td><img src="images/mortal_vow_01.jpg"></td>
   </tr>
+</table>
+
+### Akh Afah #1
+
+<table>
   <tr>
-    <td>
-      <p><b>6. Akh Afah #1</b></p>
-      <p>4-man shared AoEs on the two healers. Nidhogg and Hraesvelgr's HP <b>must be within 3%</b> or their Akh Afah stack will kill all players.</p>
+    <td width="50%">
+      <p><b>6.</b> 4-man shared AoEs on the two healers. Nidhogg and Hraesvelgr's HP <b>must be within 3%</b> or their Akh Afah stack will kill all players.</p>
       <p>If the HP difference is too large, a tether will appear connecting both bosses:</p>
       <ul>
         <li><b>No tether:</b> Both dragons' HP is within 3%.</li>
@@ -132,10 +167,14 @@ All passes happen in the center of the arena, except for the final pass after To
     </td>
     <td><img src="images/akh_afah.jpg"></td>
   </tr>
+</table>
+
+### Hallowed Wings #1
+
+<table>
   <tr>
-    <td>
-      <p><b>7. Hallowed Wings #1</b></p>
-      <p>Turn to face Hraesvelgr.</p>
+    <td width="50%">
+      <p><b>7.</b> Turn to face Hraesvelgr.</p>
       <p>Avoid Hraesvelgr's Hallowed Wings and Nidhogg's Cauterize, and then position yourselves based on whether <b>Hraesvelgr's head is up or down</b>.</p>
       <ul>
         <li><b>Head up:</b> Party near, tanks far.</li>
@@ -197,6 +236,8 @@ Here are some other potential configurations to consider:
   </tr>
 </table>
 </details>
+
+---
 
 ## Wroth Flames
 
@@ -326,22 +367,29 @@ Here are some additional examples to consider:
 </table>
 </details>
 
+---
+
 ## Second half
 
-The second half is a rehash of the first, with slightly different spins on the same mechanics from earlier.
+The second half is a rehash of the first, with slightly different twists on the same mechanics from earlier.
+
+### Akh Afah #2
 
 <table>
   <tr>
     <td width="50%">
-      <p><b>1. Akh Afah #2</b></p>
-      <p>Depending on how much uptime the party got earlier with Hallowed Wings #1 and Wroth Flames, the two dragons' HP may be skewed to one side.</p>
+      <p><b>1.</b> This works exactly the same as the first- both dragon's HP must be brought to within 3% of one another for their stack to survive.</p><p>However, the catch is that depending on whether the party had uptime/downtime earlier on Hraesvelgr or Nidhogg during the previous mechanics, one of the two dragons' HP may be skewed to one side.</p>
     </td>
     <td><img src="images/akh_afah.jpg"></td>
   </tr>
+</table>
+
+### Hallowed Wings #2
+
+<table>
   <tr>
-    <td>
-      <p><b>2. Hallowed Wings #2</b></p>
-      <p>This time, Hallowed Wings will happen in combination with Hot Wing <em>or</em> Hot Tail from Nidhogg.</p>
+    <td width="50%">
+      <p><b>2.</b> This time, Hallowed Wings will happen in combination with Hot Wing <em>or</em> Hot Tail from Nidhogg.</p>
       <ul>
         <li><b>MT: </b> Takes the western position.</li>
         <li><b>ST: </b> Takes the eastern position.</li>
@@ -389,13 +437,34 @@ Here are some other potential configurations to consider:
 </table>
 </details>
 
-## Wyrmsbreath 2
+### Wyrmsbreath 2
 
 This iteration of Wyrmsbreath is different because we **do not** want to stack opposite tethers.
 
 There are two main methods to resolve this.
 
-### Method 1: Fixed positions
+#### Method 1: Spread tethers 5 North, 1 South (5-1)
+
+This is the more common method, and has one player go south (D3) to give additional space for the other five non-tanks to spread out along the North edge.
+
+All tethers can be fully stretched, however, players will need to adjust their positioning on the fly.
+
+<table>
+  <tr>
+    <td width="50%">
+      <ul>
+        <li><b>MT:</b> SW if you get the single-target tankbuster (by Nidhogg).</li>
+        <li><b>ST:</b> SE if you get the single-target tankbuster (by Hraesvelgr).</li>
+        <li><b>D3:</b> Go south, and <b>move towards a dragon whose mouth is glowing</b>.</li>
+        <li><b>All other players:</b> Spread out along the <b>north</b> edge.<ul><li>The north position should go to a <b>healer or caster</b> that is in the group with 3 tethers.</li></ul></li>
+      </ul>
+      <p><em>(In this example, Hraesvelgr's mouth is glowing).</em></p>
+    </td>
+    <td><img src="images/wyrmsbreath_02.jpg"></td>
+  </tr>
+</table>
+
+#### Method 2: Fixed positions
 
 This method fixes all player positions (except for the tanks), greatly simplifying the mechanic.
 
@@ -426,26 +495,7 @@ However, player positioning is precise, and depending on which dragon players ar
   </tr>
 </table>
 
-### Method 2: Spread tethers 5 North, 1 South (5-1)
-
-This method has one player go south to give additional space for the other five non-tanks to spread out along the North edge.
-
-All tethers can be fully stretched, however, players will need to adjust their positioning on the fly.
-
-<table>
-  <tr>
-    <td width="50%">
-      <ul>
-        <li><b>MT:</b> SW if you get the single-target tankbuster (by Nidhogg).</li>
-        <li><b>ST:</b> SE if you get the single-target tankbuster (by Hraesvelgr).</li>
-        <li><b>D3:</b> Go south, and <b>move towards a dragon whose mouth is glowing</b>.</li>
-        <li><b>All other players:</b> Spread out along the <b>north</b> edge.<ul><li>The north position should go to a <b>healer or caster</b> that is in the group with 3 tethers.</li></ul></li>
-      </ul>
-      <p><em>(In this example, Hraesvelgr's mouth is glowing).</em></p>
-    </td>
-    <td><img src="images/wyrmsbreath_02.jpg"></td>
-  </tr>
-</table>
+---
 
 ## Cauterize
 
@@ -483,6 +533,8 @@ After the two dragons are defeated, the two dragon eyes will be left behind. Jus
 This time around, if Thordan was spared in the previous phase, he will jump down and do another raid-wide with a bleed on the party (*Shockwave*) before taking the eyes for his own, starting his transformation to Dragonking Thordan.
 
 When the bleed from *Shockwave* disappears, **heavily shield and mitigate** in order to survive *Alternative End*, the final raid-wide damage that marks the transition to the final phase *(Dragonking Thordan will not be targetable during this)*.
+
+---
 
 ## Frequently Asked Questions
 

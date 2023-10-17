@@ -21,6 +21,8 @@ If you are already familiar with the Eyes phase and just need a quick summary:
   </tr>
 </table>
 
+---
+
 ## T/H red, DPS blue
 
 This phase references the Fang and Claw phase from Nidhogg EX.
@@ -90,6 +92,8 @@ Players get tethered with either blue or red tethers where:
   </tr>
 </table>
 
+---
+
 # Saving Haurchefant
 
 Once the eyes are defeated, time rewinds to the end of Phase 1. The key difference is that now players have access to a Tank LB3 that's needed to save Haurchefant.
@@ -108,6 +112,8 @@ If Haurchefant dies in this phase, the fight loops back to Thordan in Phase 2.
 - In Phase 1, the pulsing AoE damage from the Spear ends early when Haurchefant is killed. This time around, Haurchefant stays alive so the pulsing AoE damage will continue until Pure of Heart resolves.
 - Haurchefant will take heavy damage from Pure of Heart, and will need to be roughly 65% health to survive.
 - Benediction **works** on Haurchefant.
+
+---
 
 ## Frequently Asked Questions
 

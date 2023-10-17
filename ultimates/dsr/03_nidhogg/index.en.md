@@ -25,6 +25,8 @@ If you are already familiar with Nidhogg and just need a quick summary:
 
 Nidhogg's phase opens with Final Chorus, another very hard-hitting raid-wide attack. Notably, Nidhogg is not yet targetable, so debuffs like Reprisal or Addle cannot be used to mitigate this damage.
 
+---
+
 ## Wyrmhole (Easthogg)
 
 The first phase of Nidhogg is often called "Wyrmhole", due to its strong resemblance to Wormhole Formation in TEA.
@@ -119,6 +121,8 @@ Only one or two pairs of arrow debuffs will appear. The following diagrams illus
     <td><img src="images/nidhogg_14.jpg"></td>
   </tr>
 </table>
+
+---
 
 ## 4x Towers
 

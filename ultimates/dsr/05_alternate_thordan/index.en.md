@@ -19,6 +19,8 @@ If you are already familiar with the Alternate timeline Thordan phase, and just 
   </tr>
 </table>
 
+---
+
 ## Wrath of the Heavens
 
 <table>
@@ -92,6 +94,8 @@ Thordan will auto-attack the MT once, before doing a *Heavenly Heel* → 3x *Asc
 
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
 <b>Tip:</b> A WAR can Holmgang this combo and have Holmgang back up in time for Cauterize at the end of P6.</div>
+
+---
 
 ## Death of the Heavens
 
@@ -199,6 +203,8 @@ A caster LB2 will destroy three Meteor Circles; if there are no casters alive, a
 - Thordan then auto-attacks one more time before casting *Aetheric Burst* as the enrage.
 
 Once Thordan's HP reaches **under 3%**, he will stumble, yield, and beg for mercy. **Do not kill Thordan.**
+
+---
 
 ## Frequently Asked Questions
 

@@ -64,7 +64,7 @@ If any extra mitigations are available, it's recommended they be slotted into ei
 
 ---
 
-## Basic Mechanics
+## Overview
 
 There are a couple of details that we should first go over before going into the main mechanics loop.
 

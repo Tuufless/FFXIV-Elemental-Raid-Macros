@@ -31,6 +31,8 @@ Thordan opens with two auto-attacks. Each auto-attack is a small cleave, so Thor
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
 <b>Tip:</b> A WAR can Holmgang this first set of <em>Ascalon's Might</em> and have Holmgang back up in time.</div>
 
+---
+
 ## Strength of the Ward
 
 ### Part 1
@@ -96,6 +98,8 @@ After dodging the Heavy Impact and Ascalon's Mercy Concealed, orientate yourself
 - After the *Ancient Quaga*, Thordan will do another *Heavenly Heel* (tank swap), followed by 3x *Ascalon's Might*.
 
 Thordan will then cast *Sanctity of the Ward*.
+
+---
 
 ## Sanctity of the Ward
 
@@ -403,6 +407,8 @@ After Sanctity of the Ward, Thordan reappears North and begins casting *Ultimate
 Thordan will flail around, doing two sets of *Broad Swings*. Each *Broad Swing* requires the party to dodge from behind Thordan to either his front-left or front-right, depending on which he cleaves first.
 
 After both sets are complete, Thordan will cast *Aetheric Burst*, which serves as the hard enrage for this phase.
+
+---
 
 ## Frequently Asked Questions
 
