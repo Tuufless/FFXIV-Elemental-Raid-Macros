@@ -13,6 +13,8 @@ A more up-to-date reference would be Nukemaru's guide, which [Game8](https://gam
 
 {% include youtube.html id="MexDR_KSmZc" %}
 
+---
+
 ## English
 ```
 {% include_relative macros/thordan.en.txt %}
@@ -22,6 +24,8 @@ A more up-to-date reference would be Nukemaru's guide, which [Game8](https://gam
 ```
 {% include_relative macros/thordan.jp.txt %}
 ```
+
+---
 
 ## Markers
 
@@ -64,6 +68,18 @@ You can use markers in this fight, but they're not really needed as Thordan leav
 ```
 
 </details>
+
+---
+
+## Knights of Round #2 (4x towers)
+
+The towers always spawn on the line perpendicular to the knight that spawns somewhere towards the outside of the arena.
+
+Using that knight as north (N.B: *not* Thordan or the Dragon Eye), we assign the healers and ranged towers relative to that knight. Tanks and melee should fill in where possible.
+
+![](images/towers.jpg)
+
+---
 
 ## Notes
 
