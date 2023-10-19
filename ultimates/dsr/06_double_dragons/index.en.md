@@ -73,18 +73,26 @@ This one is simple. **Hraesvelgr will enrage if she kills *any* player.**
 
 ### Mortal Vow
 
-After Wyrmsbreath #1, Nidhogg will give a random DPS a *Mortal Vow* debuff. This debuff:
-
-- Applies a light DoT on the player.
-- Significantly *reduces* healing potency.
-
-When the debuff expires, it explodes in a small AoE, and the player that had *Mortal Vow* will now get a *Mortal Atonement* debuff that prevents them from getting *Mortal Vow* again.
-
-*Mortal Vow* transfers onto a random player that was hit by the AoE that does not have *Mortal Atonement*. (If additional players are hit, they get a *Suppuration* debuff that reduces their max HP by half).
-
-Thus, when passing *Mortal Vow*, we need exactly *two* players to stack- the player that has the debuff, and the player that is about to receive it.
-
 **Nidhogg will enrage if *Mortal Vow* is not passed.**
+
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+<details markdown=block>
+<summary><b>[Click to Expand] Mortal Vow breakdown</b></summary>
+<table>
+  <tr>
+    <td><p>After Wyrmsbreath #1, Nidhogg will give a random DPS a <em>Mortal Vow</em> debuff. This debuff:</p>
+    <ul>
+      <li>Applies a light DoT on the player.</li>
+      <li>Significantly <em>reduces</em> that player's healing potency.</li>
+    </ul>
+    <p>When the debuff expires, it explodes in a small AoE, and the player that had <em>Mortal Vow</em> will now get a <em>Mortal Atonement</em> debuff that prevents them from getting <em>Mortal Vow</em> again.</p>
+    <p><em>Mortal Vow</em> transfers onto a random player that was hit by the AoE that does not have <em>Mortal Atonement</em>. (If additional players are hit, they get a <em>Suppuration</em> debuff that reduces their max HP by half).</p>
+    <p>Thus, when passing <em>Mortal Vow</em>, we need <b>exactly two</b> players to stack- the player that has the debuff, and the player that is about to receive it.</p></td>
+    <td><img src="images/mortal_vow.jpg"></td>
+  </tr>
+</table>
+</details>
+</div>
 
 There are *four* passes in this phase.
 
