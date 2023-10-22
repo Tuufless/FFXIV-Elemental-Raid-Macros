@@ -308,9 +308,47 @@ When dropping Akh Morns, the most efficient movement (geometrically) is to move 
       <img src="images/wroth_flames_ex_01_06b.jpg">
     </td>
   </tr>
+</table>
+
+### Wroth Flames markers
+
+To help assign player positions for the final spread and stack, it is common practice to mark the players. However, there are two different marking schemes.
+
+#### Automarked Wroth Flames
+
+<table>
+  <tr>
+    <td width="50%"><p>By far the more popular approach is to just use third-party tools <em>(i.e: use at your own risk)</em> to automatically mark all players.</p>
+    <p>With this configuration, the player with the <b>same-type</b> of markers will pair together (with the red "ignore" markers against the east wall).</p>
+    </td>
+    <td>
+      <img src="images/wroth_flames_am_markers.jpg">
+    </td>
+  </tr>
+</table>
+
+#### Manually marked Wroth Flames
+
+<table>
+  <tr>
+    <td width="50%"><p>If you are not using automarkers, then the easiest way would be to delegate two players to mark players.</p>
+    <ul>
+      <li>One player marks the two players with the <b>white</b> debuff.</li>
+      <li>The other player marks the two players with <b>no</b> debuff.</li>
+    </ul>
+    <p>With this configuration, the <b>same-numbered</b> players will pair together, with the "2s" against the east wall.</p>
+    </td>
+    <td>
+      <img src="images/wroth_flames_manual_markers.jpg">
+    </td>
+  </tr>
+</table>
+
+<table>
   <tr>
     <td>
       <p><b>7.</b> Finally, pass Mortal Vow from the MT to the ST.</p>
+      <p>Note that this Mortal Vow pass is *fast*, hence why we want to try to keep the tanks near the center if possible.</p>
     </td>
     <td><img src="images/mortal_vow_03.jpg"></td>
   </tr>
@@ -563,6 +601,16 @@ When the bleed from *Shockwave* disappears, **heavily shield and mitigate** in o
 <summary><b>[Wroth Flames]</b> Is there a pattern to how the debuffs are assigned?</summary>
 <table>
   <tr><td><p>Unfortunately not- the debuff distribution is random.</p><p>Here's an example where two of the no-debuff players are both DPS.</p></td><td><img src="images/wroth_flames_debuffs.jpg"></td></tr>
+</table>
+</details>
+<details markdown=block>
+<summary><b>[Wroth Flames]</b> Why are there two marking schemes?</summary>
+<table>
+  <tr><td><p>The short answer is "that's just the automarker configuration that got passed around early."</p><p>One that argue that if you mark all eight players, the visual clutter makes it hard(er) for each player to discern their number over their colour, hence the "same marker-type" stack configuration.</p>
+  <p>I am personally not a fan because it is harder to replicate manually (effectively <em>mandating</em> automarkers).</p>
+  <p>The problem with manually marking each pair using the same marker type is that this task cannot be split between two players, because there's now a possibility that the two players pick the same person twice.</p>
+  <p>For example, in the configuration on the right, one person can pick the WAR + SMN as a pair, then the other pick RDM + SMN, doubling up on the SMN and leaving the SAM unmarked (it also doesn't help that <em>Mortal Atonement</em> looks like a purple spread debuff).</p></td>
+  <td><img src="images/wroth_flames_debuffs.jpg"></td></tr></tr>
 </table>
 </details>
 <details markdown=block>
