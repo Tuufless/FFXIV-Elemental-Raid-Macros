@@ -96,7 +96,10 @@ Tethers appear, splitting the party up into two groups:
   </tr>
   <tr>
     <td><p><b>2.</b> Blue and yellow fists appear above each player.</p>
-    <p>Identify whether you and the player standing next to you from the other tether have the different-coloured fists.</p><p>If both fists are the same colour, then the inner tether pair swaps positions.</p><p><em>In this example, since H2 and D3 share the same-coloured fists, H2 and D2 will swap sides. There is no swap needed for the bottom group.</em></p></td>
+    <p>Identify whether you and the player standing next to you from the other tether have the different-coloured fists.</p>
+    <p>If both fists are the same colour, then the <b>inner</b> tether pair swaps positions.</p>
+    <p>The <b>green</b> tethered players can stack together in their fist pairs (inner tethers swapping if needed).</p>
+    <p><em>In this example, since H2 and D3 share the same-coloured fists, H2 and D2 will swap sides. There is no swap needed for the green tethers, so the inner pair (MT, D1) goes to stack on their fist partners (H1 and D4 respectively).</em></p></td>
     <td><img src="../images/05_run_dynamis/run_dynamis_delta_02.jpg"></td>
   </tr>
   <tr>
@@ -104,7 +107,7 @@ Tethers appear, splitting the party up into two groups:
     <td><img src="../images/05_run_dynamis/run_dynamis_delta_03.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>4.</b> The tethers activate. This will break the outer blue-tether.</p><p>Stack with your fist partner.</p></td>
+    <td><p><b>4.</b> The tethers activate. This will break the outer blue-tether.</p><p>The outer blue-tethered players move in to stack with the inner blue-tethered players.</p></td>
     <td><img src="../images/05_run_dynamis/run_dynamis_delta_04.jpg"></td>
   </tr>
   <tr>
