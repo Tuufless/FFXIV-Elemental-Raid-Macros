@@ -15,6 +15,8 @@ There are two strategies to resolve this- either you put like tethers together (
 - [Kinda Awk](#run-dynamis-delta-version---kinda-awk) - PF currently does this strat.
 - [GMT-style](#run-dynamis-delta-version---gmt-style) - My preferred strat.
 
+---
+
 ## Solar Ray
 
 There are four Solar Rays in this phase. These are two-hit tankbusters that also apply Magic Vulnerability, forcing either a tank swap, or invuln.
@@ -65,7 +67,9 @@ Two of these will be taken with invulnerabilities, and the other two with mitiga
   </tr>
 </table>
 
-# Run: Dynamis (Delta Version) - Kinda Awk
+---
+
+## Run: Dynamis (Delta Version) - Kinda Awk
 
 Run: Dynamis (Delta Version) can be broken down into three parts:
 
@@ -73,7 +77,7 @@ Run: Dynamis (Delta Version) can be broken down into three parts:
 2. [Oversampled Wave Cannon and Pile Pitch](#2-oversampled-wave-cannon-and-pile-pitch-kinda-awk)
 3. [Hello, World](#3-hello-world-kinda-awk)
 
-## 1. Rocket Punches (Kinda Awk)
+### 1. Rocket Punches (Kinda Awk)
 
 Tethers appear, splitting the party up into two groups:
 
@@ -109,7 +113,7 @@ Tethers appear, splitting the party up into two groups:
   </tr>
 </table>
 
-## 2. Oversampled Wave Cannon and Pile Pitch (Kinda Awk)
+### 2. Oversampled Wave Cannon and Pile Pitch (Kinda Awk)
 
 After baiting the outside arm lasers, players are split into two groups based on their tethers, with each tether group having different responsibilities.
 
@@ -127,7 +131,7 @@ After baiting the outside arm lasers, players are split into two groups based on
   </tr>
 </table>
 
-## 3. Hello, World (Kinda Awk)
+### 3. Hello, World (Kinda Awk)
 
 This is the last part of the mechanic, and is where players will finally resolve Hello, Near World and Hello, Distant World.
 
@@ -199,9 +203,11 @@ The "big puzzle" over the course of Delta, Sigma, and Omega is to resolve the He
   </tr>
 </table>
 
-# Run: Dynamis (Delta Version) - GMT-style
+---
 
-This strat uses GMT's strat as a base, which pairs one green and one blue tether together for Rocket Punches, and is my preferred strat for Run: Dynamis (Delta Version).
+## Run: Dynamis (Delta Version) - GMT-style
+
+This is by far my preferred strat that uses GMT's strat as a base, which pairs one green and one blue tether together for Rocket Punches.
 
 Run: Dynamis (Delta Version) can be broken down into three parts:
 
@@ -217,7 +223,7 @@ Here are some clips of this strat in action:
 - [Green, swap](https://clips.twitch.tv/MoralPreciousClipzChocolateRain-TV_FvUvOzvYa-FyP)
 - [Green](https://clips.twitch.tv/CarefulEnjoyableSangCoolStoryBro-7ojtmrxt_5nvLizj)
 
-## 1. Rocket Punches (GMT-style)
+### 1. Rocket Punches (GMT-style)
 
 <table>
   <tr>
@@ -259,7 +265,7 @@ Here are some clips of this strat in action:
   </tr>
 </table>
 
-## 2. Oversampled Wave Cannon and Pile Pitch (GMT-style)
+### 2. Oversampled Wave Cannon and Pile Pitch (GMT-style)
 
 <table>
   <tr>
@@ -272,7 +278,7 @@ Here are some clips of this strat in action:
   </tr>
 </table>
 
-## 3. Hello, World (GMT-style)
+### 3. Hello, World (GMT-style)
 
 This is the last part of the mechanic, and is where players will finally resolve Hello, Near World and Hello, Distant World.
 
@@ -319,10 +325,12 @@ We decided to follow Kinda Awk's spread positions, which doesn't *quite* fit the
   </tr>
 </table>
 
+---
+
 ## Frequently Asked Questions
 
 <details markdown=block>
-<summary><b>[Solar Ray]</b> Can you mitigate both Solar Ray and Run: Dynamis?</summary>
+<summary><b>[Solar Ray]</b> Can you mitigate both Solar Ray and Run: Dynamis with party mitigations?</summary>
 <table>
   <tr><td><p>Only healer 120s mitigations last long enough (20 seconds) to cover both Solar Ray and Run: Dynamis.</p></td></tr>
 </table>
@@ -350,13 +358,13 @@ We decided to follow Kinda Awk's spread positions, which doesn't *quite* fit the
     <li>[~1:20] Wave Cannon #2 → MT 2m, ST invuln</li>
     <li>[~1:54] Cosmo Dive #2 → Rampart</li>
   </ul>
-  <p>Note that this doesn't apply if your party has a WAR, as WAR is the <em>only</em> tank that can invuln the Solar Ray before Run: Dynamis (Omega) and have it back up for a Wave Cannon.</p></td></tr>
+  <p>This doesn't apply if your party has a WAR, as WAR is the <em>only</em> tank that can invuln the Solar Ray before Run: Dynamis (Omega) and have it back up for a Wave Cannon.</p></td></tr>
 </table>
 </details>
 <details markdown=block>
 <summary><b>[Solar Ray]</b> If we have DRK + WAR, why do we use Living Dead at the second Solar Ray (before Sigma) instead of following PLD and GNB and invulning the first?</summary>
 <table>
-  <tr><td><p>This is a matter of convenience- the interval between Delta and Sigma is a 2-minute window, and spending Living Dead here means fewer buttons to press during the burst window.</p></td></tr>
+  <tr><td><p>This is just a matter of convenience- the interval between Delta and Sigma is a 2-minute window, and spending Living Dead here means fewer buttons for the DRK to press during the burst window.</p></td></tr>
 </table>
 </details> 
 <details markdown=block>
@@ -378,19 +386,21 @@ We decided to follow Kinda Awk's spread positions, which doesn't *quite* fit the
 </table>
 </details>
 <details markdown=block>
-<summary><b>[Delta (GMT)]</b> Why did we switch from Awk to GMT?</summary>
+<summary><b>[Delta (GMT)]</b> Why did my group switch from Awk to GMT?</summary>
 <table>
-  <tr><td><p>I had originally started with Kinda Awk's strat because at a first glance, it looked simple and easy to execute. In addition, PF over in Mana had started adopting Sara-chan's strat, which does the same thing in principle (except Sara-chan breaks the first blue tether <em>after</em> baiting fists, instead of before).</p><p>I also didn't fully understood GMT's strat at the time (I wasn't aware that the fists spawn in BB/YY and BY/BY combinations), and so I decided not to go with GMT when I couldn't figure out how to resolve a theoretical "worst-case" configuration that in the end, will never happen in-game.</p><p>However, when my group <em>actually</em> got to progging Delta, we kept wiping to the initial fist bait, particularly on the blue-tether side.</p><p>Common complaints were:</p>
+  <tr><td><p>I had originally started with Kinda Awk's strat because at a first glance, it looked simple and easy to execute. In addition, PF over in Mana had started adopting Sara-chan's strat, which does the same thing in principle (except Sara-chan breaks the first blue tether <em>after</em> baiting fists, instead of before).</p><p>I also didn't fully understand GMT's strat at the time (I wasn't aware that the fists spawn in BB/YY and BY/BY combinations), and so I decided not to go with GMT when I couldn't figure out how to resolve a theoretical "worst-case" configuration that will never actually happen in-game.</p>
+  <p>However, when my group <em>actually</em> got to progging Delta with Awk, we kept wiping, particularly on the blue-tether side.</p>
+  <p>Common complaints were:</p>
   <ul>
     <li>There isn't <em>that</em> much time (one second) between when the first blue tether breaks, and when players have to stack together.</li>
     <li>The fists were generally in the way, so it was hard to see the AoEs on the ground.</li>
     <li>People were forgetting if they were the inner or outer pair after stacking together.</li>
     <li>We were taking turns wiping the party as members got blue tethers for the first time, despite reviewing what happened as a group.</li>
-    <li><p>There is a distance relationship implied between the four blue-tethered players:</p>
+    <li><p>There is an implicit distance between the four blue-tethered players:</p>
       <ul>
-        <li>The outer pair must be far enough that they break immediately.</li>
-        <li>The outer pair must be near enough to the inner pair to stack in time.</li>
-        <li>The inner pair also needs to be short enough so that they <em>do not</em> break.</li>
+        <li>The inner pair needs to be short enough so that they <em>do not</em> break.</li>
+        <li>The outer pair must be far enough that they break immediately...</li>
+        <li>...but not so far that they cannot move to stack on the inner pair in time.</li>
       </ul>
       <p>Groups have been using Beetle Omega's legs as a guide for the long blue-tether to help with this.</p>
     </li></ul>
