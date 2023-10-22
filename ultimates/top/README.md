@@ -10,7 +10,17 @@ permalink: /ultimates/top/
 
 # The Omega Protocol (Ultimate)
 
-The PF strat is starting to settle.
+Elemental's TOP PF strat can be broken down as follows:
+
+- [**(Beetle) Omega**](../top/en/01_omega.md): HTDH priority, NW/SE Pantokrator
+- [**Omega M/F**](../top/en/02_omega_mf.md): 1234 (〇×▽□)-4231
+- [**(Final) Omega**](../top/en/03_omega_reconfigured.md): Astoh monitors
+- [**Blue Screen**](../top/en/04_blue_screen.md): TRHM, melee adjust
+- **Run: Dynamis**
+  - [**Delta**](../top/en/05a_run_dynamis_delta.md): Awk
+  - [**Sigma**](../top/en/05b_run_dynamis_sigma.md): Waymark towers
+  - [**Omega**](../top/en/05c_run_dynamis_omega.md)
+- [**Alpha Omega**](../top/en/06_alpha_omega.md): Clock spread, Wave Cannon stack east
 
 ### BiS Notes
 
@@ -24,6 +34,10 @@ Looking towards the future:
 
 ![](images/top_cheatsheet.jpg)
 *(Shortened link: [https://cutt.ly/EleDC_TOP_summary](images/top_cheatsheet.jpg))*
+
+## Things to note
+
+- Using automarkers to mark players for the transition to P3, and to mark player positions in Delta, Sigma, and Omega is considered the norm (*use at your own risk*).
 
 ## Markers
 

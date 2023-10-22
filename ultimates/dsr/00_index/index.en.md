@@ -33,6 +33,10 @@ Looking towards the future:
 ![](images/dsr_cheatsheet.jpg)
 *(Shortened link: [https://cutt.ly/EleDC_DSR_summary](images/dsr_cheatsheet.jpg))*
 
+## Things to note
+
+- Using automarkers to mark Thunder players in Wroth of the Heavens, and especially Wroth Flames is considered the norm (*use at your own risk*).
+
 # Ser Adelphel and Ser Grinnaux
 
 Dragonsong's Reprise is the first Ultimate to showcase a "door" boss. As such, there are two sets of markers and macros to use for this fight.

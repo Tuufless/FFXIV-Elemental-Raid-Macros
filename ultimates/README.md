@@ -11,10 +11,16 @@ permalink: /ultimates/
 
 Ultimate raids on Elemental are unique because they are **not** PF'ed by Japanese players. As a result, the English community has largely dictated the strats in Elemental Ultimate PF.
 
+### A note on Automarkers
+
+Perhaps because of this, there are also marked cultural differences when it comes to Ultimate. Using third-party tools to automatically mark players ("automarkers", or "AM" for short) is considered the norm for some of these fights when it comes to PF.
+
+As with all third-party tools, *use at your own risk.*
+
 ## Level 70 Ultimates
 
 - **UCoB** - [The Unending Coil of Bahamut (Ultimate)](ucob/README.md)
-- **UWU** - [The Weapon's Refrain (Ultimate)](uwu/README.md)
+- **UWU** - [The Weapon's Refrain (Ultimate)](uwu/README.md) - *Automarkers used*
 
 ## Level 80 Ultimates
 
@@ -22,5 +28,5 @@ Ultimate raids on Elemental are unique because they are **not** PF'ed by Japanes
 
 ## Level 90 Ultimates
 
-- **DSR** - [Dragonsong's Reprise (Ultimate)](dsr/00_index/index.en.md)
-- **TOP** - [The Omega Protocol (Ultimate)](top/README.md)
+- **DSR** - [Dragonsong's Reprise (Ultimate)](dsr/00_index/index.en.md) - *Automarkers used*
+- **TOP** - [The Omega Protocol (Ultimate)](top/README.md) - *Automarkers used*
