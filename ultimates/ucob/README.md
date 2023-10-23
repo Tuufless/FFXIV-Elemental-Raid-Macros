@@ -31,6 +31,8 @@ PF largely follows [Clees' UCoB guide](https://clees.me/guides/ucob/) with a few
 - Relic weapons will have their substats capped at **127**.
 - The lowest potions you can use and still get maximum benefits are **HQ Grade 3 Tinctures**.
 
+---
+
 ## English
 
 ```
@@ -42,6 +44,8 @@ PF largely follows [Clees' UCoB guide](https://clees.me/guides/ucob/) with a few
 ```
 {% include_relative macros/ucob.jp.txt %}
 ```
+
+---
 
 ## Markers
 
@@ -82,7 +86,3 @@ PF largely follows [Clees' UCoB guide](https://clees.me/guides/ucob/) with a few
 ```
 
 </details>
-
-## Resources
-
-[**Nael divebombs**](https://freehaha.github.io/nael-dive/)

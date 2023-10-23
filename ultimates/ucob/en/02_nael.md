@@ -260,6 +260,10 @@ The party will have to resolve Nael's fourth line in conjunction with divebombs.
 - The goal is to direct these divebombs away from the center of the arena where the rest of the party is.
 - Nael will also drop Hypernova AoEs on the first two baiters.
 
+You can use this site to practice divebomb placement:
+
+[https://freehaha.github.io/nael-dive/](https://freehaha.github.io/nael-dive/)
+
 <table>
   <tr>
     <td width="50%"><p><b>27.</b> Nael will say her fourth line, which will lead to either:</p><ul><li>Meteor Stream → Dalamud Dive</li><li>Dalamud Dive → Thermionic Beam</li></ul><p><em>(Note this is the first line whose first mechanic is </em>not<em> fixed.)</em></p><p>At the same time, the first divebomb marker will appear above a player that's not the ST (who currently holds hate).</p></td>
