@@ -51,6 +51,8 @@ The important part of this phase, **especially** if DPS has been low is to shiel
   </tr>
 </table>
 
+---
+
 ## Ultimate Suppression
 
 This phase is pushed when Ultima Weapon's HP drops below 50%.
@@ -97,6 +99,8 @@ This phase is pushed when Ultima Weapon's HP drops below 50%.
 	<td><img src="../images/suppression/suppression_18.jpg"></td>
   </tr>
 </table>
+
+---
 
 ## Frequently Asked Questions
 

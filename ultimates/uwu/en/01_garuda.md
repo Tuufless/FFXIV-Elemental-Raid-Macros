@@ -16,6 +16,8 @@ permalink: /ultimates/uwu/01_garuda/
   <tr><td><b>Beyond Limits</b></td><td>Healer</td></tr>
 </table>
 
+---
+
 ## Waking Garuda
 
 "Thermal Low" is a debuff that is applied on a player as a result of certain mechanics:
@@ -56,6 +58,8 @@ The following mechanics will also change when Garuda is woken:
   </tr>
 </table>
 
+---
+
 ## Spiny Plume
 
 <table>
@@ -88,6 +92,8 @@ The following mechanics will also change when Garuda is woken:
 	<td><img src="../images/garuda/garuda_07.jpg"></td>
   </tr>
 </table>
+
+---
 
 ## Friction
 
@@ -126,6 +132,8 @@ This is the major mechanic in Garuda, and is where the party will set Garuda up 
 
 Note that Garuda only has three of the four stacks needed to wake her.
 
+---
+
 ## Midruda
 
 <table>
@@ -146,6 +154,8 @@ Note that Garuda only has three of the four stacks needed to wake her.
     <td><img src="../images/garuda/garuda_18.jpg"></td>
   </tr>
 </table>
+
+---
 
 ## Waking Garuda
 

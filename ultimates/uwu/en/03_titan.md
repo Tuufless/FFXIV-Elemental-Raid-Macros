@@ -15,6 +15,8 @@ permalink: /ultimates/uwu/03_titan/
   <tr><td><b>Beyond Limits</b></td><td>Melee</td></tr>
 </table>
 
+---
+
 ## Waking Titan
 
 Titan is easily the hardest of the three Primals to wake.
@@ -60,6 +62,8 @@ The **MT** will take hate at the start of the fight.
   </tr>
 </table>
 
+---
+
 ## Waking Titan
 
 <table>
@@ -89,6 +93,8 @@ The **MT** will take hate at the start of the fight.
   </tr>
 </table>
 
+---
+
 ## Woken Titan
 
 <table>
@@ -109,6 +115,8 @@ The **MT** will take hate at the start of the fight.
     <td><img src="../images/titan/titan_12.jpg"></td>
   </tr>
 </table>
+
+---
 
 ## Mario Kart
 
@@ -172,6 +180,8 @@ When a woken Titan is defeated, it will also leave behind a light puddle that wi
 <table>
   <tr><td><b>Beyond Limits (Titan)</b></td><td>Melee</td></tr>
 </table>
+
+---
 
 ## Ultima Transition
 

@@ -10,11 +10,15 @@ permalink: /ultimates/uwu/07_primal_roulette/
 
 This is the final phase of the fight.
 
+---
+
 ## Ultima #2
 
 Ultima Weapon reappears in the center of the arena and starts casting another Ultima.
 
 This **requires** a Tank LB3 to survive, which you should have rebuilt at this stage.
+
+---
 
 ## Aetheric Boom
 
@@ -53,6 +57,8 @@ Since the last two orbs in Ultimate Annihilation were taken solo by the MT, thes
     <td><img src="../images/primal_roulette/aetheric_boom_05.jpg"></td>
   </tr>
 </table>
+
+---
 
 ## Primal Roulette
 

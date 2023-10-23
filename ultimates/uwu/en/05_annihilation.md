@@ -10,6 +10,8 @@ permalink: /ultimates/uwu/05_annihilation/
 
 This is the second of the four blocks in in Ultima Weapon's timeline.
 
+---
+
 ## Pre-Annihilation
 
 <table>
@@ -48,6 +50,8 @@ This is the second of the four blocks in in Ultima Weapon's timeline.
 </table>
 
 Ultima Weapon will then disappear and then reappear where it stands (arena North), and begin Ultimate Annihilation.
+
+---
 
 ## Ultimate Annihilation (2211)
 
@@ -93,6 +97,8 @@ Of note, these orbs will always spawn on Ultima Weapon's left leg (the south-eas
 </table>
 
 After the Feather Rains, Ultima Weapon momentarily disappears, marking the end of this phase.
+
+---
 
 ## Aetheroplasm Orbs
 

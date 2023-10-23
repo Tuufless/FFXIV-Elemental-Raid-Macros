@@ -15,6 +15,8 @@ permalink: /ultimates/uwu/02_ifrit/
   <tr><td><b>Beyond Limits</b></td><td>Caster</td></tr>
 </table>
 
+---
+
 ## Waking Ifrit
 
 Infernal Nails can be hit by baited Violent Eruptions. When a Nail is hit by an Eruption, it gains a stack (max two) and increases in size.
@@ -55,6 +57,8 @@ The **ST** will take hate at the start of the fight.
   </tr>
 </table>
 
+---
+
 ## Infernal Nails
 
 This is Ifrit's major mechanic, and where we will wake Ifrit.
@@ -78,6 +82,8 @@ Done correctly, Ifrit will get four stacks of Aetherically Charged (one for each
 
 Ifrit will also start glowing **blue** (which will be important later).
 
+---
+
 ## Crimson Cyclone #1
 
 <table>
@@ -100,6 +106,8 @@ Ifrit will also start glowing **blue** (which will be important later).
 </table>
 
 If the party's DPS is good, you can defeat Ifrit by this point, skipping the second set of Crimson Cyclones.
+
+---
 
 ## Crimson Cyclone #2
 
@@ -135,6 +143,8 @@ The four Ifrits will **dash in the same order the Nails were destroyed**.
 	<td><img src="../images/ifrit/ifrit_14.jpg"></td>
   </tr>
 </table>
+
+---
 
 ## Wrapping up
 

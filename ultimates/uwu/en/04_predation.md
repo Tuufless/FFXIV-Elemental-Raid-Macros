@@ -12,6 +12,8 @@ Ultima Weapon now shows up for the party to take down.
 
 There are four main "blocks" in Ultima Weapon's timeline, that culminates in a signature mechanic, the first of which is Ultimate Predation.
 
+---
+
 ## Ultima Aether
 
 When the fight resumes, there will now be a new "Ultima Aether" gauge that serves as a timer to Ultima's enrage. When the gauge reaches 100, Ultima begins its enrage sequence.
@@ -23,6 +25,8 @@ Ultima Aether is built:
 - **When a player dies.**
 
 This last point is particularly noteworthy, as player deaths effectively bring the enrage forward in addition to weakness.
+
+---
 
 ## Pre-Predation
 
@@ -44,6 +48,8 @@ In particular, the MT should be first in aggro, while the ST should be second. T
 	<td><img src="../images/predation/predation_03.jpg"></td>
   </tr>
 </table>
+
+---
 
 ## Ultimate Predation
 
@@ -110,6 +116,8 @@ Resolve Ultimate Predation as follows:
   </tr>
 </table>
 </details>
+
+---
 
 ## Rebuilding LB3
 
