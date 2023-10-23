@@ -12,6 +12,8 @@ One thing that makes Nael tricky is that although there are three lines leading 
 
 The other difficulty is that the tempo in Nael's phase is *noticeably* faster compared to Twintania, or most other encounters in general. Keep that in mind when reading the diagrams below- the mechanics resolve in sequence one after the other *very* quickly.
 
+---
+
 ## Quotes
 
 Nael telegraphs her upcoming attacks by saying a line- key words in that line indicate what attacks she is about to do, and in what order.
@@ -54,6 +56,8 @@ The quotes that Nael will use in this phase are:
   </tr>
 </table>
 
+---
+
 ## Bahamut's Favor
 
 <table>
@@ -86,6 +90,8 @@ The quotes that Nael will use in this phase are:
 </table>
 </details>
 </div>
+
+---
 
 ## First line
 
@@ -124,6 +130,8 @@ To summarize the mechanics sequence for Nael's first line:
     <td><img src="../images/02_nael/nael_1_8.jpg"></td>
   </tr>
 </table>
+
+---
 
 ## Second line
 
@@ -188,6 +196,8 @@ Be careful, as *all* the mechanics can target a single player:
 
 {% include youtube.html id="dQd-VEMR47U" %}
 
+---
+
 ## Third line
 
 The mechanics for Nael's third line will go:
@@ -235,6 +245,8 @@ The mechanics for Nael's third line will go:
   </tr>
 </table>
 
+---
+
 ## Fourth line (Cauterize)
 
 The party will have to resolve Nael's fourth line in conjunction with divebombs.
@@ -281,6 +293,8 @@ The party will have to resolve Nael's fourth line in conjunction with divebombs.
   </tr>
 </table>
 
+---
+
 ## Fifth and Sixth lines
 
 The sequence of mechanics after this point are:
@@ -294,6 +308,8 @@ The sequence of mechanics after this point are:
 The fifth and sixth lines are a random selection of any combination from Nael's first three lines.
 
 This is much simpler now that the dragons are gone, so the party will no longer need to contend with Fire/Ice, Thunder, or Doom.
+
+---
 
 ## Seventh Umbral Era (Transition to Bahamut)
 

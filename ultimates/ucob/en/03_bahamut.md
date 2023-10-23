@@ -12,6 +12,8 @@ Bahamut's phase is a gauntlet of "Trio" mechanics (which is where the term comes
 
 Trios are essentially a mechanics dance, involving mechanics from each of the three bosses (Twintania, Nael, Bahamut) executed together.
 
+---
+
 ## Quickmarch Trio
 
 Bahamut opens with a Flare Breath into Flatten (and an auto-attack) before starting the first of many Trios.
@@ -47,6 +49,8 @@ Bahamut opens with a Flare Breath into Flatten (and an auto-attack) before start
   </tr>
 </table>
 
+---
+
 ## Blackfire Trio
 
 After Quickmarch Trio, Bahamut Flare Breathes into Flatten again, before moving onto the second Trio.
@@ -77,6 +81,8 @@ After Quickmarch Trio, Bahamut Flare Breathes into Flatten again, before moving 
     <td><img src="../images/03_bahamut/blackfire_06.jpg"></td>
   </tr>
 </table>
+
+---
 
 ## Fellruin Trio
 
@@ -127,6 +133,8 @@ Note that Nael's lines now telegraph *three* mechanics instead of two.
     <td colspan="2"><img src="../images/03_bahamut/fellruin_05.jpg"></td>
   </tr>
 </table>
+
+---
 
 ## Heavensfall Trio
 
@@ -193,6 +201,8 @@ This will end up looking like one of the three diagrams below:
   </tr>
 </table>
 
+---
+
 ## Tenstrike Trio
 
 Just like after Blackfire Trio, Bahamut will Flare Breath the tank three times before starting Tenstrike Trio.
@@ -239,6 +249,8 @@ Just like after Blackfire Trio, Bahamut will Flare Breath the tank three times b
     <td><img src="../images/03_bahamut/tenstrike_10.jpg"></td>
   </tr>
 </table>
+
+---
 
 ## Grand Octet (with Tank LB)
 
@@ -315,6 +327,8 @@ However, the Twintania player may be part of the Megaflare group, or the towers 
   </tr>
 </table>
 
+---
+
 ## Frequently Asked Questions
 
 <details markdown=block>
@@ -324,6 +338,8 @@ However, the Twintania player may be part of the Megaflare group, or the towers 
   <td><img src="../images/03_bahamut/heavensfall_faq.jpg"></td></tr>
 </table>
 </details>
+
+---
 
 ## Troubleshooting
 

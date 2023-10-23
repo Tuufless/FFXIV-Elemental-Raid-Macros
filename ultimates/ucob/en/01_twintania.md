@@ -27,6 +27,8 @@ Twintania's first phase is a basic introduction to what to expect- Twisters, and
   </tr>
 </table>
 
+---
+
 ## Part 2: 74% HP - 45% HP
 
 This second phase builds upon the mechanics introduced in the first, adding Liquid Hell and Hatches to the mix.
@@ -67,6 +69,8 @@ The phase ends when Twintania is pushed below 45% HP.
     <td><img src="../images/01_twintania/twintania_2_8.jpg"></td>
   </tr>
 </table>
+
+---
 
 ## Part 3: 44% HP - 0% HP
 
@@ -115,6 +119,8 @@ This phase is the culmination of all the mechanics introduced thus far.
   </tr>
 </table>
 
+---
+
 ## Heavensfall (Transition to Nael)
 
 <table>
@@ -139,6 +145,8 @@ This phase is the culmination of all the mechanics introduced thus far.
     <td><img src="../images/01_twintania/transition_05.jpg"></td>
   </tr>
 </table>
+
+---
 
 ## Frequently Asked Questions
 

@@ -20,6 +20,8 @@ This loop repeats five times in total.
 
 **However**, the order for Morn Afah and Akh Morn is switched **only for the second iteration.**
 
+---
+
 ## Mitigations
 
 This phase requires planning out and coordinating mitigations. The recommended base mitigation is:
