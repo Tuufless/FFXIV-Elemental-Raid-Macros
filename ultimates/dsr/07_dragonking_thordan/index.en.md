@@ -23,6 +23,8 @@ If you are already familiar with Dragonking Thordan and just need a quick summar
   </tr>
 </table>
 
+---
+
 ## Mitigations
 
 This phase requires planning out and coordinating mitigations. The recommended base mitigation is:
@@ -204,6 +206,8 @@ Thordan will then auto-attack twice, which should be taken by the two tanks, and
 After *Gigaflare's Edge*, whoever's tanking the boss should face the boss **directly North or South** to prepare for *Exaflare's Edge*.
 
 The loop then repeats from *Exaflare's Edge*.
+
+---
 
 ## Morn Afah's Edge
 
