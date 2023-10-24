@@ -26,6 +26,8 @@ There are two main strats for Limit Cut- [1211](#1211), and [1256](#1256).
 </details>
 </div>
 
+---
+
 ## 1211
 
 1211 is the strat highlighted by the [Korean simulator](https://drive.google.com/file/d/1sdo02A5GbNPA9B4HN-NOt-vnTPyv2elH/view).
@@ -85,6 +87,8 @@ The movement for 1211 is as follows:
 	<td><img src="../images/limit_cut_1211/limit_cut_1211_10.jpg"></td>
   </tr>
 </table>
+
+---
 
 ## 1256
 

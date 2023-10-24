@@ -35,7 +35,7 @@ The **ST** (not the MT!) will take hate to start this phase. The outline to Alex
   </tr>
   <tr>
     <td><b>2x Mega Holy</b></td>
-    <td><ul><li>MT Reprisal, D4</li></ul></td>
+    <td><ul><li>MT Reprisal, D1, D4</li></ul></td>
   </tr>
   <tr>
     <td><a href="#j-waves"><b>J Waves</b></a></td>
@@ -44,6 +44,8 @@ The **ST** (not the MT!) will take hate to start this phase. The outline to Alex
 </table>
 
 We break down the mechanics below.
+
+---
 
 ## Temporal Stasis
 
@@ -84,6 +86,8 @@ Alternatively, you can mitigate the Chastening Heat, and invuln the Divine Spear
 <p><b>Tip:</b> You <b>can</b> catch the Chastening Heat and all three Divine Spears with a single invuln, but the timing is tight.</p><p>You can mitigate the Chastening Heat instead, and then invuln the three Divine Spears (there is an auto-attack in between).</p></div>
 
 After the Divine Spears, have the MT Provoke and take aggro. Alexander Prime will autoattack twice before casting Inception Formation.
+
+---
 
 ## Inception Formation
 
@@ -137,6 +141,8 @@ Alexander Prime will then reappear in the center and begin another Chastening He
 <td width="50%"><div style="background-color: #200 ; padding: 10px; border: 1px solid;"><p><b>Note:</b> If you have a <b>PLD MT</b>, depending on how fast you cleared the previous phases, Hallowed Ground may <em>not</em> be available here.</p><p>In that event, both tanks should mitigate and swap when Chastening Heat is being cast (have the ST point the Divine Spears east).</p></div></td>
 
 Alexander Prime then auto-attacks twice and casts Wormhole Formation.
+
+---
 
 ## Wormhole Formation
 
@@ -232,11 +238,13 @@ After the Enumeration at the end of Wormhole Formation, Alexander Prime will res
 <table>
   <tr>
     <td><b>Mega Holy x2</b></td>
-    <td><p>MT Reprisal, H2 30s, D1, D4</p><p><em>(If timed correctly, Reprisal, Feint, and Addle will cover <b>both</b> Mega Holies)</em>.</p></td>
+    <td><p>MT Reprisal, D1, D4</p><p><em>(If timed correctly, Reprisal, Feint, and Addle will cover <b>both</b> Mega Holies)</em>.</p></td>
   </tr>
 </table>
 
 After the two Mega Holies, Alexander Prime will then cast "Summon Alexander" before disappearing.
+
+---
 
 ## J Waves
 
@@ -279,6 +287,8 @@ When Alexander Prime is defeated, a countdown to Divine Judgment will begin. If 
 </table>
 
 The party then proceeds onto Perfect Alexander.
+
+---
 
 ## Frequently Asked Questions
 
@@ -373,6 +383,8 @@ The party then proceeds onto Perfect Alexander.
   </td></tr>
 </table>
 </details>
+
+---
 
 ## Troubleshooting
 

@@ -51,6 +51,8 @@ The MT will take hate to start this phase. The outline to Perfect Alexander look
   </tr>
 </table>
 
+---
+
 ## Forced March
 
 This is the "tutorial" section of Perfect Alex, where Ordained Stillness, Ordained Motion, and the Light/Dark mechanics are introduced.
@@ -117,6 +119,8 @@ Then, Perfect Alexander will then do two simple stack vs. spread mechanics in a 
 	<td><img src="../images/perfect_alex/forced_march_02.jpg"></td>
   </tr>
 </table>
+
+---
 
 ## Fate Calibration α
 

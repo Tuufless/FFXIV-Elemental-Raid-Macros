@@ -84,6 +84,8 @@ Tanks should try to have minor cooldowns available for the Lightning passes.
 </details>
 </div>
 
+---
+
 ## Movement
 
 <table>
@@ -193,6 +195,8 @@ Tanks should try to have minor cooldowns available for the Lightning passes.
   </tr>
 </table>
 
+---
+
 ## Passing Nisi (after Verdict)
 
 Here are some examples on passing Nisis during the third pass.
@@ -274,6 +278,8 @@ At this time, either all the tanks and healers have Nisi (who the DPS need to co
   </tr>
 </table>
 
+---
+
 ## Frequently Asked Questions
 
 <details markdown=block>
@@ -300,6 +306,8 @@ At this time, either all the tanks and healers have Nisi (who the DPS need to co
   <tr><td><p>Yes, it's overkill.</p><p>You really only need three DPS to destroy the Plasma Shield in time, but this is a single point of failure and having all four DPS on the shield is insurance against someone targeting the wrong thing by accident, or one of the DPS angled too far from the shield's front so they don't do any damage.</p></td></tr>
 </table>
 </details>
+
+---
 
 ## Troubleshooting
 
