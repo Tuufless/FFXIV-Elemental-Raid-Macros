@@ -18,17 +18,6 @@ Since Elemental PF hasn't agreed on a TEA strat since Patch 5.1, I'm going to ta
 - [**Alexander Prime**](en/03_alex_prime.md): 09STOP Wormhole (Korean sim strat- this is also called "Onyxia" by NA/EU)
 - [**Perfect Alexander**](en/04_perfect_alex.md)
 
-### PoVs
-
-- [MT PoV (WAR)](https://youtu.be/uJVHsrhHsJ8)
-- [ST PoV (PLD)](https://youtu.be/leQ9t61W4OY)
-- [H1 PoV (WHM)](https://youtu.be/IqcxKunPY5Q)
-- [H2 PoV (SGE)](https://youtu.be/Q80yoHMcxhg)
-- [D1 PoV (SAM)](https://youtu.be/RCkbxPT3prI)
-- [D2 PoV (NIN)](https://youtu.be/yb9oLIlwiCM)
-- [D3 PoV (DNC)](https://youtu.be/ToaYJdOdUcA)
-- [D4 PoV (RDM)](https://youtu.be/coE2xYyd23A)
-
 ### Things to check
 
 - The Esuna priority for Living Liquid's Throttles (Esuna self first or not)
@@ -44,6 +33,23 @@ Since Elemental PF hasn't agreed on a TEA strat since Patch 5.1, I'm going to ta
 ![](images/tea_cheatsheet.jpg)
 *(Shortened link: [https://cutt.ly/EleDC_TEA_summary](images/tea_cheatsheet.jpg))*
 
+---
+
+## PoVs
+
+Here are some clear PoVs that I've been collecting.
+
+- [MT PoV (WAR)](https://youtu.be/uJVHsrhHsJ8)
+- [ST PoV (PLD)](https://youtu.be/leQ9t61W4OY)
+- [H1 PoV (WHM)](https://youtu.be/IqcxKunPY5Q)
+- [H2 PoV (SGE)](https://youtu.be/Q80yoHMcxhg)
+- [D1 PoV (SAM)](https://youtu.be/RCkbxPT3prI)
+- [D2 PoV (NIN)](https://youtu.be/yb9oLIlwiCM)
+- [D3 PoV (DNC)](https://youtu.be/ToaYJdOdUcA)
+- [D4 PoV (RDM)](https://youtu.be/coE2xYyd23A)
+
+---
+
 ## English
 
 ```
@@ -55,6 +61,8 @@ Since Elemental PF hasn't agreed on a TEA strat since Patch 5.1, I'm going to ta
 ```
 {% include_relative macros/tea.jp.txt %}
 ```
+
+---
 
 ## Markers
 
