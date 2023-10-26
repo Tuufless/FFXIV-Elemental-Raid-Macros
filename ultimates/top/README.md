@@ -35,9 +35,20 @@ Looking towards the future:
 ![](images/top_cheatsheet.jpg)
 *(Shortened link: [https://cutt.ly/EleDC_TOP_summary](images/top_cheatsheet.jpg))*
 
+---
+
 ## Things to note
 
 - Using automarkers to mark players for the transition to P3, and to mark player positions in Delta, Sigma, and Omega is considered the norm (*use at your own risk*).
+
+---
+
+## English
+```
+{% include_relative macros/top.en.txt %}
+```
+
+---
 
 ## Markers
 
@@ -62,10 +73,7 @@ Looking towards the future:
 
 </details>
 
-## English
-```
-{% include_relative macros/top.en.txt %}
-```
+---
 
 ## Frequently Asked Questions
 
