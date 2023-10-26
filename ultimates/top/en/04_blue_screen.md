@@ -17,6 +17,8 @@ In the meantime, the party will need to deal with simple stack/spread mechanics 
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
 <p><b>Tip:</b> The stack deals more damage than the spread.</p><p>Mitigations that last 15-seconds are best used after the spread beams in order to cover two stacks.</p></div>
 
+---
+
 ## First Wave
 
 <table>
@@ -35,6 +37,8 @@ In the meantime, the party will need to deal with simple stack/spread mechanics 
     <td><img src="../images/04_blue_screen/blue_screen_1_3.jpg"></td>
   </tr>
 </table>
+
+---
 
 ## Second Wave
 
@@ -58,6 +62,8 @@ The following sets of Wave Cannons now come with the expanding Wave Repeater AoE
     <td><img src="../images/04_blue_screen/blue_screen_2_4.jpg"></td>
   </tr>
 </table>
+
+---
 
 ## Third Wave
 

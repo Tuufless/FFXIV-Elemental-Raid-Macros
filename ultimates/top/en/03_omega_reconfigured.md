@@ -10,6 +10,8 @@ permalink: /ultimates/top/03_omega_reconfigured/
 
 This is the only phase in the fight with a transitional mechanic.
 
+---
+
 ## Transition
 
 <table>
@@ -55,6 +57,8 @@ This is the only phase in the fight with a transitional mechanic.
   </tr>
 </table>
 
+---
+
 ## Mitigations
 
 This phase requires some mitigation planning. Each round of Hello, World requires at least three mitigations for the party to survive all damage *without* healing in between.
@@ -90,6 +94,8 @@ One such mitigation plan is:
     <td>MT 90s, H2 30s, D2</td>
   </tr>
 </table>
+
+---
 
 ## Hello, World
 
@@ -355,6 +361,8 @@ This time around, there are two differences:
   </tr>
 </table>
 
+---
+
 ## Oversampled Wave Cannon
 
 Omega then brings back its "monitors" mechanic from O12S-2, with the added twist that three random players *also* get their own set of monitors to resolve.
@@ -386,6 +394,8 @@ PF currently resolves this using [Astoh's strat](https://twitter.com/Astoh_Shall
   </tr>
 </table>
 
+---
+
 ## Frequently Asked Questions
 
 <details markdown=block>
@@ -412,6 +422,8 @@ PF currently resolves this using [Astoh's strat](https://twitter.com/Astoh_Shall
   </tr>
 </table>
 </details>
+
+---
 
 ## Troubleshooting
 

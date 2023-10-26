@@ -14,6 +14,8 @@ Run: Dynamis (Omega Version) can be split down into the following three blocks:
 2. [Hello, World #1 with Oversampled Wave Cannon](#2-first-hello-world-with-monitors)
 3. [Hello, World #2 with tethers](#3-second-hello-world-with-tethers)
 
+---
+
 ## 1. Dodging AoEs
 
 <table>
@@ -67,6 +69,8 @@ Nukemaru has compiled a collection of clips which may help:
 
 {% include youtube.html id="tkFKT_uGLGE" %}
 
+---
+
 ## 2. First Hello, World with Monitors
 
 <table>
@@ -89,6 +93,8 @@ Nukemaru has compiled a collection of clips which may help:
   </tr>
 </table>
 
+---
+
 ## 3. Second Hello, World with tethers
 
 <table>
@@ -107,6 +113,8 @@ Nukemaru has compiled a collection of clips which may help:
 Omega-F then does one more set of Solar Ray tankbusters before casting Blind Faith.
 
 Like Blue Screen, Omega-F **must** be brought to under 20% HP by the end of Blind Faith's cast to proceed onto the final phase of the fight.
+
+---
 
 ## Frequently Asked Questions
 

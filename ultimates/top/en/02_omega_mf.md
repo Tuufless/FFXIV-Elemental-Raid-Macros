@@ -24,6 +24,8 @@ permalink: /ultimates/top/02_omega_mf/
 
 After a while, Omega-M and Omega-F will both cast *Party Synergy*, the first major mechanic of this phase.
 
+---
+
 ## Party Synergy
 
 <table>
@@ -97,6 +99,8 @@ Identifying the first set of safe spots will take some practice. Nukemaru has co
 
 {% include youtube.html id="tfZgwiXoSoY" %}
 
+---
+
 ## Limitless Synergy
 
 Omega-M and Omega-F will reappear in the middle of the arena.
@@ -135,6 +139,8 @@ Meanwhile, five more Omega-M/F clones outside the arena will throw various mecha
     <td><img src="../images/02_omega_mf/limitless_synergy_06.jpg"></td>
   </tr>
 </table>
+
+---
 
 ## Frequently Asked Questions
 

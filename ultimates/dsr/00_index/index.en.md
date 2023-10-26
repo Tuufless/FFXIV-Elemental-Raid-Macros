@@ -33,9 +33,13 @@ Looking towards the future:
 ![](images/dsr_cheatsheet.jpg)
 *(Shortened link: [https://cutt.ly/EleDC_DSR_summary](images/dsr_cheatsheet.jpg))*
 
+---
+
 ## Things to note
 
 - Using automarkers to mark Thunder players in Wroth of the Heavens, and especially Wroth Flames is considered the norm (*use at your own risk*).
+
+---
 
 # Ser Adelphel and Ser Grinnaux
 
@@ -70,6 +74,8 @@ All markers are used to bait Hyperdimensional Slashes (black orbs).
 ```
 
 </details>
+
+---
 
 # King Thordan
 
@@ -133,6 +139,8 @@ The intercardinal markers demarcate:
 ```
 
 </details>
+
+---
 
 ## Frequently Asked Questions
 

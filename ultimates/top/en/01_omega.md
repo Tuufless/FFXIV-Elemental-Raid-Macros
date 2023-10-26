@@ -8,6 +8,10 @@ permalink: /ultimates/top/01_omega/
 
 # Omega
 
+Omega's first form is often nicknamed "Beetle Omega", and is one of the many iterations of Omega players will encounter this Ultimate raid.
+
+---
+
 ## Program Loop
 
 Players receive a set of numbered debuffs. Each number (1, 2, 3, and 4) each have two players.
@@ -47,6 +51,8 @@ The HP Penalty debuff will wear off within two steps (players numbered 3 and 4 w
 </table>
 
 After the fourth set of towers, top up the party when the last sets of HP Penalties wear off, and prepare for Omega's next mechanic.
+
+---
 
 ## Pantokrator
 
@@ -163,6 +169,8 @@ Omega will then target the three random non-tank players with a red marker for W
   </tr>
 </table>
 
+---
+
 ## Frequently Asked Questions
 
 <details markdown=block>
@@ -188,6 +196,8 @@ Omega will then target the three random non-tank players with a red marker for W
   </ul></td></tr>
 </table>
 </details>
+
+---
 
 ## Troubleshooting
 

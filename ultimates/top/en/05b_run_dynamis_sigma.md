@@ -14,6 +14,8 @@ Run: Dynamis (Sigma Version) can be broken down into three parts:
 2. [Mid/Remote Glitch and knockback towers](#2-knockback-towers)
 3. [Hello, World](#3-hello-world-sigma)
 
+---
+
 ## 1. Wave Cannons and Lasers
 
 <table>
@@ -70,6 +72,8 @@ Run: Dynamis (Sigma Version) can be broken down into three parts:
   </tr>
 </table>
 
+---
+
 ## 2. Knockback Towers
 
 The next step are the towers with Mid/Remote Glitch.
@@ -88,6 +92,8 @@ There are several strategies to deal with this, but we have chosen to go with a 
     <td colspan="2"><p><b>7.</b> Move towards the center, and position yourself in front of your tower.</p><p>Omega-F then appears in the center of the arena, and knocks back all players towards the edge.</p><p>Stand either in the center of the towers (if Mid Glitch), or at the edge of the towers (if Remote Glitch).</p></td>
   </tr>
 </table>
+
+---
 
 ## 3. Hello, World (Sigma)
 
@@ -128,6 +134,7 @@ From here, we finally reach the last part of Run, Dynamis: Sigma which is the pa
   </tr>
 </table>
 
+---
 
 ## Frequently Asked Questions
 

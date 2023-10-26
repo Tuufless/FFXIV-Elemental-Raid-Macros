@@ -44,6 +44,8 @@ This phase requires planning out and coordinating mitigations. One such mitigati
 
 The above mitigation plan was made in the *absence* of jobs that provide more than one sort of mitigation such as PLD's Passage of Arms, AST's Collective Unconsciousness, MCH's Dismantle, or RDM's Magick Barrier.
 
+---
+
 ## Cosmo Memory
 
 Cosmo Memory is a Tank LB3 check- its damage *still* needs to be mitigated in addition to the Tank LB3.
@@ -67,6 +69,8 @@ This will also convert everyone with three stacks of Quickening Dynamis into a s
 
 The Dynamis buffs are lost when a player dies, which will end up killing that player for all of Alpha's Omega's mechanics thereafter.
 
+---
+
 ## Auto-attacks
 
 Before each mechanic combo starts, Alpha Omega will autoattack twice.
@@ -86,6 +90,8 @@ Before each mechanic combo starts, Alpha Omega will autoattack twice.
 
 <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
 Auto-attacks go through tank invulns. Tanks whose invuln leaves them at 1HP will need to be healed to survive incoming auto-attacks.</div>
+
+---
 
 ## Cosmo Arrow → Cosmo Dive
 
@@ -268,6 +274,8 @@ Cosmo Dive targets the two closest players with a high-damage AoE (which should 
   </tr>
 </table>
 
+---
+
 ## Unlimited Wave Cannon → Wave Cannon
 
 Alpha Omega autoattacks twice before starting its second combination.
@@ -309,7 +317,9 @@ In particular, this final beam deals extra damage to the two front players, whic
   </tr>
 </table>
 
- ## Cosmo Arrow → Wave Cannon
+---
+
+## Cosmo Arrow → Wave Cannon
 
  Alpha Omega autoattacks twice before starting its third mechanic combination.
 
@@ -509,6 +519,8 @@ In particular, this final beam deals extra damage to the two front players, whic
   </tr>
 </table>
 
+---
+
 ## Unlimited Wave Cannon → Cosmo Dive
 
 Alpha Omega autoattacks twice before starting its fourth mechanic combination.
@@ -535,6 +547,8 @@ The tanks will move forward into the boss's hitbox, with the MT going to the lef
     <td><img src="../images/06_alpha_omega/alpha_omega_4_4.jpg"></td>
   </tr>
 </table>
+
+---
 
 ## Cosmo Meteor
 
@@ -578,6 +592,8 @@ This is the final mechanic of the fight, and marks the start to the LB3 rush thi
   </tr>
 </table>
 
+---
+
 ## Magic Number
 
 From here, Alpha Omega will cast Magic Number, which *must* be mitigated with a Tank LB3. Magic Number will also apply a debuff by the same name on all members of the party, which must be dispelled with a Healer LB3.
@@ -590,6 +606,8 @@ From here, Alpha Omega will cast Magic Number, which *must* be mitigated with a 
 </table>
 
 Alpha Omega will do a second Magic Number (requiring another Tank into Healer LB3) before casting Run: \*\*\*\*mi\* (which is a 30-second cast) as the hard enrage of the fight.
+
+---
 
 ## Buff windows
 
@@ -608,9 +626,13 @@ However, because players will be taking turns LB3'ing, some players will prefer 
   </tr>
   <tr>
     <td><b>3. Halfway into the enrage cast</b></td>
-    <td><p>The melee that will LB3 after the Healer LB3s <b>should not</b> use potions here.</p><p>Potions should be used immediately after the second Healer LB3 (when Run: ****mi* starts) to get the full use before the enrage resolves.</p>2-minute buffs will come up <em>halfway</em> into the pot duration and may be clipped by the enrage depending on their duration, and how much they were delayed after Wave Cannon #2.</p></td>
+    <td><p>The melee that will LB3 after the Healer LB3s <b>should not</b> use potions here.</p>
+    <p>Potions should be used immediately after the second Healer LB3 (when Run: ****mi* starts) to get the full use before the enrage resolves.</p>
+    <p>2-minute buffs will come up <em>halfway</em> into the pot duration and may be clipped by the enrage depending on their duration, and how much they were delayed after Wave Cannon #2.</p></td>
   </tr>
 </table>
+
+---
 
 ## Frequently Asked Questions
 
