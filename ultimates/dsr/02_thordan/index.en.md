@@ -156,49 +156,51 @@ In other words:
         <li>Swap players as needed such that the two marked players are north and south.</li>
         <li>If the two marked players are east and west, west swaps with north, and east swaps with south.</li>
       </ul>
+      <p><em>In this example, H1 and MT will swap places.</em></p>
     </td>
     <td><img src="images/meteors_01_01.jpg"></td>
   </tr>
   <tr>
-    <td><b>2.</b> After adjusting players, ice puddles get dropped on each pair.</td>
-    <td><img src="images/meteors_01_02.jpg"></td>
-  </tr>
-  <tr>
     <td>
-      <p><b>3.</b> Players then split off into their respective towers.</p>
+      <p><b>2.</b> Ice puddles get dropped on each pair, and players then split off into their respective towers.</p>
       <p><b>Meteor role:</b></p>
       <ul>
-        <li>Take the first outside tower in the following priority:*<pre><code>center > ccw > cw</code></pre></li>
+        <li><p>Unless your partner indicates otherwise <em>(see the next step)</em>, take the first outside tower in the following priority:</p>
+        <p style="text-align:center"><b>center > ccw > cw</b></p></li>
         <li>Take your tower as close to the center N/S line as you can <em>(observe H1's position in the diagram)</em>.</li>
       </ul>
       <p><b>Non-Meteor role:</b></p>
       <ul>
-        <li>Check if your quarter has two towers. If so, take the second tower (following the same priority above)</li>
-        <li>If your quarter only has one tower on the outside, you are moving in instead.
+        <li>If your quarter has <b>two</b> towers, move <b>out</b> and take the second tower (following the same priority above)</li>
+        <li>If your quarter only has <b>one</b> tower on the outside, move <b>in</b> instead.
           <ul>
-            <li>If there is a tower immediately clockwise to your ice puddle, take it.</li>
-            <li>If there isn't, flex to take any remaining towers on the inside.</li>
+            <li>If there is a tower <b>immediately clockwise</b> to your ice puddle, take it.</li>
+            <li>If there isn't, you adjust as needed to take any remaining towers on the inside.</li>
           </ul>
         </li>
       </ul>
-      <p><em>* If you have voice comms to coordinate, try to get the two meteor players opposite one another- prioritizing center is best in the</em> absence <em>of external player communication.</em></p>
     </td>
     <td><img src="images/meteors_01_03.jpg"></td>
   </tr>
   <tr>
+    <td><p><b>3.</b> Like the towers in <em>Strength of the Ward</em>, before stacking in pairs, it helps if players move in the direction of the tower they are going to take to communicate where they'll be going next.</p>
+    <p>This is particularly important for the N/S positions, as you want to try and avoid putting either of the meteor players into a "cursed" pattern as much as possible.</p></td>
+    <td><img src="images/sanctity_towers.jpg"></td>
+  </tr>
+  <tr>
     <td>
-      <p><b>4. </b> First set of towers resolve.</p>
+      <p><b>4. </b> First set of towers resolve.</p><p>Seven meteors will drop, one-by-one on the two previously marked players. Two meteors cannot be dropped near one another, or the raid wipes.</p>
+      <p>Meanwhile, eight towers spawn on the outside at the eight intercardinal positions.</p>
       <p><b>Meteor players</b>:</p>
       <ul>
         <li>
           <p>Run <b>clockwise</b> around the arena to drop meteors.</p>
-          <p><em>Without any extra information, it is better to zigzag first and then speed up once you know you have room, instead of run first and discover you need to slow down.</em></p>
         </li>
         <li>The other two Meteor-role players (that aren't dropping Meteors) take the E/W towers.</li>
       </ul>
       <p><b>Non-Meteor players:</b></p>
       <ul>
-        <li>Move to take the intercardinal tower <b>clockwise</b> of your ice puddle.</li>
+        <li>Move to take the intercardinal tower <b>clockwise of your ice puddle.</b></li>
         <li>If you are on the inside, align yourself to get knocked back into that tower.</li>
       </ul>
     </td>
@@ -330,13 +332,13 @@ Since there are many Meteor configurations, here are a couple additional scenari
   <tr>
     <td>
       <p><b>3.</b> Players then split off into their respective towers.</p>
-      <p>This is the unfortunate case where following the macro makes things harder. If communication lines were available, D3 would've ideally gone to the cw tower instead of ccw.</p>
+      <p>This is the unfortunate case where blindly following the priority order makes things harder.</p><p>Ideally, the MT would've communicated that they should take the ccw tower, so D3 would take the cw tower and "uncurse" D1 as a result.</p>
       <p>By taking the towers as close to the N/S line, this maximises the available space even in the "cursed" configuration.</p>
       <ul>
         <li><b>North:</b>
           <ul>
             <li>
-              <b>Meteor role</b> (D3): Takes the ccw tower, following the priority order.
+              <b>Meteor role</b> (D3): Takes the ccw tower <em>(assuming they were blindly following the priority order)</em>.
             </li>
             <li>
               <b>Non-Meteor role</b> (MT): Takes the remaining outside tower.
@@ -422,5 +424,66 @@ After both sets are complete, Thordan will cast *Aetheric Burst*, which serves a
 <summary><b>[Sanctity of the Ward]</b> Why is there a need for a role swap? Aren't there simpler strategies?</summary>
 <table>
   <tr><td><p>We do a role swap because we want each group to have:<ol><li>One healer</li><li>Four players</li></ol>This minimises the damage each group takes, while still being able to heal in between the two Sacred Severs each group takes.</p><p>You <em>can</em> use other strats under <em>certain</em> conditions (e.g: an AST's Macrocosmos lets you do pretty much any strat you want), but this unfortunately doesn't generalise to PF.</p></td></tr>
+</table>
+</details>
+<details markdown=block>
+<summary><b>[Sanctity of the Ward]</b> What is the probability of forced cursed N/S towers?</summary>
+<table>
+  <tr><td colspan="2"><p>Talk about a discrete maths question!</p>
+  <p>Remember that tower rules are as follows:</p>
+  <ul>
+    <li>Either five or six towers are on the outside.</li>
+    <li>There are four quadrants, each with three possible tower positions on the outside.</li>
+    <li>Each quadrant must have at least one tower on the outside, but cannot have more than two.</li>
+  </ul>
+  <p>Assuming a random distribution, and that there is an equal chance for there to be five or six towers on the outside, we can count the total number of possible tower combinations:</p>
+  </td>
+  </tr>
+  <tr>
+    <td width="50%"><b>Five towers on the outside</b></td>
+    <td><b>Six towers on the outside</b></td>
+  </tr>
+  <tr>
+    <td><p>There are C(3, 1)^4 ways to pick one tower in each quadrant.</p>
+    <p>This leaves us with one extra tower to add, and four possible quadrants we can put the extra tower in, giving us a total of:</p>
+    <p style="text-align:center">C(4,1) x C(3,1)^4 = 324 possible combinations</p></td>
+    <td><p>There are C(3, 1)^4 ways to pick one tower in each quadrant.</p>
+    <p>This leaves us with two extra towers to add, and four possible quadrants we can put the extra tower in, giving us a total of:</p>
+    <p style="text-align:center">C(4,2) x C(3,1)^4 = 486 possible combinations</p></td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>In total, there are <b>810</b> possible tower combinations that can spawn.</p>
+    <p>Next, we count the number of <em>cursed</em> tower combinations.</p></td>
+  </tr>
+  <tr>
+    <td><b>Five towers on the outside</b></td>
+    <td><b>Six towers on the outside</b></td>
+  </tr>
+  <tr>
+    <td><p>If we fix the North and South quadrant's towers to be on one side, then we have three remaining towers to place, and only the two E/W quadrants to put them in.</p>
+    <p>Following the same logic above, this means we have C(2,1) x C(3,1)^2 ways to place three towers in two quadrants.</p>
+    <p>We double this to account for its reflection (i.e: fixing the east-most towers instead) to get a total of:</p>
+    <p style="text-align:center">2 x C(2,1) x C(3,1)^2 = 36 cursed combinations.</p></td>
+    <td><p>If we fix the North and South quadrant's towers to be on one side, then we have four remaining towers to place, and only the two E/W quadrants to put them in.</p>
+    <p>Following the same logic above, this means we have C(2,2) x C(3,1)^2 ways to place four towers in two quadrants.</p>
+    <p>We double this to account for its reflection (i.e: fixing the east-most towers instead) to get a total of:</p>
+    <p style="text-align:center">2 x C(2,2) x C(3,1)^2 = 18 cursed combinations.</p></td>
+  </tr>
+  <tr>
+    <td colspan="2">Thus, we have 54 cursed tower combinations out of a possible 810 combinations, giving us a <b>6.67%</b> chance at getting a forced N/S cursed tower combination, or a <b>1/15 chance</b>.</td>
+  </tr>
+</table>
+</details>
+
+---
+
+## Troubleshooting
+
+<details markdown=block>
+<summary><b>[Sanctity of the Ward]</b> Any tips for cursed towers?</summary>
+<table>
+  <tr><td><p>Because there will be at least five towers on the outside, there will <em>always</em> be a non-cursed pair of positions.</p>
+  <p>The problem is that this pair of positions isn't necessarily North and South. If you have voice comms, you can try to communicate that the Meteor pairs should go East and West instead, although this is rarely done.</p>
+  <p>There are 90 notches around the arena. Assuming you have the cursed (120 degrees) tower pattern, you have 30 notches to put seven gaps between Meteors, which amounts to just over <b>four notches each</b>.</p></td></tr>
 </table>
 </details>
