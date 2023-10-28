@@ -533,17 +533,11 @@ Here are some other potential configurations to consider:
 </table>
 </details>
 
-### Wyrmsbreath 2
+### Wyrmsbreath 2 (5-1)
 
 This iteration of Wyrmsbreath is different because we **do not** want to stack opposite tethers.
 
-There are two main methods to resolve this.
-
-#### Method 1: Spread tethers 5 North, 1 South (5-1)
-
-This is the more common method, and has one player go south (D3) to give additional space for the other five non-tanks to spread out along the North edge.
-
-All tethers can be fully stretched, however, players will need to adjust their positioning on the fly.
+One player goes south (D3) to give additional space for the other five non-tanks to spread out along the North edge. Note that all melees can still maintain uptime on a dragon during the mechanic.
 
 <table>
   <tr>
@@ -560,37 +554,6 @@ All tethers can be fully stretched, however, players will need to adjust their p
   </tr>
 </table>
 
-#### Method 2: Fixed positions
-
-This method fixes all player positions (except for the tanks), greatly simplifying the mechanic.
-
-However, player positioning is precise, and depending on which dragon players are tethered to, they may take additional damage.
-
-<table>
-  <tr>
-    <td width="50%">
-      <ul>
-        <li><b>MT:</b> NW if you get the single-target tankbuster (by Nidhogg).</li>
-        <li><b>ST:</b> SE if you get the single-target tankbuster (by Hraesvelgr).</li>
-      </ul>
-      <p><em>Tanks should use where the outer AoE intersects the boss's targeting circle as a reference point.</em></p>
-      <ul>
-        <li><b>H1:</b> As far true North as you can go.</li>
-        <li><b>H2:</b> As far true South as you can go.</li>
-      </ul>
-      <p><em>Be careful if a tank gets a single-target tankbuster, as you </em>may<em> be in range if poorly positioned.</em></p>
-      <ul>
-        <li><b>D1:</b> NW corner of the white tile beside Nidhogg.</li>
-        <li><b>D2:</b> Between the two white tiles besides Hraesvelgr.</li>
-        <li><b>D3:</b> 1/2 a tile west of the western "train track", as far south as you can go.</li>
-        <li><b>D4:</b> 1/2 a tile east of the eastern "train track", as far north as you can go.</li>
-      </ul>
-      <p><em>Depending on which dragon you are tethered to, your tether <b>may not stretch fully</b>. Use personal mitigations to help survive.</em></p>
-    </td>
-    <td><img src="images/fixed_wyrmsbreath2.jpg"><a href="images/fixed_wyrmsbreath2.jpg"><em>(Full-sized image)</em></a></td>
-  </tr>
-</table>
-
 ---
 
 ## Cauterize
@@ -600,15 +563,14 @@ The reason why we did not stack opposite tethers in Wyrmsbreath #2 was because w
 <table>
   <tr>
     <td width="50%">
-      <p><b>1. Cauterize</b></p>
-      <p>Nidhogg and Hraesvelgr will spawn along the north edge in a <b>random</b> orientation.</p>
+      <p><b>1.</b> Nidhogg and Hraesvelgr will spawn along the north edge in a <b>random</b> orientation.</p>
       <ul>
         <li><b>MT:</b> West, in front of the other party members.</li>
         <li><b>ST:</b> East, in front of the other party members.</li>
-        <li><b>Players with the Fire debuff:</b> Stand in front of Hraesvelgr.</li>
+        <li><b>Players with the Fire debuff:</b> Stand in front of Hraesvelgr. <em>Do not move.</em></li>
         <li><b>Players with the Ice debuff:</b> Stand in front of Nidhogg.</li>
       </ul>
-      <p><b>Do not move</b> once Nidhogg's debuff turns into Pyretic, or Hraesvelgr's Cauterize will kill you and enrage.</p>
+      <p><b>Do not move</b> as Nidhogg's debuff will turn into Pyretic. The resulting damage will result in Hraesvelgr's Cauterize killing you and cause Hraesvelgr to enrage.</p>
       <div style="background-color: #200 ; padding: 10px; border: 1px solid;"><b>Note:</b> If you have a DRK and are using Living Dead here, neither dragon will be targetable for the DRK to recover HP.</div>
     </td>
     <td><img src="images/cauterize_01.jpg"></td>
@@ -655,6 +617,38 @@ When the bleed from *Shockwave* disappears, **heavily shield and mitigate** in o
   <p>The problem with manually marking each pair using the same marker type is that this task cannot be split between two players, because there's now a possibility that the two players pick the same person twice.</p>
   <p>For example, in the configuration on the right, one person can pick the WAR + SMN as a pair, then the other pick RDM + SMN, doubling up on the SMN and leaving the SAM unmarked (it also doesn't help that <em>Mortal Atonement</em> looks like a purple spread debuff).</p></td>
   <td><img src="images/wroth_flames_debuffs.jpg"></td></tr></tr>
+</table>
+</details>
+<details markdown=block>
+<summary><b>[Wyrmsbreath 2]</b> What is the fixed Wyrmsbreath 2 strat?</summary>
+<table>
+  <tr>
+    <td><p>As the name implies, this is a strat that fixes all player positions (except for the tanks, who may have to stack in the middle).</p>
+    <p>The fixed Wyrmsbreath 2 strat is popular in other regions, but has fallen out of favour in Elemental.</p>
+    <ul>
+        <li><b>MT:</b> NW if you get the single-target tankbuster (by Nidhogg).</li>
+        <li><b>ST:</b> SE if you get the single-target tankbuster (by Hraesvelgr).</li>
+      </ul>
+      <p><em>Tanks should use where the outer AoE intersects the boss's targeting circle as a reference point.</em></p>
+      <ul>
+        <li><b>H1:</b> As far true North as you can go.</li>
+        <li><b>H2:</b> As far true South as you can go.</li>
+      </ul>
+      <p><em>Be careful if a tank gets a single-target tankbuster, as you </em>may<em> be in range if poorly positioned.</em></p>
+      <ul>
+        <li><b>D1:</b> NW corner of the white tile beside Nidhogg.</li>
+        <li><b>D2:</b> Between the two white tiles besides Hraesvelgr.</li>
+        <li><b>D3:</b> 1/2 a tile west of the western "train track", as far south as you can go.</li>
+        <li><b>D4:</b> 1/2 a tile east of the eastern "train track", as far north as you can go.</li>
+      </ul>
+      <p><em>Depending on which dragon you are tethered to, your tether <b>may not stretch fully</b>. Use personal mitigations to help survive.</em></p>
+      <p>This method fixes all player positions (except for the tanks), which simplifies positioning.</p>
+      <p>However, player positioning is precise, and when things go wrong, it's often difficult to diagnose what went wrong.</p>
+    </td>
+  <td>
+    <img src="images/fixed_wyrmsbreath2.jpg">
+    <a href="images/fixed_wyrmsbreath2.jpg"><em>(Full-sized image)</em></a>
+  </td></tr>
 </table>
 </details>
 <details markdown=block>
