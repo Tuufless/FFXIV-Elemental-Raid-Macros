@@ -131,6 +131,9 @@ My preferred strat is an upside-down version of the "Komazou" strat, which split
         <li>The inner two players take the intercardinal positions. <em>(N.B: The intercardinal players are <u>not</u> directly in front of the "shuriken" mark.)</em></li>
       </ul>
       <p><b>Find Thordan and the Dragon's Eye.</b></p>
+      <ul>
+        <li>Thordan and the Dragon's Eye will always spawn at cardinal or intercardinal positions, either 135 or 180 degrees away from each other.</li>
+      </ul>
     </td>
     <td><img src="images/death_of_the_heavens_03.jpg"></td>
   </tr>
