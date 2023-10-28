@@ -268,6 +268,7 @@ The party will be affected by a variety of spread and stack debuffs that will re
     <td><img src="images/spreading_flames.png"></td>
     <td>
       <p><b>Spreading Flames</b></p>
+      <p><em>Powerless against Nidhogg's desire for vengeance.</em></p>
       <p>Four players will be targeted with this debuff.</p>
       <ul>
         <li>When the timer expires, a point-blank AoE centered on the player resolves.</li>
@@ -279,6 +280,7 @@ The party will be affected by a variety of spread and stack debuffs that will re
     <td><img src="images/entangled_flames.png"></td>
     <td>
       <p><b>Entangled Flames</b></p>
+      <p><em>Powerless against Nidhogg's desire that another share his suffering.</em></p>
       <p>Two players will be targeted with this debuff (which leaves two players without any debuffs).</p>
       <ul>
         <li>When the timer expires, a two-man stack AoEs centered on the player resolves.</li>
