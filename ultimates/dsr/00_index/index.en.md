@@ -35,6 +35,18 @@ Looking towards the future:
 
 ---
 
+## PoVs
+
+Here are some clear PoVs that I've been collecting.
+
+- [MT PoV (WAR)](https://youtube.com/live/MiZe7qd7cws)
+- [ST PoV (PLD)](https://youtube.com/live/7iFsy8xbeSc)
+- [H1 PoV (WHM)](https://youtube.com/live/UJEpzF2nJo8)
+- [H2 PoV (SCH)](https://youtube.com/live/no32eDv_lnQ)
+- [D2 PoV (NIN)](https://youtube.com/live/XOgCkE9Jdts)
+
+---
+
 ## Things to note
 
 - Using automarkers to mark Thunder players in Wroth of the Heavens, and especially Wroth Flames is considered the norm (*use at your own risk*).
