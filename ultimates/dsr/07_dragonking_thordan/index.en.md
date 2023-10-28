@@ -32,27 +32,27 @@ This phase requires planning out and coordinating mitigations. The recommended b
 <table>
   <tr>
     <td><b>Alterative End</b></td>
-    <td><p>MT 90s, ST 90s, H2 shields, H2 30s, H2 120s* (x2)</p><p><em>* Expedience + Consolation / Holos + Panhaima</em></p></td>
+    <td><p>ST 90s, H2 strong shields, H2 30s, H2 120s, D3</p></td>
   </tr>
   <tr>
     <td><b>Akh Morn's Edge #1</b></td>
-    <td>MT Reprisal, H1 120s, H2 shields, H2 30s, D1, D4</td>
+    <td>MT Reprisal, H1 120s, H2 30s, D1, D4</td>
   </tr>
   <tr>
     <td><b>Gigaflare's Edge #1</b></td>
-    <td>ST Reprisal, H2 shields, H2 30s, D2, D3</td>
+    <td>MT 90s, ST Reprisal, H2 30s, D2</td>
   </tr>
   <tr>
     <td><b>Akh Morn's Edge #2</b></td>
-    <td>MT Reprisal, MT 90s, ST 90s, H1 180s, H2 shields, H2 30s</td>
+    <td>MT Reprisal, ST 90s, H1 180s, H2 30s, D3</td>
   </tr>
   <tr>
     <td><b>Gigaflare's Edge #2</b></td>
-    <td>ST Reprisal, H2 shields, H2 30s, D1, D4</td>
+    <td>ST Reprisal, H2 30s, H2 120s D1, D4</td>
   </tr>
   <tr>
     <td><b>Akh Morn's Edge #3</b></td>
-    <td>MT Reprisal, H1 120s, H2 120s, D2, D3</td>
+    <td>MT Reprisal, MT 90s, H1 120s, H2 30s, D2</td>
   </tr>
 </table>
 
