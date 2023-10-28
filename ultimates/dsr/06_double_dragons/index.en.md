@@ -258,6 +258,47 @@ Here are some other potential configurations to consider:
 
 Wroth Flames is the "intermission" in this phase, separating the first and second iteration of each of the looped mechanics.
 
+The party will be affected by a variety of spread and stack debuffs that will resolve at the end of the mechanic.
+
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+<details markdown=block>
+<summary><b>[Click to Expand] Wroth Flames debuffs</b></summary>
+<table>
+  <tr>
+    <td><img src="images/spreading_flames.png"></td>
+    <td>
+      <p><b>Spreading Flames</b></p>
+      <p>Four players will be targeted with this debuff.</p>
+      <ul>
+        <li>When the timer expires, a point-blank AoE centered on the player resolves.</li>
+        <li>If the debuffed player dies, or there are not enough players alive to assign the debuff to, it explodes, wiping the raid.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="images/entangled_flames.png"></td>
+    <td>
+      <p><b>Entangled Flames</b></p>
+      <p>Two players will be targeted with this debuff (which leaves two players without any debuffs).</p>
+      <ul>
+        <li>When the timer expires, a two-man stack AoEs centered on the player resolves.</li>
+        <li>Each player with an Entangled Flames debuff will pair together with a player that does not have any debuff.</li>
+        <li>If the debuffed player dies, or there are not enough players alive to assign the debuff to, it explodes, wiping the raid.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+</details>
+</div>
+
+In addition:
+
+- Hraesvelgr will spawn along on of three columns and Cauterize half the arena. *(this gives a 2/3 chance that the party will have melee uptime on Nidhogg during this mechanic.)*
+- Nidhogg will cast Akh Morn, which is a party stack that hits four times. Each hit also leaves behind a puddle that will inflict a bleed on any player that stays inside for too long, killing that player.
+- Three sets of *Sable Price* eyes will spawn one after the other. Each set will explode in order, dealing damage along their row and column. The center set will always spawn first, followed by two more sets on opposite corners.
+- Finally, Nidhogg will cast either *Hot Wing* or *Hot Tail*, which resolves together with the debuffs.
+
 When dropping Akh Morns, the most efficient movement (geometrically) is to move **perpendicular from the wall in a straight line**, and then curve in after the third Akh Morn.
 
 <table>
