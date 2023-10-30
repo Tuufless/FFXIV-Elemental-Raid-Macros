@@ -427,16 +427,17 @@ After both sets are complete, Thordan will cast *Aetheric Burst*, which serves a
 </table>
 </details>
 <details markdown=block>
-<summary><b>[Sanctity of the Ward]</b> What is the probability of forced cursed N/S towers?</summary>
+<summary><b>[Sanctity of the Ward]</b> What is the probability of getting forced cursed N/S towers?</summary>
 <table>
-  <tr><td colspan="2"><p>Talk about a discrete maths question!</p>
-  <p>Remember that tower rules are as follows:</p>
+  <tr><td colspan="2"><p>Time to stretch those discrete maths muscles!</p>
+  <p>I will use the notation C(n,r) to represent choosing r objects from a set of size n, which is given by C(n,r) = n!/[r!(n-r)!].</p>
+  <p>With that out of the way, recall that Sanctity towers spawn according to the following rules:</p>
   <ul>
-    <li>Either five or six towers are on the outside.</li>
-    <li>There are four quadrants, each with three possible tower positions on the outside.</li>
+    <li>There are either five or six towers are on the outside.</li>
+    <li>There are four quadrants in the arena, each with three possible tower positions on the outside.</li>
     <li>Each quadrant must have at least one tower on the outside, but cannot have more than two.</li>
   </ul>
-  <p>Assuming a random distribution, and that there is an equal chance for there to be five or six towers on the outside, we can count the total number of possible tower combinations:</p>
+  <p>Assuming that all tower configurations that satisfy the above conditions have an equal chance of spawning, we can count the total number of possible tower combinations:</p>
   </td>
   </tr>
   <tr>
@@ -444,10 +445,10 @@ After both sets are complete, Thordan will cast *Aetheric Burst*, which serves a
     <td><b>Six towers on the outside</b></td>
   </tr>
   <tr>
-    <td><p>There are C(3, 1)^4 ways to pick one tower in each quadrant.</p>
+    <td><p>There are C(3,1)^4 ways to pick one tower in each quadrant.</p>
     <p>This leaves us with one extra tower to add, and four possible quadrants we can put the extra tower in, giving us a total of:</p>
     <p style="text-align:center">C(4,1) x C(3,1)^4 = 324 possible combinations</p></td>
-    <td><p>There are C(3, 1)^4 ways to pick one tower in each quadrant.</p>
+    <td><p>There are C(3,1)^4 ways to pick one tower in each quadrant.</p>
     <p>This leaves us with two extra towers to add, and four possible quadrants we can put the extra tower in, giving us a total of:</p>
     <p style="text-align:center">C(4,2) x C(3,1)^4 = 486 possible combinations</p></td>
   </tr>
@@ -470,7 +471,7 @@ After both sets are complete, Thordan will cast *Aetheric Burst*, which serves a
     <p style="text-align:center">2 x C(2,2) x C(3,1)^2 = 18 cursed combinations.</p></td>
   </tr>
   <tr>
-    <td colspan="2">Thus, we have 54 cursed tower combinations out of a possible 810 combinations, giving us a <b>6.67%</b> chance at getting a forced N/S cursed tower combination, or a <b>1/15 chance</b>.</td>
+    <td colspan="2">Thus, we have 54 cursed tower combinations out of a possible 810 combinations, or a <b>1/15 chance</b> (6.67%) at getting a forced N/S cursed tower combination.</td>
   </tr>
 </table>
 </details>
