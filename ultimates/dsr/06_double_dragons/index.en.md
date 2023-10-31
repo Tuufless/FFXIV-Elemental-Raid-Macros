@@ -62,7 +62,7 @@ The structure of this phase can be broken down as follows:
 - Second half
   - [Akh Afah #2](#akh-afah-2)
   - [Hallowed Wings #2](#hallowed-wings-2)
-  - [Wyrmsbreath #2](#wyrmsbreath-2)
+  - [Wyrmsbreath #2](#wyrmsbreath-2-5-1)
 - [Cauterize](#cauterize)
 
 In addition, each dragon also has their own enrage condition. Causing either dragon to break their vow will result in their attacks one-shotting anyone hit (including tanks), and lower their damage taken.
