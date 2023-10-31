@@ -10,6 +10,7 @@ permalink: /2.0_a_realm_reborn/extreme_trials/garuda/
 # The Howling Eye (Extreme)
 
 ## Japanese
+
 ```
 {% include_relative macros/garuda.jp.txt %}
 ```

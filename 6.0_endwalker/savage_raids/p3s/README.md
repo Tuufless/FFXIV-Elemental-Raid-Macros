@@ -9,7 +9,9 @@ permalink: /6.0_endwalker/savage_raids/p3s/
 
 # Asphodelos: The Third Circle (Savage)
 
-PF uses [Inumaru's strat](https://youtu.be/BHMjrxpZb7k) as a base, but puts Darkened Fires (闇の炎) on intercardinal positions (Shinosho), and replaces Fountain of Fire (霊泉) with Mr. Happy's strat (see below).
+PF uses [Inumaru's strat](https://youtu.be/BHMjrxpZb7k) as a base, but puts
+Darkened Fires (闇の炎) on intercardinal positions (Shinosho), and replaces
+Fountain of Fire (霊泉) with Mr. Happy's strat (see below).
 
 English parties replace Firestorms of Asphodelos (FoA) with "my" strat (see below).
 
@@ -17,9 +19,13 @@ English parties replace Firestorms of Asphodelos (FoA) with "my" strat (see belo
 
 - Check the positions for the transition *(older macros may have different positioning)*
 
+---
+
 ## English
 
-This is the macro often used in **English** parties. In particular, Firestorms of Asphodelos is, er, ["my" strat](#firestorms-of-asphodelos).
+This is the macro often used in **English** parties. In particular, Firestorms
+of Asphodelos is, er, ["my" strat](#firestorms-of-asphodelos).
+
 ```
 {% include_relative macros/p3s_tuufless.en.txt %}
 ```
@@ -35,7 +41,9 @@ This is the macro often used in **English** parties. In particular, Firestorms o
 
 ## Japanese
 
-This is the [game8 macro](https://game8.jp/ff14/421350) often used by **Japanese** parties.
+This is the [game8 macro](https://game8.jp/ff14/421350) often used by
+**Japanese** parties.
+
 ```
 {% include_relative macros/p3s_inumaru.jp.txt %}
 ```
@@ -49,12 +57,14 @@ This is the [game8 macro](https://game8.jp/ff14/421350) often used by **Japanese
 
 </details>
 
+---
+
 ## Markers
 
 - `ABCD` are for orientation, and for the transition stacks (if applicable).
 - `1234` are for:
-	- Resolving the "Limit Cut" dice during Darkened Fires
-	- Placing the eye thingies during Fledgling Flight.
+  - Resolving the "Limit Cut" dice during Darkened Fires
+  - Placing the eye thingies during Fledgling Flight.
 
 ![](images/markers.jpg)
 
@@ -78,6 +88,8 @@ This is the [game8 macro](https://game8.jp/ff14/421350) often used by **Japanese
 
 </details>
 
+---
+
 ## Experimental Gloryplume
 
 ```
@@ -87,9 +99,13 @@ This is the [game8 macro](https://game8.jp/ff14/421350) often used by **Japanese
 　　D3　　　D4　　1st→D1D4　　2nd→MTH2
 　　　H1　H2　　　3rd→STH1　　4th→D2D3
 ```
-The first Experimental Gloryplume always starts with the four explosions around the outside of the arena. We use these four explosions to determine where everyone is spreading.
 
-For example, if the first two explosions were the ones below (east and west), then the final spread positions for the black orbs spread would look like:
+The first Experimental Gloryplume always starts with the four explosions around
+the outside of the arena. We use these four explosions to determine where
+everyone is spreading.
+
+For example, if the first two explosions were the ones below (east and west),
+then the final spread positions for the black orbs spread would look like:
 
 ```
     3             ST
@@ -99,13 +115,16 @@ For example, if the first two explosions were the ones below (east and west), th
     3             H1
 ```
 
+---
+
 ## Firestorms of Asphodelos
 
 There are two main ways of doing Firestorms of Asphodelos (FoA) in PF.
 
 ### Firestorms of Asphodelos (Inumaru)
 
-**Japanese** parties will follow Inumaru's strat. Inumaru's strat maintains the pairs from the earlier Experimental Gloryplume:
+**Japanese** parties will follow Inumaru's strat. Inumaru's strat maintains the
+pairs from the earlier Experimental Gloryplume:
 
 - **Tanks** + Melee north
 - **Healers** + Ranged south
@@ -121,16 +140,20 @@ There are two main ways of doing Firestorms of Asphodelos (FoA) in PF.
     <td><p><b>Storms of Asphodelos</b></p>
     <p>Dodge the "pizza" AoEs, and move into position:</p>
     <ul>
-      <li><b>Tanks:</b> Take the tethers, stand outside the boss's target circle to the NW and NE.</li>
+      <li><b>Tanks:</b> Take the tethers, stand outside the boss's target
+      circle to the NW and NE.</li>
       <li><b>H1, H2, D3:</b> Bait the fire tornadoes.</li>
-      <li><b>D1, D2, D4:</b> Fan out along the south side, inside the boss's target circle. Use the floor markings to help with positioning.</li>
+      <li><b>D1, D2, D4:</b> Fan out along the south side, inside the boss's
+      target circle. Use the floor markings to help with positioning.</li>
       </ul>
     </td>
     <td><img src="images/foa_inumaru_02.jpg"></td>
   </tr>
   <tr>
     <td><p><b>Darkblaze Twister (Spread)</b></p>
-    <p>Start from the black tornado, move clockwise around the boss to bait five sets of AoEs before getting knocked back. Stay close to the other tornados to dodge the donut AoEs before stacking or spreading as needed.</p>
+    <p>Start from the black tornado, move clockwise around the boss to bait
+    five sets of AoEs before getting knocked back. Stay close to the other
+    tornados to dodge the donut AoEs before stacking or spreading as needed.</p>
     <p>Using the black tornado as north:</p>
     <ul>
       <li><b>Tanks + Melee:</b> Knockback bottom-left</li>
@@ -143,7 +166,8 @@ There are two main ways of doing Firestorms of Asphodelos (FoA) in PF.
 
 ### Firestorms of Asphodelos (Tuufless)
 
-**English** parties will do ["my" strat](https://na.finalfantasyxiv.com/lodestone/character/10898230/blog/4933610/) instead. The pairings for Firestorms of Asphodelos are different:
+**English** parties will do ["my" strat](https://na.finalfantasyxiv.com/lodestone/character/10898230/blog/4933610/)
+instead. The pairings for Firestorms of Asphodelos are different:
 
 - **Healers** + Melee north
 - **Tanks** + Ranged south.
@@ -161,16 +185,20 @@ There are two main ways of doing Firestorms of Asphodelos (FoA) in PF.
     <td><p><b>Storms of Asphodelos</b></p>
     <p>Dodge the "pizza" AoEs, and move into position:</p>
     <ul>
-      <li><b>Tanks:</b> Take the tethers, stand inside the boss's target circle to the south, and invuln.</li>
+      <li><b>Tanks:</b> Take the tethers, stand inside the boss's target
+      circle to the south, and invuln.</li>
       <li><b>D1, D2, H1:</b> Stack NE of the boss, outside the target circle.</li>
       <li><b>D3, D4, H2:</b> Bait the fire tornadoes.</li></ul>
-      <p>In the event any of the ranged players are dead, H1 (followed by D2) goes and takes their position instead.</p>
+      <p>In the event any of the ranged players are dead, H1 (followed by D2)
+      goes and takes their position instead.</p>
     </td>
     <td><img src="images/foa_tuufless_02.jpg"></td>
   </tr>
   <tr>
     <td><p><b>Darkblaze Twister (Spread)</b></p>
-    <p>Start from the black tornado, move clockwise around the boss to bait five sets of AoEs before getting knocked back. Stay close to the other tornados to dodge the donut AoEs before stacking or spreading as needed.</p>
+    <p>Start from the black tornado, move clockwise around the boss to bait
+    five sets of AoEs before getting knocked back. Stay close to the other
+    tornados to dodge the donut AoEs before stacking or spreading as needed.</p>
     <p>Using the black tornado as north:</p>
     <ul>
       <li><b>Healers + Melee:</b> Knockback bottom-left</li>
@@ -180,6 +208,8 @@ There are two main ways of doing Firestorms of Asphodelos (FoA) in PF.
     <td><img src="images/foa_tuufless_03.jpg"></td>
   </tr>
 </table>
+
+---
 
 ## Timeline
 

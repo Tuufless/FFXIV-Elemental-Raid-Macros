@@ -45,7 +45,8 @@ The item level cap for the Second Coil of Bahamut is **iLvl 115**.
 
 ### The Second Coil of Bahamut (Savage) (Patch 2.3)
 
-The Second Coil of Bahamut is also unique as it is the only tier (in ARR) to feature an extra difficulty level.
+The Second Coil of Bahamut is also unique as it is the only tier (in ARR) to
+feature anextra difficulty level.
 
 - **T6S** - The Second Coil of Bahamut - Turn 1 (Savage)
 - **T7S** - The Second Coil of Bahamut - Turn 2 (Savage)
