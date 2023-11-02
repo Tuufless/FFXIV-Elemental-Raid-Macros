@@ -42,7 +42,7 @@ If you are already familiar with the Double Dragons phase, and just need a quick
     <td><b>Wyrmsbreath #2</b></td>
     <td>
       <ul>
-        <li>Fixed positions <b>or</b> 5-1 with D3 south</li>
+        <li>5-1 (D3 south)</li>
       </ul>
     </td>
   </tr>
@@ -616,7 +616,7 @@ When the bleed from *Shockwave* disappears, **heavily shield and mitigate** in o
   <p>I am personally not a fan because it is harder to replicate manually (effectively <em>mandating</em> automarkers).</p>
   <p>The problem with manually marking each pair using the same marker type is that this task cannot be split between two players, because there's now a possibility that the two players pick the same person twice.</p>
   <p>For example, in the configuration on the right, one person can pick the WAR + SMN as a pair, then the other pick RDM + SMN, doubling up on the SMN and leaving the SAM unmarked (it also doesn't help that <em>Mortal Atonement</em> looks like a purple spread debuff).</p></td>
-  <td><img src="images/wroth_flames_debuffs.jpg"></td></tr></tr>
+  <td><img src="images/wroth_flames_debuffs.jpg"></td></tr>
 </table>
 </details>
 <details markdown=block>
