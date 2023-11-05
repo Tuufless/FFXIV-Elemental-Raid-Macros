@@ -1,3 +1,5 @@
+# Run with mdl -s .\.mdl.rb <path>
+
 # Enable all rules by default
 all
 

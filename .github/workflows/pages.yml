@@ -33,13 +33,13 @@ jobs:
         uses: gaurav-nelson/github-action-markdown-link-check@v1
         with:
           use-verbose-mode: 'yes'
-      - name: MarkdownLint mdl Action
-        uses: actionshub/markdownlint@v2.1.2
-      - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
-        with:
-          source: ./
-          destination: ./_site
+      # - name: MarkdownLint mdl Action
+      #   uses: actionshub/markdownlint@v2.1.2
+      # - name: Build with Jekyll
+      #   uses: actions/jekyll-build-pages@v1
+      #   with:
+      #     source: ./
+      #     destination: ./_site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
 

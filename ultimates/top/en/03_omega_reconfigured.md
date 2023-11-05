@@ -381,7 +381,7 @@ With four monitors in total (Omega and three players) and each monitor hitting t
 </details>
 </div>
 
-PF currently resolves this using [Astoh's strat](https://twitter.com/Astoh_Shallfir/status/1619911321499361283?s=20) (アスト式), but with a different lineup order.
+PF currently resolves this using [Astoh's strat](https://twitter.com/Astoh_Shallfir/status/1619911321499361283) (アスト式), but with a different lineup order.
 
 <table>
   <tr>
