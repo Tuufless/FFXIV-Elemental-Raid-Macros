@@ -44,6 +44,7 @@ Here are some clear PoVs that I've been collecting.
 - [H1 PoV (WHM)](https://youtube.com/live/UJEpzF2nJo8)
 - [H2 PoV (SCH)](https://youtube.com/live/no32eDv_lnQ)
 - [D2 PoV (NIN)](https://youtube.com/live/XOgCkE9Jdts)
+- [D3 PoV (DNC)](https://youtube.com/live/GRYgI0waq34)
 
 ---
 
