@@ -10,7 +10,8 @@ permalink: /ultimates/dsr/06_double_dragons/
 
 ## Summary
 
-If you are already familiar with the Double Dragons phase, and just need a quick summary:
+If you are already familiar with the Double Dragons phase, and just need a
+quick summary:
 
 <table>
   <tr>
@@ -65,7 +66,9 @@ The structure of this phase can be broken down as follows:
   - [Wyrmsbreath #2](#wyrmsbreath-2-5-1)
 - [Cauterize](#cauterize)
 
-In addition, each dragon also has their own enrage condition. Causing either dragon to break their vow will result in their attacks one-shotting anyone hit (including tanks), and lower their damage taken.
+In addition, each dragon also has their own enrage condition. Causing either
+dragon to break their vow will result in their attacks one-shotting anyone hit
+(including tanks), and lower their damage taken.
 
 ### Solemn Vow
 
@@ -80,14 +83,23 @@ This one is simple. **Hraesvelgr will enrage if she kills *any* player.**
 <summary><b>[Click to Expand] Mortal Vow breakdown</b></summary>
 <table>
   <tr>
-    <td><p>After Wyrmsbreath #1, Nidhogg will give a random DPS a <em>Mortal Vow</em> debuff. This debuff:</p>
-    <ul>
-      <li>Applies a light DoT on the player.</li>
-      <li>Significantly <em>reduces</em> that player's healing potency.</li>
-    </ul>
-    <p>When the debuff expires, it explodes in a small AoE, and the player that had <em>Mortal Vow</em> will now get a <em>Mortal Atonement</em> debuff that prevents them from getting <em>Mortal Vow</em> again.</p>
-    <p><em>Mortal Vow</em> transfers onto a random player that was hit by the AoE that does not have <em>Mortal Atonement</em>. (If additional players are hit, they get a <em>Suppuration</em> debuff that reduces their max HP by half).</p>
-    <p>Thus, when passing <em>Mortal Vow</em>, we need <b>exactly two</b> players to stack- the player that has the debuff, and the player that is about to receive it.</p></td>
+    <td>
+      <p>After Wyrmsbreath #1, Nidhogg will give a random DPS a <em>Mortal
+      Vow</em> debuff. This debuff:</p>
+      <ul>
+        <li>Applies a light DoT on the player.</li>
+        <li>Significantly <em>reduces</em> that player's healing potency.</li>
+      </ul>
+      <p>When the debuff expires, it explodes in a small AoE, and the player
+      that had <em>Mortal Vow</em> will now get a <em>Mortal Atonement</em>
+      debuff that prevents them from getting <em>Mortal Vow</em> again.</p>
+      <p><em>Mortal Vow</em> transfers onto a random player that was hit by the
+      AoE that does not have <em>Mortal Atonement</em>. (If additional players
+      are hit, they get a <em>Suppuration</em> debuff that halves their max HP.</p>
+      <p>Thus, when passing <em>Mortal Vow</em>, we need <b>exactly two</b>
+      players to stack- the player that has the debuff, and the player that is
+      about to receive it.</p>
+    </td>
     <td><img src="images/mortal_vow.jpg"></td>
   </tr>
 </table>
@@ -103,10 +115,10 @@ There are *four* passes in this phase.
 
 We pass "DTTMR", or in other words:
 
-```
-DPS → MT → ST → D1/D2 → D3
-```
-All passes happen in the center of the arena, except for the final pass after Touchdown (which is just done at the edge).
+**DPS → MT → ST → D1/D2 → D3**
+
+All passes happen in the center of the arena, except for the final pass after
+Touchdown (which is just done at the edge).
 
 ---
 
@@ -119,7 +131,8 @@ This first part cycles through the three main mechanics of the fight.
 <table>
   <tr>
     <td width="50%">
-      <p><b>1.</b> Have everyone preposition to prepare for the upcoming mechanic.</p>
+      <p><b>1.</b> Have everyone preposition to prepare for the upcoming
+      mechanic.</p>
       <ul>
         <li><b>Center:</b> D3, D4</li>
         <li><b>Bottom-left:</b> H1, D1</li>
@@ -131,17 +144,21 @@ This first part cycles through the three main mechanics of the fight.
   </tr>
   <tr>
     <td>
-      <p><b>2.</b> More precisely, these are the anchor (H1, H2, D4) positions.</p>
+      <p><b>2.</b> More precisely, these are the anchor (H1, H2, D4)
+      positions.</p>
       <p><b>None of these positions are in melee range.</b></p>
-      <p><em>(Note the white tile that can be used as reference for the center position.)</em></p>
+      <p><em>(Note the white tile that can be used as reference for the center
+      position.)</em></p>
     </td>
     <td><img src="images/tethers_01.jpg"></td>
   </tr>
   <tr>
     <td>
-      <p><b>3.</b> Fire and Ice-aspected tethers appear. The goal is to get hit by one tether of each, canceling their associated debuffs.</p>
+      <p><b>3.</b> Fire and Ice-aspected tethers appear. The goal is to get hit
+      by one tether of each, canceling their associated debuffs.</p>
       <ul>
-        <li><b>D1, D2, D3:</b> If your pair has the same-coloured tether, swap with the other pair that also has two tethers of the opposite colour.</li>
+        <li><b>D1, D2, D3:</b> If your pair has the same-coloured tether, swap
+        with the other pair that also has two tethers of the opposite colour.</li>
         <li><b>H1, H2, D4:</b> Does not move.</li>
       </ul>
       <p><em>(In this example, D1 and D3 will swap positions.)</em></p>
@@ -152,7 +169,9 @@ This first part cycles through the three main mechanics of the fight.
     <td>
       <p><b>4.</b> Mechanics resolve.</p>
       <ul>
-        <li><b>MT, ST:</b> If your dragon's mouth is <b>not</b> glowing, you have a single-target tankbuster. Otherwise, you have a shared tankbuster (stack in the middle).</li>
+        <li><b>MT, ST:</b> If your dragon's mouth is <b>not</b> glowing, you
+        have a single-target tankbuster. Otherwise, you have a shared
+        tankbuster (stack in the middle).</li>
       </ul>
       <p><em>(In this example, Nidhogg's mouth is glowing.)</em></p>
     </td>
@@ -161,7 +180,8 @@ This first part cycles through the three main mechanics of the fight.
   <tr>
     <td>
       <p><b>5. Mortal Vow</b></p>
-      <p>DPS spread out- Nidhogg will target a random DPS for the first Mortal Vow (in an AoE around that player).</p>
+      <p>DPS spread out- Nidhogg will target a random DPS for the first Mortal
+      Vow (in an AoE around that player).</p>
     </td>
     <td><img src="images/mortal_vow_01.jpg"></td>
   </tr>
@@ -172,8 +192,11 @@ This first part cycles through the three main mechanics of the fight.
 <table>
   <tr>
     <td width="50%">
-      <p><b>6.</b> 4-man shared AoEs on the two healers. Nidhogg and Hraesvelgr's HP <b>must be within 3%</b> or their Akh Afah stack will kill all players.</p>
-      <p>If the HP difference is too large, a tether will appear connecting both bosses:</p>
+      <p><b>6.</b> 4-man shared AoEs on the two healers. Nidhogg and
+      Hraesvelgr's HP <b>must be within 3%</b> or their Akh Afah will kill all
+      players in the stack.</p>
+      <p>If the HP difference is too large, a tether will appear connecting
+      both bosses:</p>
       <ul>
         <li><b>No tether:</b> Both dragons' HP is within 3%.</li>
         <li><b>Purple tether:</b> Nidhogg's HP is too high.</li>
@@ -190,7 +213,9 @@ This first part cycles through the three main mechanics of the fight.
   <tr>
     <td width="50%">
       <p><b>7.</b> Turn to face Hraesvelgr.</p>
-      <p>Avoid Hraesvelgr's Hallowed Wings and Nidhogg's Cauterize, and then position yourselves based on whether <b>Hraesvelgr's head is up or down</b>.</p>
+      <p>Avoid Hraesvelgr's Hallowed Wings and Nidhogg's Cauterize, and then
+      position yourselves based on whether <b>Hraesvelgr's head is up or
+      down</b>.</p>
       <ul>
         <li><b>Head up:</b> Party near, tanks far.</li>
         <li><b>Head down:</b> Tanks near, party far.</li>
@@ -198,14 +223,18 @@ This first part cycles through the three main mechanics of the fight.
         <li><b>ST:</b> South</li>
       </ul>
       <p><em>(In this example, Hraesvelgr's head is down.)</em></p>
-      <div style="background-color: #200 ; padding: 10px; border: 1px solid;"><b>Note:</b> Nidhogg's Cauterize is <em>slightly</em> larger than half the arena.</div>
+      <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
+        <b>Note:</b> Nidhogg's Cauterize is <em>slightly</em> larger than half
+        the arena.
+      </div>
     </td>
     <td><img src="images/hallowed_wings_01_01.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>8. Mortal Vow pass #1</b></p>
-      <p>The DPS that Nidhogg targeted with Mortal Vow passes it to the MT in the middle of the arena.</p>
+      <p>The DPS that Nidhogg targeted with Mortal Vow passes it to the MT in
+      the middle of the arena.</p>
     </td>
     <td><img src="images/mortal_vow_02.jpg"></td>
   </tr>
@@ -256,9 +285,11 @@ Here are some other potential configurations to consider:
 
 ## Wroth Flames
 
-Wroth Flames is the "intermission" in this phase, separating the first and second iteration of each of the looped mechanics.
+Wroth Flames is the "intermission" in this phase, separating the first and
+second iteration of each of the looped mechanics.
 
-The party will be affected by a variety of spread and stack debuffs that will resolve at the end of the mechanic.
+The party will be affected by a variety of spread and stack debuffs that will
+resolve at the end of the mechanic.
 
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
 <details markdown=block>
@@ -271,8 +302,10 @@ The party will be affected by a variety of spread and stack debuffs that will re
       <p><em>Powerless against Nidhogg's desire for vengeance.</em></p>
       <p>Four players will be targeted with this debuff.</p>
       <ul>
-        <li>When the timer expires, a point-blank AoE centered on the player resolves.</li>
-        <li>If the debuffed player dies, or there are not enough players alive to assign the debuff to, it explodes, wiping the raid.</li>
+        <li>When the timer expires, a point-blank AoE centered on the player
+        resolves.</li>
+        <li>If the debuffed player dies, or there are not enough players alive
+        to assign the debuff to, it explodes, wiping the raid.</li>
       </ul>
     </td>
   </tr>
@@ -280,12 +313,17 @@ The party will be affected by a variety of spread and stack debuffs that will re
     <td><img src="images/entangled_flames.png"></td>
     <td>
       <p><b>Entangled Flames</b></p>
-      <p><em>Powerless against Nidhogg's desire that another share his suffering.</em></p>
-      <p>Two players will be targeted with this debuff (which leaves two players without any debuffs).</p>
+      <p><em>Powerless against Nidhogg's desire that another share his
+      suffering.</em></p>
+      <p>Two players will be targeted with this debuff (which leaves two players
+      without any debuffs).</p>
       <ul>
-        <li>When the timer expires, a two-man stack AoEs centered on the player resolves.</li>
-        <li>Each player with an Entangled Flames debuff will pair together with a player that does not have any debuff.</li>
-        <li>If the debuffed player dies, or there are not enough players alive to assign the debuff to, it explodes, wiping the raid.</li>
+        <li>When the timer expires, a two-man stack AoEs centered on the player
+        resolves.</li>
+        <li>Each player with an Entangled Flames debuff will pair together with
+        a player that does not have any debuff.</li>
+        <li>If the debuffed player dies, or there are not enough players alive
+        to assign the debuff to, it explodes, wiping the raid.</li>
       </ul>
     </td>
   </tr>
@@ -296,12 +334,21 @@ The party will be affected by a variety of spread and stack debuffs that will re
 
 In addition:
 
-- Hraesvelgr will spawn along on of three columns and Cauterize half the arena. *(this gives a 2/3 chance that the party will have melee uptime on Nidhogg during this mechanic.)*
-- Nidhogg will cast Akh Morn, which is a party stack that hits four times. Each hit also leaves behind a puddle that will inflict a bleed on any player that stays inside for too long, killing that player.
-- Three sets of *Sable Price* eyes will spawn one after the other. Each set will explode in order, dealing damage along their row and column. The center set will always spawn first, followed by two more sets on opposite corners.
-- Finally, Nidhogg will cast either *Hot Wing* or *Hot Tail*, which resolves together with the debuffs.
+- Hraesvelgr will spawn along on of three columns and Cauterize half the arena.
+  *(this gives a 2/3 chance that the party will have melee uptime on Nidhogg*
+  *during this mechanic.)*
+- Nidhogg will cast Akh Morn, which is a party stack that hits four times.
+  Each hit also leaves behind a puddle that will inflict a bleed on any player
+  that stays inside for too long, killing that player.
+- Three sets of *Sable Price* eyes will spawn one after the other. Each set
+  will explode in order, dealing damage along their row and column. The center
+  set will always spawn first, followed by two more sets on opposite corners.
+- Finally, Nidhogg will cast either *Hot Wing* or *Hot Tail*, which resolves
+  together with the debuffs.
 
-When dropping Akh Morns, the most efficient movement (geometrically) is to move **perpendicular from the wall in a straight line**, and then curve in after the third Akh Morn.
+When dropping Akh Morns, the most efficient movement (geometrically) is to move
+**perpendicular from the wall in a straight line**, and then curve in after the
+third Akh Morn.
 
 <table>
   <tr>
@@ -316,14 +363,17 @@ When dropping Akh Morns, the most efficient movement (geometrically) is to move 
   </tr>
   <tr>
     <td>
-      <p><b>2.</b> Hraesvelgr's Cauterize resolves. Drop first Akh Morn puddle.</p>
-      <p>The initial Akh Morn movement will always go east-to-west or vice versa.</p>
+      <p><b>2.</b> Hraesvelgr's Cauterize resolves. Drop first Akh Morn
+      puddle.</p>
+      <p>The initial Akh Morn movement will always go east-to-west or vice
+      versa.</p>
     </td>
     <td><img src="images/wroth_flames_ex_01_02.jpg"></td>
   </tr>
   <tr>
     <td>
-      <p><b>3.</b> First set of eye AoEs resolve. Drop the second Akh Morn puddle without getting hit by the eye AoE.</p>
+      <p><b>3.</b> First set of eye AoEs resolve. Drop the second Akh Morn
+      puddle without getting hit by the eye AoE.</p>
     </td>
     <td><img src="images/wroth_flames_ex_01_03.jpg"></td>
   </tr>
@@ -335,16 +385,20 @@ When dropping Akh Morns, the most efficient movement (geometrically) is to move 
   </tr>
   <tr>
     <td>
-      <p><b>5.</b> Move to the middle and identify whether Nidhogg is casting Hot Wing or Hot Tail.</p>
+      <p><b>5.</b> Move to the middle and identify whether Nidhogg is casting
+      Hot Wing or Hot Tail.</p>
     </td>
     <td><img src="images/wroth_flames_ex_01_05.jpg"></td>
   </tr>
   <tr>
     <td>
-      <p><b>6.</b> Spreads will go towards Nidhogg (west), stacks will go towards Hraesvelgr (east).</p>
+      <p><b>6.</b> Spreads will go towards Nidhogg (west), stacks will go
+      towards Hraesvelgr (east).</p>
       <p>A general priority order would resemble:</p>
-      <p style="text-align:center">(Center) Tanks > Healers > Ranged > Melee (Edge)</p>
-      <p>There is enough space for two "spreads" to stand side-by-side if they are on the sides of the safe zone.</p>
+      <p style="text-align:center">(Center) Tanks > Healers > Ranged > Melee
+      (Edge)</p>
+      <p>There is enough space for two "spreads" to stand side-by-side if they
+      are on the sides of the safe zone.</p>
     </td>
     <td>
       <img src="images/wroth_flames_ex_01_06a.jpg">
@@ -355,14 +409,19 @@ When dropping Akh Morns, the most efficient movement (geometrically) is to move 
 
 ### Wroth Flames markers
 
-To help assign player positions for the final spread and stack, it is common practice to mark the players. However, there are two different marking schemes.
+To help assign player positions for the final spread and stack, it is common
+practice to mark the players. However, there are two different marking schemes.
 
 #### Automarked Wroth Flames
 
 <table>
   <tr>
-    <td width="50%"><p>By far the more popular approach is to just use third-party tools <em>(i.e: use at your own risk)</em> to automatically mark all players.</p>
-    <p>With this configuration, the player with the <b>same-type</b> of markers will pair together (with the red "ignore" markers against the east wall).</p>
+    <td width="50%">
+      <p>By far the more popular approach is to just use third-party tools
+      <em>(i.e: use at your own risk)</em> to automatically mark all players.</p>
+      <p>With this configuration, the player with the <b>same-type</b> of
+      markers will pair together (with the red "ignore" markers against the
+      east wall).</p>
     </td>
     <td>
       <img src="images/wroth_flames_am_markers.jpg">
@@ -374,12 +433,15 @@ To help assign player positions for the final spread and stack, it is common pra
 
 <table>
   <tr>
-    <td width="50%"><p>If you are not using automarkers, then the easiest way would be to delegate two players to mark players.</p>
-    <ul>
-      <li>One player marks the two players with the <b>white</b> debuff.</li>
-      <li>The other player marks the two players with <b>no</b> debuff.</li>
-    </ul>
-    <p>With this configuration, the <b>same-numbered</b> players will pair together, with the "2s" against the east wall.</p>
+    <td width="50%">
+      <p>If you are not using automarkers, then the easiest way would be to
+      delegate two players to mark players.</p>
+      <ul>
+        <li>One player marks the two players with the <b>white</b> debuff.</li>
+        <li>The other player marks the two players with <b>no</b> debuff.</li>
+      </ul>
+      <p>With this configuration, the <b>same-numbered</b> players will pair
+      together, with the "2s" against the east wall.</p>
     </td>
     <td>
       <img src="images/wroth_flames_manual_markers.jpg">
@@ -391,7 +453,8 @@ To help assign player positions for the final spread and stack, it is common pra
   <tr>
     <td>
       <p><b>7.</b> Finally, pass Mortal Vow from the MT to the ST.</p>
-      <p>Note that this Mortal Vow pass is *fast*, hence why we want to try to keep the tanks near the center if possible.</p>
+      <p>Note that this Mortal Vow pass is *fast*, hence why we want to try to
+      keep the tanks near the center if possible.</p>
     </td>
     <td><img src="images/mortal_vow_03.jpg"></td>
   </tr>
@@ -400,39 +463,55 @@ To help assign player positions for the final spread and stack, it is common pra
 Here are some additional examples to consider:
 
 <details>
-<summary><b>[Wroth Flames]</b> Hraesvelgr middle (uptime available), 2-to-1 dodge</summary>
+<summary>
+  <b>[Wroth Flames]</b> Hraesvelgr middle (uptime available), 2-to-1 dodge
+</summary>
 <table>
   <tr>
     <td width="50%">
       <p><b>1.</b> Identify the starting location.</p>
       <ul>
-        <li>Since Hraesvelgr's in the center, the party can start either west or east.</li>
-        <li>In this case, west gives the party melee uptime on Nidhogg, but with a 2-1 dodge.</li>
+        <li>Since Hraesvelgr's in the center, the party can start either west
+        or east.</li>
+        <li>In this case, west gives the party melee uptime on Nidhogg, but
+        with a 2-1 dodge.</li>
       </ul>
     </td>
     <td><img src="images/wroth_flames_ex_02_01.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>2.</b> Hraesvelgr's Cauterize resolves. Drop first Akh Morn puddle.</p></td>
+    <td>
+      <p><b>2.</b> Hraesvelgr's Cauterize resolves. Drop first Akh Morn puddle.</p>
+    </td>
     <td><img src="images/wroth_flames_ex_02_02.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>3.</b> First set of eye AoEs resolve. Drop the second Akh Morn puddle without getting hit.</p></td>
+    <td>
+      <p><b>3.</b> First set of eye AoEs resolve. Drop the second Akh Morn
+      puddle without getting hit.</p>
+    </td>
     <td><img src="images/wroth_flames_ex_02_03.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>4.</b> Drop third and fourth Akh Morn puddles.</p></td>
+    <td>
+      <p><b>4.</b> Drop third and fourth Akh Morn puddles.</p>
+    </td>
     <td><img src="images/wroth_flames_ex_02_04.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>5.</b> Move to the middle, identify whether Nidhogg is casting Hot Wing or Hot Tail.</p></td>
+    <td>
+      <p><b>5.</b> Move to the middle, identify whether Nidhogg is casting Hot
+      Wing or Hot Tail.</p>
+    </td>
     <td><img src="images/wroth_flames_ex_02_05.jpg"></td>
   </tr>
 </table>
 </details>
 
 <details>
-<summary><b>[Wroth Flames]</b> Hraesvelgr west (forced downtime), 2-to-1 dodge</summary>
+<summary>
+  <b>[Wroth Flames]</b> Hraesvelgr west (forced downtime), 2-to-1 dodge
+</summary>
 <table>
   <tr>
     <td width="50%">
@@ -449,7 +528,8 @@ Here are some additional examples to consider:
     <td><img src="images/wroth_flames_ex_03_02.jpg"></td>
   </tr>
   <tr>
-    <td><b>3.</b> First set of eye AoEs resolve. Drop the second Akh Morn puddle without getting hit.</td>
+    <td><b>3.</b> First set of eye AoEs resolve. Drop the second Akh Morn
+    puddle without getting hit.</td>
     <td><img src="images/wroth_flames_ex_03_03.jpg"></td>
   </tr>
   <tr>
@@ -457,7 +537,8 @@ Here are some additional examples to consider:
     <td><img src="images/wroth_flames_ex_03_04.jpg"></td>
   </tr>
   <tr>
-    <td><b>5.</b> Move to the middle, identify whether Nidhogg is casting Hot Wing or Hot Tail.</td>
+    <td><b>5.</b> Move to the middle, identify whether Nidhogg is casting Hot
+    Wing or Hot Tail.</td>
     <td><img src="images/wroth_flames_ex_03_05.jpg"></td>
   </tr>
 </table>
@@ -467,14 +548,19 @@ Here are some additional examples to consider:
 
 ## Second half
 
-The second half is a rehash of the first, with slightly different twists on the same mechanics from earlier.
+The second half is a rehash of the first, with slightly different twists on the
+same mechanics from earlier.
 
 ### Akh Afah #2
 
 <table>
   <tr>
     <td width="50%">
-      <p><b>1.</b> This works exactly the same as the first- both dragon's HP must be brought to within 3% of one another for their stack to survive.</p><p>However, the catch is that depending on whether the party had uptime/downtime earlier on Hraesvelgr or Nidhogg during the previous mechanics, one of the two dragons' HP may be skewed to one side.</p>
+      <p><b>1.</b> This works exactly the same as the first- both dragon's HP
+      must be brought to within 3% of one another for their stack to survive.</p>
+      <p>However, the catch is that depending on whether the party had
+      uptime/downtime earlier on Hraesvelgr or Nidhogg during the previous
+      mechanics, one of the two dragons' HP may be skewed to one side.</p>
     </td>
     <td><img src="images/akh_afah.jpg"></td>
   </tr>
@@ -485,7 +571,8 @@ The second half is a rehash of the first, with slightly different twists on the 
 <table>
   <tr>
     <td width="50%">
-      <p><b>2.</b> This time, Hallowed Wings will happen in combination with Hot Wing <em>or</em> Hot Tail from Nidhogg.</p>
+      <p><b>2.</b> This time, Hallowed Wings will happen in combination with
+      Hot Wing <em>or</em> Hot Tail from Nidhogg.</p>
       <ul>
         <li><b>MT: </b> Takes the western position.</li>
         <li><b>ST: </b> Takes the eastern position.</li>
@@ -497,7 +584,8 @@ The second half is a rehash of the first, with slightly different twists on the 
   <tr>
     <td>
       <p><b>3. Mortal Vow pass #3</b></p>
-      <p>This pass goes from the ST to D1, <em>unless</em> D1 started with the first Mortal Vow, in which case ST passes to D2 instead.</p>
+      <p>This pass goes from the ST to D1, <em>unless</em> D1 started with the
+      first Mortal Vow, in which case ST passes to D2 instead.</p>
     </td>
     <td><img src="images/mortal_vow_04.jpg"></td>
   </tr>
@@ -511,7 +599,8 @@ Here are some other potential configurations to consider:
   <tr>
     <td width="50%">
       <p>Hot Wing means all party members must stay near the E/W line.</p>
-      <p>Heads up means the tanks are away from Hraesvelgr, and the rest of the party is towards Hraesvelgr.</p>
+      <p>Heads up means the tanks are away from Hraesvelgr, and the rest of the
+      party is towards Hraesvelgr.</p>
       <p>The MT takes the western-most position.</p>
     </td>
     <td><img src="images/hallowed_wings_02_01.jpg"></td>
@@ -524,8 +613,10 @@ Here are some other potential configurations to consider:
 <table>
   <tr>
     <td width="50%">
-      <p>Hot Tail means all party members must go to north <em>or</em> south without getting hit by Hallowed Wings' AoE.</p>
-      <p>Heads down means the tanks are towards Hraesvelgr, and the rest of the party is away from Hraesvelgr.</p>
+      <p>Hot Tail means all party members must go to north <em>or</em> south
+      without getting hit by Hallowed Wings' AoE.</p>
+      <p>Heads down means the tanks are towards Hraesvelgr, and the rest of the
+      party is away from Hraesvelgr.</p>
       <p>The ST takes the eastern-most position.</p>
     </td>
     <td><img src="images/hallowed_wings_02_02.jpg"></td>
@@ -535,9 +626,12 @@ Here are some other potential configurations to consider:
 
 ### Wyrmsbreath 2 (5-1)
 
-This iteration of Wyrmsbreath is different because we **do not** want to stack opposite tethers.
+This iteration of Wyrmsbreath is different because we **do not** want to stack
+opposite tethers.
 
-One player goes south (D3) to give additional space for the other five non-tanks to spread out along the North edge. Note that all melees can still maintain uptime on a dragon during the mechanic.
+One player goes south (D3) to give additional space for the other five
+non-tanks to spread out along the North edge. Note that all melees can still
+maintain uptime on a dragon during the mechanic.
 
 <table>
   <tr>
@@ -546,7 +640,12 @@ One player goes south (D3) to give additional space for the other five non-tanks
         <li><b>MT:</b> SW if you get the single-target tankbuster (by Nidhogg).</li>
         <li><b>ST:</b> SE if you get the single-target tankbuster (by Hraesvelgr).</li>
         <li><b>D3:</b> Go south, and <b>move towards a dragon whose mouth is glowing</b>.</li>
-        <li><b>All other players:</b> Spread out along the <b>north</b> edge.<ul><li>The north position should go to a <b>healer or caster</b> that is in the group with 3 tethers.</li></ul></li>
+        <li><b>All other players:</b> Spread out along the <b>north</b> edge.
+          <ul>
+            <li>The north position should go to a <b>healer or caster</b> that
+            is in the group with 3 tethers.</li>
+          </ul>
+        </li>
       </ul>
       <p><em>(In this example, Hraesvelgr's mouth is glowing).</em></p>
     </td>
@@ -558,92 +657,153 @@ One player goes south (D3) to give additional space for the other five non-tanks
 
 ## Cauterize
 
-The reason why we did not stack opposite tethers in Wyrmsbreath #2 was because we needed the fire/ice debuffs in order to survive this mechanic.
+The reason why we did not stack opposite tethers in Wyrmsbreath #2 was because
+we needed the fire/ice debuffs in order to survive this mechanic.
 
 <table>
   <tr>
     <td width="50%">
-      <p><b>1.</b> Nidhogg and Hraesvelgr will spawn along the north edge in a <b>random</b> orientation.</p>
+      <p><b>1.</b> Nidhogg and Hraesvelgr will spawn along the north edge in a
+      <b>random</b> configuration.</p>
       <ul>
         <li><b>MT:</b> West, in front of the other party members.</li>
         <li><b>ST:</b> East, in front of the other party members.</li>
-        <li><b>Players with the Fire debuff:</b> Stand in front of Hraesvelgr. <em>Do not move.</em></li>
+        <li><b>Players with the Fire debuff:</b> Stand in front of Hraesvelgr.
+        <em>Do not move.</em></li>
         <li><b>Players with the Ice debuff:</b> Stand in front of Nidhogg.</li>
       </ul>
-      <p><b>Do not move</b> as Nidhogg's debuff will turn into Pyretic. The resulting damage will result in Hraesvelgr's Cauterize killing you and cause Hraesvelgr to enrage.</p>
-      <div style="background-color: #200 ; padding: 10px; border: 1px solid;"><b>Note:</b> If you have a DRK and are using Living Dead here, neither dragon will be targetable for the DRK to recover HP.</div>
+      <p><b>Do not move</b> as Nidhogg's debuff will turn into Pyretic. The
+      resulting damage will result in Hraesvelgr's Cauterize killing you and
+      cause Hraesvelgr to enrage.</p>
+      <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
+        <b>Note:</b> If you have a DRK and are using Living Dead here, neither
+        dragon will be targetable for the DRK to recover HP.
+      </div>
     </td>
     <td><img src="images/cauterize_01.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>2. Mortal Vow pass #4</b></p>
-      <p>After Cauterize, everybody gathers north to avoid Nidhogg's and Hraesvelgr's Touchdown damage.</p>
-      <p>After Touchdown, all players move away from the stack point <em>except</em> the DPS with Mortal Vow and D3.</p>
+      <p>After Cauterize, everybody gathers north to avoid Nidhogg's and
+      Hraesvelgr's Touchdown damage.</p>
+      <p>After Touchdown, all players move away from the stack point
+      <em>except</em> the DPS with Mortal Vow and D3.</p>
     </td>
     <td><img src="images/mortal_vow_05.jpg"></td>
   </tr>
 </table>
 
-After both dragons *Touchdown*, they will each start casting their enrage, *Revenge of the Horde*.
+After both dragons *Touchdown*, they will each start casting their enrage,
+*Revenge of the Horde*.
 
-After the two dragons are defeated, the two dragon eyes will be left behind. Just like before, they will do raid-wide damage with a bleed (*Resentment*).
+After the two dragons are defeated, the two dragon eyes will be left behind.
+Just like before, they will do raid-wide damage with a bleed (*Resentment*).
 
-This time around, if Thordan was spared in the previous phase, he will jump down and do another raid-wide with a bleed on the party (*Shockwave*) before taking the eyes for his own, starting his transformation to Dragonking Thordan.
+This time around, if Thordan was spared in the previous phase, he will jump
+down and do another raid-wide with a bleed on the party (*Shockwave*) before
+taking the eyes for his own, starting his transformation to Dragonking Thordan.
 
-When the bleed from *Shockwave* disappears, **heavily shield and mitigate** in order to survive *Alternative End*, the final raid-wide damage that marks the transition to the final phase *(Dragonking Thordan will not be targetable during this)*.
+When the bleed from *Shockwave* disappears, **heavily shield and mitigate** in
+order to survive *Alternative End*, the final raid-wide damage that marks the
+transition to the final phase *(Dragonking Thordan will not be targetable*
+*during this)*.
 
 ---
 
 ## Frequently Asked Questions
 
 <details markdown=block>
-<summary><b>[Wyrmsbreath #1]</b> I took extra damage even though I wasn't tethered- why is that?</summary>
+<summary>
+  <b>[Wyrmsbreath #1]</b> I took extra damage even though I wasn't tethered-
+  why is that?
+</summary>
 <table>
-  <tr><td><p><b>Both</b> dragon's damage are based on proximity, even if you are not actually tethered to them.</p><p>You can think of the tethers as just directing where the breaths will go; the colour change is a proximity indicator of that particular player-dragon pair, but you still have to worry about proximity to the other dragon.</p></td></tr>
+  <tr>
+    <td>
+      <p><b>Both</b> dragon's damage are based on proximity, even if you are
+      not actually tethered to them.</p><p>You can think of the tethers as just
+      directing where the breaths will go; the colour change is a proximity
+      indicator of that particular player-dragon pair, but you still have to
+      worry about proximity to the other dragon.</p>
+    </td>
+  </tr>
 </table>
 </details>
 <details markdown=block>
-<summary><b>[Wroth Flames]</b> Is there a pattern to how the debuffs are assigned?</summary>
+<summary>
+  <b>[Wroth Flames]</b> Is there a pattern to how the debuffs are assigned?
+</summary>
 <table>
-  <tr><td><p>Unfortunately not- the debuff distribution is random.</p><p>Here's an example where two of the no-debuff players are both DPS.</p></td><td><img src="images/wroth_flames_debuffs.jpg"></td></tr>
-</table>
-</details>
-<details markdown=block>
-<summary><b>[Wroth Flames]</b> Why are there two marking schemes?</summary>
-<table>
-  <tr><td><p>The short answer is "that's just the automarker configuration that got passed around early."</p><p>One that argue that if you mark all eight players, the visual clutter makes it hard(er) for each player to discern their number over their colour, hence the "same marker-type" stack configuration.</p>
-  <p>I am personally not a fan because it is harder to replicate manually (effectively <em>mandating</em> automarkers).</p>
-  <p>The problem with manually marking each pair using the same marker type is that this task cannot be split between two players, because there's now a possibility that the two players pick the same person twice.</p>
-  <p>For example, in the configuration on the right, one person can pick the WAR + SMN as a pair, then the other pick RDM + SMN, doubling up on the SMN and leaving the SAM unmarked (it also doesn't help that <em>Mortal Atonement</em> looks like a purple spread debuff).</p></td>
+  <tr>
+    <td>
+      <p>Unfortunately not- the debuff distribution is random.</p>
+      <p>Here's an example where two of the no-debuff players are both DPS.</p>
+    </td>
   <td><img src="images/wroth_flames_debuffs.jpg"></td></tr>
 </table>
 </details>
 <details markdown=block>
-<summary><b>[Wyrmsbreath 2]</b> What is the fixed Wyrmsbreath 2 strat?</summary>
+<summary>
+  <b>[Wroth Flames]</b> Why are there two marking schemes?
+</summary>
 <table>
   <tr>
-    <td><p>As the name implies, this is a strat that fixes all player positions (except for the tanks, who may have to stack in the middle).</p>
-    <p>The fixed Wyrmsbreath 2 strat is popular in other regions, but has fallen out of favour in Elemental.</p>
-    <ul>
+    <td>
+      <p>The short answer is "that's just the automarker configuration that got
+      passed around early."</p>
+      <p>One that argue that if you mark all eight players, the visual clutter
+      makes it hard(er) for each player to discern their number over their
+      colour, hence the "same marker-type" stack configuration.</p>
+    <p>I am personally not a fan because it is harder to replicate manually
+    (effectively <em>mandating</em> automarkers).</p>
+    <p>The problem with manually marking each pair using the same marker type
+    is that this task cannot be split between two players, because there's now
+    a possibility that the two players pick the same person twice.</p>
+    <p>For example, in the configuration on the right, one person can pick the
+    WAR + SMN as a pair, then the other pick RDM + SMN, doubling up on the SMN
+    and leaving the SAM unmarked (it also doesn't help that <em>Mortal
+    Atonement</em> looks like a purple spread debuff).</p>
+  </td>
+  <td><img src="images/wroth_flames_debuffs.jpg"></td></tr>
+</table>
+</details>
+<details markdown=block>
+<summary>
+  <b>[Wyrmsbreath 2]</b> What is the fixed Wyrmsbreath 2 strat?</summary>
+<table>
+  <tr>
+    <td>
+      <p>As the name implies, this is a strat that fixes all player positions
+      (except for the tanks, who may have to stack in the middle).</p>
+      <p>The fixed Wyrmsbreath 2 strat is popular in other regions, but has
+      fallen out of favour in Elemental.</p>
+      <ul>
         <li><b>MT:</b> NW if you get the single-target tankbuster (by Nidhogg).</li>
         <li><b>ST:</b> SE if you get the single-target tankbuster (by Hraesvelgr).</li>
       </ul>
-      <p><em>Tanks should use where the outer AoE intersects the boss's targeting circle as a reference point.</em></p>
+      <p><em>Tanks should use where the outer AoE intersects the boss's
+      targeting circle as a reference point.</em></p>
       <ul>
         <li><b>H1:</b> As far true North as you can go.</li>
         <li><b>H2:</b> As far true South as you can go.</li>
       </ul>
-      <p><em>Be careful if a tank gets a single-target tankbuster, as you </em>may<em> be in range if poorly positioned.</em></p>
+      <p><em>Be careful if a tank gets a single-target tankbuster, as you
+      </em>may<em> be in range if poorly positioned.</em></p>
       <ul>
         <li><b>D1:</b> NW corner of the white tile beside Nidhogg.</li>
         <li><b>D2:</b> Between the two white tiles besides Hraesvelgr.</li>
-        <li><b>D3:</b> 1/2 a tile west of the western "train track", as far south as you can go.</li>
-        <li><b>D4:</b> 1/2 a tile east of the eastern "train track", as far north as you can go.</li>
+        <li><b>D3:</b> 1/2 a tile west of the western "train track", as far
+        south as you can go.</li>
+        <li><b>D4:</b> 1/2 a tile east of the eastern "train track", as far
+        north as you can go.</li>
       </ul>
-      <p><em>Depending on which dragon you are tethered to, your tether <b>may not stretch fully</b>. Use personal mitigations to help survive.</em></p>
-      <p>This method fixes all player positions (except for the tanks), which simplifies positioning.</p>
-      <p>However, player positioning is precise, and when things go wrong, it's often difficult to diagnose what went wrong.</p>
+      <p><em>Depending on which dragon you are tethered to, your tether <b>may
+      not stretch fully</b>. Use personal mitigations to help survive.</em></p>
+      <p>This method fixes all player positions (except for the tanks), which
+      simplifies positioning.</p>
+      <p>However, player positioning is precise, and when things go wrong, it's
+      often difficult to diagnose what went wrong.</p>
     </td>
   <td>
     <img src="images/fixed_wyrmsbreath2.jpg">
@@ -654,6 +814,9 @@ When the bleed from *Shockwave* disappears, **heavily shield and mitigate** in o
 <details markdown=block>
 <summary><b>[General]</b> Can you defeat one dragon early?</summary>
 <table>
-  <tr><td>No. Each dragon will have a floor of 1HP until they start casting their enrage.</td></tr>
+  <tr>
+    <td>No. Each dragon will have a floor of 1HP until they start casting their
+    enrage.</td>
+  </tr>
 </table>
 </details>
