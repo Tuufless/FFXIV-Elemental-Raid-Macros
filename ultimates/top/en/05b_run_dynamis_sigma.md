@@ -119,10 +119,10 @@ standing at at the end of the previous section.
   </tr>
   <tr>
     <td width="50%">
-      <img src="../images/05_run_dynamis/run_dynamis_sigma_waymark_01a.jpg">
+      <img src="../images/05_run_dynamis/run_dynamis_sigma_waymark_01b.jpg">
     </td>
     <td>
-      <img src="../images/05_run_dynamis/run_dynamis_sigma_waymark_01b.jpg">
+      <img src="../images/05_run_dynamis/run_dynamis_sigma_waymark_01a.jpg">
     </td>
   </tr>
   <tr>
@@ -131,8 +131,11 @@ standing at at the end of the previous section.
       your tower.</p>
       <p>Omega-F then appears in the center of the arena, and knocks all
       players back towards the edge.</p>
-      <p>Stand either in the center of the towers (if Mid Glitch), or at the
-      edge of the towers (if Remote Glitch).</p>
+      <ul>
+        <li><b>Mid Glitch:</b> Stand in the <b>center</b> of the towers.</li>
+        <li><b>Remote Glitch: Criss-cross the tethers</b>, and stand at the
+        <b>edge</b> of the towers.</li>
+      </ul>
     </td>
   </tr>
 </table>
