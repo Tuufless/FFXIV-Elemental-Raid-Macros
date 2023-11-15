@@ -869,28 +869,12 @@ not to use their potions at certain buff windows.
 <table>
   <tr>
     <td>
-      <p>There are a couple reasons for this:</p>
-      <ul>
-        <li>
-          <p>If you happen to have a GNB (MT) + PLD (ST) for tanks, PLD must
-          Hallowed Ground the first Solar Ray (before Delta) for them to get a
-          Hallowed Ground use in P6.</p>
-          <p>This then means the GNB would have to Superbolide the second Solar
-          Ray (before Sigma), and if so, Superbolide won't be up in time for
-          Wave Cannon #1.</p>
-        </li>
-        <li>
-          <p>If you have a WAR (MT), the mitigation plan has Shake it Off on
-          Wave Cannon #2. This should coincide with Holmgang, because Shake it
-          Off will dispel Vengeance and Bloodwhetting if used in the wrong
-          order.</p>
-        </li>
-        <li>
-          <p>Finally, it makes more sense that the tank whose turn it is to use
-          more party mitigations uses their invuln, simply to have fewer
-          buttons to press overall.</p>
-        </li>
-      </ul>
+      <p>If you happen to have a GNB (MT) + PLD (ST) for tanks, PLD must
+      Hallowed Ground the first Solar Ray (before Delta) for them to get a
+      Hallowed Ground use in P6.</p>
+      <p>This then means the GNB would have to Superbolide the second Solar
+      Ray (before Sigma), and if so, Superbolide won't be up in time for
+      Wave Cannon #1.</p>
     </td>
   </tr>
 </table>
