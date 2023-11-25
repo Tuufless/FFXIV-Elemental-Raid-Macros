@@ -812,6 +812,24 @@ transition to the final phase *(Dragonking Thordan will not be targetable*
 </table>
 </details>
 <details markdown=block>
+<summary>
+  <b>[Pyretic]</b> Do channeled abilities/emotes trigger Pyretic?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>No. Channeled abilities like Improvisation, Meditate, Collective
+      Unconsciousness, Flamethrower, Anatman, or emotes do not count as
+      movement, and will not trigger Pyretic provided they're already
+      in the middle of being channeled.</p>
+      <p>However, <em>starting</em> to channel an ability counts.</p>
+      <p><em>(You really shouldn't channel during Cauterize anyway, as the
+      buildup to Alternate End is a better place to do so.)</em></p>
+    </td>
+  </tr>
+</table>
+</details>
+<details markdown=block>
 <summary><b>[General]</b> Can you defeat one dragon early?</summary>
 <table>
   <tr>
