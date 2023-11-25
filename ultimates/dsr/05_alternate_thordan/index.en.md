@@ -22,6 +22,17 @@ need a quick summary:
 
 ---
 
+Thordan appears in the center of the arena, facing South. Thordan starts the
+phase by casting *Incarnation*, which simply revives the dragons lying around
+the arena, and casting *The Dragon's Eye*, which is simply a damage up buff.
+
+Because Thordan will not move or rotate while casting these abilities, have the
+MT start South, and the party North.
+
+Thordan will auto-attack the MT twice (remember, these are cone AoEs!), before
+jumping to the center of the arena and casting the first Trio combo of the
+phase, *Wrath of the Heavens*.
+
 ## Wrath of the Heavens
 
 <table>
@@ -38,45 +49,49 @@ need a quick summary:
         <li>All other players line up along the east side (within 4 notches
         away from the NE and SE "shurikens").</li>
       </ul>
-      <p>Ser Grinnaux (WAR) and Ser Charibert (BLM) will also spawn in the
-      arena, one north, one south <b>in a random configuration</b>.</p>
-      <p><b>Identify which is Ser Grinnaux (WAR), and which is Ser Charibert
-      (BLM)</b>.</p>
     </td>
     <td><img src="images/wrath_of_the_heavens_01.jpg"></td>
   </tr>
   <tr>
     <td>
-      <p><b>2.</b> Additional debuffs appear before the first set of AoEs
-      resolve.</p>
-      <ul>
-        <li>Two players will get a <em>Thunderstruck</em> debuff. These will
-        resolve later.</li>
-        <li>One player gets targeted with a green divebomb marker.</li>
-      </ul>
+      <p><b>2.</b> Ser Grinnaux (WAR) and Ser Charibert (BLM) will then spawn in
+      the arena, one north, one south <b>in a random configuration</b>.</p>
+      <p><b>Identify which is Ser Grinnaux (WAR), and which is Ser Charibert
+      (BLM)</b>.</p>
+      <p>Two players will also get a <em>Thunderstruck</em> debuff, which will
+      resolve later.</p>
     </td>
     <td><img src="images/wrath_of_the_heavens_02.jpg"></td>
   </tr>
   <tr>
     <td>
-      <p><b>3.</b> After the first round of AoEs resolve, <b>move to dodge
-      <em>Twisters</em></b>, and spread out with <b>at least 2 tiles between
-      players</b>.</p>
-      <ul>
-        <li>The three players who had the <em>Skyward Leap</em> and the two
-        <em>Spiral Pierces</em> will always dodge and <b>spread along the
-        west</b>.</li>
-        <li>The player with the green divebomb mark goes to the <b>edge behind
-        Ser Charibert (BLM)</b>.</li>
-        <li>The remaining players spread out along the east side.</li>
-      </ul>
+      <p><b>3.</b> The AoEs resolve, and one of the five players that did not
+      receive either a tether, or <em>Skyward Leap</em> will now get a green
+      divebomb mark.</p>
+      <p><b>All players move to dodge Twisters.</b></p>
     </td>
     <td><img src="images/wrath_of_the_heavens_03.jpg"></td>
   </tr>
   <tr>
     <td>
-      <p><b>4.</b> When <em>Ascalon's Mercy Revealed</em> resolves, baited AoEs
-      appear.</p>
+      <p><b>4.</b> All players must now spread out with <b>at least 2 tiles
+      between players</b>.</p>
+      <ul>
+        <li>The three players who had the <em>Skyward Leap</em> and the two
+        <em>Spiral Pierces</em> will always dodge clockwise and <b>spread along
+        the west</b>.</li>
+        <li>The player with the green divebomb mark goes to the <b>edge behind
+        Ser Charibert (BLM)</b>.</li>
+        <li>The remaining four players spread out along the east side.</li>
+      </ul>
+    </td>
+    <td><img src="images/wrath_of_the_heavens_04.jpg"></td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>5.</b> Thordan then resolves <em>Ascalon's Mercy Revealed</em>,
+      which cleaves all players.</p>
+      <p>Baited AoEs then appear on two players:</p>
       <ul>
         <li>One player who had either <em>Skyward Leap</em>,
         <em>Spiral Pierce</em>, or the divebomb will be targeted by 4 Altar
@@ -87,11 +102,11 @@ need a quick summary:
       <p>A player with <em>Thunderstruck</em> <b>will not</b> be targeted by
       either <em>Altar Pyre</em>, or <em>Liquid Heaven</em>.</p>
     </td>
-    <td><img src="images/wrath_of_the_heavens_04.jpg"></td>
+    <td><img src="images/wrath_of_the_heavens_05.jpg"></td>
   </tr>
   <tr>
     <td>
-      <p><b>5.</b> Bait <em>Altar Pyre</em> and <em>Liquid Heaven</em> AoEs,
+      <p><b>6.</b> Bait <em>Altar Pyre</em> and <em>Liquid Heaven</em> AoEs,
       and move <b>towards Ser Grinnaux (WAR)</b>.</p>
       <ul>
         <li>The two players with <em>Thunderstruck</em> will be towards the
@@ -102,14 +117,14 @@ need a quick summary:
       <b>enter the safe spot from the side</b>, as a player on the west side
       will be one-shot if they get hit by the <em>Liquid Heaven</em> AoE.</p>
     </td>
-    <td><img src="images/wrath_of_the_heavens_05.jpg"></td>
+    <td><img src="images/wrath_of_the_heavens_06.jpg"></td>
   </tr>
   <tr>
     <td>
-      <p><b>6.</b> Final set of AoEs resolve.</p>
+      <p><b>7.</b> Final set of AoEs resolve.</p>
       <p>Heal and prepare for <em>Ancient Quaga</em>.</p>
     </td>
-    <td><img src="images/wrath_of_the_heavens_06.jpg"></td>
+    <td><img src="images/wrath_of_the_heavens_07.jpg"></td>
   </tr>
 </table>
 
