@@ -46,8 +46,14 @@ phase, *Wrath of the Heavens*.
         notches from the "shuriken").</li>
         <li>Two players with <em>Spiral Thrust</em> tethers will cross their
         tethers and stand south (4 notches away from SW and SE).</li>
-        <li>All other players line up along the east side (within 4 notches
-        away from the NE and SE "shurikens").</li>
+        <li>
+          <p>All other players line up along the east side (within 4 notches
+          away from the NE and SE "shurikens").</p>
+          <ul>
+            <li>You can use a loose order, such as tanks/healers towards the
+            dragons, and DPS away, but this isn't really important.</li>
+          </ul>
+        </li>
       </ul>
     </td>
     <td><img src="images/wrath_of_the_heavens_01.jpg"></td>
@@ -65,39 +71,44 @@ phase, *Wrath of the Heavens*.
   </tr>
   <tr>
     <td>
-      <p><b>3.</b> The AoEs resolve, and one of the five players that did not
-      receive either a tether, or <em>Skyward Leap</em> will now get a green
-      divebomb mark.</p>
+      <p><b>3.</b> The AoEs resolve, and one of the five players along the east 
+      will get a green divebomb mark.</p>
       <p><b>All players move to dodge Twisters.</b></p>
     </td>
     <td><img src="images/wrath_of_the_heavens_03.jpg"></td>
   </tr>
   <tr>
     <td>
-      <p><b>4.</b> All players must now spread out with <b>at least 2 tiles
-      between players</b>.</p>
+      <p><b>4.</b> While dodging Twisters, all players must now spread out
+      around the arena:</p>
       <ul>
         <li>The three players who had the <em>Skyward Leap</em> and the two
-        <em>Spiral Pierces</em> will always dodge clockwise and <b>spread along
-        the west</b>.</li>
+        <em>Spiral Pierces</em> will always dodge <b>clockwise</b>.</li>
         <li>The player with the green divebomb mark goes to the <b>edge behind
-        Ser Charibert (BLM)</b>.</li>
+        Ser Charibert (the BLM).</b></li>
         <li>The remaining four players spread out along the east side.</li>
+      </ul>
+      <p>Take note that:</p>
+      <ul>
+        <li>There should be at least <b>two tiles</b> between players.</li>
+        <li>Players <em>should not</em> stand too close to Ser Grinnaux (the
+        WAR), as you do not want to accidentally cut off the safe area with
+        incoming AoEs.</li>
       </ul>
     </td>
     <td><img src="images/wrath_of_the_heavens_04.jpg"></td>
   </tr>
   <tr>
     <td>
-      <p><b>5.</b> Thordan then resolves <em>Ascalon's Mercy Revealed</em>,
-      which cleaves all players.</p>
+      <p><b>5.</b> Thordan resolves <em>Ascalon's Mercy Revealed</em>, which
+      cleaves all players.</p>
       <p>Baited AoEs then appear on two players:</p>
       <ul>
-        <li>One player who had either <em>Skyward Leap</em>,
-        <em>Spiral Pierce</em>, or the divebomb will be targeted by 4 Altar
-        Pyre AoEs.</li>
-        <li>One of the four remaining players will be targeted by 5 <em>Liquid
-        Heaven</em> AoEs.</li>
+        <li>One player who had either <em>Skyward Leap</em>, a
+        <em>Spiral Pierce</em> tether, or the divebomb will be targeted by four
+        Altar Pyre AoEs.</li>
+        <li>One of the four remaining players will be targeted by five
+        <em>Liquid Heaven</em> AoEs.</li>
       </ul>
       <p>A player with <em>Thunderstruck</em> <b>will not</b> be targeted by
       either <em>Altar Pyre</em>, or <em>Liquid Heaven</em>.</p>
@@ -121,7 +132,8 @@ phase, *Wrath of the Heavens*.
   </tr>
   <tr>
     <td>
-      <p><b>7.</b> Final set of AoEs resolve.</p>
+      <p><b>7.</b> Ser Grinnaux's <em>Empty Dimension</em> resolves together
+      with the two <em>Thunderstruck</em> debuffs, and the two divebombs.</p>
       <p>Heal and prepare for <em>Ancient Quaga</em>.</p>
     </td>
     <td><img src="images/wrath_of_the_heavens_07.jpg"></td>
