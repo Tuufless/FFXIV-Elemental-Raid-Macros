@@ -675,6 +675,8 @@ we needed the fire/ice debuffs in order to survive this mechanic.
       <p><b>Do not move</b> as Nidhogg's debuff will turn into Pyretic. The
       resulting damage will result in Hraesvelgr's Cauterize killing you and
       cause Hraesvelgr to enrage.</p>
+      <p>Do not stand directly in the center, as there <em>is</em> a slight
+      overlap.</p>
       <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
         <b>Note:</b> If you have a DRK and are using Living Dead here, neither
         dragon will be targetable for the DRK to recover HP.
