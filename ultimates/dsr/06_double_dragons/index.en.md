@@ -302,10 +302,12 @@ resolve at the end of the mechanic.
       <p><em>Powerless against Nidhogg's desire for vengeance.</em></p>
       <p>Four players will be targeted with this debuff.</p>
       <ul>
-        <li>When the timer expires, a point-blank AoE centered on the player
+        <li>When the timer expires, or when the debuffed player dies, a
+        point-blank <em>Spreading Flames</em> AoE centered on the player
         resolves.</li>
-        <li>If the debuffed player dies, or there are not enough players alive
-        to assign the debuff to, it explodes, wiping the raid.</li>
+        <li>Your own <em>Spreading Flames</em> will not affect you (it won't
+        even do damage), but getting hit by <em>another</em> player's
+        <em>Spreading Flames</em> will debuff and knock you out.</li>
       </ul>
     </td>
   </tr>
@@ -320,10 +322,14 @@ resolve at the end of the mechanic.
       <ul>
         <li>When the timer expires, a two-man stack AoEs centered on the player
         resolves.</li>
+        <li>Each player hit by the stack will also get a <em>Fire Resistance
+        Down II</em> debuff (so you cannot overlap stacks).</li>
         <li>Each player with an Entangled Flames debuff will pair together with
         a player that does not have any debuff.</li>
         <li>If the debuffed player dies, or there are not enough players alive
-        to assign the debuff to, it explodes, wiping the raid.</li>
+        to assign the debuff to, it explodes with <em>Entangled Pyre</em>,
+        dealing damage, and applying both Damage Down and Fire Resistance Down
+        II to the entire party instead, quickly leading to a wipe.</li>
       </ul>
     </td>
   </tr>
