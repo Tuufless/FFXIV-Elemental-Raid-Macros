@@ -45,6 +45,7 @@ Here are some clear PoVs that I've been collecting.
 - [ST PoV (PLD)](https://youtube.com/live/7iFsy8xbeSc)
 - [H1 PoV (WHM)](https://youtube.com/live/UJEpzF2nJo8)
 - [H2 PoV (SCH)](https://youtube.com/live/no32eDv_lnQ)
+- [D1 PoV (SAM)](https://youtube.com/live/2TOyLsYQlJo)
 - [D2 PoV (NIN)](https://youtube.com/live/XOgCkE9Jdts)
 - [D3 PoV (DNC)](https://youtube.com/live/GRYgI0waq34)
 - [D4 PoV (BLM)](https://youtube.com/live/zVVuQysS9po)
