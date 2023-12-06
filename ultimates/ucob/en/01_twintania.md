@@ -8,6 +8,12 @@ permalink: /ultimates/ucob/01_twintania/
 
 # Twintania
 
+Twintania's mechanics start with a basic loop that slowly gets more elaborate
+as the fight progresses. This phase can be broken down into three sub-phases,
+each pushed by Twintania's HP.
+
+---
+
 ## Part 1: 100% HP - 75% HP
 
 Twintania's first phase is a basic introduction to what to expect- Twisters, and the Fireball stack. The phase lasts until Twintania is pushed below 75% HP.

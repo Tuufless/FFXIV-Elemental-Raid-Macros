@@ -8,23 +8,8 @@ permalink: /ultimates/dsr/07_dragonking_thordan/
 
 # Dragonking Thordan
 
-## Summary
-
-If you are already familiar with Dragonking Thordan and just need a quick
-summary:
-
-<table>
-  <tr>
-    <td><b>Akh Morn's Edge</b></td>
-    <td><ul><li>All 3-3-2</li></ul></td>
-  </tr>
-  <tr>
-    <td><b>Trinity</b></td>
-    <td><ul><li>D1/2 > D3/4 > H1/2</li></ul></td>
-  </tr>
-</table>
-
----
+There are a couple of details that we should first go over before going into
+the main mechanics loop.
 
 ## Mitigations
 
@@ -74,15 +59,14 @@ either Gigaflare's Edge, or Akh Morn's Edge #2.
 
 ---
 
-## Overview
+## Basic Mechanics
 
-There are a couple of details that we should first go over before going into
-the main mechanics loop.
+Dragonking Thordan has two basic mechanics that are worth mentioning.
 
 ### Fire/Ice of Ascalon
 
-All of Dragonking Thordan's mechanics are combined with either Fire or Ice of
-Ascalon, which resolves together at the beginning of the mechanic.
+All of Dragonking Thordan's major mechanics are combined with either Fire or
+Ice of Ascalon, which resolves together at the beginning of the mechanic.
 
 <table>
   <tr>

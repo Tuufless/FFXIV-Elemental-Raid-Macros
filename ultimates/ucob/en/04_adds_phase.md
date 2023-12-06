@@ -18,6 +18,10 @@ This phase is essentially a loop repeated twice:
 4. Nael's line → Twisters
 5. Megaflare → Death Sentence/Ravensbeak *(this swaps order on the second loop)*
 
+---
+
+## Quotes
+
 There are four possible quotes Nael will use in this phase. Note that the first mechanic will always be either Lunar Dynamo, or Iron Chariot.
 
 This is important, because Nael will always start with the opposite mechanic in the second loop.

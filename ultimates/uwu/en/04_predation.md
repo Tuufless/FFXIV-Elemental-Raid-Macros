@@ -24,7 +24,7 @@ Ultima Aether is built:
 - When players get hit by Aetheroplasm (green) orbs.
 - **When a player dies.**
 
-This last point is particularly noteworthy, as player deaths effectively bring the enrage forward in addition to weakness.
+This last point is particularly noteworthy, as player deaths effectively bring the enrage **forward** in addition to weakness.
 
 ---
 

@@ -8,51 +8,6 @@ permalink: /ultimates/dsr/06_double_dragons/
 
 # Double Dragons
 
-## Summary
-
-If you are already familiar with the Double Dragons phase, and just need a
-quick summary:
-
-<table>
-  <tr>
-    <td><b>Wyrmsbreath #1</b></td>
-    <td>
-      <ul>
-        <li>△, D1 D2 D3 adjusts</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Mortal Vow</b></td>
-    <td>
-      <ul>
-        <li>DPS → MT → ST → D1/D2 → D3</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Wroth Flames</b></td>
-    <td>
-      <ul>
-        <li>Spreads to Nidhogg (west)</li>
-        <li>Stacks to Hraesvelgr (east)</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Wyrmsbreath #2</b></td>
-    <td>
-      <ul>
-        <li>5-1 (D3 south)</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-## Overview
-
 The structure of this phase can be broken down as follows:
 
 - First half

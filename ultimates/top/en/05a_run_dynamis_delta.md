@@ -10,7 +10,7 @@ permalink: /ultimates/top/05_run_dynamis_delta/
 
 P5 is split up into three "trios"- Delta, Sigma, and Omega. Each trio involves
 a series of mechanics before ending with Hello, World debuffs that give players
-stacks of Dynamis,  needed to clear the final phase.
+stacks of Dynamis, needed to clear the final phase.
 
 There are two strategies to resolve the mechanics in Run: Dynamis (Delta
 Version)- either you put like tethers together (Kinda Awk), or not (GMT).

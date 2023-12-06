@@ -8,18 +8,11 @@ permalink: /ultimates/uwu/03_titan/
 
 # Titan
 
-## Summary
-
-<table>
-  <tr><td><b>Bomb Boulders</b></td><td>Mario Kart</td></tr>
-  <tr><td><b>Beyond Limits</b></td><td>Melee</td></tr>
-</table>
+Titan is the last of the three Primals, and is easily the hardest to wake.
 
 ---
 
 ## Waking Titan
-
-Titan is easily the hardest of the three Primals to wake.
 
 After a knockback, Titan will target three random players (excluding the MT) to be trapped in a Granite Gaol.
 

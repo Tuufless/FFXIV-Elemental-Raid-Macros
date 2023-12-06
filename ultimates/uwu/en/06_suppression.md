@@ -8,11 +8,13 @@ permalink: /ultimates/uwu/04_suppression/
 
 # Ultimate Suppression
 
-## Pre-Suppression
-
 Unlike the other phases in this fight, you can push Ultima into Ultimate Suppression early- Ultimate Suppression will start when Ultima Weapon goes **under 50% HP**.
 
 Note that you **must** have a Tank LB3 when Ultimate Suppression ends- if you haven't built enough LB by this time, you may want to consider holding DPS to buy more time.
+
+---
+
+## Pre-Suppression
 
 The important part of this phase, **especially** if DPS has been low is to shield the Vulcan Bursts to prevent them from knocking players out of the arena.
 

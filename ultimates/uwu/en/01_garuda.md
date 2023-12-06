@@ -8,13 +8,8 @@ permalink: /ultimates/uwu/01_garuda/
 
 # Garuda
 
-## Summary
-
-<table>
-  <tr><td><b>Mistral Song</b></td><td>"Midruda"<ul><li><b>MT:</b> N > W > S</li><li><b>ST:</b> E > S > W</li></ul></td></tr>
-  <tr><td><b>Mesohighs</b></td><td><ul><li><b>ST:</b> West</li><li><b>D4:</b> East</li></ul></td></tr>
-  <tr><td><b>Beyond Limits</b></td><td>Healer</td></tr>
-</table>
+The party begins facing against Garuda. Like the other Primals, Garuda will
+need to be "awakened" in order for the party to make it to Ultima Weapon.
 
 ---
 

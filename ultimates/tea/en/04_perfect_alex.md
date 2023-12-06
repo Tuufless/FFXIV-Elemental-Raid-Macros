@@ -8,48 +8,7 @@ permalink: /ultimates/tea/04_perfect_alex/
 
 # Perfect Alexander
 
-## Outline
-
-The MT will take hate to start this phase. The outline to Perfect Alexander looks like this:
-
-<table>
-  <tr>
-    <td><a href="#forced-march"><b>Forced March</b></a></td>
-    <td><ul><li>Light Beacon: West</li><li>Everybody else: East</li></ul></td>
-  </tr>
-  <tr>
-    <td><a href="#fate-calibration-α"><b>Fate Calibration α</b></a></td>
-    <td><ul><li>Shared Sentence left, Aggravated Assault right</li></ul></td>
-  </tr>
-  <tr>
-    <td><b>Ordained Capital Punishment #1</b></td>
-    <td><ul><li>2x tank share (all buffs) → tank swap</li></ul></td>
-  </tr>
-  <tr>
-    <td><a href="#fate-calibration-β"><b>Fate Calibration β</b></a></td>
-    <td><ul><li>Light Beacon NW</li><li>Party East</li></ul></td>
-  </tr>
-  <tr>
-    <td><b>Ordained Capital Punishment #2</b></td>
-    <td><ul><li>ST invuln → tank swap</li></ul></td>
-  </tr>
-  <tr>
-    <td><a href="#exatrines"><b>Exatrine #1</b></a></td>
-    <td><ul><li>SW, S, SE, E spots <em>(N.B:</em> <b>not</b> <em>center)</em></li><li>MT Reprisal, MT 90s, H1 120s, H2 shields, H2 30s, D1, D4</li></ul></td>
-  </tr>
-  <tr>
-    <td><b>Ordained Capital Punishment #3</b></td>
-    <td><ul><li>MT invuln → tank swap</li></ul></td>
-  </tr>
-  <tr>
-    <td><a href="#exatrines"><b>Exatrine #2</b></a></td>
-    <td><ul><li>ST Reprisal, ST 90s, H2 120s, H2 shields, H2 30s, D2, D3</li></ul></td>
-  </tr>
-  <tr>
-    <td><a href="#temporal-prison"><b>Temporal Prison</b></a></td>
-    <td><ul><li>H2 > H1 > ST > MT > D3 > D4 > D2 > D1</li></ul></td>
-  </tr>
-</table>
+The MT will take hate to start this phase.
 
 ---
 

@@ -8,12 +8,12 @@ permalink: /ultimates/uwu/02_ifrit/
 
 # Ifrit
 
-## Summary
+Depending on your tank composition (e.g: PLD + GNB) and the party's DPS
+(whether you skip dashes), you may have to adjust how you tank Ultima Weapon
+later.
 
-<table>
-  <tr><td><b>Infernal Nails</b></td><td>Reverse-Z</td></tr>
-  <tr><td><b>Beyond Limits</b></td><td>Caster</td></tr>
-</table>
+Ifrit will also need to be "awakened" in order for the party to make it to
+Ultima Weapon.
 
 ---
 

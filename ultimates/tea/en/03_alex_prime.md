@@ -8,42 +8,9 @@ permalink: /ultimates/tea/03_alex_prime/
 
 # Alexander Prime
 
-## Outline
-
-The **ST** (not the MT!) will take hate to start this phase. The outline to Alexander Prime looks like this:
-
-<table>
-  <tr>
-    <td><a href="#temporal-stasis"><b>Temporal Stasis</b></a></td>
-    <td><ul><li>Red/green tethers west</li><li>No debuffs east</li></ul></td>
-  </tr>
-  <tr>
-    <td><b>Chastening Heat #1 + Divine Spears</b></td>
-    <td><ul><li>ST invuln <em>(tank swap after the Divine Spears)</em></li></ul></td>
-  </tr>
-  <tr>
-    <td><a href="#inception-formation"><b>Inception Formation</b></a></td>
-    <td><ul><li>Flarethrowers:<ul><li>MT south</li><li>ST middle</li></ul></li><li>Tanks + Shared Sentence left</li><li>ST baits Super Jump</li></ul></td>
-  </tr>
-  <tr>
-    <td><b>Chastening Heat #2 + Divine Spears</b></td>
-    <td><ul><li>MT invuln</li></ul></td>
-  </tr>
-  <tr>
-    <td><a href="#wormhole-formation"><b>Wormhole Formation</b></a></td>
-    <td><ul><li>09STOP <em>(Korean sim strat)</em></li></ul></td>
-  </tr>
-  <tr>
-    <td><b>2x Mega Holy</b></td>
-    <td><ul><li>MT Reprisal, D1, D4</li></ul></td>
-  </tr>
-  <tr>
-    <td><a href="#j-waves"><b>J Waves</b></a></td>
-    <td><ul><li><b>After 6 stacks:</b> MT90s, ST 90s, H1 120s, H2 120s</li><li><b>After 8 stacks:</b> ST Reprisal, H2 30s, D3</li></ul></td>
-  </tr>
-</table>
-
-We break down the mechanics below.
+After defeating Brute Justice and Cruise Chaser, the arena will change and
+Alexander Prime appears alongside Brute Justice and Cruise Chaser to begin the
+transition mechanic to this phase.
 
 ---
 

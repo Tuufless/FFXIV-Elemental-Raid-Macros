@@ -8,21 +8,6 @@ permalink: /ultimates/dsr/03_nidhogg/
 
 # Nidhogg
 
-## Summary
-
-If you are already familiar with Nidhogg and just need a quick summary:
-
-<table>
-  <tr>
-    <td><b>Nidhogg</b></td>
-    <td><ul><li>Easthogg</li></ul></td>
-  </tr>
-  <tr>
-    <td><b>4x Towers</b></td>
-    <td><ul><li>Ranged bait</li></ul></td>
-  </tr>
-</table>
-
 Nidhogg's phase opens with Final Chorus, another very hard-hitting raid-wide
 attack. Notably, Nidhogg is not yet targetable, so debuffs like Reprisal or
 Addle cannot be used to mitigate this damage.

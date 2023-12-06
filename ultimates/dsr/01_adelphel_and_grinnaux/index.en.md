@@ -8,31 +8,11 @@ permalink: /ultimates/dsr/01_adelphel_and_grinnaux/
 
 # Adelphel and Grinnaux
 
-## Summary
+Dragonsong's Reprise is the first Ultimate to feature a "door boss" phase.
 
-If you are already familiar with Adelphel and Grinnaux, and just need a
-summary:
-
-<table>
-  <tr>
-    <td><b>Hyperdimensional Slash</b></td>
-    <td><ul><li>South → North</li></ul></td>
-  </tr>
-  <tr>
-    <td><b>Silence</b></td>
-    <td><ul><li>ST → D3 → ST</li></ul></td>
-  </tr>
-  <tr>
-    <td><b>Playstation</b></td>
-    <td><pre><code>D△  T× T□
-D〇　 　D〇
-D□ H× H△</code></pre></td>
-  </tr>
-  <tr>
-    <td><b>Pure of Heart</b></td>
-    <td><ul><li>HMRT</li></ul></td>
-  </tr>
-</table>
+Once cleared, the party will not need to repeat this phase, although this
+phase introduces various mechanics that will be encountered during the main
+portion of the encounter.
 
 ---
 

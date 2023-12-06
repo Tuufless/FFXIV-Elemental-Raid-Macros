@@ -8,20 +8,6 @@ permalink: /ultimates/dsr/05_alternate_thordan/
 
 # Alternate Thordan
 
-## Summary
-
-If you are already familiar with the Alternate timeline Thordan phase, and just
-need a quick summary:
-
-<table>
-  <tr>
-    <td><b>Death of the Heavens</b></td>
-    <td><ul><li>2-2 Dooms north</li><li>Anchored Dooms</li></ul></td>
-  </tr>
-</table>
-
----
-
 Thordan appears in the center of the arena, facing South. Thordan starts the
 phase by casting *Incarnation*, which simply revives the dragons lying around
 the arena, and casting *The Dragon's Eye*, which is simply a damage up buff.
@@ -32,6 +18,8 @@ MT start South, and the party North.
 Thordan will auto-attack the MT twice (remember, these are cone AoEs!), before
 jumping to the center of the arena and casting the first Trio combo of the
 phase, *Wrath of the Heavens*.
+
+---
 
 ## Wrath of the Heavens
 
