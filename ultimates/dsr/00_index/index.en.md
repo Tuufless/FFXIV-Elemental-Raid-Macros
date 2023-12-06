@@ -70,6 +70,15 @@ there are two sets of markers and macros to use for this fight.
 {% include_relative macros/dsr_1.en.txt %}
 ```
 
+<details markdown=block>
+<summary>Japanese translation</summary>
+
+```
+{% include_relative macros/dsr_1.jp.txt %}
+```
+
+</details>
+
 ## Markers
 
 All markers are used to bait Hyperdimensional Slashes (black orbs).
@@ -106,6 +115,15 @@ This is the macro for the bulk of the fight.
 ```
 {% include_relative macros/dsr_2.en.txt %}
 ```
+
+<details markdown=block>
+<summary>Japanese translation</summary>
+
+```
+{% include_relative macros/dsr_2.jp.txt %}
+```
+
+</details>
 
 ## Markers
 
