@@ -33,7 +33,7 @@ Looking towards the future:
 - Relic weapons (when they arrive) will have their substats capped at **269**.
 
 ![](images/dsr_cheatsheet.jpg)
-*(Shortened link: [https://cutt.ly/EleDC_DSR_summary](images/dsr_cheatsheet.jpg))*
+*(Full-size image: [English](images/dsr_cheatsheet.jpg), [日本語](images/dsr_cheatsheet_jp.jpg))*
 
 ---
 
@@ -71,7 +71,7 @@ there are two sets of markers and macros to use for this fight.
 ```
 
 <details markdown=block>
-<summary>Japanese translation</summary>
+<summary>日本語</summary>
 
 ```
 {% include_relative macros/dsr_1.jp.txt %}
@@ -117,7 +117,7 @@ This is the macro for the bulk of the fight.
 ```
 
 <details markdown=block>
-<summary>Japanese translation</summary>
+<summary>日本語</summary>
 
 ```
 {% include_relative macros/dsr_2.jp.txt %}
