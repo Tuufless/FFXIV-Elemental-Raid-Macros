@@ -3,6 +3,9 @@ layout: default
 title: 2. King Thordan
 parent: Lv 90. DSR
 grand_parent: Ultimates
+nav_order: 3
+has_children: false
+has_toc: false
 permalink: /ultimates/dsr/02_thordan/
 ---
 

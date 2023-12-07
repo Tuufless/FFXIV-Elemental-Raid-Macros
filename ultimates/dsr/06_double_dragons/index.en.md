@@ -3,6 +3,9 @@ layout: default
 title: 6. Double Dragons
 parent: Lv 90. DSR
 grand_parent: Ultimates
+nav_order: 7
+has_children: false
+has_toc: false
 permalink: /ultimates/dsr/06_double_dragons/
 ---
 

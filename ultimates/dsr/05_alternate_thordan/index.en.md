@@ -3,6 +3,9 @@ layout: default
 title: 5. Alternate Thordan
 parent: Lv 90. DSR
 grand_parent: Ultimates
+nav_order: 6
+has_children: false
+has_toc: false
 permalink: /ultimates/dsr/05_alternate_thordan/
 ---
 

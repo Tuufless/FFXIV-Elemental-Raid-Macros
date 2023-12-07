@@ -3,6 +3,9 @@ layout: default
 title: 7. Dragonking Thordan
 parent: Lv 90. DSR
 grand_parent: Ultimates
+nav_order: 8
+has_children: false
+has_toc: false
 permalink: /ultimates/dsr/07_dragonking_thordan/
 ---
 
