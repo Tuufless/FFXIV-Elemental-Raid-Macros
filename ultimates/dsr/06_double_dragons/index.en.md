@@ -398,12 +398,22 @@ practice to mark the players. However, there are two different marking schemes.
 <table>
   <tr>
     <td width="50%">
-      <p>If you are not using automarkers, then the easiest way would be to
-      delegate two players to mark players.</p>
-      <ul>
-        <li>One player marks the two players with the <b>white</b> debuff.</li>
-        <li>The other player marks the two players with <b>no</b> debuff.</li>
-      </ul>
+      <p>If you are not using automarkers, then there are two methods to mark players.</p>
+      <ol>
+        <li>
+          <p>You can delegate marking to two players:</p>
+          <ul>
+            <li>One player marks the two players with the <b>white</b> debuff.</li>
+            <li>The other player marks the two players with <b>no</b> debuff.</li>
+          </ul>
+        </li>
+        <li>
+          <p>Alternatively, each player can prepare to mark themselves:</p>
+          <ul>
+            <li>Assign one symbol for "white debuffs", one symbol for "no debuff", and have the four affected players mark themselves.</li>
+          </ul>
+        </li>
+      </ol>
       <p>With this configuration, the <b>same-numbered</b> players will pair
       together, with the "2s" against the east wall.</p>
     </td>
@@ -674,6 +684,10 @@ When the bleed from *Shockwave* disappears, **heavily shield and mitigate** in
 order to survive *Alternative End*, the final raid-wide damage that marks the
 transition to the final phase *(Dragonking Thordan will not be targetable*
 *during this)*.
+
+<div style="background-color: #200 ; padding: 10px; border: 1px solid;">
+<b>Note:</b> Each Bleed tick deals about ~14k damage. Make sure you <em>do not</em> apply shields until <em>after</em> the Bleed has worn off completely!
+</div>
 
 ---
 

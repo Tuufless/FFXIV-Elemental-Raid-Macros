@@ -37,6 +37,10 @@ The following is a mitigation framework for the encounter.
     <td>Sacred Soil, Kerachole</td>
   </tr>
   <tr>
+    <td>H2 90s</td>
+    <td>Deployment Tactics, Zoe</td>
+  </tr>
+  <tr>
     <td>H2 120s</td>
     <td>Expedient, Holos</td>
   </tr>
@@ -53,9 +57,9 @@ The following is a mitigation framework for the encounter.
     <td colspan="4" style="text-align:center"><b>P2. Thordan</b></td>
   </tr>
   <tr>
-    <td>Ascalon's Might</td>
+    <td>Ascalon's Might x3</td>
     <td></td>
-    <td>ST Reprisal, D1</td>
+    <td>ST Reprisal, H2 30s</td>
     <td>
       <ul>
         <li>A WAR can Holmgang.</li>
