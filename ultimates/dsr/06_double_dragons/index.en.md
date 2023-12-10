@@ -688,6 +688,12 @@ transition to the final phase *(Dragonking Thordan will not be targetable*
 <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
 <b>Note:</b> Each Bleed tick deals about ~14k damage. Make sure you <em>do not</em> apply shields until <em>after</em> the Bleed has worn off completely!
 </div>
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+<p><b>Tip:</b> Thordan will announce <em>"Hahahaha! By the power of mine
+enemy's eyes..."</em> just before the second round of bleeds are applied.</p>
+A DNC should start Improvisation when the dialogue box <em>disappears</em>
+to get the maximum value out of Improvisation's shields.
+</div>
 
 ---
 
