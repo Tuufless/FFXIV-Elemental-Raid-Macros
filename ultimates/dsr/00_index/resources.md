@@ -54,7 +54,7 @@ The following is a mitigation framework for the encounter.
   <th>Party cooldowns</th>
   <th>Notes</th>
   <tr>
-    <td colspan="4" style="text-align:center"><b>P2. Thordan</b></td>
+    <td colspan="4" style="text-align:center" bgcolor="#002"><b>P2. Thordan</b></td>
   </tr>
   <tr>
     <td>Ascalon's Might x3</td>
@@ -67,7 +67,7 @@ The following is a mitigation framework for the encounter.
     </td>
   </tr>
   <tr>
-    <td>Holy Shield Bash + Holy Bladedance</td>
+    <td>Strength of the Ward</td>
     <td>MT+ST 30%</td>
     <td>H1 120s, D3</td>
     <td></td>
@@ -95,7 +95,7 @@ The following is a mitigation framework for the encounter.
     <td></td>
   </tr>
   <tr>
-    <td>Sacred Sever</td>
+    <td>Sanctity of the Ward</td>
     <td></td>
     <td>H2 90s, H2 120s</td>
     <td></td>
@@ -107,12 +107,12 @@ The following is a mitigation framework for the encounter.
     <td></td>
   </tr>
   <tr>
-    <td colspan="4" style="text-align:center"><b>P3. Nidhogg</b></td>
+    <td colspan="4" style="text-align:center" bgcolor="#002"><b>P3. Nidhogg</b></td>
   </tr>
   <tr>
     <td>Final Chorus</td>
     <td></td>
-    <td>ST 90s, H1 120s, D3</td>
+    <td>ST 90s, H1 120s, H2 30s, H2 90s, D3</td>
     <td></td>
   </tr>
   <tr>
@@ -134,12 +134,12 @@ The following is a mitigation framework for the encounter.
     <td></td>
   </tr>
   <tr>
-    <td colspan="4" style="text-align:center"><b>P4. Eyes/Saving Haurchefant</b></td>
+    <td colspan="4" style="text-align:center" bgcolor="#002"><b>P4. Eyes/Saving Haurchefant</b></td>
   </tr>
   <tr>
     <td>Steep in Rage</td>
     <td></td>
-    <td></td>
+    <td>MT Reprisal, H2 30s</td>
     <td></td>
   </tr>
   <tr>
@@ -171,7 +171,7 @@ The following is a mitigation framework for the encounter.
     <td></td>
   </tr>
   <tr>
-    <td colspan="4" style="text-align:center"><b>P5. Alternate Timeline Thordan</b></td>
+    <td colspan="4" style="text-align:center" bgcolor="#002"><b>P5. Alternate Timeline Thordan</b></td>
   </tr>
   <tr>
     <td>Spiral Pierce</td>
@@ -182,12 +182,12 @@ The following is a mitigation framework for the encounter.
   <tr>
     <td>Ancient Quaga #1</td>
     <td></td>
-    <td>MT Reprisal, H2 30s, D1, D3, D4</td>
+    <td>MT Reprisal, MT 90s, H2 30s, D1, D3, D4</td>
     <td></td>
   </tr>
   <tr>
     <td>Heavenly Heel #1</td>
-    <td>MT 30%</td>
+    <td>MT Rampart</td>
     <td>ST Reprisal, D2</td>
     <td>
       <ul>
@@ -198,7 +198,7 @@ The following is a mitigation framework for the encounter.
   </tr>
   <tr>
     <td>Ascalon's Might x3</td>
-    <td>ST 30%</td>
+    <td>ST Rampart</td>
     <td></td>
     <td></td>
   </tr>
@@ -211,27 +211,28 @@ The following is a mitigation framework for the encounter.
   <tr>
     <td>Ancient Quaga #2</td>
     <td></td>
-    <td>MT Reprisal, H2 30s</td>
+    <td>MT Reprisal, ST 90s, H2 30s</td>
     <td></td>
   </tr>
   <tr>
     <td>Heavenly Heel #2</td>
-    <td>MT Rampart</td>
+    <td>MT 3rd cds</td>
     <td>ST Reprisal, D1, D3, D4</td>
     <td>
       <ul>
         <li>Tank swap MT→ST</li>
+        <li>Try to apply these late so they also cover the Ascalon's Might.</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td>Ascalon's Might x3</td>
-    <td>ST Rampart</td>
+    <td>ST 3rd cds</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td colspan="4" style="text-align:center"><b>P6. Double Dragons</b></td>
+    <td colspan="4" style="text-align:center" bgcolor="#002"><b>P6. Double Dragons</b></td>
   </tr>
   <tr>
     <td>Wyrmsbreath #1</td>
@@ -247,7 +248,7 @@ The following is a mitigation framework for the encounter.
   </tr>
   <tr>
     <td>Hallowed Wings #1</td>
-    <td>MT+ST 3rd cds</td>
+    <td>MT+ST Rampart</td>
     <td>ST Reprisal, D2</td>
     <td>
       <ul>
@@ -269,8 +270,8 @@ The following is a mitigation framework for the encounter.
   </tr>
   <tr>
     <td>Hallowed Wings #2</td>
-    <td>MT+ST Rampart</td>
-    <td>D1</td>
+    <td>MT+ST 3rd cds</td>
+    <td>ST Reprisal, D1</td>
     <td>
       <ul>
         <li>Debuff Hraesvelgr</li>
@@ -279,24 +280,32 @@ The following is a mitigation framework for the encounter.
   </tr>
   <tr>
     <td>Wyrmsbreath #2</td>
-    <td>MT+ST 30%</td>
+    <td>MT+ST 30% + Rampart</td>
     <td></td>
-    <td></td>
+    <td>
+      <ul>
+        <li>If timed correctly, these can last until Cauterize.</li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td>Cauterize</td>
     <td>MT+ST Invuln</td>
-    <td></td>
+    <td>H2 30s</td>
     <td></td>
   </tr>
   <tr>
     <td>Alternative End</td>
     <td></td>
     <td>ST 90s, H2 30s, H2 90s, H2 120s, D3</td>
-    <td></td>
+    <td>
+      <ul>
+        <li>Use any "extra" party mitigations here (e.g: Collective Unconsciousness, Passage of Arms, Improvisation, Magick Barrier)</li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td colspan="4" style="text-align:center"><b>P7. Dragonking Thordan</b></td>
+    <td colspan="4" style="text-align:center" bgcolor="#002"><b>P7. Dragonking Thordan</b></td>
   </tr>
   <tr>
     <td>Akh Morn's Edge #1</td>
@@ -304,7 +313,7 @@ The following is a mitigation framework for the encounter.
     <td>MT Reprisal, H1 120s, H2 30s, D1, D4</td>
     <td>
       <ul>
-        <li>Apply H2 30s when the cast starts to have it back by Gigaflare's Edge.</li>
+        <li>If H2 30s is applied when the cast starts, it will be available for Gigaflare's Edge #1.</li>
       </ul>
     </td>
   </tr>
@@ -320,8 +329,8 @@ The following is a mitigation framework for the encounter.
     <td>MT Reprisal, ST 90s, H1 180s, H2 30s, D3</td>
     <td>
       <ul>
-        <li>Apply H2 30s when the cast starts to have it back by Gigaflare's Edge.</li>
-        <li>Apply D3 when the cast starts to have it back by Akh Morn's Edge #3.</li>
+        <li>If H2 30s is applied when the cast starts, it will be available for Gigaflare's Edge #2.</li>
+        <li>If D3 is applied when the cast starts, it will be available for Akh Morn's Edge #3.</li>
       </ul>
     </td>
   </tr>
