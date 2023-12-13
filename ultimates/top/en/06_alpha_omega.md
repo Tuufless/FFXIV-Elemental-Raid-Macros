@@ -864,6 +864,26 @@ not to use their potions at certain buff windows.
 </details>
 <details markdown=block>
 <summary>
+  <b>[Cosmo Memory]</b> Isn't this overmitigated?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>It is- you really only need two pieces of mitigation in addition to
+      the Tank LB3 to survive Cosmo Memory.</p>
+      <p>However, doing so means that it's okay to drop one of the tank
+      mitigations (whoever LBs) and still survive. You can also save the H2 a
+      GCD putting up shields.</p>
+      <p>The MT90s here is because you can use it here and have it back up for
+      Wave Cannon 2. More importantly, it puts the 90s on cooldown so it's
+      <em>not</em> available in Wave Cannon 1 (so it's not accidentally used at
+      the wrong place).</p>
+    </td>
+  </tr>
+</table>
+</details>
+<details markdown=block>
+<summary>
   <b>[Wave Cannons]</b> Why does the ST invuln first and not the MT?
 </summary>
 <table>
