@@ -377,7 +377,7 @@ which should be the tanks.
   </tr>
   <tr>
     <td>
-      <p><b>6.</b> Stack together south, with both tanks in front to take the
+      <p><b>6.</b> Stack together East, with both tanks in front to take the
       final shared beam.</p>
       <p>This is an extremely hard-hitting tankbuster.</p>
       <ul>
@@ -590,7 +590,7 @@ which should be the tanks.
   </tr>
   <tr>
     <td colspan="2">
-      <p><b>11.</b> Stack together South (tanks in front) for the Wave Cannon</p>
+      <p><b>11.</b> Stack together East (tanks in front) for the Wave Cannon</p>
       <ul>
         <li><b>MT:</b> Invuln</li>
         <li><b>ST:</b> Heavy mitigations</li>
