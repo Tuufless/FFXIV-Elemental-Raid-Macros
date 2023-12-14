@@ -884,7 +884,23 @@ not to use their potions at certain buff windows.
 </details>
 <details markdown=block>
 <summary>
-  <b>[Wave Cannons]</b> Why does the ST invuln first and not the MT?
+  <b>[Wave Cannon]</b> Does it matter which tank is in front?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>No, the player in front does not take extra damage compared to the
+      second player.</p>
+      <p><em>(Of course, if a PLD is using Passage of Arms, they should be in
+      front.)</em></p>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
+  <b>[Wave Cannon]</b> Why does the ST invuln first and not the MT?
 </summary>
 <table>
   <tr>
