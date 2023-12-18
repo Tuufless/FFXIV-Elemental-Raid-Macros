@@ -127,13 +127,22 @@ This first part cycles through the three main mechanics of the fight.
     <td>
       <p><b>4.</b> Mechanics resolve.</p>
       <ul>
-        <li><b>MT, ST:</b> If your dragon's mouth is <b>not</b> glowing, you
-        have a single-target tankbuster. Otherwise, you have a shared
-        tankbuster (stack in the middle).</li>
+        <li>
+          <p><b>MT, ST:</b> If your dragon's mouth is <b>not</b> glowing, you
+          have a single-target tankbuster.</p>
+          <p>If <b>both</b> dragon's mouths are glowing, stack towards the
+          middle, for a shared tankbuster.</p>
+        </li>
       </ul>
-      <p><em>(In this example, Nidhogg's mouth is glowing.)</em></p>
+      <p><em>In the first example, Nidhogg's mouth is glowing, while
+      Hraesvelgr's is not, so the ST has a single-target tankbuster.</em></p>
+      <p><em>In the second example, both mouths are glowing, so the tanks
+      stack together for a shared tankbuster.</em></p>
     </td>
-    <td><img src="images/wyrmsbreath_01_03.jpg"></td>
+    <td>
+      <img src="images/wyrmsbreath_01_03a.jpg">
+      <img src="images/wyrmsbreath_01_03b.jpg">
+    </td>
   </tr>
   <tr>
     <td>
@@ -621,11 +630,20 @@ maintain uptime on a dragon during the mechanic.
           </ul>
         </li>
       </ul>
-      <p><em>(In this example, Hraesvelgr's mouth is glowing).</em></p>
+      <p><em>In the first example, Hraesvelgr's mouth is glowing, while
+      Nidhogg's is not, so the MT has a single-target tankbuster.</em></p>
+      <p><em>In the second example, both mouths are glowing, so the tanks stack together for a shared tankbuster.</em></p>
     </td>
-    <td><img src="images/wyrmsbreath_02.jpg"></td>
+    <td>
+      <img src="images/wyrmsbreath_02_a.jpg">
+      <img src="images/wyrmsbreath_02_b.jpg">
+    </td>
   </tr>
 </table>
+
+The left-most and right-most players at the North can use the inner markers as a guide. As long as their tethers **do not cross the center of the markers**, they will be safe from the cone AoEs.
+
+![](images/wyrmsbreath_02_positions.jpg)
 
 ---
 
