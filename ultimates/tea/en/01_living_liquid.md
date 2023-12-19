@@ -112,3 +112,23 @@ Notable changes are:
 	<td><img src="../images/living_liquid/living_liquid_19.jpg"></td>
   </tr>
 </table>
+
+
+---
+
+## Troubleshooting
+
+<details markdown=block>
+<summary>
+  <b>[Hand of Pain]</b> The MT invulns the first two Fluid Swings and the
+  Protean Wave from the puddle, but dies shortly thereafter. What happened?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>The MT died to Hand of Pain, which shortly follows the Protean Wave.
+      Hand of Pain ignores tank invulnerabilities.</p>
+    </td>
+  </tr>
+</table>
+</details>
