@@ -249,16 +249,17 @@ resolve Hello, Near World and Hello, Distant World.
     <td><p><b>8.</b> The "beetle" Omega lights up to cleave one side of the
     arena. Move in to the safe side.</p>
     <ul>
-      <li><b>The inner green-tether pair:</b>
+      <li><b>The green-tether pair towards Beetle Omega:</b>
         <ol>
           <li>Break the tether when the <b>tether's debuff timer reaches 15
           seconds</b>.</li>
           <li>Position to receive Hello, Near World.</li>
         </ol>
       </li>
-      <li><b>The outer green-tether pair:</b>
+      <li><b>The green-tether pair away from Beetle Omega:</b>
         <ul>
-          <li>Position to receive Hello, Distant World.</li>
+          <li>Position to receive Hello, Distant World <em>(the player on the
+          unside side moves up to Beetle Omega)</em>.</li>
         </ul>
       </li>
       <li><b>Hello, Near World:</b>
@@ -273,8 +274,9 @@ resolve Hello, Near World and Hello, Distant World.
       </li>
       <li><b>The two remaining blue-tethers without either Hello, World:</b>
         <ul>
-          <li>Stand towards Final Omega- you will <em>not</em> be getting
-          Dynamis stacks this round.</li>
+          <li>Stand towards Final Omega, three notches away from the
+          intercardinal mark- you will <em>not</em> be getting Dynamis stacks
+          this round.</li>
         </ul>
       </li>
     </ul></td>
