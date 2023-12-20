@@ -842,3 +842,44 @@ to get the maximum value out of Improvisation's shields.
   </tr>
 </table>
 </details>
+
+---
+
+## Troubleshooting
+
+<details markdown=block>
+<summary>
+  <b>[Alternate End]</b> Some party members are still dying with the mitigation plan!
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>To recap, the mitigation plan calls to mitigate Alternate End with:</p>
+      <ol>
+        <li>Enhanced shields
+        <li>H2 120s
+        <li>H2 30s
+        <li>ST 90s
+        <li>D3
+      </ol>
+      <p>This isn't <em>quite</em> enough, as Alternative End deals over twice
+      a healer's max HP in damage.</p>
+      <p>However, SCH is uniquely positioned to be <em>very</em> effective
+      against Alternate End because Fey Illumination serves as an extra
+      mitigation, and combined with Protraction and Recitation, means that the
+      party usually has more than enough shielding to survive.</p>
+      <p>SGE, on the other hand, doesn't have the raw power that a SCH has, and
+      this becomes problematic when the healers are WHM + SGE, and there are no
+      other extra party mitigations available (i.e: no PLD, RDM, DNC).</p>
+      <p>In such cases, the tanks and healers will need to use their targeted
+      mitigations to cover the players that need help- typically the two
+      healers, D3, and any melee that doesn't have personal shields (DRG).</p>
+      <p>A SGE will also want to boost their healing output, not with just Zoe,
+      but with other tools as well, like Physis, Asylum, and Nature's Minne.</p>
+      <p>Note that a SGE's Kerachole and Taurochole will not stack. However, a
+      SGE can use Krasis on their target to provide a strong enough shield that
+      can be used instead.</p>
+    </td>
+  </tr>
+</table>
+</details>
