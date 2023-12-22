@@ -691,6 +691,8 @@ we needed the fire/ice debuffs in order to survive this mechanic.
 After both dragons *Touchdown*, they will each start casting their enrage,
 *Revenge of the Horde*.
 
+## Alternate End
+
 After the two dragons are defeated, the two dragon eyes will be left behind.
 Just like before, they will do raid-wide damage with a bleed (*Resentment*).
 
@@ -703,8 +705,24 @@ order to survive *Alternative End*, the final raid-wide damage that marks the
 transition to the final phase *(Dragonking Thordan will not be targetable*
 *during this)*.
 
+- The party should use any "extra" mitigations here (Passage of Arms,
+  Magicked Barrier, Fey Illumination, Collective Unconsciousness, etc.)
+- Use any abilities that boost healing potency here to enchance H2's shields
+  (Asylum, Fey Illumination, Nature's Minne)
+- Use any personal mitigation/shields here (Arcane Crest, Third Eye, Radiant
+  Aegis, etc.)
+  - Healers should use targeted mitigations on themselves (Aquaveil,
+    Exaltation, Protraction). Taurochole does not stack with Kerachole, but a
+    SGE can use Krasis on themselves to boost the shields they receive.
+  - The MT should target D3 with targeted mitigations, as D3 is the only role
+    that does not have personal mitigation/shields.
+  - The ST should target any melee, in particular DRG as DRG is the only melee
+    that does not have personal mitigation/shields.
+
 <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
-<b>Note:</b> Each Bleed tick deals about ~14k damage. Make sure you <em>do not</em> apply shields until <em>after</em> the Bleed has worn off completely!
+<b>Note:</b> Each Bleed tick deals about ~14k damage. Make sure you
+<em>do not</em> apply shields until <em>after</em> the Bleed has worn off
+completely!
 </div>
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
 <p><b>Tip:</b> Thordan will announce <em>"Hahahaha! By the power of mine
