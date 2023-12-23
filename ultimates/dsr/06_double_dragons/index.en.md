@@ -407,7 +407,8 @@ practice to mark the players. However, there are two different marking schemes.
 <table>
   <tr>
     <td width="50%">
-      <p>If you are not using automarkers, then there are two methods to mark players.</p>
+      <p>If you are not using automarkers, then there are two methods to mark
+      players.</p>
       <ol>
         <li>
           <p>You can delegate marking to two players:</p>
@@ -419,7 +420,8 @@ practice to mark the players. However, there are two different marking schemes.
         <li>
           <p>Alternatively, each player can prepare to mark themselves:</p>
           <ul>
-            <li>Assign one symbol for "white debuffs", one symbol for "no debuff", and have the four affected players mark themselves.</li>
+            <li>Assign one symbol for "white debuffs", one symbol for "no
+            debuff", and have the four affected players mark themselves.</li>
           </ul>
         </li>
       </ol>
@@ -622,7 +624,8 @@ maintain uptime on a dragon during the mechanic.
       <ul>
         <li><b>MT:</b> SW if you get the single-target tankbuster (by Nidhogg).</li>
         <li><b>ST:</b> SE if you get the single-target tankbuster (by Hraesvelgr).</li>
-        <li><b>D3:</b> Go south, and <b>move towards a dragon whose mouth is glowing</b>.</li>
+        <li><b>D3:</b> Go south, and <b>move towards a dragon whose mouth is
+        glowing</b>.</li>
         <li><b>All other players:</b> Spread out along the <b>north</b> edge.
           <ul>
             <li>The north position should go to a <b>healer or caster</b> that
@@ -632,7 +635,8 @@ maintain uptime on a dragon during the mechanic.
       </ul>
       <p><em>In the first example, Hraesvelgr's mouth is glowing, while
       Nidhogg's is not, so the MT has a single-target tankbuster.</em></p>
-      <p><em>In the second example, both mouths are glowing, so the tanks stack together for a shared tankbuster.</em></p>
+      <p><em>In the second example, both mouths are glowing, so the tanks stack
+      together for a shared tankbuster.</em></p>
     </td>
     <td>
       <img src="images/wyrmsbreath_02_a.jpg">
@@ -641,7 +645,9 @@ maintain uptime on a dragon during the mechanic.
   </tr>
 </table>
 
-The left-most and right-most players at the North can use the inner markers as a guide. As long as their tethers **do not cross the center of the markers**, they will be safe from the cone AoEs.
+The left-most and right-most players at the North can use the inner markers as
+a guide. As long as their tethers **do not cross the center of the markers**,
+they will be safe from the cone AoEs.
 
 ![](images/wyrmsbreath_02_positions.jpg)
 
