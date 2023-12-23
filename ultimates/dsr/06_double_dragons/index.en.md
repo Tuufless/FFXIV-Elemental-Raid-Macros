@@ -691,7 +691,7 @@ we needed the fire/ice debuffs in order to survive this mechanic.
 After both dragons *Touchdown*, they will each start casting their enrage,
 *Revenge of the Horde*.
 
-## Alternate End
+## Alternative End
 
 After the two dragons are defeated, the two dragon eyes will be left behind.
 Just like before, they will do raid-wide damage with a bleed (*Resentment*).
@@ -846,7 +846,7 @@ to get the maximum value out of Improvisation's shields.
       in the middle of being channeled.</p>
       <p>However, <em>starting</em> to channel an ability counts.</p>
       <p><em>(You really shouldn't channel during Cauterize anyway, as the
-      buildup to Alternate End is a better place to do so.)</em></p>
+      buildup to Alternative End is a better place to do so.)</em></p>
     </td>
   </tr>
 </table>
@@ -867,12 +867,12 @@ to get the maximum value out of Improvisation's shields.
 
 <details markdown=block>
 <summary>
-  <b>[Alternate End]</b> Some party members are still dying with the mitigation plan!
+  <b>[Alternative End]</b> Some party members are still dying with the mitigation plan!
 </summary>
 <table>
   <tr>
     <td>
-      <p>To recap, the mitigation plan calls to mitigate Alternate End with:</p>
+      <p>To recap, the mitigation plan calls to mitigate Alternative End with:</p>
       <ol>
         <li>Enhanced shields</li>
         <li>H2 120s</li>
@@ -883,7 +883,7 @@ to get the maximum value out of Improvisation's shields.
       <p>This isn't <em>quite</em> enough, as Alternative End deals over twice
       a healer's max HP in damage.</p>
       <p>However, SCH is uniquely positioned to be <em>very</em> effective
-      against Alternate End because Fey Illumination serves as an extra
+      against Alternative End because Fey Illumination serves as an extra
       piece of mitigation. Combined with Protraction, Recitation and Deployment
       Tactics, the party usually has <em>more</em> than enough shielding to 
       survive.</p>
