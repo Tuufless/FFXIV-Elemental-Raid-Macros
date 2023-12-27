@@ -108,7 +108,7 @@ One such mitigation plan is:
   </tr>
   <tr>
     <td><b>Towers #2</b></td>
-    <td><p>H1 120s, H2 120s</p></td>
+    <td><p>H1 120s, H2 30s, H2 120s</p></td>
   </tr>
   <tr>
     <td><b>Towers #3</b></td>
@@ -116,11 +116,11 @@ One such mitigation plan is:
   </tr>
   <tr>
     <td><b>Towers #4</b></td>
-    <td><p>ST Reprisal, D1, D4</p></td>
+    <td><p>ST Reprisal, H2 30s</p></td>
   </tr>
   <tr>
     <td><b>Critical Error</b></td>
-    <td>MT 90s, H2 30s, D2</td>
+    <td>MT 90s, D1, D4</td>
   </tr>
 </table>
 
