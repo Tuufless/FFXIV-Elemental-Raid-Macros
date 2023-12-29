@@ -31,15 +31,15 @@ mitigation plan is:
   <tr>
     <td><b>Wave Cannon #1</b></td>
     <td>
+      <p>(Invuln) PLD > GNB > DRK > WAR (Mitigate)</p>
       <p>ST Reprisal, ST 90s, D3</p>
-      <p>ST invuln</p>
     </td>
   </tr>
   <tr>
     <td><b>Wave Cannon #2</b></td>
     <td>
+      <p>(Invuln) WAR > DRK > GNB > PLD (Mitigate)</p>
       <p>MT Reprisal, MT 90s, H2 120s, D1</p>
-      <p>MT invuln</p>
     </td>
   </tr>
   <tr>
@@ -55,6 +55,10 @@ mitigation plan is:
 The above mitigation plan was made in the *absence* of jobs that provide more
 than one sort of mitigation such as PLD's Passage of Arms, AST's Collective
 Unconsciousness, MCH's Dismantle, or RDM's Magick Barrier.
+
+Also note that the tank invuln/mitigation sequence is determined by the tank
+*jobs*, and not their *roles*. Keep that in mind if your tank composition does
+not follow the standard order (MT: WAR > DRK > GNB > PLD :ST).
 
 ---
 
