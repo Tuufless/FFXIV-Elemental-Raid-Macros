@@ -107,6 +107,8 @@ major mechanic of this phase.
       <p>If the party's debuff is Mid Glitch, spread in the order 〇×△□ from
       top-to-bottom.</p><p>Otherwise, if the party's debuff is Remote Glitch,
       only the <b>right-side group's 〇 and □</b> swap positions.</p>
+      <p>Four Omega-M clones will also spawn along either all the cardinals, or
+      all the intercardinal directions.</p>
     </td>
     <td>
       <img src="../images/02_omega_mf/party_synergy_04a.jpg">
@@ -115,17 +117,21 @@ major mechanic of this phase.
   </tr>
   <tr>
     <td>
-      <p><b>5.</b> Come back to the center of the arena, and locate the three
-      Omega-Ms standing in a row. <b>Use this as the new North</b>.</p>
-      <p>As you do so, two players will be marked with stack markers. If one
-      group has both stack markers, the <b>lower</b> stack marker swaps with
-      their partner in the other group.</p>
+      <p><b>5.</b> A fifth Omega-M will spawn in a random location (briefly
+      flashing white), making three Omega-M clones standing in a row.</p>
+      <p><b>Use this new Omega-M as the new North.</b></p>
+      Come back to the center of the arena. As you do so, two players will be
+      marked with stack markers. If one side has both stack markers, the one
+      <b>further</b> from the eye swaps with their partner in the other group.</p>
+      <p><em>(In this example, the left side × and □ players both have a stack
+      marker. Since □ is further from the eye, the □ players swap sides.)</em></p>
     </td>
     <td><img src="../images/02_omega_mf/party_synergy_05.jpg"></td>
   </tr>
   <tr>
     <td>
-      <p><b>6.</b> Get knocked back from the center into the two safe spots.</p>
+      <p><b>6.</b> Omega-F will spawn in the middle and knock back all players.</p>
+      <p>The party needs to get knocked back from the center into the two safe spots.</p>
       <ul>
         <li>The left-side group will always knockback to the west.</li>
         <li>The right-side group will adjust depending on the party's debuff:
