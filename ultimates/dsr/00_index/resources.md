@@ -234,8 +234,6 @@ The following is a mitigation framework for the encounter.
       <ul>
         <li>Tank swap MT→ST</li>
         <li>Try to apply these late so they also cover the Ascalon's Might.</li>
-        <li>If the MT is DRK, they will need healer mitigations (Aquaveil,
-        Exaltation, etc.).</li>
       </ul>
     </td>
   </tr>
@@ -243,8 +241,7 @@ The following is a mitigation framework for the encounter.
     <td>Ascalon's Might x3</td>
     <td>ST 3rd + short</td>
     <td></td>
-    <li>If the ST is DRK, they will need healer mitigations (Aquaveil,
-    Exaltation, etc.).</li>
+    <td></td>
   </tr>
   <tr>
     <td colspan="4" style="text-align:center;background-color:#002">
