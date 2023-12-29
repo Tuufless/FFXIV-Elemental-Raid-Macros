@@ -23,6 +23,7 @@ The structure of this phase can be broken down as follows:
   - [Hallowed Wings #2](#hallowed-wings-2)
   - [Wyrmsbreath #2](#wyrmsbreath-2-5-1)
 - [Cauterize](#cauterize)
+- [Alternative End](#alternative-end)
 
 In addition, each dragon also has their own enrage condition. Causing either
 dragon to break their vow will result in their attacks one-shotting anyone hit
