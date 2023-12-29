@@ -722,7 +722,7 @@ transition to the final phase *(Dragonking Thordan will not be targetable*
     SGE can use Krasis on themselves to boost the shields they receive.
   - The MT should target D3 with targeted mitigations, as D3 is the only role
     that does not have personal mitigation/shields.
-  - The ST should target any melee, in particular DRG as DRG is the only melee
+  - The ST should target a DRG if one is in the party, as DRG is the only melee
     that does not have personal mitigation/shields.
 
 <div style="background-color: #200 ; padding: 10px; border: 1px solid;">

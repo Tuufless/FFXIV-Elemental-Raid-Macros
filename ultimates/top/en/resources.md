@@ -22,7 +22,7 @@ The following is a mitigation framework for the encounter.
   </tr>
   <tr>
     <td>Tank 3rd</td>
-    <td>Thrill of Battle, Bulwark, Dark Mind, Camouflage</td>
+    <td>Thrill of Battle, Bulwark, Oblation, Camouflage</td>
   </tr>
   <tr>
     <td>H1 120s</td>
