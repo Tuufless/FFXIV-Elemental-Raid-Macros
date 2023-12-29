@@ -122,7 +122,7 @@ The following is a mitigation framework for the encounter.
   </tr>
   <tr>
     <td colspan="4" style="text-align:center;background-color:#002">
-      <b>P3. Final Omega</b>
+      <b>P3. Omega Reconfigured</b>
     </td>
   </tr>
   <tr>
@@ -133,7 +133,7 @@ The following is a mitigation framework for the encounter.
   </tr>
   <tr>
     <td>Towers #1</td>
-    <td></td>
+    <td>MT Rampart</td>
     <td>MT 90s, ST Reprisal, D2</td>
     <td>
       <ul>
@@ -144,24 +144,26 @@ The following is a mitigation framework for the encounter.
   </tr>
   <tr>
     <td>Towers #2</td>
-    <td></td>
+    <td>MT 30%</td>
     <td>H1 120s, H2 30s, H2 120s</td>
     <td>
       <ul>
         <li>The healer 120s are used here to be back up in time for the first
         Wave Cannon in P4.</li>
+        <li>Tank swap MT → ST around here to let the tanks cycle mitigations
+        for autoattacks.</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td>Towers #3</td>
-    <td></td>
+    <td>ST 30%</td>
     <td>MT Reprisal, ST 90s, D3</td>
     <td></td>
   </tr>
   <tr>
     <td>Towers #4</td>
-    <td></td>
+    <td>ST Rampart + 3rd</td>
     <td>ST Reprisal, H2 30s</td>
     <td></td>
   </tr>
@@ -169,7 +171,11 @@ The following is a mitigation framework for the encounter.
     <td>Critical Error</td>
     <td></td>
     <td>MT 90s, D1, D4</td>
-    <td></td>
+    <td>
+      <ul>
+        <li>Tank swap ST → MT</li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td colspan="4" style="text-align:center;background-color:#002">
