@@ -58,7 +58,9 @@ The following is a mitigation framework for the encounter.
   <th>Party cooldowns</th>
   <th>Notes</th>
   <tr>
-    <td colspan="4" style="text-align:center" bgcolor="#002"><b>P2. Thordan</b></td>
+    <td colspan="4" style="text-align:center;background-color:#002">
+      <b>P2. Thordan</b>
+    </td>
   </tr>
   <tr>
     <td>Ascalon's Might x3</td>
@@ -111,7 +113,9 @@ The following is a mitigation framework for the encounter.
     <td></td>
   </tr>
   <tr>
-    <td colspan="4" style="text-align:center" bgcolor="#002"><b>P3. Nidhogg</b></td>
+    <td colspan="4" style="text-align:center;background-color:#002">
+      <b>P3. Nidhogg</b>
+    </td>
   </tr>
   <tr>
     <td>Final Chorus</td>
@@ -138,7 +142,9 @@ The following is a mitigation framework for the encounter.
     <td></td>
   </tr>
   <tr>
-    <td colspan="4" style="text-align:center" bgcolor="#002"><b>P4. Eyes/Saving Haurchefant</b></td>
+    <td colspan="4" style="text-align:center;background-color:#002">
+      <b>P4. Eyes/Saving Haurchefant</b>
+    </td>
   </tr>
   <tr>
     <td>Steep in Rage</td>
@@ -175,7 +181,9 @@ The following is a mitigation framework for the encounter.
     <td></td>
   </tr>
   <tr>
-    <td colspan="4" style="text-align:center" bgcolor="#002"><b>P5. Alternate Timeline Thordan</b></td>
+    <td colspan="4" style="text-align:center;background-color:#002">
+      <b>P5. Alternate Timeline Thordan</b>
+    </td>
   </tr>
   <tr>
     <td>Spiral Pierce</td>
@@ -239,7 +247,9 @@ The following is a mitigation framework for the encounter.
     Exaltation, etc.).</li>
   </tr>
   <tr>
-    <td colspan="4" style="text-align:center" bgcolor="#002"><b>P6. Double Dragons</b></td>
+    <td colspan="4" style="text-align:center;background-color:#002">
+      <b>P6. Double Dragons</b>
+    </td>
   </tr>
   <tr>
     <td>Wyrmsbreath #1</td>
@@ -323,7 +333,7 @@ The following is a mitigation framework for the encounter.
     </td>
   </tr>
   <tr>
-    <td colspan="4" style="text-align:center" bgcolor="#002"><b>P7. Dragonking Thordan</b></td>
+    <td colspan="4" style="text-align:center;background-color:#002"><b>P7. Dragonking Thordan</b></td>
   </tr>
   <tr>
     <td>Akh Morn's Edge #1</td>

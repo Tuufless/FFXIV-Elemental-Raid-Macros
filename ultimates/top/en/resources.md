@@ -54,7 +54,9 @@ The following is a mitigation framework for the encounter.
   <th>Party cooldowns</th>
   <th>Notes</th>
   <tr>
-    <td colspan="4" style="text-align:center" bgcolor="#002"><b>P1. Omega</b></td>
+    <td colspan="4" style="text-align:center;background-color:#002">
+      <b>P1. Omega</b>
+    </td>
   </tr>
   <tr>
     <td>Pantokrator (Wave Cannons)</td>
@@ -63,7 +65,9 @@ The following is a mitigation framework for the encounter.
     <td></td>
   </tr>
   <tr>
-    <td colspan="4" style="text-align:center" bgcolor="#002"><b>P2. Omega-M/F</b></td>
+    <td colspan="4" style="text-align:center;background-color:#002">
+      <b>P2. Omega-M/F</b>
+    </td>
   </tr>
   <tr>
     <td>Solar Ray</td>
@@ -117,7 +121,9 @@ The following is a mitigation framework for the encounter.
     </td>
   </tr>
   <tr>
-    <td colspan="4" style="text-align:center" bgcolor="#002"><b>P3. Final Omega</b></td>
+    <td colspan="4" style="text-align:center;background-color:#002">
+      <b>P3. Final Omega</b>
+    </td>
   </tr>
   <tr>
     <td>Hello, World</td>
@@ -166,7 +172,9 @@ The following is a mitigation framework for the encounter.
     <td></td>
   </tr>
   <tr>
-    <td colspan="4" style="text-align:center" bgcolor="#002"><b>P4. Blue Screen</b></td>
+    <td colspan="4" style="text-align:center;background-color:#002">
+      <b>P4. Blue Screen</b>
+    </td>
   </tr>
   <tr>
     <td>Wave #1 (spread)</td>
@@ -233,7 +241,9 @@ The following is a mitigation framework for the encounter.
     <td></td>
   </tr>
   <tr>
-    <td colspan="4" style="text-align:center" bgcolor="#002"><b>P5a. Run Dynamis: Delta Version</b></td>
+    <td colspan="4" style="text-align:center;background-color:#002">
+      <b>P5a. Run Dynamis: Delta Version</b>
+    </td>
   </tr>
   <tr>
     <td>Solar Ray</td>
@@ -253,7 +263,9 @@ The following is a mitigation framework for the encounter.
     </td>
   </tr>
   <tr>
-    <td colspan="4" style="text-align:center" bgcolor="#002"><b>P5b. Run Dynamis: Sigma Version</b></td>
+    <td colspan="4" style="text-align:center;background-color:#002">
+      <b>P5b. Run Dynamis: Sigma Version</b>
+    </td>
   </tr>
   <tr>
     <td>Solar Ray</td>
@@ -273,7 +285,9 @@ The following is a mitigation framework for the encounter.
     </td>
   </tr>
   <tr>
-    <td colspan="4" style="text-align:center" bgcolor="#002"><b>P5b. Run Dynamis: Omega Version</b></td>
+    <td colspan="4" style="text-align:center;background-color:#002">
+      <b>P5b. Run Dynamis: Omega Version</b>
+    </td>
   </tr>
   <tr>
     <td>Solar Ray</td>
@@ -303,7 +317,9 @@ The following is a mitigation framework for the encounter.
     </td>
   </tr>
   <tr>
-    <td colspan="4" style="text-align:center" bgcolor="#002"><b>P6. Alpha Omega</b></td>
+    <td colspan="4" style="text-align:center;background-color:#002">
+      <b>P6. Alpha Omega</b>
+    </td>
   </tr>
   <tr>
     <td>Cosmo Memory</td>
