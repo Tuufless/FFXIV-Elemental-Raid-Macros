@@ -82,17 +82,17 @@ major mechanic of this phase.
       <img src="../images/02_omega_mf/party_synergy_03d.jpg">
     </td>
     <td>
-      <p><b>M Sword, F Spear:</b></p>
-      <img src="../images/02_omega_mf/party_synergy_03c.jpg">
+      <p><b>M Shield, F Blade-legs:</b></p>
+      <img src="../images/02_omega_mf/party_synergy_03a.jpg">
     </td>
   </tr>
   <tr>
     <td>
-      <p><b>M Shield, F Blade-legs:</b></p>
-      <img src="../images/02_omega_mf/party_synergy_03a.jpg">
+      <p><b>M Sword, F Staff:</b></p>
+      <img src="../images/02_omega_mf/party_synergy_03c.jpg">
     </td>
     <td>
-      <p><b>M Shield, F Spear:</b></p>
+      <p><b>M Shield, F Staff:</b></p>
       <img src="../images/02_omega_mf/party_synergy_03b.jpg">
     </td>
   </tr>
