@@ -711,12 +711,29 @@ order to survive *Alternative End*, the final raid-wide damage that marks the
 transition to the final phase *(Dragonking Thordan will not be targetable*
 *during this)*.
 
-- The party should use any "extra" mitigations here (Passage of Arms,
-  Magicked Barrier, Fey Illumination, Collective Unconsciousness, etc.)
-- Use any abilities that boost healing potency here to enchance H2's shields
-  (Asylum, Fey Illumination, Nature's Minne)
-- Use any personal mitigation/shields here (Arcane Crest, Third Eye, Radiant
-  Aegis, etc.)
+You will need about six pieces of party mitigation to survive *Alternative End*.
+
+<table>
+  <tr>
+    <td><b>Alterative End</b></td>
+    <td>
+      <p>ST 90s, H2 90s, H2 30s, H2 120s, D3</p>
+      <p>Personal/targeted mits:</p>
+      <ul>
+        <li><b>MT</b> → D3</li>
+        <li><b>ST</b> → DRG > others</li>
+        <li><b>Everyone else</b> → Use personal mitigations</li>
+      </ul>
+      <p>Use any "extra" mitigations <em>(Collective Unconsciousness, Fey
+      Illumination, Improvisation, Magicked Barrier, Passage of Arms, etc.)</em></p>
+    </td>
+  </tr>
+</table>
+
+- Use any abilities that boost healing potency to help enchance H2's shields
+  (Asylum, Fey Illumination, Mantra, Nature's Minne)
+- Use any personal or targeted mitigation/shields here (Arcane Crest, Third
+  Eye, Radiant Aegis, Riddle of Earth, etc.)
   - Healers should use targeted mitigations on themselves (Aquaveil,
     Exaltation, Protraction). Taurochole does not stack with Kerachole, but a
     SGE can use Krasis on themselves to boost the shields they receive.
@@ -880,9 +897,9 @@ to get the maximum value out of Improvisation's shields.
     <td>
       <p>To recap, the mitigation plan calls to mitigate Alternative End with:</p>
       <ol>
-        <li>Enhanced shields</li>
-        <li>H2 120s</li>
         <li>H2 30s</li>
+        <li>H2 90s</li>
+        <li>H2 120s</li>
         <li>ST 90s</li>
         <li>D3</li>
       </ol>

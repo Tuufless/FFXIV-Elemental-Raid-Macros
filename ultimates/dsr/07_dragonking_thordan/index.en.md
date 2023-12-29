@@ -21,10 +21,6 @@ base mitigation is:
 
 <table>
   <tr>
-    <td><b>Alterative End</b></td>
-    <td><p>ST 90s, H2 strong shields, H2 30s, H2 120s, D3</p></td>
-  </tr>
-  <tr>
     <td><b>Akh Morn's Edge #1</b></td>
     <td>MT Reprisal, H1 120s, H2 30s, D1, D4</td>
   </tr>
@@ -49,11 +45,6 @@ base mitigation is:
 The above mitigation plan was made in the *absence* of jobs that provide more
 than one sort of mitigation such as PLD's Passage of Arms, AST's Collective
 Unconsciousness, DNC's Improvisation, or RDM's Magick Barrier.
-
-Alternative End needs at least six party mitigations for everyone to survive.
-
-If any extra mitigations are available, it's recommended they be slotted into
-either Gigaflare's Edge, or Akh Morn's Edge #2.
 
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
   <b>Tip:</b> H2's 30s mitigations should be used when Akh Morn's Edge begins
