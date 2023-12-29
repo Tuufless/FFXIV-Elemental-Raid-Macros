@@ -18,14 +18,65 @@ Run: Dynamis (Omega Version) can be split down into the following three blocks:
 
 ## 1. Dodging AoEs
 
+Unlike Delta and Sigma, Omega-F will stay on the arena during this part of Run
+Dynamis (Omega Version).
+
+The party will need to dodge two Omega-M/F AoE combos (like *Party Synergy*
+from P2) in combination with *Diffuse Wave Cannon* from Omega Reconfigured in
+the center.
+
+To help, observe that there will *always* be a safe spot along a **cardinal**
+direction, either near, middle, or far from the center.
+
+- Look at Omega-F. If Omega-F is blade-legs, the safe spot will *always* be
+  along a cardinal direction **near the center**.
+    - Look at Omega-M. If Omega-M is holding a sword, move **away** from Omega-M.
+    - Otherwise, Omega-M is holding a shield. Move **towards** Omega-M.
+- Otherwise, Omega-F is holding a staff, and a safe spot will *always* be
+  along a cardinal direction **towards Omega-M**.
+    - Look at Omega-M. If Omega-M is holding a sword, move **far** from the
+      center.
+    - Otherwise, Omega-M is holding a shield. Move **mid-way** from the center.
+
 <table>
   <tr>
     <td width="50%">
-      <p><b>1.</b> Unlike Delta and Sigma, Omega-F will stay on the arena
-      during this part of Omega.</p>
-      <p>Omega Reconfigured will spawn in the center, and a Omega-M/F pair will
-      spawn at opposite intercardinal positions, again with a random
-      Sword/Shield and Staff/Blade-Legs combo.</p>
+      <p><b>M Sword, F Blade-legs</b> <em>(Away from M, near)</em></p>
+      <img src="../images/05_run_dynamis/run_dynamis_omega_03d.jpg">
+    </td>
+    <td>
+      <p><b>M Shield, F Blade-legs</b> <em>(Towards M, near)</em></p>
+      <img src="../images/05_run_dynamis/run_dynamis_omega_03a.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>M Sword, F Staff</b> <em>(Towards M, far)</em></p>
+      <img src="../images/05_run_dynamis/run_dynamis_omega_03c.jpg">
+    </td>
+    <td>
+      <p><b>M Shield, F Staff</b> <em>(Towards M, middle)</em></p>
+      <img src="../images/05_run_dynamis/run_dynamis_omega_03b.jpg">
+    </td>
+  </tr>
+</table>
+
+For the first set of Omega-M/F AoEs, this process will leave two possible safe spots to choose from.
+
+When Final Omega's lights glow in the center, one of the two cardinal 
+directions will be eliminated, leaving only one cardinal to go to.
+
+The safe spot for the second set of AoEs will *always* be 90 degrees from
+the first safe spot *(determine whether you're going to move cw or ccw, and whether to go near, mid, or far)*.
+
+<table>
+  <tr>
+    <td width="50%">
+      <p><b>1.</b> Omega Reconfigured will spawn in the center.</p>
+      <p>An Omega-M/F pair will spawn at opposite intercardinal positions,
+      again with a random Sword/Shield and Staff/Blade-Legs combo.</p>
+      <p><em>(In this example, the safe spot will be near the middle, either
+      North or West.)</em></p>
     </td>
     <td><img src="../images/05_run_dynamis/run_dynamis_omega_01.jpg"></td>
   </tr>
@@ -39,9 +90,13 @@ Run: Dynamis (Omega Version) can be split down into the following three blocks:
   </tr>
   <tr>
     <td>
-      <p><b>3.</b> Omega will channel a Diffuse Wave Cannon ("lights") at two
-      opposite cardinal directions.</p>
+      <p><b>3.</b> Omega Reconfigured will channel a <em>Diffuse Wave Cannon</em>
+      ("lights") at two opposite cardinal directions, eliminating one of the
+      two safe directions identified earlier.</p>
       <p>This must be resolved together with the first Omega-M/F pair's AoEs.</p>
+      <p>Use this time to identify the next safe spot.</p>
+      <p><em>(In this example, the Diffuse Wave Cannon eliminates the West safe
+      spot, leaving only North, near the center.)</em></p>
     </td>
     <td><img src="../images/05_run_dynamis/run_dynamis_omega_03.jpg"></td>
   </tr>
@@ -50,6 +105,8 @@ Run: Dynamis (Omega Version) can be split down into the following three blocks:
       <p><b>4.</b> The Omega Reconfigured will then repeat this at the other
       two cardinal directions, which must be resolved together with the second
       Omega-M/F pair's AoEs.</p>
+      <p><em>(In this example, the party rotates 90 degrees clockwise, and goes
+      far from the center.)</em></p>
     </td>
     <td><img src="../images/05_run_dynamis/run_dynamis_omega_04.jpg"></td>
   </tr>
@@ -59,34 +116,9 @@ Run: Dynamis (Omega Version) can be split down into the following three blocks:
   <p><b>Tip:</b> Omega-F will auto-attack a total of eight times during this
   whole sequence, and tanks cannot use cooldowns to mitigate them because of the
   upcoming Solar Ray.</p>
-  <p>Consider tank-swapping halfway (around the first AoE dodge) to split the
-  auto-attack damage between the two tanks.</p>
+  Consider tank-swapping halfway (around the first AoE dodge) to split the
+  auto-attack damage between the two tanks.
 </div>
-
-Identifying the safe spots will take some practice.
-
-<table>
-  <tr>
-    <td width="50%">
-      <p><b>M Sword, F Blade-legs:</b></p>
-      <img src="../images/05_run_dynamis/run_dynamis_omega_03d.jpg">
-    </td>
-    <td>
-      <p><b>M Sword, F Spear:</b></p>
-      <img src="../images/05_run_dynamis/run_dynamis_omega_03c.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>M Shield, F Blade-legs:</b></p>
-      <img src="../images/05_run_dynamis/run_dynamis_omega_03a.jpg">
-    </td>
-    <td>
-      <p><b>M Shield, F Spear:</b></p>
-      <img src="../images/05_run_dynamis/run_dynamis_omega_03b.jpg">
-    </td>
-  </tr>
-</table>
 
 Nukemaru has compiled a collection of clips which may help:
 
