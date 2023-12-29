@@ -304,7 +304,7 @@ The following is a mitigation framework for the encounter.
   </tr>
   <tr>
     <td>Alternative End</td>
-    <td>MT short → D3, ST short → D1/D2</td>
+    <td>MT short → D3, ST short → DRG > others</td>
     <td>ST 90s, H2 30s, H2 90s, H2 120s, D3</td>
     <td>
       <ul>
@@ -312,7 +312,7 @@ The following is a mitigation framework for the encounter.
         Third Eye, Radiant Aegis, etc.)</em>
           <ul>
             <li>Healers should use targeted mitigations on themselves <em>(
-            Aquaveil, Exaltation, Protraction)</em>
+            Aquaveil, Exaltation, Protraction)</em></li>
             <li>Taurochole does not stack with Kerachole- a SGE can Krasis
             themselves instead.</li>
           </ul>
