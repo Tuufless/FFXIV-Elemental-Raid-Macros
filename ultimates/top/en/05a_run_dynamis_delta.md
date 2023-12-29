@@ -122,10 +122,10 @@ not by the tank *roles*.
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
   <p><b>Tip:</b> There is ~1:22 between Run Dynamis (Delta Version) and Run:
   Dynamis (Sigma Version).</p>
-  <p>Party mitigations that have a 90-second cooldown (tank mitigations, D3)
-  can be used immediately after the second Solar Ray hit in order to catch Run
-  Dynamis (Delta Version) <em>and</em> be back up in time for Run Dynamis
-  (Sigma Version).</p>
+  <p>Party mitigations that last 15 seconds, and have a 90-second cooldown (tank
+  mitigations, D3) can be used immediately after the second Solar Ray hit in
+  order to catch Run Dynamis (Delta Version) <em>and</em> be back up in time for
+  Run Dynamis (Sigma Version).</p>
   <p>Healer party mitigations last 20 seconds, and can be used to mitigate both
   Solar Ray hits <em>and</em> the follow-up Run Dynamis if timed correctly.</p>
 </div>
