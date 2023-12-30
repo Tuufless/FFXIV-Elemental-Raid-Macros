@@ -267,7 +267,14 @@ resolve Hello, Near World and Hello, Distant World.
         <ol>
           <li>Break the tether when the <b>tether's debuff timer reaches 15
           seconds</b>.</li>
-          <li>Position to receive Hello, Near World.</li>
+          <li>Position to receive Hello, Near World:
+            <ul>
+              <li>The player on the safe side goes to the <b>edge</b>, at the
+              intercardinal position.</li>
+              <li>The player on the unside side goes to the <b>marker</b> at
+              the intercardinal position.</li>
+            </ul>
+          </li>
         </ol>
       </li>
       <li><b>The green-tether pair away from Beetle Omega:</b>
@@ -278,17 +285,19 @@ resolve Hello, Near World and Hello, Distant World.
       </li>
       <li><b>Hello, Near World:</b>
         <ul>
-          <li>Stand three rings from the center.</li>
+          <li>Stand <b>three rings from the center</b> along the cardinal
+          between the two bosses.</li>
         </ul>
       </li>
       <li><b>Hello, Distant World:</b>
         <ul>
-          <li>Stand at the outer cardinal position.</li>
+          <li>Stand at the <b>edge</b> along the cardinal between the two
+          bosses.</li>
         </ul>
       </li>
       <li><b>The two remaining blue-tethers without either Hello, World:</b>
         <ul>
-          <li>Stand towards Final Omega, three notches away from the
+          <li>Stand towards Final Omega, but three notches <b>away</b> from the
           intercardinal mark- you will <em>not</em> be getting Dynamis stacks
           this round.</li>
         </ul>
