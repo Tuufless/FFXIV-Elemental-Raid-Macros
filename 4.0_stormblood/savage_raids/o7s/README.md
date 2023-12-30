@@ -18,3 +18,11 @@ permalink: /4.0_stormblood/savage_raids/o7s/
 ```
 {% include_relative macros/o7s.jp.txt %}
 ```
+
+## Guardian Programs
+
+Although the programs loaded on the two screens in the background may look
+random, the actual sequence is just one of four possible paths.
+
+![](images/program_sequence.jpg)
+
