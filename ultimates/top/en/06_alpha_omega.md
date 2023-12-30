@@ -919,3 +919,33 @@ not to use their potions at certain buff windows.
   </tr>
 </table>
 </details>
+
+
+<details markdown=block>
+<summary>
+  <b>[Magic Number]</b> What is the DRK suicide strat?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>The DRK suicide strat involves the DRK <b>cancelling</b> the Tank LB3s
+      at Magic Number.</p>
+      <p>This results in the DRK dying, but quickly getting revived by the
+      follow-up Healer LB3, <em>with full MP</em>, resulting in a
+      <em>slight</em> DPS gain, assuming the DRK was able to empty out their MP
+      bar before.</p>
+      <p>The DRK can do this for both Magic Numbers (and generate enough Blood
+      for Living Shadow in time for the last 2-minute window).</p>
+      <p>Note that in order for this to work, the <b>DRK must LB3 first</b>, as
+      dying will remove the Brilliant Dynamis buff that refills the LB gauge.</p>
+      <p>You can use a macro to help instead of manually cancelling the Tank LB:</p>
+      <pre>/merror off
+/statusoff "Dark Force"
+/statusoff "Gunmetal Soul"
+/statusoff "Land Waker"
+/statusoff "Last Bastion"</pre>
+    </td>
+    <td><img src="../images/06_alpha_omega/drk_living_shadow.jpg"></td>
+  </tr>
+</table>
+</details>
