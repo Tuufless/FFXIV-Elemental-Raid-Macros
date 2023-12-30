@@ -26,7 +26,7 @@ from P2) in combination with *Diffuse Wave Cannon* from Omega Reconfigured in
 the center.
 
 To help, observe that there will *always* be a safe spot along a **cardinal**
-direction, either near, middle, or far from the center.
+direction, either **near, middle, or far** away from the center.
 
 - Look at Omega-F. If Omega-F is blade-legs, the safe spot will *always* be
   along a cardinal direction **near the center**.
