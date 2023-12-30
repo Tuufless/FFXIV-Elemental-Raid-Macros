@@ -774,6 +774,9 @@ Alpha Omega will do a second Magic Number (requiring another Tank into Healer
 LB3) before casting Run: \*\*\*\*mi\* (which is a 30-second cast) as the hard
 enrage of the fight.
 
+Note that there will be one more melee LB available during the enrage cast, as
+the limit gauge is refilled from the second healer LB3.
+
 ---
 
 ## Buff windows
