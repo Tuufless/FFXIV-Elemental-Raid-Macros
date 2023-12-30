@@ -255,62 +255,71 @@ on their tethers, with each tether group having different responsibilities.
 
 ## 3. Hello, World
 
-This is the last part of the mechanic, and is where players will finally
-resolve Hello, Near World and Hello, Distant World.
+Omega-M and Final Omega will disappear, which is the cue for the last part of
+the mechanic, and where players will finally resolve Hello, Near World and
+Hello, Distant World.
 
 <table>
   <tr>
-    <td><p><b>8.</b> The "beetle" Omega lights up to cleave one side of the
+    <td colspan="2"><p><b>8.</b> The "beetle" Omega lights up to cleave one side of the
     arena. Move in to the safe side.</p>
-    <ul>
-      <li><b>The green-tether pair towards Beetle Omega:</b>
-        <ol>
-          <li>Break the tether when the <b>tether's debuff timer reaches 15
-          seconds</b>.</li>
-          <li>Position to receive Hello, Near World:
-            <ul>
-              <li>The player on the safe side goes to the <b>edge</b>, at the
-              intercardinal position.</li>
-              <li>The player on the unside side goes to the <b>marker</b> at
-              the intercardinal position.</li>
-            </ul>
-          </li>
-        </ol>
-      </li>
-      <li><b>The green-tether pair away from Beetle Omega:</b>
-        <ul>
-          <li>Position to receive Hello, Distant World <em>(the player on the
-          unside side moves up to Beetle Omega)</em>.</li>
-        </ul>
-      </li>
-      <li><b>Hello, Near World:</b>
-        <ul>
-          <li>Stand <b>three rings from the center</b> along the cardinal
-          between the two bosses.</li>
-        </ul>
-      </li>
-      <li><b>Hello, Distant World:</b>
-        <ul>
-          <li>Stand at the <b>edge</b> along the cardinal between the two
-          bosses.</li>
-        </ul>
-      </li>
-      <li><b>The two remaining blue-tethers without either Hello, World:</b>
-        <ul>
-          <li>Stand towards Final Omega, but three notches <b>away</b> from the
-          intercardinal mark- you will <em>not</em> be getting Dynamis stacks
-          this round.</li>
-        </ul>
-      </li>
-    </ul></td>
-    <td><img src="../images/05_run_dynamis/run_dynamis_delta_08.jpg"></td>
+    </td>
   </tr>
   <tr>
+    <td><b>The green-tether pair towards Beetle Omega</b></td>
     <td>
-      <p><b>9.</b> The cleave resolves, along with Hello, Near World and Hello,
-      Distant World.</p>
-      <p><b>Break the final red/green tether when the tether's debuff timer
-      reaches 2 seconds</b>.</p>
+      <ol>
+        <li>Break the tether when the <b>tether's debuff timer reaches 15
+        seconds</b>.</li>
+        <li>Position to receive Hello, Near World:
+          <ul>
+            <li>The player on the safe side goes to the <b>edge</b>, at the
+            intercardinal position <b>towards</b> Beetle Omega.</li>
+            <li>The player on the unside side goes to the <b>marker</b> at
+            the intercardinal position.</li>
+          </ul>
+        </li>
+      </ol>
+    </td>
+  </tr>
+  <tr>
+    <td><b>The green-tether pair away from Beetle Omega</b></td>
+    <td>
+      <p>Position to receive Hello, Distant World:</p>
+      <ul>
+        <li>The player on the unsafe side <b>rotates up to Beetle Omega</b>.</li>
+        <li>The player on the safe side goes to the intercardinal mark away
+        from Beetle Omega, and three more notches <b>away</b>.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Hello, Near World</b></td>
+    <td>Stand <b>three rings from the center</b> along the cardinal between
+    the two bosses.</td>
+  </tr>
+  <tr>
+    <td><b>Hello, Distant World</b></td>
+    <td>Stand at the <b>edge</b> along the cardinal between the two bosses.</td>
+  </tr>
+  <tr>
+    <td><b>The two remaining blue-tethers with no debuff</b></td>
+    <td>Go to the <b>edge</b> of the arena at the intercardinal mark away from
+    Beetle Omega, and three notches <b>towards</b> Beetle Omega- you will
+    <em>not</em> be getting Dynamis stacks this round.</td>
+  </tr>
+</table>
+
+<img src="../images/05_run_dynamis/run_dynamis_delta_08.jpg">
+
+With everyone in position, the cleave resolves together with Hello, Near World
+and Hello, Distant World.
+
+<table>
+  <tr>
+    <td>
+      <p><b>9.</b> Break the final red/green tether when the <b>tether's debuff
+      timer reaches 2 seconds</b>.</p>
     </td>
     <td><img src="../images/05_run_dynamis/run_dynamis_delta_09.jpg"></td>
   </tr>
