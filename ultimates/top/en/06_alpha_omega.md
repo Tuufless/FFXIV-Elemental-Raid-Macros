@@ -842,6 +842,7 @@ not to use their potions at certain buff windows.
   </tr>
 </table>
 </details>
+
 <details markdown=block>
 <summary>
   <b>[Cosmo Memory]</b> Why is the tank LB3 priority WAR > PLD > DRK > GNB?
@@ -866,6 +867,7 @@ not to use their potions at certain buff windows.
   </tr>
 </table>
 </details>
+
 <details markdown=block>
 <summary>
   <b>[Cosmo Memory]</b> Isn't this overmitigated?
@@ -886,6 +888,7 @@ not to use their potions at certain buff windows.
   </tr>
 </table>
 </details>
+
 <details markdown=block>
 <summary>
   <b>[Wave Cannon]</b> Does it matter which tank is in front?
@@ -946,6 +949,35 @@ not to use their potions at certain buff windows.
 /statusoff "Last Bastion"</pre>
     </td>
     <td><img src="../images/06_alpha_omega/drk_living_shadow.jpg"></td>
+  </tr>
+</table>
+</details>
+
+---
+
+## Troubleshooting
+
+<details markdown=block>
+<summary>
+  <b>[Unlimited Wave Cannon]</b> I can't identify the starting point, and which
+  direction to go!
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>The first telegraph appears near the end of the cast, when the cast
+      bar reaches the "nn" at the end of "Unlimited Wave Cannon".</p>
+      <p>If you don't see a telegraph, rotate your camera until you see one,
+      and pay attention to the empty spot adjacent.</p>
+      <p>Then, one of two things may happen:</p>
+      <ul>
+        <li>If <b>no</b> telegraph appears at the empty spot, then you are looking
+        at the starting point.</li>
+        <li>Otherwise, <b>if a telegraph appears</b>, then you are looking
+        downstream of the Exaflare sequence, and the starting point is the
+        other end of the Exaflare telegraphs.</li>
+      </ul>
+    </td>
   </tr>
 </table>
 </details>
