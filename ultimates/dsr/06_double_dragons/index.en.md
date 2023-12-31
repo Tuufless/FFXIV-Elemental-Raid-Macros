@@ -718,30 +718,11 @@ You will need about six pieces of party mitigation to survive *Alternative End*.
   <tr>
     <td><b>Alterative End</b></td>
     <td>
-      <p>ST 90s, H2 90s, H2 30s, H2 120s, D3</p>
-      <p>Personal/targeted mits:</p>
-      <ul>
-        <li><b>MT</b> → D3</li>
-        <li><b>ST</b> → DRG > others</li>
-        <li><b>Everyone else</b> → Use personal mitigations</li>
-      </ul>
-      <p>Use any "extra" mitigations <em>(Collective Unconsciousness, Fey
-      Illumination, Improvisation, Magicked Barrier, Passage of Arms, etc.)</em></p>
+      <p>MT 90s, ST 90s, H2 30s, H2 90s, D3</p>
+      <p><em>(Add H2 120s, other party mitigations as needed.)</em></p>
     </td>
   </tr>
 </table>
-
-- Use any abilities that boost healing potency to help enchance H2's shields
-  (Asylum, Fey Illumination, Mantra, Nature's Minne)
-- Use any personal or targeted mitigation/shields here (Arcane Crest, Third
-  Eye, Radiant Aegis, Riddle of Earth, etc.)
-  - Healers should use targeted mitigations on themselves (Aquaveil,
-    Exaltation, Protraction). Taurochole does not stack with Kerachole, but a
-    SGE can use Krasis on themselves to boost the shields they receive.
-  - The MT should target D3 with targeted mitigations, as D3 is the only role
-    that does not have personal mitigation/shields.
-  - The ST should target a DRG if one is in the party, as DRG is the only melee
-    that does not have personal mitigation/shields.
 
 <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
 <b>Note:</b> Each Bleed tick deals about ~14k damage. Make sure you
@@ -751,8 +732,9 @@ completely!
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
 <p><b>Tip:</b> Thordan will announce <em>"Hahahaha! By the power of mine
 enemy's eyes..."</em> just before the second round of bleeds are applied.</p>
-A DNC should start Improvisation when the dialogue box <em>disappears</em>
-to get the maximum value out of Improvisation's shields.
+A DNC should start <em>Improvisation</em> when the dialogue box
+<em>disappears</em> to get the maximum value out of <em>Improvisation</em>'s
+shields.
 </div>
 
 ---
@@ -885,44 +867,23 @@ to get the maximum value out of Improvisation's shields.
 </table>
 </details>
 
----
-
-## Troubleshooting
-
 <details markdown=block>
 <summary>
-  <b>[Alternative End]</b> Some party members are still dying with the mitigation plan!
+  <b>[Alternative End]</b> What do you mean by "Add H2 120s as needed?"
 </summary>
 <table>
   <tr>
     <td>
-      <p>To recap, the mitigation plan calls to mitigate Alternative End with:</p>
-      <ol>
-        <li>H2 30s</li>
-        <li>H2 90s</li>
-        <li>H2 120s</li>
-        <li>ST 90s</li>
-        <li>D3</li>
-      </ol>
-      <p>This isn't <em>quite</em> enough, as Alternative End deals over twice
-      a healer's max HP in damage.</p>
-      <p>However, SCH is uniquely positioned to be <em>very</em> effective
-      against Alternative End because Fey Illumination serves as an extra
-      piece of mitigation. Combined with Protraction, Recitation and Deployment
-      Tactics, the party usually has <em>more</em> than enough shielding to 
-      survive.</p>
+      <p>As a single, hard-hitting raid-wide with time to setup, SCH is
+      uniquely positioned to be <em>very</em> effective against <em>Alternative
+      End</em>.</p>
+      <p><em>Fey Illumination</em>, combined with <em>Protraction</em>,
+      <em>Recitation</em>, and <em>Deployment Tactics</em>, allows the SCH to
+      mitigate <em>Alternative End</em> without using having to add
+      <em>Expedient</em> to the mix.</p>
       <p>SGE, on the other hand, doesn't have the raw shielding power that a
-      SCH has, and this becomes problematic when the healers are WHM + SGE, and
-      there are no other extra party mitigations available (i.e: no PLD, RDM,
-      DNC).</p>
-      <p>In such cases, the tanks and healers will need to use their targeted
-      mitigations to cover the players that need help- typically the two
-      healers, D3, and any melee that doesn't have personal shields (DRG).</p>
-      <p>A SGE will also want to boost their healing output, not with just Zoe,
-      but with other tools as well, like Physis, Asylum, and Nature's Minne.</p>
-      <p>Note that a SGE's Kerachole and Taurochole will not stack. However, a
-      SGE can use Krasis on their target to provide a strong enough shield that
-      can be used instead.</p>
+      SCH has, and they will likely need to add <em>Holos</em> for the party to
+      survive <em>Alternative End</em>.</p>
     </td>
   </tr>
 </table>
