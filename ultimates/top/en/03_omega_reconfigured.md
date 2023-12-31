@@ -17,16 +17,7 @@ This is the only phase in the fight with a transitional mechanic.
 <table>
   <tr>
     <td>
-      <p><b>1.</b> Line up west-to-east:</p>
-      <ul>
-        <li><b>West:</b> H1 MT ST D1 D2 D3 D4 H2<b>:East</b></li>
-      </ul>
-    </td>
-    <td><img src="../images/03_omega_reconfigured/transition_01.jpg"></td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>2.</b> Identify and split up:</p>
+      <p><b>1.</b> Debuffs appear.</p>
       <ul>
         <li><b>High-powered Sniper Cannon Fodders:</b> Pair up with a player
         with no debuffs north.</li>
@@ -38,38 +29,38 @@ This is the only phase in the fight with a transitional mechanic.
   </tr>
   <tr>
     <td>
-      <p><b>3.</b> First pulse of the expanding Wave Repeater AoE goes off.</p>
+      <p><b>2.</b> First pulse of the expanding Wave Repeater AoE goes off.</p>
       <p>Three arms will appear around the arena, 120 degrees from one another.</p>
       <p><b>Note where these first set of arms are.</b></p>
     </td>
     <td><img src="../images/03_omega_reconfigured/transition_03.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>4.</b> Second pulse goes off.</p><p>The second set of arms will
+    <td><p><b>3.</b> Second pulse goes off.</p><p>The second set of arms will
     appear around the arena.</p></td>
     <td><img src="../images/03_omega_reconfigured/transition_04.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>5.</b> Third pulse goes off.</p></td>
+    <td><p><b>4.</b> Third pulse goes off.</p></td>
     <td><img src="../images/03_omega_reconfigured/transition_05.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>6.</b> Fourth pulse goes off.</p><p>At this point, all players
+    <td><p><b>5.</b> Fourth pulse goes off.</p><p>At this point, all players
     should be in position for the second wave of mechanics.</p></td>
     <td><img src="../images/03_omega_reconfigured/transition_06.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>7.</b> First pulse of the second wave goes off.</p></td>
+    <td><p><b>6.</b> First pulse of the second wave goes off.</p></td>
     <td><img src="../images/03_omega_reconfigured/transition_07.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>8.</b> Second pulse of the second wave goes off.</p><p>The first
+    <td><p><b>7.</b> Second pulse of the second wave goes off.</p><p>The first
     set of arms will telegraph an AoE around them.</p></td>
     <td><img src="../images/03_omega_reconfigured/transition_08.jpg"></td>
   </tr>
   <tr>
     <td>
-      <p><b>9.</b> Third pulse of the second wave goes off.</p>
+      <p><b>8.</b> Third pulse of the second wave goes off.</p>
       <p>The first set of arms explode, while the second set of arms telegraph
       their explosion.</p>
       <p><b>Move into the intersection of the expanding pulse and the first set
@@ -78,49 +69,9 @@ This is the only phase in the fight with a transitional mechanic.
     <td><img src="../images/03_omega_reconfigured/transition_09.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>10.</b> Player debuffs resolve along with the second set of arm's
+    <td><p><b>9.</b> Player debuffs resolve along with the second set of arm's
     AoE.</p></td>
     <td><img src="../images/03_omega_reconfigured/transition_10.jpg"></td>
-  </tr>
-</table>
-
----
-
-## Mitigations
-
-This phase requires some mitigation planning. Each round of Hello, World
-requires at least three mitigations for the party to survive all damage
-*without* healing in between.
-
-One such mitigation plan is:
-
-<table>
-  <tr>
-    <td colspan="2">All with H2 shields, and:</td>
-  </tr>
-  <tr>
-    <td><b>Hello, World</b></td>
-    <td><p>MT Reprisal, H2 30s, D1, D4</p></td>
-  </tr>
-  <tr>
-    <td><b>Towers #1</b></td>
-    <td>MT 90s, ST Reprisal, D2</td>
-  </tr>
-  <tr>
-    <td><b>Towers #2</b></td>
-    <td><p>H1 120s, H2 30s, H2 120s</p></td>
-  </tr>
-  <tr>
-    <td><b>Towers #3</b></td>
-    <td><p>MT Reprisal, ST 90s, D3</p></td>
-  </tr>
-  <tr>
-    <td><b>Towers #4</b></td>
-    <td><p>ST Reprisal, H2 30s</p></td>
-  </tr>
-  <tr>
-    <td><b>Critical Error</b></td>
-    <td>MT 90s, D1, D4</td>
   </tr>
 </table>
 
@@ -489,13 +440,11 @@ onwards.
   through the ST's mitigations.</p>
 </div>
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
-<p>
-  <b>Tip:</b> The party will be taking raid-wide damage from Critical Overflow,
-  Critical Synchronization, and the two tethers. Three mitigations (including
-  shields) are needed for non-tanks to survive all the damage without any
-  additional healing.</p>
-  <p>Boss debuffs (Reprisal, Dismantle, Feint, Addle) are particularly handy
-  because having all players in range can be tricky.</p>
+  <p><b>Tip:</b> The party will be taking raid-wide damage from <em>Critical
+  Overflow</em>, <em>Critical Synchronization</em>, and the two tethers when
+  they resolve.</p>
+  <p><b>Three pieces of mitigation</b> (including shields) are needed for
+  non-tanks to survive all the damage without any additional healing.</p>
 </div>
 
 <table>
