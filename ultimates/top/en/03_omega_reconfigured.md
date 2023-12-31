@@ -850,3 +850,26 @@ PF currently resolves this using [Astoh's strat](https://twitter.com/Astoh_Shall
   </tr>
 </table>
 </details>
+
+<details markdown=block>
+<summary>
+  <b>[Oversampled Wave Cannon]</b> A <em>Critical Overflow</em> AoE went off
+  during monitors! What happened?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p><em>Critical Error</em> has an additional effect besides just
+      raid-wide damage- it gives <em>all</em> party members a
+      <em>Critical Overflow</em> debuff.</p>
+      <p>However, in normal cases, all party members would have the
+      <em>Overflow Debugger</em> buff on them from resolving <em>Critical
+      Error</em> previously. This buff is <em>lost</em> if the player dies.</p>
+      <p>Thus, if a player dies and is raised, <em>Critical Error</em> will
+      give them a fresh copy of <em>Critical Overflow</em>, which just so
+      happens to resolve in 21 seconds, which is also when <em>Oversampled Wave
+      Cannon</em> resolves.</p>
+    </td>
+  </tr>
+</table>
+</details>
