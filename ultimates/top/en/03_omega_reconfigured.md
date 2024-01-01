@@ -735,23 +735,36 @@ PF currently resolves this using [Astoh's strat](https://twitter.com/Astoh_Shall
     <td width="50%">
       <p><b>1.</b> Line up, north-to-south:</p>
       <ul>
-        <li><b>North:</b> H1 H2 MT ST D1 D2 D3 D4<b>:South</b></li>
+        <li><b>North:</b> H1 H2 MT ST D1 D2 D3 D4 <b>:South</b></li>
       </ul>
     </td>
-    <td><img src="../images/03_omega_reconfigured/monitors_pt_left_01.jpg"></td>
+    <td><img src="../images/03_omega_reconfigured/monitors_01.jpg"></td>
   </tr>
   <tr>
-    <td>
-      <p><b>2.</b> Omega will ready Oversampled Wave Cannon (monitors), and
-      debuff three random players with their own set of monitors.</p>
+    <td colspan="2">
+      <p><b>2.</b> Omega will ready Oversampled Wave Cannon (monitors), facing directly east or west.</p>
+      <p>Three random players will also get their own set of monitors.</p>
       <p>Resolve them as follows, with all three monitor players on the other
       side of Omega's monitors.</p>
-      <p>Note that the non-monitor player marked 2 can be near the center of
-      the arena (but on the monitor side) to give 3 more space to work with.</p>
-      <p><em>In this example, Omega's monitors are pointing east, but they may
-      point west instead.</em></p>
+      <ul>
+        <li>Each monitor player should be able to see the two players they will
+        hit.</li>
+      </ul>
+      <p>A common cause of error is accidentally clipping the non-monitor 3
+      player. To help prevent this:</p>
+      <ul>
+        <li>The monitor 2 and 3 players are angled slightly (instead of being
+        horizontal).</li>
+        <li>The non-monitor player marked 2 should be slightly off the center.</li>
+        <li>The closer the non-monitor player marked 3 can be to the center,
+        the lesser the chance they get accidentally clipped.</li>
+      </ul>
     </td>
-    <td><img src="../images/03_omega_reconfigured/monitors_pt_left_02.jpg"></td>
+  </tr>
+  <tr>
+    <td><img src="../images/03_omega_reconfigured/monitors_02a.jpg">
+    </td>
+    <td><img src="../images/03_omega_reconfigured/monitors_02b.jpg"></td>
   </tr>
 </table>
 
