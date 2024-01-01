@@ -980,6 +980,9 @@ not to use their potions at certain buff windows.
         downstream of the Exaflare sequence, and the starting point is the
         other end of the Exaflare telegraphs.</li>
       </ul>
+      <p>Alternatively, you can wait to <em>after the boss's second
+      auto-attack</em> to briefly go out towards the edge of the arena to get
+      better view of the whole arena before joining the party in the middle.</p>
     </td>
   </tr>
 </table>
