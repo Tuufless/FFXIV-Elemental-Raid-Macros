@@ -378,42 +378,40 @@ The easiest way to resolve this is to preposition in pairs at each tower:
 Just like before, Nidhogg clones will appear where the towers were when
 resolved.
 
-- Three of these clones will cast Geirskogul on their closest targets
-  (baited by healers and ranged DPS)
-- The last clone will attach a Soul tether to a random (non-tank) player.
-- Nidhogg also attaches a Soul tether to a random (non-tank) player.
-
 <table>
   <tr>
     <td width="50%">
-      <p><b>1.</b> Just like before, Nidhogg clones will appear where the
-      towers were when resolved.</p>
+      <p><b>1.</b> When the clones appear:</p>
       <ul>
-        <li><b>Three</b> clones will target the closest player with Geirskogul
-        (baited by the healers and ranged DPS).</li>
-        <li>The last clone will attach a Soul tether to a random (non-tank)
-        player.</li>
-        <li>Nidhogg also attached a Soul tether to a random (non-tank) player.</li>
+        <li>One clone will tether to a random (non-tank) player.</li>
+        <li>The other three clones will target the closest player with 
+        <em>Geirskogul</em> (baited by the healers and ranged DPS).</li>
       </ul>
+      <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
+        <b>Note:</b> Having a tether does not necessarily mean you are not baiting <em>Geirskogul</em>, as the tether could have come from a different clone.
+      </div>
     </td>
     <td><img src="images/soul_tethers_01.jpg"></td>
   </tr>
   <tr>
     <td>
-      <p><b>2.</b> Tanks take the Soul tethers, stack under Nidhogg and use
-      their invulnerabilities.</p>
+      <p><b>2.</b> Tanks take the two tethers, stack under Nidhogg,
+      and use their invulnerabilities.</p>
       <ul>
-        <li><b>MT:</b> Take Nidhogg's Soul tether.</li>
-        <li><b>ST:</b> Take the clone's Soul tether.</li>
+        <li><b>MT:</b> Take the tether <b>from Nidhogg</b>.</li>
+        <li><b>ST:</b> Take the tether <b>from the clone</b>.</li>
       </ul>
-      <p>Everyone dodges the Geirskoguls.</p>
+      <p>Everyone dodges the <em>Geirskoguls</em>.</p>
+      <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
+        <b>Note:</b> If you are tethered to <b>your own clone</b>, it will be difficult for the ST to find and take your tether. Since you are not baiting a Gierskogul, move to the side to stretch your tether to make it easier for the ST.
+      </div>
     </td>
     <td><img src="images/soul_tethers_02.jpg"></td>
   </tr>
 </table>
 
 After the Soul tethers resolve, Nidhogg will then auto-attack the MT
-**five times** before turning for one final Drachenlance (which will **always**
-point South).
+**five times** before turning for one final *Drachenlance* (which will
+**always** point South).
 
-Nidhogg then starts casting Revenge of the Horde (enrage).
+Nidhogg then starts casting *Revenge of the Horde* (enrage).
