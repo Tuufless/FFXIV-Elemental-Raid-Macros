@@ -355,6 +355,24 @@ are:
 </table>
 </details>
 
+<details markdown=block>
+<summary>
+  <b>[Mitigation]</b> Is there a reason D2 is paired with D4? What happens with
+  double caster parties? Wouldn't that overlap Addles?</p>
+</summary>
+<table>
+  <tr>
+    <td><p>Pairing D1 with D4 is something I considered, but decided against
+    as "D2 Feint first" breaks the usual pattern of D1 > D2.</p>
+    <p>That being said, the important part of the mitigation plan is
+    establishing the baseline for where D4 uses their Addle. That way, the
+    second caster knows where not to Addle (regardless of whether they're D2 or
+    D1).</p>
+    <p>The same reasoning applies to double-ranged parties.</p>
+    </td>
+  </tr>
+</table>
+</details>
 
 ---
 
