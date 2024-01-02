@@ -88,13 +88,13 @@
 【Cauterize】(2x invuln) MT → West, ST → East
 ―《Dragonking Thordan》―――――――――――
 【Mitigations】
-　All with H2 30s, shields and:
-　　Alt. End：ST 90s, H2 120s, D3
-　　AM1：MT Rep, H1 120s, D1, D4
-　　Giga1： MT 90s, ST Rep, D2
-　　AM2：MT Rep, ST 90s, H1 180s, D3
-　　Giga2：ST Rep, H2 120s, D1, D4
-　　AM3：MT Rep, MT90s, H1 120s, D2
+　All with H2 30s and:
+　　Alt. End：MT 90s, ST 90s, H2 90, D3
+　　AM1：MT Rep, H1 120s, D1
+　　Giga1： ST Rep, D2, D4
+　　AM2：MT Rep, H1 180s, D3
+　　Giga2：ST Rep, D1
+　　AM3：MT Rep, H1 120s, D2, D4
 【Trinity】After Exaflare → D1, D2
 　　　　　 After Akh Morn → D3, D4
 　　　　　 After Gigaflare → H1, H2
