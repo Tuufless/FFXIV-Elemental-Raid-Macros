@@ -133,16 +133,18 @@ Nukemaru has compiled a collection of clips which may help:
     <td width="50%">
       <p><b>5.</b> Omega will then present a single monitor set, to be resolved
       together with the first set of <em>Hello, World</em> debuffs.</p>
-      <p>Omega's monitors will be taken by two players with two Dynamis stacks.
+      <p>Omega's monitors will be taken by two players with <b>two Dynamis
+      stacks</b>.
       However:</p>
       <ul>
-        <li>Player(s) with with two Dynamis stacks and Second in Line
+        <li>Player(s) with two Dynamis stacks and <em>Second in Line</em>
         <b>must</b> take Omega's monitors.</li>
-        <li>Player(s) with with two Dynamis stacks and First in Line,
-        <b>cannot</b> take Omega's monitors <em>(because they'll resolve their
-        Hello, World instead)</em>.</li>
+        <li>Players(s) with <em>First in Line</em> <b>cannot</b> take Omega's
+        monitors <em>(because they'll resolve their Hello, World
+        instead)</em>.</li>
       </ul>
-      <p>The other six players will resolve the Hello, World debuffs.</p>
+      <p>The remaining six players will resolve the <em>Hello, World</em>
+      debuffs.</p>
       <p><em>In this example, H1, D2, D3, and D4 each have two stacks of
       Dynamis.</em></p>
       <ul>
@@ -161,7 +163,8 @@ Nukemaru has compiled a collection of clips which may help:
   </tr>
   <tr>
     <td>
-      <p><b>6.</b> <em>Hello, World</em> debuffs resolve.</p>
+      <p><b>6.</b> <em>Hello, World</em> debuffs resolve together with
+      <em>Oversampled Wave Cannon</em>.</p>
       <p>Done correctly, there should be:</p>
       <ul>
         <li><p>Two players with three Dynamis stacks.</p>
