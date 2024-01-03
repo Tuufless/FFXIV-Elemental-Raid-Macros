@@ -72,7 +72,7 @@ the first safe spot *(determine whether you're going to move cw or ccw, and whet
 <table>
   <tr>
     <td width="50%">
-      <p><b>1.</b> Omega Reconfigured will spawn in the center.</p>
+      <p><b>1.</b> Final Omega will spawn in the center.</p>
       <p>An Omega-M/F pair will spawn at opposite intercardinal positions,
       again with a random Sword/Shield and Staff/Blade-Legs combo.</p>
       <p><em>(In this example, the safe spot will be near the middle, either
@@ -132,7 +132,7 @@ Nukemaru has compiled a collection of clips which may help:
   <tr>
     <td width="50%">
       <p><b>5.</b> Omega will then present a single monitor set, to be resolved
-      together with the first set of Hello, World debuffs.</p>
+      together with the first set of <em>Hello, World</em> debuffs.</p>
       <p>Omega's monitors will be taken by two players with two Dynamis stacks.
       However:</p>
       <ul>
@@ -161,13 +161,13 @@ Nukemaru has compiled a collection of clips which may help:
   </tr>
   <tr>
     <td>
-      <p><b>6.</b> Hello, World debuffs resolve.</p>
+      <p><b>6.</b> <em>Hello, World</em> debuffs resolve.</p>
       <p>Done correctly, there should be:</p>
       <ul>
         <li><p>Two players with three Dynamis stacks.</p>
           <ul>
-            <li>These players should <em>not</em> have the second set of Hello,
-            World debuffs.</li>
+            <li>These players should <em>not</em> have the second set of 
+            <em>Hello, World</em> debuffs.</li>
           </ul>
         </li>
         <li>The other six players should all have two Dynamis stacks.</li>
@@ -190,10 +190,10 @@ Nukemaru has compiled a collection of clips which may help:
         <li><b>Players with 3 stacks:</b> Take the tethers and stand beside
         Omega.</li>
         <li>
-          <p><b>Everybody else:</b> Resolve Hello, World debuffs.</p>
-          <p>Again, the player with Hello, Near World can move away from the
-          player with Hello, Distant World to ensure Near World jumps to the
-          correct players.</p>
+          <p><b>Everybody else:</b> Resolve <em>Hello, World</em> debuffs.</p>
+          <p>Again, the player with <em>Hello, Near World</em> can move away
+          from the player with <em>Hello, Distant World</em> to ensure <em>Near
+          World</em> jumps to the correct players.</p>
         </li>
       </ul>
     </td>
@@ -201,15 +201,24 @@ Nukemaru has compiled a collection of clips which may help:
   </tr>
   <tr>
     <td>
-      <p><b>8.</b> Hello, World debuffs resolve.</p>
-      <p>All players should now have three Dynamis stacks each.</p>
+      <p><b>8.</b> The two tethers resolve.</p>
+      <p>The players that had the tethers and the <em>Hello, Distant World</em>
+      player can adjust a little bit after the tethers resolve just to be sure
+      the <em>Hello, Distant World</em> debuffs resolve correctly.</p>
     </td>
     <td><img src="../images/05_run_dynamis/run_dynamis_omega_08.jpg"></td>
   </tr>
+  <tr>
+    <td>
+      <p><b>9.</b> Shortly after, the <em>Hello, World</em> debuffs resolve.</p>
+      <p>All players should now have three Dynamis stacks each.</p>
+    </td>
+    <td><img src="../images/05_run_dynamis/run_dynamis_omega_09.jpg"></td>
+  </tr>
 </table>
 
-Omega-F then does one more set of Solar Ray tankbusters before casting Blind
-Faith.
+Omega-F then does one more set of *Solar Ray* tankbusters before casting
+*Blind Faith*.
 
 Like Blue Screen, Omega-F **must** be brought to under 20% HP by the end of
-Blind Faith's cast to proceed onto the final phase of the fight.
+*Blind Faith*'s cast to proceed onto the final phase of the fight.
