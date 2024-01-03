@@ -116,8 +116,8 @@ the first safe spot *(determine whether you're going to move cw or ccw, and whet
   <p><b>Tip:</b> Omega-F will auto-attack a total of eight times during this
   whole sequence, and tanks cannot use cooldowns to mitigate them because of the
   upcoming Solar Ray.</p>
-  Consider tank-swapping halfway (around the first AoE dodge) to split the
-  auto-attack damage between the two tanks.
+  <p>Consider tank-swapping halfway (around the first AoE dodge) to split the
+  auto-attack damage between the two tanks.</p>
 </div>
 
 Nukemaru has compiled a collection of clips which may help:
@@ -142,11 +142,7 @@ Nukemaru has compiled a collection of clips which may help:
         <b>cannot</b> take Omega's monitors <em>(because they'll resolve their
         Hello, World instead)</em>.</li>
       </ul>
-      <p>Aside from the two players taking monitors and the two players with
-      First in Line, we <em>roughly</em> order the remaining four players:</p>
-      <p style="text-align:center">
-        <b>North:</b> H1 MT D1 D3 D4 D2 ST H2 <b>:South</b>
-      </p>
+      <p>The other six players will resolve the Hello, World debuffs.</p>
       <p><em>In this example, H1, D2, D3, and D4 each have two stacks of
       Dynamis.</em></p>
       <ul>
@@ -194,14 +190,7 @@ Nukemaru has compiled a collection of clips which may help:
         <li><b>Players with 3 stacks:</b> Take the tethers and stand beside
         Omega.</li>
         <li>
-          <p><b>Everybody else:</b> Form up opposite Omega to resolve Hello,
-          Worlds.</p>
-          <p>Similarly here, aside from the two players taking tethers and the
-          two players with Second in Line, we <em>roughly</em> order the
-          remaining four players:</p>
-          <p style="text-align:center">
-            <b>Left:</b> H1 MT D1 D3 D4 D2 ST H2 <b>:Right</b>
-          </p>
+          <p><b>Everybody else:</b> Resolve Hello, World debuffs.</p>
           <p>Again, the player with Hello, Near World can move away from the
           player with Hello, Distant World to ensure Near World jumps to the
           correct players.</p>
@@ -224,33 +213,3 @@ Faith.
 
 Like Blue Screen, Omega-F **must** be brought to under 20% HP by the end of
 Blind Faith's cast to proceed onto the final phase of the fight.
-
----
-
-## Frequently Asked Questions
-
-<details markdown=block>
-<summary>
-  <b>[Hello, World (Omega)]</b> What's the reasoning behind the HTDTH order?
-</summary>
-<table>
-  <tr>
-    <td>
-      <p>The goal is to give all players a rough starting location to work with.</p>
-      <p>In particular, while the two center positions taking Hello, Near World
-      are fairly easy to adjust for, the two extreme positions for Hello,
-      Distant World are harder.</p>
-      <p>We give the healers priority on the two extremes because they are the
-      only role that has to do something extra (top up the party), and giving
-      them the highest priority at the extremes leaves them with one less thing
-      to think about.</p>
-      <p>The tanks are next because our Arm Laser priority in Sigma mean that
-      it is quite likely that tanks will not be taking Omega's tethers (and
-      will be taking Hello, World here instead).</p>
-      <p>This then leaves all the DPS to start in the middle. DPS also have
-      more movement tools available to adjust to the extreme positions if
-      needed.</p>
-    </td>
-  </tr>
-</table>
-</details>
