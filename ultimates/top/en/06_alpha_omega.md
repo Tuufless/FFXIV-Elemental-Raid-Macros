@@ -962,6 +962,43 @@ not to use their potions at certain buff windows.
 
 <details markdown=block>
 <summary>
+  <b>[Limit Break]</b> We only have LB2 at the end of Cosmo Dive 2- what happened?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>If you have a MCH in your party, check where they are using <em>Dismantle</em>.</p>
+      <p>The reason behind this is due to how LB is generated.- LB is generated
+      whenever someone survives damage that is equal to or greater than their
+      current HP due to mitigation or shields.</p>
+      <p>However, there is some fine print- the order of operations are:</p>
+      <ol>
+        <li>Apply debuffs <em>(Reprisal, Addle, Dismantle, Feint)</em></li>
+        <li><b>Generate LB if damage is lethal</b></li>
+        <li>Apply mitigations <em>(Sacred Soil, Third Eye, etc.)</em></li>
+        <li>Absorb damage from shields</li>
+      </ol>
+      <p>The problem is that if enough debuffs are on the boss at Step 1, the
+      damage at Step 2 is <em>no longer lethal</em>, and thus, <em>LB is not
+      generated.</em></p>
+      <p>Take note:</p>
+      <ul>
+        <li>This specifically affects a MCH's <em>Dismantle</em> because
+        it is the only "extra" boss <b>debuff</b>.</li>
+        <li>Other "extra mitigations" like <em>Passage of Arms</em>, <em>Magick
+        Barrier</em>, <em>Collective Unconsciousness</em>, etc. <b>do not</b>
+        affect LB generation, because they are applied at Step 3 instead.</li>
+        <li>Similarly, additional shields (<em>Catalyze</em>, <em>Neutral
+        Sect</em>, <em>Zoe</em>) also <b>do not</b> affect LB generation,
+        because they are applied at Step 4.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
   <b>[Unlimited Wave Cannon]</b> I can't identify the starting point, and which
   direction to go!
 </summary>
