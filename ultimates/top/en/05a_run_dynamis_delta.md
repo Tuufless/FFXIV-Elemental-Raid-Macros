@@ -373,10 +373,10 @@ and Hello, Distant World.
       </ul>
       <p>This, however, has the following problems:</p>
       <ul>
-        <li>Cosmo Dive hits for around 270k base damage. In comparison, Wave
-        Cannon hits much harder, around 353k base damage. As a result,
-        additional resources will need to be dedicated to the DRK taking Wave
-        Cannon with Rampart.</li>
+        <li>Cosmo Dive has a high roll of about 280k base damage. In comparison,
+        Wave Cannon hits much harder, with a high roll of 370k base damage
+        <em>(that is not a typo!)</em>. As a result, additional resources will
+        need to be dedicated to the DRK taking Wave Cannon with Rampart.</li>
         <li>Rampart will not be naturally off cooldown between Cosmo Dive #1 and
         Wave Cannon #2. The DRK will need to time the first Rampart so that it
         catches the Cosmo Dive at the end just so Rampart will be back up in time
@@ -392,8 +392,8 @@ and Hello, Distant World.
       hectic:</p>
       <ul>
         <li>[~0:00] Cosmo Dive #1 → Rampart</li>
-        <li>[~0:46] Wave Cannon #1 → MT invuln, ST 2m</li>
-        <li>[~1:20] Wave Cannon #2 → MT 2m, ST invuln</li>
+        <li>[~0:46] Wave Cannon #1 → ST invuln, MT 30%</li>
+        <li>[~1:20] Wave Cannon #2 → MT invuln, ST 30%</li>
         <li>[~1:54] Cosmo Dive #2 → Rampart</li>
       </ul>
       <p>This doesn't apply if your party has a WAR, as WAR is the <em>only</em>
