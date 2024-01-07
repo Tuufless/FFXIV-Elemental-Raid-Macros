@@ -975,8 +975,9 @@ not to use their potions at certain buff windows.
       <ol>
         <li>Apply debuffs <em>(Reprisal, Addle, Dismantle, Feint)</em></li>
         <li><b>Generate LB if damage is lethal</b></li>
-        <li>Apply mitigations <em>(Sacred Soil, Third Eye, etc.)</em></li>
-        <li>Absorb damage from shields</li>
+        <li>Apply mitigations <em>(Aquaveil, Kerachole, Sacred Soil, Third Eye,
+        etc.)</em></li>
+        <li>Absorb damage from shields <em>(Divine Veil, Shade Shift, Succor)</em></li>
       </ol>
       <p>The problem is that if enough debuffs are on the boss at Step 1, the
       damage at Step 2 is <em>no longer lethal</em>, and thus, <em>LB is not
@@ -984,7 +985,8 @@ not to use their potions at certain buff windows.
       <p>Take note:</p>
       <ul>
         <li>This specifically affects a MCH's <em>Dismantle</em> because
-        it is the only "extra" boss <b>debuff</b>.</li>
+        it is the only boss <b>debuff</b> that's not part of the standard suite
+        <em>(Addle, Feint, Reprisal)</em>.</li>
         <li>Other "extra mitigations" like <em>Passage of Arms</em>, <em>Magick
         Barrier</em>, <em>Collective Unconsciousness</em>, etc. <b>do not</b>
         affect LB generation, because they are applied at Step 3 instead.</li>
@@ -992,6 +994,13 @@ not to use their potions at certain buff windows.
         Sect</em>, <em>Zoe</em>) also <b>do not</b> affect LB generation,
         because they are applied at Step 4.</li>
       </ul>
+      <p>The initial eight beams for Wave Cannon are particularly susceptible
+      to being overmitigated this way, as their base damage isn't much more
+      than a player's max HP- layering <em>Dismantle</em> on top of
+      <em>Reprisal</em> will likely push their damage below a player's HP,
+      thus denying LB generation.</p>
+      <p>If you want to <em>Dismantle</em>, do it for the final Wave Cannon
+      stack <em>only</em>.</p>
     </td>
   </tr>
 </table>
