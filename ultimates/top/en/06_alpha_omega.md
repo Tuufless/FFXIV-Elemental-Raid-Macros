@@ -777,6 +777,13 @@ enrage of the fight.
 Note that there will be one more melee LB available during the enrage cast, as
 the limit gauge is refilled from the second healer LB3.
 
+<table>
+  <tr>
+    <td><b>Limit Break priority</b></td>
+    <td>SAM > DRG > MNK > RPR > NIN</td>
+  </tr>
+</table>
+
 ---
 
 ## Buff windows
@@ -952,6 +959,40 @@ not to use their potions at certain buff windows.
 /statusoff "Last Bastion"</pre>
     </td>
     <td><img src="../images/06_alpha_omega/drk_living_shadow.jpg"></td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
+  <b>[Limit Break]</b> What determines who should do the final melee LB3 during
+  the enrage cast?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>The order for LB here is slightly different from P4, because this LB
+      eats into the buff window. Being the Dance Partner obviously messes with
+      this, but as a general guideline:</p>
+      <p style="text-align:center"><b>SAM > DRG > MNK > RPR > NIN</b></p>
+      <ul>
+        <li>SAM doesn't lose an <em>Iaijutsu</em> if they enter enrage with
+        <em>Yukikaze</em>. However, if the SAM enters with all three
+        <em>Sen</em>, they lose a <em>Midare Setsugekka</em> (and fall below
+        MNK and DRG in the priority).</li>
+        <li>DRG can still get all of their oGCDs if they LB, although they lose
+        out on <em>Dragon Sight</em> and <em>Lance Charge</em> duration.</li>
+        <li>MNK has a long burst window due to <em>Perfect Balance</em> and the
+        formless GCD after each Blitz. They can shorten this by skipping
+        the formless GCDs, although it's not ideal to do so.</li>
+        <li>RPR can shorten its own burst to fit everything in if they have
+        surplus <em>Enshroud</em> gauge, but they still have a 20s buff and a
+        long burst window.</li>
+        <li>NIN has the strongest burst of all the DPS, which is a long, full
+        burst window that needs to fit inside both <em>Mug</em> and <em>Trick
+        Attack</em>. A NIN <em>really</em> shouldn't LB last.</li>
+      </ul>
+    </td>
   </tr>
 </table>
 </details>

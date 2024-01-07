@@ -14,6 +14,15 @@ its HP to 100% and begin the phase.
 This phase is a short, 55-second race to bring Omega's HP below 20% before
 Omega's enrage (Blue Screen) goes off.
 
+This is where groups will typically open with a melee LB3.
+
+<table>
+  <tr>
+    <td><b>Limit Break priority</b></td>
+    <td>NIN > DRG > MNK > RPR > SAM</td>
+  </tr>
+</table>
+
 In the meantime, the party will need to deal with simple stack/spread mechanics
 while dodging the expanding donut AoEs from the earlier transition phase.
 
@@ -149,3 +158,36 @@ AoE from the center.
     <td><img src="../images/04_blue_screen/blue_screen_3_5.jpg"></td>
   </tr>
 </table>
+
+---
+
+## Frequently Asked Questions
+
+<details markdown=block>
+<summary>
+  <b>[Limit Break]</b> What determines who should melee LB3 here?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>The order is determined by who loses the least from doing so. This is
+      obviously affected by Dance Partner, but as a general guideline, the
+      order should be:</p>
+      <p style="text-align:center"><b>NIN > DRG > MNK > RPR > SAM</b></p>
+      <ul>
+        <li>NIN LBs here without any real loss- maybe a <em>Bhavacakra</em> at
+        most.</li>
+        <li>DRG loses a <em>Wyrmwind Thrust</em>, which can result in a lost or
+        delayed <em>High Jump</em> due to phase push times.</li>
+        <li>MNK loses two Opo-opo GCDs, resulting in a lost critical
+        <em>Bootshine</em>, which can also lead to a lost <em>Forbidden
+        Chakra</em>.</li>
+        <li>RPR has very strong out-of-burst potency, but is not at risk of
+        losing an <em>Enshroud</em> outside of a major misplay.</li>
+        <li>SAM loses a <em>Midare Setsugekka</em> and a <em>Shoha</em>, which
+        is the largest potency loss.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+</details>
