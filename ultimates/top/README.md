@@ -33,7 +33,7 @@ Looking towards the future:
 - Relic weapons (when they arrive) will have their substats capped at **287**.
 
 ![](images/top_cheatsheet.jpg)
-*(Shortened link: [https://cutt.ly/EleDC_TOP_summary](images/top_cheatsheet.jpg))*
+*(Full-size image: [English](images/top_cheatsheet.jpg), [日本語](images/top_cheatsheet_jp.jpg))*
 
 ---
 
