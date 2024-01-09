@@ -669,17 +669,13 @@ final major mechanic. The third melee LB3 doesn't happen until the enrage cast.
 <summary>
   <b>[Click to Expand] Melee LB3 order</b>
 </summary>
+<p>There isn't a strict priority to follow- the two melee will typically
+confirm the LB3 order either at the start of the encounter, or during the
+cutscene before P6.</p>
+<p>As a general rule, the DPS LB order goes something like this:</p>
+<p><em>(Who does the final LB3 during the enrage cast will obviously be
+different if either melee is partnered with a DNC.)</em></p>
 <table>
-  <tr>
-    <td colspan="6">
-      <p>There isn't a strict priority to follow- the two melee will typically
-      confirm the LB3 order either at the start of the encounter, or during the
-      cutscene before P6.</p>
-      <p>As a general rule, the DPS LB order goes something like this:</p>
-      <p><em>(Who does the final LB3 during the enrage cast will obviously be
-      different if either melee is partnered with a DNC.)</em></p>
-    </td>
-  </tr>
   <tr>
     <td style="text-align:center" width="10%"></td>
     <td style="text-align:center"><b>DRG</b></td>
