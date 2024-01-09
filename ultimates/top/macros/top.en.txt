@@ -36,14 +36,6 @@
 　 　　　①　　②　　White + nothing：①②
 　　 　❶　  ★  　❹　Purple：❶❷❸❹
  　　　　  ❷　❸
-　■ Mitigations
-　　※ All with shields and：
-　　Hello, World：MT Reprisal, H2 30s, D1, D4
-　　Towers 1：MT 90s, ST Reprisal, D2
-　　Towers 2：H1 120s, H2 120s
-　　Towers 3：MT Reprisal, ST 90s, D3
-　　Towers 4：ST Reprisal, D1, D4
-　　Critical Error：MT 90s, H2 30s, D2
 　■ Oversampled Wave Cannon (Astoh)
 　　①❶：H1 H2 MT ST D1 D2 D3 D4：❸⑤
 　　　　　　①A
@@ -78,11 +70,11 @@ Rocket Punch：Inner tethers adjust
 　　　　　　　　　　　〇　　　Blue (w. no debuff)
 　　　　　　　　Distant World
 ―《P5 Run: Dynamis (Sigma)》―――――――――
- Final Omega  ｜　②　　❶L　　①
+ Final Omega  ｜　①　　❶L　　②
 　　〇　〇　　 ｜no mark　　no mark
 　　×　×　　 ｜　❷L　　　　　❷R
 　　△　△　　 ｜
-　　□　□　　 ｜　①　　❶R　　②
+　　□　□　　 ｜　②　　❶R　　①
 Beetle Omega｜❶❷：2-marker pairs
 　　　　　　　 ｜①②：1-marker pairs
 【Knockback Towers (Waymark-based)】
@@ -116,6 +108,6 @@ Beetle Omega｜❶❷：2-marker pairs
 　Cosmo Meteor：MT Rep, ST 90s, H1 120s, D3
 　■ Spread
 　　MT D3 D4
-　　H1　　H2　※ Wave Cannon 2：Stack South
+　　H1　　H2　※ Wave Cannon：Stack East
 　　D1 ST D2
 　■ Exaflares：Move to 1.5 markers away
