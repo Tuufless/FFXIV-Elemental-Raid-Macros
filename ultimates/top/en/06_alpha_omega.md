@@ -681,7 +681,7 @@ final major mechanic. The third melee LB3 doesn't happen until the enrage cast.
     </td>
   </tr>
   <tr>
-    <td style="text-align:center"></td>
+    <td style="text-align:center" width="10%"></td>
     <td style="text-align:center"><b>DRG</b></td>
     <td style="text-align:center"><b>MNK</b></td>
     <td style="text-align:center"><b>NIN</b></td>
