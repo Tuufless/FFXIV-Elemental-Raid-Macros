@@ -316,7 +316,7 @@ are:
 <details markdown=block>
 <summary>
   <b>[Mitigation]</b> Why doesn't the mit plan contain <em>all</em> the basic
-  party mitigations for the phase? Why are MT90s, ST90s and H2 120s missing?</p>
+  party mitigations for the phase? Why are MT90s, ST90s and H2 120s missing?
 </summary>
 <table>
   <tr>
@@ -358,7 +358,7 @@ are:
 <details markdown=block>
 <summary>
   <b>[Mitigation]</b> Is there a reason D2 is paired with D4? What happens with
-  double caster parties? Wouldn't that overlap Addles?</p>
+  double caster parties? Wouldn't that overlap Addles?
 </summary>
 <table>
   <tr>
@@ -380,7 +380,7 @@ are:
 
 <details markdown=block>
 <summary>
-  <b>[Akh Morn's Edge]</b> How did my WAR die?</p>
+  <b>[Akh Morn's Edge]</b> How did my WAR die?
 </summary>
 <table>
   <tr>
