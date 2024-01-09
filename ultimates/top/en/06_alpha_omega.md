@@ -677,7 +677,7 @@ cutscene before P6.</p>
 different if either melee is partnered with a DNC.)</em></p>
 <table>
   <tr>
-    <td style="text-align:center" width="10%"></td>
+    <td style="text-align:center;white-space:nowrap"></td>
     <td style="text-align:center"><b>DRG</b></td>
     <td style="text-align:center"><b>MNK</b></td>
     <td style="text-align:center"><b>NIN</b></td>
