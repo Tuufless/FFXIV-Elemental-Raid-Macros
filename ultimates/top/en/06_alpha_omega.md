@@ -659,6 +659,80 @@ left, and the ST to the right.
   </tr>
 </table>
 
+At this point, the party *should* have rebuilt LB3 from the start of the phase.
+
+This is where the two melee DPS will take turns LB3'ing the boss before the
+final major mechanic. The third melee LB3 doesn't happen until the enrage cast.
+
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+<details markdown=block>
+<summary>
+  <b>[Click to Expand] Melee LB3 order</b>
+</summary>
+<table>
+  <tr>
+    <td colspan="6">
+      <p>There isn't a strict priority to follow- the two melee will typically
+      confirm the LB3 order either at the start of the encounter, or during the
+      cutscene before P6.</p>
+      <p>As a general rule, the DPS LB order goes something like this:</p>
+      <p><em>(Who does the final LB3 during the enrage cast will obviously be
+      different if either melee is partnered with a DNC.)</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center"></td>
+    <td style="text-align:center"><b>DRG</b></td>
+    <td style="text-align:center"><b>MNK</b></td>
+    <td style="text-align:center"><b>NIN</b></td>
+    <td style="text-align:center"><b>RPR</b></td>
+    <td style="text-align:center"><b>SAM</b></td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><b>DRG</b></td>
+    <td style="text-align:center">X</td>
+    <td style="text-align:center">MNK > DRG > DRG</td>
+    <td style="text-align:center">NIN > DRG > NIN</td>
+    <td style="text-align:center">RPR > DRG > DRG</td>
+    <td style="text-align:center">SAM > DRG > DRG</td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><b>MNK</b></td>
+    <td style="text-align:center">MNK > DRG > DRG</td>
+    <td style="text-align:center">X</td>
+    <td style="text-align:center">MNK > NIN > NIN</td>
+    <td style="text-align:center">MNK > RPR > MNK</td>
+    <td style="text-align:center">SAM > MNK > MNK</td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><b>NIN</b></td>
+    <td style="text-align:center">NIN > DRG > NIN</td>
+    <td style="text-align:center">MNK > NIN > NIN</td>
+    <td style="text-align:center">X</td>
+    <td style="text-align:center">NIN > RPR > NIN</td>
+    <td style="text-align:center">NIN > SAM > SAM</td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><b>RPR</b></td>
+    <td style="text-align:center">RPR > DRG > DRG</td>
+    <td style="text-align:center">MNK > RPR > MNK</td>
+    <td style="text-align:center">NIN > RPR > NIN</td>
+    <td style="text-align:center">X</td>
+    <td style="text-align:center">SAM > RPR > SAM</td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><b>SAM</b></td>
+    <td style="text-align:center">SAM > DRG > DRG</td>
+    <td style="text-align:center">SAM > MNK > MNK</td>
+    <td style="text-align:center">NIN > SAM > SAM</td>
+    <td style="text-align:center">SAM > RPR > SAM</td>
+    <td style="text-align:center">X</td>
+  </tr>
+</table>
+
+</details>
+</div>
+
 ---
 
 ## Cosmo Meteor
@@ -774,8 +848,23 @@ Alpha Omega will do a second Magic Number (requiring another Tank into Healer
 LB3) before casting Run: \*\*\*\*mi\* (which is a 30-second cast) as the hard
 enrage of the fight.
 
-Note that there will be one more melee LB available during the enrage cast, as
-the limit gauge is refilled from the second healer LB3.
+The tanks and healers will typically follow a *"MT group" > "ST group"*
+priority, although this is affected by whether a DRK is going to do the
+"suicide strat".
+
+<table>
+  <tr>
+    <td><b>Tanks</b></td>
+    <td>DRK > MT > ST</td>
+  </tr>
+  <tr>
+    <td><b>Healers</b></td>
+    <td>H1 > H2</td>
+  </tr>
+</table>
+
+Note that after the second healer LB3, the Limit Gauge will refill, giving one
+final melee LB3 during the enrage cast.
 
 ---
 
