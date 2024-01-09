@@ -21,11 +21,11 @@ This phase requires some mitigation planning. As a baseline, start with:
 <table>
   <tr>
     <td><b>Akh Morn's Edge #1</b></td>
-    <td>MT Reprisal, H1 120s, D2</td>
+    <td>MT Reprisal, H1 120s, D1</td>
   </tr>
   <tr>
     <td><b>Gigaflare's Edge #1</b></td>
-    <td>MT 90s, ST Reprisal, D1, D4</td>
+    <td>MT 90s, ST Reprisal, D2, D4</td>
   </tr>
   <tr>
     <td><b>Akh Morn's Edge #2</b></td>
@@ -33,11 +33,11 @@ This phase requires some mitigation planning. As a baseline, start with:
   </tr>
   <tr>
     <td><b>Gigaflare's Edge #2</b></td>
-    <td>ST Reprisal, D2</td>
+    <td>ST Reprisal, D1</td>
   </tr>
   <tr>
     <td><b>Akh Morn's Edge #3</b></td>
-    <td>MT Reprisal, H1 120s, D1, D4</td>
+    <td>MT Reprisal, H1 120s, D2, D4</td>
   </tr>
 </table>
 
