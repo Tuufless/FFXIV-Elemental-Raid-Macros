@@ -675,9 +675,9 @@ cutscene before P6.</p>
 <p>As a general rule, the DPS LB order goes something like this:</p>
 <p><em>(Who does the final LB3 during the enrage cast will obviously be
 different if either melee is partnered with a DNC.)</em></p>
-<table>
+<table cellpadding="0" cellspacing="0" style="width: 100%">
   <tr>
-    <td style="text-align:center;white-space:nowrap"></td>
+    <td style="text-align:center"></td>
     <td style="text-align:center"><b>DRG</b></td>
     <td style="text-align:center"><b>MNK</b></td>
     <td style="text-align:center"><b>NIN</b></td>
