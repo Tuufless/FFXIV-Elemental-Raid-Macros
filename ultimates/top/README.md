@@ -60,6 +60,15 @@ Here are some clear PoVs that I've been collecting.
 {% include_relative macros/top.en.txt %}
 ```
 
+<details markdown=block>
+<summary>日本語</summary>
+
+```
+{% include_relative macros/top.jp.txt %}
+```
+
+</details>
+
 ---
 
 ## Markers
