@@ -664,20 +664,16 @@ At this point, the party *should* have rebuilt LB3 from the start of the phase.
 This is where the two melee DPS will take turns LB3'ing the boss before the
 final major mechanic. The third melee LB3 doesn't happen until the enrage cast.
 
-<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
-<details markdown=block>
-<summary>
-  <b>[Click to Expand] Melee LB3 order</b>
-</summary>
-<p>There isn't a strict priority to follow- the two melee will typically
-confirm the LB3 order either at the start of the encounter, or during the
-cutscene before P6.</p>
-<p>As a general rule, the DPS LB order goes something like this:</p>
-<p><em>(Who does the final LB3 during the enrage cast will obviously be
-different if either melee is partnered with a DNC.)</em></p>
-<table cellpadding="0" cellspacing="0" style="width: 100%">
+As a general rule, the DPS LB order goes something like the following, although
+this **should be confirmed between the two melee** either at the start of the
+encounter, or during the cutscene before P6.
+
+*(Who does the final LB3 during the enrage cast will obviously be
+different if either melee is partnered with a DNC.)*
+
+<table>
   <tr>
-    <td style="text-align:center"></td>
+    <td width="10%" style="text-align:center"></td>
     <td style="text-align:center"><b>DRG</b></td>
     <td style="text-align:center"><b>MNK</b></td>
     <td style="text-align:center"><b>NIN</b></td>
@@ -725,9 +721,6 @@ different if either melee is partnered with a DNC.)</em></p>
     <td style="text-align:center">X</td>
   </tr>
 </table>
-
-</details>
-</div>
 
 ---
 
@@ -846,7 +839,7 @@ enrage of the fight.
 
 The tanks and healers will typically follow a *"MT group" > "ST group"*
 priority, although this is affected by whether a DRK is going to do the
-"suicide strat".
+"suicide strat" (see the [FAQ](#frequently-asked-questions)).
 
 <table>
   <tr>
