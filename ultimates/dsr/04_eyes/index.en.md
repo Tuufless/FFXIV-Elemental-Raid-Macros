@@ -27,6 +27,10 @@ Players get tethered with either blue or red tethers where:
 - When a player with a **red tether** takes damage, the red eye
   **also takes damage**.
 
+When two players with different coloured tethers touch one another, they will
+swap tethers. Doing so also applies a 3-second *Bound and Determined* debuff,
+which prevents an additional swap for the duration.
+
 <table>
   <tr>
     <td width="50%">
@@ -88,14 +92,21 @@ Players get tethered with either blue or red tethers where:
   <tr>
     <td>
       <p><b>7.</b> All players gather west to prepare for Mirage Dives.</p>
+      <p>At this point, all DPS should have red tethers and be spread around
+      the west Eye, and all tanks/healers should have blue tethers and be
+      stacked on top of the Eye.</p>
     </td>
     <td><img src="images/eyes_07.jpg"></td>
   </tr>
   <tr>
     <td>
-      <p><b>8.</b> First set of dives.</p>
+      <p><b>8.</b> First pair of dives.</p>
+      <p>Two Nidhogg clones will each do a <em>Mirage Dive</em> on two players
+      with red tethers, applying a Piercing Resistance Down debuff on them.</p>
       <p><b>Healers</b> swap with the two dive targets.</p>
-      <p style="text-align:center"><b>ccw from N:</b> H1 > H2 <b>:cw from N</b></p>
+      <p style="text-align:center">
+        <b>ccw from N:</b> H1 > H2 <b>:cw from N</b>
+      </p>
       <p>Remember which two DPS were hit here, as those two DPS will be the
       ones swapping tethers after the third set of dives.</p>
     </td>
@@ -103,26 +114,30 @@ Players get tethered with either blue or red tethers where:
   </tr>
   <tr>
     <td>
-      <p><b>9.</b> Second set of dives.</p>
+      <p><b>9.</b> Second pair of dives, again targeting players with red
+      tethers.</p>
       <p><b>Tanks</b> swap with the two dive targets.</p>
-      <p style="text-align:center"><b>ccw from N:</b> MT > ST <b>:cw from N</b></p>
+      <p style="text-align:center">
+        <b>ccw from N:</b> MT > ST <b>:cw from N</b>
+      </p>
     </td>
     <td><img src="images/eyes_09.jpg"></td>
   </tr>
   <tr>
     <td>
-      <p><b>10.</b> Third set of dives.</p>
+      <p><b>10.</b> Third pair of dives.</p>
       <p>The <b>two DPS</b> that were hit earlier swap with the two dive
       targets.</p>
-      <p style="text-align:center"><b>ccw from N:</b> D1 > D2 > D3 > D4 <b>:cw
-      from N</b></p>
+      <p style="text-align:center">
+        <b>ccw from N:</b> D1 > D2 > D3 > D4 <b>:cw from N</b>
+      </p>
       <p><em>(In this example, D1 and D3 were hit earlier in Step 8.)</em></p>
     </td>
     <td><img src="images/eyes_10.jpg"></td>
   </tr>
   <tr>
     <td>
-      <p><b>11.</b> Fourth (final) set of dives.</p>
+      <p><b>11.</b> Fourth (final) pair of dives.</p>
       <p>Both eyes will begin to cast <em>Steep in Rage</em> shortly after.</p>
       <p>At least one eye must be killed before <em>Steep in Rage</em> resolves,
       or the outgoing damage will wipe the party.</p>
@@ -179,11 +194,13 @@ If Haurchefant dies in this phase, the fight loops back to Thordan in Phase 2.
   <tr>
     <td>
       <p>Unlike the original Fang and Claw mechanic from Nidhogg EX, the Right
-      (blue) Eye will not recover HP from a tank getting autoattacked.</p>
+      (blue) Eye will not recover HP from a tank with a blue tether getting
+      autoattacked.</p>
     </td>
   </tr>
 </table>
 </details>
+
 <details markdown=block>
 <summary>
   <b>[Clawbound/Fangbound]</b> Do mitigations affect the amount of damage taken
@@ -199,6 +216,7 @@ If Haurchefant dies in this phase, the fight loops back to Thordan in Phase 2.
   </tr>
 </table>
 </details>
+
 <details markdown=block>
 <summary>
   <b>[Clawbound/Fangbound]</b> How much HP will the Left Eye take over the
@@ -209,11 +227,12 @@ If Haurchefant dies in this phase, the fight loops back to Thordan in Phase 2.
     <td>
       <p>The Left Eye will take a total of <b>40%</b> of its max HP during
       Mirage Dives, so there's no reason to damage it past that point during
-      the orbs phase.</p>
+      the orbs phase <em>(other than padding...)</em>.</p>
     </td>
   </tr>
 </table>
 </details>
+
 <details markdown=block>
 <summary>
   <b>[Haurchefant]</b> WHMs can Benediction Haurchefant- what other abilities
