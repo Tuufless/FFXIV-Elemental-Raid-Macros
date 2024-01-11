@@ -127,21 +127,23 @@ This is the macro for the bulk of the fight.
 
 ## Markers
 
-The "inner" markers are the more popular markers.
+PF uses the "inner" markers. All markers demarcate:
 
-The intercardinal markers demarcate:
+- The boundaries for the charges at the start of Strength of the Ward.
+- The boundary for Nidhogg's Drachenlance.
 
-- The boundaries for the charges at the start of Strength of the Ward
-- Where to stand to bait the towers in Nidhogg
+In addition, the intercardinal square markers indicate:
+
+- Where to stand to bait the towers in Nidhogg.
 - The boundary of Hot Tail in the Double Dragons phase.
 
-![](images/markers_inner.jpg)
+![](images/markers_2.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
 ```json
 {
-  "Name":"Dragonsong's Reprise (Inner)",
+  "Name":"Dragonsong's Reprise",
   "MapID":788,
   "A":{"X":100.0,"Y":0.0,"Z":87.0,"ID":0,"Active":true},
   "B":{"X":113.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},
@@ -151,29 +153,6 @@ The intercardinal markers demarcate:
   "Two":{"X":109.192,"Y":0.0,"Z":109.192,"ID":5,"Active":true},
   "Three":{"X":90.807,"Y":0.0,"Z":109.192,"ID":6,"Active":true},
   "Four":{"X":90.807,"Y":0.0,"Z":90.807,"ID":7,"Active":true}
-}
-```
-
-</details>
-
-Sometimes, you may see the "outer" markers being used instead.
-
-![](images/markers_outer.jpg)
-<details markdown=block>
-<summary>XIVLauncher WaymarkPresetPlugin positions</summary>
-
-```json
-{
-  "Name":"Dragonsong's Reprise (Outer)",
-  "MapID":788,
-  "A":{"X":100.0,"Y":0.0,"Z":79.0,"ID":0,"Active":true},
-  "B":{"X":121.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},
-  "C":{"X":100.0,"Y":0.0,"Z":121.0,"ID":2,"Active":true},
-  "D":{"X":79.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},
-  "One":{"X":114.849,"Y":0.0,"Z":85.151,"ID":4,"Active":true},
-  "Two":{"X":114.849,"Y":0.0,"Z":114.849,"ID":5,"Active":true},
-  "Three":{"X":85.151,"Y":0.0,"Z":114.849,"ID":6,"Active":true},
-  "Four":{"X":85.151,"Y":0.0,"Z":85.151,"ID":7,"Active":true}
 }
 ```
 
