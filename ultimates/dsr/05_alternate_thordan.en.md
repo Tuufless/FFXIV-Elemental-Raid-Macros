@@ -47,7 +47,7 @@ phase, *Wrath of the Heavens*.
         </li>
       </ul>
     </td>
-    <td><img src="images/wrath_of_the_heavens_01.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/05/wrath_of_the_heavens_01.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -58,7 +58,7 @@ phase, *Wrath of the Heavens*.
       <p>Two players will also get a <em>Thunderstruck</em> debuff, which will
       resolve later.</p>
     </td>
-    <td><img src="images/wrath_of_the_heavens_02.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/05/wrath_of_the_heavens_02.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -66,7 +66,7 @@ phase, *Wrath of the Heavens*.
       will get a green divebomb mark.</p>
       <p><b>All players move to dodge Twisters.</b></p>
     </td>
-    <td><img src="images/wrath_of_the_heavens_03.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/05/wrath_of_the_heavens_03.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -87,7 +87,7 @@ phase, *Wrath of the Heavens*.
         incoming AoEs.</li>
       </ul>
     </td>
-    <td><img src="images/wrath_of_the_heavens_04.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/05/wrath_of_the_heavens_04.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -104,7 +104,7 @@ phase, *Wrath of the Heavens*.
       <p>A player with <em>Thunderstruck</em> <b>will not</b> be targeted by
       either <em>Altar Pyre</em>, or <em>Liquid Heaven</em>.</p>
     </td>
-    <td><img src="images/wrath_of_the_heavens_05.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/05/wrath_of_the_heavens_05.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -119,7 +119,7 @@ phase, *Wrath of the Heavens*.
       <b>enter the safe spot from the side</b>, as a player on the west side
       will be one-shot if they get hit by the <em>Liquid Heaven</em> AoE.</p>
     </td>
-    <td><img src="images/wrath_of_the_heavens_06.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/05/wrath_of_the_heavens_06.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -127,7 +127,7 @@ phase, *Wrath of the Heavens*.
       with the two <em>Thunderstruck</em> debuffs, and the two divebombs.</p>
       <p>Heal and prepare for <em>Ancient Quaga</em>.</p>
     </td>
-    <td><img src="images/wrath_of_the_heavens_07.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/05/wrath_of_the_heavens_07.jpg"></td>
   </tr>
 </table>
 
@@ -155,7 +155,7 @@ splits the Dooms 2-2.
         <li>Line up east-to-west.</li>
       </ul>
     </td>
-    <td><img src="images/death_of_the_heavens_01.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/05/death_of_the_heavens_01.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -168,7 +168,7 @@ splits the Dooms 2-2.
       <p>This step forward/back is to help the players in the center identify
       their order within each Doom vs. non-Doom group.</p>
     </td>
-    <td><img src="images/death_of_the_heavens_02.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/05/death_of_the_heavens_02.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -186,7 +186,7 @@ splits the Dooms 2-2.
         other.</li>
       </ul>
     </td>
-    <td><img src="images/death_of_the_heavens_03.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/05/death_of_the_heavens_03.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -202,7 +202,7 @@ splits the Dooms 2-2.
         <li>Dodge into the <b>next</b> Heavy Impact AoE.</li>
       </ul>
     </td>
-    <td><img src="images/death_of_the_heavens_04.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/05/death_of_the_heavens_04.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -218,7 +218,7 @@ splits the Dooms 2-2.
         <li>Line up west-to-east a little north of center.</li>
       </ul>
     </td>
-    <td><img src="images/death_of_the_heavens_05.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/05/death_of_the_heavens_05.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -237,7 +237,7 @@ splits the Dooms 2-2.
         symbol.</li>
       </ul>
     </td>
-    <td><img src="images/death_of_the_heavens_06.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/05/death_of_the_heavens_06.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -245,7 +245,7 @@ splits the Dooms 2-2.
       properly align yourself, and <b>look away from both Thordan and the
       Dragon's Eye.</b>
     </td>
-    <td><img src="images/death_of_the_heavens_07.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/05/death_of_the_heavens_07.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -256,7 +256,7 @@ splits the Dooms 2-2.
         <li>Step into the white puddle left behind to cleanse Doom</li>
       </ul>
     </td>
-    <td><img src="images/death_of_the_heavens_08.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/05/death_of_the_heavens_08.jpg"></td>
   </tr>
 </table>
 
@@ -290,7 +290,7 @@ mercy. **Do not kill Thordan.**
       <p>Unfortunately not- who gets the Dooms are completely random.</p>
       <p>Here's an example where all four tank/healers get Doom.</p>
     </td>
-  <td><img src="images/doth_debuffs.jpg"></td></tr>
+  <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/05/doth_debuffs.jpg"></td></tr>
 </table>
 </details>
 <details markdown=block>

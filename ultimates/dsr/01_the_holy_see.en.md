@@ -1,15 +1,15 @@
 ---
 layout: default
-title: 1. Adelphel and Grinnaux
+title: 1. The Holy See
 parent: Lv 90. DSR
 grand_parent: Ultimates
 nav_order: 2
 has_children: false
 has_toc: false
-permalink: /ultimates/dsr/01_adelphel_and_grinnaux/
+permalink: /ultimates/dsr/01_the_holy_see/
 ---
 
-# Adelphel and Grinnaux
+# The Holy See
 
 Dragonsong's Reprise is the first Ultimate to feature a "door boss" phase.
 
@@ -40,7 +40,7 @@ portion of the encounter.
       <em>Heavensflame</em>, which is a shared stack.</li>
     </ul>
     </td>
-    <td><img src="images/adelphel_grinnaux_01.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/01/adelphel_grinnaux_01.jpg"></td>
   </tr>
 </table>
 
@@ -64,7 +64,7 @@ shortly. Ser Grinnaux will teleport to the center of the arena.
       <li>The remaining four unmarked players stack <b>north</b> to share a
       <em>Hyperdimensional Slash</em> cleave.</li>
     </ul></td>
-    <td><img src="images/hyperdimensional_slash_01.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/01/hyperdimensional_slash_01.jpg"></td>
   </tr>
   <tr>
     <td><p><b>2.</b> All players now swap roles- the previously unmarked
@@ -75,7 +75,7 @@ shortly. Ser Grinnaux will teleport to the center of the arena.
       <li>The now unmarked players stack <b>south</b> to share a
       <em>Hyperdimensional Slash</em> cleave.</li>
     </ul></td>
-    <td><img src="images/hyperdimensional_slash_02.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/01/hyperdimensional_slash_02.jpg"></td>
   </tr>
   <tr>
     <td><p><b>3.</b> Ser Adelphel will reappear at a <b>random</b> cardinal
@@ -87,15 +87,15 @@ shortly. Ser Grinnaux will teleport to the center of the arena.
     cardinal</b> walls.</p>
     <p>The party moves towards <b>whichever side Adelphel dashes to first.</b></p>
     <p><em>(In this example, Ser Adelphel dashes to the left.)</em></p></td>
-    <td><img src="images/hyperdimensional_slash_03.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/01/hyperdimensional_slash_03.jpg"></td>
   </tr>
   <tr>
     <td><p><b>4.</b> A whole series of AoEs then resolve along Ser Adelphel's
     path.</p>
     <p>The tips of these spokes on the floor will <em>always</em> be safe from
     the AoEs.</p></td>
-    <td><img src="images/hyperdimensional_slash_04.jpg">
-    <img src="images/hyperdimensional_slash_safe_spot.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/01/hyperdimensional_slash_04.jpg">
+    <img src="{{site.baseurl}}/assets/images/ultimates/dsr/01/hyperdimensional_slash_safe_spot.jpg"></td>
   </tr>
   <tr>
     <td><p><b>5.</b> The ST moves ahead of the party as Ser Adelphel will land
@@ -103,7 +103,7 @@ shortly. Ser Grinnaux will teleport to the center of the arena.
     <p>The ST can invuln this hit.</p><p>Ser Adelphel will then begin to cast
     <em>Holiest Hallowing</em>. This must be interrupted (by the ST), or it
     will recover 50% HP to both Ser Adelphel and Ser Grinnaux.</p></td>
-    <td><img src="images/hyperdimensional_slash_05.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/01/hyperdimensional_slash_05.jpg"></td>
   </tr>
 </table>
 
@@ -125,7 +125,7 @@ The MT recenters Ser Grinnaux to prepare for the Playstation mechanic.
     </ul>
     <p>The two 〇 DPS have a priority to determine who goes where:</p>
     <p style="text-align:center"><b>West:</b> D1 > D2 > D3 > D4 <b>:East</b></p></td>
-    <td><img src="images/playstation_01.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/01/playstation_01.jpg"></td>
   </tr>
   <tr>
     <td><p><b>2.</b> Ser Grinnaux then casts <em>Faith Unmoving</em> again,
@@ -134,7 +134,7 @@ The MT recenters Ser Grinnaux to prepare for the Playstation mechanic.
     player will have a <em>Heavensflame</em> AoE centered on them.</p>
     <p>Note that we <b>do not</b> want to use anti-knockback abilities here, as
     we need the knockback in order to break the chains.</p></td>
-    <td><img src="images/playstation_02.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/01/playstation_02.jpg"></td>
   </tr>
 </table>
 
@@ -169,7 +169,7 @@ This method allows for [full melee uptime with minimal movement](https://clips.t
   <tr>
     <td width="50%"><p><b>1.</b> First set of baits.</p>
     <ul><li><b>Healers</b>: Bait the first set of Brightwings.</li></ul></td>
-    <td><img src="images/haurchefant_01.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/01/haurchefant_01.jpg"></td>
   </tr>
   <tr>
     <td><p><b>2.</b> Second set of baits.</p>
@@ -177,7 +177,7 @@ This method allows for [full melee uptime with minimal movement](https://clips.t
       <li><b>Healers</b>: Move in front of Ser Charibert to bait the puddles.</li>
       <li><b>Melee</b>: Bait the second set of Brightwings.</li>
     </ul></td>
-    <td><img src="images/haurchefant_02.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/01/haurchefant_02.jpg"></td>
   </tr>
   <tr>
     <td><p><b>3.</b> Third set of baits.</p>
@@ -186,7 +186,7 @@ This method allows for [full melee uptime with minimal movement](https://clips.t
       <li><b>Melee</b>: Move behind Ser Charibert to bait the puddles.</li>
       <li><b>Ranged</b>: Bait the third set of Brightwings.</li>
     </ul></td>
-    <td><img src="images/haurchefant_03.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/01/haurchefant_03.jpg"></td>
   </tr>
   <tr>
     <td><p><b>4.</b> Fourth set of baits.</p>
@@ -195,7 +195,7 @@ This method allows for [full melee uptime with minimal movement](https://clips.t
       <li><b>Ranged</b>: Move in front of Ser Charibert to bait the puddles.</li>
       <li><b>Tanks</b>: Bait the fourth set of Brightwings.</li>
     </ul></td>
-    <td><img src="images/haurchefant_04.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/01/haurchefant_04.jpg"></td>
   </tr>
   <tr>
     <td><p><b>5.</b> Last set of movement before Pure of Heart resolves.</p>
@@ -203,7 +203,7 @@ This method allows for [full melee uptime with minimal movement](https://clips.t
       <li><b>Ranged</b>: Rejoin the party stack to dodge the puddles.</li>
       <li><b>Tanks</b>: Move in front of Ser Charibert to bait the puddles.</li>
     </ul></td>
-    <td><img src="images/haurchefant_05.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/01/haurchefant_05.jpg"></td>
   </tr>
   <tr>
     <td><p><b>6.</b> Pure of Heart resolves.</p>
@@ -211,9 +211,9 @@ This method allows for [full melee uptime with minimal movement](https://clips.t
     <ul>
       <li><b>Tanks</b>: Rejoin the party stack to dodge the puddles.</li>
     </ul></td>
-    <td><img src="images/haurchefant_06.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/01/haurchefant_06.jpg"></td>
   </tr>
 </table>
 
 The arena will change, and Thordan will appear. Make sure someone in the party
-attacks Thordan, or you will restart from Adelphel and Grinnaux.
+attacks Thordan, or you will restart from this phase.

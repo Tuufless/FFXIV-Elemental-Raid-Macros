@@ -45,14 +45,14 @@ which prevents an additional swap for the duration.
       <p>This also means if a player dies and is revived, they will lose
       Haurchefant's and Ysayle's buffs and be unable damage the eyes.</p>
     </td>
-    <td><img src="images/eyes_01.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/04/eyes_01.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>2.</b> After getting the Soul of Friendship and Soul of Devotion
       buffs, spread out to your initial positions.</p>
     </td>
-    <td><img src="images/eyes_02.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/04/eyes_02.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -66,28 +66,28 @@ which prevents an additional swap for the duration.
       Estinien, who's in the middle of the arena to swap with someone else (who
       will also have the wrong tether).</p>
     </td>
-    <td><img src="images/eyes_03.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/04/eyes_03.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>4.</b> When the yellow orbs grow for the second time, <b>tanks and
       healers</b> pop the yellow orb together (shared damage).</p>
     </td>
-    <td><img src="images/eyes_04.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/04/eyes_04.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>5.</b> After the yellow orbs have been popped, DPS go to the tanks
       and healers to swap tethers (giving them blue and picking up red).</p>
     </td>
-    <td><img src="images/eyes_05.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/04/eyes_05.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>6.</b> When the blue orbs grow for the second time, <b>DPS</b> pop
       the blue orbs (one each).</p>
     </td>
-    <td><img src="images/eyes_06.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/04/eyes_06.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -96,7 +96,7 @@ which prevents an additional swap for the duration.
       the west Eye, and all tanks/healers should have blue tethers and be
       stacked on top of the Eye.</p>
     </td>
-    <td><img src="images/eyes_07.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/04/eyes_07.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -110,7 +110,7 @@ which prevents an additional swap for the duration.
       <p>Remember which two DPS were hit here, as those two DPS will be the
       ones swapping tethers after the third set of dives.</p>
     </td>
-    <td><img src="images/eyes_08.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/04/eyes_08.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -121,7 +121,7 @@ which prevents an additional swap for the duration.
         <b>ccw from N:</b> MT > ST <b>:cw from N</b>
       </p>
     </td>
-    <td><img src="images/eyes_09.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/04/eyes_09.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -133,7 +133,7 @@ which prevents an additional swap for the duration.
       </p>
       <p><em>(In this example, D1 and D3 were hit earlier in Step 8.)</em></p>
     </td>
-    <td><img src="images/eyes_10.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/04/eyes_10.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -146,7 +146,7 @@ which prevents an additional swap for the duration.
       <p>Similarly, the blue eye will revive (as the blue-tethered players took
       damage).</p>
     </td>
-    <td><img src="images/eyes_11.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/04/eyes_11.jpg"></td>
   </tr>
 </table>
 

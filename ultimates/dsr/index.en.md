@@ -12,15 +12,15 @@ permalink: /ultimates/dsr/
 
 Elemental's DSR PF strat can be broken down as follows:
 
-- [**Ser Adelphel + Grinnaux**](../01_adelphel_and_grinnaux/index.en.md): HMRT
-- [**King Thordan**](../02_thordan/index.en.md): DRK-relative, role adjust
-- [**Nidhogg**](../03_nidhogg/index.en.md): Easthogg
-- [**Eyes**](../04_eyes/index.en.md): T/H red, DPS blue
-- [**Alternate Timeline Thordan**](../05_alternate_thordan/index.en.md):
+- [**The Holy See**](01_the_holy_see.en.md): HMRT
+- [**King Thordan**](02_thordan.en.md): DRK-relative, role adjust
+- [**Nidhogg**](03_nidhogg.en.md): Easthogg
+- [**Eyes**](04_eyes.en.md): T/H red, DPS blue
+- [**Alternate Timeline Thordan**](05_alternate_thordan.en.md):
   2-2 Dooms North, Anchored Dooms
-- [**Double Dragons**](../06_double_dragons/index.en.md): △ WB1, DTTMR
+- [**Double Dragons**](06_double_dragons.en.md): △ WB1, DTTMR
   Mortal Vow, 5-1 WB2
-- [**Dragonking Thordan**](../07_dragonking_thordan/index.en.md): All 3-3-2
+- [**Dragonking Thordan**](07_dragonking_thordan.en.md): All 3-3-2
 
 ### BiS Notes
 
@@ -32,8 +32,8 @@ Looking towards the future:
 - Dragonsong's Reprise will not be outgeared until **i730** gear is available.
 - Relic weapons (when they arrive) will have their substats capped at **269**.
 
-![](images/dsr_cheatsheet.jpg)
-*(Full-size image: [English](images/dsr_cheatsheet.jpg), [日本語](images/dsr_cheatsheet_jp.jpg))*
+![]({{site.baseurl}}/assets/images/dsr_cheatsheet.jpg)
+*(Full-size image: [English]({{site.baseurl}}/assets/images/ultimates/dsr/dsr_cheatsheet.jpg), [日本語]({{site.baseurl}}/assets/images/ultimates/dsr/dsr_cheatsheet_jp.jpg))*
 
 ---
 
@@ -59,7 +59,7 @@ Here are some clear PoVs that I've been collecting.
 
 ---
 
-# Ser Adelphel and Ser Grinnaux
+# The Holy See
 
 Dragonsong's Reprise is the first Ultimate to showcase a "door" boss. As such,
 there are two sets of markers and macros to use for this fight.
@@ -83,13 +83,13 @@ there are two sets of markers and macros to use for this fight.
 
 All markers are used to bait Hyperdimensional Slashes (black orbs).
 
-![](images/markers_1.jpg)
+![]({{site.baseurl}}/assets/images/ultimates/dsr/markers_1.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
 ```json
 {
-  "Name":"Adelphel and Grinnaux",
+  "Name":"DSR P1 - The Holy See",
   "MapID":788,
   "A":{"X":95.0,"Y":0.0,"Z":91.5,"ID":1,"Active":true},
   "B":{"X":108.5,"Y":0.0,"Z":95.0,"ID":2,"Active":true},
@@ -137,7 +137,7 @@ In addition, the intercardinal square markers indicate:
 - Where to stand to bait the towers in Nidhogg.
 - The boundary of Hot Tail in the Double Dragons phase.
 
-![](images/markers_2.jpg)
+![]({{site.baseurl}}/assets/images/ultimates/dsr/markers_2.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
