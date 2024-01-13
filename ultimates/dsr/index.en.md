@@ -32,7 +32,7 @@ Looking towards the future:
 - Dragonsong's Reprise will not be outgeared until **i730** gear is available.
 - Relic weapons (when they arrive) will have their substats capped at **269**.
 
-![]({{site.baseurl}}/assets/images/dsr_cheatsheet.jpg)
+![]({{site.baseurl}}/assets/images/ultimates/dsr/dsr_cheatsheet.jpg)
 *(Full-size image: [English]({{site.baseurl}}/assets/images/ultimates/dsr/dsr_cheatsheet.jpg), [日本語]({{site.baseurl}}/assets/images/ultimates/dsr/dsr_cheatsheet_jp.jpg))*
 
 ---
