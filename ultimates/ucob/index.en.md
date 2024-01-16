@@ -45,11 +45,14 @@ PF largely follows [Clees' UCoB guide](https://clees.me/guides/ucob/) with a few
 {% include_relative macros/ucob.en.txt %}
 ```
 
-## Japanese
+<details markdown=block>
+<summary>日本語</summary>
 
 ```
 {% include_relative macros/ucob.jp.txt %}
 ```
+
+</details>
 
 ---
 
