@@ -1,40 +1,45 @@
----
-layout: default
-title: Home
-nav_order: 1
-permalink: /
----
-
 # FFXIV Elemental Raid Macros
 
-This repository is a collection of macros (and my notes) often encountered in the Elemental Data Center (DC).
+Hello! This is the underlying Github repository for the
+[FFXIV Elemental Raid Macros](https://tuufless.github.io/FFXIV-Elemental-Raid-Macros/) site.
 
-Because Elemental is ultimately a Japanese DC, these macros are for **Japanese** PF strategies. Keep that in mind that when watching (English) videos/reading guides- the strategies used may have some differences from the ones here.
+The website is generated via [Jekyll](https://jekyllrb.com/) using [Just-The-Docs](https://just-the-docs.github.io/just-the-docs/)
+as a theme.
 
-Of course, there will probably be small differences between the macros here and the ones you may encounter in PF- use the ones here as a base to work with.
+## How to contribute
 
-## Current content (Patch 6.5)
+1. Make a fork of the repository.
+2. Make your edits in the fork.
+3. Create a Pull Request- once approved, your edits will be merged into the
+main repository.
 
-The current item level cap is **iLvl 665**.
+## Testing locally
 
-**Extreme Trials:**
-- **Zeromus EX** - [The Abyssal Fracture (Extreme)](6.0_endwalker/extreme_trials/zeromus/README.md)
+Before pushing, it is often a good idea to build and preview the created site
+locally to check if everything is working as expected. This lets you test
+changes before committing them, and avoids having to wait for Github Pages.
 
-**Unreal Trial:**
-- **Thordan** - [The Singularity Reactor (Unreal)](3.0_heavensward/extreme_trials/thordan/README.md)
+### Setup
 
-**Savage Raids:**
-- **P9S** - [Anabaseios: The Ninth Circle (Savage)](6.0_endwalker/savage_raids/p9s/README.md)
-- **P10S** - [Anabaseios: The Tenth Circle (Savage)](6.0_endwalker/savage_raids/p10s/README.md)
-- **P11S** - [Anabaseios: The Eleventh Circle (Savage)](6.0_endwalker/savage_raids/p11s/README.md)
-- **P12S** - Anabaseios: The Twelfth Circle (Savage)
-    - [Part 1](6.0_endwalker/savage_raids/p12s_1/README.md)
-    - [Part 2](6.0_endwalker/savage_raids/p12s_2/README.md)
+In order to build the site locally, you'll first need to:
 
-## Ultimate Raids
+1. [Download and install Ruby](https://www.ruby-lang.org/en/downloads/)
+2. [Download and install Jekyll](https://jekyllrb.com/docs/installation/#guides)
+3. Install the project dependencies using `bundle install`.
 
-- **UCoB** - [The Unending Coil of Bahamut (Ultimate)](ultimates/ucob/README.md)
-- **UWU** - [The Weapon's Refrain (Ultimate)](ultimates/uwu/README.md)
-- **TEA** - [The Epic of Alexander (Ultimate)](ultimates/tea/README.md)
-- **DSR** - [Dragonsong's Reprise (Ultimate)](ultimates/dsr/index.en.md)
-- **TOP** - [The Omega Protocol (Ultimate)](ultimates/top/index.en.md)
+### Serving
+
+Once Ruby and Jekyll are installed, you can generate the site via the command:
+```
+bundle exec jekyll serve
+```
+This will generate the requisite HTML pages under the `_site` folder (note that `_site` is part of `.gitignore`).
+
+Once the site has been built and running, you can then open it on your browser
+by navigating to `http://localhost:4000/`.
+
+## Assets
+
+Image assets should be placed in the `assets` directory- this is done in order
+to support future localisation efforts, as relative image paths from the
+various pages don't seem to work well.
