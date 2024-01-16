@@ -30,7 +30,7 @@ permalink: /ultimates/jp/
 
 ### 絶アルテマウェポン破壊作戦
 
-- [解説（英語）](uwu/README.md)
+- [解説（英語）](uwu/index.en.md)
 
 <details markdown=block>
 <summary>マクロ</summary>

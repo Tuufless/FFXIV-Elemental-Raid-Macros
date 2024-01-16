@@ -20,7 +20,7 @@ As with all third-party tools, *use at your own risk.*
 ## Level 70 Ultimates
 
 - **UCoB** - [The Unending Coil of Bahamut (Ultimate)](ucob/index.en.md)
-- **UWU** - [The Weapon's Refrain (Ultimate)](uwu/README.md) - *Automarkers used*
+- **UWU** - [The Weapon's Refrain (Ultimate)](uwu/index.en.md) - *Automarkers used*
 
 ## Level 80 Ultimates
 

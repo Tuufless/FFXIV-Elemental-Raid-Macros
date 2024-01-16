@@ -78,33 +78,71 @@ Tanks will also need to plan out their cooldowns for the Akh Morns.
 
 <table>
   <tr>
-    <td width="50%"><p><b>1.</b> Golden Bahamut targets a random party member with Morn Afah.</p><p>This is a full 8-man party stack that requires additional mitigation.</p></td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/ucob/05/golden_bahamut_01.jpg"></td>
+    <td width="50%">
+      <p><b>1.</b> Golden Bahamut targets a random party member with Morn Afah.</p>
+      <p>This is a full 8-man party stack that requires additional mitigation.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/05/golden_bahamut_01.jpg">
+    </td>
   </tr>
   <tr>
-    <td><p><b>2.</b> Golden Bahamut then targets the tank for Akh Morn.</p><p>This should be stacked and shared between the two tanks.</p><p>For this first Akh Morn, the <b>tanks stack where the south Neurolink was</b>.</p></td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/ucob/05/golden_bahamut_02.jpg"></td>
+    <td>
+      <p><b>2.</b> Golden Bahamut then targets the tank for Akh Morn.</p>
+      <p>This should be stacked and shared between the two tanks.</p>
+      <p>For this first Akh Morn, the <b>tanks stack where the south Neurolink
+      was</b>.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/05/golden_bahamut_02.jpg">
+    </td>
   </tr>
   <tr>
-    <td><p><b>3.</b> Golden Bahamut casts Exaflare.</p><p>First set of Exaflares appear.</p></td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/ucob/05/golden_bahamut_03.jpg"></td>
+    <td>
+      <p><b>3.</b> Golden Bahamut casts Exaflare.</p><p>First set of Exaflares appear.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/05/golden_bahamut_03.jpg">
+    </td>
   </tr>
   <tr>
-    <td><p><b>4.</b> Second set of Exaflares appear.</p><p>If possible, try to get a 3-to-1 dodge <em>(a 3-to-1 dodge may not always be available)</em>.</p></td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/ucob/05/golden_bahamut_04.jpg"></td>
+    <td>
+      <p><b>4.</b> Second set of Exaflares appear.</p>
+      <p>If possible, try to get a 3-to-1 dodge <em>(a 3-to-1 dodge may not always be available)</em>.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/05/golden_bahamut_04.jpg">
+    </td>
   </tr>
   <tr>
-    <td><p><b>5.</b> Third set of Exaflares appear.</p></td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/ucob/05/golden_bahamut_05.jpg"></td>
+    <td>
+      <p><b>5.</b> Third set of Exaflares appear.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/05/golden_bahamut_05.jpg">
+    </td>
   </tr>
   <tr>
-    <td><p><b>6.</b> Golden Bahamut casts Akh Morn on the MT.</p><p>Note that the party stays <b>at the edge</b>, while the tank(s) <b>are towards the center</b>.</p><p><em>This will be Morn Afah in all future iterations.</em></p></td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/ucob/05/golden_bahamut_06.jpg"></td>
+    <td>
+      <p><b>6.</b> Golden Bahamut casts Akh Morn on the MT.</p>
+      <p>Note that the party stays <b>at the edge</b>, while the tank(s) <b>are towards the center</b>.</p>
+      <p><em>This will be Morn Afah in all future iterations.</em></p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/05/golden_bahamut_06.jpg">
+    </td>
   </tr>
   <tr>
-    <td><p><b>7.</b> Golden Bahamut then targets a random (non-tank) player with Morn Afah.</p><p><em>This will be Akh Morn in all future iterations.</em></p></td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/ucob/05/golden_bahamut_07.jpg"></td>
+    <td>
+      <p><b>7.</b> Golden Bahamut then targets a random (non-tank) player with Morn Afah.</p>
+      <p><em>This will be Akh Morn in all future iterations.</em></p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/05/golden_bahamut_07.jpg">
+    </td>
   </tr>
 </table>
 
-The above loop repeats four more times before Golden Bahamut casts a final Morn Afah, targeting players one at a time (in order of descending hate) to serve as the hard enrage.
+The above loop repeats four more times before Golden Bahamut casts a final Morn
+Afah, targeting players one at a time (in order of descending hate) to serve as
+the hard enrage.

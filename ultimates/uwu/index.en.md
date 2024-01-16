@@ -49,11 +49,15 @@ The various phases can be broken down as follows:
 {% include_relative macros/uwu.en.txt %}
 ```
 
-## Japanese
+<details markdown=block>
+<summary>日本語</summary>
+
 
 ```
 {% include_relative macros/uwu.jp.txt %}
 ```
+
+</details>
 
 ---
 
@@ -75,7 +79,7 @@ The various phases can be broken down as follows:
 - `4`: Granite Gaol during Suppression.
 - `B`: Fireball stack during Suppression.
 
-![](images/markers.jpg)
+![]({{site.baseurl}}/assets/images/ultimates/uwu/markers.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 

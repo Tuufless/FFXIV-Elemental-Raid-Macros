@@ -38,23 +38,23 @@ Since the last two orbs in Ultimate Annihilation were taken solo by the MT, thes
 <table>
   <tr>
     <td width="50%"><p><b>1.</b> Ultima casts Aetheric Boom, which also knocks back.</p><ul><li><b>Tanks:</b> Stand SW of Ultima Weapon and Tank LB1.</li><li><b>Everyone else:</b> Stand SE of Ultima Weapon.</li></ul></td>
-    <td><img src="../images/primal_roulette/aetheric_boom_01.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/uwu/04d/aetheric_boom_01.jpg"></td>
   </tr>
   <tr>
     <td><p><b>2.</b> Four tethered pairs of orbs spawn at the intercardinal positions. The tethers will pull the orbs together and will wipe the party if they touch.</p></td>
-    <td><img src="../images/primal_roulette/aetheric_boom_02.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/uwu/04d/aetheric_boom_02.jpg"></td>
   </tr>
   <tr>
     <td><p><b>3.</b> Take the two southern pairs of orbs.</p><p><em>(You cannot invuln this damage.)</em></p></td>
-    <td><img src="../images/primal_roulette/aetheric_boom_03.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/uwu/04d/aetheric_boom_03.jpg"></td>
   </tr>
   <tr>
     <td><p><b>4.</b> Quickly heal up and take the two northern pairs of orbs before the orbs touch.</p></td>
-    <td><img src="../images/primal_roulette/aetheric_boom_04.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/uwu/04d/aetheric_boom_04.jpg"></td>
   </tr>
   <tr>
     <td><p><b>5.</b> Gather up north and prepare for the Primal roulette.</p></td>
-    <td><img src="../images/primal_roulette/aetheric_boom_05.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/uwu/04d/aetheric_boom_05.jpg"></td>
   </tr>
 </table>
 
@@ -97,15 +97,15 @@ While you can simply observe and react to whichever Primal appears, the order is
 <table>
   <tr>
     <td width="50%"><p><b>1.</b> Garuda readies a Wicked Wheel from the center of the arena.</p><p>Stand just outside the Wicked Wheel and prepare to enter.</p></td>
-    <td><img src="../images/primal_roulette/primal_roulette_garuda_01.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/uwu/04d/primal_roulette_garuda_01.jpg"></td>
   </tr>
   <tr>
     <td><p><b>2.</b> <em>Quickly</em> dodge into the Wicked Wheel AoE to avoid the follow-up Wicked Tornado.</p><p>One Vicious Aetheroplasm debuff will go off around this time.</p></td>
-    <td><img src="../images/primal_roulette/primal_roulette_garuda_02.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/uwu/04d/primal_roulette_garuda_02.jpg"></td>
   </tr>
   <tr>
     <td><p><b>3.</b> Garuda then jumps <em>(dodge Feather Rains!)</em><p>Return North and prepare for the next Primal.</p></p></td>
-    <td><img src="../images/primal_roulette/primal_roulette_garuda_03.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/uwu/04d/primal_roulette_garuda_03.jpg"></td>
   </tr>
 </table>
 
@@ -114,15 +114,15 @@ While you can simply observe and react to whichever Primal appears, the order is
 <table>
   <tr>
     <td width="50%"><p><b>1.</b> Woken Ifrit spawns in the middle of the arena, and targets random players for Violent Eruption.</p><p>Two Ifrit clones spawn at cardinal positions.</p></td>
-    <td><img src="../images/primal_roulette/primal_roulette_ifrit_01.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/uwu/04d/primal_roulette_ifrit_01.jpg"></td>
   </tr>
   <tr>
     <td><p><b>2.</b> <em>Quickly</em> run to the NW corner to dodge the Crimson Cyclones.</p><p><em>(Sprint is <b>highly recommended</b>.)</em></p><p>One Vicious Aetheroplasm debuff will also go off around this time.</p></td>
-    <td><img src="../images/primal_roulette/primal_roulette_ifrit_02.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/uwu/04d/primal_roulette_ifrit_02.jpg"></td>
   </tr>
   <tr>
     <td><p><b>3.</b> Ifrit then casts Hellfire before jumping.</p><p>Return North and prepare for the next Primal.</p></td>
-    <td><img src="../images/primal_roulette/primal_roulette_ifrit_03.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/uwu/04d/primal_roulette_ifrit_03.jpg"></td>
   </tr>
 </table>
 
@@ -131,19 +131,19 @@ While you can simply observe and react to whichever Primal appears, the order is
 <table>
   <tr>
     <td width="50%"><p><b>1.</b> Titan begins with three Weight of the Lands.</p></td>
-    <td><img src="../images/primal_roulette/primal_roulette_titan_01.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/uwu/04d/primal_roulette_titan_01.jpg"></td>
   </tr>
   <tr>
     <td><p><b>2.</b> Second set of Weight of the Land.</p><p>One Vicious Aetheroplasm debuff will go off around this time.</p></td>
-    <td><img src="../images/primal_roulette/primal_roulette_titan_02.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/uwu/04d/primal_roulette_titan_02.jpg"></td>
   </tr>
   <tr>
     <td><p><b>3.</b> Third set of Weight of the Land.</p></td>
-    <td><img src="../images/primal_roulette/primal_roulette_titan_03.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/uwu/04d/primal_roulette_titan_03.jpg"></td>
   </tr>
   <tr>
     <td><p><b>4.</b> Titan then casts Earthern Fury, before jumping.</p><p>Return North and prepare for the next Primal.</p></td>
-    <td><img src="../images/primal_roulette/primal_roulette_titan_04.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/uwu/04d/primal_roulette_titan_04.jpg"></td>
   </tr>
 </table>
 
