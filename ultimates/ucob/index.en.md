@@ -17,9 +17,15 @@ PF largely follows [Clees' UCoB guide](https://clees.me/guides/ucob/) with a few
 - Heavensfall Trio spread positions are different (both tanks always go towards Nael, both ranged always opposite Nael).
 <table>
   <tr>
-    <td><img src="images/03_bahamut/heavensfall_02a.jpg"></td>
-    <td><img src="images/03_bahamut/heavensfall_02b.jpg"></td>
-    <td><img src="images/03_bahamut/heavensfall_02c.jpg"></td>
+    <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/heavensfall_02a.jpg">
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/heavensfall_02b.jpg">
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/heavensfall_02c.jpg">
+    </td>
   </tr>
 </table>
 
@@ -66,7 +72,7 @@ PF largely follows [Clees' UCoB guide](https://clees.me/guides/ucob/) with a few
 **Golden Bahamut:**
 - `3`: Where tanks will stack for the first Akh Morn in Golden Bahamut.
 
-![](images/markers.jpg)
+![]({{site.baseurl}}/assets/images/ultimates/ucob/markers.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
