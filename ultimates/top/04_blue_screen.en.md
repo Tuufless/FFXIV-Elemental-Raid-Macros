@@ -54,7 +54,7 @@ while dodging the expanding donut AoEs from the earlier transition phase.
       <p><em>In this example, MT and H1 are targeted, so H1 and D2 will swap
       sides later.</em></p>
     </td>
-    <td><img src="../images/04_blue_screen/blue_screen_1_1.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/04/blue_screen_1_1.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -62,7 +62,7 @@ while dodging the expanding donut AoEs from the earlier transition phase.
       <p>Move to the south positions and stack in groups of 4, swapping if
       necessary.</p>
     </td>
-    <td><img src="../images/04_blue_screen/blue_screen_1_2.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/04/blue_screen_1_2.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -72,7 +72,7 @@ while dodging the expanding donut AoEs from the earlier transition phase.
         <b>Tip:</b> This is a good place to use Sprint, especially for tanks
       </div>
     </td>
-    <td><img src="../images/04_blue_screen/blue_screen_1_3.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/04/blue_screen_1_3.jpg"></td>
   </tr>
 </table>
 
@@ -91,7 +91,7 @@ AoE from the center.
       <p><em>In this example, each side has one stack marker, so no swaps will
       be needed.</em></p>
     </td>
-    <td><img src="../images/04_blue_screen/blue_screen_2_1.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/04/blue_screen_2_1.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -99,20 +99,20 @@ AoE from the center.
       the first set of Wave Cannons.</p>
       <p>Dodge <b>into</b> the ring AoE and gather south, swapping if necessary.</p>
     </td>
-    <td><img src="../images/04_blue_screen/blue_screen_2_2.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/04/blue_screen_2_2.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>6.</b> Dodge into the outer ring AoE when it resolves.</p>
     </td>
-    <td><img src="../images/04_blue_screen/blue_screen_2_3.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/04/blue_screen_2_3.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>7.</b> Wave Cannon stacks resolve.</p>
       <p>Return to your original positions.</p>
     </td>
-    <td><img src="../images/04_blue_screen/blue_screen_2_4.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/04/blue_screen_2_4.jpg"></td>
   </tr>
 </table>
 
@@ -127,27 +127,27 @@ AoE from the center.
       <p><em>In this example, D2 and D4 are targeted, so D1 and D2 will swap
       groups later.</em></p>
     </td>
-    <td><img src="../images/04_blue_screen/blue_screen_3_1.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/04/blue_screen_3_1.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>9.</b> First set of Wave Cannons go off.</p>
       <p>Gather south to stack in groups of 4, swapping if necessary.</p>
     </td>
-    <td><img src="../images/04_blue_screen/blue_screen_3_2.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/04/blue_screen_3_2.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>10.</b> Wave Cannon stacks resolve.</p>
       <p><b>Wait where you are</b> for the Wave Repeater to go off.</p>
     </td>
-    <td><img src="../images/04_blue_screen/blue_screen_3_3.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/04/blue_screen_3_3.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>11.</b> Dodge into the Wave Repeater's AoE.</p>
     </td>
-    <td><img src="../images/04_blue_screen/blue_screen_3_4.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/04/blue_screen_3_4.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -155,7 +155,7 @@ AoE from the center.
       <p>Omega must be brought down to <b>below 20% HP</b> to clear this DPS
       check.</p>
     </td>
-    <td><img src="../images/04_blue_screen/blue_screen_3_5.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/04/blue_screen_3_5.jpg"></td>
   </tr>
 </table>
 

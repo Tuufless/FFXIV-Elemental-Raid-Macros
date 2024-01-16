@@ -17,30 +17,84 @@ permalink: /ultimates/jp/
 
 ### 絶バハムート討滅戦
 
-[解説（英語）](ucob/README.md)
+- [解説（英語）](ucob/README.md)
+
+<details markdown=block>
+<summary>マクロ</summary>
+
+```
+{% include_relative ucob/macros/ucob.jp.txt %}
+```
+
+</details>
 
 ### 絶アルテマウェポン破壊作戦
 
-[解説（英語）](uwu/README.md)
+- [解説（英語）](uwu/README.md)
+
+<details markdown=block>
+<summary>マクロ</summary>
+
+```
+{% include_relative uwu/macros/uwu.jp.txt %}
+```
+
+</details>
 
 ## レベル80 絶
 
 ### 絶アレキサンダー討滅戦
 
 ![]({{site.baseurl}}/assets/images/ultimates/tea/tea_cheatsheet_jp.jpg)
+- [フルサイズ]({{site.baseurl}}/assets/images/ultimates/tea/tea_cheatsheet_jp.jpg)
+- [解説（英語）](tea/README.md)
 
-[解説（英語）](tea/README.md)
+<details markdown=block>
+<summary>マクロ</summary>
+
+```
+{% include_relative tea/macros/tea.jp.txt %}
+```
+
+</details>
 
 ## レベル90 絶
 
 ### 絶・竜詩戦争
 
 ![]({{site.baseurl}}/assets/images/ultimates/dsr/dsr_cheatsheet_jp.jpg)
+- [フルサイズ]({{site.baseurl}}/assets/images/ultimates/dsr/dsr_cheatsheet_jp.jpg)
+- [解説（英語）](dsr/README.md)
 
-[解説（英語）](dsr/README.md)
+<details markdown=block>
+<summary>マクロ (P1)</summary>
+
+```
+{% include_relative dsr/macros/dsr_1.jp.txt %}
+```
+
+</details>
+
+<details markdown=block>
+<summary>マクロ (P2-6)</summary>
+
+```
+{% include_relative dsr/macros/dsr_2.jp.txt %}
+```
+
+</details>
 
 ### 絶オメガ検証戦
 
 ![]({{site.baseurl}}/assets/images/ultimates/top/top_cheatsheet_jp.jpg)
+- [フルサイズ]({{site.baseurl}}/assets/images/ultimates/top/top_cheatsheet_jp.jpg)
+- [解説（英語）](top/README.md)
 
-[解説（英語）](top/README.md)
+<details markdown=block>
+<summary>マクロ</summary>
+
+```
+{% include_relative top/macros/top.jp.txt %}
+```
+
+</details>

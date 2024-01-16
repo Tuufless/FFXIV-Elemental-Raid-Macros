@@ -32,7 +32,7 @@ Run: Dynamis (Sigma Version) can be broken down into three parts:
       <p>This establishes where "North" will be for this first part of the
       mechanic.</p>
     </td>
-    <td><img src="../images/05_run_dynamis/run_dynamis_sigma_01.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/05b/run_dynamis_sigma_01.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -59,7 +59,7 @@ Run: Dynamis (Sigma Version) can be broken down into three parts:
         </li>
       </ul>
     </td>
-    <td><img src="../images/05_run_dynamis/run_dynamis_sigma_02.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/05b/run_dynamis_sigma_02.jpg"></td>
   </tr>
   <tr>
     <td><p><b>3.</b> Spread out based on your positions.</p>
@@ -82,7 +82,7 @@ Run: Dynamis (Sigma Version) can be broken down into three parts:
       <p>Spread apart as needed to satisfy Mid or Remote Glitch. <em>(Mid
       Glitch is shown in the example.)</em></p>
     </td>
-    <td><img src="../images/05_run_dynamis/run_dynamis_sigma_03.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/05b/run_dynamis_sigma_03.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -90,7 +90,7 @@ Run: Dynamis (Sigma Version) can be broken down into three parts:
       <p><b>Note which waymark you are standing besides for the next
       section.</b></p>
     </td>
-    <td><img src="../images/05_run_dynamis/run_dynamis_sigma_04.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/05b/run_dynamis_sigma_04.jpg"></td>
   </tr>
 </table>
 
@@ -119,10 +119,10 @@ standing at at the end of the previous section.
   </tr>
   <tr>
     <td width="50%">
-      <img src="../images/05_run_dynamis/run_dynamis_sigma_waymark_01b.jpg">
+      <img src="{{site.baseurl}}/assets/images/ultimates/top/05b/run_dynamis_sigma_waymark_01b.jpg">
     </td>
     <td>
-      <img src="../images/05_run_dynamis/run_dynamis_sigma_waymark_01a.jpg">
+      <img src="{{site.baseurl}}/assets/images/ultimates/top/05b/run_dynamis_sigma_waymark_01a.jpg">
     </td>
   </tr>
   <tr>
@@ -178,7 +178,7 @@ part where we resolve Hello, World.
         </li>
       </ul>
     </td>
-    <td><img src="../images/05_run_dynamis/run_dynamis_sigma_07.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/05b/run_dynamis_sigma_07.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -188,8 +188,8 @@ part where we resolve Hello, World.
       and stay outside <b>or</b> follow the Rear Power Unit's AoE.</p>
     </td>
     <td>
-      <img src="../images/05_run_dynamis/run_dynamis_sigma_08b.jpg">
-      <img src="../images/05_run_dynamis/run_dynamis_sigma_08a.jpg">
+      <img src="{{site.baseurl}}/assets/images/ultimates/top/05b/run_dynamis_sigma_08b.jpg">
+      <img src="{{site.baseurl}}/assets/images/ultimates/top/05b/run_dynamis_sigma_08a.jpg">
     </td>
   </tr>
   <tr>
@@ -198,7 +198,7 @@ part where we resolve Hello, World.
       Unit will fire its last laser in this orientation.</p>
       <p>Use this time to move into position to resolve Hello, World.</p>
     </td>
-    <td><img src="../images/05_run_dynamis/run_dynamis_sigma_09.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/05b/run_dynamis_sigma_09.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -217,7 +217,7 @@ part where we resolve Hello, World.
         <li>The other four players will have two stacks of Dynamis.</li>
       </ul>
     </td>
-    <td><img src="../images/05_run_dynamis/run_dynamis_sigma_10.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/05b/run_dynamis_sigma_10.jpg"></td>
   </tr>
 </table>
 

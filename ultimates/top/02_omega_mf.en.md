@@ -16,14 +16,14 @@ permalink: /ultimates/top/02_omega_mf/
       on the four closest players.</p>
       <p>Those players will only be able to attack that target.</p>
     </td>
-    <td><img src="../images/02_omega_mf/omega_mf_01.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/02/omega_mf_01.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>2.</b> Omega-M and Omega-F will each target their tank with <em>Solar
       Ray</em>, an AoE tankbuster.</p>
     </td>
-    <td><img src="../images/02_omega_mf/omega_mf_02.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/02/omega_mf_02.jpg"></td>
   </tr>
 </table>
 
@@ -45,7 +45,7 @@ major mechanic of this phase.
     <td width="50%">
       <p><b>1.</b> Line-up in your light parties from north-to-south.</p>
     </td>
-    <td><img src="../images/02_omega_mf/party_synergy_01.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/02/party_synergy_01.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -58,7 +58,7 @@ major mechanic of this phase.
       later.</b></p>
       <p>The symbols will disappear.</p>
     </td>
-    <td><img src="../images/02_omega_mf/party_synergy_02.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/02/party_synergy_02.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -68,7 +68,7 @@ major mechanic of this phase.
       <p><em>(You do not need to consider the Mid/Remote Glitch tethers at this
       point.)</em></p>
     </td>
-    <td><img src="../images/02_omega_mf/party_synergy_03.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/02/party_synergy_03.jpg"></td>
   </tr>
 </table>
 
@@ -79,21 +79,21 @@ major mechanic of this phase.
   <tr>
     <td width="50%">
       <p><b>M Sword, F Blade-legs:</b></p>
-      <img src="../images/02_omega_mf/party_synergy_03d.jpg">
+      <img src="{{site.baseurl}}/assets/images/ultimates/top/02/party_synergy_03d.jpg">
     </td>
     <td>
       <p><b>M Shield, F Blade-legs:</b></p>
-      <img src="../images/02_omega_mf/party_synergy_03a.jpg">
+      <img src="{{site.baseurl}}/assets/images/ultimates/top/02/party_synergy_03a.jpg">
     </td>
   </tr>
   <tr>
     <td>
       <p><b>M Sword, F Staff:</b></p>
-      <img src="../images/02_omega_mf/party_synergy_03c.jpg">
+      <img src="{{site.baseurl}}/assets/images/ultimates/top/02/party_synergy_03c.jpg">
     </td>
     <td>
       <p><b>M Shield, F Staff:</b></p>
-      <img src="../images/02_omega_mf/party_synergy_03b.jpg">
+      <img src="{{site.baseurl}}/assets/images/ultimates/top/02/party_synergy_03b.jpg">
     </td>
   </tr>
 </table>
@@ -111,8 +111,8 @@ major mechanic of this phase.
       all the intercardinal directions.</p>
     </td>
     <td>
-      <img src="../images/02_omega_mf/party_synergy_04a.jpg">
-      <img src="../images/02_omega_mf/party_synergy_04b.jpg">
+      <img src="{{site.baseurl}}/assets/images/ultimates/top/02/party_synergy_04a.jpg">
+      <img src="{{site.baseurl}}/assets/images/ultimates/top/02/party_synergy_04b.jpg">
     </td>
   </tr>
   <tr>
@@ -126,7 +126,7 @@ major mechanic of this phase.
       <p><em>(In this example, the left side × and □ players both have a stack
       marker. Since □ is further from the eye, the □ players swap sides.)</em></p>
     </td>
-    <td><img src="../images/02_omega_mf/party_synergy_05.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/02/party_synergy_05.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -142,8 +142,8 @@ major mechanic of this phase.
         </li>
       </ul></td>
     <td>
-      <img src="../images/02_omega_mf/party_synergy_06a.jpg">
-      <img src="../images/02_omega_mf/party_synergy_06b.jpg">
+      <img src="{{site.baseurl}}/assets/images/ultimates/top/02/party_synergy_06a.jpg">
+      <img src="{{site.baseurl}}/assets/images/ultimates/top/02/party_synergy_06b.jpg">
     </td>
   </tr>
 </table>
@@ -181,7 +181,7 @@ mechanics at the party to resolve.
       <p>Two clones at opposite intercardinal positions will each tether a
       random (non-tank) player.</p>
     </td>
-    <td><img src="../images/02_omega_mf/limitless_synergy_01.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/02/limitless_synergy_01.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -191,14 +191,14 @@ mechanics at the party to resolve.
         <li><b>ST:</b> Take the south tether.</li>
       </ul>
     </td>
-    <td><img src="../images/02_omega_mf/limitless_synergy_02.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/02/limitless_synergy_02.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>9.</b> When the Sagittarius Arrow's telegraph appears, dodge it, by
       moving into the boss's target circle.</p>
     </td>
-    <td><img src="../images/02_omega_mf/limitless_synergy_03.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/02/limitless_synergy_03.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -209,7 +209,7 @@ mechanics at the party to resolve.
         <li><b>Everyone else:</b> Stand in the middle of the boss's hitbox.</li>
       </ul>
     </td>
-    <td><img src="../images/02_omega_mf/limitless_synergy_04.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/02/limitless_synergy_04.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -226,7 +226,7 @@ mechanics at the party to resolve.
       placing three Flare markers on three random players.</p>
       <p><b>Ignore the Flares, and stack together in the middle</b>.</p>
     </td>
-    <td><img src="../images/02_omega_mf/limitless_synergy_05.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/02/limitless_synergy_05.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -236,7 +236,7 @@ mechanics at the party to resolve.
       <p>This will need to be mitigated with at least 30% mitigations and
       shields.</p>
     </td>
-    <td><img src="../images/02_omega_mf/limitless_synergy_06.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/02/limitless_synergy_06.jpg"></td>
   </tr>
 </table>
 

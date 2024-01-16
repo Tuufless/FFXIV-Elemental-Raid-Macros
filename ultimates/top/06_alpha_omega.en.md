@@ -76,7 +76,7 @@ stack of Brilliant Dynamis.
 
 <table>
   <tr>
-    <td><img src="../images/06_alpha_omega/brilliant_dynamis.png"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/brilliant_dynamis.png"></td>
     <td>
       <p><b>Brilliant Dynamis</b></p>
       <p><em>Burning with dynamis inspired by Omega's passion and exceeding own
@@ -90,7 +90,7 @@ stack of Brilliant Dynamis.
     </td>
   </tr>
   <tr>
-    <td><img src="../images/06_alpha_omega/spark_of_dynamis.png"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/spark_of_dynamis.png"></td>
     <td>
       <p><b>Spark of Dynamis</b></p>
       <p><em>Burning with dynamis inspired by Omega's passion.</em></p>
@@ -120,7 +120,7 @@ Before each mechanic combo starts, Alpha Omega will autoattack twice.
       <p>Ensure the ST is the furthest player taking the autoattacks by having
       them stand outside the targeting circle, while the party stays inside.</p>
     </td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_aa.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_aa.jpg"></td>
   </tr>
 </table>
 
@@ -150,15 +150,15 @@ rest of the party).
   <th colspan="2" style="text-align:center">Outside first</th>
   <tr>
     <td width="20%"><p><b>1.</b> Inside telegraphs appear.</p></td>
-    <td width="30%"><img src="../images/06_alpha_omega/alpha_omega_1_01b.jpg"></td>
+    <td width="30%"><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_1_01b.jpg"></td>
     <td width="20%"><p><b>1.</b> Outside telegraphs appear.</p></td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_1_01a.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_1_01a.jpg"></td>
   </tr>
   <tr>
     <td><p><b>2.</b> Outside telegraphs appear.</p></td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_1_02b.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_1_02b.jpg"></td>
     <td><p><b>2.</b> Inside telegraphs appear.</p></td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_1_02a.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_1_02a.jpg"></td>
   </tr>
   <tr>
     <td><p><b>3.</b> Inside AoEs resolve.</p>
@@ -171,7 +171,7 @@ rest of the party).
         <li style="color:grey">In</li>
       </ol>
     </td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_1_03b.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_1_03b.jpg"></td>
     <td><p><b>3.</b> Outside AoEs resolve.</p>
       <ol>
         <li><b>Out</b></li>
@@ -181,7 +181,7 @@ rest of the party).
         <li style="color:grey">In</li>
       </ol>
     </td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_1_03a.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_1_03a.jpg"></td>
   </tr>
   <tr>
     <td><p><b>4.</b> Dodge AoEs.</p>
@@ -194,7 +194,7 @@ rest of the party).
         <li style="color:grey">In</li>
       </ol>
     </td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_1_04b.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_1_04b.jpg"></td>
     <td><p><b>4.</b> Dodge AoEs.</p>
       <ol>
         <li style="color:grey">Out</li>
@@ -204,7 +204,7 @@ rest of the party).
         <li style="color:grey">In</li>
       </ol>
     </td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_1_04a.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_1_04a.jpg"></td>
   </tr>
   <tr>
     <td><p><b>5.</b> Dodge AoEs.</p>
@@ -217,7 +217,7 @@ rest of the party).
         <li style="color:grey">In</li>
       </ol>
     </td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_1_05b.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_1_05b.jpg"></td>
     <td><p><b>5.</b> Dodge AoEs.</p>
       <ol>
         <li style="color:grey">Out</li>
@@ -227,7 +227,7 @@ rest of the party).
         <li style="color:grey">In</li>
       </ol>
     </td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_1_05a.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_1_05a.jpg"></td>
   </tr>
   <tr>
     <td><p><b>6.</b> Dodge AoEs.</p>
@@ -240,7 +240,7 @@ rest of the party).
         <li style="color:grey">In</li>
       </ol>
     </td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_1_06b.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_1_06b.jpg"></td>
     <td><p><b>6.</b> Dodge AoEs.</p>
       <ol>
         <li style="color:grey">Out</li>
@@ -250,7 +250,7 @@ rest of the party).
         <li style="color:grey">In</li>
       </ol>
     </td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_1_06a.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_1_06a.jpg"></td>
   </tr>
   <tr>
     <td><p><b>7.</b> Dodge AoEs.</p><p>Alpha Omega will start casting Cosmo Dive.</p>
@@ -263,7 +263,7 @@ rest of the party).
         <li style="color:grey">In</li>
       </ol>
     </td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_1_07b.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_1_07b.jpg"></td>
     <td><p><b>7.</b> Dodge AoEs.</p><p>Alpha Omega will start casting Cosmo Dive.</p>
       <ol>
         <li style="color:grey">Out</li>
@@ -273,7 +273,7 @@ rest of the party).
         <li><b>In</b></li>
       </ol>
     </td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_1_07a.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_1_07a.jpg"></td>
   </tr>
   <tr>
     <td><p><b>8.</b> Dodge AoEs.</p>
@@ -286,7 +286,7 @@ rest of the party).
         <li><b>In</b></li>
       </ol>
     </td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_1_08b.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_1_08b.jpg"></td>
     <td><p><b>8.</b> Dodge AoEs.</p>
       <ol>
         <li style="color:grey">Out</li>
@@ -296,23 +296,23 @@ rest of the party).
         <li><b>In</b></li>
       </ol>
     </td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_1_08a.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_1_08a.jpg"></td>
   </tr>
   <tr>
     <td><p><b>9.</b> Take up Cosmo Dive positions.</p>
     </td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_1_09b.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_1_09b.jpg"></td>
     <td><p><b>9.</b> Last AoEs.</p><p>Take up Cosmo Dive positions.</p>
     </td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_1_09a.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_1_09a.jpg"></td>
   </tr>
   <tr>
     <td><p><b>10.</b> Last AoEs.</p><p>Cosmo Dive resolves shortly after.</p>
     </td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_1_10b.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_1_10b.jpg"></td>
     <td><p><b>10.</b> Cosmo Dive resolves.</p>
     </td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_1_10a.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_1_10a.jpg"></td>
   </tr>
 </table>
 
@@ -349,7 +349,7 @@ which should be the tanks.
       <p>Stack in the middle to bait AoEs, before moving out, 1.5 markers
       before the first Exaflare telegraph.</p>
     </td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_2_1.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_2_1.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -359,25 +359,25 @@ which should be the tanks.
       <p>Turn and continue baiting AoEs in the same direction that the
       Exaflares spawned.</p>
     </td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_2_2.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_2_2.jpg"></td>
   </tr>
   <tr>
     <td><p><b>3.</b> There will be six baited AoEs in total.</p></td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_2_3.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_2_3.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>4.</b> Spread out as Alpha Omega casts Wave Cannon, targeting
       four random players.</p>
     </td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_2_4.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_2_4.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>5.</b> Alpha Omega's second set of waves hit the other four
       players.</p>
     </td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_2_5.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_2_5.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -389,7 +389,7 @@ which should be the tanks.
         <li><b>ST:</b> Invuln</li>
       </ul>
     </td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_2_6.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_2_6.jpg"></td>
   </tr>
 </table>
 
@@ -412,15 +412,15 @@ which should be the tanks.
   <th colspan="2" style="text-align:center">Outside first</th>
   <tr>
     <td width="20%"><p><b>1.</b> Inside telegraphs appear.</p></td>
-    <td width="30%"><img src="../images/06_alpha_omega/alpha_omega_3_01b.jpg"></td>
+    <td width="30%"><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_3_01b.jpg"></td>
     <td width="20%"><p><b>1.</b> Outside telegraphs appear.</p></td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_3_01a.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_3_01a.jpg"></td>
   </tr>
   <tr>
     <td><p><b>2.</b> Outside telegraphs appear.</p></td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_3_02b.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_3_02b.jpg"></td>
     <td><p><b>2.</b> Inside telegraphs appear.</p></td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_3_02a.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_3_02a.jpg"></td>
   </tr>
   <tr>
     <td><p><b>3.</b> Inside AoEs resolve.</p>
@@ -433,7 +433,7 @@ which should be the tanks.
         <li style="color:grey">In</li>
       </ol>
     </td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_3_03b.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_3_03b.jpg"></td>
     <td><p><b>3.</b> Outside AoEs resolve.</p>
       <ol>
         <li><b>Out</b></li>
@@ -443,7 +443,7 @@ which should be the tanks.
         <li style="color:grey">In</li>
       </ol>
     </td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_3_03a.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_3_03a.jpg"></td>
   </tr>
   <tr>
     <td><p><b>4.</b> Dodge AoEs.</p>
@@ -456,7 +456,7 @@ which should be the tanks.
         <li style="color:grey">In</li>
       </ol>
     </td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_3_04b.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_3_04b.jpg"></td>
     <td><p><b>4.</b> Dodge AoEs.</p>
       <ol>
         <li style="color:grey">Out</li>
@@ -466,7 +466,7 @@ which should be the tanks.
         <li style="color:grey">In</li>
       </ol>
     </td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_3_04a.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_3_04a.jpg"></td>
   </tr>
   <tr>
     <td><p><b>5.</b> Dodge AoEs.</p>
@@ -479,7 +479,7 @@ which should be the tanks.
         <li style="color:grey">In</li>
       </ol>
     </td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_3_05b.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_3_05b.jpg"></td>
     <td><p><b>5.</b> Dodge AoEs.</p>
       <ol>
         <li style="color:grey">Out</li>
@@ -489,7 +489,7 @@ which should be the tanks.
         <li style="color:grey">In</li>
       </ol>
     </td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_3_05a.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_3_05a.jpg"></td>
   </tr>
   <tr>
     <td><p><b>6.</b> Dodge AoEs.</p><p>Alpha Omega starts casting Wave Cannon.</p>
@@ -502,7 +502,7 @@ which should be the tanks.
         <li style="color:grey">In</li>
       </ol>
     </td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_3_06b.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_3_06b.jpg"></td>
     <td><p><b>6.</b> Dodge AoEs.</p><p>Alpha Omega starts casting Wave Cannon.</p>
       <ol>
         <li style="color:grey">Out</li>
@@ -512,7 +512,7 @@ which should be the tanks.
         <li style="color:grey">In</li>
       </ol>
     </td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_3_06a.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_3_06a.jpg"></td>
   </tr>
   <tr>
     <td><p><b>7.</b> Dodge AoEs.</p>
@@ -525,7 +525,7 @@ which should be the tanks.
         <li style="color:grey">In</li>
       </ol>
     </td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_3_07b.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_3_07b.jpg"></td>
     <td><p><b>7.</b> Dodge AoEs.</p>
       <ol>
         <li style="color:grey">Out</li>
@@ -535,7 +535,7 @@ which should be the tanks.
         <li><b>In</b></li>
       </ol>
     </td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_3_07a.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_3_07a.jpg"></td>
   </tr>
   <tr>
     <td><p><b>8.</b> Dodge AoEs.</p><p>First set of Wave Cannons resolve.</p>
@@ -548,7 +548,7 @@ which should be the tanks.
         <li><b>In</b></li>
       </ol>
     </td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_3_08b.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_3_08b.jpg"></td>
     <td><p><b>8.</b> Dodge AoEs.</p><p>First set of Wave Cannons resolve.</p>
       <ol>
         <li style="color:grey">Out</li>
@@ -558,7 +558,7 @@ which should be the tanks.
         <li><b>In</b></li>
       </ol>
     </td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_3_08a.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_3_08a.jpg"></td>
   </tr>
   <tr>
     <td><p><b>9.</b> Dodge AoEs.</p><p>Second set of Wave Cannons resolve.</p>
@@ -571,7 +571,7 @@ which should be the tanks.
         <li><b>In</b></li>
       </ol>
     </td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_3_09b.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_3_09b.jpg"></td>
     <td><p><b>9.</b> Last AoEs.</p><p>Second set of Wave Cannons resolve.</p>
       <ol>
         <li style="color:grey">Out</li>
@@ -581,16 +581,16 @@ which should be the tanks.
         <li style="color:grey">In</li>
       </ol>
     </td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_3_09a.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_3_09a.jpg"></td>
   </tr>
   <tr>
     <td><p><b>10.</b> Last AoEs.</p><p>Move to prepare for the last shared Wave
     Cannon.</p>
     </td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_3_10b.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_3_10b.jpg"></td>
     <td><p><b>10.</b> Move to prepare for the last shared Wave Cannon.</p>
     </td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_3_10a.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_3_10a.jpg"></td>
   </tr>
   <tr>
     <td colspan="2">
@@ -600,7 +600,7 @@ which should be the tanks.
         <li><b>ST:</b> Heavy mitigations</li>
       </ul>
     </td>
-    <td colspan="2"><img src="../images/06_alpha_omega/alpha_omega_3_11.jpg"></td>
+    <td colspan="2"><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_3_11.jpg"></td>
   </tr>
 </table>
 
@@ -627,7 +627,7 @@ left, and the ST to the right.
       <p>Stack in the middle to bait AoEs, before moving out, 1.5 markers
       before the first Exaflare telegraph.</p>
     </td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_4_1.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_4_1.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -637,13 +637,13 @@ left, and the ST to the right.
       <p>Turn and continue baiting AoEs in the same direction that the
       Exaflares spawned.</p>
     </td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_4_2.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_4_2.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>3.</b> There will be six baited AoEs in total.</p>
     </td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_4_3.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_4_3.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -655,7 +655,7 @@ left, and the ST to the right.
         <li><b>ST:</b> Go forward and to the right.</li>
       </ul>
     </td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_4_4.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_4_4.jpg"></td>
   </tr>
 </table>
 
@@ -736,7 +736,7 @@ this fight is known for.
     <td width="50%">
       <p><b>1.</b> Stack in the center of the arena to bait AoEs.</p>
     </td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_5_1.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_5_1.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -744,7 +744,7 @@ this fight is known for.
       waymarked positions, and Caster LB3 targeting the center after
       dodging the telegraphed AoE.</p>
     </td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_5_2.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_5_2.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -757,28 +757,28 @@ this fight is known for.
       <p>Four random players get an untelegraphed AoE on them. Healers can move
       back in closer to the center to heal the party.</p>
     </td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_5_3.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_5_3.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>4.</b> The four players that weren't hit by the untelegraphed AoEs
       now get hit.</p>
     </td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_5_4.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_5_4.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>5.</b> After the Caster LB3 resolves, the party will take a second
       set of Cosmo Meteor AoEs, targeting players four at a time.</p>
     </td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_5_5.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_5_5.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>6.</b> Like the previous set of Cosmo Meteor AoEs, the four players
       that weren't hit before now get hit.</p>
     </td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_5_6.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_5_6.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -790,7 +790,7 @@ this fight is known for.
       move</b>, and the party will need to adjust around D3 depending on
       whether D3 has a Flare marker.</p>
     </td>
-    <td><img src="../images/06_alpha_omega/alpha_omega_5_7.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_5_7.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -805,8 +805,8 @@ this fight is known for.
       </ul>
     </td>
     <td>
-      <img src="../images/06_alpha_omega/alpha_omega_5_8a.jpg">
-      <img src="../images/06_alpha_omega/alpha_omega_5_8b.jpg">
+      <img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_5_8a.jpg">
+      <img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_5_8b.jpg">
     </td>
   </tr>
 </table>
@@ -821,7 +821,7 @@ members of the party, which must be dispelled with a Healer LB3.
 
 <table>
   <tr>
-    <td><img src="../images/06_alpha_omega/magic_number.png"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/magic_number.png"></td>
     <td>
       <p><em>Affected by a factor that Omega previously considered meaningless.
       This effect can be dispelled via healer limit break.</em></p>
@@ -1029,7 +1029,7 @@ not to use their potions at certain buff windows.
 /statusoff "Land Waker"
 /statusoff "Last Bastion"</pre>
     </td>
-    <td><img src="../images/06_alpha_omega/drk_living_shadow.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/drk_living_shadow.jpg"></td>
   </tr>
 </table>
 </details>

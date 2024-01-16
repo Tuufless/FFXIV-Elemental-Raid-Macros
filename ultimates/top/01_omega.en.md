@@ -41,7 +41,7 @@ will need healing to survive their towers).
         <li><b>CW from NW:</b> H1 MT ST D1 D2 D3 D4 H2</li>
       </ul>
     </td>
-    <td><img src="../images/01_omega/program_loop_01.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/01/program_loop_01.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -51,7 +51,7 @@ will need healing to survive their towers).
         <li><b>Everyone else:</b> Stack together to make the tethers easy to get.</li>
       </ul>
     </td>
-    <td><img src="../images/01_omega/program_loop_02.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/01/program_loop_02.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -61,7 +61,7 @@ will need healing to survive their towers).
         <li><b>3s:</b> Take your tethers.</li>
       </ul>
     </td>
-    <td><img src="../images/01_omega/program_loop_03.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/01/program_loop_03.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -71,7 +71,7 @@ will need healing to survive their towers).
         <li><b>4s:</b> Take your tethers.</li>
       </ul>
     </td>
-    <td><img src="../images/01_omega/program_loop_04.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/01/program_loop_04.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -84,7 +84,7 @@ will need healing to survive their towers).
       previous set of towers resolve. They will need to be healed up to take
       their towers.</p>
     </td>
-    <td><img src="../images/01_omega/program_loop_05.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/01/program_loop_05.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -97,7 +97,7 @@ will need healing to survive their towers).
       previous set of towers resolve. They will need to be healed up to take
       their towers.</p>
     </td>
-    <td><img src="../images/01_omega/program_loop_06.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/01/program_loop_06.jpg"></td>
   </tr>
 </table>
 
@@ -118,7 +118,7 @@ the back, and the missile in front.
       <p>The rest of the party can stay near the center of the arena, ready to
       adjust if needed.</p>
     </td>
-    <td><img src="../images/01_omega/pantokrator_01.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/01/pantokrator_01.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -135,7 +135,7 @@ the back, and the missile in front.
         <li><b>NW:</b> H1 MT ST D1 D2 D3 D4 H2 <b>:SE</b></li>
       </ul>
     </td>
-    <td><img src="../images/01_omega/pantokrator_03.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/01/pantokrator_03.jpg"></td>
   </tr>
 </table>
 
@@ -146,10 +146,10 @@ These will be your starting sectors.
 
 <table>
   <tr>
-    <td><img src="../images/01_omega/pantokrator_02a.jpg"></td>
-    <td><img src="../images/01_omega/pantokrator_02b.jpg"></td>
-    <td><img src="../images/01_omega/pantokrator_02c.jpg"></td>
-    <td><img src="../images/01_omega/pantokrator_02d.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/01/pantokrator_02a.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/01/pantokrator_02b.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/01/pantokrator_02c.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/01/pantokrator_02d.jpg"></td>
   </tr>
 </table>
 
@@ -172,12 +172,12 @@ These will be your starting sectors.
         beam + missile resolves.</li>
       </ol>
     </td>
-    <td><img src="../images/01_omega/pantokrator_movement.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/01/pantokrator_movement.jpg"></td>
   </tr>
 </table>
 
 Put together, it will look something like this:
-<img src="../images/01_omega/pantokrator.gif">
+<img src="{{site.baseurl}}/assets/images/ultimates/top/01/pantokrator.gif">
 *(Credit: Aqua Glacies)*
 
 ### Condensed Waves and Guided Missiles
@@ -192,7 +192,7 @@ Put together, it will look something like this:
         <li><b>1s:</b> Stay near the center of the arena.</li>
       </ul>
     </td>
-    <td><img src="../images/01_omega/pantokrator_03.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/01/pantokrator_03.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -202,7 +202,7 @@ Put together, it will look something like this:
       <p>The other players adjust in the other direction so they stand just in
       front of the Flamethrower telegraph.</p>
     </td>
-    <td><img src="../images/01_omega/pantokrator_04.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/01/pantokrator_04.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -212,7 +212,7 @@ Put together, it will look something like this:
         <li><b>1s:</b> Bait your AoE, and dodge to the side.</li>
       </ul>
     </td>
-    <td><img src="../images/01_omega/pantokrator_05.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/01/pantokrator_05.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -224,7 +224,7 @@ Put together, it will look something like this:
         back.</li>
       </ul>
     </td>
-    <td><img src="../images/01_omega/pantokrator_06.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/01/pantokrator_06.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -235,7 +235,7 @@ Put together, it will look something like this:
         from the group.</li>
       </ul>
     </td>
-    <td><img src="../images/01_omega/pantokrator_07.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/01/pantokrator_07.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -244,7 +244,7 @@ Put together, it will look something like this:
         <li><b>2s:</b> Move to the front of the sector.</li>
       </ul>
     </td>
-    <td><img src="../images/01_omega/pantokrator_08.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/01/pantokrator_08.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -255,7 +255,7 @@ Put together, it will look something like this:
         party.</li>
       </ul>
     </td>
-    <td><img src="../images/01_omega/pantokrator_09.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/01/pantokrator_09.jpg"></td>
   </tr>
 </table>
 
@@ -280,21 +280,21 @@ Wave Cannon Kyrios.
       <p>Three random (non-tank) players will be selected for the first set of
       Wave Cannons.</p>
     </td>
-    <td><img src="../images/01_omega/wave_cannons_01.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/01/wave_cannons_01.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>17.</b> First set of Wave Cannons resolve.</p>
       <p>The other three players get marked for the second set of Wave Cannons.</p>
     </td>
-    <td><img src="../images/01_omega/wave_cannons_02.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/01/wave_cannons_02.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>17.</b> Second set of Wave Cannons resolve.</p>
       <p>After this, Omega casts Atomic Ray, serving as the hard enrage.</p>
     </td>
-    <td><img src="../images/01_omega/wave_cannons_03.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/01/wave_cannons_03.jpg"></td>
   </tr>
 </table>
 
@@ -323,7 +323,7 @@ Wave Cannon Kyrios.
       you guarantee that Omega's Flamethrower will <em>never</em> end up in
       this scenario, removing said ambiguity altogether.</p>
     </td>
-    <td><img src="../images/01_omega/pantokrator_faq.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/01/pantokrator_faq.jpg"></td>
   </tr>
 </table>
 </details>
@@ -387,8 +387,8 @@ Wave Cannon Kyrios.
       spot.</p>
       <p>Haru Glory's group also swapped to the slower path later on.</p>
     </td>
-    <td><img src="../images/01_omega/pantokrator_movement.jpg"></td>
-    <td><img src="../images/01_omega/pantokrator_movement_fast.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/01/pantokrator_movement.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/01/pantokrator_movement_fast.jpg"></td>
   </tr>
 </table>
 </details>

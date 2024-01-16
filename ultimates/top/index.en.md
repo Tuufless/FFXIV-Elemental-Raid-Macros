@@ -74,7 +74,7 @@ Here are some clear PoVs that I've been collecting.
 
 ## Markers
 
-![](images/markers.jpg)
+![]({{site.baseurl}}/assets/images/ultimates/top/markers.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 

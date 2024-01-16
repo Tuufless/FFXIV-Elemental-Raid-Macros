@@ -29,4 +29,4 @@ As with all third-party tools, *use at your own risk.*
 ## Level 90 Ultimates
 
 - **DSR** - [Dragonsong's Reprise (Ultimate)](dsr/index.en.md) - *Automarkers used*
-- **TOP** - [The Omega Protocol (Ultimate)](top/README.md) - *Automarkers used*
+- **TOP** - [The Omega Protocol (Ultimate)](top/index.en.md) - *Automarkers used*

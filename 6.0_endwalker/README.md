@@ -59,4 +59,4 @@ The item level cap for Pandæmonium: Anabaseios is **iLvl 665**.
 ## Ultimate
 
 - **DSR** - [Dragonsong's Reprise (Ultimate)](../ultimates/dsr/index.en.md)
-- **TOP** - [The Omega Protocol (Ultimate)](../ultimates/top/README.md)
+- **TOP** - [The Omega Protocol (Ultimate)](../ultimates/top/index.en.md)
