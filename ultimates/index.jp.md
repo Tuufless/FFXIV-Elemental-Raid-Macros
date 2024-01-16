@@ -13,9 +13,23 @@ permalink: /ultimates/jp/
 
 日本語が母国語じゃないし、記事をすべて日本語に詳しくできないと思いますが、作ったカンペを日本語にしておきます。添削してくれる方がいったら感謝します！
 
-## レベル70 絶
+### レベル70 絶
 
-### 絶バハムート討滅戦
+- [絶バハムート討滅戦](#絶バハムート討滅戦)
+- [絶アルテマウェポン破壊作戦](#絶アルテマウェポン破壊作戦)
+
+### レベル80 絶
+
+- [絶アレキサンダー討滅戦](#絶アレキサンダー討滅戦)
+
+### レベル90 絶
+
+- [絶・竜詩戦争](#絶・竜詩戦争)
+- [絶オメガ検証戦](#絶オメガ検証戦)
+
+---
+
+## 絶バハムート討滅戦
 
 - [解説（英語）](ucob/index.en.md)
 
@@ -28,7 +42,9 @@ permalink: /ultimates/jp/
 
 </details>
 
-### 絶アルテマウェポン破壊作戦
+---
+
+## 絶アルテマウェポン破壊作戦
 
 - [解説（英語）](uwu/index.en.md)
 
@@ -41,9 +57,9 @@ permalink: /ultimates/jp/
 
 </details>
 
-## レベル80 絶
+---
 
-### 絶アレキサンダー討滅戦
+## 絶アレキサンダー討滅戦
 
 ![]({{site.baseurl}}/assets/images/ultimates/tea/tea_cheatsheet_jp.jpg)
 - [フルサイズ]({{site.baseurl}}/assets/images/ultimates/tea/tea_cheatsheet_jp.jpg)
@@ -58,9 +74,9 @@ permalink: /ultimates/jp/
 
 </details>
 
-## レベル90 絶
+---
 
-### 絶・竜詩戦争
+## 絶・竜詩戦争
 
 ![]({{site.baseurl}}/assets/images/ultimates/dsr/dsr_cheatsheet_jp.jpg)
 - [フルサイズ]({{site.baseurl}}/assets/images/ultimates/dsr/dsr_cheatsheet_jp.jpg)
@@ -84,7 +100,9 @@ permalink: /ultimates/jp/
 
 </details>
 
-### 絶オメガ検証戦
+---
+
+## 絶オメガ検証戦
 
 ![]({{site.baseurl}}/assets/images/ultimates/top/top_cheatsheet_jp.jpg)
 - [フルサイズ]({{site.baseurl}}/assets/images/ultimates/top/top_cheatsheet_jp.jpg)
