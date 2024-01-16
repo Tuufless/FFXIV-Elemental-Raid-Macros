@@ -107,4 +107,4 @@ Tanks will also need to plan out their cooldowns for the Akh Morns.
   </tr>
 </table>
 
-The above loop repeats four more times before Goldan Bahamut casts a final Morn Afah, targeting players one at a time (in order of descending hate) to serve as the hard enrage.
+The above loop repeats four more times before Golden Bahamut casts a final Morn Afah, targeting players one at a time (in order of descending hate) to serve as the hard enrage.
