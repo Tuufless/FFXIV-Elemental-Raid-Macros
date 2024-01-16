@@ -88,7 +88,7 @@ Here are some clear PoVs that I've been collecting.
 - `B`: Dark Beacon (Forced March, Fate Calibration Beta)
 - `1234`: Exatrine
 
-![](images/markers.jpg)
+![]({{site.baseurl}}/assets/images/ultimates/tea/markers.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 

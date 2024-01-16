@@ -24,7 +24,7 @@ As with all third-party tools, *use at your own risk.*
 
 ## Level 80 Ultimates
 
-- **TEA** - [The Epic of Alexander (Ultimate)](tea/README.md)
+- **TEA** - [The Epic of Alexander (Ultimate)](tea/index.en.md)
 
 ## Level 90 Ultimates
 

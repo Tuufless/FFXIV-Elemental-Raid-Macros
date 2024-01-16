@@ -31,19 +31,19 @@ Perfect Alex will open the fight with "The Final Word", which splits the party i
 <summary><b>[Click to Expand] Light/Dark breakdown</b></summary>
 <table>
   <tr>
-    <td><img src="../images/perfect_alex/debuffs/contact_regulation.png"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/tea/04/debuffs/contact_regulation.png"></td>
     <td><p><b>Final Word: Contact Regulation</b></p><p>More commonly referred to as the <b>"Light Beacon"</b>.</p><p>If the Light Beacon dies, <em>all</em> Light players are killed.</p></td>
   </tr>
   <tr>
-    <td><img src="../images/perfect_alex/debuffs/contact_prohibition.png"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/tea/04/debuffs/contact_prohibition.png"></td>
     <td><p><b>Final Word: Contact Prohibition</b></p><p>More commonly referred to as just <b>"Light"</b>.</p><p>Light players will move <b>towards</b> the Light Beacon. They will be killed if they touch the Light Beacon.</p></td>
   </tr>
   <tr>
-    <td><img src="../images/perfect_alex/debuffs/escape_detection.png"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/tea/04/debuffs/escape_detection.png"></td>
     <td><p><b>Final Word: Escape Detection</b></p><p>More commonly referred to as the <b>"Dark Beacon"</b>.</p><p>If the Dark Beacon dies, <em>all</em> Dark players are killed.</p></td>
   </tr>
   <tr>
-    <td><img src="../images/perfect_alex/debuffs/escape_prohibition.png"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/tea/04/debuffs/escape_prohibition.png"></td>
     <td><p><b>Final Word: Escape Prohibition</b></p><p>More commonly referred to as just <b>"Dark"</b>.</p><p>Dark players will move <b>away</b> from the Dark Beacon. They will be killed if they move too far from the Dark Beacon, or if they get marched into a wall.</p></td>
   </tr>
 </table>
@@ -57,7 +57,7 @@ While the Forced March timers tick down, Perfect Alexander will then cast *eithe
 <table>
   <tr>
     <td width="50%"><b>Forced March:</b><ul><li><b>Light Beacon:</b> West</li><li><b>Dark Beacon:</b> East</li><li><b>Everyone else:</b> Just west of the Dark Beacon</li></ul></td>
-	<td><img src="../images/perfect_alex/forced_march_01.jpg"></td>
+	<td><img src="{{site.baseurl}}/assets/images/ultimates/tea/04/forced_march_01.jpg"></td>
   </tr>
 </table>
 
@@ -75,7 +75,7 @@ Then, Perfect Alexander will then do two simple stack vs. spread mechanics in a 
 <table>
   <tr>
     <td width="50%"><p>Two <b>random</b> players will be targeted with a stack marker.</p><p><b>Stacks:</b><ul><li><b>West:</b> H1 > D3 > D1 > MT</li><li><b>East:</b> H2 > D4 > D2 > ST</li></ul><em>(N.B: <b>Not</b> Light vs. Dark stacks.)</em></p><p>If a group has two stack markers, only <em>one</em> moves to the other group, and resolve the groups 5-3.</p></td>
-	<td><img src="../images/perfect_alex/forced_march_02.jpg"></td>
+	<td><img src="{{site.baseurl}}/assets/images/ultimates/tea/04/forced_march_02.jpg"></td>
   </tr>
 </table>
 
@@ -111,7 +111,7 @@ All players will need to identify the debuffs based on their visual effects when
       <p><b>All</b> players in the party must keep still.</p>
       <p><ul><li>Autoattacks count as movement. Tanks and melee should either sheathe their weapons, or untarget the boss to be safe.</li><li>If a player is <b>in the middle</b> of a channeled ability like Flamethrower, Meditate or Improvisation, it <b>does not</b> count as movement.</li></ul></p>
       <p>Three players will get this.</p></td>
-    <td><img src="../images/perfect_alex/fate_calibration_alpha/ordained_stillness.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/tea/04/fate_calibration_alpha/ordained_stillness.jpg"></td>
   </tr>
   <tr>
     <td><p><b>Ordained Motion</b></p>
@@ -127,28 +127,28 @@ All players will need to identify the debuffs based on their visual effects when
       </ul>
     </p>
     <p>Three players will get this.</p><p>You can either wiggle your character around, <em>or</em> continually jump up and down to trigger movement.</p><div style="background-color: #200 ; padding: 10px; border: 1px solid;"><b>Do not</b> wiggle around <b>and</b> jump, <em>especially</em> when near the edge of the arena.</div></td>
-    <td><img src="../images/perfect_alex/fate_calibration_alpha/ordained_motion.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/tea/04/fate_calibration_alpha/ordained_motion.jpg"></td>
   </tr>
   <tr>
     <td><p><b>Defamation</b></p>
     <p><ul><li><em>Giant</em> AoE centered on the targeted player.</li></ul></p>
     <p>Stand in front of the Alexander clone that <b>does not</b> cast Sacrament (the white laser beams). This will always be one of the two center Alexander clones.</p>
     <p>One player will get this.</p></td>
-    <td><img src="../images/perfect_alex/fate_calibration_alpha/defamation.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/tea/04/fate_calibration_alpha/defamation.jpg"></td>
   </tr>
   <tr>
     <td><p><b>Shared Sentence</b></p>
     <p><ul><li>Shared damage between the targeted player, and the three players that did not get any debuff.</li></ul></p>
     <p>Stack on the <b>west</b> side with the three players that did not get any debuff.</p>
     <p>One player will get this.</p></td>
-    <td><img src="../images/perfect_alex/fate_calibration_alpha/shared_sentence.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/tea/04/fate_calibration_alpha/shared_sentence.jpg"></td>
   </tr>
   <tr>
     <td><p><b>Aggravated Assault</b></p>
     <p><ul><li>Single-target damage that applies a magic vulnerability debuff.</li></ul></p>
     <p>Stack together on the <b>east</b> side (away from the Shared Sentence)</p>
     <p>Three players will get this.</p></td>
-    <td><img src="../images/perfect_alex/fate_calibration_alpha/aggravated_assault.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/tea/04/fate_calibration_alpha/aggravated_assault.jpg"></td>
   </tr>
 </table>
 </details>
@@ -161,7 +161,7 @@ The safe spots to resolve the mechanics will always be opposite one of the two *
 <table>
   <tr>
     <td width="50%"><b>Fate Calibration α:</b><ul><li><b>Shared Sentence:</b> Left</li><li><b>Nothing:</b> Left</li><li><b>Aggravated Assault:</b> Right</li></ul></td>
-	<td><img src="../images/perfect_alex/fate_calibration_alpha.jpg"></td>
+	<td><img src="{{site.baseurl}}/assets/images/ultimates/tea/04/fate_calibration_alpha.jpg"></td>
   </tr>
 </table>
 
@@ -200,7 +200,7 @@ The debuffs will appear in the same order as they resolve:
       <li>The Light Beacon stands a little bit West from <b>North</b>, away from the party.</li>
       <li>All other Light players join the party East.</li>
     </ul></p></td>
-    <td><img src="../images/perfect_alex/fate_calibration_beta/light_players.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/tea/04/fate_calibration_beta/light_players.jpg"></td>
   </tr>
   <tr>
     <td><p><b>Dark</b></p>
@@ -211,7 +211,7 @@ The debuffs will appear in the same order as they resolve:
       <li>The Dark Beacon stands <b>on</b> the East marker.</li>
       <li>All other Dark players position themselves relative to the Dark Beacon.</li>
     </ul></p></td>
-    <td><img src="../images/perfect_alex/fate_calibration_beta/dark_players.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/tea/04/fate_calibration_beta/dark_players.jpg"></td>
   </tr>
 </table>
 </details>
@@ -231,23 +231,23 @@ Once again, Perfect Alexander will disappear when Fate Calibration β finishes i
 <table>
   <tr>
     <td width="50%"><b>1. Initial positions</b><ul><li><b>Light Beacon:</b> Slightly west of North (NNW)</li><li><b>Dark Beacon:</b> East</li><li><b>Red/Green tether:</b> Slightly NW of the Dark Beacon</li><li><b>No debuff:</b> Slightly W of the Dark Beacon</li><li><b>Blue tether:</b> Slightly SW of the Dark Beacon</li></ul></td>
-	<td><img src="../images/perfect_alex/fate_calibration_beta_01.jpg"><img src="../images/perfect_alex/fate_calibration_beta/beta_positioning.jpg"></td>
+	<td><img src="{{site.baseurl}}/assets/images/ultimates/tea/04/fate_calibration_beta_01.jpg"><img src="{{site.baseurl}}/assets/images/ultimates/tea/04/fate_calibration_beta/beta_positioning.jpg"></td>
   </tr>
   <tr>
     <td><b>2.</b> Forced March resolves.<ul><li><b>Light players + Dark with red/green:</b> Stack together north</li><li><b>Dark players (except red/green tether):</b> Move to the edge of the arena.</li></ul></td>
-	<td><img src="../images/perfect_alex/fate_calibration_beta_02.jpg"></td>
+	<td><img src="{{site.baseurl}}/assets/images/ultimates/tea/04/fate_calibration_beta_02.jpg"></td>
   </tr>
   <tr>
     <td><b>3.</b> Light Shared Sentence and Super Jump resolves.</td>
-	<td><img src="../images/perfect_alex/fate_calibration_beta_03.jpg"></td>
+	<td><img src="{{site.baseurl}}/assets/images/ultimates/tea/04/fate_calibration_beta_03.jpg"></td>
   </tr>
   <tr>
     <td><p><b>4.</b>Stack/Spread.</p><p>If Stacks:</p><ul><li><b>Light players:</b> Stack around mid</li><li><b>Dark players:</b> Stack south</li></ul></td>
-	<td><img src="../images/perfect_alex/fate_calibration_beta_04.jpg"></td>
+	<td><img src="{{site.baseurl}}/assets/images/ultimates/tea/04/fate_calibration_beta_04.jpg"></td>
   </tr>
   <tr>
     <td><b>5.</b> Radiant Sacrament resolves.</td>
-	<td><img src="../images/perfect_alex/fate_calibration_beta_05.jpg"></td>
+	<td><img src="{{site.baseurl}}/assets/images/ultimates/tea/04/fate_calibration_beta_05.jpg"></td>
   </tr>
 </table>
 
@@ -268,9 +268,9 @@ The AoE locations are *not* entirely random- they spawn in a random order from t
 
 <table>
   <tr>
-    <td><img src="../images/perfect_alex/exatrine_01.jpg"></td>
-    <td><img src="../images/perfect_alex/exatrine_02.jpg"></td>
-    <td><img src="../images/perfect_alex/exatrine_03.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/tea/04/exatrine_01.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/tea/04/exatrine_02.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/tea/04/exatrine_03.jpg"></td>
   </tr>
 </table>
 

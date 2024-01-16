@@ -34,7 +34,7 @@ transition mechanic to this phase.
         The blue-tether player on Cruise Chaser's side takes a few steps towards Cruise Chaser.
       </p>
       <p><b>Aggravated Assault:</b> Far west/east on the same side as Brute Justice.</p></td>
-	<td><img src="../images/alex_prime/temporal_stasis_01.jpg"><img src="../images/alex_prime/temporal_stasis_02.jpg"><img src="../images/alex_prime/temporal_stasis_tethers.jpg"></td>
+	<td><img src="{{site.baseurl}}/assets/images/ultimates/tea/03/temporal_stasis_01.jpg"><img src="{{site.baseurl}}/assets/images/ultimates/tea/03/temporal_stasis_02.jpg"><img src="{{site.baseurl}}/assets/images/ultimates/tea/03/temporal_stasis_tethers.jpg"></td>
   </tr>
 </table>
 
@@ -82,8 +82,8 @@ After the Divine Spears, have the MT Provoke and take aggro. Alexander Prime wil
       </div>
     </td>
 	<td>
-    <img src="../images/alex_prime/inception_01.jpg">
-    <img src="../images/alex_prime/inception_crystals.jpg">
+    <img src="{{site.baseurl}}/assets/images/ultimates/tea/03/inception_01.jpg">
+    <img src="{{site.baseurl}}/assets/images/ultimates/tea/03/inception_crystals.jpg">
   </td>
   </tr>
   <tr>
@@ -103,32 +103,32 @@ After the Divine Spears, have the MT Provoke and take aggro. Alexander Prime wil
       Enigma Codex.)</em></p>
     </td>
 	  <td>
-      <img src="../images/alex_prime/inception_02.jpg">
+      <img src="{{site.baseurl}}/assets/images/ultimates/tea/03/inception_02.jpg">
     </td>
   </tr>
   <tr>
     <td><p><b>3.</b> Move along the edge of the arena to gather along the north wall towards Brute Justice. This is done so players do not die to the crystal's proximity damage.</p><p>When the crystals explode, the MT and ST take up their positions next to Brute Justice to prepare to bait the Flarethrowers.</p><p><em>(Note that the green puddles left behind will slow down movement.)</em></p></td>
-	<td><img src="../images/alex_prime/inception_03.jpg"></td>
+	<td><img src="{{site.baseurl}}/assets/images/ultimates/tea/03/inception_03.jpg"></td>
   </tr>
   <tr>
     <td><p><b>4.</b> Brute Justice then Flarethrowers the three closest people starting from the nearest.</p><ul><li><b>MT</b>: Bait the first Flarethrower south</li><li><b>ST</b>: Bait the second Flarethrower in the middle.</li><li><b>Everyone else</b>: Stay near the intercardinal edge, but not close to Brute Justice (one person in this group will end up baiting the third Flarethrower).</li></ul></td>
-	<td><img src="../images/alex_prime/inception_04.jpg"></td>
+	<td><img src="{{site.baseurl}}/assets/images/ultimates/tea/03/inception_04.jpg"></td>
   </tr>
   <tr>
     <td><p><b>5.</b> The True Heart will now move to a random spot at the edge of the Arena, where Alexander will spawn and cast Sacrament.</p><p>Players will also get various debuffs to resolve.</p><ul><li><b>Tanks:</b> Go left</li><li><b>Healers:</b> Go right</li><li><b>DPS:</b><ul><li><b>Shared Sentence:</b> Go left</li><li><b>Others:</b> Go right</li></ul></li></ul></td>
-	<td><img src="../images/alex_prime/inception_05.jpg"></td>
+	<td><img src="{{site.baseurl}}/assets/images/ultimates/tea/03/inception_05.jpg"></td>
   </tr>
   <tr>
     <td><p><b>6.</b> Brute Justice will respawn West, and Cruise Chaser will respawn in the middle of the arena.</p><ul><li><b>ST:</b> Far East.</li><li><b>H1:</b> North, near Cruise Chaser.</li><li><b>H2:</b> South, near Cruise Chaser.</li><li><b>DPS that had the blue tether</b>: West, near Cruise Chaser.</li><li><b>Everyone else:</b> East, between Cruise Chaser and the ST <em>(not too close to Cruise Chaser!)</em></li></ul></td>
-	<td><img src="../images/alex_prime/inception_06.jpg"></td>
+	<td><img src="{{site.baseurl}}/assets/images/ultimates/tea/03/inception_06.jpg"></td>
   </tr>
   <tr>
     <td><p><b>7.</b> Cruise Chaser will then Alpha Sword the three closest players, which should be the two healers, and the DPS that had the blue tether.</p><p>When Cruise Chaser cleaves either the north or south player, the rest of the party can run behind that player to avoid the incoming Super Jump.</p></td>
-	<td><img src="../images/alex_prime/inception_07.jpg"></td>
+	<td><img src="{{site.baseurl}}/assets/images/ultimates/tea/03/inception_07.jpg"></td>
   </tr>
   <tr>
     <td><p><b>8.</b> Brute Justice Super Jumps on the furthest player, which should be the ST.</p><p>The impact AoE is quite large, so it's safe for all other players to run away from the ST by the third Alpha Sword.</p></td>
-	<td><img src="../images/alex_prime/inception_08.jpg"></td>
+	<td><img src="{{site.baseurl}}/assets/images/ultimates/tea/03/inception_08.jpg"></td>
   </tr>
 </table>
 
@@ -158,35 +158,35 @@ Remember that **all odd numbered players must face outside the arena and use Arm
 <table>
   <tr>
     <td width="50%"><p><b>1.</b> Identify Limit Cut numbers, and stack in the middle of the arena to bait Chakrams.</p><p>Identify where Brute Justice is, as this will determine who baits Super Jump and Apocalyptic Ray (and thus have stricter positioning requirements).</p></td>
-	<td><img src="../images/alex_prime/wormhole_01.jpg"></td>
+	<td><img src="{{site.baseurl}}/assets/images/ultimates/tea/03/wormhole_01.jpg"></td>
   </tr>
   <tr>
     <td><p><b>2.</b> Move to positions.</p><ul><li>The person diagonally opposite Brute Justice (3 or 4) should bait Super Jump <b>in front of the red dot.</b></li><li>The person diagonally opposite Cruise Chaser (3 or 4) should go <b>all the way to the edge</b> to dodge Apocalyptic Ray.</li><li><b>1</b> and <b>2</b> use anti-knockback abilities.</li></ul><p><em>(Notice</em> <b>3</b> <em>is</em> slightly <em>further in because they will be baiting Super Jump in this example.</em> <b>4</b> <em> is all the way at the edge.)</em></p></td>
-	<td><img src="../images/alex_prime/wormhole_02.jpg"></td>
+	<td><img src="{{site.baseurl}}/assets/images/ultimates/tea/03/wormhole_02.jpg"></td>
   </tr>
   <tr>
     <td><p><b>3. </b>Chakrams fly. Brute Justice Super Jumps on the furthest player.</p><p>Cruise Chaser cleaves <b>1</b>.</p><p>The player that originally started in front of Brute Justice (either <b>1</b> or <b>2</b>) stays on the red dot until Apocalyptic Ray comes out. </p></td>
-	<td><img src="../images/alex_prime/wormhole_03.jpg"></td>
+	<td><img src="{{site.baseurl}}/assets/images/ultimates/tea/03/wormhole_03.jpg"></td>
   </tr>
   <tr>
     <td><p><b>4.</b> Brute Justice turns to face the furthest player (which should be <b>1</b> or <b>2</b>) and casts Apocalyptic Ray.</p><p>Cruise Chaser dashes <b>2</b>.</p><ul><li><b>3</b> and <b>4</b> use anti-knockback.</li><li><b>5</b> and <b>6</b> move inside the Void puddles.</li></ul></td>
-	<td><img src="../images/alex_prime/wormhole_04.jpg"></td>
+	<td><img src="{{site.baseurl}}/assets/images/ultimates/tea/03/wormhole_04.jpg"></td>
   </tr>
   <tr>
     <td><p><b>5.</b> Players <b>5</b> and <b>6</b> resolve their Void puddles, then take up positions north (where <b>1</b> and <b>2</b> were).</p><p>Cruise Chaser cleaves <b>3</b>.</p><p>Alexander starts charging Sacrament. <em>(do not panic!)</em></p></td>
-	<td><img src="../images/alex_prime/wormhole_05.jpg"></td>
+	<td><img src="{{site.baseurl}}/assets/images/ultimates/tea/03/wormhole_05.jpg"></td>
   </tr>
   <tr>
     <td><p><b>6.</b> Cruise Chaser dashes <b>4</b>.</p><ul><li><b>3</b>, <b>4</b>: Move one notch north to dodge Sacrament.</li><li><b>5</b>, <b>6</b>: Use anti-knockback abilities.</li><li><b>7</b>, <b>8</b>: Move inside Void puddles.</li></ul></td>
-	<td><img src="../images/alex_prime/wormhole_06.jpg"></td>
+	<td><img src="{{site.baseurl}}/assets/images/ultimates/tea/03/wormhole_06.jpg"></td>
   </tr>
   <tr>
     <td><p><b>7.</b> Cruise Chaser cleaves <b>5</b>. Sacrament resolves.</p><ul><li><b>7</b>, <b>8</b>: Resolve Void puddles.</li></ul></td>
-	<td><img src="../images/alex_prime/wormhole_07.jpg"></td>
+	<td><img src="{{site.baseurl}}/assets/images/ultimates/tea/03/wormhole_07.jpg"></td>
   </tr>
   <tr>
     <td><p><b>8.</b> Cruise Chaser dashes <b>6</b>.</p><ul><li><b>1</b>, <b>2</b>: Move inside Void puddles.</li><li><b>7</b>, <b>8</b>: Use anti-knockback abilities.</li></ul></td>
-	<td><img src="../images/alex_prime/wormhole_08.jpg"></td>
+	<td><img src="{{site.baseurl}}/assets/images/ultimates/tea/03/wormhole_08.jpg"></td>
   </tr>
   <tr>
     <td><p><b>9.</b> Cruise Chaser cleaves <b>7</b>.</p>
@@ -194,22 +194,22 @@ Remember that **all odd numbered players must face outside the arena and use Arm
       <li><b>1</b>, <b>2</b>: Resolve Void puddles.</li>
       <li><b>3</b>, <b>4</b>, <b>5</b>, and <b>6</b>: Start moving to the center to prepare for Incinerating Heat.</li>
     </ul></td>
-	<td><img src="../images/alex_prime/wormhole_09.jpg"></td>
+	<td><img src="{{site.baseurl}}/assets/images/ultimates/tea/03/wormhole_09.jpg"></td>
   </tr>
   <tr>
     <td><p><b>10.</b> Cruise Chaser dashes <b>8</b>.</p>
     <div style="background-color: #200 ; padding: 10px; border: 1px solid;"><p><b>7</b> must either wait for Cruise Chaser to dash <em>before</em> moving to the center, or run <em>around</em> Cruise Chaser instead.</p></div>
     <div style="background-color: #002 ; padding: 10px; border: 1px solid;"><p><b>Tip:</b> <b>8</b> doesn't <em>have</em> to resolve Super Blassty Charge south-east; they can resolve it south instead to be slightly closer to the Incinerating Heat stack.</p></div></td>
-	<td><img src="../images/alex_prime/wormhole_10.jpg"></td>
+	<td><img src="{{site.baseurl}}/assets/images/ultimates/tea/03/wormhole_10.jpg"></td>
   </tr>
   <tr>
     <td><p><b>11.</b> The party stacks in the middle for Incinerating Heat.</p><p>Stack in three groups far enough that it is easy to identify whether a swap is needed for Enumeration, but close enough for all party members to split the Incinerating Heat damage.</p><ul><li><b>D1, D3:</b> Stack a little bit west.</li><li><b>Tanks + Healers:</b> Stack together in the center.</li><li><b>D2, D4:</b> Stack a little bit east.</li></ul></td>
-	<td><img src="../images/alex_prime/wormhole_11.jpg"></td>
+	<td><img src="{{site.baseurl}}/assets/images/ultimates/tea/03/wormhole_11.jpg"></td>
   </tr>
   <tr>
     <td><p><b>12.</b> Resolve Enumeration the same way as Brute Justice + Cruise Chaser.</p>
     <ul><li><b>MT</b>, <b>ST</b>: Outside Enumerations.</li><li><b>H1</b>, <b>D3</b>: Always west Enumeration.</li><li><b>H2</b>, <b>D4</b>: Always east Enumeration.</li><li><b>D1</b>: West Enumeration unless a swap is needed.</li><li><b>D2</b>: East Enumeration unless a swap is needed.</li></ul>If either side has both Enumerations (or equivalently, no Enumerations), <b>D1</b> and <b>D2</b> swap sides.</td>
-	<td><img src="../images/alex_prime/wormhole_12.jpg"></td>
+	<td><img src="{{site.baseurl}}/assets/images/ultimates/tea/03/wormhole_12.jpg"></td>
   </tr>
 </table>
 

@@ -55,4 +55,4 @@ The item level cap for Eden's Promise is **iLvl 535**.
 
 ## Ultimate
 
-- **TEA** - [The Epic of Alexander (Ultimate)](../ultimates/tea/README.md)
+- **TEA** - [The Epic of Alexander (Ultimate)](../ultimates/tea/index.en.md)
