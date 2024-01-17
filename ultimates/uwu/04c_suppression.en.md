@@ -1,9 +1,9 @@
 ---
 layout: default
-title: 6. Ultimate Suppression
+title: 4c. Ultimate Suppression
 parent: Lv 70. UWU
 grand_parent: Ultimates
-permalink: /ultimates/uwu/04_suppression/
+permalink: /ultimates/uwu/04c_suppression/
 ---
 
 # Ultimate Suppression

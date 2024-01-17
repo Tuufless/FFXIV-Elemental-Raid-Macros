@@ -1,9 +1,9 @@
 ---
 layout: default
-title: 4. Ultimate Predation
+title: 4a. Ultimate Predation
 parent: Lv 70. UWU
 grand_parent: Ultimates
-permalink: /ultimates/uwu/04_predation/
+permalink: /ultimates/uwu/04a_predation/
 ---
 
 # Ultimate Predation

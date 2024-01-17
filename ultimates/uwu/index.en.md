@@ -17,13 +17,13 @@ PF largely follows [Clees' UWU guide](https://www.icy-veins.com/ffxiv/the-weapon
 
 The various phases can be broken down as follows:
 
-- [**Garuda**](en/01_garuda.md): Midruda
-- [**Ifrit**](en/02_ifrit.md): Reverse-Z
-- [**Titan**](en/03_titan.md): Mario Kart
-- [**Ultimate Predation**](en/04_predation.md)
-- [**Ultimate Annihilation**](en/05_annihilation.md): 2211 orbs
-- [**Ultimate Suppression**](en/06_suppression.md): Fan Suppression
-- [**Primal Roulette**](en/07_primal_roulette.md)
+- [**Garuda**](01_garuda.en.md): Midruda
+- [**Ifrit**](02_ifrit.en.md): Reverse-Z
+- [**Titan**](03_titan.en.md): Mario Kart
+- [**Ultimate Predation**](04a_predation.en.md)
+- [**Ultimate Annihilation**](04b_annihilation.en.md): 2211 orbs
+- [**Ultimate Suppression**](04c_suppression.en.md): Fan Suppression
+- [**Primal Roulette**](04d_primal_roulette.en.md)
 
 ### BiS Notes
 

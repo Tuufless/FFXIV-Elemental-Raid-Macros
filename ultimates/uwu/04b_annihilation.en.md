@@ -1,9 +1,9 @@
 ---
 layout: default
-title: 5. Ultimate Annihilation
+title: 4b. Ultimate Annihilation
 parent: Lv 70. UWU
 grand_parent: Ultimates
-permalink: /ultimates/uwu/05_annihilation/
+permalink: /ultimates/uwu/04b_annihilation/
 ---
 
 # Ultimate Annihilation
