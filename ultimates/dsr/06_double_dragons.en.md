@@ -743,23 +743,6 @@ shields.
 
 <details markdown=block>
 <summary>
-  <b>[Wyrmsbreath #1]</b> I took extra damage even though I wasn't tethered-
-  why is that?
-</summary>
-<table>
-  <tr>
-    <td>
-      <p><b>Both</b> dragon's damage are based on proximity, even if you are
-      not actually tethered to them.</p><p>You can think of the tethers as just
-      directing where the breaths will go; the colour change is a proximity
-      indicator of that particular player-dragon pair, but you still have to
-      worry about proximity to the other dragon.</p>
-    </td>
-  </tr>
-</table>
-</details>
-<details markdown=block>
-<summary>
   <b>[Wroth Flames]</b> Is there a pattern to how the debuffs are assigned?
 </summary>
 <table>
@@ -884,6 +867,28 @@ shields.
       <p>SGE, on the other hand, doesn't have the raw shielding power that a
       SCH has, and they will likely need to add <em>Holos</em> for the party to
       survive <em>Alternative End</em>.</p>
+    </td>
+  </tr>
+</table>
+</details>
+
+---
+
+## Troubleshooting
+
+<details markdown=block>
+<summary>
+  <b>[Wyrmsbreath #1]</b> I took extra damage even though I wasn't tethered-
+  why is that?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p><b>Both</b> dragon's damage are based on proximity, even if you are
+      not actually tethered to them.</p><p>You can think of the tethers as just
+      directing where the breaths will go; the colour change is a proximity
+      indicator of that particular player-dragon pair, but you still have to
+      worry about proximity to the other dragon.</p>
     </td>
   </tr>
 </table>
