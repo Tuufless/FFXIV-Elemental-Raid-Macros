@@ -677,8 +677,8 @@ we needed the fire/ice debuffs in order to survive this mechanic.
       <p>Do not stand directly in the center, as there <em>is</em> a slight
       overlap.</p>
       <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
-        <b>Note:</b> If you have a DRK and are using Living Dead here, neither
-        dragon will be targetable for the DRK to recover HP.
+        <b>Note:</b> If you have a DRK and are using <em>Living Dead</em> here, 
+        neither dragon will be targetable for the DRK to recover HP for <em>Walking Dead</em>.
       </div>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/cauterize_01.jpg"></td>
