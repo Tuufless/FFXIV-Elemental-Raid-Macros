@@ -41,7 +41,7 @@ Looking towards the future:
 
 Here are some clear PoVs that I've been collecting.
 
-- [MT PoV (WAR)](https://youtube.com/live/MiZe7qd7cws)
+- [MT PoV (WAR)](https://youtube.com/live/yRJrvYChhWQ)
 - [ST PoV (PLD)](https://youtube.com/live/7iFsy8xbeSc)
 - [H1 PoV (WHM)](https://youtube.com/live/UJEpzF2nJo8)
 - [H2 PoV (SCH)](https://youtube.com/live/no32eDv_lnQ)
