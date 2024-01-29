@@ -19,14 +19,16 @@ Ultima Weapon.
 
 ## Waking Ifrit
 
-Infernal Nails can be hit by baited Violent Eruptions. When a Nail is hit by an Eruption, it gains a stack (max two) and increases in size.
+*Infernal Nails* can be hit by baited *Violent Eruptions*. When a Nail is hit by 
+an *Eruption*, it gains a stack (max two) and increases in size.
 
 Each stack it receives does the following:
 
 * Lowers the damage taken by about 10%.
 * Increases the raid-wide damage dealt when the nail is destroyed.
 
-**Ifrit gains a stack of "Aetherically Charged" when an Infernal Nail with two stacks is destroyed.**
+**Ifrit gains a stack of "Aetherically Charged" when an Infernal Nail with two 
+stacks is destroyed.**
 
 The following mechanics will also change when Ifrit is woken:
 
@@ -39,12 +41,17 @@ The following mechanics will also change when Ifrit is woken:
   <tr>
     <td>Crimson Cyclone</td>
     <td>Straight-line dash, going clockwise.</td>
-    <td>Straight-line dash, in the order the Infernal Nails were destroyed in, <b>followed by a cross-shaped AoE 45 degrees to the dash</b>.</td>
+    <td>Straight-line dash, in the order the <em>Infernal Nails</em> were 
+    destroyed in, <b>followed by a cross-shaped AoE 45 degrees to the dash</b>.</td>
   </tr>
   <tr>
     <td>Flaming Crush</td>
     <td>Split damage.</td>
-    <td><p>Split damage that <b>also afflicts a heavy "Accursed Flame" DoT</b> whose duration decreases as more players are hit.</p><p>This should be shared by <b>at least 6 players</b> for minimum impact.</p></td>
+    <td>
+      <p>Split damage that <b>also afflicts a heavy <em>Accursed Flame</em> 
+      DoT</b> whose duration decreases as more players are hit.</p>
+      <p>This should be shared by <b>at least 6 players</b> for minimum impact.</p>
+    </td>
   </tr>
 </table>
 
@@ -52,8 +59,30 @@ The **ST** will take hate at the start of the fight.
 
 <table>
   <tr>
-    <td width="50%"><p><b>1.</b> Have the <b>ST</b> tank Ifrit facing south, with the party North.</p><p>Ifrit will open with Hellfire (heavy raid damage), and shortly follow up with a Vulcan Burst.</p><p>Vulcan Burst is a large knockback, (just under half the arena) that can be nullified by Arm's Length/Surecast, or by sufficient shields as the knockback only applies if the player takes damage.</p><p>H2's shields will nullify Vulcan Burst's damage, <b>unless H2 is weakened.</b></p><p>Ifrit will then use three Incinerates in a row. Incinerate is a conal tankbuster that also applies a Fire Resistance Down debuff on anyone hit.</p><ul><li><b>ST:</b> Invuln all three Incinerates.</p></li></ul><p><em>(The "proper way" to do this would be to tank swap twice, once between each Incinerate)</em>.</p><p>Once all three Incinerates are done, the MT Provokes and takes over.</p></td>
-	<td><img src="{{site.baseurl}}/assets/images/ultimates/uwu/02/ifrit_01.jpg"></td>
+    <td width="50%">
+      <p><b>1.</b> Have the <b>ST</b> tank Ifrit facing south, with the party 
+      North.</p>
+      <p>Ifrit will open with <em>Hellfire</em> (heavy raid damage), and shortly 
+      follow up with a <em>Vulcan Burst</em>.</p>
+      <p><em>Vulcan Burst</em> is a large knockback, (just under half the arena) 
+      that can be nullified by <em>Arm's Length/Surecast</em>, or by sufficient 
+      shields as the knockback only applies if the player takes damage.</p>
+      <p>H2's shields will nullify <em>Vulcan Burst's</em> damage, <b>unless H2 
+      is weakened.</b></p>
+      <p>Ifrit will then use three <em>Incinerates</em> in a row.
+      <em>Incinerate</em> is a conal tankbuster that also applies a <em>Fire 
+      Resistance Down</em> debuff on anyone hit.</p>
+      <ul>
+        <li><b>ST:</b> Invuln all three Incinerates.</li>
+      </ul>
+      <p><em>(The "proper way" to do this would be to tank swap twice, once 
+      between each Incinerate)</em>.</p>
+      <p>Once all three <em>Incinerates</em> are done, the MT <em>Provokes</em> 
+      and takes over.</p>
+    </td>
+	  <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/02/ifrit_01.jpg">
+    </td>
   </tr>
 </table>
 
