@@ -142,7 +142,7 @@ Cosmo Arrow fires two sets of line AoEs that travel sideways with each hit. How
 the party dodges these is determined by which set of AoEs appeared first.
 
 Cosmo Dive targets the two closest players with a high-damage AoE (which should
-be taken by the tanks), and the furthest player with a shared-damgae AoE (the
+be taken by the tanks), and the furthest player with a stack AoE (the
 rest of the party).
 
 <table>
