@@ -261,6 +261,7 @@ mechanics at the party to resolve.
   </tr>
 </table>
 </details>
+
 <details markdown=block>
 <summary>
   <b>[Party Synergy]</b> Is there a reason why the order is 〇×△□?
@@ -277,6 +278,23 @@ mechanics at the party to resolve.
         <li>□ has 4 lines.</li>
       </ul>
     </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
+  <b>[Party Synergy]</b> Can each side have more than one duplicate Playstation symbol?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>It's rare (3/35 chance), but yes, it's possible.</p>
+      <p>The rule still stays the same- the player further from the eye
+      switches sides (two people on each side adjusts).</p>
+      <p><em>(For completeness, the chance nobody swaps is 8/35, while the chance one person on each side swaps is 24/35.)</em></p>
+    </td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/02/two_pairs.jpg"></td>
   </tr>
 </table>
 </details>
