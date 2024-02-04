@@ -911,6 +911,100 @@ not to use their potions at certain buff windows.
 
 <details markdown=block>
 <summary>
+  <b>[Damage]</b> Just <em>how</em> much damage goes out in this phase, and when?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>The (high roll) damage profile in this phase looks roughly like the 
+      following.</p>
+      <p><em>(When planning mitigations, tanks have about 108k HP, while 
+      healers and casters have 68k HP.)</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <th style="text-align:center">Time</th>
+        <th style="text-align:center">Mechanic</th>
+        <th colspan="2" style="text-align:center">Base damage (tanks/party)</th>
+        <tr>
+          <td style="text-align:center">+0:15</td>
+          <td style="text-align:center">Cosmo Memory</td>
+          <td colspan="2" style="text-align:center">398k</td>
+        </tr>
+        <tr>
+          <td style="text-align:center">+0:45</td>
+          <td style="text-align:center">Cosmo Dive #1</td>
+          <td style="text-align:center">281k</td>
+          <td style="text-align:center">104k</td>
+        </tr>
+        <tr>
+          <td style="text-align:center">+1:23</td>
+          <td style="text-align:center">Wave Cannon #1 (spread)</td>
+          <td colspan="2" style="text-align:center">92k</td>
+        </tr>
+        <tr>
+          <td style="text-align:center">+1:31</td>
+          <td style="text-align:center">Wave Cannon #1 (stack)</td>
+          <td style="text-align:center">364k</td>
+          <td style="text-align:center">118k</td>
+        </tr>
+        <tr>
+          <td style="text-align:center">+1:57</td>
+          <td style="text-align:center">Wave Cannon #2 (spread)</td>
+          <td colspan="2" style="text-align:center">92k</td>
+        </tr>
+        <tr>
+          <td style="text-align:center">+2:05</td>
+          <td style="text-align:center">Wave Cannon #2 (stack)</td>
+          <td style="text-align:center">364k</td>
+          <td style="text-align:center">118k</td>
+        </tr>
+        <tr>
+          <td style="text-align:center">+2:39</td>
+          <td style="text-align:center">Cosmo Dive #2</td>
+          <td style="text-align:center">281k</td>
+          <td style="text-align:center">104k</td>
+        </tr>
+        <tr>
+          <td style="text-align:center">+3:04</td>
+          <td style="text-align:center">Cosmo Meteor (Meteors #1)</td>
+          <td colspan="2" style="text-align:center">111k</td>
+        </tr>
+        <tr>
+          <td style="text-align:center">+3:10</td>
+          <td style="text-align:center">Cosmo Meteor (Meteors #2)</td>
+          <td colspan="2" style="text-align:center">111k</td>
+        </tr>
+        <tr>
+          <td style="text-align:center">+3:22</td>
+          <td style="text-align:center">Cosmo Meteor (Flares + stack)</td>
+          <td colspan="2" style="text-align:center">78k</td>
+        </tr>
+        <tr>
+          <td style="text-align:center">+3:35</td>
+          <td style="text-align:center">Magic Number #1</td>
+          <td colspan="2" style="text-align:center">307k</td>
+        </tr>
+        <tr>
+          <td style="text-align:center">+3:51</td>
+          <td style="text-align:center">Magic Number #2</td>
+          <td colspan="2" style="text-align:center">307k</td>
+        </tr>
+        <tr>
+          <td style="text-align:center">+4:14</td>
+          <td style="text-align:center">Run: ****mi* (enrage)</td>
+          <td colspan="2" style="text-align:center">---</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
   <b>[Death Wall]</b> Will the Death Wall kill you if you use an ability while
   still in it (similar to resurrection invulnerability)?
 </summary>
