@@ -62,6 +62,18 @@ not follow the standard order (MT: WAR > DRK > GNB > PLD :ST).
 
 ---
 
+## Things to decide
+
+This phase has a number of things that need to be decided in advance. This is
+usually either done at the start of the encounter, or during the cutscene
+before the phase begins.
+
+- Decide the Tank LB3 order.
+- Decide the Melee LB3 order.
+- Decide which healer will go middle for Cosmo Meteor. 
+
+---
+
 ## Cosmo Memory
 
 Cosmo Memory is a Tank LB3 check- its damage *still* needs to be mitigated in
@@ -731,6 +743,11 @@ Alpha Omega autoattacks twice before casting Cosmo Meteor.
 This is the final mechanic of the fight, and marks the start to the LB3 rush
 this fight is known for.
 
+For this part, **one healer** will typically return to the middle to top up the
+party as there are a number of waves of damage going out. **This is usually
+confirmed between the two healers** either at the start of the encounter, or
+during the cutscene before P6.
+
 <table>
   <tr>
     <td width="50%">
@@ -754,8 +771,9 @@ this fight is known for.
       Meteors.</p>
       <p><b>Do not attack the Comets and Meteors</b> during this period,
       focusing on Alpha Omega instead.</p>
-      <p>Four random players get an untelegraphed AoE on them. Healers can move
-      back in closer to the center to heal the party.</p>
+      <p>Four random players get an untelegraphed AoE on them.</p>
+      <p>After the AoE in the center resolves, <b>one healer</b> goes to the
+      middle of the arena to top up the party for upcoming damage.</p>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_5_3.jpg"></td>
   </tr>
@@ -936,7 +954,7 @@ not to use their potions at certain buff windows.
         <tr>
           <td style="text-align:center">+0:45</td>
           <td style="text-align:center">Cosmo Dive #1</td>
-          <td style="text-align:center">281k</td>
+          <td style="text-align:center">283k</td>
           <td style="text-align:center">104k</td>
         </tr>
         <tr>
@@ -964,7 +982,7 @@ not to use their potions at certain buff windows.
         <tr>
           <td style="text-align:center">+2:39</td>
           <td style="text-align:center">Cosmo Dive #2</td>
-          <td style="text-align:center">281k</td>
+          <td style="text-align:center">283k</td>
           <td style="text-align:center">104k</td>
         </tr>
         <tr>
@@ -980,7 +998,7 @@ not to use their potions at certain buff windows.
         <tr>
           <td style="text-align:center">+3:22</td>
           <td style="text-align:center">Cosmo Meteor (Flares + stack)</td>
-          <td colspan="2" style="text-align:center">78k</td>
+          <td colspan="2" style="text-align:center">84k</td>
         </tr>
         <tr>
           <td style="text-align:center">+3:35</td>
