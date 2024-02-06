@@ -155,9 +155,12 @@ Nukemaru has compiled a collection of clips which may help:
         <li><em>Either D3 or D4 can be the second player to take Omega's
         monitor.</em></li>
       </ul>
-      <p>Once everyone has taken up their positions, the player with Hello,
-      Near World can move a little bit away from the player with Hello,
-      Distant World to ensure Hello, Near World jumps to the correct players.</p>
+      <p>Once everyone has taken up their positions, the player with <em>Hello,
+      Near World</em> can move a little bit away from the player with
+      <em>Hello, Distant World</em> to ensure <em>Hello, Near World</em> jumps
+      to the correct players.</p>
+      <p>Just like before, these two players should be standing one ring in
+      front of the markers <em>(towards the center of the arena)</em>.</p>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/05c/run_dynamis_omega_05.jpg"></td>
   </tr>
@@ -194,11 +197,13 @@ Nukemaru has compiled a collection of clips which may help:
         Omega.</li>
         <li>
           <p><b>Everybody else:</b> Resolve <em>Hello, World</em> debuffs.</p>
-          <p>Again, the player with <em>Hello, Near World</em> can move away
-          from the player with <em>Hello, Distant World</em> to ensure <em>Near
-          World</em> jumps to the correct players.</p>
         </li>
       </ul>
+      <p>Again, the player with <em>Hello, Near World</em> can move away from
+      the player with <em>Hello, Distant World</em> to ensure <em>Hello, Near
+      World</em> jumps to the correct players.</p>
+      <p>Both <em>Hello, World</em> players should stand one ring in front of
+      the markers <em>(towards the center of the arena)</em>.</p>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/05c/run_dynamis_omega_07.jpg"></td>
   </tr>

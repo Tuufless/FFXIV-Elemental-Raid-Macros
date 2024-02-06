@@ -79,8 +79,12 @@ Run: Dynamis (Sigma Version) can be broken down into three parts:
           </ul>
         </li>
       </ul>
-      <p>Spread apart as needed to satisfy Mid or Remote Glitch. <em>(Mid
-      Glitch is shown in the example.)</em></p>
+      <p>Spread apart as needed to satisfy Mid or Remote Glitch.</p>
+      <ul>
+        <li><b>Mid Glitch:</b> Move to the line at the markers <em>(shown in
+        the example)</em>.</li>
+        <li><b>Remote Glitch:</b> Move to the edge of the arena.</li>
+      </ul>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/05b/run_dynamis_sigma_03.jpg"></td>
   </tr>
@@ -164,19 +168,6 @@ part where we resolve Hello, World.
         <li>None of these players can have a Hello, World debuff.</li>
       </ul>
       <p>The remaining five players go opposite Omega-F.</p>
-      <ul>
-        <li>The two players with Hello, World debuffs stand a little towards
-        the center of the arena to separate themselves from the remaining
-        three.</li>
-        <li><p>The remaining three players briefly line up along the edge</p>
-          <ul>
-            <li>The two players in front will follow the Hello, Near World
-            player.</li>
-            <li>The player at the back will stay behind with the Hello, Distant
-            World player.</li>
-          </ul>
-        </li>
-      </ul>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/05b/run_dynamis_sigma_07.jpg"></td>
   </tr>
@@ -205,21 +196,22 @@ part where we resolve Hello, World.
       <p><b>10.</b> Hello, World debuffs resolve along with the Right Arm
       Unit's lasers.</p>
       <ul>
+        <li>The two players with <em>Hello, Near World</em> and <em>Hello,
+        Distant World</em> should be <b>one ring in front of the markers</b>
+        <em>(towards the center of the arena)</em></li>
+        <li>The first player receiving <em>Hello, Near World</em> should
+        <b>stop at the (inter)cardinal mark</b> at the edge of the arena, with
+        the second player <b>four notches behind</b>.</li>
         <li>If there are any tanks with one stack of Dynamis that started by
-        Omega-F, they should bait the Arm lasers.</li>
-        <li>If there is anyone that started by Omega-F that does not have a
-        stack of Dynamis, they must take the center position to receive Hello,
-        Distant World.</li>
-      </ul>
-      <p>Done correctly:</p>
-      <ul>
-        <li>Four players will have one stack of Dynamis</li>
-        <li>The other four players will have two stacks of Dynamis.</li>
+        Omega-F, they would ideally bait the Arm lasers.</li>
       </ul>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/05b/run_dynamis_sigma_10.jpg"></td>
   </tr>
 </table>
+
+Done correctly, at this point the party should have four players with one stack
+of Dynamis, and four players with two stacks of Dynamis.
 
 ---
 
