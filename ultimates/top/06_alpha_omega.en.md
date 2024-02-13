@@ -1125,6 +1125,9 @@ not to use their potions at certain buff windows.
       </table>
     </td>
   </tr>
+  <tr>
+    <td>A more detailed breakdown can be found <a href="https://docs.google.com/spreadsheets/d/103yWCMpHGlGzYnjf63qL9459e464qp1ZJ2vOLeuajpA">here</a>.</td>
+  </tr>
 </table>
 </details>
 
@@ -1197,24 +1200,6 @@ not to use their potions at certain buff windows.
       <p>This then means the GNB would have to Superbolide the second Solar
       Ray (before Sigma), and if so, Superbolide won't be up in time for
       Wave Cannon #1.</p>
-    </td>
-  </tr>
-</table>
-</details>
-
-
-<details markdown=block>
-<summary>
-  <b>[Wave Cannon #2]</b> Why does <em>Wave Cannon #2</em> have an extra <em>Feint</em> that isn't in <em>Wave Cannon #1</em>?
-</summary>
-<table>
-  <tr>
-    <td>
-      <p>You can see the FAQ about <em>Shake It Off</em> and <em>Expedient</em>
-      for more details, but the <em>Feint</em> at <em>Wave Cannon #2</em> is
-      insurance against a WAR and/or SCH independently moving their assigned
-      mitigations (<em>Shake It Off</em> and <em>Expedient</em> respectively) 
-      off <em>Wave Cannon #2</em>'s stack.</p>
     </td>
   </tr>
 </table>
