@@ -13,48 +13,150 @@ permalink: /ultimates/top/06_alpha_omega/
 This phase requires planning out and coordinating mitigations. One such
 mitigation plan is:
 
+
+<details markdown=block>
+<summary>
+  <b>Notation</b>
+</summary>
 <table>
   <tr>
-    <td colspan="2">All with H2 shields, H2 30s, and:</td>
+    <td colspan="2"><b>Party mitigations</b></td>
   </tr>
   <tr>
-    <td><b>Cosmo Memory</b></td>
-    <td>
-      <p>Tank LB3, MT 90s, ST Reprisal, D1</p>
+    <td>MT 90s, ST 90s</td>
+    <td><em>Shake It Off, Dark Missionary, Heart of Light, Divine Veil</em></td>
+  </tr>
+  <tr>
+    <td>H1 120s</td>
+    <td><em>Temperance, Neutral Sect</em></td>
+  </tr>
+  <tr>
+    <td>H2 30s</td>
+    <td><em>Sacred Soil, Kerachole</em></td>
+  </tr>
+  <tr>
+    <td>H2 90s</td>
+    <td><em>Deployment Tactics, Zoe</em></td>
+  </tr>
+  <tr>
+    <td>H2 120s</td>
+    <td><em>Expedient, Holos</em></td>
+  </tr>
+  <tr>
+    <td>D1, D2</td>
+    <td><em>Feint</em></td>
+  </tr>
+  <tr>
+    <td>D3</td>
+    <td><em>Troubadour, Tactician, Shield Samba</em></td>
+  </tr>
+  <tr>
+    <td>D4</td>
+    <td><em>Addle</em></td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Tank mitigations</b></td>
+  </tr>
+  <tr>
+    <td>30%</td>
+    <td><em>Vengeance, Shadow Wall, Nebula, Sentinel</em></td>
+  </tr>
+  <tr>
+    <td>3rd</td>
+    <td><em>Thrill of Battle, Oblation, Camouflage, Bulwark</em></td>
+  </tr>
+  <tr>
+    <td>short</td>
+    <td><em>Bloodwhetting/Nascent Flash, The Blackest Night, Heart of Conundrum, Sheltron/Intervention</em></td>
+  </tr>
+</table>
+</details>
+
+<table>
+  <th colspan="2" style="text-align:center">Attack</th>
+  <th style="text-align:center">Party mitigations</th>
+  <th style="text-align:center">Tank mitigations</th>
+  <tr>
+    <td colspan="2"><b>Cosmo Memory</b></td>
+    <td colspan="2">
+      <p>Tank LB3</p>
       <p><em>(Tank LB priority: WAR > PLD > DRK > GNB)</em></p>
+      <ul>
+        <li>MT 90s, ST Reprisal, H2 30s, D1 can be added to put them on cooldown.</li>
+      </ul>
     </td>
   </tr>
   <tr>
-    <td><b>Cosmo Dive #1</b></td>
-    <td>MT Reprisal, H1 120s, D2, D4</td>
+    <td colspan="2"><b>Cosmo Dive #1</b></td>
+    <td>MT Reprisal, H1 120s, H2 30s, D4</td>
+    <td>Rampart, 3rd, short</td>
   </tr>
   <tr>
-    <td><b>Wave Cannon #1</b></td>
+    <td rowspan="2"><b>Wave Cannon #1</b></td>
+    <td><b>Spread</b></td>
+    <td>H2 30s, D3</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><b>Stack</b></td>
     <td>
-      <p>(Invuln) PLD > GNB > DRK > WAR (Mitigate)</p>
-      <p>ST Reprisal, ST 90s, D3</p>
+      <p>+ ST Reprisal, ST 90s, D2</p>
+      <ul>
+        <li>Use ST 90s to cover spread if ST is GNB or DRK.</li>
+      </ul>
     </td>
-  </tr>
-  <tr>
-    <td><b>Wave Cannon #2</b></td>
     <td>
-      <p>(Invuln) WAR > DRK > GNB > PLD (Mitigate)</p>
-      <p>MT Reprisal, MT 90s, H2 120s, D1</p>
+      <p><em>(Invuln) PLD > GNB > DRK > WAR (Mitigate)</em></p>
+      <p>30%, short, co-tank's short</p>
     </td>
   </tr>
   <tr>
-    <td><b>Cosmo Dive #2</b></td>
-    <td><p>ST Reprisal, D2, D4</p></td>
+    <td rowspan="2"><b>Wave Cannon #2</b></td>
+    <td><b>Spread</b></td>
+    <td>H2 30s, H2 120s</td>
+    <td></td>
   </tr>
   <tr>
-    <td><b>Cosmo Meteor</b></td>
-    <td>MT Reprisal, ST 90s, H1 120s, D3</td>
+    <td><b>Stack</b></td>
+    <td>
+      <p>+ MT Reprisal, MT 90s, D1</p>
+      <ul>
+        <li>Use MT 90s to cover spread if ST is GNB or DRK.</li>
+      </ul>
+    </td>
+    <td>
+      <p><em>(Invuln) WAR > DRK > GNB > PLD (Mitigate)</em></p>
+      <p>30%, short, co-tank's short</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Cosmo Dive #2</b></td>
+    <td>ST Reprisal, H2 30s, D4</td>
+    <td>Rampart, 3rd, short</td>
+  </tr>
+  <tr>
+    <td rowspan="2"><b>Cosmo Meteor</b></td>
+    <td><b>Meteors</b></td>
+    <td>MT Reprisal, ST 90s, H1 120s, H2 30s, D3</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><b>Flares</b></td>
+    <td>H2 90s, D2</td>
+    <td></td>
   </tr>
 </table>
 
-The above mitigation plan was made in the *absence* of jobs that provide more
-than one sort of mitigation such as PLD's Passage of Arms, AST's Collective
-Unconsciousness, MCH's Dismantle, or RDM's Magick Barrier.
+The above mitigation plan is a bare-bones framework that was made in the 
+*absence* of jobs that provide more than one sort of mitigation such as PLD's 
+*Passage of Arms*, AST's *Collective Unconsciousness*, MCH's *Dismantle*, or 
+RDM's *Magick Barrier*.
+
+It was also made in the *absence* of other healer mitigations, such as 
+*Divine Benison*, *Aquaveil/Exaltation*, *Consolation/Panhaima* or *Fey 
+Illumination*. While the above framework will still work without any of these 
+abilities, healers should supplement the plan with these abilities for 
+comfort.
 
 Also note that the tank invuln/mitigation sequence is determined by the tank
 *jobs*, and not their *roles*. Keep that in mind if your tank composition does
@@ -934,10 +1036,12 @@ not to use their potions at certain buff windows.
 <table>
   <tr>
     <td>
-      <p>The (high roll) damage profile in this phase looks roughly like the 
+      <p>The (high roll) damage profile in this phase looks like the 
       following.</p>
-      <p><em>(When planning mitigations, tanks have about 108k HP, while 
-      healers and casters have 68k HP.)</em></p>
+      <p><em>When planning mitigations, tanks (MT, ST) have about 110k HP, melee 
+      (D1, D2, D3) have 77k HP, while casters (H1, H2, D4) have 68k HP. A low
+      roll on H2's shields will absorb at least 8k damage.</em></p>
+      <p>Casters have lower max HP, but higher magic defense. </p>
     </td>
   </tr>
   <tr>
@@ -945,75 +1049,78 @@ not to use their potions at certain buff windows.
       <table>
         <th style="text-align:center">Time</th>
         <th style="text-align:center">Mechanic</th>
-        <th colspan="2" style="text-align:center">Base damage (tanks/party)</th>
+        <th>Tank damage</th>
+        <th>Melee damage</th>
+        <th>Caster damage</th>
         <tr>
           <td style="text-align:center">+0:15</td>
-          <td style="text-align:center">Cosmo Memory</td>
-          <td colspan="2" style="text-align:center">398k</td>
+          <td style="text-align:center">Cosmo Memory (after tank LB3)</td>
+          <td style="text-align:center">56k</td>
+          <td style="text-align:center">82k</td>
+          <td style="text-align:center">75k</td>
         </tr>
         <tr>
           <td style="text-align:center">+0:45</td>
           <td style="text-align:center">Cosmo Dive #1</td>
-          <td style="text-align:center">283k</td>
+          <td style="text-align:center">286k</td>
           <td style="text-align:center">104k</td>
+          <td style="text-align:center">96k</td>
         </tr>
         <tr>
           <td style="text-align:center">+1:23</td>
           <td style="text-align:center">Wave Cannon #1 (spread)</td>
-          <td colspan="2" style="text-align:center">92k</td>
+          <td style="text-align:center">58k</td>
+          <td style="text-align:center">93k</td>
+          <td style="text-align:center">86k</td>
         </tr>
         <tr>
           <td style="text-align:center">+1:31</td>
           <td style="text-align:center">Wave Cannon #1 (stack)</td>
-          <td style="text-align:center">364k</td>
-          <td style="text-align:center">118k</td>
+          <td style="text-align:center">375k</td>
+          <td style="text-align:center">119k</td>
+          <td style="text-align:center">110k</td>
         </tr>
         <tr>
           <td style="text-align:center">+1:57</td>
           <td style="text-align:center">Wave Cannon #2 (spread)</td>
-          <td colspan="2" style="text-align:center">92k</td>
+          <td style="text-align:center">58k</td>
+          <td style="text-align:center">93k</td>
+          <td style="text-align:center">86k</td>
         </tr>
         <tr>
           <td style="text-align:center">+2:05</td>
           <td style="text-align:center">Wave Cannon #2 (stack)</td>
-          <td style="text-align:center">364k</td>
-          <td style="text-align:center">118k</td>
+          <td style="text-align:center">375k</td>
+          <td style="text-align:center">119k</td>
+          <td style="text-align:center">110k</td>
         </tr>
         <tr>
           <td style="text-align:center">+2:39</td>
           <td style="text-align:center">Cosmo Dive #2</td>
-          <td style="text-align:center">283k</td>
+          <td style="text-align:center">286k</td>
           <td style="text-align:center">104k</td>
+          <td style="text-align:center">96k</td>
         </tr>
         <tr>
           <td style="text-align:center">+3:04</td>
           <td style="text-align:center">Cosmo Meteor (Meteors #1)</td>
-          <td colspan="2" style="text-align:center">111k</td>
+          <td style="text-align:center">93k</td>
+          <td style="text-align:center">112k</td>
+          <td style="text-align:center">106k</td>
         </tr>
         <tr>
           <td style="text-align:center">+3:10</td>
           <td style="text-align:center">Cosmo Meteor (Meteors #2)</td>
-          <td colspan="2" style="text-align:center">111k</td>
+          <td style="text-align:center">93k</td>
+          <td style="text-align:center">112k</td>
+          <td style="text-align:center">106k</td>
         </tr>
         <tr>
           <td style="text-align:center">+3:22</td>
           <td style="text-align:center">Cosmo Meteor (Flares + stack)</td>
-          <td colspan="2" style="text-align:center">84k</td>
-        </tr>
-        <tr>
-          <td style="text-align:center">+3:35</td>
-          <td style="text-align:center">Magic Number #1</td>
-          <td colspan="2" style="text-align:center">307k</td>
-        </tr>
-        <tr>
-          <td style="text-align:center">+3:51</td>
-          <td style="text-align:center">Magic Number #2</td>
-          <td colspan="2" style="text-align:center">307k</td>
-        </tr>
-        <tr>
-          <td style="text-align:center">+4:14</td>
-          <td style="text-align:center">Run: ****mi* (enrage)</td>
-          <td colspan="2" style="text-align:center">---</td>
+          <td style="text-align:center">55k</td>
+          <td style="text-align:center">87k</td>
+          <td style="text-align:center">84k</td>
         </tr>
       </table>
     </td>
@@ -1063,27 +1170,6 @@ not to use their potions at certain buff windows.
 
 <details markdown=block>
 <summary>
-  <b>[Cosmo Memory]</b> Isn't this overmitigated?
-</summary>
-<table>
-  <tr>
-    <td>
-      <p>It is- you really only need two pieces of mitigation in addition to
-      the Tank LB3 to survive Cosmo Memory.</p>
-      <p>However, doing so means that it's okay to drop one of the tank
-      mitigations (whoever LBs) and still survive. You can also save the H2 a
-      GCD putting up shields.</p>
-      <p>The MT90s here is because you can use it here and have it back up for
-      Wave Cannon 2. More importantly, it puts the 90s on cooldown so it's
-      <em>not</em> available in Wave Cannon 1 (so it's not accidentally used at
-      the wrong place).</p>
-    </td>
-  </tr>
-</table>
-</details>
-
-<details markdown=block>
-<summary>
   <b>[Wave Cannon]</b> Does it matter which tank is in front?
 </summary>
 <table>
@@ -1119,6 +1205,89 @@ not to use their potions at certain buff windows.
 
 <details markdown=block>
 <summary>
+  <b>[Wave Cannon #2]</b> Why does <em>Wave Cannon #2</em> have an extra <em>Feint</em> that isn't in <em>Wave Cannon #1</em>?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>You can see the FAQ about <em>Shake It Off</em> and <em>Expedient</em>
+      for more details, but the <em>Feint</em> at <em>Wave Cannon #2</em> is
+      insurance against a WAR and/or SCH independently moving their assigned
+      mitigations (<em>Shake It Off</em> and <em>Expedient</em> respectively) 
+      off <em>Wave Cannon #2</em>'s stack.</p>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
+  <b>[Wave Cannon #2]</b> I see some WAR MTs use <em>Shake It Off</em> to mitigate
+  <em>Wave Cannon #2's</em> spread instead of the stack. Similarly, some SCHs 
+  use <em>Expedient</em> at <em>Cosmo Dive #1</em> and <em>Cosmo Meteor</em> 
+  instead of mitigating <em>Wave Cannon #2</em>'s stack. Is there a problem?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>Some WARs will <em>Shake It Off</em> immediately after <em>Wave 
+      Cannon #1's</em> stack, which lasts long enough to mitigate <em>Wave 
+      Cannon #2's</em> spread. This lets them get an additional use of 
+      <em>Shake It Off</em> at <em>Cosmo Meteor's</em> Flares.</p>
+      <p>In a similar vein, some SCHs prefer to use <em>Expedient</em> like 
+      H1's 120s, mitigating <em>Cosmo Dive #1</em> and <em>Cosmo Meteor</em>. 
+      Instead of <em>Expedient</em>, SCHs will use <em>Fey Illumination</em> 
+      to mitigate <em>Wave Cannon #2's</em> stack.</p>
+      <p>Strictly speaking, there's nothing wrong with any of this 
+      <em>provided the party survives Wave Cannon #2's stack.</em></p>
+      <p>However, problems may arise when:</p>
+      <ul>
+        <li>The WAR uses <em>Shake It Off</em> to mitigate the spread damage,
+        but lacks the contextual understanding that it's a SCH's <em>Fey 
+        Illumination</em> that makes up for it and does so in a party with a 
+        SGE H2.</li>
+        <li>Both the WAR <em>and</em> the SCH independently move their 
+        assigned mitigations off <em>Wave Cannon #2's stack</em>.</li>
+      </ul>
+      <p>Unfortunately, WAR is very popular in TOP because of how 
+      <em>Holmgang</em> simplifies the <em>Solar Ray</em> tankbusters in P5,
+      and SCH is very strong at mitigating P6, so this particular combination
+      (and thus scenario) is not uncommon.</p>
+      <p>This is the reason why a <em>Feint</em> has been added to <em>Wave 
+      Cannon #2's</em> mitigation as insurance against this happening.
+      The SCH may also need to add <em>Dissipation</em> to the mix to ensure 
+      the party survives a high-roll.</p>
+      <p>On the plus side, the WAR using <em>Shake It Off</em> at <em>Cosmo 
+      Meteor's</em> Flares mean that <em>Feint</em> will not be needed 
+      there.</p>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
+  <b>[Cosmo Meteor]</b> What if the ST is a WAR or PLD? Wouldn't <em>Shake It Off/Divine Veil</em> only block one round of Meteors?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>Yes, it would, and <em>Dark Missionary</em> or <em>Heart of Light</em> 
+      would mitigate both Meteor waves.</p>
+      <p>However, one problem with <em>Cosmo Meteor</em> is that it comes up a 
+      bit under 30 seconds after Cosmo Dive, so depending on when the H2 used 
+      <em>Sacred Soil/Kerachole</em>, the H2 30s mitigation may not be 
+      available to catch the first wave of four Meteor hits- this is where
+      the ST 90s mitigations come in to make up for this first wave of Meteors 
+      while the H2 30s come back off cooldown, even if it's just a shield from
+      <em>Divine Veil</em> or <em>Shake It Off</em>.</p>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
   <b>[Magic Number]</b> What is the DRK suicide strat?
 </summary>
 <table>
@@ -1141,7 +1310,6 @@ not to use their potions at certain buff windows.
 /statusoff "Land Waker"
 /statusoff "Last Bastion"</pre>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/drk_living_shadow.jpg"></td>
   </tr>
 </table>
 </details>
@@ -1157,35 +1325,38 @@ not to use their potions at certain buff windows.
 <table>
   <tr>
     <td>
-      <p>If you have a MCH in your party, check where they are using <em>Dismantle</em>.</p>
+      <p>Check how many debuffs <em>(Addle, Dismantle, Feint, Reprisal)</em> were  
+      applied to the boss while the party is spread out for the first part of 
+      <em>Wave Cannon</em>.</p>
+      <p><b>There should just be one debuff on the boss while the party is spread 
+      out.</b></p>
       <p>The reason behind this is due to how LB is generated.- LB is generated
       whenever someone survives damage that is equal to or greater than their
       current HP due to mitigation or shields.</p>
       <p>However, there is some fine print- the order of operations are:</p>
       <ol>
-        <li>Apply debuffs to reduce outgoing damage <em>(Reprisal, Addle, Dismantle, Feint)</em></li>
+        <li>Apply debuffs to reduce outgoing damage <em>(Addle, Dismantle, Feint, Reprisal)</em></li>
         <li><b>Generate LB if damage is equal to or greater than current HP</b></li>
         <li>Apply mitigations to reduce incoming damage <em>(Aquaveil, Kerachole, Sacred Soil, Third Eye,
         etc.)</em></li>
-        <li>Absorb damage from shields <em>(Divine Veil, Shade Shift, Succor)</em></li>
+        <li>Absorb damage from shields <em>(Divine Veil, Shade Shift, Succor, etc.)</em></li>
       </ol>
       <p>The problem is that if enough debuffs are on the boss at Step 1, the
       damage at Step 2 is <em>no longer lethal</em>, and thus, <em>LB is not
       generated.</em></p>
-      <p>In Wave Cannon's case, the base damage of the initial beams (78k-93k, 
-      excluding tanks) is only just a bit more than the party member's max HP 
-      (70k-78k), and is thus particularly susceptible to being overmitigated 
-      this way.</p>
-      <p>A single Reprisal takes this down to 70.2k-83.7k damage, which already 
-      borders on not being lethal. Adding a Dismantle on top of that lowers the 
-      damage down to 63.2k-75.3k, well within a player's max HP. This is no 
-      longer lethal damage, and no LB is generated as a result.</p>
+      <p>In Wave Cannon's case, the base damage of the initial beams (83k-93k 
+      for melee, 77k-86k for casters) is lethal, but not by much compared to the 
+      party's max HP (77k for melee, 68k for casters), and is thus particularly 
+      susceptible to being overmitigated this way.</p>
+      <p>A single Reprisal takes this down to 74.7k vs. 69.3k damage, which 
+      already borders on not being lethal. Adding a Dismantle on top of that 
+      lowers the damage down to 67.2k vs. 62.3k, well within a player's max HP. 
+      This is no longer lethal damage, and no LB is generated as a result.</p>
       <p>Take note:</p>
       <ul>
-        <li>This specifically affects boss <b>debuffs</b> because they are 
-        applied at Step 1, <em>before</em> LB is generated. It just so happens 
-        that a MCH's <em>Dismantle</em> is the only debuff that's not part of 
-        the standard suite <em>(Addle, Feint, Reprisal)</em>.</li>
+        <li>This specifically affects boss <b>debuffs</b> <em>(Addle, Dismantle, 
+        Feint, Reprisal)</em> because they are applied at Step 1, <em>before</em>
+        LB is generated.</li>
         <li>Other "extra mitigations" like <em>Passage of Arms</em>, <em>Magick
         Barrier</em>, <em>Collective Unconsciousness</em>, etc. <b>do not</b>
         affect LB generation, because they are applied at Step 3 instead.</li>
@@ -1193,8 +1364,6 @@ not to use their potions at certain buff windows.
         Sect</em>, <em>Zoe</em>) also <b>do not</b> affect LB generation,
         because they are applied at Step 4.</li>
       </ul>
-      <p>If you want to <em>Dismantle</em>, apply it for the final Wave Cannon
-      stack <em>only</em>.</p>
     </td>
   </tr>
 </table>
