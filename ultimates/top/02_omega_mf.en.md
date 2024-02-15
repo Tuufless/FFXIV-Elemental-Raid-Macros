@@ -298,3 +298,22 @@ mechanics at the party to resolve.
   </tr>
 </table>
 </details>
+
+<details markdown=block>
+<summary>
+  <b>[Mid/Remote Glitch]</b> What are the acceptable ranges for these?
+</summary>
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li><b>Mid Glitch:</b> Between 20-26 yalms.</li>
+        <li><b>Remote Glitch:</b> At least 35 yalms.</li>
+      </ul>
+      <p>Observe that standing on the markers would be too short to satisfy 
+      <em>Mid Glitch</em>.</p>
+    </td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/02/glitch_ranges.jpg"></td>
+  </tr>
+</table>
+</details>
