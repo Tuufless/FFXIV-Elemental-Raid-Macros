@@ -52,7 +52,6 @@ major mechanic of this phase.
       <p><b>2.</b> Playstation markers appear.</p>
       <p>If your group has two of the same marker, the <b>lower</b> player
       swaps groups.</p>
-      <p><em>(Equivalently, if your tether goes upwards, swap groups.)</em></p>
       <p><em>(In this example, the MT and D4 will swap groups.)</em></p>
       <p><b>Remember your Playstation symbol and which side you will be on for
       later.</b></p>
@@ -79,12 +78,8 @@ major mechanic of this phase.
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
 <details markdown=block>
 <summary><b>[Click to Expand] Safe spots</b></summary>
+<p>Note how the markers demarcate the boundary of Omega-F's AoEs.</p>
 <table>
-  <tr>
-    <td colspan="2">
-      <p>Note how the markers demarcate the boundary of Omega-F's AoEs.</p>
-    </td>
-  </tr>
   <tr>
     <td width="50%">
       <p><b>M Sword, F Blade-legs:</b></p>
@@ -129,8 +124,8 @@ major mechanic of this phase.
       <p><b>5.</b> A fifth Omega-M will spawn in a random location (briefly
       flashing white), making three Omega-M clones standing in a row.</p>
       <p><b>Use this new Omega-M as the new North.</b></p>
-      Come back to the center of the arena. As you do so, two players will be
-      marked with stack markers. If one side has both stack markers, the one
+      <p>Come back to the center of the arena. As you do so, two players will 
+      be marked with stack markers. If one side has both stack markers, the one
       <b>further</b> from the eye swaps with their partner in the other group.</p>
       <p><em>(In this example, the left side × and □ players both have a stack
       marker. Since □ is further from the eye, the □ players swap sides.)</em></p>
@@ -175,9 +170,9 @@ target as the Packet Filter debuff is still on.
 After three autoattacks, the two clones will cast *Limitless Synergy* and the
 Packet Filter debuffs will drop, so the party can now hit either target.
 
-Omega-F will teleport North and begin casting *Laser Shower*, which acts as the
-hard-enrage. Omega-M will teleport to the middle of the arena and shield
-Omega-F, rendering her invulnerable until Omega-M is defeated.
+Omega-F will teleport North and begin casting *Laser Shower*. Omega-M will 
+teleport to the middle of the arena and shield Omega-F, rendering her 
+invulnerable until Omega-M is defeated.
 
 Meanwhile, five more Omega-M/F clones outside the arena will throw various
 mechanics at the party to resolve.
@@ -242,12 +237,19 @@ mechanics at the party to resolve.
       <p><b>12.</b> The shield clone then casts Pile Pitch on the closest
       player (which should not be the tank that was hit with Beyond Defense)
       together with <em>Optimised Meteor</em>.</p>
-      <p>This will need to be mitigated with at least 30% mitigations and
-      shields.</p>
+      <p>This will need to be <em>heavily</em> mitigated.</p>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/02/limitless_synergy_06.jpg"></td>
   </tr>
 </table>
+
+After *Pile Pitch* resolves, the eye will cast *Cosmo Memory*, another 
+raid-wide. Because *Cosmo Memory* is cast by the Eye, this damage cannot be
+mitigated through targeted debuffs *(Addle, Dismantle, Feint, Reprisal)*.
+
+With no other mechanics left in the phase, the party must defeat Omega-M,
+followed by Omega-F (in that order) before Omega-F's *Laser Shower* resolves as
+the hard enrage.
 
 ---
 
