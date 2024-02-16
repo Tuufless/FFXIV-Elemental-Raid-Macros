@@ -107,6 +107,11 @@ pair. Note how the markers demarcate the boundary of Omega-F's AoE.
   </tr>
 </table>
 
+This will take considerable practice. Nukemaru has compiled a collection of 
+clips which may help:
+
+{% include youtube.html id="tfZgwiXoSoY" %}
+
 After dodging Omega-M/F's AoEs, the party now resolves Mid/Remote Glitch.
 
 <table>
@@ -156,11 +161,6 @@ After dodging Omega-M/F's AoEs, the party now resolves Mid/Remote Glitch.
     </td>
   </tr>
 </table>
-
-Identifying the first set of safe spots will take some practice. Nukemaru has
-compiled a collection of clips which may help:
-
-{% include youtube.html id="tfZgwiXoSoY" %}
 
 ---
 
