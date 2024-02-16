@@ -13,7 +13,6 @@ permalink: /ultimates/top/06_alpha_omega/
 This phase requires planning out and coordinating mitigations. One such
 mitigation plan is:
 
-
 <details markdown=block>
 <summary>
   <b>Notation</b>

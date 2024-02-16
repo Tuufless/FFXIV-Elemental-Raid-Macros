@@ -18,6 +18,49 @@ the main mechanics loop.
 
 This phase requires some mitigation planning. As a baseline, start with:
 
+<details markdown=block>
+<summary>
+  <b>Notation</b>
+</summary>
+<table>
+  <tr>
+    <td colspan="2"><b>Party mitigations</b></td>
+  </tr>
+  <tr>
+    <td>MT 90s, ST 90s</td>
+    <td><em>Shake It Off, Dark Missionary, Heart of Light, Divine Veil</em></td>
+  </tr>
+  <tr>
+    <td>H1 120s</td>
+    <td><em>Temperance, Neutral Sect</em></td>
+  </tr>
+  <tr>
+    <td>H2 30s</td>
+    <td><em>Sacred Soil, Kerachole</em></td>
+  </tr>
+  <tr>
+    <td>H2 90s</td>
+    <td><em>Deployment Tactics, Zoe</em></td>
+  </tr>
+  <tr>
+    <td>H2 120s</td>
+    <td><em>Expedient, Holos</em></td>
+  </tr>
+  <tr>
+    <td>D1, D2</td>
+    <td><em>Feint</em></td>
+  </tr>
+  <tr>
+    <td>D3</td>
+    <td><em>Troubadour, Tactician, Shield Samba</em></td>
+  </tr>
+  <tr>
+    <td>D4</td>
+    <td><em>Addle</em></td>
+  </tr>
+</table>
+</details>
+
 <table>
   <tr>
     <td><b>Akh Morn's Edge #1</b></td>
@@ -25,7 +68,7 @@ This phase requires some mitigation planning. As a baseline, start with:
   </tr>
   <tr>
     <td><b>Gigaflare's Edge #1</b></td>
-    <td>MT 90s, ST Reprisal, D2, D4</td>
+    <td>ST Reprisal, D2, D4</td>
   </tr>
   <tr>
     <td><b>Akh Morn's Edge #2</b></td>
