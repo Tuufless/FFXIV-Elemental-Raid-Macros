@@ -62,9 +62,13 @@ major mechanic of this phase.
   </tr>
   <tr>
     <td>
-      <p><b>3.</b> Locate the Omega-M and Omega-F towards the edge of the arena
-      that are opposite one another.</p>
-      <p>Dodge their AoEs.</p>
+      <p><b>3.</b> Two Omega-M and two Omega-F clones will spawn.</p>
+      <p>Locate the Omega-M <b>towards the outside</b>, the Omega-F clone <b>directly opposite</b>, and dodge their combined AoEs.</p>
+      <p>The other pair is a decoy, and can be ignored:</p>
+      <ul>
+        <li>The decoy Omega-M will always be in the center, holding a sword.</li>
+        <li>The decoy Omega-F will always be at an (inter)cardinal position (on a marker), holding a staff.</li>
+      </ul>
       <p><em>(You do not need to consider the Mid/Remote Glitch tethers at this
       point.)</em></p>
     </td>
@@ -76,6 +80,11 @@ major mechanic of this phase.
 <details markdown=block>
 <summary><b>[Click to Expand] Safe spots</b></summary>
 <table>
+  <tr>
+    <td colspan="2">
+      <p>Note how the markers demarcate the boundary of Omega-F's AoEs.</p>
+    </td>
+  </tr>
   <tr>
     <td width="50%">
       <p><b>M Sword, F Blade-legs:</b></p>
