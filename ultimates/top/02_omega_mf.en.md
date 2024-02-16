@@ -65,13 +65,15 @@ major mechanic of this phase.
   </tr>
   <tr>
     <td>
-      <p><b>3.</b> Two Omega-M and two Omega-F clones will spawn.</p>
-      <p>Locate the Omega-M <b>towards the outside</b>, the Omega-F clone <b>directly opposite</b>, and dodge their combined AoEs.</p>
-      <p>The other pair is a decoy, and can be ignored:</p>
+      <p><b>3.</b> Two Omega-M and two Omega-F clones will spawn. One of these
+      Omega-M/F pairs will be a decoy.</p>
+      <p>Identify the genuine Omega-M/F pair, and dodge their combined AoEs:</p>
       <ul>
-        <li>The decoy Omega-M will always be in the center, holding a sword.</li>
-        <li>The decoy Omega-F will always be at an (inter)cardinal position (on a marker), holding a staff.</li>
+        <li>Omega-M will always be towards the outside.</li>
+        <li>Omega-F will be directly opposite.</li>
+        <li>Each will be <em>in between</em> two markers.</li>
       </ul>
+      <p>The other pair is a decoy, and can be ignored.</p>
       <p><em>(You do not need to consider the Mid/Remote Glitch tethers at this
       point.)</em></p>
     </td>
@@ -79,10 +81,9 @@ major mechanic of this phase.
   </tr>
 </table>
 
-<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
-<details markdown=block>
-<summary><b>[Click to Expand] Safe spots</b></summary>
-<p>Note how the markers demarcate the boundary of Omega-F's AoEs.</p>
+Omega-M/F's AoEs are determined by the weapons held by the genuine Omega-M/F
+pair. Note how the markers demarcate the boundary of Omega-F's AoE.
+
 <table>
   <tr>
     <td width="50%">
@@ -105,8 +106,8 @@ major mechanic of this phase.
     </td>
   </tr>
 </table>
-</details>
-</div>
+
+After dodging Omega-M/F's AoEs, the party now resolves Mid/Remote Glitch.
 
 <table>
   <tr>
