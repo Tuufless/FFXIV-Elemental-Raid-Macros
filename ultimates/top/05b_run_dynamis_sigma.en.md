@@ -26,7 +26,7 @@ Run: Dynamis (Sigma Version) can be broken down into three parts:
       serve as "north" for this part.</p>
       <p>Line up in two columns of four between the two arms.</p>
       <ul>
-        <li><b>Top:</b> 〇 × △ □ <b>:Bottom</b></li>
+        <li><b>Top:</b> 〇 × ▽ □ <b>:Bottom</b></li>
       </ul>
       <p><em>(All tethers should be horizontal)</em></p>
       <p>This establishes where "North" will be for this first part of the

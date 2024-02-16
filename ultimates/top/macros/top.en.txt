@@ -19,7 +19,7 @@
 　　　Eye　　　　　　Eye
 　　〇　　〇　　　　〇　　□　※ If a side has two
 　　×　　×　　　　×　　×　　stacks → Furthest
-　　△　　△　　　　△　　△　　from eye adjusts
+　　▽　　▽　　　　▽　　▽　　from eye adjusts
 　　□　　□　　　　□　　〇
 　Using the three Omega-M as North:
 　　Mid：Left→West, Right→South
@@ -73,7 +73,7 @@ Rocket Punch：Inner tethers adjust
  Final Omega  ｜　①　　❶L　　②
 　　〇　〇　　 ｜no mark　　no mark
 　　×　×　　 ｜　❷L　　　　　❷R
-　　△　△　　 ｜
+　　▽　▽　　 ｜
 　　□　□　　 ｜　②　　❶R　　①
 Beetle Omega｜❶❷：2-marker pairs
 　　　　　　　 ｜①②：1-marker pairs

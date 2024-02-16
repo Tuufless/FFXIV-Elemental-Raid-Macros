@@ -113,7 +113,7 @@ major mechanic of this phase.
   <tr>
     <td width="50%">
       <p><b>4.</b> Using the Eye as North, split up into your 4:4 groups.</p>
-      <p>If the party's debuff is Mid Glitch, spread in the order 〇×△□ from
+      <p>If the party's debuff is Mid Glitch, spread in the order 〇×▽□ from
       top-to-bottom.</p><p>Otherwise, if the party's debuff is Remote Glitch,
       only the <b>right-side group's 〇 and □</b> swap positions.</p>
       <p>Four Omega-M clones will also spawn along either all the cardinals, or
@@ -273,7 +273,7 @@ mechanics at the party to resolve.
 
 <details markdown=block>
 <summary>
-  <b>[Party Synergy]</b> Is there a reason why the order is 〇×△□?
+  <b>[Party Synergy]</b> Is there a reason why the order is 〇×▽□?
 </summary>
 <table>
   <tr>
@@ -283,7 +283,7 @@ mechanics at the party to resolve.
       <ul>
         <li>〇 has 1 line.</li>
         <li>× has 2 lines.</li>
-        <li>△ has 3 lines.</li>
+        <li>▽ has 3 lines.</li>
         <li>□ has 4 lines.</li>
       </ul>
     </td>

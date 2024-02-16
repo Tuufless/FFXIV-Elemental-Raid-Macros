@@ -67,7 +67,7 @@
 　　　　　　　　　　　　① = Non-doom
 　　　　②　　③　　　　　　(dodge 3rd Impact)
 　■ Playstation 2 (Anchored Dooms)
-　　(△/□) × (△/□)　  ※  +  bait circles
+　　(▽/□) × (▽/□)　  ※  +  bait circles
 　　　 　　　　　　※ Doom players stay
 　　　　 × 　　　　　non-doomed adjust
 　■ Meteors：Caster LB2 (centered true N)
