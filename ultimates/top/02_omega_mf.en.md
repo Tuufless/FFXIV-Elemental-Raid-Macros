@@ -11,10 +11,11 @@ permalink: /ultimates/top/02_omega_mf/
 <table>
   <tr>
     <td width="50%">
-      <p><b>1.</b> Stay near to your assigned boss.</p>
-      <p>Omega M and F will cast <em>Firewall</em>, which will apply a debuff
-      on the four closest players.</p>
-      <p>Those players will only be able to attack that target.</p>
+      <p><b>1.</b> Omega-M and Omega-F will spawn.</p>
+      <p>The party will get two GCDs before Omega M and F cast <em>Firewall</em>,
+      which applies a debuff on the four closest players. Those players will
+      only be able to attack that target.</p>
+      <p>Stay near to your assigned boss to ensure you get the correct debuff.</p>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/02/omega_mf_01.jpg"></td>
   </tr>
@@ -44,6 +45,9 @@ major mechanic of this phase.
   <tr>
     <td width="50%">
       <p><b>1.</b> Line-up in your light parties from north-to-south.</p>
+      <ul>
+        <li><b>N:</b> Healer > Tank > Melee > Ranged <b>:S</b></li>
+      </ul>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/02/party_synergy_01.jpg"></td>
   </tr>
