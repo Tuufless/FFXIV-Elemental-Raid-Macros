@@ -65,15 +65,14 @@ major mechanic of this phase.
   </tr>
   <tr>
     <td>
-      <p><b>3.</b> Two Omega-M and two Omega-F clones will spawn. One of these
-      Omega-M/F pairs will be a decoy.</p>
-      <p>Identify the genuine Omega-M/F pair, and dodge their combined AoEs:</p>
+      <p><b>3.</b> Two Omega-M and two Omega-F clones will spawn.</p>
+      <p>Identify the Omega-M/F pair with:</p>
       <ul>
-        <li>Omega-M will always be towards the outside.</li>
-        <li>Omega-F will be directly opposite.</li>
+        <li>Omega-M towards the outside.</li>
+        <li>Omega-F directly opposite.</li>
         <li>Each will be <em>in between</em> two markers.</li>
       </ul>
-      <p>The other pair is a decoy, and can be ignored.</p>
+      <p>Dodge their combined AoEs.</p>
       <p><em>(You do not need to consider the Mid/Remote Glitch tethers at this
       point.)</em></p>
     </td>
@@ -131,8 +130,9 @@ After dodging Omega-M/F's AoEs, the party now resolves Mid/Remote Glitch.
   </tr>
   <tr>
     <td>
-      <p><b>5.</b> A fifth Omega-M will spawn in a random location (briefly
-      flashing white), making three Omega-M clones standing in a row.</p>
+      <p><b>5.</b> The other Omega-M/F pair will now switch genders.</p>
+      <p>Omega-F will change to Omega-M (briefly flashing white) to make three
+      Omega-Ms standing in a row.</p>
       <p><b>Use this new Omega-M as the new North.</b></p>
       <p>Come back to the center of the arena. As you do so, two players will 
       be marked with stack markers. If one side has both stack markers, the one
@@ -144,8 +144,9 @@ After dodging Omega-M/F's AoEs, the party now resolves Mid/Remote Glitch.
   </tr>
   <tr>
     <td>
-      <p><b>6.</b> Omega-F will spawn in the middle and knock back all players.</p>
-      <p>The party needs to get knocked back from the center into the two safe spots.</p>
+      <p><b>6.</b> The (new) Omega-F will then do a knockback from the center.</p>
+      <p>The party needs to get knocked back into two safe spots, based on whether the party has 
+      Mid or Remote Glitch.</p>
       <ul>
         <li>The left-side group will always knockback to the west.</li>
         <li>The right-side group will adjust depending on the party's debuff:
@@ -162,18 +163,29 @@ After dodging Omega-M/F's AoEs, the party now resolves Mid/Remote Glitch.
   </tr>
 </table>
 
+Because Omega-M and Omega-F swapped genders during *Party Synergy*, the tank
+who previously had hate on Omega-M will now have hate on Omega-F, and 
+vice-versa. Both tanks will need to *Provoke* their target either before 
+*Party Synergy*, or immediately after as the *Packet Filter* debuff is still 
+on.
+
+After a few autoattacks, the two clones will cast *Limitless Synergy*, dropping
+the *Packet Filter* debuffs, and giving the party one GCD to hit both targets
+before starting *Limitless Synergy*.
+
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+  <p><b>Tip:</b> Omega-M will briefly stop auto-attacking to cast <em>Synthetic
+  Shield</em> to prepare for <em>Limitless Synergy</em>.</p>
+  <p>As a result, the ST (who is holding Omega-F) will take more damage during
+  this interim from Omega-F's auto-attacks.</p>
+  <p>This is also a good place to use <em>Addle</em>, as Omega-F's auto-attacks
+  are magical, and targeted debuffs will not be used during <em>Limitless 
+  Synergy</em>.</p>
+</div>
+
 ---
 
 ## Limitless Synergy
-
-Omega-M and Omega-F will reappear in the middle of the arena.
-
-The two Omega clones will swap genders (the tank who previously had hate on
-Omega-M will now have hate on Omega-F). Both tanks will need to Provoke their
-target as the Packet Filter debuff is still on.
-
-After three autoattacks, the two clones will cast *Limitless Synergy* and the
-Packet Filter debuffs will drop, so the party can now hit either target.
 
 Omega-F will teleport North and begin casting *Laser Shower*. Omega-M will 
 teleport to the middle of the arena and shield Omega-F, rendering her 
