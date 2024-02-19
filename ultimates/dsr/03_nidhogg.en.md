@@ -33,6 +33,56 @@ Only one or two pairs of arrow debuffs will appear. The following diagrams
 illustrate a scenario where all groups have a pair of arrows, but this will not
 actually happen in-game.
 
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+<details markdown=block>
+<summary><b>[Click to Expand] Arrow debuffs</b></summary>
+<table>
+  <tr>
+    <td colspan="2">
+      <p>When Nidhogg clones dive onto players (in order, based on the 
+      <em>First in Line</em>, <em>Second in Line</em>, and <em>Third in Line</em> 
+      debuffs), a tower will spawn shortly for another player to take.</p>
+      <p><em>Where</em> these towers will spawn is determined by the "arrow" 
+      debuffs.</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center">
+      <img src="{{site.baseurl}}/assets/images/ultimates/dsr/03/debuffs/high_jump.png">
+    </td>
+    <td>
+      <p><b>High Jump Target</b></p>
+      <p>This is the base case- the tower will spawn where the player was 
+      standing.</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center">
+      <img src="{{site.baseurl}}/assets/images/ultimates/dsr/03/debuffs/spineshatter_dive.png">
+    </td>
+    <td>
+      <p><b>Spineshatter Dive Target</b></p>
+      <p>The tower will spawn 15 yalms (a little shorter than Nidhogg's 
+      targeting circle's diameter) <b>in front</b> of where the player was 
+      standing, based on the direction the player was facing at the time the
+      dive landed.</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center">
+      <img src="{{site.baseurl}}/assets/images/ultimates/dsr/03/debuffs/elusive_jump.png">
+    </td>
+    <td>
+      <p><b>Elusive Jump Target</b></p>
+      <p>The tower will spawn 15 yalms (a little shorter than Nidhogg's 
+      targeting circle's diameter) <b>behind</b> where the player was standing,
+      based on the direction the player was facing at the time the dive landed.</p>
+    </td>
+  </tr>
+</table>
+</details>
+</div>
+
 <table>
   <tr>
     <td width="50%"><p><b>1.</b> Numbers appear.</p>
