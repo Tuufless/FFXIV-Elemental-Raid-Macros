@@ -82,9 +82,18 @@ mitigations; however, which two will depend on your party composition.
   <th>If your party has a WAR</th>
   <th>If your party does not have a WAR</th>
   <tr>
-    <td><b>Before Delta</b></td>
-    <td>Hallowed Ground > Superbolide > Tank swap + Full buffs</td>
-    <td>Hallowed Ground > Superbolide > Living Dead</td>
+    <td rowspan="2"><b>Before Delta</b></td>
+    <td>
+      <p>Hallowed Ground > Superbolide > Tank swap + Full buffs</p>
+    </td>
+      <td>Hallowed Ground > Superbolide > Living Dead
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <em>(N.B: With fast killtimes in P1-P3, Hallowed Ground may not be
+      back in time.)</em>
+    </td>
   </tr>
   <tr>
     <td><b>Before Sigma</b></td>
@@ -118,6 +127,19 @@ mitigations; however, which two will depend on your party composition.
 
 Note that the invuln/mitigation order is determined by the tank *jobs*, and
 not by the tank *roles*.
+
+<div style="background-color: #200 ; padding: 10px; border: 1px solid;">
+  <p><b>Note:</b> There is an edge case where you specifically have:</p>
+  <ul>
+    <li>WAR <em>and</em> PLD tanks</li>
+    <li>Fast killtimes <em>(Hallowed Ground not available for first Solar Ray)</em></li>
+  </ul>
+  <p>In such a scenario, use <em>Holmgang</em> for the second <em>Solar Ray</em>,
+  essentially falling back to the "no WAR" plan. WARs, however, may not be
+  familiar with this fallback.</p>
+</div>
+
+After the Solar Ray, Omega-M will cast *Run: \*\*\*\*mi\* (Delta Version)*, which is a *very* hard-hitting raid-wide.
 
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
   <p><b>Tip:</b> There is ~1:22 between Run Dynamis (Delta Version) and Run:
