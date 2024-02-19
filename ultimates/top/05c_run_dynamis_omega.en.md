@@ -112,12 +112,10 @@ the first safe spot *(determine whether you're going to move cw or ccw, and whet
   </tr>
 </table>
 
-<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
-  <p><b>Tip:</b> Omega-F will auto-attack a total of eight times during this
-  whole sequence, and tanks cannot use cooldowns to mitigate them because of the
-  upcoming Solar Ray.</p>
-  <p>Consider tank-swapping halfway (around the first AoE dodge) to split the
-  auto-attack damage between the two tanks.</p>
+<div style="background-color: #200 ; padding: 10px; border: 1px solid;">
+  <p><b>Note:</b> Pay attention to the MT, as Omega-F will continue to 
+  auto-attack during this whole sequence, and tanks cannot use major cooldowns
+  to mitigate the damage because of the upcoming Solar Ray.</p>
 </div>
 
 Nukemaru has compiled a collection of clips which may help:
