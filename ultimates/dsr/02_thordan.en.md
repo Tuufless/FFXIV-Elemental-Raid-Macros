@@ -133,8 +133,20 @@ Thordan will then cast *Sanctity of the Ward*.
 
 ### Part 1: Sacred Severs
 
-- Two knights (PLDs) will spawn in the center, facing either *clockwise* or *anti-clockwise*.
-- A third knight (DRK) will spawn towards the outside, at an *intercardinal* position.
+This mechanic consists of the following parts:
+
+- Two knights (PLDs) will spawn a little east and west of the center, facing 
+  either *clockwise* or *anti-clockwise*.
+- Ser Zephirin (DRK) will spawn towards the outside, at an *intercardinal* 
+  position.
+- Thordan and a Dragon Eye will appear at two random cardinal/intercardinal
+  locations, either 90, 135, or 180 degrees apart.
+- Two random players will be assigned "1" and "2", indicated by the number of
+  swords above their head.
+
+Ser Zephirin will jump four times, alternating between the two players marked
+"1" and "2". When he lands, he deals damage in an AoE that is shared amongst
+the players hit. This damage *decreases* as the distance Ser Zephirin jumps increases.
 
 We resolve Sacred Severs with a **DRK-relative, role-adjust** strat.
 
@@ -142,10 +154,7 @@ We resolve Sacred Severs with a **DRK-relative, role-adjust** strat.
 - ST, H2, D2, D4 takes Group 2 as its base position, on the **same side** as
   the DRK.
 
-Two random players will be assigned "1" and "2", indicated by the number of
-swords above their head. This forces them to join that group.
-
-If a player in a group receives the wrong numbered sword from their group (e.g:
+If a player in a group receives the wrong numbered sword for their group (e.g:
 D3 receives the "2" sword), then the **corresponding role** in the other group
 (D4) swaps groups with that person.
 
@@ -167,8 +176,9 @@ In other words:
         <li><em>Group 2 starts 3-4 notches clockwise of the mark behind the DRK (SE).</em></li>
       </ul>
       <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
-        <p><b>Tip:</b> Thordan and the Dragon Eye always spawn at (inter)cardinal positions (90, 135, or 180 degrees apart).</p>
-        <p>Because the party starts offset from intercardinals, simply facing directly outside will automatically dodge <em>both</em> gazes.</p>
+        <p><b>Tip:</b> Because the two groups starts offset from 
+        intercardinals, simply facing directly outside from the starting 
+        positions will automatically dodge <em>both</em> gazes.</p>
       </div>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/02/sanctity_drk_relative_cw_01.jpg"></td>
