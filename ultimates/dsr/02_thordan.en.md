@@ -168,7 +168,8 @@ In other words:
       </ul>
       <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
         <p><b>Tip:</b> Thordan and the Dragon Eye always spawn at (inter)cardinal positions (90, 135, or 180 degrees apart).</p>
-        <p>Because the party starts offset from intercardinals, simply facing directly outside will automatically dodge <em>both</em> gazes.</p></div>
+        <p>Because the party starts offset from intercardinals, simply facing directly outside will automatically dodge <em>both</em> gazes.</p>
+      </div>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/02/sanctity_drk_relative_cw_01.jpg"></td>
   </tr>
@@ -197,6 +198,55 @@ In other words:
     <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/02/sanctity_drk_relative_cw_04.jpg"></td>
   </tr>
 </table>
+
+<details>
+<summary>
+  <b>[Sacred Sever]</b> Knights facing anti-clockwise
+</summary>
+<table>
+  <tr>
+    <td width="50%">
+      <p><b>1.</b> Sort out swords, and start 3-4 notches away from the 
+      intercardinal positions <b>in the same direction the inside knights are 
+      facing</b>.</p>
+      <p>Look away from <em>both</em> Thordan and the Dragon Eye.</p>
+      <p><em>In this example, the DRK is SE, and the center two knights are facing anti-clockwise. Thus:</em></p>
+      <ul>
+        <li><em>Group 1 starts 3-4 notches anti-clockwise of the opposite mark 
+        (NW).</em></li>
+        <li><em>Group 2 starts 3-4 notches anti-clockwise of the mark behind
+        the DRK (SE).</em></li>
+      </ul>
+    </td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/02/sanctity_drk_relative_ccw_01.jpg"></td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>2.</b> The two gazes will resolve.</p>
+      <p>The two knights will begin their dashes, dropping white balls and AoEs in their path.</p>
+      <p>At the same time, Ser Zephirin (the DRK) will jump four times in 
+      total, alternating between the players marked with one and two swords.</p>
+    </td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/02/sanctity_drk_relative_ccw_02.jpg"></td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>3.</b> Your movement will also be in the <b>same direction</b> that
+      the inside knights faced.</p>
+      <p><b>Wait for the explosion in front of you to go off first before 
+      moving.</b></p>
+      <p>Notice that because the party is moving towards E/W, the movement
+      timing is different from the previous example.</p>
+    </td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/02/sanctity_drk_relative_ccw_03.jpg"></td>
+  </tr>
+  <tr>
+    <td><b>4.</b> When the orbs in front of the party explode, move and stop 
+    three notches away from the next shuriken.</td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/02/sanctity_drk_relative_ccw_04.jpg"></td>
+  </tr>
+</table>
+</details>
 
 ### Part 2: Meteors
 
@@ -298,10 +348,12 @@ Since there are many Meteor configurations, here are a couple additional
 scenarios to consider.
 
 <details>
-<summary>Example #2 (D1, D2 meteors)</summary>
+<summary>
+  <b>[Meteors]</b> Example #2 (D1, D2 meteors)
+</summary>
 <table>
   <tr>
-    <td>
+    <td width="50%">
       <p><b>1.</b> Everyone splits off into their preassigned pairs.</p>
       <p>Since D1 and D2 are targeted:</p>
       <ul>
@@ -399,10 +451,12 @@ scenarios to consider.
 </details>
 
 <details>
-<summary>Example #3 (D1, D3 meteors)</summary>
+<summary>
+  <b>[Meteors]</b> Example #3 (D1, D3 meteors)
+</summary>
 <table>
   <tr>
-    <td>
+    <td width="50%">
       <p><b>1.</b> Everyone splits off into their preassigned pairs.</p>
       <p>Since D1 and D3 are targeted:</p>
       <ul>
