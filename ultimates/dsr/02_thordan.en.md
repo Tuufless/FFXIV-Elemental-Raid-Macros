@@ -133,6 +133,9 @@ Thordan will then cast *Sanctity of the Ward*.
 
 ### Part 1: Sacred Severs
 
+- Two knights (PLDs) will spawn in the center, facing either *clockwise* or *anti-clockwise*.
+- A third knight (DRK) will spawn towards the outside, at an *intercardinal* position.
+
 We resolve Sacred Severs with a **DRK-relative, role-adjust** strat.
 
 - MT, H1, D1, D3 takes Group 1 as its base position, **opposite** the DRK.
@@ -153,31 +156,45 @@ In other words:
 
 <table>
   <tr>
-    <td width="34%"><b>1.</b> Sort out swords, and start 3-4 notches away from
-    the outside "shurikens" <b>in the same direction that the inside knights
-    are facing</b>.</td>
+    <td width="50%">
+      <p><b>1.</b> Sort out swords, and start 3-4 notches away from the 
+      intercardinal positions <b>in the same direction the inside knights are 
+      facing</b>.</p>
+      <p>Look away from <em>both</em> Thordan and the Dragon Eye.</p>
+      <p><em>In this example, the DRK is SE, and the center two knights are facing clockwise. Thus:</em></p>
+      <ul>
+        <li><em>Group 1 starts 3-4 notches clockwise of the opposite mark (NW).</em></li>
+        <li><em>Group 2 starts 3-4 notches clockwise of the mark behind the DRK (SE).</em></li>
+      </ul>
+      <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+        <p><b>Tip:</b> Thordan and the Dragon Eye always spawn at (inter)cardinal positions (90, 135, or 180 degrees apart).</p>
+        <p>Because the party starts offset from intercardinals, simply facing directly outside will automatically dodge <em>both</em> gazes.</p></div>
+    </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/02/sanctity_drk_relative_cw_01.jpg"></td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/02/sanctity_drk_relative_ccw_01.jpg"></td>
   </tr>
   <tr>
-    <td width="33%">
-      <p><b>2.</b> Your movement will also be in the <b>same direction</b> that
-      the inside knights faced.</p>
-      <p>Wait for the explosion in front of you to go off first before moving.</p>
-      <ul>
-        <li>If you are moving <b>towards</b> the N/S poles, you have the
-        <b>fast/early</b> dodge (example on the left).</li>
-        <li>If you are moving <b>away</b> from the N/S poles, you have the
-        <b>slow/delayed</b> dodge (example on the right).</li>
-      </ul>
+    <td>
+      <p><b>2.</b> The two gazes will resolve.</p>
+      <p>The two knights will begin their dashes, dropping white balls and AoEs in their path.</p>
+      <p>At the same time, Ser Zephirin (the DRK) will jump four times in 
+      total, alternating between the players marked with one and two swords.</p>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/02/sanctity_drk_relative_cw_02.jpg"></td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/02/sanctity_drk_relative_ccw_02.jpg"></td>
   </tr>
   <tr>
-    <td><b>3.</b> Stop three notches away from the next shuriken.</td>
+    <td>
+      <p><b>3.</b> Your movement will also be in the <b>same direction</b> that
+      the inside knights faced.</p>
+      <p><b>Wait for the explosion in front of you to go off first before 
+      moving.</b></p>
+      <p>The time to move will depend on whether you are moving towards N/S or 
+      E/W, but the principle stays the same.</p>
+    </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/02/sanctity_drk_relative_cw_03.jpg"></td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/02/sanctity_drk_relative_ccw_03.jpg"></td>
+  </tr>
+  <tr>
+    <td><b>4.</b> Stop three notches away from the next shuriken.</td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/02/sanctity_drk_relative_cw_04.jpg"></td>
   </tr>
 </table>
 

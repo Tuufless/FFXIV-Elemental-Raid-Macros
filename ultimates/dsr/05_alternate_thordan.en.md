@@ -138,6 +138,9 @@ Thordan will auto-attack the MT once, before doing a *Heavenly Heel* → 3x
 <b>Tip:</b> A WAR can Holmgang this combo and have Holmgang back up in time for
 Cauterize at the end of P6.</div>
 
+After this, Thordan will begin the second major mechanic, *Death of the 
+Heavens*.
+
 ---
 
 ## Death of the Heavens
@@ -154,6 +157,8 @@ splits the Dooms 2-2.
         <li>Use Ser Guerrique as North for the rest of the mechanic.</li>
         <li>Line up east-to-west.</li>
       </ul>
+      <p>Thordan and the Dragon Eye will also spawn at two cardinal positions,
+      either 135 degrees or 180 degrees apart.</p>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/05/death_of_the_heavens_01.jpg"></td>
   </tr>
@@ -179,12 +184,7 @@ splits the Dooms 2-2.
         The intercardinal players are <u>not</u> directly in front of the
         "shuriken" mark.)</em></li>
       </ul>
-      <p><b>Find Thordan and the Dragon's Eye.</b></p>
-      <ul>
-        <li>Thordan and the Dragon's Eye will always spawn at cardinal or
-        intercardinal positions, either 135 or 180 degrees away from each
-        other.</li>
-      </ul>
+      <p><b>This is a good time to look for Thordan and the Dragon Eye.</b></p>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/05/death_of_the_heavens_03.jpg"></td>
   </tr>
@@ -241,27 +241,32 @@ splits the Dooms 2-2.
   </tr>
   <tr>
     <td>
-      <b>7.</b> Players adjust as needed, use markers/outside "shurikens" to
+      <p><b>7.</b> Players adjust as needed, use markers/outside "shurikens" to
       properly align yourself, and <b>look away from both Thordan and the
-      Dragon's Eye.</b>
+      Dragon's Eye.</b></p>
+      <p>Just as in Phase 1, the Playstation pairs will be chained together- 
+      stay close to the center to minimise the chain length, making it easier
+      to break.</p>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/05/death_of_the_heavens_07.jpg"></td>
   </tr>
   <tr>
     <td>
-      <p><b>8.</b> <em>Faith Unmoving</em> (knockback) and <em>Heavensflame</em>
-      (AoEs on each player) resolves.</p>
+      <p><b>8.</b> The gazes resolve, immediately followed by <em>Faith 
+      Unmoving</em> (knockback) and <em>Heavensflame</em> AoEs on each player.</p>
       <p><b>Doomed players:</b></p>
       <ul>
         <li>Step into the white puddle left behind to cleanse Doom</li>
       </ul>
+      <p>All players should move further to the edge to ensure the chains 
+      break.</p>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/05/death_of_the_heavens_08.jpg"></td>
   </tr>
 </table>
 
 After Death of the Heavens, eight Meteor Circles will spawn that must be
-defeated quickly.
+quickly destroyed.
 
 A caster LB2 will destroy three Meteor Circles; if there are no casters alive,
 a ranged LB2 will also suffice.
