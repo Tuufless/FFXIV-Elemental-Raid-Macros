@@ -31,7 +31,7 @@ dragon to break their vow will result in their attacks one-shotting anyone hit
 
 ### Solemn Vow
 
-This one is simple. **Hraesvelgr will enrage if she kills *any* player.**
+This one is simple. **Hraesvelgr will enrage if he kills *any* player.**
 
 ### Mortal Vow
 
@@ -725,16 +725,16 @@ You will need about six pieces of party mitigation to survive *Alternative End*.
 </table>
 
 <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
-<b>Note:</b> Each Bleed tick deals about ~14k damage. Make sure you
-<em>do not</em> apply shields until <em>after</em> the Bleed has worn off
-completely!
+  <p><b>Note:</b> Each Bleed tick deals about ~14k damage. Make sure you
+  <em>do not</em> apply shields until <em>after</em> the Bleed has worn off
+  completely!</p>
 </div>
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
-<p><b>Tip:</b> Thordan will announce <em>"Hahahaha! By the power of mine
-enemy's eyes..."</em> just before the second round of bleeds are applied.</p>
-A DNC should start <em>Improvisation</em> when the dialogue box
-<em>disappears</em> to get the maximum value out of <em>Improvisation</em>'s
-shields.
+  <p><b>Tip:</b> Thordan will announce <em>"Hahahaha! By the power of mine
+  enemy's eyes..."</em> just before the second round of bleeds are applied.</p>
+  <p>A DNC should start <em>Improvisation</em> when the dialogue box
+  <em>disappears</em> to get the maximum value out of <em>Improvisation</em>'s
+  shields.</p>
 </div>
 
 ---
