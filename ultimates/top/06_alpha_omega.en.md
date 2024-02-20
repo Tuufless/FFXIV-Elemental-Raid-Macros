@@ -1138,8 +1138,8 @@ not to use their potions at certain buff windows.
 <table>
   <tr>
     <td>
-      <p>No, it won't. The death wall activates based on time, not player
-      activity.</p>
+      <p>No, it won't. The death wall activates after five seconds, and isn't based on player activity.</p>
+      {% include youtube.html id="zCCNwL6bai0" %}
     </td>
   </tr>
 </table>
