@@ -1315,8 +1315,7 @@ not to use their potions at certain buff windows.
       <p>Check how many debuffs <em>(Addle, Dismantle, Feint, Reprisal)</em> were  
       applied to the boss while the party is spread out for the first part of 
       <em>Wave Cannon</em>.</p>
-      <p><b>There should just be one debuff on the boss while the party is spread 
-      out.</b></p>
+      <p><b>There should <em>not</em> be any debuffs on the boss while the party is spread out, or just one debuff at most.</b></p>
       <p>The reason behind this is due to how LB is generated.- LB is generated
       whenever someone survives damage that is equal to or greater than their
       current HP due to mitigation or shields.</p>
