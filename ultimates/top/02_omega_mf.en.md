@@ -41,6 +41,45 @@ major mechanic of this phase.
 
 ## Party Synergy
 
+All players in the party will be tethered together and paired, indicated by
+the Playstation symbols. The party will also get either *Mid Glitch*, or
+*Remote Glitch*.
+
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+<details markdown=block>
+<summary>
+  <b>[Click to Expand] Mid/Remote Glitch debuffs</b>
+</summary>
+<table>
+  <tr>
+    <td style="text-align:center">
+      <img src="{{site.baseurl}}/assets/images/ultimates/top/02/debuffs/mid_glitch.png">
+      <img src="{{site.baseurl}}/assets/images/ultimates/top/02/debuffs/remote_glitch.png">
+    </td>
+    <td>
+      <p>Mid Glitch and Remote Glitch are debuffs that will apply a
+      Vulnerability Up debuff on paired players unless the two players are a
+      specific distance apart:<em></em></p>
+      <ul>
+        <li><b>Mid Glitch:</b> Between 20-26 yalms.</li>
+        <li><b>Remote Glitch:</b> At least 35 yalms.</li>
+      </ul>
+      <p>There are two instances in <em>Party Synergy</em> where this distance
+      requirement needs to be satisfied to avoid dying to damage.</p>
+      <p>Observe that standing on the markers would be too short to satisfy 
+      <em>Mid Glitch</em>.</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="{{site.baseurl}}/assets/images/ultimates/top/02/glitch_ranges.jpg"></td>
+  </tr>
+</table>
+</details>
+</div>
+
+A giant eye will also appear outside the arena at a random cardinal or 
+intercardinal position.
+
 <table>
   <tr>
     <td width="50%">
@@ -323,25 +362,6 @@ the hard enrage.
       <p><em>(For completeness, the chance nobody swaps is 8/35, while the chance one person on each side swaps is 24/35.)</em></p>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/02/two_pairs.jpg"></td>
-  </tr>
-</table>
-</details>
-
-<details markdown=block>
-<summary>
-  <b>[Mid/Remote Glitch]</b> What are the acceptable ranges for these?
-</summary>
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li><b>Mid Glitch:</b> Between 20-26 yalms.</li>
-        <li><b>Remote Glitch:</b> At least 35 yalms.</li>
-      </ul>
-      <p>Observe that standing on the markers would be too short to satisfy 
-      <em>Mid Glitch</em>.</p>
-    </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/02/glitch_ranges.jpg"></td>
   </tr>
 </table>
 </details>

@@ -18,9 +18,10 @@ the main mechanics loop.
 
 This phase requires some mitigation planning. As a baseline, start with:
 
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
 <details markdown=block>
 <summary>
-  <b>Notation</b>
+  <b>[Click to Expand] Mitigation Notation</b>
 </summary>
 <table>
   <tr>
@@ -60,6 +61,7 @@ This phase requires some mitigation planning. As a baseline, start with:
   </tr>
 </table>
 </details>
+</div>
 
 <table>
   <tr>

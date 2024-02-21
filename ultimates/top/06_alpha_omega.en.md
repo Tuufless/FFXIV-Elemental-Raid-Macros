@@ -13,9 +13,10 @@ permalink: /ultimates/top/06_alpha_omega/
 This phase requires planning out and coordinating mitigations. One such
 mitigation plan is:
 
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
 <details markdown=block>
 <summary>
-  <b>Notation</b>
+  <b>[Click to Expand] Mitigation Notation</b>
 </summary>
 <table>
   <tr>
@@ -70,6 +71,7 @@ mitigation plan is:
   </tr>
 </table>
 </details>
+</div>
 
 <table>
   <th colspan="2" style="text-align:center">Attack</th>
@@ -1138,7 +1140,8 @@ not to use their potions at certain buff windows.
 <table>
   <tr>
     <td>
-      <p>No, it won't. The death wall activates after five seconds, and isn't based on player activity.</p>
+      <p>No, it won't. The death wall activates after five seconds, and isn't 
+      based on player activity.</p>
       {% include youtube.html id="zCCNwL6bai0" %}
     </td>
   </tr>
