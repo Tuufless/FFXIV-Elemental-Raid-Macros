@@ -105,6 +105,8 @@ the first safe spot *(determine whether you're going to move cw or ccw, and whet
       <p><b>4.</b> The Omega Reconfigured will then repeat this at the other
       two cardinal directions, which must be resolved together with the second
       Omega-M/F pair's AoEs.</p>
+      <p><b>Sprint is highly recommended if the party needs to run from, or run 
+      to a far position.</b></p>
       <p><em>(In this example, the party rotates 90 degrees clockwise, and goes
       far from the center.)</em></p>
     </td>
