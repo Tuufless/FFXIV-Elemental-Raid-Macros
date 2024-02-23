@@ -392,7 +392,7 @@ Regression players stand away from the Critical Overflows instead.
         <li>
           <p><em>Critical Overflows <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_overflow_bug.png">
           start with Critical Performance <img  style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_performance_bug.png">
-          (blue Nisis), so will go to blue towers.</em></p>
+          (blue Nisis), so will go to blue  towers.</em></p>
           <ul>
             <li><em>Local Regressions <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/local_regression.png">
             (red/green tethers) follow Critical Overflows to the  same colour
@@ -760,6 +760,10 @@ PF currently resolves this using [Astoh's strat](https://twitter.com/Astoh_Shall
         the lesser the chance they get accidentally clipped.</li>
       </ul>
     </td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><b>Omega's monitors face west</b></td>
+    <td style="text-align:center"><b>Omega's monitors face east</b></td>
   </tr>
   <tr>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/03/monitors_02a.jpg">
