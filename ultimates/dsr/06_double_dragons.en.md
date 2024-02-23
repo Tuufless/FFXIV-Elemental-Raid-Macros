@@ -87,6 +87,96 @@ This first part cycles through the three main mechanics of the fight.
 
 ### Wyrmsbreath #1
 
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+<details markdown=block>
+<summary><b>[Click to Expand] Wyrmsbreath debuffs</b></summary>
+<table>
+  <tr>
+    <td colspan="2">
+      <p><b>Fire-aspected debuffs</b></p>
+      <p>Getting hit by Nidhogg's <em>Flame Breath</em> during 
+      <em>Wyrmsbreath</em> will apply the <em>Boiling</em> debuff.</p>
+      <p>The fire-aspected debuffs:</p>
+      <ul>
+        <li><b>Are cleansed by getting hit with Ice-aspected damage from 
+        Hraesvelgr</b>, as part of <em>Wyrmsbreath</em>, or 
+        <em>Cauterize</em>.</li>
+        <li>Multiplies Fire-aspected damage taken by approximately 30x.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center">
+      <img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/debuffs/boiling.png">
+    </td>
+    <td>
+      <p><b>Boiling</b></p>
+      <p><em>Body is slowly heating up. Will become Pyretic when this effect 
+      expires.</em></p>
+      <ul>
+        <li>Turns into <em>Pyretic</em> when the duration (12 seconds) expires.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center">
+      <img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/debuffs/pyretic.png">
+    </td>
+    <td>
+      <p><b>Pyretic</b></p>
+      <p><em>Fire-aspected damage is taken with every action.</em></p>
+      <ul>
+        <li>Ticks for about 40-45k damage if an action is taken, including 
+        auto-attacks.</li>
+        <li>Lasts 30 seconds.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <p><b>Ice-aspected debuffs</b></p>
+      <p>Getting hit by Hraesvelgr's <em>Ice Breath</em> during 
+      <em>Wyrmsbreath</em> will apply the <em>Freezing</em> debuff.</p>
+      <p>The ice-aspected debuffs:</p>
+      <ul>
+        <li><b>Are cleansed by getting hit with Fire-aspected damage from 
+        Nidhogg</b>, either as part of <em>Wyrmsbreath</em>, or
+        <em>Cauterize</em>.</li>
+        <li>Multiplies Ice-aspected damage taken by approximately 30x.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center">
+      <img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/debuffs/freezing.png">
+    </td>
+    <td>
+      <p><b>Freezing</b></p>
+      <p><em>Body is slowly turning to ice. Will become Deep Freeze when this 
+      effect expires.</em></p>
+      <ul>
+        <li>Turns into <em>Deep Freeze</em> when the duration (12 seconds) 
+        expires. Moving when the effect expires does not prevent this.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center">
+      <img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/debuffs/deep_freeze.png">
+    </td>
+    <td>
+      <p><b>Deep Freeze</b></p>
+      <p><em>Frozen solid and unable to execute actions.</em></p>
+      <ul>
+        <li>Players will be unable to move, attack, or execute any action.</li>
+        <li>Lasts 30 seconds.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+</details>
+</div>
+
 <table>
   <tr>
     <td width="50%">
@@ -264,7 +354,9 @@ resolve at the end of the mechanic.
 <summary><b>[Click to Expand] Wroth Flames debuffs</b></summary>
 <table>
   <tr>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/spreading_flames.png"></td>
+    <td style="text-align:center">
+      <img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/spreading_flames.png">
+    </td>
     <td>
       <p><b>Spreading Flames</b></p>
       <p><em>Powerless against Nidhogg's desire for vengeance.</em></p>
@@ -280,7 +372,9 @@ resolve at the end of the mechanic.
     </td>
   </tr>
   <tr>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/entangled_flames.png"></td>
+    <td style="text-align:center">
+      <img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/entangled_flames.png">
+    </td>
     <td>
       <p><b>Entangled Flames</b></p>
       <p><em>Powerless against Nidhogg's desire that another share his
