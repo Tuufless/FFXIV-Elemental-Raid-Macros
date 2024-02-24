@@ -746,18 +746,11 @@ PF currently resolves this using [Astoh's strat](https://twitter.com/Astoh_Shall
       <p>Three random players will also get their own set of monitors.</p>
       <p>Resolve them as follows, with all three monitor players on the other
       side of Omega's monitors.</p>
+      <p>The player positions are not particularly strict, so long as:</p>
       <ul>
-        <li>Each monitor player should be able to see the two players they will
-        hit.</li>
-      </ul>
-      <p>A common cause of error is accidentally clipping the non-monitor 3
-      player. To help prevent this:</p>
-      <ul>
-        <li>The monitor 2 and 3 players are angled slightly (instead of being
-        horizontal).</li>
-        <li>The non-monitor player marked 2 should be slightly off the center.</li>
-        <li>The closer the non-monitor player marked 3 can be to the center,
-        the lesser the chance they get accidentally clipped.</li>
+        <li>Players are sufficiently spread so they do not clip one another.</li>
+        <li>Each monitor hits the correct two players. Note that each player
+        monitor should be able to see the two other players they need to hit.</li>
       </ul>
     </td>
   </tr>
@@ -769,6 +762,21 @@ PF currently resolves this using [Astoh's strat](https://twitter.com/Astoh_Shall
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/03/monitors_02a.jpg">
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/03/monitors_02b.jpg"></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <p>A common error is accidentally clipping the non-monitor 3 player. To 
+      help prevent this:</p>
+      <ul>
+        <li>The monitor 2 and 3 players are angled slightly (instead of being
+        horizontal).</li>
+        <li>The non-monitor player marked 2 should be slightly off the center.</li>
+        <li>The closer the non-monitor player marked 3 can be to the center,
+        the lesser the chance they get accidentally clipped.</li>
+      </ul>
+      <p>Note that it is far easier for non-monitor players to adjust to the 
+      monitor players as needed.</p>
+    </td>
   </tr>
 </table>
 
