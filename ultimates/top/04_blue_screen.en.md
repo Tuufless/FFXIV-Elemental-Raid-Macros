@@ -172,20 +172,28 @@ AoE from the center.
     <td>
       <p>The order is determined by who loses the least from doing so. This is
       obviously affected by Dance Partner, but as a general guideline, the
-      order should be:</p>
+      order looks like:</p>
       <p style="text-align:center"><b>NIN > DRG > MNK > RPR > SAM</b></p>
       <ul>
-        <li>NIN LBs here without any real loss- maybe a <em>Bhavacakra</em> at
-        most.</li>
-        <li>DRG loses a <em>Wyrmwind Thrust</em>, which can result in a lost or
-        delayed <em>High Jump</em> due to phase push times.</li>
+        <li>NIN LBs here without any real loss- maybe a non-<em>Meisui</em> 
+        <em>Bhavacakra</em> at most.</li>
+        <li>DRG loses a <em>Wyrmwind Thrust</em>. Even if a NIN loses a <em>Bhavacakra</em>, that is still less than a lost <em>Wyrmwind Thrust</em> (-350 vs -420 potency).</li>
         <li>MNK loses two Opo-opo GCDs, resulting in a lost critical
         <em>Bootshine</em>, which can also lead to a lost <em>Forbidden
         Chakra</em>.</li>
-        <li>RPR has very strong out-of-burst potency, but is not at risk of
-        losing an <em>Enshroud</em> outside of a major misplay.</li>
-        <li>SAM loses a <em>Midare Setsugekka</em> and a <em>Shoha</em>, which
-        is the largest potency loss.</li>
+        <li>
+          <p>Neither RPR nor SAM wants to LB3 P4, because they can carry over
+          a third <em>Enshroud</em>, or a <em>Meikyo Shisui</em> from P3.</p>
+          <p>However, if forced to make a decision, a SAM's rotation is more
+          rigid, causing them to lose a <em>Midare Setsugekka</em> and a
+          <em>Shoha</em> if they LB3 in P4 (-1200 potency, not taking
+          <em>Midare Setsugekka's</em> guaranteed crit into account).</p>
+          <p>In contrast, a RPR's LB3 may cause them to overcap their Shroud
+          Gauge as a result of the LB3 interfering with their rotation. This is
+          admittedly awkward, but not as big of a loss compared to SAM, and can
+          be avoided by spending an Enshroud at the end of P3 instead of carrying
+          it over to P4.</p>
+        </li>
       </ul>
     </td>
   </tr>
