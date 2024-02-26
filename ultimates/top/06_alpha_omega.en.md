@@ -122,7 +122,7 @@ mitigation plan is:
     <td>
       <p>+ MT Reprisal, MT 90s, D1</p>
       <ul>
-        <li>Use MT 90s to cover spread if ST is GNB or DRK.</li>
+        <li>Use MT 90s to cover spread if MT is GNB or DRK.</li>
       </ul>
     </td>
     <td>
