@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 4. Blue Screen
+nav_order: 4
 parent: Lv 90. TOP
 grand_parent: Ultimates
 permalink: /ultimates/top/04_blue_screen/

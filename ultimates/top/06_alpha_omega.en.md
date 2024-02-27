@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "6. Alpha Omega"
+nav_order: 8
 parent: Lv 90. TOP
 grand_parent: Ultimates
 permalink: /ultimates/top/06_alpha_omega/
@@ -1077,7 +1078,7 @@ not to use their potions at certain buff windows.
         <tr>
           <td style="text-align:center">+1:31</td>
           <td style="text-align:center">Wave Cannon #1 (stack)</td>
-          <td style="text-align:center">375k</td>
+          <td style="text-align:center">370k</td>
           <td style="text-align:center">119k</td>
           <td style="text-align:center">110k</td>
         </tr>
@@ -1091,7 +1092,7 @@ not to use their potions at certain buff windows.
         <tr>
           <td style="text-align:center">+2:05</td>
           <td style="text-align:center">Wave Cannon #2 (stack)</td>
-          <td style="text-align:center">375k</td>
+          <td style="text-align:center">370k</td>
           <td style="text-align:center">119k</td>
           <td style="text-align:center">110k</td>
         </tr>

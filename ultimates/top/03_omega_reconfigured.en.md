@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 3. Omega Reconfigured
+nav_order: 3
 parent: Lv 90. TOP
 grand_parent: Ultimates
 permalink: /ultimates/top/03_omega_reconfigured/

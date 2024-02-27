@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "5b. Run: Dynamis (Sigma)"
+nav_order: 6
 parent: Lv 90. TOP
 grand_parent: Ultimates
 permalink: /ultimates/top/05_run_dynamis_sigma/

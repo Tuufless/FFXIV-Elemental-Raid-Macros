@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 2. Omega M/F
+nav_order: 2
 parent: Lv 90. TOP
 grand_parent: Ultimates
 permalink: /ultimates/top/02_omega_mf/

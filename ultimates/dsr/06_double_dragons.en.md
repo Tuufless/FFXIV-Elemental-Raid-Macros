@@ -912,7 +912,7 @@ You will need about six pieces of party mitigation to survive *Alternative End*.
     </td>
   <td>
     <img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/fixed_wyrmsbreath2.jpg">
-    <a href="images/fixed_wyrmsbreath2.jpg"><em>(Full-sized image)</em></a>
+    <a href="{{site.baseurl}}/assets/images/ultimates/dsr/06/fixed_wyrmsbreath2.jpg"><em>(Full-sized image)</em></a>
   </td></tr>
 </table>
 </details>
