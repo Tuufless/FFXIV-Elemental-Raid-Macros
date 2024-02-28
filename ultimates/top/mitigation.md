@@ -18,7 +18,8 @@ think of the following as a bare-bones framework to work with- i.e: these are
 the things that people will generally look for when mitigation is missing.
 
 <table>
-  <th>Mitigation by Phase</th>
+  <th width="50%">Mitigation by Phase</th>
+  <th colspan=2>Mitigation by Role</th>
   <tr>
     <td>
       <ul>
@@ -30,26 +31,29 @@ the things that people will generally look for when mitigation is missing.
         <li><a href="#p6-alpha-omega">P6. Alpha Omega</a></li>
       </ul>
     </td>
+    <td>
+      <ul>
+        <li><a href="#mt">MT</a></li>
+        <li><a href="#st">ST</a></li>
+        <li><a href="#h1">H1</a></li>
+        <li><a href="#h2">H2</a></li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li><a href="#d1">D1</a></li>
+        <li><a href="#d2">D2</a></li>
+        <li><a href="#d3">D3</a></li>
+        <li><a href="#d4">D4</a></li>
+      </ul>
+    </td>
   </tr>
 </table>
 
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
-  The raw damage values have also been provided, separated into damage dealt
-  to <b>T</b>anks (MT, ST), <b>P</b>hysical DPS (D1, D2, D3), and <b>M</b>agic 
-  (H1, H2, D4).
-</div>
-
-Physical DPS jobs have higher max HP, but lower magic defense compared to
-casters.
-
-- Tanks have 110k max HP.
-- Physical DPS jobs have 77k max HP.
-- Magical jobs have 68k max HP.
-- Basic shields *(Succor, Eukrasian Prognosis)* absorb 8k damage.
-
 <details markdown=block>
 <summary>
-  <b>Legend</b>
+  <b>[Click to Expand] Mitigation Notation</b>
 </summary>
 <table>
   <tr>
@@ -96,8 +100,27 @@ casters.
   </tr>
 </table>
 </details>
+</div>
 
 ## Mitigation by Phase
+
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+  The raw damage values have also been provided, separated into damage dealt
+  to:
+  <ul>
+    <li><b>T</b>anks (MT, ST)</li>
+    <li><b>P</b>hysical DPS (D1, D2, D3)</li>
+    <li><b>M</b>agic (H1, H2, D4)</li>
+  </ul>
+</div>
+
+Physical DPS jobs have higher max HP, but lower magic defense compared to
+casters.
+
+- Tanks have 110k max HP.
+- Physical DPS jobs have 77k max HP.
+- Magical jobs have 68k max HP.
+- Basic shields *(Succor, Eukrasian Prognosis)* absorb 8k damage.
 
 ### P1. Omega
 
@@ -863,5 +886,1094 @@ however, there are still some points worth mentioning.
       </ul>
     </td>
     <td></td>
+  </tr>
+</table>
+
+## Mitigation by Role
+
+### MT
+
+<table>
+  <tr>
+    <td>
+      <p><b>P1. Omega</b></p>
+    </td>
+    <td>
+      <p><b>Condensed Wave</b> (Pantokrator)</p>
+      <ul>
+        <li><em>Reprisal</em> to cover the 1st and 2nd waves.</li>
+        <li>MT 90s where appropriate.
+          <ul>
+            <li>DRK/GNB should use their tank 90s at the 1st or 2nd wave.</li>
+          </ul>
+        </li>
+      </ul>
+      <p><b>Diffused Wave Cannon Kyrios</b> (Pantokrator)</p>
+      <ul>
+        <li>Invuln. You will need to time the invuln on the fifth pulse.</li>
+      </ul>
+      <p>Use <em>Rampart</em> when Omega becomes untargetable.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>P2. Omega-M/F</b></p>
+    </td>
+    <td>
+      <p><b>Solar Ray</b></p>
+      <ul>
+        <li><em>Rampart</em> + short.</li>
+      </ul>
+      <p><b>Optimized Bladedance (tethers)</b></p>
+      <ul>
+        <li>30% + <em>Rampart</em> + 3rd + short.</li>
+      </ul>
+      <p><b>Pile Pitch + Meteors</b></p>
+      <ul>
+        <li>90s party mits</li>
+        <ul>
+          <li>WAR/PLD can use their 90s as early as when the Packet Filters drop at the start of <em>Limitless Synergy</em>.</li>
+          <li>GNB/DRK should wait for <em>Beyond Defense</em>'s kick to use their 90s to also cover <em>Cosmo Memory</em>.</li>
+        </ul>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>P3. Omega Reconfigured</b></p>
+    </td>
+    <td>
+      <p><b>Hello, World</b></p>
+      <ul>
+        <li><em>Reprisal</em></li>
+      </ul>
+      <p><b>Towers #1</b></p>
+      <ul>
+        <li>90s party mits.
+          <ul>
+            <li>WAR/PLD can use their party mits early to get an extra use at <em>Critical Error</em>.</li>
+          </ul>
+        </li>
+      </ul>
+      <p><b>Towers #3</b></p>
+      <ul>
+        <li><em>Reprisal</em></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>P4. Blue Screen</b></p>
+    </td>
+    <td>
+      <p><b>Wave Cannon #1 (spread)</b></p>
+      <ul>
+        <li><em>Reprisal</em> to cover the spread + stack.</li>
+      </ul>
+      <p>You cannot use your 90s party mitigations, as they will be needed for
+      <em>Run Dynamis</em>.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>P5. Run Dynamis</b></p>
+    </td>
+    <td>
+      <p><b>Solar Ray</b></p>
+      <p>How the party resolves <em>Solar Ray</em> will depend on what tanks
+      the party has.</p>
+      <ul>
+        <li><em>Reprisal</em> the Solar Rays that will be mitigated.</li>
+        <li><p>If there is a WAR:</p>
+          <ol>
+            <li>Hallowed Ground > Superbolide > full mits + swap</li>
+            <li>Living Dead > full mits + swap</li>
+            <li>Holmgang</li>
+            <li>Full mits + swap</li>
+          </ol>
+        </li>
+        <li><p>If there isn't a WAR:</p>
+          <ol>
+            <li>Hallowed Ground > Superbolide</li>
+            <li>Superbolide > Living Dead</li>
+            <li>Reprisal, Rampart, 3rd, short + swap</li>
+            <li>Reprisal, 30%, Rampart, short + swap</li>
+          </ol>
+        </li>
+      </ul>
+      <p><b>Run Dynamis</b> (all)</p>
+      <ul>
+        <li>MT 90s
+          <ul>
+            <li>You will need to use your MT 90s at the second <em>Solar 
+            Ray</em> hit before <em>Run Dynamis (Delta Version)</em>. WAR/PLD 
+            can use their 90s as soon as Omega-M is targetable.</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><b>P6. Alpha Omega</b></td>
+    <td>
+      <p>The two tanks will invuln the two <em>Wave Cannon</em> stacks.</p>
+      <p><b>Cosmo Memory</b></p>
+      <ul>
+        <li>Tank LB3
+          <ul>
+            <li>Priority: <em>WAR > PLD > DRK > GNB</em></li>
+          </ul>
+        </li>
+        <li>MT 90s
+          <ul>
+            <li>This isn't strictly needed for survival, but it reduces the
+            amount of healing the healers need to do after Cosmo Memory, and 
+            puts the 90s party mitigation on cooldown so it's not accidentally
+            used at the wrong place.</li>
+          </ul>
+        </li>
+      </ul>
+      <p><b>Cosmo Dive #1</b></p>
+      <ul>
+        <li><em>Rampart</em>, 3rd, short</li>
+        <li><em>Reprisal</em></li>
+      </ul>
+      <p><b>Wave Cannon #1</b></p>
+      <ul>
+        <li>30%, short</li>
+      </ul>
+      <p><b>Wave Cannon #2</b></p>
+      <ul>
+        <li>Invuln</li>
+        <li><em>Reprisal</em>, MT 90s
+        </li>
+        <li>Give short mit to the ST.</li>
+      </ul>
+      <p><b>Cosmo Dive #2</b></p>
+      <ul>
+        <li><em>Rampart</em>, 3rd, short</li>
+      </ul>
+      <p><b>Cosmo Meteor</b></p>
+      <ul>
+        <li><em>Reprisal</em>
+          <ul>
+            <li>Use <em>Reprisal</em> when the AoEs in the center resolve to
+            catch both Meteor waves.</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+### ST
+
+<table>
+  <tr>
+    <td>
+      <p><b>P1. Omega</b></p>
+    </td>
+    <td>
+      <p><b>Condensed Wave</b> (Pantokrator)</p>
+      <ul>
+        <li><em>Reprisal</em> to cover the 3rd and 4th waves.</li>
+        <li>ST 90s where appropriate.
+          <ul>
+            <li>DRK/GNB should use their tank 90s at the 1st or 2nd wave.</li>
+          </ul>
+        </li>
+      </ul>
+      <p><b>Diffused Wave Cannon Kyrios</b> (Pantokrator)</p>
+      <ul>
+        <li>Invuln. You will need to time the invuln on the fifth pulse.</li>
+      </ul>
+      <p>Use <em>Rampart</em> when Omega becomes untargetable.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>P2. Omega-M/F</b></p>
+    </td>
+    <td>
+      <p><b>Solar Ray</b></p>
+      <ul>
+        <li><em>Rampart</em> + short.</li>
+      </ul>
+      <p><b>Optimized Bladedance (tethers)</b></p>
+      <ul>
+        <li>30% + <em>Rampart</em> + 3rd + short.</li>
+      </ul>
+      <p><b>Pile Pitch + Meteors</b></p>
+      <ul>
+        <li>90s party mits</li>
+        <ul>
+          <li>WAR/PLD can use their 90s as early as when the Packet Filters 
+          drop at the start of <em>Limitless Synergy</em>.</li>
+          <li>GNB/DRK should wait for <em>Beyond Defense</em>'s kick to use 
+          their 90s to also cover <em>Cosmo Memory</em>.</li>
+        </ul>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>P3. Omega Reconfigured</b></p>
+    </td>
+    <td>
+      <p><b>Towers #1</b></p>
+      <ul>
+        <li><em>Reprisal</em></li>
+      </ul>
+      <p><b>Towers #2</b></p>
+      <ul>
+        <li><em>ST 90s</em></li>
+      </ul>
+      <p><b>Towers #4</b></p>
+      <ul>
+        <li><em>Reprisal</em></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>P4. Blue Screen</b></p>
+    </td>
+    <td>
+      <p><b>Wave Cannon #2 (spread)</b></p>
+      <ul>
+        <li><em>Reprisal</em> to cover the spread + stack.</li>
+      </ul>
+      <p>You cannot use your 90s party mitigations, as they will be needed for
+      <em>Run Dynamis</em>.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>P5. Run Dynamis</b></p>
+    </td>
+    <td>
+      <p><b>Solar Ray</b></p>
+      <p>How the party resolves <em>Solar Ray</em> will depend on what tanks
+      the party has.</p>
+      <ul>
+        <li>Let the MT <em>Reprisal</em> Solar Rays- your priority are the 
+        <em>Run Dynamis</em>.</li>
+        <li><p>If there is a WAR:</p>
+          <ol>
+            <li>Hallowed Ground > Superbolide > full mits + swap</li>
+            <li>Living Dead > full mits + swap</li>
+            <li>Holmgang</li>
+            <li>Full mits + swap</li>
+          </ol>
+        </li>
+        <li><p>If there isn't a WAR:</p>
+          <ol>
+            <li>Hallowed Ground > Superbolide</li>
+            <li>Superbolide > Living Dead</li>
+            <li>Reprisal, 30%, Rampart, short + swap</li>
+            <li>Reprisal, Rampart, 3rd, short + swap</li>
+          </ol>
+        </li>
+      </ul>
+      <p><b>Run Dynamis</b> (all)</p>
+      <ul>
+        <li><em>Reprisal</em>, ST 90s
+          <ul>
+            <li>You will need to use your ST 90s at the second <em>Solar 
+            Ray</em> hit before <em>Run Dynamis (Delta Version)</em>. WAR/PLD 
+            can use their 90s as soon as Omega-M is targetable.</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><b>P6. Alpha Omega</b></td>
+    <td>
+      <p>The two tanks will invuln the two <em>Wave Cannon</em> stacks.</p>
+      <p><b>Cosmo Memory</b></p>
+      <ul>
+        <li>Tank LB3
+          <ul>
+            <li>Priority: <em>WAR > PLD > DRK > GNB</em></li>
+          </ul>
+        </li>
+        <li><em>Reprisal</em>
+          <ul>
+            <li>This isn't strictly needed for survival, but it reduces the
+            amount of healing the healers need to do after Cosmo Memory, and 
+            puts <em>Reprisal</em> on cooldown so it's not accidentally used at
+            the wrong place.</li>
+          </ul>
+        </li>
+      </ul>
+      <p><b>Cosmo Dive #1</b></p>
+      <ul>
+        <li><em>Rampart</em>, 3rd, short</li>
+      </ul>
+      <p><b>Wave Cannon #1</b></p>
+      <ul>
+        <li>Invuln</li>
+        <li><em>Reprisal</em>, ST 90s</li>
+        <li>Give short mit to the MT.</li>
+      </ul>
+      <p><b>Wave Cannon #2</b></p>
+      <ul>
+        <li>30% + short</li>
+      </ul>
+      <p><b>Cosmo Dive #2</b></p>
+      <ul>
+        <li><em>Rampart</em>, 3rd, short</li>
+        <li><em>Reprisal</em></li>
+      </ul>
+      <p><b>Cosmo Meteor</b></p>
+      <ul>
+        <li>ST 90s</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+### H1
+
+This assumes your H1 is either a WHM or AST. As double barrier healer parties
+are fairly common, adapt this as needed if H1 is a SCH or SGE.
+
+<table>
+  <tr>
+    <td>
+      <p><b>P1. Omega</b></p>
+    </td>
+    <td>
+      <p><b>Condensed Wave</b> (Pantokrator)</p>
+      <ul>
+        <li>H1 120s
+          <ul>
+            <li>This can cover all four waves, if timed correctly.</li>
+          </ul>
+        </li>
+        <li>H1s will also typically use their H1 180s abilities here.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>P2. Omega-M/F</b></p>
+    </td>
+    <td>
+      <p>The ST will take more damage than the MT after <em>Party Synergy</em>.</p>
+      <p><b>Pile Pitch + Meteors</b></p>
+      <ul>
+        <li>H1 120s</li>
+        <ul>
+          <li>The earliest a WHM can use <em>Temperance</em> and still cover <em>Cosmo Memory</em> is when the Flare markers appear.</li>
+        </ul>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>P3. Omega Reconfigured</b></p>
+    </td>
+    <td>
+      <p>H1 180s abilities can be used at any tower.</p>
+      <p><b>Towers #2</b></p>
+      <ul>
+        <li>H1 120s
+        <ul>
+          <li>Depending on when a WHM used <em>Temperance</em> in P2, and when
+          Omega-F was defeated, <em>Temperance</em> may not be available. If so, 
+          consider holding <em>Temperance</em> for P4, and substitute with
+          <em>Liturgy of the Bell</em>.</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>P4. Blue Screen</b></p>
+    </td>
+    <td>
+      <p>The healers are primarily responsible for mitigating and healing this
+      phase.</p>
+      <ul>
+        <li>Use H1 120s at either the 1st or 2nd Wave Cannon spread.
+          <ul>
+            <li>This will cover two spreads, and two stacks.</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>P5. Run Dynamis</b></p>
+    </td>
+    <td>
+      <p>H1 is not responsible for mitigating any <em>Run Dynamis</em>.</p>
+      <ul>
+        <li>This means you are free to use your H1 120s anywhere in P5 where
+        appropriate (including mitigating <em>Run Dynamis</em> if you choose.)</li>
+      </ul>
+      <p><b>Solar Ray</b></p>
+      <p>How the party resolves <em>Solar Ray</em> will depend on what tanks
+      the party has.</p>
+      <p>If the party does not have a WAR, then you will need to help the tanks 
+      mitigate the two <em>Solar Rays</em> before and after <em>Run Dynamis 
+      (Omega Version)</em>.</p>
+      <p>This can be done either via H1 120s, or 
+      <em>Aquaveil/Exaltation</em>.</p>
+      <ol>
+        <li>Invulned</li>
+        <li>Invulned</li>
+        <li>Help the MT</li>
+        <li>Help the ST</li>
+      </ol>
+      <p>H1 will typically use their H1 180s abilities at the front part of
+      <em>Run Dynamis (Delta Version)</em> to help heal the first set of
+      tether break, Beyond Defense/Pile Pitch, and monitors.</p>
+      <ul>
+        <li>H1 180s used when the outer spinning hands appear (before the spin 
+        indicators) will cover up to <em>Oversampled Wave Cannon</em> 
+        (monitors).</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><b>P6. Alpha Omega</b></td>
+    <td>
+      <p>The two healers will need to decide who goes center during <em>Cosmo 
+      Meteor</em>.</p>
+      <p><b>Cosmo Dive #1</b></p>
+      <ul>
+        <li>H1 120s</li>
+      </ul>
+      <p><b>Cosmo Meteor</b></p>
+      <ul>
+        <li>H1 120s</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+### H2
+
+<table>
+  <tr>
+    <td>
+      <p><b>P1. Omega</b></p>
+    </td>
+    <td>
+      <p><b>Condensed Wave</b> (Pantokrator)</p>
+      <ul>
+        <li>H2 120s
+          <ul>
+            <li>This can cover all four waves, if timed correctly.</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>P2. Omega-M/F</b></p>
+    </td>
+    <td>
+      <p>H2 30s are used at Meteors, but you can get additional uses at:</p>
+      <ul>
+        <li>The <em>Solar Rays</em> at the start to help the tanks mitigate
+        both <em>Solar Ray</em> at the follow-up auto-attacks.</li>
+        <li>Immediately after <em>Party Synergy</em> to mitigate auto-attacks
+        (especially for the ST).</li>
+      </ul>
+      <p>The ST will take more damage than the MT after <em>Party Synergy</em>.</p>
+      <p><b>Pile Pitch + Meteors</b></p>
+      <ul>
+        <li>H2 30s, H2 90s, H2 120s</li>
+        <ul>
+          <li>Use your H2 30s when the kick from <em>Beyond Defense</em> 
+          happens.</li>
+          <li>The earliest you can deploy boosted shields via H2 90s and still
+          catch Meteors is when <em>Limitless Synergy</em> finishes its cast.</li>
+          <li>The earliest you can use your H2 120s and still cover <em>Cosmo 
+          Memory</em> is when the Flare markers appear.</li>
+          <li><em>Seraph/Panhaima</em> is typically used to mitigate the
+          Meteors and <em>Cosmo Memory</em>.</li>
+        </ul>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>P3. Omega Reconfigured</b></p>
+    </td>
+    <td>
+      <p>This phase is left unstructured with the exception of 2nd towers, as
+      that is the only time you can use H2 120s to mitigate and still have them
+      available for P4.</p>
+      <p>Each round of towers needs three pieces of mitigation (shields count)
+      for the party to survive one whole round without any healing in between.</p>
+      <ul>
+        <li>The rest of the party will cover 2/3 of these, so you have the
+        flexibility to add the last however you see fit. For example:
+          <ol>
+            <li>H2 30s</li>
+            <li>H2 120s</li>
+            <li>H2 30s</li>
+            <li><em>Seraph/Panhaima</em></li>
+          </ol>
+        </li>
+      </ul>
+      <p><b>Transition</b></p>
+      <ul>
+        <li>The party <em>must</em> have at least shields to survive.</li>
+      </ul>
+      <p><b>Hello, World</b></p>
+      <ul>
+        <li>This doesn't actually need H2 30s, although you can cover both
+        <em>Hello, World</em> and the first set of towers if H2 30s is used 
+        before Omega is targetable.</li>
+      </ul>
+      <p><b>Towers #1</b></p>
+      <ul>
+        <li>A lot of H2s will use their H2 90s here.</li>
+      </ul>
+      <p><b>Towers #2</b></p>
+      <ul>
+        <li>H2 120s</li>
+      </ul>
+      <p><b>Critical Error</b></p>
+      <ul>
+        <li>This needs either shields + H2 30s or H2 90s.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>P4. Blue Screen</b></p>
+    </td>
+    <td>
+      <p>The healers are primarily responsible for mitigating and healing this
+      phase.</p>
+      <ul>
+        <li>Use H2 120s at either the 1st or 2nd Wave Cannon spread.
+          <ul>
+            <li>SCH's <em>Expedient</em> is particularly useful at the 1st
+            Wave Cannon stack.</li>
+            <li>This will cover two spreads, and two stacks.</li>
+          </ul>
+        </li>
+        <li>The latest you can use H2 30s and have it back by <em>Blue
+        Screen</em> is at the 2nd stack.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>P5. Run Dynamis</b></p>
+    </td>
+    <td>
+      <p><b>Run Dynamis</b> (all)</p>
+      <ul>
+        <li>H2 30s</li>
+      </ul>
+      <p>You are free to use your H2 120s and <em>Seraph/Panhaima</em>
+      anywhere in P5 where appropriate (including mitigating <em>Run
+      Dynamis</em> if you choose.)</p>
+      <p><b>Solar Ray</b></p>
+      <p>How the party resolves <em>Solar Ray</em> will depend on what tanks
+      the party has.</p>
+      <p>If the party does not have a WAR, then you will need to help the tanks 
+      mitigate the two <em>Solar Rays</em> before and after <em>Run Dynamis 
+      (Omega Version)</em>.</p>
+      <p>This can be done either via H2 120s, or 
+      <em>Taurochole/Protraction</em>.</p>
+      <ol>
+        <li>Invulned</li>
+        <li>Invulned</li>
+        <li>Help the MT</li>
+        <li>Help the ST</li>
+      </ol>
+      <p>H2 30s can be used to help the tanks mitigate the final <em>Solar
+      Ray</em> after <em>Run Dynamis (Omega Version)</em>.</p>
+      <p><em>Blind Faith</em> will require shields for the party to survive.</p>
+    </td>
+  </tr>
+  <tr>
+    <td><b>P6. Alpha Omega</b></td>
+    <td>
+      <p>The two healers will need to decide who goes center during <em>Cosmo 
+      Meteor</em>.</p>
+      <p>The published mitplan doesn't account for <em>Seraph/Panhaima</em>,
+      or <em>Fey Illumination</em>. These can either be used at either
+      <em>Wave Cannon</em>, or at <em>Cosmo Dive #1</em> + <em>Cosmo Meteor</em>.</p>
+      <p><b>Cosmo Memory</b></p>
+      <ul>
+        <li>This needs either shields or H2 30s in addition to the tank LB3.
+        Other members of the party may also mitigate this, if so, then you
+        won't need to do anything.</li>
+      </ul>
+      <p><b>Cosmo Dive #1</b></p>
+      <ul>
+        <li>H2 30s</li>
+      </ul>
+      <p><b>Wave Cannon #1</b></p>
+      <ul>
+        <li>H2 30s
+          <ul>
+            <li>Use H2 30s after dodging all the Exaflares.</li>
+          </ul>
+        </li>
+      </ul>
+      <p>A SCH can summon <em>Seraph</em> when the first baited AoEs appear to
+      have <em>Consolation</em> cover both the spread + stack, and be back in 
+      time to cover <em>Cosmo Meteor's</em> Flares.</p>
+      <p><b>Wave Cannon #2</b></p>
+      <ul>
+        <li>H2 30s, H2 120s
+          <ul>
+            <li>Use H2 30s when <em>Wave Cannon</em>'s cast starts. This will 
+            be while dodging <em>Cosmo Arrow</em>.</li>
+            <li>The earliest you can use H2 120s is when the first <em>Cosmo
+            Arrow</em> lines resolve.</li>
+          </ul>
+        </li>
+      </ul>
+      <p><b>Cosmo Dive #2</b></p>
+      <ul>
+        <li>H2 30s
+          <ul>
+            <li>The earliest you can use H2 30s is when the fourth Exaflare
+            telegraphs appear (when you turn left or right when baiting AoEs).</li>
+            <li>You may want to use H2 30s early here to have the H2 30s back
+            up in time for the first wave of Meteors.</li>
+          </ul>
+        </li>
+      </ul>
+      <p><b>Cosmo Meteors (Meteors)</b></p>
+      <ul>
+        <li>H2 30s
+          <ul>
+            <li>Depending on when the H2 30s was used at <em>Cosmo Dive #2</em>,
+            it may not be up in time to catch the first wave of Meteor hits.
+            However, this is covered by the ST 90s (even if WAR/PLD). You will
+            need H2 30s to cover the second wave if the ST is WAR or PLD.</li>
+          </ul>
+        </li>
+      </ul>
+      <p><b>Cosmo Meteors (Flares)</b></p>
+      <ul>
+        <li>H2 90s
+          <ul>
+            <li>Not strictly necessary, since you just need a small boost to
+            regular shields here. <em>Consolation/Panhaima</em> is an 
+            appropriate substitute.</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+### D1
+
+<table>
+  <tr>
+    <td>
+      <p><b>P1. Omega</b></p>
+    </td>
+    <td>
+      <p><b>Condensed Wave</b> (Pantokrator)</p>
+      <ul>
+        <li><em>Feint</em> will cover two waves. You can work with D2, and 
+        cover the first two waves with your <em>Feint</em>.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>P2. Omega-M/F</b></p>
+    </td>
+    <td>
+      <p>There aren't any great places to use <em>Feint</em> in this phase, as
+      all the major raid-wides come from untargetable sources.</p>
+      <p>Thus, <em>Feint's</em> best use is to mitigate the auto-attacks after
+      <em>Party Synergy</em> (assuming you used <em>Feint</em> in P1.)</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>P3. Omega Reconfigured</b></p>
+    </td>
+    <td>
+      <p><b>Hello, World</b></p>
+      <ul>
+        <li><em>Feint</em></li>
+      </ul>
+      <p><b>Critical Error</b></p>
+      <ul>
+        <li><em>Feint</em></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>P4. Blue Screen</b></p>
+    </td>
+    <td>
+      <p>As you will be mitigating <em>Run Dynamis (Delta Version)</em>, you
+      cannot use <em>Feint</em> anywhere in this phase.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>P5. Run Dynamis</b></p>
+    </td>
+    <td>
+      <p><b>Run Dynamis (Delta Version)</b></p>
+      <ul>
+        <li><em>Feint</em></li>
+      </ul>
+      <p><b>Run Dynamis (Omega Version)</b></p>
+      <ul>
+        <li><em>Feint</em></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><b>P6. Alpha Omega</b></td>
+    <td>
+      <p><b>Cosmo Memory</b></p>
+      <ul>
+        <li><em>Feint</em>
+          <ul>
+            <li>This isn't strictly needed, and is more to get an extra use,
+            and to put <em>Feint</em> on cooldown so it's not accidentally used
+            at the wrong place.</li>
+          </ul>
+        </li>
+      </ul>
+      <p><b>Wave Cannon #2 (stack)</b></p>
+      <ul>
+        <li><em>Feint</em>
+          <ul>
+            <li>You <em>can</em> also mitigate the spreads if timed correctly,
+            however, if too many debuffs are applied on the boss during the 
+            spreads, the party will not build LB gauge, and this will cause the
+            party to only have LB2 when it's time to melee LB3 at <em>Cosmo 
+            Dive #2</em>.</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+### D2
+
+This assumes D2 is a melee DPS.
+
+<table>
+  <tr>
+    <td>
+      <p><b>P1. Omega</b></p>
+    </td>
+    <td>
+      <p><b>Condensed Wave</b> (Pantokrator)</p>
+      <ul>
+        <li><em>Feint</em> will cover two waves. You can work with D1, and 
+        cover the third and fourth waves with your <em>Feint</em>.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>P2. Omega-M/F</b></p>
+    </td>
+    <td>
+      <p>There aren't any great places to use <em>Feint</em> in this phase, as
+      all the major raid-wides come from untargetable sources.</p>
+      <p>Thus, <em>Feint's</em> best use is to mitigate the auto-attacks after
+      <em>Party Synergy</em> (assuming you used <em>Feint</em> in P1.)</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>P3. Omega Reconfigured</b></p>
+    </td>
+    <td>
+      <p>Your <em>Feint</em> doesn't actually change any breakpoints with a
+      high roll during the towers, hence it is not part of the mitigation 
+      framework.</p>
+      <p>As such, feel free to use your <em>Feint</em> at any tower, although
+      D1 has their <em>Feint</em> at <em>Hello, World</em> and <em>Critical 
+      Error</em>.</p>
+      <p>Alternatively, you can also use <em>Feint</em> to help mitigate
+      Omega's auto-attacks in between tower sets.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>P4. Blue Screen</b></p>
+    </td>
+    <td>
+      <p>You can use <em>Feint</em> anywhere in this phase. The better places
+      would either be at the third <em>Wave Cannon</em> spread, or at <em>Blue Screen</em>.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>P5. Run Dynamis</b></p>
+    </td>
+    <td>
+      <p><b>Run Dynamis (Sigma Version)</b></p>
+      <ul>
+        <li><em>Feint</em></li>
+      </ul>
+      <p><b>Solar Ray #4</b> (after Omega)</p>
+      <ul>
+        <li><em>Feint</em>
+          <ul>
+            <li>Not strictly necessary, but nice to have, especially if the
+            party doesn't have a WAR.</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><b>P6. Alpha Omega</b></td>
+    <td>
+      <p><b>Wave Cannon #1 (stack)</b></p>
+      <ul>
+        <li><em>Feint</em>
+          <ul>
+            <li>You <em>can</em> also mitigate the spreads if timed correctly,
+            however, if too many debuffs are applied on the boss during the 
+            spreads, the party will not build LB gauge, and this will cause the
+            party to only have LB2 when it's time to melee LB3 at <em>Cosmo 
+            Dive #2</em>.</li>
+          </ul>
+        </li>
+      </ul>
+      <p><b>Cosmo Meteor (Flares)</b></p>
+      <ul>
+        <li><em>Feint</em>
+          <ul>
+            <li>This is to help guard against a high-roll (or if someone
+            happens to be a bit too close).</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+### D3
+
+Notably, because MCH has *Dismantle* for on-demand mitigation, there are some
+modifications that are available to MCH that are not available to BRD or DNC.
+
+<table>
+  <tr>
+    <td>
+      <p><b>P1. Omega</b></p>
+    </td>
+    <td>
+      <p><b>Condensed Wave</b> (Pantokrator)</p>
+      <ul>
+        <li>D3 party mitigation will cover three waves if timed correctly. Use 
+        your party mitigation at either the first, or second wave.</li>
+        <li>MCH can split <em>Tactician</em> and <em>Dismantle</em> to cover 
+        all four waves. <em>Dismantle</em> will cover two waves.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>P2. Omega-M/F</b></p>
+    </td>
+    <td>
+      <p><b>Pile Pitch + Meteors → Cosmo Memory</b></p>
+      <ul>
+        <li>D3 90s</li>
+        <ul>
+          <li>Wait for <em>Beyond Defense</em>'s kick to use your party 
+          mitigation to also cover <em>Cosmo Memory</em>.</li>
+        </ul>
+      </ul>
+      <p>A BRD can use <em>Nature's Minne</em> to help H2's shields when
+      <em>Limitless Synergy</em> is cast.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>P3. Omega Reconfigured</b></p>
+    </td>
+    <td>
+      <p>A DNC should start <em>Improvisation</em> when Omega-F is defeated in
+      the previous phase to mitigate the transition.</p>
+      <p><b>Towers #4</b></p>
+      <ul>
+        <li>D3 90s</li>
+      </ul>
+      <p>MCH can use <em>Tactician</em> or <em>Dismantle</em> to cover an
+      extra set of towers in addition to the fourth set.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>P4. Blue Screen</b></p>
+    </td>
+    <td>
+      <p>You will need to use your party mitigation for <em>Run Dynamis (Delta 
+      Version)</em>, so you will not be mitigating this phase.</p>
+      <p>However, a MCH can <em>Tactician</em> here and save <em>Dismantle</em>
+      for <em>Run Dynamis (Delta Version)</em>. If so, use <em>Tactician</em>
+      just before the second <em>Wave Cannon</em> stack, as this would mitigate
+      two stacks (which do more damage than spreads).</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>P5. Run Dynamis</b></p>
+    </td>
+    <td>
+      <p><b>Run Dynamis</b> (all)</p>
+      <ul>
+        <li>D3 90s
+          <ul>
+            <li>You will need to use your party mitigations at the second 
+            <em>Solar Ray</em> hit before <em>Run Dynamis (Delta
+            Version)</em>.</li>
+            <li>MCH can substitute <em>Dismantle</em> for <em>Tactician</em>,
+            although you cannot <em>Dismantle</em> two consecutive <em>Run 
+            Dynamis</em>.</li>
+          </ul>
+        </li>
+      </ul>
+      <p>MCH can use <em>Dismantle</em> in other places, particularly during
+      <em>Solar Ray</em> if the party doesn't have a WAR. You may want to check
+      with your D4 if they are going to <em>Addle</em> a <em>Solar Ray</em>,
+      and <em>Dismantle</em> the one they don't choose.</p>
+    </td>
+  </tr>
+  <tr>
+    <td><b>P6. Alpha Omega</b></td>
+    <td>
+      <p><b>Wave Cannon #1</b></p>
+      <ul>
+        <li>D3 90s
+          <ul>
+            <li>Use H2 30s after dodging all the Exaflares.</li>
+          </ul>
+        </li>
+      </ul>
+      <p><b>Cosmo Meteor (Meteors)</b></p>
+      <ul>
+        <li>D3 90s
+          <ul>
+            <li>Use this when the baited AoE telegraphs appear (and the party
+            is still together.)</li>
+          </ul>
+        </li>
+      </ul>
+      <p>A MCH can use <em>Dismantle</em> anywhere in this phase- the most
+      typical use would be at <em>Wave Cannon #2's</em> stack.</p>
+      <p><b>Do not</b> use <em>Dismantle</em> at <em>Wave Cannon's</em>
+      spread, as it can lead to the party applying too many debuffs during this
+      time, causing the party to not build LB gauge and only have LB2 when it's
+      time to melee LB3 at <em>Cosmo Dive #2</em>.</p>
+    </td>
+  </tr>
+</table>
+
+### D4
+
+<table>
+  <tr>
+    <td>
+      <p><b>P1. Omega</b></p>
+    </td>
+    <td>
+      <p><b>Condensed Wave</b> (Pantokrator)</p>
+      <ul>
+        <li><em>Addle</em> will cover two waves. Use it at any of the first
+        three waves.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>P2. Omega-M/F</b></p>
+    </td>
+    <td>
+      <p>There aren't any great places to use <em>Addle</em> in this phase, as
+      all the major raid-wides come from untargetable sources.</p>
+      <p>Thus, the best use of <em>Addle</em> is to mitigate Omega-F's 
+      auto-attacks after <em>Party Synergy</em>.</p>
+      <p>A RDM can use <em>Magick Barrier</em> at either Meteors, or <em>Cosmo 
+      Memory</em>. If the party's tanks are WAR + PLD, use <em>Magick
+      Barrier</em> at <em>Cosmo Memory</em>.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>P3. Omega Reconfigured</b></p>
+    </td>
+    <td>
+      <p><b>Hello, World</b></p>
+      <ul>
+        <li><em>Addle</em></li>
+      </ul>
+      <p><b>Critical Error</b></p>
+      <ul>
+        <li><em>Addle</em></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>P4. Blue Screen</b></p>
+    </td>
+    <td>
+      <p>Because D4 isn't responsible for mitigating P5, you are free to use 
+      <em>Addle</em> anywhere in this phase if you give up <em>Addle</em> at 
+      <em>Run Dynamis (Delta Version)</em>.</p>
+      <p>If so, use <em>Addle</em> to mitigate the third <em>Wave Cannon</em> 
+      spread + stack, as the tanks have the first two covered with
+      <em>Reprisal</em>.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>P5. Run Dynamis</b></p>
+    </td>
+    <td>
+      <p>The mitigation plan for this phase doesn't include <em>Addle</em>, 
+      as <em>Addle</em> is not available for all three <em>Run Dynamis</em>.</p>
+      <p>As such, you are free to use <em>Addle</em> (and <em>Magick
+      Barrier</em>) anywhere in this phase.</p>
+      <p>If the party does not have a WAR, <em>Addle</em> is particularly
+      helpful at helping the tanks mitigate the <em>Solar Ray</em> before
+      <em>Run Dynamis (Omega Version)</em>. You cannot <em>Addle</em> both, and
+      H2 can use H2 30s for the <em>Solar Ray</em> after.</p>
+    </td>
+  </tr>
+  <tr>
+    <td><b>P6. Alpha Omega</b></td>
+    <td>
+      <p><b>Cosmo Dive #1</b></p>
+      <ul>
+        <li><em>Addle</em></li>
+      </ul>
+      <p><b>Cosmo Dive #2</b></p>
+      <ul>
+        <li><em>Addle</em></li>
+      </ul>
+      <p>A RDM would typically use <em>Magick Barrier</em> at <em>Wave Cannon
+      #2</em>'s stack.</p>
+    </td>
   </tr>
 </table>
