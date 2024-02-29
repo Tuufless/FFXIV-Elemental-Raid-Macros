@@ -62,11 +62,11 @@ Since the last two orbs in Ultimate Annihilation were taken solo by the MT, thes
 
 ## Primal Roulette
 
-Ultima Weapon will apply three Vicious Aetheroplasm debuffs on three random players to mark the start of the Primal Roulette.
+Ultima Weapon will apply three Viscous Aetheroplasm debuffs on three random players to mark the start of the Primal Roulette.
 
 Some things to take note:
 
-- The Vicious Aetheroplasms will each go off during the upcoming Primal sequences, essentially forcing the party to move together as a group.
+- The Viscous Aetheroplasms will each go off during the upcoming Primal sequences, essentially forcing the party to move together as a group.
 - The Primals will then do their signature attack (Aerial Blast, Hellfire, Earthern Fury) to mark the end of their sequence. However, because they are **not targetable**, you **will not** be able to use targeted mitigations like Reprisal or Addle to mitigate the damage.
 
 A recommended mitigation plan is as follows:
@@ -100,7 +100,7 @@ While you can simply observe and react to whichever Primal appears, the order is
     <td><img src="{{site.baseurl}}/assets/images/ultimates/uwu/04d/primal_roulette_garuda_01.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>2.</b> <em>Quickly</em> dodge into the Wicked Wheel AoE to avoid the follow-up Wicked Tornado.</p><p>One Vicious Aetheroplasm debuff will go off around this time.</p></td>
+    <td><p><b>2.</b> <em>Quickly</em> dodge into the Wicked Wheel AoE to avoid the follow-up Wicked Tornado.</p><p>One Viscous Aetheroplasm debuff will go off around this time.</p></td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/uwu/04d/primal_roulette_garuda_02.jpg"></td>
   </tr>
   <tr>
@@ -117,7 +117,7 @@ While you can simply observe and react to whichever Primal appears, the order is
     <td><img src="{{site.baseurl}}/assets/images/ultimates/uwu/04d/primal_roulette_ifrit_01.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>2.</b> <em>Quickly</em> run to the NW corner to dodge the Crimson Cyclones.</p><p><em>(Sprint is <b>highly recommended</b>.)</em></p><p>One Vicious Aetheroplasm debuff will also go off around this time.</p></td>
+    <td><p><b>2.</b> <em>Quickly</em> run to the NW corner to dodge the Crimson Cyclones.</p><p><em>(Sprint is <b>highly recommended</b>.)</em></p><p>One Viscous Aetheroplasm debuff will also go off around this time.</p></td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/uwu/04d/primal_roulette_ifrit_02.jpg"></td>
   </tr>
   <tr>
@@ -134,7 +134,7 @@ While you can simply observe and react to whichever Primal appears, the order is
     <td><img src="{{site.baseurl}}/assets/images/ultimates/uwu/04d/primal_roulette_titan_01.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>2.</b> Second set of Weight of the Land.</p><p>One Vicious Aetheroplasm debuff will go off around this time.</p></td>
+    <td><p><b>2.</b> Second set of Weight of the Land.</p><p>One Viscous Aetheroplasm debuff will go off around this time.</p></td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/uwu/04d/primal_roulette_titan_02.jpg"></td>
   </tr>
   <tr>

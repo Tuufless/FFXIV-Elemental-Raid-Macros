@@ -36,7 +36,7 @@ This is the second of the four blocks in in Ultima Weapon's timeline.
 	<td><img src="{{site.baseurl}}/assets/images/ultimates/uwu/04b/annihilation_05.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>6.</b> Titan begins a series of seven Tumults, during which Ultima Weapon will target the player with the highest hate with Vicious Aetheroplasm (which should be the MT).</p><p>The two sisters will also spawn East and West and do a Wicked Wheel, but these can be ignored.</p><ul><li><b>MT:</b> Move clockwise from the party to ensure Vicious Aetheroplasm only goes on you.</li><li><b>ST:</b> When the MT gets the Vicious Aetheroplasm debuff, <b>tank swap</b>.</li></ul></td>
+    <td><p><b>6.</b> Titan begins a series of seven Tumults, during which Ultima Weapon will target the player with the highest hate with Viscous Aetheroplasm (which should be the MT).</p><p>The two sisters will also spawn East and West and do a Wicked Wheel, but these can be ignored.</p><ul><li><b>MT:</b> Move clockwise from the party to ensure Viscous Aetheroplasm only goes on you.</li><li><b>ST:</b> When the MT gets the Viscous Aetheroplasm debuff, <b>tank swap</b>.</li></ul></td>
 	<td><img src="{{site.baseurl}}/assets/images/ultimates/uwu/04b/annihilation_06.jpg"></td>
   </tr>
   <tr>
@@ -44,7 +44,7 @@ This is the second of the four blocks in in Ultima Weapon's timeline.
 	<td><img src="{{site.baseurl}}/assets/images/ultimates/uwu/04b/annihilation_07.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>8.</b> Garuda then jumps, baiting a second set of Feather Rains on random players.</p><p>The Vicious Aetheroplasm will also expire and Ultima Weapon casts Homing Lasers on the player second in hate (which should be the MT).</p><ul><li><p><b>MT:</b> Invuln the Vicious Aetheroplasm damage (which also covers the Homing Lasers).</p><p><b>Tank swap</b> and take hate back after the Homing Lasers resolve.</p></li></ul>Everybody rotates anti-clockwise to dodge Feather Rains.</td>
+    <td><p><b>8.</b> Garuda then jumps, baiting a second set of Feather Rains on random players.</p><p>The Viscous Aetheroplasm will also expire and Ultima Weapon casts Homing Lasers on the player second in hate (which should be the MT).</p><ul><li><p><b>MT:</b> Invuln the Viscous Aetheroplasm damage (which also covers the Homing Lasers).</p><p><b>Tank swap</b> and take hate back after the Homing Lasers resolve.</p></li></ul>Everybody rotates anti-clockwise to dodge Feather Rains.</td>
 	<td><img src="{{site.baseurl}}/assets/images/ultimates/uwu/04b/annihilation_08.jpg"></td>
   </tr>
 </table>
