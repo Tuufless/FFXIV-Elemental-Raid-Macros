@@ -768,8 +768,6 @@ we needed the fire/ice debuffs in order to survive this mechanic.
       <p><b>Do not move</b> as Nidhogg's debuff will turn into Pyretic. The
       resulting damage will result in Hraesvelgr's Cauterize killing you and
       cause Hraesvelgr to enrage.</p>
-      <p>Do not stand directly in the center, as there <em>is</em> a slight
-      overlap.</p>
       <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
         <b>Note:</b> If you have a DRK and are using <em>Living Dead</em> here, 
         neither dragon will be targetable for the DRK to recover HP for <em>Walking Dead</em>.
@@ -934,6 +932,19 @@ You will need about six pieces of party mitigation to survive *Alternative End*.
   </tr>
 </table>
 </details>
+
+<details markdown=block>
+<summary>
+  <b>[Cauterize]</b> Do the Cauterizes overlap? Can you have one tank stand directly in the middle and catch both Cauterizes with invuln?
+</summary>
+<table>
+  <tr>
+    <td>Unfortunately not. Although the Cauterize AoE effects make it 
+    look like the zones overlap, they actually do not.</td>
+  </tr>
+</table>
+</details>
+
 <details markdown=block>
 <summary><b>[General]</b> Can you defeat one dragon early?</summary>
 <table>
