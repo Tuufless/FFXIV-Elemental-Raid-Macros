@@ -402,6 +402,49 @@ are:
 
 <details markdown=block>
 <summary>
+  <b>[Akh Morn's Edge]</b> Why are we doing 3-3-2 instead of 1-1-6? Wouldn't that make it easier to heal?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>1-1-6 at <em>Akh Morn's Edge</em> <b>is</b> easier to heal compared to
+      3-3-2, but it does not come for free.</p>
+      <p>The biggest obstacle to 1-1-6 is having to mitigate <em>Wyrmsbreath</em>
+      2 and <em>Cauterize</em> with the same 30% at the end of P6.</p>
+      <ul>
+        <li>The tank with a single-target tankbuster needs to time their 30% 
+        mitigation at the last second before <em>Wyrmsbreath</em> 2.</li>
+        <li>The healers need to top up the tanks (and potentially give targeted
+        mitigation)- remember, the tanks are on the other side of the arena 
+        during <em>Wyrmsbreath</em>.</li>
+      </ul>
+      <p>While this is doable, it's much tighter in execution than simply 
+      invulning Cauterize, and makes P6 even less forgiving.</p>
+      <p>Prog groups <em>especially</em> should aim to get more practice at P7, 
+      and it's difficult to justify potentially spending more time in P6 for 
+      <em>both</em> tanks to consistently (and independently!) get the timing 
+      down.</p>
+      <p>Even if Cauterize is properly mitigated, executing 1-1-6 still has some
+      intangible tradeoffs. While it <em>is</em> easier to mitigate and heal 
+      through, you open up different lines of error:
+      <ul>
+        <li>Either H2, D2, or D4 forgets and goes to the wrong tower at the 
+        wrong <em>Akh Morn's Edge</em>.
+        <li>The wrong tank goes to the wrong tower at the wrong <em>Akh Morn's 
+        Edge</em>.</li>
+        <li>"Less healing" <em>does not</em> mean "no healing", especially 
+        given 1-1-6's reputation of "letting healers parse". It's also easy
+        for healers to forget that the tank in the DPS tower at <em>Akh 
+        Morn's Edge</em> 2 does not have all their cooldowns available because 
+        something was used for <em>Akh Morn's Edge</em> 1.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
   <b>[Mitigation]</b> Is there a reason D2 is paired with D4? What happens with
   double caster parties? Wouldn't that overlap Addles?
 </summary>
