@@ -946,6 +946,18 @@ You will need about six pieces of party mitigation to survive *Alternative End*.
 </details>
 
 <details markdown=block>
+<summary>
+  <b>[Cauterize]</b> Can the Cauterize DoT be mitigated?
+</summary>
+<table>
+  <tr>
+    <td>No. Regardless of whether Cauterize was taken with invuln or with 
+    mitigations, the DoT ticks for about 18k damage/tick.</td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
 <summary><b>[General]</b> Can you defeat one dragon early?</summary>
 <table>
   <tr>
