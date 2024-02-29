@@ -36,15 +36,15 @@ In particular, the MT should be first in aggro, while the ST should be second. T
 
 <table>
   <tr>
-    <td width="50%"><p><b>1.</b> Ultima applies Vicious Aetheroplasm in a small AoE around the player who is highest in hate (which should be the MT).</p><p><ul><li><b>MT:</b> Split away from the party as anyone nearby will also get a Vicious Aetheroplasm debuff.</li></ul></p></td>
+    <td width="50%"><p><b>1.</b> Ultima applies Viscous Aetheroplasm in a small AoE around the player who is highest in hate (which should be the MT).</p><p><ul><li><b>MT:</b> Split away from the party as anyone nearby will also get a Viscous Aetheroplasm debuff.</li></ul></p></td>
 	<td><img src="{{site.baseurl}}/assets/images/ultimates/uwu/04a/predation_01.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>2.</b> Ultima Weapon then turns to the player who is second in hate (which should be the ST) and targets them for Homing Lasers, which is a heavy AoE tankbuster.</p><p><ul><li><b>MT:</b> After receiving the Vicious Aetheroplasm debuff, stack with the party.</li></ul></p></td>
+    <td><p><b>2.</b> Ultima Weapon then turns to the player who is second in hate (which should be the ST) and targets them for Homing Lasers, which is a heavy AoE tankbuster.</p><p><ul><li><b>MT:</b> After receiving the Viscous Aetheroplasm debuff, stack with the party.</li></ul></p></td>
 	<td><img src="{{site.baseurl}}/assets/images/ultimates/uwu/04a/predation_02.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>3.</b> The Vicious Aetheroplasm debuff expires, dealing split damage shared by the party.</p></td>
+    <td><p><b>3.</b> The Viscous Aetheroplasm debuff expires, dealing split damage shared by the party.</p></td>
 	<td><img src="{{site.baseurl}}/assets/images/ultimates/uwu/04a/predation_03.jpg"></td>
   </tr>
 </table>
