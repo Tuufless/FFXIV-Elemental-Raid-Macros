@@ -217,3 +217,36 @@ This method allows for [full melee uptime with minimal movement](https://clips.t
 
 The arena will change, and Thordan will appear. Make sure someone in the party
 attacks Thordan, or you will restart from this phase.
+
+---
+
+## Frequently Asked Questions
+
+<details markdown=block>
+<summary>
+  <b>[Markers]</b> Why don't we use the uptime markers?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>These markers are even closer to the center, and provide full melee
+      uptime during the <em>Hyperdimensional Slashes</em>.</p>
+      <p>That being said, it is a tradeoff- a closer distance means players
+      have to be more precise with their positioning, all while adjusting to
+      one another.</p>
+      <ul>
+        <li>The likelihood of two players clipping one another increases as
+        players are closer together.</li>
+        <li>The void puddle placements become more sensitive to player
+        positioning, increasing the chance of dropping a void in a spot that
+        will explode with the white orbs.</li>
+      </ul>
+      <p>Given P1's DPS check (or lack thereof), this tradeoff between distance
+      and accuracy isn't really worth it.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/dsr/01/uptime_markers.jpg">
+    </td>
+  </tr>
+</table>
+</details>
