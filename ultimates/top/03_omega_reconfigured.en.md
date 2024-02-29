@@ -426,6 +426,17 @@ Regression players stand away from the Critical Overflows instead.
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/03/hello_world_0_2.jpg"></td>
   </tr>
+  <tr>
+    <td>
+      <p><b>3.</b> When the towers appear, the players with Critical 
+      Overflow <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_overflow_bug.png"> and Critical Performance <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_performance_bug.png"> (the Nisis) move around the outside to get to their towers.</p>
+      <p>The players with the tethers stay inside the Omega's target 
+      circle, and orient themselves to prepare to move.</p>
+      <p>The tether players <b>wait for the the Nisis to be in position</b>
+      before moving out.</p>
+    </td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/03/hello_world_0_3.jpg"></td>
+  </tr>
 </table>
 
 ### First iteration
@@ -444,8 +455,7 @@ onwards.
   <p><b>Tip:</b> The party will be taking raid-wide damage from <em>Critical
   Overflow</em>, <em>Critical Synchronization</em>, and the two tethers when
   they resolve.</p>
-  <p><b>Three pieces of mitigation</b> (including shields) are needed for
-  non-tanks to survive all the damage without any additional healing.</p>
+  <p><b>Three pieces of mitigation</b> (shields count as one) are needed for the party to survive all the damage without any additional healing.</p>
 </div>
 
 <table>
