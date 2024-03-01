@@ -426,10 +426,10 @@ are:
       down.</p>
       <p>Even if Cauterize is properly mitigated, executing 1-1-6 still has some
       intangible tradeoffs. While it <em>is</em> easier to mitigate and heal 
-      through, you open up different lines of error:
+      through, you open up different lines of error:</p>
       <ul>
         <li>Either H2, D2, or D4 forgets and goes to the wrong tower at the 
-        wrong <em>Akh Morn's Edge</em>.
+        wrong <em>Akh Morn's Edge</em>.</li>
         <li>The wrong tank goes to the wrong tower at the wrong <em>Akh Morn's 
         Edge</em>.</li>
         <li>"Less healing" <em>does not</em> mean "no healing", especially 
