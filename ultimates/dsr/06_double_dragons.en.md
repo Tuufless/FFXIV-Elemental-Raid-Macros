@@ -367,7 +367,8 @@ resolve at the end of the mechanic.
         resolves.</li>
         <li>Your own <em>Spreading Flames</em> will not affect you (it won't
         even do damage), but getting hit by <em>another</em> player's
-        <em>Spreading Flames</em> will debuff and knock you out.</li>
+        <em>Spreading Flames</em> will debuff and have a large knockback
+        effect.</li>
       </ul>
     </td>
   </tr>
@@ -382,16 +383,20 @@ resolve at the end of the mechanic.
       <p>Two players will be targeted with this debuff (which leaves two players
       without any debuffs).</p>
       <ul>
-        <li>When the timer expires, a two-man stack AoEs centered on the player
-        resolves.</li>
+        <li>When the timer expires, a two-man stack AoE centered on the player
+        resolves.
+        <ul>
+          <li>Each player with an <em>Entangled Flames</em> debuff will pair 
+          together with a player that does not have any debuff to share this AoE.</li>
+        </ul>
+        </li>
         <li>Each player hit by the stack will also get a <em>Fire Resistance
         Down II</em> debuff (so you cannot overlap stacks).</li>
-        <li>Each player with an Entangled Flames debuff will pair together with
-        a player that does not have any debuff.</li>
         <li>If the debuffed player dies, or there are not enough players alive
         to assign the debuff to, it explodes with <em>Entangled Pyre</em>,
-        dealing damage, and applying both Damage Down and Fire Resistance Down
-        II to the entire party instead, quickly leading to a wipe.</li>
+        dealing damage, and applying both <em>Damage Down</em> and <em>Fire 
+        Resistance Down II</em> to the entire party instead, quickly leading to
+        a wipe.</li>
       </ul>
     </td>
   </tr>

@@ -15,6 +15,51 @@ This is the only phase in the fight with a transitional mechanic.
 
 ## Transition
 
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+<details markdown=block>
+<summary><b>[Click to Expand] Transition debuffs</b></summary>
+<table>
+  <tr>
+    <td style="text-align:center">
+      <img src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/sniper_cannon.png">
+    </td>
+    <td>
+      <p><b>Sniper Cannon Fodder</b></p>
+      <p>Four players will be targeted with this debuff.</p>
+      <ul>
+        <li>When the timer expires, a point-blank <em>Sniper Cannon</em> AoE centered on the player resolves.</li>
+        <li>If the player dies before the timer expires, the <em>Sniper Cannon</em> AoE immediately resolves on a random player.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center">
+      <img src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/high_powered_sniper_cannon.png">
+    </td>
+    <td>
+      <p><b>High-powered Sniper Cannon Fodder</b></p>
+      <p>Two players will be targeted with this debuff (which leaves two players
+      without any debuffs).</p>
+      <ul>
+        <li>When the timer expires, or the player dies, a point-blank 
+        <em>High-powered Sniper Cannon</em> two-man stack AoE centered on the 
+        player resolves.
+          <ul>
+            <li>Each player with a <em>High-powered Sniper Cannon Fodder</em> 
+            debuff will pair together with a player that does not have any 
+            debuff to share this AoE.</li>
+          </ul>
+        </li>
+        <li>Each player hit by the stack will also get a <em>Magic Vulnerability 
+        Up</em> debuff (so you cannot overlap stacks).</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+</details>
+</div>
+
 <table>
   <tr>
     <td>
@@ -23,22 +68,24 @@ This is the only phase in the fight with a transitional mechanic.
         <li><b>High-powered Sniper Cannon Fodders:</b> Pair up with a player
         with no debuffs north.</li>
         <li><b>Sniper Cannon Fodders:</b> Spread out along the southern half.</li>
-        <li><b>No debuffs:</b> Pair up with a High-powered Sniper Cannon Fodder
-        player north.</li>
+        <li><b>No debuffs:</b> Pair up with a <em>High-powered Sniper Cannon 
+        Fodder</em> player north.</li>
       </ul></td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/03/transition_02.jpg"></td>
   </tr>
   <tr>
     <td>
-      <p><b>2.</b> First pulse of the expanding Wave Repeater AoE goes off.</p>
+      <p><b>2.</b> First pulse of an expanding Wave Repeater AoE goes off.</p>
       <p>Three arms will appear around the arena, 120 degrees from one another.</p>
       <p><b>Note where these first set of arms are.</b></p>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/03/transition_03.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>3.</b> Second pulse goes off.</p><p>The second set of arms will
-    appear around the arena.</p></td>
+    <td>
+      <p><b>3.</b> Second pulse goes off.</p>
+      <p>The second set of arms will appear around the arena.</p>
+    </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/03/transition_04.jpg"></td>
   </tr>
   <tr>
@@ -52,18 +99,31 @@ This is the only phase in the fight with a transitional mechanic.
     </td>
   </tr>
   <tr>
-    <td><p><b>5.</b> Fourth pulse goes off.</p><p>At this point, all players
-    should be in position for the second wave of mechanics.</p></td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/03/transition_06.jpg"></td>
+    <td>
+      <p><b>5.</b> Fourth pulse goes off.</p>
+      <p>At this point, all players should be in position for the second wave
+      of mechanics.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/top/03/transition_06.jpg">
+    </td>
   </tr>
   <tr>
-    <td><p><b>6.</b> First pulse of the second wave goes off.</p></td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/03/transition_07.jpg"></td>
+    <td>
+      <p><b>6.</b> First pulse of the second wave goes off.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/top/03/transition_07.jpg">
+    </td>
   </tr>
   <tr>
-    <td><p><b>7.</b> Second pulse of the second wave goes off.</p><p>The first
-    set of arms will telegraph an AoE around them.</p></td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/03/transition_08.jpg"></td>
+    <td>
+      <p><b>7.</b> Second pulse of the second wave goes off.</p>
+      <p>The first set of arms will telegraph an AoE around them.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/top/03/transition_08.jpg">
+    </td>
   </tr>
   <tr>
     <td>
@@ -73,12 +133,18 @@ This is the only phase in the fight with a transitional mechanic.
       <p><b>Move into the intersection of the expanding pulse and the first set
       of AoE</b> so you do not get hit by the second set of arms.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/03/transition_09.jpg"></td>
+    <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/top/03/transition_09.jpg">
+    </td>
   </tr>
   <tr>
-    <td><p><b>9.</b> Player debuffs resolve along with the second set of arm's
-    AoE.</p></td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/03/transition_10.jpg"></td>
+    <td>
+      <p><b>9.</b> Player debuffs resolve along with the second set of arm's
+      AoE.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/top/03/transition_10.jpg">
+    </td>
   </tr>
 </table>
 
@@ -86,10 +152,10 @@ This is the only phase in the fight with a transitional mechanic.
 
 ## Hello, World
 
-Although Hello, World may look overwhelming at first, there are really just two
-variations, determined by which colour debuff (Critical Performance and
-Critical Underflow) get paired with Critical Overflow and Critical
-Synchronization.
+Although *Hello, World* may look overwhelming at first, there are really just
+two variations, determined by which colour debuff (*Critical Performance* and
+*Critical Underflow*) get paired with *Critical Overflow* and *Critical
+Synchronization*.
 
 <table>
   <tr>
