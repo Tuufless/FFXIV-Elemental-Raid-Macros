@@ -376,7 +376,7 @@ are:
       Morn's Edge</em>, while the ability to <em>Summon Seraph</em> well in
       advance of applying <em>Consolation</em> makes it well suited for
       <em>Gigaflare's Edge</em>.</p>
-      <p>Notionally, I also don't have a good way to separate the "shield" H2
+      <p>Notationally, I also don't have a good way to separate the "shield" H2
       120s (<em>Consolation</em> versus <em>Panhaima</em>) from the
       "mitigation" H2 120s (<em>Expedient</em> versus <em>Holos</em>) which
       would add to the confusion. As a result, I would prefer to just leave it
