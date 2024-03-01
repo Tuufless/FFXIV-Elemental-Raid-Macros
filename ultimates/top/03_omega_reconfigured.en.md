@@ -42,8 +42,14 @@ This is the only phase in the fight with a transitional mechanic.
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/03/transition_04.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>4.</b> Third pulse goes off.</p></td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/03/transition_05.jpg"></td>
+    <td>
+      <p><b>4.</b> Third pulse goes off.</p>
+      <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
+      <b>Note:</b> The Wave Repeater AoE boundaries <b>do not</b> follow the rings on the floor.</div>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/top/03/transition_05.jpg">
+    </td>
   </tr>
   <tr>
     <td><p><b>5.</b> Fourth pulse goes off.</p><p>At this point, all players
