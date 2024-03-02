@@ -132,8 +132,9 @@ Nukemaru has compiled a collection of clips which may help:
 <table>
   <tr>
     <td width="50%">
-      <p><b>5.</b> Omega will then present a single monitor set, to be resolved
-      together with the first set of <em>Hello, World</em> debuffs.</p>
+      <p><b>5.</b> Omega will then present a single monitor set <b>either West 
+      or East</b>, to be resolved together with the first set of <em>Hello, 
+      World</em> debuffs.</p>
       <p>Omega's monitors will be taken by two players with <b>two Dynamis
       stacks</b>.
       However:</p>
