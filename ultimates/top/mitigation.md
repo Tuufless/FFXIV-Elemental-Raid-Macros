@@ -1797,7 +1797,7 @@ modifications that are available to MCH that are not available to BRD or DNC.
     <td>
       <p><b>Pile Pitch + Meteors → Cosmo Memory</b></p>
       <ul>
-        <li>D3 90s</li>
+        <li><em>Troubadour/Tactician/Shield Samba</em></li>
         <ul>
           <li>Wait for <em>Beyond Defense</em>'s kick to use your party 
           mitigation to also cover <em>Cosmo Memory</em>.</li>
@@ -1816,7 +1816,7 @@ modifications that are available to MCH that are not available to BRD or DNC.
       the previous phase to mitigate the transition.</p>
       <p><b>Towers #4</b></p>
       <ul>
-        <li>D3 90s</li>
+        <li><em>Troubadour/Tactician/Shield Samba</em></li>
       </ul>
       <p>MCH can use <em>Tactician</em> or <em>Dismantle</em> to cover an
       extra set of towers in addition to the fourth set.</p>
@@ -1842,7 +1842,7 @@ modifications that are available to MCH that are not available to BRD or DNC.
     <td>
       <p><b>Run Dynamis</b> (all)</p>
       <ul>
-        <li>D3 90s
+        <li><em>Troubadour/Tactician/Shield Samba</em>
           <ul>
             <li>You will need to use your party mitigations at the second 
             <em>Solar Ray</em> hit before <em>Run Dynamis (Delta
@@ -1864,15 +1864,15 @@ modifications that are available to MCH that are not available to BRD or DNC.
     <td>
       <p><b>Wave Cannon #1</b></p>
       <ul>
-        <li>D3 90s
+        <li><em>Troubadour/Tactician/Shield Samba</em>
           <ul>
-            <li>Use H2 30s after dodging all the Exaflares.</li>
+            <li>Use <em>Troubadour/Tactician/Shield Samba</em> after dodging all the Exaflares.</li>
           </ul>
         </li>
       </ul>
       <p><b>Cosmo Meteor (Meteors)</b></p>
       <ul>
-        <li>D3 90s
+        <li><em>Troubadour/Tactician/Shield Samba</em>
           <ul>
             <li>Use this when the baited AoE telegraphs appear (and the party
             is still together.)</li>
