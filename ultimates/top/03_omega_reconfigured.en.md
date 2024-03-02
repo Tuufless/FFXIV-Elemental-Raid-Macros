@@ -542,9 +542,14 @@ onwards.
         and blue tethered players pair up and move to their towers <em>(red in
         this example)</em></li>
       </ul>
-      <p>Note the red/green tethered players are on the outside of their
-      coloured towers, while the blue tethered players are between their
-      coloured towers.</p>
+      <p>Note the following:</p>
+      <ul>
+        <li>The red/green tethered players are on the outside of their
+        coloured towers</li>
+        <li>The blue tethered players are between their coloured towers.</li>
+        <li>The Critical Overflow <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_overflow_bug.png"> 
+        players are just outside the "white" center of their towers.</li>
+      </ul>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/03/hello_world_1_1.jpg"></td>
   </tr>
@@ -566,9 +571,11 @@ onwards.
   <tr>
     <td>
       <p>
-        <b>5.</b> Pass Critical Underflow <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_underflow_bug.png">
+        <b>5.</b> Wait a split second before passing Critical Underflow <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_underflow_bug.png">
         and Critical Performance Bugs <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_performance_bug.png">.
       </p>
+      <p>The players who were at the Critical Overflow <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_synchronization_bug.png"> towers <em>(blue in this example)</em> 
+      pass their coloured debuffs at the markers.</p>
       <p>Blue-tethered players also break their tether in the process.</p>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/03/hello_world_1_3.jpg"></td>
@@ -622,8 +629,10 @@ All players rotate their roles for the second iteration.
   </tr>
   <tr>
     <td>
-      <p><b>8.</b> Pass Critical Underflow <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_underflow_bug.png">
+      <p><b>8.</b> Wait a split second before passing Critical Underflow <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_underflow_bug.png">
       and Critical Performance Bugs <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_performance_bug.png">.</p>
+      <p>The players who were at the Critical Overflow <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_synchronization_bug.png"> towers <em>(blue in this example)</em> 
+      pass their coloured debuffs at the markers.</p>
       <p>Blue-tethered players also break their tether in the process.</p>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/03/hello_world_2_3.jpg"></td>
@@ -677,8 +686,10 @@ All players rotate their roles again for the third iteration.
   </tr>
   <tr>
     <td>
-      <p><b>12.</b> Pass Critical Underflow <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_underflow_bug.png">
+      <p><b>12.</b> Wait a split second before passing Critical Underflow <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_underflow_bug.png">
       and Critical Performance Bugs <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_performance_bug.png">.</p>
+      <p>The players who were at the Critical Overflow <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_synchronization_bug.png"> towers <em>(blue in this example)</em> 
+      pass their coloured debuffs at the markers.</p>
       <p>Blue-tethered players also break their tether in the process.</p>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/03/hello_world_3_3.jpg"></td>
@@ -693,7 +704,7 @@ All players rotate their roles again for the third iteration.
   </tr>
 </table>
 
-## Fourth iteration
+### Fourth (final) iteration
 
 All players rotate their roles again for the fourth (and final) iteration.
 
@@ -716,6 +727,14 @@ This time around, there are two differences:
    and break **first**.
 2. Players will **not** pass Critical Underflow <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_underflow_bug.png">
    and Critical Performance <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_performance_bug.png">.
+
+Also note that because all players have gone through all the previous roles,
+they have the *Underflow Debugger* and *Performance Debugger* buffs that 
+prevent them from receiving *Critical Underflow Bug* and *Critical Performance 
+Bug* again (the Nisis).
+
+Thus, this final set of towers is **free movement**, as the Nisis will not be 
+passed, even if players bump into one another.
 
 <table>
   <tr>
@@ -764,9 +783,10 @@ This time around, there are two differences:
     <td>
       <p><b>18.</b> All players have resolved their debuffs, and there are no
       more bugs remaining.</p>
-      <p>Importantly, all players still have the Overflow Debugger buffs so
-      Omega's Critical Error will not apply another round of Critical Overflows
-      on the party.</p>
+      <p>Omega will cast <em>Critical Error</em>, which deals heavy raid-wide 
+      damage, <em>and</em> applies a fresh <em>Critical Overflow Bug</em> on
+      all players, which will get blocked by everybody's <em>Overflow Debugger</em>
+      buff.</p>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/03/hello_world_4_5.jpg"></td>
   </tr>
@@ -791,16 +811,16 @@ take exactly one monitor hit each.
 </summary>
 <table>
   <tr>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/monitors_debuff.png"></td>
+    <td style="text-align:center"><img src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/monitors_debuff.png"></td>
     <td>
       <p><em>Preparing oversampled wave cannon, which will fire in the
       direction of designated player when this effect expires.</em></p>
       <p>This is an extension of the mechanic "Oversampled Wave Cannon" from
       O12S-2.</p>
-      <p>Monitors will appear on one side of Omega, and two random players on
-      the side with the monitors will be hit with an AoE. If there are fewer
-      than two players, then a random player (from anywhere) is selected for
-      each player missing instead.</p>
+      <p>Monitors will appear on one side of Omega. When the mechanic resolves,
+      two random players on the side with the monitors will be hit with an AoE. 
+      If there are fewer than two players, then a random player (from anywhere) 
+      is selected for each player missing instead.</p>
       <p>This phase extends the idea and adds monitors to players that work the
       same way- when the debuff resolves, two random players on the monitor
       side of the debuffed <em>player</em> will be selected for an AoE.</p>
@@ -825,7 +845,8 @@ PF currently resolves this using [Astoh's strat](https://twitter.com/Astoh_Shall
   </tr>
   <tr>
     <td colspan="2">
-      <p><b>2.</b> Omega will ready Oversampled Wave Cannon (monitors), facing directly east or west.</p>
+      <p><b>2.</b> Omega will ready Oversampled Wave Cannon (monitors), facing 
+      directly east or west.</p>
       <p>Three random players will also get their own set of monitors.</p>
       <p>Resolve them as follows, with all three monitor players on the other
       side of Omega's monitors.</p>
@@ -875,16 +896,18 @@ PF currently resolves this using [Astoh's strat](https://twitter.com/Astoh_Shall
 <table>
   <tr>
     <td>
-      <p>Omega casts "Critical Error" at the end of Hello, World.</p>
-      <p>This will apply a new Critical Overflow Bug onto <em>all</em> players.
-      However, because all players have the Critical Overflow Debugger buff,
-      this additional Critical Overflow Bug is blocked.</p>
-      <p>If the Local Regression players stayed with the Critical Overflow
-      players in the final iteration, their Critical Overflow Debugger buffs
-      would get consumed there instead.</p>
-      <p>As as result, they won't have the Critical Overflow Debugger buff when
-      Omega casts Critical Error, and will get another round of Critical
-      Overflows that will last into Oversampled Wave Cannon.</p>
+      <p>Omega casts <em>Critical Error</em> at the end of Hello, World.</p>
+      <p>This will apply a new <em>Critical Overflow Bug</em> onto <em>all</em> 
+      players. However, because all players have the <em>Critical Overflow 
+      Debugger</em> buff, this additional <em>Critical Overflow Bug</em> is 
+      blocked.</p>
+      <p>If the <em>Local Regression</em> players stayed with the <em>Critical 
+      Overflow Bug</em> players in the final iteration, their <em>Critical 
+      Overflow Debugger</em> buffs would get consumed there instead.</p>
+      <p>As as result, they won't have the <em>Critical Overflow Debugger</em> 
+      buff when Omega casts <em>Critical Error</em>, and will get another round 
+      of <em>Critical Overflow Bug</em>s that will last into <em>Oversampled 
+      Wave Cannon</em>.</p>
     </td>
   </tr>
 </table>
@@ -947,13 +970,13 @@ PF currently resolves this using [Astoh's strat](https://twitter.com/Astoh_Shall
 <table>
   <tr>
     <td>
-      <p>Someone picked up Critical Performance Bug (the blue Nisi) or Critical
-      Underflow Bug (the red Nisi) too late.</p>
-      <p>Taking the towers gives players a 10-second Cascading Latent Defect or
-      Latent Performance Defect debuffs, and the Bug debuffs <b>must expire
-      before</b> the Defects do, or the raid wipes.</p><p>If you passed/picked
-      up the Bugs too late, they will not expire in time to cleanse the Defects
-      before they explode and wipe the raid.</p>
+      <p>Someone picked up <em>Critical Performance Bug</em> (the blue Nisi) or 
+      <em>Critical Underflow Bug</em> (the red Nisi) too late.</p>
+      <p>Taking the towers gives players a 10-second <em>Cascading Latent 
+      Defect</em> or <em>Latent Performance Defect</em> debuffs, and the Bug 
+      debuffs <b>must expire before</b> the Defects do, or the raid wipes.</p>
+      <p>If you passed/picked up the Bugs too late, they will not expire in
+      time to cleanse the Defects before they explode and wipe the raid.</p>
     </td>
   </tr>
 </table>
@@ -969,14 +992,15 @@ PF currently resolves this using [Astoh's strat](https://twitter.com/Astoh_Shall
     <td>
       <p><em>Critical Error</em> has an additional effect besides just
       raid-wide damage- it gives <em>all</em> party members a
-      <em>Critical Overflow</em> debuff.</p>
+      <em>Critical Overflow Bug</em> debuff.</p>
       <p>However, in normal cases, all party members would have the
       <em>Overflow Debugger</em> buff on them from resolving <em>Critical
       Error</em> previously. This buff is <em>lost</em> if the player dies.</p>
-      <p>Thus, if a player dies and is raised, <em>Critical Error</em> will
-      give them a fresh copy of <em>Critical Overflow</em>, which just so
-      happens to resolve in 21 seconds, which is also when <em>Oversampled Wave
-      Cannon</em> resolves.</p>
+      <p>Thus, if a player that has already resolved their <em>Critical Overflow 
+      Bug</em> dies and is raised, <em>Critical Error</em> will give them a 
+      fresh copy of <em>Critical Overflow Bug</em>, which just so happens to 
+      resolve in 21 seconds, which is also when <em>Oversampled Wave Cannon</em> 
+      resolves.</p>
     </td>
   </tr>
 </table>
