@@ -478,20 +478,21 @@ Regression* players stand away from the *Critical Overflows Bugs* instead.
 <table>
   <tr>
     <td width="50%">
-      <p><b>1.</b> Omega casts Hello, World, and players get their debuffs.</p>
+      <p><b>1.</b> Spread out while Omega casts <em>Hello, World</em>, giving 
+      players their debuffs.</p>
       <ul>
-        <li><b>Check which coloured-debuffs go with Critical Overflow and/or
-        Critical Synchronization.</b></li>
+        <li><b>Check which coloured-debuffs go with <em>Critical Overflow
+        Bug</em> and/or <em>Critical Synchronization Bug</em>.</b></li>
       </ul>
       <p><em>In this example:</em></p>
       <ul>
         <li>
           <p><em>Critical Overflows <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_overflow_bug.png">
           start with Critical Performance <img  style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_performance_bug.png">
-          (blue Nisis), so will go to blue  towers.</em></p>
+          (blue Nisis), so will go to blue towers.</em></p>
           <ul>
             <li><em>Local Regressions <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/local_regression.png">
-            (red/green tethers) follow Critical Overflows to the  same colour
+            (red/green tethers) follow Critical Overflows to the same colour
             (blue towers).</em></li>
           </ul>
         </li>
