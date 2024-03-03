@@ -216,9 +216,11 @@ point, two players will be at each stage in the cycle.
   </tr>
 </table>
 
+Players will alternate between towers and tethers each cycle.
+
 This loop is repeated four times (so all players will have their go at each
-debuff), although the final iteration has one small difference where the Local
-Regression players stand away from the Critical Overflows instead.
+debuff), although the final iteration has one small difference where the *Local
+Regression* players stand away from the *Critical Overflows Bugs* instead.
 
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
 <details markdown=block>
@@ -227,30 +229,26 @@ Regression players stand away from the Critical Overflows instead.
 </summary>
 <table>
   <tr>
-    <td>
+    <td style="text-align:center">
       <img src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/latent_synchronization_bug.png">
     </td>
     <td>
       <p><b>Latent Synchronization Bug</b></p>
       <ul>
-        <li>All players will get this debuff.</li>
         <li>This is a 70s debuff that will kill the player if left to timeout.</li>
-        <li>This is cleansed by taking damage from a Critical Synchronization
-        Bug.</li>
+        <li>This is cleansed by taking damage from a <em>Critical
+        Synchronization Bug</em>.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td>
+    <td style="text-align:center">
       <img src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/local_code_smell.png">
       <img src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/local_regression.png">
     </td>
     <td>
       <p><b>Local Code Smell</b></p>
       <ul>
-        <li>All players will get this debuff in pairs of 24s, 44s, 64s, and 84s.</li>
-        <li>The duration will always be 40 seconds off from the player's Remote
-        Code Smell debuff.</li>
         <li>As the timer approaches zero, emphemeral red+green tethers will
         connect the two players.</li>
         <li>When the timer expires, the tethers activate and turn into Local
@@ -259,23 +257,22 @@ Regression players stand away from the Critical Overflows instead.
     <p><b>Local Regression</b></p>
     <ul>
       <li>When the two players move <b>near</b> one another, the tether
-      "breaks", dealing magical damage to the party, applying a stack of Magic
-      Vulnerability Up, and a stack of Thrice-come Ruin that only lasts for a
-      second.</li>
+      "breaks", dealing magical damage to the party, applying a stack of 
+      <em>Magic Vulnerability Up</em>, and a stack of <em>Thrice-come Ruin</em> 
+      that only lasts for a second.</li>
+      <li>If the tether is <em>not</em> broken this way before the timer 
+      expires, it breaks and wipes the raid.</li>
     </ul>
   </td>
   </tr>
   <tr>
-    <td>
+    <td style="text-align:center">
       <img src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/remote_code_smell.png">
       <img src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/remote_regression.png">
     </td>
     <td>
       <p><b>Remote Code Smell</b></p>
       <ul>
-        <li>All players will get this debuff in pairs of 24s, 44s, 64s, and 84s.</li>
-        <li>The duration will always be 40 seconds off from the player's Local
-        Code Smell debuff.</li>
         <li>As the timer approaches zero, emphemeral blue tethers will connect
         the two players.</li>
         <li>When the timer expires, the tethers activate and turn into Remote
@@ -285,13 +282,15 @@ Regression players stand away from the Critical Overflows instead.
       <ul>
         <li>When the two players move <b>away</b> from one another, the
         tether "breaks", dealing magical damage to the party, applying a stack
-        of Magic Vulnerability Up, and a stack of Thrice-come Ruin that only
-        lasts for a second.</li>
+        of <em>Magic Vulnerability Up</em>, and a stack of <em>Thrice-come 
+        Ruin</em> that only lasts for a second.</li>
+        <li>If the tether is <em>not</em> broken this way before the timer 
+        expires, it breaks and wipes the raid.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td>
+    <td style="text-align:center">
       <img src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/cascading_latent_defect.png">
       <img src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/latent_performance_defect.png">
     </td>
@@ -300,12 +299,13 @@ Regression players stand away from the Critical Overflows instead.
       <ul>
         <li>Standing inside a red tower when the tower resolves will apply this
         debuff.</li>
-        <li>This debuff will kill the player when the timer expires.</li>
+        <li>This debuff will wipe the raid when the timer expires.</li>
         <li>
-          <p>It is cleansed when that player's Critical Underflow Bug expires.</p>
+          <p>It is cleansed when that player's <em>Critical Underflow Bug</em> 
+          expires.</p>
           <ul>
-            <li>As a result, players must have the Critical Underflow Bug (red
-            Nisi) <b>before</b> taking a red tower.</li>
+            <li>As a result, players must have the <em>Critical Underflow
+            Bug</em> (red Nisi) <b>before</b> taking a red tower.</li>
           </ul>
         </li>
       </ul>
@@ -313,19 +313,20 @@ Regression players stand away from the Critical Overflows instead.
       <ul>
         <li>Standing inside a blue tower when the tower resolves will apply this
         debuff.</li>
-        <li>This debuff will kill the player when the timer expires.</li>
+        <li>This debuff will wipe the raid when the timer expires.</li>
         <li>
-          <p>It is cleansed when that player's Critical Performance Bug expires.</p>
+          <p>It is cleansed when that player's <em>Critical Performance Bug</em>
+          expires.</p>
           <ul>
-            <li>As a result, players must have the Critical Performance Bug
-            (blue Nisi) <b>before</b> taking a blue tower.</li>
+            <li>As a result, players must have the <em>Critical Performance
+            Bug</em> (blue Nisi) <b>before</b> taking a blue tower.</li>
           </ul>
         </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td>
+    <td style="text-align:center">
       <img src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/overflow_code_smell.png">
       <img src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_overflow_bug.png">
       <img src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/overflow_debugger.png">
@@ -334,30 +335,31 @@ Regression players stand away from the Critical Overflows instead.
       <p><b>Overflow Code Smell</b></p>
       <ul>
         <li>This is a 3 second debuff that acts as a grace period.</li>
-        <li>When the debuff expires, it turns into a Critical Overflow Bug.</li>
+        <li>When the debuff expires, it turns into a <em>Critical Overflow
+        Bug</em>.</li>
       </ul>
       <p><b>Critical Overflow Bug</b></p>
       <ul>
         <li>This debuff is often nicknamed "Defamation".</li>
         <li>When the timer expires, a giant AoE (roughly the same size as the
         arena) centered on the player goes off.</li>
-        <li>Any players hit by this AoE get a fresh Critical Overflow Bug.</li>
-        <li>When the debuff expires, it turns into an Overflow Debugger buff.</li>
+        <li>Any players hit by this AoE get a fresh <em>Critical Overflow Bug</em>.</li>
+        <li>When the debuff expires, it turns into an <em>Overflow Debugger</em> 
+        buff.</li>
       </ul>
       <p><b>Overflow Debugger</b></p>
       <ul>
-        <li>The <b>next time</b> the player would receive a Critical Overflow
-        Bug, the buff is consumed and blocks the player from getting the
-        Critical Overflow Bug.</li>
+        <li>The <b>next time</b> the player would receive a <em>Critical 
+        Overflow Bug</em>, the <em>Overflow Debugger</em> buff is consumed and blocks the player from getting the <em>Critical Overflow Bug</em>.</li>
       </ul>
       <p>This last detail is important, because Omega will cast <em>Critical
-      Error</em> at the end of all four iterations, which will apply a Critical
-      Overflow Bug on the entire party (which will then be blocked by
-      everybody's Critical Overflow Debuggers).</p>
+      Error</em> at the end of all four iterations, which will apply a 
+      <em>Critical Overflow Bug</em> on the entire party (which will then be 
+      blocked by everybody's <em>Critical Overflow Debuggers</em>).</p>
     </td>
   </tr>
   <tr>
-    <td>
+    <td style="text-align:center">
       <img src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/synchronization_code_smell.png">
       <img src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_synchronization_bug.png">
       <img src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/synchronization_debugger.png">
@@ -366,27 +368,28 @@ Regression players stand away from the Critical Overflows instead.
       <p><b>Synchronization Code Smell</b></p>
       <ul>
         <li>This is a 3 second debuff that acts as a grace period.</li>
-        <li>When the debuff expires, it turns into a Critical Synchronization
-        Bug.</li>
+        <li>When the debuff expires, it turns into a <em>Critical 
+        Synchronization Bug</em>.</li>
       </ul>
       <p><b>Critical Synchronization Bug</b></p>
       <ul>
         <li>When the timer expires, an AoE (roughly the same size as a tower)
         centered on the player goes off that is divided between all players hit.</li>
         <li>This AoE should be shared with one other player.</li>
-        <li>Any players hit by this AoE get a fresh Critical Synchronization Bug.</li>
-        <li>When the debuff expires, it turns into an Synchronization Debugger
-        buff.</li>
+        <li>Any players hit by this AoE get a fresh <em>Critical 
+        Synchronization Bug</em>.</li>
+        <li>When the debuff expires, it turns into an <em>Synchronization 
+        Debugger</em> buff.</li>
       </ul>
       <p><b>Synchronization Debugger</b></p>
       <ul>
-        <li>This buff prevents players from getting a Critical
-        Synchronization Bug.</li>
+        <li>This buff prevents players from getting a <em>Critical
+        Synchronization Bug</em>.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td>
+    <td style="text-align:center">
       <img src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/underflow_code_smell.png">
       <img src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_underflow_bug.png">
       <img src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/underflow_debugger.png">
@@ -395,28 +398,38 @@ Regression players stand away from the Critical Overflows instead.
       <p><b>Underflow Code Smell</b></p>
       <ul>
         <li>This is a 3 second debuff that acts as a grace period.</li>
-        <li>When the debuff expires, it turns into a Critical Underflow Bug.</li>
+        <li>When the debuff expires, it turns into a <em>Critical Underflow 
+        Bug</em>.</li>
       </ul>
       <p><b>Critical Underflow Bug</b></p>
       <ul>
         <li>This is often nicknamed as the "red Nisi".</li>
-        <li>This debuff is required to cleanse the Cascading Latent Defect
-        debuff gained as a result of taking a red tower.</li>
-        <li>When the timer expires, an AoE (roughly the same size as a tower)
-        centered on the player goes off and will kill any other player hit.</li>
         <li>While the debuff is active, it can be passed to other players by
-        touching them.</li>
-        <li>When passed, the player gains a Underflow Debugger buff.</li>
+        touching them.
+          <ul>
+            <li>This will <em>overwrite</em> a <em>Critical Performance 
+            Bug</em> (the blue Nisi), unless the receiving player has the <em>Underflow Debugger</em> buff.</li>
+          </ul>
+        </li>
+        <li>When the timer expires:
+          <ul>
+            <li>An AoE (roughly the same size as a tower) centered on the player
+            goes off and will kill any other player hit.</li>
+            <li>It removes the <em>Cascading Latent Defect</em> debuff gained as
+            a result of taking a red tower.</li>
+            <li>The player gains an <em>Underflow Debugger</em> buff.</li>
+          </ul>
+        </li>
       </ul>
       <p><b>Underflow Debugger</b></p>
       <ul>
-        <li>This buff prevents players from getting a Critical
-        Underflow Bug.</li>
+        <li>This buff prevents players from getting a <em>Critical
+        Underflow Bug</em>.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td>
+    <td style="text-align:center">
       <img src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/performance_code_smell.png">
       <img src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_performance_bug.png">
       <img src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/performance_debugger.png">
@@ -425,23 +438,33 @@ Regression players stand away from the Critical Overflows instead.
       <p><b>Performance Code Smell</b></p>
       <ul>
         <li>This is a 3 second debuff that acts as a grace period.</li>
-        <li>When the debuff expires, it turns into a Critical Performance Bug.</li>
+        <li>When the debuff expires, it turns into a <em>Critical Performance 
+        Bug</em>.</li>
       </ul>
       <p><b>Critical Performance Bug</b></p>
       <ul>
         <li>This is often nicknamed as the "blue Nisi".</li>
-        <li>This debuff is required to cleanse the Cascading Latent Defect
-        debuff gained as a result of taking a blue tower.</li>
-        <li>When the timer expires, an AoE (roughly the same size as a tower)
-        centered on the player goes off and will kill any other player hit.</li>
         <li>While the debuff is active, it can be passed to other players by
-        touching them.</li>
-        <li>When passed, the player gains a Performance Debugger buff.</li>
+        touching them.
+          <ul>
+            <li>This will <em>overwrite</em> a <em>Critical Underflow 
+            Bug</em> (the red Nisi), unless the receiving player has the <em>Performance Debugger</em> buff.</li>
+          </ul>
+        </li>
+        <li>When the timer expires:
+          <ul>
+            <li>An AoE (roughly the same size as a tower) centered on the player
+            goes off and will kill any other player hit.</li>
+            <li>It removes the <em>Latent Performance Defect</em> debuff gained as
+            a result of taking a blue tower.</li>
+            <li>The player gains an <em>Performance Debugger</em> buff.</li>
+          </ul>
+        </li>
       </ul>
       <p><b>Performance Debugger</b></p>
       <ul>
-        <li>This buff prevents players from getting a Critical
-        Performance Bug.</li>
+        <li>This buff prevents players from getting a <em>Critical
+        Performance Bug</em>.</li>
       </ul>
     </td>
   </tr>
