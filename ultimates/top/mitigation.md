@@ -1351,7 +1351,14 @@ are fairly common, adapt this as needed if H1 is a SCH or SGE.
       </ul>
       <p><b>Cosmo Meteor</b></p>
       <ul>
-        <li>H1 120s</li>
+        <li>H1 120s
+          <ul>
+            <li>A WHM should use <em>Temperance</em> when the baited AoEs
+            resolve- it is 19 seconds from the first set of Meteors until the 
+            Flares, and a well-timed <em>Temperance</em> will be able to
+            mitigate all of <em>Cosmo Meteor</em>.</li>
+          </ul>
+        </li>
       </ul>
     </td>
   </tr>
