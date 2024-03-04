@@ -281,10 +281,6 @@ This first part cycles through the three main mechanics of the fight.
         <li><b>ST:</b> South</li>
       </ul>
       <p><em>(In this example, Hraesvelgr's head is down.)</em></p>
-      <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
-        <b>Note:</b> Nidhogg's Cauterize is <em>slightly</em> larger than half
-        the arena.
-      </div>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/hallowed_wings_01_01.jpg"></td>
   </tr>
@@ -940,12 +936,16 @@ You will need about six pieces of party mitigation to survive *Alternative End*.
 
 <details markdown=block>
 <summary>
-  <b>[Cauterize]</b> Do the Cauterizes overlap? Can you have one tank stand directly in the middle and catch both Cauterizes with invuln?
+  <b>[Cauterize]</b> Just how large are the Cauterize AoEs? Do they extend past 
+  half the arena?
 </summary>
 <table>
   <tr>
-    <td>Unfortunately not. Although the Cauterize AoE effects make it 
-    look like the zones overlap, they actually do not.</td>
+    <td>Each Cauterize is exactly half the arena, even though the visual
+    effects make it look like the AoE is slightly larger.</td>
+    <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/cauterize.jpg">
+    </td>
   </tr>
 </table>
 </details>
