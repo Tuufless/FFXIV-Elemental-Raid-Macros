@@ -852,7 +852,7 @@ however, there are still some points worth mentioning.
     <td>
       <ul>
         <li>Rampart + 3rd + short</li>
-        <li>MT Reprisal, H1 120s, H2 30s, D2, D4</li>
+        <li>ST Reprisal, H2 30s, D4</li>
       </ul>
     </td>
     <td></td>
