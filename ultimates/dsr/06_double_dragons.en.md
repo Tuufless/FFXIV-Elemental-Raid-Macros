@@ -335,11 +335,17 @@ Here are some other potential configurations to consider:
 </table>
 </details>
 
+The party should continue to **attack Hraesvelgr** during this whole sequence,
+even after Nidhogg returns.
+
+After the *Mortal Vow* pass, Nidhogg will cast *Wroth Flames*, and Hraesvelgr
+will leave the arena.
+
 ---
 
 ## Wroth Flames
 
-Wroth Flames is the "intermission" in this phase, separating the first and
+Wroth Flames is the half-way point of this phase, separating the first and
 second iteration of each of the looped mechanics.
 
 The party will be affected by a variety of spread and stack debuffs that will
@@ -839,6 +845,33 @@ You will need about six pieces of party mitigation to survive *Alternative End*.
 
 <details markdown=block>
 <summary>
+  <b>[Hallowed Wings 1]</b> Why should the party continue to attack Hraesvelgr after the first Hallowed Wings, even after Nidhogg returns?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>This is done to prepare for the second <em>Akh Afah</em> HP check that
+      happens after <em>Wroth Flames</em>.</p>
+      <p>Part of what makes the second <em>Akh Afah</em> dynamic is that 
+      depending on whether the party (randomly) got uptime on Nidhogg or 
+      Hraesvelgr, the HP may be skewed in one direction.</p>
+      <p>That being said, it is <em>more likely</em> that Hraesvelgr will have
+      more HP than Nidhogg after <em>Wroth Flames</em> because:</p>
+      <ul>
+        <li>The party has a 1-in-2 chance of downtime on Hraesvelgr during
+        <em>Hallowed Wings</em> 1, but the chance of downtime on Nidhogg during
+        <em>Wroth Flames</em> is lower at 1-in-3.</li>
+        <li><em>Wroth Flames</em> coincides with the party's 1-minute abilities,
+        so in the more likely event the party has uptime on Nidhogg, Nidhogg 
+        would take more damage.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
   <b>[Wroth Flames]</b> Is there a pattern to how the debuffs are assigned?
 </summary>
 <table>
@@ -850,6 +883,7 @@ You will need about six pieces of party mitigation to survive *Alternative End*.
   <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/wroth_flames_debuffs.jpg"></td></tr>
 </table>
 </details>
+
 <details markdown=block>
 <summary>
   <b>[Wroth Flames]</b> Why are there two marking schemes?
