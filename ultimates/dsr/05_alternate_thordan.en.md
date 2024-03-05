@@ -282,6 +282,9 @@ a ranged LB2 will also suffice.
 Once Thordan's HP drops **below 3.0%**, he will stumble, yield, and beg for
 mercy. **Do not kill Thordan.**
 
+Thordan will then become untargetable and jump away, moving the party onto the 
+next phase.
+
 ---
 
 ## Frequently Asked Questions
