@@ -760,11 +760,12 @@ we needed the fire/ice debuffs in order to survive this mechanic.
       <p><b>1.</b> Nidhogg and Hraesvelgr will spawn along the north edge in a
       <b>random</b> configuration.</p>
       <ul>
-        <li><b>MT:</b> West, in front of the other party members.</li>
-        <li><b>ST:</b> East, in front of the other party members.</li>
-        <li><b>Players with the Fire debuff:</b> Stand in front of Hraesvelgr.
-        <em>Do not move.</em></li>
-        <li><b>Players with the Ice debuff:</b> Stand in front of Nidhogg.</li>
+        <li><b>MT:</b> West half, closest to the North edge.</li>
+        <li><b>ST:</b> East half, closest to the North edge.</li>
+        <li><b>Players with the Fire debuff:</b> Stand in the half in front of 
+        Hraesvelgr. <em>Do not move.</em></li>
+        <li><b>Players with the Ice debuff:</b> Stand in the half in front of 
+        Nidhogg.</li>
       </ul>
       <p><b>Do not move</b> as Nidhogg's debuff will turn into Pyretic. The
       resulting damage will result in Hraesvelgr's Cauterize killing you and
