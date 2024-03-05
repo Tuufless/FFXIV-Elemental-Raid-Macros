@@ -402,6 +402,24 @@ The party then proceeds onto Perfect Alexander.
 <details markdown=block>
 <summary><b>[Wormhole]</b> How are players getting clipped by Apocalyptic Ray?</summary>
 <table>
-  <tr><td><p>This is quite common while learning the strat, and is the technical part of executing the strat.</p><p>First off, check that the people that are taking the Void puddles aren't moving too close to the center of the arena, since that would obviously put them in the Apocalyptic Ray's AoE.</p><p>More likely, either Player 3 or Player 4 (whoever wasn't baiting Super Jump) gets killed by an Apocalyptic Ray, in which case check the following:</p><ul><li>Was the Super Jump baited in front of the red dot?</li><li>Was the player not baiting Super Jump all the way at the edge of the arena?</li><li>Did the player responsible for baiting Apocalyptic Ray (either Player 1 or Player 2) move out of position early? <em>(This will tilt the Apocalyptic Ray slightly, enough to kill the other player.)</em></li></ul></td></tr>
+  <tr>
+    <td>
+      <p>This is quite common while learning the strat, and is the technical 
+      part of executing the strat.</p>
+      <p>First off, check that the people that are taking the Void puddles
+      aren't moving too close to the center of the arena, since that would 
+      obviously put them in the Apocalyptic Ray's AoE.</p>
+      <p>More likely, either Player 3 or Player 4 (whoever wasn't baiting Super 
+      Jump) gets killed by an Apocalyptic Ray, in which case check the following:</p>
+      <ul>
+        <li>Was the Super Jump baited in front of the red dot?</li>
+        <li>Was the player not baiting Super Jump all the way at the edge of the arena?</li>
+        <li>Did the player responsible for baiting Apocalyptic Ray (either Player 1 or Player 2) move out of position early? <em>(This will tilt the Apocalyptic Ray slightly, enough to kill the other player- see the diagram.)</em></li>
+      </ul>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/tea/03/wormhole_faq.jpg">
+    </td>
+  </tr>
 </table>
 </details>
