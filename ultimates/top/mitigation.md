@@ -1515,6 +1515,10 @@ are fairly common, adapt this as needed if H1 is a SCH or SGE.
       <p>The published mitplan doesn't account for <em>Seraph/Panhaima</em>,
       or <em>Fey Illumination</em>. These can either be used at either
       <em>Wave Cannon</em>, or at <em>Cosmo Dive #1</em> + <em>Cosmo Meteor</em>.</p>
+      <p>Because SCH also has access to <em>Fey Illumination</em>, an 
+      alternative plan would be to use <em>Expedient</em> for <em>Cosmo Dive 
+      #1</em> and <em>Cosmo Meteor</em>, and use <em>Fey Illumination</em> (and
+      possibly <em>Dissipation</em>) to cover <em>Wave Cannon</em> #2.</p>
       <p><b>Cosmo Memory</b></p>
       <ul>
         <li>This needs either shields or H2 30s in addition to the tank LB3.
@@ -1536,6 +1540,8 @@ are fairly common, adapt this as needed if H1 is a SCH or SGE.
       <p>A SCH can summon <em>Seraph</em> when the first baited AoEs appear to
       have <em>Consolation</em> cover both the spread + stack, and be back in 
       time to cover <em>Cosmo Meteor's</em> Flares.</p>
+      <p>It is also common practice to use the H2 90s to cover <em>Wave Cannon</em>
+      #1's spreads, as it will be back in time for <em>Cosmo Meteor</em>.</p>
       <p><b>Wave Cannon #2</b></p>
       <ul>
         <li>H2 30s, H2 120s
@@ -1544,6 +1550,8 @@ are fairly common, adapt this as needed if H1 is a SCH or SGE.
             be while dodging <em>Cosmo Arrow</em>.</li>
             <li>The earliest you can use H2 120s is when the first <em>Cosmo
             Arrow</em> lines resolve.</li>
+            <li>Some SCH will choose to replace the <em>Expedient</em> here
+            with <em>Fey Illumination</em> instead.</li>
           </ul>
         </li>
       </ul>
