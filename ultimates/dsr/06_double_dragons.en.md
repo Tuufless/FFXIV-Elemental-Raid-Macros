@@ -758,7 +758,9 @@ we needed the fire/ice debuffs in order to survive this mechanic.
   <tr>
     <td width="50%">
       <p><b>1.</b> Nidhogg and Hraesvelgr will spawn along the north edge in a
-      <b>random</b> configuration.</p>
+      <b>random</b> configuration, and dive down each half.</p>
+      <p>The first player hit by each dive takes additional damage, and are
+      taken by the tanks with their invulns.</p>
       <ul>
         <li><b>MT:</b> West half, closest to the North edge.</li>
         <li><b>ST:</b> East half, closest to the North edge.</li>
@@ -946,6 +948,38 @@ You will need about six pieces of party mitigation to survive *Alternative End*.
     effects make it look like the AoE is slightly larger.</td>
     <td>
       <img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/cauterize.jpg">
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
+  <b>[Cauterize]</b> Do the tanks have to invuln Cauterize?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>Technically speaking, no- <em>Cauterize</em> deals about 240k damage, 
+      which <em>can</em> be mitigated with <em>Rampart</em>, a tank's 30% 
+      mitigation, and the short mitigation.</p>
+      <p>The problem is that <em>Wyrmsbreath</em> 2 happens right before. There
+      is 14 seconds between <em>Wyrmsbreath</em> 2 and <em>Cauterize</em> which
+      means that it <em>is</em> possible to catch both with a tank's 30% 
+      mitigation, allowing the tank to mitigate <em>Cauterize</em> instead.</p>
+      <p>The end result is that the tank has their invuln available for P7-
+      this is key to the "1-1-6" style of resolving <em>Akh Morn's Edge</em>
+      that you might see other groups do.</p>
+      <p>However, it is tighter in execution than simply using a tank invuln,
+      and provides an additional point of failure in P6 (which is already
+      unforgiving enough).</p>
+      <p>Prog groups <em>especially</em> should aim to get more P7 practice,
+      and it is difficult to justify potentially spending more time in P6 for
+      <em>both</em> tanks to consistently (and independently!) get the timing
+      down.</p>
+      <p>At this stage, most players in PF aren't used to resolving <em>Akh 
+      Morn's Edge</em> in a 1-1-6 fashion, so trying to push 1-1-6 now may lead 
+      to wipes in P7 due to players being unfamiliar with the strat.</p>
     </td>
   </tr>
 </table>
