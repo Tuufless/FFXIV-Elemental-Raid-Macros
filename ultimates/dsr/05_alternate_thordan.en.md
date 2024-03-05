@@ -62,8 +62,9 @@ phase, *Wrath of the Heavens*.
   </tr>
   <tr>
     <td>
-      <p><b>3.</b> The AoEs resolve, and one of the five players along the east 
-      will get a green divebomb mark.</p>
+      <p><b>3.</b> The <em>Skyward Leap</em> and <em>Spiral Thrust</em> AoEs 
+      resolve (applying <em>Magic Vulnerability Up</em> on their targets), and
+      one of the five players along the east will get a green divebomb mark.</p>
       <p><b>All players move to dodge Twisters.</b></p>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/05/wrath_of_the_heavens_03.jpg"></td>
@@ -117,7 +118,8 @@ phase, *Wrath of the Heavens*.
       </ul>
       <p>The player on the east with <em>Liquid Heaven</em> should try to
       <b>enter the safe spot from the side</b>, as a player on the west side
-      will be one-shot if they get hit by the <em>Liquid Heaven</em> AoE.</p>
+      will be one-shot if they get hit by the <em>Liquid Heaven</em> AoE (as
+      they each have <em>Magic Vulnerability Up</em>).</p>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/05/wrath_of_the_heavens_06.jpg"></td>
   </tr>
@@ -210,7 +212,7 @@ splits the Dooms 2-2.
       <p><b>Doomed players:</b></p>
       <ul>
         <li>The east/west Doomed players will bait the circle marks by being
-        the two furthest Doomed players.</li>
+        the two Doomed players furthest from one another.</li>
         <li>The two other Doomed players take up position towards SW and SE.</li>
       </ul>
       <p><b>Non-Doomed players:</b></p>
