@@ -198,9 +198,13 @@ stack of Brilliant Dynamis.
       <p><em>Burning with dynamis inspired by Omega's passion and exceeding own
       limits.</em></p>
       <ul>
-        <li>When a player with Brilliant Dynamis uses an LB3, the limit break
-        gauge will be refilled, and Brilliant Dynamis will turn to Spark of
-        Dynamis.</li>
+        <li>When a player with <em>Brilliant Dynamis</em> uses a Limit Break:
+          <ul>
+            <li><em>Brilliant Dynamis</em> turns to <em>Spark of Dynamis</em>.</li>
+            <li>The limit break gauge refills based on the Limit Break level used 
+            (i.e: if LB2 was used, two Limit Break bars will be refilled).</li>
+          </ul>
+        </li>
         <li>Mitigates a large portion of damage from Omega.</li>
       </ul>
     </td>
