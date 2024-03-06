@@ -180,19 +180,21 @@ before the phase begins.
 
 ## Cosmo Memory
 
-Cosmo Memory is a Tank LB3 check- its damage *still* needs to be mitigated in
-addition to the Tank LB3.
+*Cosmo Memory* is a Tank LB3 check- it also needs at least shields in addition
+to the Tank LB3 for the party to survive.
 
 As far as priorities go, the tank that LB3s should go:
 
 WAR > PLD > DRK > GNB
 
-This will also convert everyone with three stacks of Quickening Dynamis into a
-stack of Brilliant Dynamis.
+This will also convert everyone with three stacks of *Quickening Dynamis* into
+a stack of *Brilliant Dynamis*.
 
 <table>
   <tr>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/brilliant_dynamis.png"></td>
+    <td style="text-align:center">
+      <img src="{{site.baseurl}}/assets/images/ultimates/top/06/brilliant_dynamis.png">
+    </td>
     <td>
       <p><b>Brilliant Dynamis</b></p>
       <p><em>Burning with dynamis inspired by Omega's passion and exceeding own
@@ -210,7 +212,9 @@ stack of Brilliant Dynamis.
     </td>
   </tr>
   <tr>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/spark_of_dynamis.png"></td>
+    <td style="text-align:center">
+      <img src="{{site.baseurl}}/assets/images/ultimates/top/06/spark_of_dynamis.png">
+    </td>
     <td>
       <p><b>Spark of Dynamis</b></p>
       <p><em>Burning with dynamis inspired by Omega's passion.</em></p>
@@ -232,7 +236,8 @@ Before each mechanic combo starts, Alpha Omega will autoattack twice.
 
 <table>
   <tr>
-    <td width="50%"><p>Alpha Omega's autoattack hit <b>two</b> players:</p>
+    <td width="50%">
+      <p>Alpha Omega's autoattack hit <b>two</b> players:</p>
       <ol>
         <li>Whoever is holding aggro (the MT).</li>
         <li>The <em>furthest</em> player.</li>
@@ -258,12 +263,11 @@ Alpha Omega autoattacks twice before starting its first mechanic combination.
 The first combination of mechanics is Alpha Omega's version of the BRD and DRG
 LBs.
 
-Cosmo Arrow fires two sets of line AoEs that travel sideways with each hit. How
-the party dodges these is determined by which set of AoEs appeared first.
-
-Cosmo Dive targets the two closest players with a high-damage AoE (which should
-be taken by the tanks), and the furthest player with a stack AoE (the
-rest of the party).
+- *Cosmo Arrow* fires two sets of line AoEs that travel sideways with each hit.
+  How the party dodges these is determined by which set of AoEs appeared first.
+- *Cosmo Dive* targets the two closest players with a high-damage AoE (which  
+  should be taken by the tanks), and the furthest player with a stack AoE (the
+  rest of the party).
 
 <table>
   <th colspan="2" style="text-align:center">Inside first</th>
@@ -281,7 +285,8 @@ rest of the party).
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_1_02a.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>3.</b> Inside AoEs resolve.</p>
+    <td>
+      <p><b>3.</b> Inside AoEs resolve.</p>
       <ol>
         <li><b>In</b></li>
         <li style="color:grey">Wait</li>
@@ -292,7 +297,8 @@ rest of the party).
       </ol>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_1_03b.jpg"></td>
-    <td><p><b>3.</b> Outside AoEs resolve.</p>
+    <td>
+      <p><b>3.</b> Outside AoEs resolve.</p>
       <ol>
         <li><b>Out</b></li>
         <li style="color:grey">Wait</li>
@@ -304,7 +310,8 @@ rest of the party).
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_1_03a.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>4.</b> Dodge AoEs.</p>
+    <td>
+      <p><b>4.</b> Dodge AoEs.</p>
       <ol>
         <li style="color:grey">In</li>
         <li><b>Wait</b></li>
@@ -315,7 +322,8 @@ rest of the party).
       </ol>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_1_04b.jpg"></td>
-    <td><p><b>4.</b> Dodge AoEs.</p>
+    <td>
+      <p><b>4.</b> Dodge AoEs.</p>
       <ol>
         <li style="color:grey">Out</li>
         <li><b>Wait</b></li>
@@ -327,7 +335,8 @@ rest of the party).
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_1_04a.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>5.</b> Dodge AoEs.</p>
+    <td>
+      <p><b>5.</b> Dodge AoEs.</p>
       <ol>
         <li style="color:grey">In</li>
         <li style="color:grey">Wait</li>
@@ -338,7 +347,8 @@ rest of the party).
       </ol>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_1_05b.jpg"></td>
-    <td><p><b>5.</b> Dodge AoEs.</p>
+    <td>
+      <p><b>5.</b> Dodge AoEs.</p>
       <ol>
         <li style="color:grey">Out</li>
         <li style="color:grey">Wait</li>
@@ -350,7 +360,8 @@ rest of the party).
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_1_05a.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>6.</b> Dodge AoEs.</p>
+    <td>
+      <p><b>6.</b> Dodge AoEs.</p>
       <ol>
         <li style="color:grey">In</li>
         <li style="color:grey">Wait</li>
@@ -361,7 +372,8 @@ rest of the party).
       </ol>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_1_06b.jpg"></td>
-    <td><p><b>6.</b> Dodge AoEs.</p>
+    <td>
+      <p><b>6.</b> Dodge AoEs.</p>
       <ol>
         <li style="color:grey">Out</li>
         <li style="color:grey">Wait</li>
@@ -373,7 +385,9 @@ rest of the party).
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_1_06a.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>7.</b> Dodge AoEs.</p><p>Alpha Omega will start casting Cosmo Dive.</p>
+    <td>
+      <p><b>7.</b> Dodge AoEs.</p>
+      <p>Alpha Omega will start casting <em>Cosmo Dive</em>.</p>
       <ol>
         <li style="color:grey">In</li>
         <li style="color:grey">Wait</li>
@@ -384,7 +398,9 @@ rest of the party).
       </ol>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_1_07b.jpg"></td>
-    <td><p><b>7.</b> Dodge AoEs.</p><p>Alpha Omega will start casting Cosmo Dive.</p>
+    <td>
+      <p><b>7.</b> Dodge AoEs.</p>
+      <p>Alpha Omega will start casting <em>Cosmo Dive</em>.</p>
       <ol>
         <li style="color:grey">Out</li>
         <li style="color:grey">Wait</li>
@@ -396,7 +412,8 @@ rest of the party).
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_1_07a.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>8.</b> Dodge AoEs.</p>
+    <td>
+      <p><b>8.</b> Dodge AoEs.</p>
       <ol>
         <li style="color:grey">In</li>
         <li style="color:grey">Wait</li>
@@ -407,7 +424,8 @@ rest of the party).
       </ol>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_1_08b.jpg"></td>
-    <td><p><b>8.</b> Dodge AoEs.</p>
+    <td>
+      <p><b>8.</b> Dodge AoEs.</p>
       <ol>
         <li style="color:grey">Out</li>
         <li style="color:grey">Wait</li>
@@ -419,18 +437,24 @@ rest of the party).
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_1_08a.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>9.</b> Take up Cosmo Dive positions.</p>
+    <td>
+      <p><b>9.</b> Take up <em>Cosmo Dive</em> positions.</p>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_1_09b.jpg"></td>
-    <td><p><b>9.</b> Last AoEs.</p><p>Take up Cosmo Dive positions.</p>
+    <td>
+      <p><b>9.</b> Last AoEs.</p>
+      <p>Take up <em>Cosmo Dive</em> positions.</p>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_1_09a.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>10.</b> Last AoEs.</p><p>Cosmo Dive resolves shortly after.</p>
+    <td>
+      <p><b>10.</b> Last AoEs.</p>
+      <p><em>Cosmo Dive</em> resolves shortly after.</p>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_1_10b.jpg"></td>
-    <td><p><b>10.</b> Cosmo Dive resolves.</p>
+    <td>
+      <p><b>10.</b> <em>Cosmo Dive</em> resolves.</p>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_1_10a.jpg"></td>
   </tr>
@@ -444,7 +468,7 @@ Alpha Omega autoattacks twice before starting its second combination.
 
 The next combination are two different Wave Cannons.
 
-Unlimited Wave Cannon spawns four staggered "Exaflare" AoEs along an arc
+*Unlimited Wave Cannon* spawns four staggered "Exaflare" AoEs along an arc
 outside the arena in combination to six (large) baited AoEs under each player.
 
 This is resolved by stacking together in the middle of the arena, and observing
@@ -452,9 +476,9 @@ where the Exaflare arc begins. The party moves 1.5 waymarks (67 degrees) from
 the first Exaflare- this Exaflare would have passed the party by the time they
 reach its position, making movement simple.
 
-Wave Cannon is the hard-hitting mechanic with this combination- the party needs
-to spread for two sets of four beams before stacking together to share one
-hard-hitting beam.
+*Wave Cannon* is the hard-hitting mechanic with this combination- the party
+needs to spread for two sets of four beams before stacking together to share
+one hard-hitting beam.
 
 In particular, this final beam deals extra damage to the two front players,
 which should be the tanks.
@@ -517,33 +541,41 @@ which should be the tanks.
 
 ## Cosmo Arrow → Wave Cannon
 
- Alpha Omega autoattacks twice before starting its third mechanic combination.
+Alpha Omega autoattacks twice before starting its third mechanic combination.
 
- This Cosmo Arrow is *independent* to the first Cosmo Arrow at the start of the
- phase- it will *not* necessarily be the "opposite" to the first.
+This *Cosmo Arrow* is *independent* to the first *Cosmo Arrow* at the start of
+the phase- it will *not* necessarily be the "opposite" to the first.
 
- The catch this time as the Wave Cannon in the middle, as the party will now
- need to spread for the two sets of four beams while dodging the Cosmo Arrow.
+The catch this time is the *Wave Cannon* in the middle, as the party will now
+need to spread for the two sets of four beams while simultaneously dodging the 
+*Cosmo Arrow*.
 
- The final Wave Cannon beam resolves shortly after Cosmo Arrow finishes.
+The final *Wave Cannon* stack resolves shortly after *Cosmo Arrow* finishes.
 
- <table>
+<table>
   <th colspan="2" style="text-align:center">Inside first</th>
   <th colspan="2" style="text-align:center">Outside first</th>
   <tr>
-    <td width="20%"><p><b>1.</b> Inside telegraphs appear.</p></td>
+    <td width="20%">
+      <p><b>1.</b> Inside telegraphs appear.</p>
+    </td>
     <td width="30%"><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_3_01b.jpg"></td>
-    <td width="20%"><p><b>1.</b> Outside telegraphs appear.</p></td>
+    <td width="20%">
+      <p><b>1.</b> Outside telegraphs appear.</p>
+    </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_3_01a.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>2.</b> Outside telegraphs appear.</p></td>
+    <td>
+      <p><b>2.</b> Outside telegraphs appear.</p>
+    </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_3_02b.jpg"></td>
     <td><p><b>2.</b> Inside telegraphs appear.</p></td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_3_02a.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>3.</b> Inside AoEs resolve.</p>
+    <td>
+      <p><b>3.</b> Inside AoEs resolve.</p>
       <ol>
         <li><b>In</b></li>
         <li style="color:grey">Wait</li>
@@ -554,7 +586,8 @@ which should be the tanks.
       </ol>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_3_03b.jpg"></td>
-    <td><p><b>3.</b> Outside AoEs resolve.</p>
+    <td>
+      <p><b>3.</b> Outside AoEs resolve.</p>
       <ol>
         <li><b>Out</b></li>
         <li style="color:grey">Wait</li>
@@ -566,7 +599,8 @@ which should be the tanks.
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_3_03a.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>4.</b> Dodge AoEs.</p>
+    <td>
+      <p><b>4.</b> Dodge AoEs.</p>
       <ol>
         <li style="color:grey">In</li>
         <li><b>Wait</b></li>
@@ -577,7 +611,8 @@ which should be the tanks.
       </ol>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_3_04b.jpg"></td>
-    <td><p><b>4.</b> Dodge AoEs.</p>
+    <td>
+      <p><b>4.</b> Dodge AoEs.</p>
       <ol>
         <li style="color:grey">Out</li>
         <li><b>Wait</b></li>
@@ -589,7 +624,8 @@ which should be the tanks.
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_3_04a.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>5.</b> Dodge AoEs.</p>
+    <td>
+      <p><b>5.</b> Dodge AoEs.</p>
       <ol>
         <li style="color:grey">In</li>
         <li style="color:grey">Wait</li>
@@ -600,7 +636,8 @@ which should be the tanks.
       </ol>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_3_05b.jpg"></td>
-    <td><p><b>5.</b> Dodge AoEs.</p>
+    <td>
+      <p><b>5.</b> Dodge AoEs.</p>
       <ol>
         <li style="color:grey">Out</li>
         <li style="color:grey">Wait</li>
@@ -612,7 +649,9 @@ which should be the tanks.
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_3_05a.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>6.</b> Dodge AoEs.</p><p>Alpha Omega starts casting Wave Cannon.</p>
+    <td>
+      <p><b>6.</b> Dodge AoEs.</p>
+      <p>Alpha Omega starts casting <em>Wave Cannon</em>.</p>
       <ol>
         <li style="color:grey">In</li>
         <li style="color:grey">Wait</li>
@@ -623,7 +662,9 @@ which should be the tanks.
       </ol>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_3_06b.jpg"></td>
-    <td><p><b>6.</b> Dodge AoEs.</p><p>Alpha Omega starts casting Wave Cannon.</p>
+    <td>
+      <p><b>6.</b> Dodge AoEs.</p>
+      <p>Alpha Omega starts casting <em>Wave Cannon</em>.</p>
       <ol>
         <li style="color:grey">Out</li>
         <li style="color:grey">Wait</li>
@@ -635,7 +676,8 @@ which should be the tanks.
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_3_06a.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>7.</b> Dodge AoEs.</p>
+    <td>
+      <p><b>7.</b> Dodge AoEs.</p>
       <ol>
         <li style="color:grey">In</li>
         <li style="color:grey">Wait</li>
@@ -646,7 +688,8 @@ which should be the tanks.
       </ol>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_3_07b.jpg"></td>
-    <td><p><b>7.</b> Dodge AoEs.</p>
+    <td>
+      <p><b>7.</b> Dodge AoEs.</p>
       <ol>
         <li style="color:grey">Out</li>
         <li style="color:grey">Wait</li>
@@ -658,7 +701,9 @@ which should be the tanks.
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_3_07a.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>8.</b> Dodge AoEs.</p><p>First set of Wave Cannons resolve.</p>
+    <td>
+      <p><b>8.</b> Dodge AoEs.</p>
+      <p>First set of <em>Wave Cannon</em> beams resolve.</p>
       <ol>
         <li style="color:grey">In</li>
         <li style="color:grey">Wait</li>
@@ -669,7 +714,9 @@ which should be the tanks.
       </ol>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_3_08b.jpg"></td>
-    <td><p><b>8.</b> Dodge AoEs.</p><p>First set of Wave Cannons resolve.</p>
+    <td>
+      <p><b>8.</b> Dodge AoEs.</p>
+      <p>First set of <em>Wave Cannon</em> beams resolve.</p>
       <ol>
         <li style="color:grey">Out</li>
         <li style="color:grey">Wait</li>
@@ -681,7 +728,9 @@ which should be the tanks.
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_3_08a.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>9.</b> Dodge AoEs.</p><p>Second set of Wave Cannons resolve.</p>
+    <td>
+      <p><b>9.</b> Dodge AoEs.</p>
+      <p>Second set of <em>Wave Cannon</em> beams resolve.</p>
       <ol>
         <li style="color:grey">In</li>
         <li style="color:grey">Wait</li>
@@ -692,7 +741,9 @@ which should be the tanks.
       </ol>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_3_09b.jpg"></td>
-    <td><p><b>9.</b> Last AoEs.</p><p>Second set of Wave Cannons resolve.</p>
+    <td>
+      <p><b>9.</b> Last AoEs.</p>
+      <p>Second set of <em>Wave Cannon</em> beams resolve.</p>
       <ol>
         <li style="color:grey">Out</li>
         <li style="color:grey">Wait</li>
@@ -704,17 +755,19 @@ which should be the tanks.
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_3_09a.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>10.</b> Last AoEs.</p><p>Move to prepare for the last shared Wave
-    Cannon.</p>
+    <td>
+      <p><b>10.</b> Last AoEs.</p>
+      <p>Move to prepare for the <em>Wave Cannon</em> stack.</p>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_3_10b.jpg"></td>
-    <td><p><b>10.</b> Move to prepare for the last shared Wave Cannon.</p>
+    <td>
+      <p><b>10.</b> Move to prepare for the <em>Wave Cannon</em> stack.</p>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_3_10a.jpg"></td>
   </tr>
   <tr>
     <td colspan="2">
-      <p><b>11.</b> Stack together East (tanks in front) for the Wave Cannon</p>
+      <p><b>11.</b> Stack together East (tanks in front) for <em>Wave Cannon</em></p>
       <ul>
         <li><b>MT:</b> Invuln</li>
         <li><b>ST:</b> Heavy mitigations</li>
@@ -730,9 +783,9 @@ which should be the tanks.
 
 Alpha Omega autoattacks twice before starting its fourth mechanic combination.
 
-This is probably the simplest of all four combinations- dodge Unlimited Wave
-Cannon the same way as before, only this time, the party will stay where they
-are after dodging the sixth baited AoE to share the Cosmo Dive stack.
+This is probably the simplest of all four combinations- dodge *Unlimited Wave
+Cannon* the same way as before, only this time, the party will stay where they
+are after dodging the sixth baited AoE to share the *Cosmo Dive* stack.
 
 The tanks will move forward into the boss's hitbox, with the MT going to the
 left, and the ST to the right.
@@ -846,7 +899,7 @@ different if either melee is partnered with a DNC.)*
 
 ## Cosmo Meteor
 
-Alpha Omega autoattacks twice before casting Cosmo Meteor.
+Alpha Omega autoattacks twice before casting *Cosmo Meteor*.
 
 This is the final mechanic of the fight, and marks the start to the LB3 rush
 this fight is known for.
@@ -941,8 +994,8 @@ during the cutscene before P6.
 
 ## Magic Number
 
-From here, Alpha Omega will cast Magic Number, which *must* be mitigated with
-a Tank LB3. Magic Number will also apply a debuff by the same name on all
+From here, Alpha Omega will cast *Magic Number*, which *must* be mitigated with
+a Tank LB3. *Magic Number* will also apply a debuff by the same name on all
 members of the party, which must be dispelled with a Healer LB3.
 
 <table>
@@ -959,8 +1012,8 @@ members of the party, which must be dispelled with a Healer LB3.
   </tr>
 </table>
 
-Alpha Omega will do a second Magic Number (requiring another Tank into Healer
-LB3) before casting Run: \*\*\*\*mi\* (which is a 30-second cast) as the hard
+Alpha Omega will do a second *Magic Number* (requiring another Tank into Healer
+LB3) before casting *Run: \*\*\*\*mi\** (which is a 30-second cast) as the hard
 enrage of the fight.
 
 The tanks and healers will typically follow a *"MT group" > "ST group"*
@@ -1034,108 +1087,6 @@ not to use their potions at certain buff windows.
 ---
 
 ## Frequently Asked Questions
-
-<details markdown=block>
-<summary>
-  <b>[Damage]</b> Just <em>how</em> much damage goes out in this phase, and when?
-</summary>
-<table>
-  <tr>
-    <td>
-      <p>The (high roll) damage profile in this phase looks like the 
-      following.</p>
-      <p><em>When planning mitigations, tanks (MT, ST) have about 110k HP, melee 
-      (D1, D2, D3) have 77k HP, while casters (H1, H2, D4) have 68k HP. A low
-      roll on H2's shields will absorb at least 8k damage.</em></p>
-      <p>Casters have lower max HP, but higher magic defense. </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <th style="text-align:center">Time</th>
-        <th style="text-align:center">Mechanic</th>
-        <th>Tank damage</th>
-        <th>Melee damage</th>
-        <th>Caster damage</th>
-        <tr>
-          <td style="text-align:center">+0:15</td>
-          <td style="text-align:center">Cosmo Memory (after tank LB3)</td>
-          <td style="text-align:center">56k</td>
-          <td style="text-align:center">82k</td>
-          <td style="text-align:center">75k</td>
-        </tr>
-        <tr>
-          <td style="text-align:center">+0:45</td>
-          <td style="text-align:center">Cosmo Dive #1</td>
-          <td style="text-align:center">286k</td>
-          <td style="text-align:center">104k</td>
-          <td style="text-align:center">96k</td>
-        </tr>
-        <tr>
-          <td style="text-align:center">+1:23</td>
-          <td style="text-align:center">Wave Cannon #1 (spread)</td>
-          <td style="text-align:center">58k</td>
-          <td style="text-align:center">93k</td>
-          <td style="text-align:center">86k</td>
-        </tr>
-        <tr>
-          <td style="text-align:center">+1:31</td>
-          <td style="text-align:center">Wave Cannon #1 (stack)</td>
-          <td style="text-align:center">370k</td>
-          <td style="text-align:center">119k</td>
-          <td style="text-align:center">110k</td>
-        </tr>
-        <tr>
-          <td style="text-align:center">+1:57</td>
-          <td style="text-align:center">Wave Cannon #2 (spread)</td>
-          <td style="text-align:center">58k</td>
-          <td style="text-align:center">93k</td>
-          <td style="text-align:center">86k</td>
-        </tr>
-        <tr>
-          <td style="text-align:center">+2:05</td>
-          <td style="text-align:center">Wave Cannon #2 (stack)</td>
-          <td style="text-align:center">370k</td>
-          <td style="text-align:center">119k</td>
-          <td style="text-align:center">110k</td>
-        </tr>
-        <tr>
-          <td style="text-align:center">+2:39</td>
-          <td style="text-align:center">Cosmo Dive #2</td>
-          <td style="text-align:center">286k</td>
-          <td style="text-align:center">104k</td>
-          <td style="text-align:center">96k</td>
-        </tr>
-        <tr>
-          <td style="text-align:center">+3:04</td>
-          <td style="text-align:center">Cosmo Meteor (Meteors #1)</td>
-          <td style="text-align:center">93k</td>
-          <td style="text-align:center">112k</td>
-          <td style="text-align:center">106k</td>
-        </tr>
-        <tr>
-          <td style="text-align:center">+3:10</td>
-          <td style="text-align:center">Cosmo Meteor (Meteors #2)</td>
-          <td style="text-align:center">93k</td>
-          <td style="text-align:center">112k</td>
-          <td style="text-align:center">106k</td>
-        </tr>
-        <tr>
-          <td style="text-align:center">+3:22</td>
-          <td style="text-align:center">Cosmo Meteor (Flares + stack)</td>
-          <td style="text-align:center">55k</td>
-          <td style="text-align:center">87k</td>
-          <td style="text-align:center">84k</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-  <tr>
-    <td>A more detailed breakdown can be found <a href="https://docs.google.com/spreadsheets/d/103yWCMpHGlGzYnjf63qL9459e464qp1ZJ2vOLeuajpA">here</a>.</td>
-  </tr>
-</table>
-</details>
 
 <details markdown=block>
 <summary>
