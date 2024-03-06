@@ -176,8 +176,9 @@ Synchronization*.
   </tr>
 </table>
 
-After that, Hello, World is simply a cycle of debuffs to resolve. At any one
-point, two players will be at each stage in the cycle.
+*Hello, World* is simply a cycle of debuffs to resolve. Players will be 
+paired together based on their debuffs- at any one point, two players will be at 
+each stage in the cycle.
 
 <table>
   <tr>
@@ -187,29 +188,24 @@ point, two players will be at each stage in the cycle.
         <li>Orientate to coloured towers.</li>
         <li>Pair players together:
           <ul>
-            <li>Critical Overflows <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_overflow_bug.png">
-            pair with Local Regression <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/local_regression.png">
+            <li><em>Critical Overflows</em> <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_overflow_bug.png">
+            pair with <em>Local Regression</em> <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/local_regression.png">
             (red/green tethers).</li>
-            <li>Critical Synchronizations <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_synchronization_bug.png">
-            pair with Remote Regression <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/remote_regression.png">
+            <li><em>Critical Synchronizations</em> <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_synchronization_bug.png">
+            pair with <em>Remote Regression</em> <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/remote_regression.png">
             (blue tethers).</li>
           </ul>
         </li>
-        <li>Critical Overflows <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_overflow_bug.png">
-        and Critical Synchronizations <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_synchronization_bug.png">
+        <li><em>Critical Overflows</em> <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_overflow_bug.png">
+        and <em>Critical Synchronizations</em> <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_synchronization_bug.png">
         resolve.</li>
-        <li>Pass Critical Underflow <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_underflow_bug.png">
-        (red Nisi) and Critical Performance <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_performance_bug.png">
-        (blue Nisi). Break Remote Regression <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/remote_regression.png">
+        <li>Pass <em>Critical Underflow</em> <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_underflow_bug.png">
+        (red Nisi) and <em>Critical Performance</em> <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_performance_bug.png">
+        (blue Nisi). Break <em>Remote Regression</em> <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/remote_regression.png">
         (blue tethers).</li>
-        <li>Break Local Regression <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/local_regression.png">
+        <li>Break <em>Local Regression</em> <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/local_regression.png">
         (red/green tethers).</li>
-        <li>Repeat the loop with the next mechanic in the cycle.
-          <ul>
-            <li><em>If you just took a tower, you will swap sides/colours for
-            the next iteration.</em></li>
-          </ul>
-        </li>
+        <li>Repeat the loop with the next mechanic in the cycle.</li>
       </ol>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/03/hello_world_cycle.jpg"></td>
@@ -218,9 +214,9 @@ point, two players will be at each stage in the cycle.
 
 Players will alternate between towers and tethers each cycle.
 
-This loop is repeated four times (so all players will have their go at each
-debuff), although the final iteration has one small difference where the *Local
-Regression* players stand away from the *Critical Overflows Bugs* instead.
+This loop is repeated four times (all players will have their go at each
+debuff). However, the final iteration has one small difference where the *Local
+Regression* players stand *away* from the *Critical Overflow Bugs* instead.
 
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
 <details markdown=block>
@@ -473,6 +469,13 @@ Regression* players stand away from the *Critical Overflows Bugs* instead.
 </details>
 </div>
 
+- The pairing between *Critical Overflow Bugs/Critical Synchronization Bugs* 
+  with *Critical Underflow Bugs/Critical Performance Bugs* (red/blue Nisis) is 
+  randomly determined when *Hello, World* is cast. Once determined, **it will 
+  not change** between tower sets.
+- Similarly, players are randomly paired together based on their debuffs when 
+  *Hello, World* is cast. Once assigned, **the pairs will not change** between tower sets.
+
 ### Setup
 
 <table>
@@ -535,24 +538,25 @@ Regression* players stand away from the *Critical Overflows Bugs* instead.
   </tr>
 </table>
 
-### First iteration
-
-For brevity's sake, we will only display the relevant debuffs from here
-onwards.
-
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
-  <p><b>Tip:</b> The boss will still be auto-attacking the tanks during Hello,
-  World.</p>
-  <p>These should be mitigated by cycling through your cooldowns to help reduce
-  strain on the healers. Tank swap after the second set of towers to cycle
-  through the ST's mitigations.</p>
+  <p><b>Tip:</b> The boss will be auto-attacking the tanks in between towers.</p>
+  <p>This should be mitigated by cycling through your cooldowns to reduce
+  strain on the healers.</p>
+  <p>Consider tank swapping after the second set of towers to cycle through the 
+  ST's mitigations.</p>
 </div>
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
   <p><b>Tip:</b> The party will be taking raid-wide damage from <em>Critical
   Overflow</em>, <em>Critical Synchronization</em>, and the two tethers when
   they resolve.</p>
-  <p><b>Three pieces of mitigation</b> (shields count as one) are needed for the party to survive all the damage without any additional healing.</p>
+  <p>The party needs <b>three pieces of mitigation</b> (shields count) to 
+  survive all the damage without any healing in between.</p>
 </div>
+
+### First iteration
+
+For brevity's sake, we will only display the relevant debuffs from here
+onwards.
 
 <table>
   <tr>
