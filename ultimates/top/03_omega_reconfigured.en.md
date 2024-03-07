@@ -201,7 +201,8 @@ each stage in the cycle.
         resolve.</li>
         <li>Pass <em>Critical Underflow</em> <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_underflow_bug.png">
         (red Nisi) and <em>Critical Performance</em> <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_performance_bug.png">
-        (blue Nisi). Break <em>Remote Regression</em> <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/remote_regression.png">
+        (blue Nisi) within the <b>next 3 seconds</b>.</li>
+        <li>Break <em>Remote Regression</em> <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/remote_regression.png">
         (blue tethers).</li>
         <li>Break <em>Local Regression</em> <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/local_regression.png">
         (red/green tethers).</li>
@@ -298,7 +299,7 @@ Regression* players stand *away* from the *Critical Overflow Bugs* instead.
         <li>This debuff will wipe the raid when the timer expires.</li>
         <li>
           <p>It is cleansed when that player's <em>Critical Underflow Bug</em> 
-          expires.</p>
+          expires and the player is alive.</p>
           <ul>
             <li>As a result, players must have the <em>Critical Underflow
             Bug</em> (red Nisi) <b>before</b> taking a red tower.</li>
@@ -312,7 +313,7 @@ Regression* players stand *away* from the *Critical Overflow Bugs* instead.
         <li>This debuff will wipe the raid when the timer expires.</li>
         <li>
           <p>It is cleansed when that player's <em>Critical Performance Bug</em>
-          expires.</p>
+          expires and the player is alive.</p>
           <ul>
             <li>As a result, players must have the <em>Critical Performance
             Bug</em> (blue Nisi) <b>before</b> taking a blue tower.</li>
@@ -400,6 +401,7 @@ Regression* players stand *away* from the *Critical Overflow Bugs* instead.
       <p><b>Critical Underflow Bug</b></p>
       <ul>
         <li>This is often nicknamed as the "red Nisi".</li>
+        <li>This debuff lasts 27 seconds.</li>
         <li>While the debuff is active, it can be passed to other players by
         touching them.
           <ul>
@@ -440,6 +442,7 @@ Regression* players stand *away* from the *Critical Overflow Bugs* instead.
       <p><b>Critical Performance Bug</b></p>
       <ul>
         <li>This is often nicknamed as the "blue Nisi".</li>
+        <li>This debuff lasts 27 seconds.</li>
         <li>While the debuff is active, it can be passed to other players by
         touching them.
           <ul>
@@ -998,13 +1001,30 @@ PF currently resolves this using [Astoh's strat](https://twitter.com/Astoh_Shall
 <table>
   <tr>
     <td>
-      <p>Someone picked up <em>Critical Performance Bug</em> (the blue Nisi) or 
-      <em>Critical Underflow Bug</em> (the red Nisi) too late.</p>
+      <p>This is the result of <em>Cascading Latent Defect</em> or <em>Latent
+      Performance Defect</em> expiring without getting cleansed.</p>
+      <p>This means that either:</p>
+      <ul>
+        <li>A red/blue tower was taken without the same-coloured Nisi
+        <em>or</em></li>
+        <li>The Nisi was taken too late in the previous round.</li>
+      </ul>
       <p>Taking the towers gives players a 10-second <em>Cascading Latent 
-      Defect</em> or <em>Latent Performance Defect</em> debuffs, and the Bug 
-      debuffs <b>must expire before</b> the Defects do, or the raid wipes.</p>
-      <p>If you passed/picked up the Bugs too late, they will not expire in
-      time to cleanse the Defects before they explode and wipe the raid.</p>
+      Defect</em> or <em>Latent Performance Defect</em> debuffs, which need to
+      be cleaned by the appropriate Bug (the Nisis) debuffs by having them
+      <b>expire before the Defects</b>.</p>
+      <p>The timeline for each loop looks like this:</p>
+      <ul>
+        <li><b>T+0s:</b> Towers resolve.</li>
+        <li><b>T+21s:</b> Next towers resolve and apply Defects.</li>
+        <li><b>T+31s:</b> Defects resolve, wiping the raid.</li>
+      </ul>
+      <p>Since the Nisi debuffs last 27 seconds and must expire before the
+      Defects do, this means you have a 3-4 second window after towers resolve
+      to pass Nisis (Note: <em>not</em> necessarily break tethers!) for the
+      Nisis to expire in time to cleanse the next tower's Defects.</p>
+      <p>If you miss this window, your Nisi will not expire in time to cleanse
+      the Defects before they explode and wipe the raid.</p>
     </td>
   </tr>
 </table>
