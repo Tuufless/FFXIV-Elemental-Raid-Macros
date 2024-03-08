@@ -127,10 +127,6 @@ casters.
 Notably, the mitigations below have been planned *without* taking the healer
 120s into consideration, so they can be used wherever needed for comfort.
 
-That being said, in a WHM + SGE party, the SGE may need to save *Holos* for
-*Final Chorus*. If so, then they can only use *Holos* at *Strength of the
-Ward*.
-
 <table>
   <tr>
     <td>
@@ -222,8 +218,8 @@ Ward*.
     </td>
     <td>
       <ul>
-        <li>This is the latest H1 can use their 120s to have it back for an
-        <em>Eye of the Tyrant</em> stack in P3.</li>
+        <li>This is the latest healers can use their 120s to have it back for
+        an <em>Eye of the Tyrant</em> stack in P3.</li>
         <li>Use H2 90s before the third cleave of <em>Ascalon's Might</em> to 
         guarantee it will be back for <em>Final Chorus</em>.</li>
         <li>This is a common place for a SGE to <em>Panhaima</em>. SGE can also
@@ -267,9 +263,11 @@ Ward*.
     <td>
       <ul>
         <li>
-          <p>This needs one more 10% mitigation to guarantee survival if the
-          healers are WHM + SGE.</p>
-          <p>A SGE may need to add <em>Holos</em> here in that scenario.</p>
+          <p>This needs one more extra mit (<em>Collective Unconsciousness</em>,
+          <em>Passage of Arms</em>, <em>Magick Barrier</em>, <em>Improvised
+          Finish</em>, etc.) to guarantee survival with a SGE.</p>
+          <p>Abilities that boost healing (<em>Physis II</em>, <em>Asylum</em>,
+          <em>Nature's Minne</em>, <em>Mantra</em>) also help here.</p>
         </li>
       </ul>
     </td>
@@ -284,7 +282,7 @@ Ward*.
     </td>
     <td>
       <ul>
-        <li>ST Reprisal, H2 30s</li>
+        <li>ST Reprisal, H2 30s <em>or</em> H2 120s</li>
       </ul>
     </td>
     <td>
@@ -304,10 +302,16 @@ Ward*.
     </td>
     <td>
       <ul>
-        <li>MT Reprisal, H1 120s</li>
+        <li>MT Reprisal, D2, H2 30s <em>or</em> H2 120s</li>
       </ul>
     </td>
-    <td></td>
+    <td>
+      <ul>
+        <li>D2 adds <em>Feint</em> to the second <em>Eye of the Tyrant</em>
+        instead of the first because two players would take damage from the
+        towers.</li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td>
@@ -1223,14 +1227,17 @@ are fairly common, adapt this as needed if H1 is a SCH or SGE.
       <p><b>P2. Thordan</b></p>
     </td>
     <td>
+      <p>H1 120s mitigations are not commited anywhere in this phase. You can
+      choose between:</p>
+      <ul>
+        <li><em>Strength of the Ward</em> + <em>Final Chorus</em></li>
+        <li><em>Ancient Quaga</em> + <em>Heavenly Heel</em></li>
+        <li><em>Sanctity of the Ward</em> + <em>Eye of the Tyrant</em> #2</li>
+      </ul>
       <p><b>3x Ascalon's Might</b></p>
       <ul>
         <li><em>Aquaveil/Exaltation</em> → MT</li>
         <li>If the MT is a WAR, they'll be taking this with <em>Holmgang</em>.</li>
-      </ul>
-      <p><b>Strength of the Ward</b></p>
-      <ul>
-        <li>H1 120s</li>
       </ul>
       <p><b>Sanctity of the Ward</b></p>
       <ul>
@@ -1244,10 +1251,8 @@ are fairly common, adapt this as needed if H1 is a SCH or SGE.
       <p><b>P3. Nidhogg</b></p>
     </td>
     <td>
-      <p><b>Eye of the Tyrant #2</b></p>
-      <ul>
-        <li>H1 120s</li>
-      </ul>
+      <p>H1 120s are not committed to any part of this phase, so feel free to
+      use it for comfort.</p>
     </td>
   </tr>
   <tr>
@@ -1359,8 +1364,8 @@ are fairly common, adapt this as needed if H1 is a SCH or SGE.
       <ul>
         <li>H2 30s, H2 90s
           <ul>
-            <li>A SGE may need to add <em>Holos</em> here if the party is
-            specifically WHM + SGE.</li>
+            <li>A SGE may need to add <em>Physis II</em> if no other extra
+            mitigations are available.</li>
           </ul>
         </li>
       </ul>
@@ -1583,8 +1588,10 @@ This assumes D2 is a melee DPS.
       <p><b>P3. Nidhogg</b></p>
     </td>
     <td>
-      <p><em>Feint</em> doesn't change any breakpoints in this phase, so feel
-      free to use it as you please.</p>
+      <p><b>Eye of the Tyrant #2</b></p>
+      <ul>
+        <li><em>Feint</em></li>
+      </ul>
     </td>
   </tr>
   <tr>
