@@ -124,16 +124,12 @@ casters.
 
 ### P2. Thordan
 
-Notably, because of the differences between SCH and SGE, the H2 120s are not
-specified (nor are they strictly necessary).
+Notably, the mitigations below have been planned *without* taking the healer
+120s into consideration, so they can be used wherever needed for comfort.
 
-In particular:
-
-- SCH has a choice to use *Expedient* anywhere up to *Sanctity of the Ward*, 
-  due to *Deployment Tactics* at *Sanctity of the Ward*.
-- SGE can use *Kerachole* and *Panhaima* at *Sanctity of the Ward*, which means
-  they would prefer to use *Holos* either at *Strength of the Ward*, or at the
-  *Ancient Quaga*.
+That being said, in a WHM + SGE party, the SGE may need to save *Holos* for
+*Final Chorus*. If so, then they can only use *Holos* at *Strength of the
+Ward*.
 
 <table>
   <tr>
@@ -163,7 +159,7 @@ In particular:
     <td>
       <ul>
         <li><b>MT + ST:</b> 30% + short</li>
-        <li>H1 120s, D3</li>
+        <li>D3</li>
       </ul>
     </td>
     <td></td>
@@ -226,7 +222,7 @@ In particular:
     </td>
     <td>
       <ul>
-        <li>This is the latest you can use H2 120s to have it back for an
+        <li>This is the latest H1 can use their 120s to have it back for an
         <em>Eye of the Tyrant</em> stack in P3.</li>
         <li>Use H2 90s before the third cleave of <em>Ascalon's Might</em> to 
         guarantee it will be back for <em>Final Chorus</em>.</li>
@@ -270,8 +266,11 @@ In particular:
     </td>
     <td>
       <ul>
-        <li>This needs one more 10% mitigation if the healers are WHM + SGE.
-        (AST can <em>Collective Unconsciousness</em>)</li>
+        <li>
+          <p>This needs one more 10% mitigation to guarantee survival if the
+          healers are WHM + SGE.</p>
+          <p>A SGE may need to add <em>Holos</em> here in that scenario.</p>
+        </li>
       </ul>
     </td>
   </tr>
@@ -285,7 +284,7 @@ In particular:
     </td>
     <td>
       <ul>
-        <li>ST Reprisal, H2 30s <em>or</em> H2 120s</li>
+        <li>ST Reprisal, H2 30s</li>
       </ul>
     </td>
     <td>
@@ -305,7 +304,7 @@ In particular:
     </td>
     <td>
       <ul>
-        <li>MT Reprisal, H2 120s <em>or</em> H2 30s</li>
+        <li>MT Reprisal, H1 120s</li>
       </ul>
     </td>
     <td></td>
@@ -1245,13 +1244,9 @@ are fairly common, adapt this as needed if H1 is a SCH or SGE.
       <p><b>P3. Nidhogg</b></p>
     </td>
     <td>
-      <p><b>Final Chorus</b></p>
+      <p><b>Eye of the Tyrant #2</b></p>
       <ul>
-        <li>H1 120s
-          <ul>
-            <li>An AST would use <em>Collective Unconsciousness</em> here.</li>
-          </ul>
-        </li>
+        <li>H1 120s</li>
       </ul>
     </td>
   </tr>
@@ -1333,21 +1328,25 @@ are fairly common, adapt this as needed if H1 is a SCH or SGE.
       <p><b>P2. Thordan</b></p>
     </td>
     <td>
-      <p>SCH can use <em>Expedient</em> anywhere up to (and including)
-      <em>Sanctity of the Ward</em>.</p>
-      <p>A SGE would prefer to <em>Holos</em> somewhere other than <em>Sanctity
-      of the Ward</em>, because <em>Sanctity of the Ward</em> can be covered by
-      <em>Kerachole</em> + <em>Panhaima</em> (in addition to <em>Zoe</em>
-      shields).</p>
-      <p>If you use H2 120s at <em>Sanctity of the Ward</em>, they will be back
-      for the second <em>Eye of the Tyrant</em> stack in the next phase.</p>
+      <p>A SGE would prefer to <em>Holos</em> at <em>Strength of the Ward</em>,
+      because <em>Sanctity of the Ward</em> can be covered by <em>Kerachole</em>
+      + <em>Panhaima</em> (in addition to <em>Zoe</em> shields).</p>
+      <p>A SGE may also need to hold <em>Holos</em> for <em>Final Chorus</em>,
+      in which case they can use <em>Holos</em> only at <em>Strength of the
+      Ward</em>.</p>
       <p><b>Ancient Quaga</b></p>
       <ul>
         <li>H2 30s</li>
       </ul>
       <p><b>Sanctity of the Ward</b></p>
       <ul>
-        <li>H2 90s</li>
+        <li>H2 90s
+          <ul>
+            <li>Use this during the <em>Ascalon's Might</em> cleaves to ensure
+            it will be back up in time for <em>Final Chorus</em>, even with
+            faster killtimes.</li>
+          </ul>
+        </li>
       </ul>
     </td>
   </tr>
@@ -1358,15 +1357,16 @@ are fairly common, adapt this as needed if H1 is a SCH or SGE.
     <td>
       <p><b>Final Chorus</b></p>
       <ul>
-        <li>H2 30s, H2 90s</li>
+        <li>H2 30s, H2 90s
+          <ul>
+            <li>A SGE may need to add <em>Holos</em> here if the party is
+            specifically WHM + SGE.</li>
+          </ul>
+        </li>
       </ul>
       <p><b>Eye of the Tyrant #1</b></p>
       <ul>
-        <li>H2 30s or H2 120s</li>
-      </ul>
-      <p><b>Eye of the Tyrant #2</b></p>
-      <ul>
-        <li>H2 30s or H2 120s</li>
+        <li>H2 30s</li>
       </ul>
     </td>
   </tr>
