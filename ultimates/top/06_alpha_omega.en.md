@@ -108,7 +108,7 @@ mitigation plan is:
       </ul>
     </td>
     <td>
-      <p><em>(Invuln) PLD > GNB > DRK > WAR (Mitigate)</em></p>
+      <p><em>MT Mitigate, ST Invuln</em></p>
       <p>30%, short, co-tank's short</p>
     </td>
   </tr>
@@ -127,7 +127,7 @@ mitigation plan is:
       </ul>
     </td>
     <td>
-      <p><em>(Invuln) WAR > DRK > GNB > PLD (Mitigate)</em></p>
+      <p><em>MT Invuln, ST Mitigate</em></p>
       <p>30%, short, co-tank's short</p>
     </td>
   </tr>
@@ -160,9 +160,8 @@ Illumination*. While the above framework will still work without any of these
 abilities, healers should supplement the plan with these abilities for 
 comfort.
 
-Also note that the tank invuln/mitigation sequence is determined by the tank
-*jobs*, and not their *roles*. Keep that in mind if your tank composition does
-not follow the standard order (MT: WAR > DRK > GNB > PLD :ST).
+Note that there is *one exception* to the tank invuln/mitigation sequence,
+which is where you have a PLD MT and a GNB ST.
 
 ---
 
@@ -1152,12 +1151,45 @@ not to use their potions at certain buff windows.
 <table>
   <tr>
     <td>
+      <p>This is to accommodate for PLD + GNB tank compositions.</p>
       <p>If you happen to have a GNB (MT) + PLD (ST) for tanks, PLD must
       Hallowed Ground the first Solar Ray (before Delta) for them to get a
       Hallowed Ground use in P6.</p>
       <p>This then means the GNB would have to Superbolide the second Solar
       Ray (before Sigma), and if so, Superbolide won't be up in time for
       Wave Cannon #1.</p>
+      <p>Note that this will <em>break</em> if you have a PLD MT and a
+      GNB ST.</p>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
+  <b>[Wave Cannon]</b> Why are the invulns fixed to the roles, and not the
+  jobs? Aren't the invulns in P5 determined by the jobs?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>The invulns in P5 are fixed to the jobs because PLD must
+      <em>Hallowed Ground</em> the first <em>Solar Ray</em> to even have a use
+      in P6.</p>
+      <p>However, the problem with fixing the invulns to jobs is when the
+      standard MT/ST priority is not followed, for example, a PLD MT and WAR
+      ST.</p>
+      <p>In that scenario, if you fix the invulns to the jobs, but the
+      mitigations to the roles, you open yourself to a wipe where the WAR has
+      to <em>Vengeance</em> and <em>Bloodwhetting</em>, but also <em>Shake It
+      Off</em>, which will dispel the WAR's buffs if used in the wrong order.</p>
+      <p>You <em>can</em> get around this by then pinning the party mitigation
+      to the jobs instead of the roles as well, but that becomes more trouble
+      than it's worth.</p>
+      <p>Given that it would be more common to have a WAR in the party (and
+      thus a WAR ST) compared to specifically PLD MT + GNB ST, this is an
+      acceptable tradeoff, with just a note to callout PLD MT + GNB ST
+      as an exception.</p>
     </td>
   </tr>
 </table>
@@ -1210,7 +1242,8 @@ not to use their potions at certain buff windows.
 
 <details markdown=block>
 <summary>
-  <b>[Cosmo Meteor]</b> What if the ST is a WAR or PLD? Wouldn't <em>Shake It Off/Divine Veil</em> only block one round of Meteors?
+  <b>[Cosmo Meteor]</b> What if the ST is a WAR or PLD? Wouldn't <em>Shake It
+  Off/Divine Veil</em> only block one round of Meteors?
 </summary>
 <table>
   <tr>
@@ -1271,17 +1304,21 @@ not to use their potions at certain buff windows.
       <p>Check how many debuffs <em>(Addle, Dismantle, Feint, Reprisal)</em> were  
       applied to the boss while the party is spread out for the first part of 
       <em>Wave Cannon</em>.</p>
-      <p><b>There should <em>not</em> be any debuffs on the boss while the party is spread out, or just one debuff at most.</b></p>
+      <p><b>There should <em>not</em> be any debuffs on the boss while the
+      party is spread out, or just one debuff at most.</b></p>
       <p>The reason behind this is due to how LB is generated.- LB is generated
       whenever someone survives damage that is equal to or greater than their
       current HP due to mitigation or shields.</p>
       <p>However, there is some fine print- the order of operations are:</p>
       <ol>
-        <li>Apply debuffs to reduce outgoing damage <em>(Addle, Dismantle, Feint, Reprisal)</em></li>
+        <li>Apply debuffs to reduce outgoing damage <em>(Addle, Dismantle, 
+        Feint, Reprisal)</em></li>
         <li><b>Generate LB if damage is equal to or greater than current HP</b></li>
-        <li>Apply mitigations to reduce incoming damage <em>(Aquaveil, Kerachole, Sacred Soil, Third Eye,
+        <li>Apply mitigations to reduce incoming damage <em>(Aquaveil,
+        Kerachole, Sacred Soil, Third Eye,
         etc.)</em></li>
-        <li>Absorb damage from shields <em>(Divine Veil, Shade Shift, Succor, etc.)</em></li>
+        <li>Absorb damage from shields <em>(Divine Veil, Shade Shift, Succor, 
+        etc.)</em></li>
       </ol>
       <p>The problem is that if enough debuffs are on the boss at Step 1, the
       damage at Step 2 is <em>no longer lethal</em>, and thus, <em>LB is not
