@@ -406,7 +406,8 @@ Regression* players stand *away* from the *Critical Overflow Bugs* instead.
         touching them.
           <ul>
             <li>This will <em>overwrite</em> a <em>Critical Performance 
-            Bug</em> (the blue Nisi), unless the receiving player has the <em>Underflow Debugger</em> buff.</li>
+            Bug</em> (the blue Nisi), unless the receiving player has the
+            <em>Underflow Debugger</em> buff.</li>
           </ul>
         </li>
         <li>When the timer expires:
@@ -447,7 +448,8 @@ Regression* players stand *away* from the *Critical Overflow Bugs* instead.
         touching them.
           <ul>
             <li>This will <em>overwrite</em> a <em>Critical Underflow 
-            Bug</em> (the red Nisi), unless the receiving player has the <em>Performance Debugger</em> buff.</li>
+            Bug</em> (the red Nisi), unless the receiving player has the
+            <em>Performance Debugger</em> buff.</li>
           </ul>
         </li>
         <li>When the timer expires:
@@ -477,7 +479,8 @@ Regression* players stand *away* from the *Critical Overflow Bugs* instead.
   randomly determined when *Hello, World* is cast. Once determined, **it will 
   not change** between tower sets.
 - Similarly, players are randomly paired together based on their debuffs when 
-  *Hello, World* is cast. Once assigned, **the pairs will not change** between tower sets.
+  *Hello, World* is cast. Once assigned, **the pairs will not change** between
+  tower sets.
 
 ### Setup
 
@@ -531,7 +534,9 @@ Regression* players stand *away* from the *Critical Overflow Bugs* instead.
   <tr>
     <td>
       <p><b>3.</b> When the towers appear, the players with Critical 
-      Overflow <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_overflow_bug.png"> and Critical Performance <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_performance_bug.png"> (the Nisis) move around the outside to get to their towers.</p>
+      Overflow <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_overflow_bug.png">
+      and Critical Performance <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_performance_bug.png">
+      (the Nisis) move around the outside to get to their towers.</p>
       <p>The players with the tethers stay inside the Omega's target 
       circle, and orient themselves to prepare to move.</p>
       <p>The tether players <b>wait for the the Nisis to be in position</b>
