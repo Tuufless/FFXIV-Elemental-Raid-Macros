@@ -414,7 +414,7 @@ Regression* players stand *away* from the *Critical Overflow Bugs* instead.
             <li>An AoE (roughly the same size as a tower) centered on the player
             goes off and will kill any other player hit.</li>
             <li>It removes the <em>Cascading Latent Defect</em> debuff gained as
-            a result of taking a red tower.</li>
+            a result of taking a red tower if the player is alive.</li>
             <li>The player gains an <em>Underflow Debugger</em> buff.</li>
           </ul>
         </li>
@@ -455,7 +455,7 @@ Regression* players stand *away* from the *Critical Overflow Bugs* instead.
             <li>An AoE (roughly the same size as a tower) centered on the player
             goes off and will kill any other player hit.</li>
             <li>It removes the <em>Latent Performance Defect</em> debuff gained as
-            a result of taking a blue tower.</li>
+            a result of taking a blue tower if the player is alive.</li>
             <li>The player gains an <em>Performance Debugger</em> buff.</li>
           </ul>
         </li>
