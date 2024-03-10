@@ -132,7 +132,7 @@ not by the tank *roles*.
 <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
   <p><b>Note:</b> There is an edge case where you specifically have:</p>
   <ul>
-    <li>WAR <em>and</em> PLD tanks</li>
+    <li>WAR + PLD tanks <em>and</em></li>
     <li>Fast killtimes <em>(Hallowed Ground not available for first Solar Ray)</em></li>
   </ul>
   <p>In such a scenario, use <em>Holmgang</em> for the second <em>Solar Ray</em>,
@@ -140,7 +140,8 @@ not by the tank *roles*.
   familiar with this fallback.</p>
 </div>
 
-After the Solar Ray, Omega-M will cast *Run: \*\*\*\*mi\* (Delta Version)*, which is a *very* hard-hitting raid-wide.
+After the Solar Ray, Omega-M will cast *Run: \*\*\*\*mi\* (Delta Version)*,
+which is a *very* hard-hitting raid-wide.
 
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
   <p><b>Tip:</b> There is ~1:22 between Run Dynamis (Delta Version) and Run:

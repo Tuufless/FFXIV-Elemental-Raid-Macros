@@ -160,8 +160,12 @@ Illumination*. While the above framework will still work without any of these
 abilities, healers should supplement the plan with these abilities for 
 comfort.
 
-Note that there is *one exception* to the tank invuln/mitigation sequence,
-which is where you have a PLD MT and a GNB ST.
+<div style="background-color: #200 ; padding: 10px; border: 1px solid;">
+  <p><b>Note:</b> There is an edge case where you specifically have a PLD MT
+  with a GNB ST.</p>
+  <p>In such a scenario, the two tanks will need to swap their invuln vs 
+  mitigation for the two <em>Wave Cannons</em> (i.e: MT invuln first).</p>
+</div>
 
 ---
 
