@@ -832,13 +832,14 @@ passed, even if players bump into one another.
 
 ## Oversampled Wave Cannon
 
-Omega then brings back its "monitors" mechanic from O12S-2, with the added
-twist that three random players *also* get their own set of monitors to
-resolve.
+Omega will teleport to the middle and face north.
 
-With four monitors in total (Omega and three players) and each monitor hitting
-two players, the party needs to arrange themselves such that all players will
-take exactly one monitor hit each.
+Monitors will appear on Omega's, and on three random player's left-hand or
+right-hand side. For each of the four monitors (Omega and the three players),
+two random players on the monitor's side will be hit with an AoE.
+
+The party needs to arrange themselves such that all monitors hit exactly one
+player each.
 
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
 <details markdown=block>
@@ -847,19 +848,17 @@ take exactly one monitor hit each.
 </summary>
 <table>
   <tr>
-    <td style="text-align:center"><img src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/monitors_debuff.png"></td>
+    <td style="text-align:center">
+      <img src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/monitors_debuff.png">
+    </td>
     <td>
       <p><em>Preparing oversampled wave cannon, which will fire in the
       direction of designated player when this effect expires.</em></p>
-      <p>This is an extension of the mechanic "Oversampled Wave Cannon" from
-      O12S-2.</p>
-      <p>Monitors will appear on one side of Omega. When the mechanic resolves,
-      two random players on the side with the monitors will be hit with an AoE. 
-      If there are fewer than two players, then a random player (from anywhere) 
-      is selected for each player missing instead.</p>
-      <p>This phase extends the idea and adds monitors to players that work the
-      same way- when the debuff resolves, two random players on the monitor
-      side of the debuffed <em>player</em> will be selected for an AoE.</p>
+      <p>Monitors will appear on the player's left-hand or right-hand side
+      (never the front or back). When the mechanic resolves, two random
+      players on the side with the monitors will be hit with an AoE.</p>
+      <p>If there are fewer than two players, then a random player (from
+      anywhere) is selected for each player missing instead.</p>
     </td>
   </tr>
 </table>
