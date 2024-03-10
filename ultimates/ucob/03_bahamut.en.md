@@ -254,9 +254,12 @@ Just like after Blackfire Trio, Bahamut will Flare Breath the tank three times b
 
 ## Grand Octet (with Tank LB)
 
-After Tenstrike, Bahamut Flattens and Flare Breaths before starting Grand Octet.
+After Tenstrike, Bahamut Flattens and Flare Breaths before starting *Grand Octet*.
 
-Bahamut must be **below 60% HP** by the time it disappears for Grand Octet, or it will gain a damage-up buff in Golden Bahamut, making it impossible to clear the fight (although you will still be able to prog the adds phase).
+Bahamut must be **below 60% HP** by the time it disappears for *Grand Octet*, or
+it will gain a damage-up buff in Golden Bahamut (roughly 5x damage), making
+it impossible to clear the fight with a standard party (although you will still
+be able to prog the adds phase).
 
 *(This should* really *not be a problem nowadays.)*
 

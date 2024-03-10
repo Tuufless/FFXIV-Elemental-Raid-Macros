@@ -8,7 +8,12 @@ permalink: /ultimates/ucob/05_golden_bahamut/
 
 # Golden Bahamut
 
-This phase is often nicknamed the "victory lap" because it's the simplest phase in the entire fight.
+This phase is often nicknamed the "victory lap" because it's the simplest phase
+in the entire fight.
+
+If Bahamut was not previously brought down to below 60% HP, Golden Bahamut will
+start the phase with a 5x damage-up buff *("Bahamut grows mightier still!")* that
+making this phase impossible to clear with a standard party composition.
 
 The final phase of UCoB consists of three mechanics on a loop:
 
@@ -18,7 +23,8 @@ The final phase of UCoB consists of three mechanics on a loop:
 
 This loop repeats five times in total.
 
-**However**, the order for Morn Afah and Akh Morn is switched **only for the second iteration.**
+**However**, the order for Morn Afah and Akh Morn is switched **only for the
+second iteration.**
 
 ---
 
@@ -146,3 +152,34 @@ Tanks will also need to plan out their cooldowns for the Akh Morns.
 The above loop repeats four more times before Golden Bahamut casts a final Morn
 Afah, targeting players one at a time (in order of descending hate) to serve as
 the hard enrage.
+
+---
+
+## Frequently Asked Questions
+
+<details markdown=block>
+<summary>
+  <b>[General]</b> <em>"If Bahamut was not previously brought down to below 60%
+  HP, Golden Bahamut will start the phase with a 5x damage-up buff...making
+  this phase impossible to clear with a standard party composition."</em> - 
+  does that mean it can be cleared with a non-standard party?</summary>
+<table>
+  <tr>
+    <td>
+      <p>Yes, in the sense that it's been done.</p>
+      {% include youtube.html id="0ivLvPhZ7DQ" %}
+      <p>It took a party of five tanks cycling through Golden Bahamut just
+      to survive the auto-attacks, all of which will one-shot a tank (it
+      deals about 150% of a tank's max HP!). Golden Bahamut's auto-attacks
+      can also crit, which would practically one-shot a tank through full
+      mitigation and shields.</p>
+      <p>Four tanks would invuln the four <em>Akh Morn</em>s, with heavy
+      shielding (SCH + SGE) and a Tank LB3 to survive every other <em>Morn
+      Afah</em>, sacrificing the stack target for the ones in between.</p>
+      <p>Success was heavily dependent on RNG- recovering from a tank dying to
+      <em>Morn Afah</em> without having cycled in to mitigate Golden Bahamut's
+      auto-attacks, was extremely difficult to impossible in some scenarios.</p>
+    </td>
+  </tr>
+</table>
+</details>
