@@ -152,72 +152,16 @@ This is the only phase in the fight with a transitional mechanic.
 
 ## Hello, World
 
-Although *Hello, World* may look overwhelming at first, there are really just
-two variations, determined by which colour debuff (*Critical Performance* and
-*Critical Underflow*) get paired with *Critical Overflow* and *Critical
-Synchronization*.
+Omega begins the phase with its signature *Hello, World* mechanic.
 
-<table>
-  <tr>
-    <td width="50%"><img src="{{site.baseurl}}/assets/images/ultimates/top/03/hello_world_0_0a.jpg"></td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/03/hello_world_0_0b.jpg"></td>
-  </tr>
-  <tr>
-    <td>
-      <p><em>"Blue is Defamation"</em></p>
-      <p>Critical Overflow <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_overflow_bug.png">
-      has Critical Performance <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_performance_bug.png"></p>
-    </td>
-    <td>
-      <p><em>"Red is Defamation"</em></p>
-      <p>Critical Overflow <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_overflow_bug.png">
-      has Critical Underflow <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_underflow_bug.png"></p>
-    </td>
-  </tr>
-</table>
+*Hello, World* concludes with Omega casting *Critical Error*. This gives the
+entire party *Critical Overflow Bugs*, which will lead to a wipe. However, this
+is blocked by an *Overflow Debugger* buff, which is gained when a player
+resolves *Critical Overflow*.
 
-*Hello, World* is simply a cycle of debuffs to resolve. Players will be 
-paired together based on their debuffs- at any one point, two players will be at 
-each stage in the cycle.
-
-<table>
-  <tr>
-    <td>
-      <p>The basic loop consists of:</p>
-      <ol>
-        <li>Orientate to coloured towers.</li>
-        <li>Pair players together:
-          <ul>
-            <li><em>Critical Overflows</em> <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_overflow_bug.png">
-            pair with <em>Local Regression</em> <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/local_regression.png">
-            (red/green tethers).</li>
-            <li><em>Critical Synchronizations</em> <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_synchronization_bug.png">
-            pair with <em>Remote Regression</em> <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/remote_regression.png">
-            (blue tethers).</li>
-          </ul>
-        </li>
-        <li><em>Critical Overflows</em> <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_overflow_bug.png">
-        and <em>Critical Synchronizations</em> <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_synchronization_bug.png">
-        resolve.</li>
-        <li>Pass <em>Critical Underflow</em> <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_underflow_bug.png">
-        (red Nisi) and <em>Critical Performance</em> <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_performance_bug.png">
-        (blue Nisi) within the <b>next 3 seconds</b>.</li>
-        <li>Break <em>Remote Regression</em> <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/remote_regression.png">
-        (blue tethers).</li>
-        <li>Break <em>Local Regression</em> <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/local_regression.png">
-        (red/green tethers).</li>
-        <li>Repeat the loop with the next mechanic in the cycle.</li>
-      </ol>
-    </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/03/hello_world_cycle.jpg"></td>
-  </tr>
-</table>
-
-Players will alternate between towers and tethers each cycle.
-
-This loop is repeated four times (all players will have their go at each
-debuff). However, the final iteration has one small difference where the *Local
-Regression* players stand *away* from the *Critical Overflow Bugs* instead.
+**Thus, the goal is to resolve all the debuffs, and get everybody the *Overflow
+Debugger* buff** <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/overflow_debugger.png">
+**before *Critical Error* is cast**.
 
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
 <details markdown=block>
@@ -474,6 +418,34 @@ Regression* players stand *away* from the *Critical Overflow Bugs* instead.
 </details>
 </div>
 
+Although *Hello, World* may look overwhelming at first, there are really just
+two variations, determined by which colour debuff (*Critical Performance* and
+*Critical Underflow*) get paired with *Critical Overflow* and *Critical
+Synchronization*.
+
+<table>
+  <tr>
+    <td width="50%"><img src="{{site.baseurl}}/assets/images/ultimates/top/03/hello_world_0_0a.jpg"></td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/03/hello_world_0_0b.jpg"></td>
+  </tr>
+  <tr>
+    <td>
+      <p><em>"Blue is Defamation"</em></p>
+      <p>Critical Overflow <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_overflow_bug.png">
+      has Critical Performance <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_performance_bug.png"></p>
+    </td>
+    <td>
+      <p><em>"Red is Defamation"</em></p>
+      <p>Critical Overflow <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_overflow_bug.png">
+      has Critical Underflow <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_underflow_bug.png"></p>
+    </td>
+  </tr>
+</table>
+
+After that, *Hello, World* is simply a cycle of debuffs to resolve. Players
+will be paired together based on their debuffs- at any one point, two players
+will be at each stage in the cycle, alternating between towers and tethers.
+
 - The pairing between *Critical Overflow Bugs/Critical Synchronization Bugs* 
   with *Critical Underflow Bugs/Critical Performance Bugs* (red/blue Nisis) is 
   randomly determined when *Hello, World* is cast. Once determined, **it will 
@@ -481,6 +453,43 @@ Regression* players stand *away* from the *Critical Overflow Bugs* instead.
 - Similarly, players are randomly paired together based on their debuffs when 
   *Hello, World* is cast. Once assigned, **the pairs will not change** between
   tower sets.
+
+<table>
+  <tr>
+    <td>
+      <p>The basic loop consists of:</p>
+      <ol>
+        <li>Orientate to coloured towers.</li>
+        <li>Pair players together:
+          <ul>
+            <li><em>Critical Overflows</em> <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_overflow_bug.png">
+            pair with <em>Local Regression</em> <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/local_regression.png">
+            (red/green tethers).</li>
+            <li><em>Critical Synchronizations</em> <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_synchronization_bug.png">
+            pair with <em>Remote Regression</em> <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/remote_regression.png">
+            (blue tethers).</li>
+          </ul>
+        </li>
+        <li><em>Critical Overflows</em> <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_overflow_bug.png">
+        and <em>Critical Synchronizations</em> <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_synchronization_bug.png">
+        resolve.</li>
+        <li>Pass <em>Critical Underflow</em> <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_underflow_bug.png">
+        (red Nisi) and <em>Critical Performance</em> <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_performance_bug.png">
+        (blue Nisi) within the <b>next 3 seconds</b>.</li>
+        <li>Break <em>Remote Regression</em> <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/remote_regression.png">
+        (blue tethers).</li>
+        <li>Break <em>Local Regression</em> <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/local_regression.png">
+        (red/green tethers).</li>
+        <li>Repeat the loop with the next mechanic in the cycle.</li>
+      </ol>
+    </td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/03/hello_world_cycle.jpg"></td>
+  </tr>
+</table>
+
+This loop is repeated four times (all players will have their go at each
+debuff). However, the final iteration has one small difference where the *Local
+Regression* players stand *away* from the *Critical Overflow Bugs* instead.
 
 ### Setup
 
