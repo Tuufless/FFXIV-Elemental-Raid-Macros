@@ -902,15 +902,20 @@ different if either melee is partnered with a DNC.)*
 
 ## Cosmo Meteor
 
-Alpha Omega autoattacks twice before casting *Cosmo Meteor*.
-
-This is the final mechanic of the fight, and marks the start to the LB3 rush
-this fight is known for.
-
 For this part, **one healer** will typically return to the middle to top up the
 party as there are a number of waves of damage going out. **This is usually
 confirmed between the two healers** either at the start of the encounter, or
-during the cutscene before P6.
+during the cutscene before P6, but generally follows the following order:
+
+<table>
+  <tr>
+    <td><b>Healer Mid priority</b></td>
+    <td>AST > SGE/SCH > WHM</td>
+  </tr>
+</table>
+
+Alpha Omega will autoattack twice before turning to face North and cast *Cosmo
+Meteor*.
 
 <table>
   <tr>
@@ -1239,6 +1244,33 @@ not to use their potions at certain buff windows.
       <p>On the plus side, the WAR using <em>Shake It Off</em> at <em>Cosmo 
       Meteor's</em> Flares mean that <em>Feint</em> will not be needed 
       there.</p>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
+  <b>[Cosmo Meteor]</b> Why is the healer priorty AST > SGE/SCH > WHM for who
+  goes middle?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>At the end of the day, we want the party to be topped up between waves
+      of Meteors, with shields. Note that H1 is also using their 120s
+      mitigation there <em>(Temperance/Neutral Sect)</em>.</p>
+      <p>An AST with <em>Neutral Sect</em> not only has the strongest healing,
+      but also the strongest shields. Putting the AST in the center assures all
+      party members can get <em>Macrocosmos</em>, which is a great way to top
+      up the party after <em>Cosmo Meteor</em>.</p>
+      <p>Both SGE and SCH are largely interchangeable since they both can apply
+      shields. That being said, SGE would have the better pure-healing ability
+      because of <em>Pneuma</em>.</p>
+      <p>WHM is last because they cannot apply shields. Furthermore,
+      <em>Temperance</em> covers the entire arena, and WHM can place and
+      trigger <em>Liturgy of the Bell</em> in the center to top up and mitigate
+      damage for the party without needing to be in the center themselves.</p>
     </td>
   </tr>
 </table>
