@@ -1124,7 +1124,7 @@ however, there are still some points worth mentioning.
       <ul>
         <li><em>Reprisal</em></li>
       </ul>
-      <p><b>Towers #2</b></p>
+      <p><b>Towers #3</b></p>
       <ul>
         <li><em>ST 90s</em></li>
       </ul>
