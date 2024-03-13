@@ -555,9 +555,10 @@ There are a number of details when it comes to mitigating this phase:
   the party.
   - If you have a WAR, then both tanks will be able to use all their personal 
     cooldowns to mitigate *Solar Ray* without additional help.
-  - If you do *not* have a WAR, then the tanks will need to alternate between
-    who uses their 30%. The tank that does not will need *Reprisal* and two other 
-    10% mitigations from the healers and/or D4 to survive.
+  - If you do *not* have a WAR, then the tanks will need to alternate who uses
+    their 3rd vs 30% mitigations (MT uses 3rd first, ST uses 30% first). The
+    tank that does not use their 30% mitigation will need *Reprisal* and two
+    other 10% mitigations from the healers and/or D4 to survive.
 - Each Run Dynamis needs both tank 90s, H2 30s, D3's party mitigation,
   *Reprisal*, *Feint*, and shields to survive.
   - It is expected that all tanks + D3 use their 90s mitigations when the
