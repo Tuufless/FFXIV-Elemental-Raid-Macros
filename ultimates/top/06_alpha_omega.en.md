@@ -169,7 +169,7 @@ comfort.
 
 ---
 
-## Things to decide
+## Preparation
 
 This phase has a number of things that need to be decided in advance. This is
 usually either done at the start of the encounter, or during the cutscene
@@ -178,6 +178,13 @@ before the phase begins.
 - Decide the Tank LB3 order.
 - Decide the Melee LB3 order.
 - Decide which healer will go middle for Cosmo Meteor. 
+
+It's also recommended that both D3 and D4 prepare a Limit Break macro targeting
+the player's target to avoid needing to aim/position the LB3 manually.
+```
+/macroicon "limit break"
+/ac "limit break" <t>
+```
 
 ---
 
