@@ -412,8 +412,8 @@ This phase is the culmination of all the mechanics introduced thus far.
 
 <details markdown=block>
 <summary>
-  <b>[Fireballs]</b> Why wasn't LB generated with the <em>Fireball</em>? Why
-  don't we debuff Twintania with <em>Reprisal/Feint/Addle</em>?</summary>
+  <b>[Fireballs]</b> Why don't we debuff Twintania with
+  <em>Reprisal/Feint/Addle</em> at the first <em>Fireball</em> stack?</summary>
 <table>
   <tr>
     <td>
@@ -441,6 +441,10 @@ This phase is the culmination of all the mechanics introduced thus far.
   </tr>
 </table>
 </details>
+
+---
+
+## Troubleshooting
 
 <details markdown=block>
 <summary>
