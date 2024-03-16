@@ -7,7 +7,7 @@ grand_parent: Ultimates
 permalink: /ultimates/top/run_dynamis_delta_gmt/
 ---
 
-# Run: Dynamis (Delta Version) - GMT variant
+# Appendix B: Run Dynamis (Delta Version) - GMT variant
 
 This is an alternate method to resolving *Run: Dynamis (Delta Version)* that I
 personally prefer, although it is not done in PF. That being said, I still

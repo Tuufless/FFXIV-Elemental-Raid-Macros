@@ -9,7 +9,7 @@ grand_parent: Ultimates
 permalink: /ultimates/top/mitigation/
 ---
 
-# Mitigation
+# Appendix A: Mitigation
 
 The following is a mitigation framework for the encounter.
 
