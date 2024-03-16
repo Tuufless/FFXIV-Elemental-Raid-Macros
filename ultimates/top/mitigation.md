@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mitigation
+title: A. Mitigation
 parent: Lv 90. TOP
 nav_order: 9
 has_children: false
@@ -933,8 +933,10 @@ however, there are still some points worth mentioning.
       <ul>
         <li>90s party mits</li>
         <ul>
-          <li>WAR/PLD can use their 90s as early as when the Packet Filters drop at the start of <em>Limitless Synergy</em>.</li>
-          <li>GNB/DRK should wait for <em>Beyond Defense</em>'s kick to use their 90s to also cover <em>Cosmo Memory</em>.</li>
+          <li>WAR/PLD can use their 90s as early as when the <em>Packet
+          Filters</em> drop at the start of <em>Limitless Synergy</em>.</li>
+          <li>GNB/DRK should wait for <em>Beyond Defense</em>'s kick to use
+          their 90s to also cover <em>Cosmo Memory</em>.</li>
         </ul>
       </ul>
     </td>
@@ -952,7 +954,8 @@ however, there are still some points worth mentioning.
       <ul>
         <li>90s party mits.
           <ul>
-            <li>WAR/PLD can use their party mits early to get an extra use at <em>Critical Error</em>.</li>
+            <li>WAR/PLD can use their party mits early to get an extra use at
+            <em>Critical Error</em>.</li>
           </ul>
         </li>
       </ul>
@@ -1267,7 +1270,8 @@ are fairly common, adapt this as needed if H1 is a SCH or SGE.
       <ul>
         <li>H1 120s</li>
         <ul>
-          <li>The earliest a WHM can use <em>Temperance</em> and still cover <em>Cosmo Memory</em> is when the Flare markers appear.</li>
+          <li>The earliest a WHM can use <em>Temperance</em> and still cover
+          <em>Cosmo Memory</em> is when the Flare markers appear.</li>
         </ul>
       </ul>
     </td>
@@ -1735,7 +1739,8 @@ This assumes D2 is a melee DPS.
     </td>
     <td>
       <p>You can use <em>Feint</em> anywhere in this phase. The better places
-      would either be at the third <em>Wave Cannon</em> spread, or at <em>Blue Screen</em>.</p>
+      would either be at the third <em>Wave Cannon</em> spread, or at <em>Blue
+      Screen</em>.</p>
     </td>
   </tr>
   <tr>
@@ -1882,7 +1887,8 @@ modifications that are available to MCH that are not available to BRD or DNC.
       <ul>
         <li><em>Troubadour/Tactician/Shield Samba</em>
           <ul>
-            <li>Use <em>Troubadour/Tactician/Shield Samba</em> after dodging all the Exaflares.</li>
+            <li>Use <em>Troubadour/Tactician/Shield Samba</em> after dodging
+            all the Exaflares.</li>
           </ul>
         </li>
       </ul>

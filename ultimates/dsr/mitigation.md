@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mitigation
+title: A. Mitigation
 parent: Lv 90. DSR
 nav_order: 9
 has_children: false
