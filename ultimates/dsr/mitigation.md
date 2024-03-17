@@ -614,7 +614,13 @@ trouble topping up the DRK if *Living Dead* was used at *Cauterize*.
         <li>MT <em>Reprisal</em>, H2 30s</li>
       </ul>
     </td>
-    <td></td>
+    <td>
+      <ul>
+        <li>The MT needs to stand in the middle of the arena to hit
+        <em>both</em> dragons with <em>Reprisal</em> before joining their
+        <em>Akh Afah</em> stack.</li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td>
@@ -671,7 +677,13 @@ trouble topping up the DRK if *Living Dead* was used at *Cauterize*.
         <li>MT <em>Reprisal</em>, H2 30s</li>
       </ul>
     </td>
-    <td></td>
+    <td>
+      <ul>
+        <li>The MT needs to stand in the middle of the arena to hit
+        <em>both</em> dragons with <em>Reprisal</em> before joining their
+        <em>Akh Afah</em> stack.</li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td>
@@ -985,11 +997,18 @@ damage/second (this is somewhat made up for by having to move and heal).
       <p><b>Wyrmsbreath #1</b></p>
       <ul>
         <li>30% + short</li>
-        <li>If Hraesvelgr's mouth isn't glowing, use your short mitigation on the ST co-tank.</li>
+        <li>If Hraesvelgr's mouth isn't glowing, use your short mitigation on
+        the ST co-tank.</li>
       </ul>
       <p><b>Akh Afah #1</b></p>
       <ul>
-        <li><em>Reprisal</em></li>
+        <li><em>Reprisal</em>
+          <ul>
+            <li>Stand in the middle of the arena to hit <em>both</em> dragons
+            with <em>Reprisal</em> before joining the <em>Akh Afah</em>
+            stack.</li>
+          </ul>
+        </li>
       </ul>
       <p><b>Hallowed Wings #1</b></p>
       <ul>
@@ -1001,7 +1020,13 @@ damage/second (this is somewhat made up for by having to move and heal).
       </ul>
       <p><b>Akh Afah #2</b></p>
       <ul>
-        <li><em>Reprisal</em></li>
+        <li><em>Reprisal</em>
+          <ul>
+            <li>Stand in the middle of the arena to hit <em>both</em> dragons
+            with <em>Reprisal</em> before joining the <em>Akh Afah</em>
+            stack.</li>
+          </ul>
+        </li>
       </ul>
       <p><b>Hallowed Wings #2</b></p>
       <ul>
