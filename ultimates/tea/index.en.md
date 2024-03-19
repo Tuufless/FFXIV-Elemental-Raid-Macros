@@ -22,7 +22,6 @@ Since Elemental PF hasn't agreed on a TEA strat since Patch 5.1, I'm going to ta
 
 - The Esuna priority for Living Liquid's Throttles (Esuna self first or not)
 - The Limit Cut strategy (1211 vs. 1256)
-- The Exatrine positions (center vs. SW marker)
 
 ### BiS Notes
 
