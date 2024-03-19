@@ -97,8 +97,17 @@ This phase is pushed when Ultima Weapon's HP drops below 50%.
 	<td><img src="{{site.baseurl}}/assets/images/ultimates/uwu/04c/suppression_17.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>18.</b> Garuda jumps <em>(dodge Feather Rains)</em> and Ultima finishes casting Tank Purge.</p><p>Again, because there is also a Mesohigh tether AoE going off at this time, this is a lot of damage.</p></td>
-	<td><img src="{{site.baseurl}}/assets/images/ultimates/uwu/04c/suppression_18.jpg"></td>
+    <td>
+      <p><b>18.</b> Garuda jumps <em>(dodge Feather Rains)</em> and Ultima
+      finishes casting Tank Purge.</p>
+      <p>Again, because there is also a Mesohigh tether AoE going off at 
+      this time, this is a lot of damage. The feathers will also explode in a
+      point-blank <em>Featherlance</em> AoE, so the MT will also want to stay
+      away from the edge.</p>
+    </td>
+	<td>
+    <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04c/suppression_18.jpg">
+  </td>
   </tr>
 </table>
 
