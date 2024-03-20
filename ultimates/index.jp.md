@@ -14,10 +14,14 @@ permalink: /ultimates/jp/
 
 日本DCの中でエレDCしか野良絶をしません。それで、野良のやり方はE言語側からのプレイヤーさんから決まりました。文化差があって、言葉の壁があっても日本コミュニティにももっと野良絶が浸透してほしい！
 
+### 外部ツールについて
+
+これは日本DCと海外DCの文化差があるところ。海外でたまに外部ツールを使うのは普通。**ご自身の責任で利用してください。**
+
 ### レベル70 絶
 
-- [絶バハムート討滅戦](#絶バハムート討滅戦)
-- [絶アルテマウェポン破壊作戦](#絶アルテマウェポン破壊作戦)
+- [絶バハムート討滅戦](ucob/index.jp.md)
+- [絶アルテマウェポン破壊作戦](uwu/index.jp.md)
 
 ### レベル80 絶
 
@@ -27,33 +31,3 @@ permalink: /ultimates/jp/
 
 - [絶・竜詩戦争](dsr/index.jp.md)
 - [絶オメガ検証戦](top/index.jp.md)
-
----
-
-## 絶バハムート討滅戦
-
-- [解説（英語）](ucob/index.en.md)
-
-<details markdown=block>
-<summary>マクロ</summary>
-
-```
-{% include_relative ucob/macros/ucob.jp.txt %}
-```
-
-</details>
-
----
-
-## 絶アルテマウェポン破壊作戦
-
-- [解説（英語）](uwu/index.en.md)
-
-<details markdown=block>
-<summary>マクロ</summary>
-
-```
-{% include_relative uwu/macros/uwu.jp.txt %}
-```
-
-</details>

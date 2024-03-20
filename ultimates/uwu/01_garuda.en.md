@@ -8,8 +8,28 @@ permalink: /ultimates/uwu/01_garuda/
 
 # Garuda
 
-The party begins facing against Garuda. Like the other Primals, Garuda will
-need to be "awakened" in order for the party to make it to Ultima Weapon.
+The party begins facing against Garuda. 
+
+However, the first three phases of UWU have one key mechanic that affects how
+the party will resolve mechanics
+
+---
+
+## Waking the Primals
+
+The defining characteristic of the first three phases (Garuda, Ifrit, Titan) is that each of the bosses must be "woken" by the party.
+
+By executing a mechanic in a particular (generally harder) manner, the boss will get one stack of *Aetherically Charged*.
+
+When a boss gets four stacks of *Aetherically Charged*, they become "Woken", which does the following:
+
+- Certain attacks are changed or modified when the boss is woken.
+- When defeated, a woken boss will leave behind a light puddle that will give 
+  a player a *Beyond Limits* buff when stepped on.
+- When a player with *Beyond Limits* uses an LB3, the buff will be consumed and
+  the LB gauge refilled to LB3.
+- A caster, a healer, and a melee **must** have this buff to clear the 
+  transition to Ultima Weapon.
 
 ---
 
@@ -18,7 +38,7 @@ need to be "awakened" in order for the party to make it to Ultima Weapon.
 *Thermal Low* is a debuff that is applied on a player as a result of certain 
 mechanics:
 
-1. Spiny Plume's tankbuster (Cyclone)
+1. Spiny Plume's tankbuster *(Cyclone)*
 2. Garuda's *Friction*
 
 These stacks are then cleansed in two places:
@@ -33,8 +53,8 @@ raid-wide damage depending on the number of stacks cleansed:
 - If **two** stacks are cleansed, the party takes a lot of damage.
 - If **three** or more stacks are cleansed, the party takes lethal damage.
 
-**Garuda gains a stack of "Aetherically Charged" when a player cleanses at least 
-two stacks of Thermal Low.**
+**Garuda gains a stack of *Aetherically Charged* when a player cleanses at 
+least two stacks of Thermal Low.**
 
 The following mechanics will also change when Garuda is woken:
 
@@ -47,8 +67,8 @@ The following mechanics will also change when Garuda is woken:
   <tr>
     <td>Wicked Wheel</td>
     <td>Point-blank AoE.</td>
-    <td>Point-blank AoE, <b>immediately followed by a donut AoE</b> with no cast 
-    time or telegraph <em>(Wicked Tornado)</em>.</td>
+    <td>Point-blank AoE, <b>immediately followed by a donut AoE</b> with no 
+    cast-time or telegraph <em>(Wicked Tornado)</em>.</td>
   </tr>
   <tr>
     <td>Downburst</td>
