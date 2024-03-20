@@ -147,6 +147,13 @@ The goal is to keep the party's HP low enough that they would die to the opening
 
 ### Method 2: Super-shielding Ultimate Predation
 
-This method involves layering on multiple mitigations on the party (~5 mitigations) and *intentionally* dodging into the cardinal positions in Predation.
+This method involves layering on multiple mitigations on the party, and 
+intentionally dodging *into* the cardinal positions in *Ultimate Predation* to
+get hit by Ifrit's afterburn from *Crimson Cyclone*.
 
-This gets the entire party hit with Ifrit's afterburn, which builds the LB gauge.
+This damage is normally lethal, but because shields and mitigation keep the
+party alive, LB gauge is built.
+
+The afterburn hits for 26k-27k damage, so a minimum of three pieces of
+mitigation and shields are needed to pull this off (H2 30s, a tank 90s,
+and D3 party mitigation).
