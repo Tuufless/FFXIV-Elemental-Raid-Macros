@@ -133,6 +133,7 @@ They will be comfortably back in time for their next use in P2.
 <table>
   <tr>
     <td>
+      <p>Pantokrator</p>
       <p>Condensed Wave #1</p>
       <ul>
         <li><b>P:</b> 50k-67k</li>
@@ -148,6 +149,7 @@ They will be comfortably back in time for their next use in P2.
   </tr>
   <tr>
     <td>
+      <p>Pantokrator</p>
       <p>Condensed Wave #2</p>
       <ul>
         <li><b>P:</b> 50k-67k</li>
@@ -163,6 +165,7 @@ They will be comfortably back in time for their next use in P2.
   </tr>
   <tr>
     <td>
+      <p>Pantokrator</p>
       <p>Condensed Wave #3</p>
       <ul>
         <li><b>P:</b> 50k-67k</li>
@@ -178,6 +181,7 @@ They will be comfortably back in time for their next use in P2.
   </tr>
   <tr>
     <td>
+      <p>Pantokrator</p>
       <p>Condensed Wave #4</p>
       <ul>
         <li><b>P:</b> 50k-67k</li>
@@ -193,7 +197,8 @@ They will be comfortably back in time for their next use in P2.
   </tr>
   <tr>
     <td>
-      <p>Pantokrator (Diffuse Wave Cannon Kyrios)</p>
+      <p>Pantokrator</p>
+      <p>Diffuse Wave Cannon Kyrios</p>
     </td>
     <td>
       <ul>
