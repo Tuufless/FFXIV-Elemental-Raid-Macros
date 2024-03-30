@@ -1418,3 +1418,28 @@ not to use their potions at certain buff windows.
   </tr>
 </table>
 </details>
+
+<details markdown=block>
+<summary>
+  <b>[Wave Cannon 2]</b> D1 is out of range and misses H2's mitigation, 
+  especially when <em>Cosmo Arrow</em> is the "out first" pattern!
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>The H2 120s mitigations have a range of 30 yalms- if <em>Cosmo
+      Arrow</em> is the "out-first" pattern, the other side of the arena
+      (H1 and D1) will be out of range of H2's mitigations.</p>
+      <p>However, since the boss's targeting circle is 24 yalms in diameter,
+      if H2 uses their 120s mitigations when the party dodges <em>in</em> 
+      (putting everyone inside the targeting circle), H2's mitigations will 
+      catch everybody.</p>
+      <p>This is also 14 seconds before the <em>Wave Cannon</em> stack
+      resolves, so both H2 30s and H2 120s can be used here.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/top/06/alpha_omega_3_04a_faq.jpg">
+    </td>
+  </tr>
+</table>
+</details>
