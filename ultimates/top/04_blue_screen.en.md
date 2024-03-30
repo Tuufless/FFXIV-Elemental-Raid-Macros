@@ -200,3 +200,23 @@ AoE from the center.
   </tr>
 </table>
 </details>
+
+<details markdown=block>
+<summary>
+  <b>[Wave Cannon (stacks)]</b> Can a tank solo the stack? How much damage 
+  would it deal?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>The <em>Wave Cannon</em> stack deals approximately 210k damage to a
+      tank taking it solo.</p>
+      <p>This is actually rather tame compared to other tankbusters in the
+      encounter, so <em>some</em> tanks will take the stack North and solo it
+      instead with mitigation, provided the first <em>Solar Ray</em> in P5
+      isn't mitigated (which should be the case for most party
+      compositions).</p>
+    </td>
+  </tr>
+</table>
+</details>
