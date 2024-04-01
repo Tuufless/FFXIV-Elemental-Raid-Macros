@@ -336,6 +336,11 @@ A general kill order should resemble:
 
 Morn Afah's Edge towers will match the Akh Morn's Edge tower groups.
 
+<div style="background-color: #200 ; padding: 10px; border: 1px solid;">
+<b>Note:</b> After the first hit, Morn Afah's Edge will continually hit the
+towers <b>every 3 seconds</b>- if you're not taking the first set, standby near
+your tower, and do not wait to enter when it's your turn!</div>
+
 ---
 
 ## Buff windows
