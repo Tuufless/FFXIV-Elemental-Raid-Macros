@@ -560,14 +560,13 @@ Notably, the mitigations below have been planned *without* taking the healer
     <td>
       <ul>
         <li>3rd + short</li>
-        <li>ST Reprisal, D2, D3</li>
+        <li>ST Reprisal, D1, D3</li>
       </ul>
     </td>
     <td>
       <ul>
         <li>Tank swap MT→ST.</li>
-        <li>Healers should help the tanks, as they cannot use their stronger 
-        mitigations here.</li>
+        <li>Healers should help the tanks, as they cannot use their stronger mitigations here.</li>
       </ul>
     </td>
   </tr>
