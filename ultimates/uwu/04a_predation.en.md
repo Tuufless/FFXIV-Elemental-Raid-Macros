@@ -42,9 +42,9 @@ order to survive the second Ultima cast towards the end of the fight.
 However, because the party's relative damage is much higher now compared to 
 release, it's likely that the party will push *Ultimate Suppression* early.
 
-The problem is that there now isn't enough time to rebuild LB3, leading to an 
-automatic wipe at Ultima #2. Hence, there may be a need to intentionally build 
-LB, especially as the party gets more and more familiar.
+The problem is that there now isn't enough time to rebuild LB3, **leading to an 
+automatic wipe at Ultima #2.** Hence, there may be a need to intentionally
+build LB, especially as the party gets more and more familiar.
 
 LB is built if someone in the party takes lethal damage, but is saved by 
 shields and mitigations.
@@ -64,6 +64,8 @@ party alive, LB gauge is built.
 The afterburn hits for 26k-27k damage, so a minimum of **three pieces of
 mitigation and shields** are needed to pull this off (H2 30s, a tank 90s,
 and D3 party mitigation).
+
+{% include youtube.html id="PxNwUonYP0o" %}
 
 **Advantages:**
 - This cannot be disrupted by healing the party after Ultima #1.
