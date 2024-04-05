@@ -278,6 +278,50 @@ mechanics, which just leaves Garuda and Ultima to manage:
 </table>
 </details>
 
+<details markdown=block>
+<summary><b>[Additional Example] - 1 safe spot</b></summary>
+<table>
+  <tr>
+    <td width="50%">
+      <p><b>1.</b> Ultima Weapon disappears and will reappear with all the 
+      Primals.</p>
+      <p>Identify Garuda, and move to the quadrant diagonally opposite.</p>
+    </td>
+	  <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04a/predation_1_safe_01.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>2.</b> First set of AoEs resolve.</p>
+      <p><em>(Green crosses mark the 4th rune.)</em></p>
+    </td>
+	  <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04a/predation_1_safe_02.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>3.</b> Second set of AoEs resolve. Notice Titan's position
+      eliminates two of the four positions, and Ultima's eliminates one more.</p>
+      <p><em>(Green crosses mark the 4th rune.)</em></p>
+    </td>
+	  <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04a/predation_1_safe_03.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>4.</b> The bosses then disappear, ending the mechanic.</p>
+      <p><em>(Bait and dodge Feather Rains)</em></p>
+    </td>
+	  <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04a/predation_1_safe_04.jpg">
+    </td>
+  </tr>
+</table>
+</details>
+
 ### Building LB at Tank Purge
 
 If the group decides to dodge *Ultimate Predation*, there may be a need to
