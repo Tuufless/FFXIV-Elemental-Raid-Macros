@@ -104,7 +104,7 @@ Beetle Omega｜❶❷：2-marker pairs
 　Cosmo Dive 1：MT Rep, H1 120s, D4
 　Wave Cannon 1：D3 → ST Rep, ST 90s, D2
 　Wave Cannon 2：H2 120s → MT Rep, MT 90s, D1
-　Cosmo Dive 2：ST Rep, D2, D4
+　Cosmo Dive 2：ST Rep, D4
 　Cosmo Meteor：MT Rep, ST 90s, H1 120s, D3
 　　　　　Flares：H2 90s, D2
 　■ Spread
