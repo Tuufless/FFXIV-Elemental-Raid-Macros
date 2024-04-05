@@ -34,83 +34,6 @@ the enrage **forward** in addition to weakness.
 
 ---
 
-## Rebuilding LB3
-
-The party will need to rebuild an LB3 by the end of *Ultimate Suppression* in 
-order to survive the second Ultima cast towards the end of the fight.
-
-However, because the party's relative damage is much higher now compared to 
-release, it's likely that the party will push *Ultimate Suppression* early.
-
-The problem is that there now isn't enough time to rebuild LB3, **leading to an 
-automatic wipe at Ultima #2.** Hence, there may be a need to intentionally
-build LB, especially as the party gets more and more familiar.
-
-LB is built if someone in the party takes lethal damage, but is saved by 
-shields and mitigations.
-
-The following methods take advantage of this by intentionally "killing" the 
-party, but saving them through shields and mitigations.
-
-### Method 1: Mitigating Ultimate Predation
-
-This method involves layering on multiple mitigations on the party, and 
-intentionally dodging *into* the cardinal positions in *Ultimate Predation* to
-get hit by Ifrit's afterburn from *Crimson Cyclone*.
-
-This damage is normally lethal, but because shields and mitigation keep the
-party alive, LB gauge is built.
-
-The afterburn hits for 26k-27k damage, so a minimum of **three pieces of
-mitigation and shields** are needed to pull this off (H2 30s, a tank 90s,
-and D3 party mitigation).
-
-{% include youtube.html id="PxNwUonYP0o" %}
-
-**Advantages:**
-- This cannot be disrupted by healing the party after Ultima #1.
-
-**Disadvantages:**
-- Party mitigations will not be up during the leadup to *Ultimate
-  Annihilation* (particularly Titan's *Tumults*).
-- This requires coordinating party mitigations.
-- If you have a SCH + DRK, the party will need to dodge to the same cardinal to   
-  have everybody under *Sacred Soil*, as a DRK does not have *Dark Missionary*
-  at this level.
-
-### Method 2: Not healing after Ultima
-
-This method involves **not** healing the party after the Tank LB3 that keeps 
-the party alive after the first Ultima.
-
-The goal is to keep the party's HP low enough that they would die to the 
-opening Tank Purge at the start of Ultima Weapon, but shields and mitigations 
-keep them alive.
-
-- Keep the party's HP below 16k (how much damage Tank Purge deals).
-- The lower the party's HP, the more mitigations you will need to survive.
-- Try not to debuff Ultima Weapon (Feint, Addle, Reprisal) if possible. Doing 
-  so **lowers** Ultima Weapon's outgoing damage, which may lead to the party 
-  surviving the raw damage instead (and not build LB as a result).
-
-{% include youtube.html id="ZSXfmoIN2No" %}
-
-**Advantages:**
-- You can dodge *Ultimate Predation*'s AoEs, and have party mitigation
-  available for the sequence leading up to *Ultimate Annihilation*.
-
-**Disadvantages:**
-- A well-intentioned or inexperienced healer will naturally want to top up the
-  party after Ultima #1, effectively ruining this method as we need to keep the
-  party's HP low.
-- While a SCH can use *Adloquium → Deployment Tactics* off a tank (keeping the
-  party's HP low), a SGE cannot, and adding *Zoe* to *Eukrasian Prognosis*
-  also heals the party up *more* in the process!
-
-With that out of the way, we can begin discussing *Ultimate Predation*.
-
----
-
 ## Pre-Predation
 
 Ultima opens with a Tank Purge (raid-wide AoE). During this time, the two tanks
@@ -183,17 +106,23 @@ follow the same rules:
 2. Be away from Titan.
 3. Move away from Ultima.
 
-### Method 1 - Cheesing Predation
+## Method 1 - Cheesing Predation
 
 This is my preferred method, and is actually the Japanese standard strat on Mana
-DC and Gaia DC. However, it's not common in Elemental.
+DC and Gaia DC.
 
-The idea here *isn't* to resolve Predation cleanly- instead, we want to **get 
-the party hit by Ifrit's afterburn with mitigations**, and generate LB gauge as
-a result.
+The idea *isn't* actually to resolve Predation cleanly- instead, we want to
+**get the party hit by Ifrit's afterburn with mitigations**.
 
-This then *guarantees* that the party ends *Ultimate Suppression* with an LB3
-in a consistent manner.
+A minimum of **three pieces of mitigation and shields** are needed to pull this
+off (H2 30s, a tank 90s, and D3 party mitigation).
+
+{% include youtube.html id="PxNwUonYP0o" %}
+
+It might seem odd to do this method, especially as dodging the AoEs normally
+isn't particularly difficult. However, the **real** objective is to
+artificially generate limit break in a consistent manner, which then
+*guarantees* the party will have LB3 available for Ultima #2.
 
 <table>
   <tr>
@@ -249,7 +178,7 @@ in a consistent manner.
   </tr>
 </table>
 
-### Method 2 - Dodging Predation
+## Method 2 - Dodging Predation
 
 The other way to resolve *Ultimate Predation* is to simply dodge all the
 Primal's AoEs.
@@ -309,7 +238,7 @@ mechanics, which just leaves Garuda and Ultima to manage:
 <summary><b>[Additional Example] - 3 safe spots</b></summary>
 <table>
   <tr>
-    <td>
+    <td width="50%">
       <p><b>1.</b> Ultima Weapon disappears and will reappear with all the 
       Primals.</p>
       <p>Identify Garuda, and move to the quadrant diagonally opposite.</p>
@@ -348,3 +277,67 @@ mechanics, which just leaves Garuda and Ultima to manage:
   </tr>
 </table>
 </details>
+
+### Building LB at Tank Purge
+
+If the group decides to dodge *Ultimate Predation*, there may be a need to
+artificially generate LB to avoid reaching Ultima #2 without an LB3.
+
+This method involves **not** healing the party after the Tank LB3 that keeps 
+the party alive after the first Ultima.
+
+{% include youtube.html id="ZSXfmoIN2No" %}
+
+The goal is to keep the party's HP low enough that they would die to the 
+opening Tank Purge at the start of Ultima Weapon, but shields and mitigations 
+keep them alive.
+
+- Keep the party's HP below 15k (how much damage Tank Purge deals).
+- The lower the party's HP, the more mitigations you will need to survive.
+- Try not to debuff Ultima Weapon (Feint, Addle, Reprisal) if possible. Doing 
+  so **lowers** Ultima Weapon's outgoing damage, which may lead to the party 
+  surviving the raw damage instead (and not build LB as a result).
+
+---
+
+## Frequently Asked Questions
+
+<details markdown=block>
+<summary>
+  <b>[Ultimate Predation]</b> Why should we cheese <em>Ultimate Predation</em>
+  instead of just dodging the AoEs normally?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>The party needs to rebuild an LB3 by the end of <em>Ultimate
+      Suppression</em> in order to survive the second <em>Ultima</em> cast
+      towards the end of the fight.</p>
+      <p><em>The Weapon's Refrain (Ultimate)</em> unfortunately hasn't scaled
+      very well over the expansions- players deal much higher damage compared
+      to its release in Patch 4.3, and as a result, it is not uncommon to
+      reach <em>Ultima</em> #2 <em>without</em> an LB3, leading to an immediate
+      wipe, especially because <em>Ultimate Suppression</em> can be triggered
+      early.</p>
+      <p>This leads to a need to artifically generate Limit Break.</p>
+      <p>While you <em>can</em> do so at the first <em>Tank Purge</em>, this
+      method has some problems:</p>
+      <ul>
+        <li>It is easily ruined by a well-intentioned, but ignorant healer that
+        heals the party up after <em>Ultima</em> #1.</li>
+        <li>It's difficult to eyeball whether the current HP and shields are
+        enough to keep the party alive from the <em>Tank Purge</em>. You cannot
+        debuff the boss or risk not generating the limit break you need, and if
+        you are going to spend party mitigations, you may as well mitigate 
+        <em>Crimson Cyclone</em>'s afterburn instead.</li>
+        <li>A SCH can <em>Adloquium → Deployment Tactics</em> off a tank to keep
+        the party's HP low, a SGE cannot (adding <em>Zoe</em> to <em>Eukrasian
+        Prognosis</em> also heals the party up <em>more</em>!)</li>
+      </ul>
+      <p>Thus, as far as consistency goes, simply mitigating the afterburn from
+      <em>Crimson Cyclone</em> is the better approach.</p>
+    </td>
+  </tr>
+</table>
+</details>
+
