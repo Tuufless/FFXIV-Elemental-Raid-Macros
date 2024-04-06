@@ -1556,10 +1556,11 @@ are fairly common, adapt this as needed if H1 is a SCH or SGE.
       <ul>
         <li>H2 30s, H2 120s
           <ul>
-            <li>Use H2 30s when <em>Wave Cannon</em>'s cast starts. This will 
-            be while dodging <em>Cosmo Arrow</em>.</li>
-            <li>The earliest you can use H2 120s is when the first <em>Cosmo
-            Arrow</em> lines resolve.</li>
+            <li>Use your mitigation when <em>Wave Cannon</em>'s cast starts.
+            This will be while dodging <em>Cosmo Arrow</em> sideways to your
+            spread position.</li>
+            <li>H2 120s can be used slightly earlier if you want- the earliest
+            would be when the first <em>Cosmo Arrow</em> lines resolve.</li>
             <li>Some SCH will choose to replace the <em>Expedient</em> here
             with <em>Fey Illumination</em> instead.</li>
           </ul>
