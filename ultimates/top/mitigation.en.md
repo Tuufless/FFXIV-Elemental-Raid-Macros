@@ -1550,8 +1550,9 @@ are fairly common, adapt this as needed if H1 is a SCH or SGE.
       <p>A SCH can summon <em>Seraph</em> when the first baited AoEs appear to
       have <em>Consolation</em> cover both the spread + stack, and be back in 
       time to cover <em>Cosmo Meteor's</em> Flares.</p>
-      <p>It is also common practice to use the H2 90s to cover <em>Wave Cannon</em>
-      #1's spreads, as it will be back in time for <em>Cosmo Meteor</em>.</p>
+      <p>You can use H2 90s to cover either <em>Wave Cannon</em>'s spreads. The
+      latest you can use H2 90s and have it back for <em>Cosmo Meteor</em>
+      would be right after <em>Wave Cannon</em> #1's stack resolves.</p>
       <p><b>Wave Cannon #2</b></p>
       <ul>
         <li>H2 30s, H2 120s
