@@ -20,8 +20,25 @@ Bahamut opens with a Flare Breath into Flatten (and an auto-attack) before start
 
 <table>
   <tr>
-    <td width="50%"><p><b>1.</b> Using the three dragons as North, spread out along the West and East sides of the arena.</p><ul><li><b>MT group:</b> West</li><li><b>ST group:</b> East</li></ul><p>From the dragons, spread in the order:</p><ul><li>Tank > Healer > Melee > Ranged</li></ul></td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/quickmarch_01.jpg"></td>
+    <td width="50%">
+      <p><b>1.</b> Using the three dragons as North, spread out along the West
+      and East sides of the arena.</p>
+      <ul>
+        <li><b>MT group:</b> West</li>
+        <li><b>ST group:</b> East</li>
+      </ul>
+      <p>From the dragons, spread in the order:</p>
+      <ul>
+        <li>Tank > Healer > Melee > Ranged</li>
+      </ul>
+      <p>Note the gap between the middle positions and the top and bottom. It 
+      may be difficult for the tanks (and especially) the ranged to judge the 
+      boundary of the dive. They don't need to be right up against the dive-
+      the healers and melee just need enough space to dodge along the edge.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/quickmarch_01.jpg">
+    </td>
   </tr>
   <tr>
     <td><p><b>2.</b> When Bahamut finishes casting Megaflare Dive, all players move along the edge of the arena to dodge Twisters.</p></td>
