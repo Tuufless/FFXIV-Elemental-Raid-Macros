@@ -335,6 +335,24 @@ However, the Twintania player may be part of the Megaflare group, or the towers 
 ## Frequently Asked Questions
 
 <details markdown=block>
+<summary><b>[Quickmarch Trio]</b> Why do we dodge Twisters by moving along the edge?</summary>
+<table>
+  <tr>
+    <td width="50%">
+      <p>Dodging Twisters this way accomplishes two things:</p>
+      <ul>
+        <li>Keeps the party somewhat spread out to avoid overlapping the
+        (untelegraphed) Megaflare AoEs.</li>
+        <li>Keeps the area around the center of the arena clear from the large
+        (telegraphed) Megaflare AoEs, so the healers have a clear path to move
+        towards the center to AoE heal the DPS stack.</li>
+      </ul>
+    </td>
+  <td><img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/quickmarch_faq.jpg"></td></tr>
+</table>
+</details>
+
+<details markdown=block>
 <summary><b>[Heavensfall Trio]</b> Are there really small gaps between the divebomb AoEs?</summary>
 <table>
   <tr><td width="50%"><p>Yes, there are.</p><p>Don't use them.</p></td>
