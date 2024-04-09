@@ -291,9 +291,10 @@ mechanics at the party to resolve.
   </tr>
   <tr>
     <td>
-      <p><b>12.</b> The shield clone then casts Pile Pitch on the closest
-      player (which should not be the tank that was hit with Beyond Defense)
-      together with <em>Optimised Meteor</em>.</p>
+      <p><b>12.</b> The shield clone then casts <em>Pile Pitch</em> on one of 
+      the two closest players at random (neither of whom should be the tank 
+      that was hit with <em>Beyond Defense</em>) together with <em>Optimised 
+      Meteor</em>.</p>
       <p>This will need to be <em>heavily</em> mitigated.</p>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/02/limitless_synergy_06.jpg"></td>
