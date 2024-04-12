@@ -434,7 +434,7 @@ sources. As such, debuffs are better used on Omega-M/F's autoattacks.
 
 - Because the Tank 90s, D1, and D3 mitigations are being saved for *Run
   Dynamis (Delta Version)*, they *cannot* be used in this phase.
-- Only the healers and D4 will be mitigating this phase (with some support
+- Only the healers will be mitigating this phase (with some support
   from *Reprisal*). Where they are used does not particularly matter, so they
   have *not* been included below.
   - Each healer 120s will last two stacks and two spreads.
@@ -556,8 +556,8 @@ sources. As such, debuffs are better used on Omega-M/F's autoattacks.
 
 There are a number of details when it comes to mitigating this phase:
 
-- How the party handles *Solar Ray* will largely depend on whether a WAR is in
-  the party.
+- How the party handles *Solar Ray* will depend on whether a WAR is in the
+  party.
   - If you have a WAR, then both tanks will be able to use all their personal 
     cooldowns to mitigate *Solar Ray* without additional help.
   - If you do *not* have a WAR, then the tanks will need to alternate who uses
@@ -1967,12 +1967,10 @@ modifications that are available to MCH that are not available to BRD or DNC.
       <p><b>P4. Blue Screen</b></p>
     </td>
     <td>
-      <p>Because D4 isn't responsible for mitigating P5, you are free to use 
-      <em>Addle</em> anywhere in this phase if you give up <em>Addle</em> at 
-      <em>Run Dynamis (Delta Version)</em>.</p>
-      <p>If so, use <em>Addle</em> to mitigate the third <em>Wave Cannon</em> 
-      spread + stack, as the tanks have the first two covered with
-      <em>Reprisal</em>.</p>
+      <p><em>Addle</em> will be on cooldown during this phase.</p>
+      <p>It will be back up for <em>Blue Screen</em>, but there is little 
+      reason to do so when mitigating <em>Run Dynamis (Delta Version)</em>
+      would have greater impact.</p>
     </td>
   </tr>
   <tr>
@@ -1986,8 +1984,9 @@ modifications that are available to MCH that are not available to BRD or DNC.
       Barrier</em>) anywhere in this phase.</p>
       <p>If the party does not have a WAR, <em>Addle</em> is particularly
       helpful at helping the tanks mitigate the <em>Solar Ray</em> before
-      <em>Run Dynamis (Omega Version)</em>. You cannot <em>Addle</em> both, and
-      H2 can use H2 30s for the <em>Solar Ray</em> after.</p>
+      <em>Run Dynamis (Omega Version)</em>, as you cannot <em>Addle</em> both 
+      the <em>Solar Ray</em> before and after, <em>Run Dynamis (Omega 
+      Version)</em>, but H2 can use H2 30s for the one after.</p>
     </td>
   </tr>
   <tr>
