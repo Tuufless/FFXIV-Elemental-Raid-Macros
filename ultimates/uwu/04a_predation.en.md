@@ -115,15 +115,31 @@ DC and Gaia DC.
 The idea *isn't* actually to resolve Predation cleanly- instead, we want to
 **get the party hit by Ifrit's afterburn with mitigations**.
 
-A minimum of **three pieces of mitigation and shields** are needed to pull this
-off (H2 30s, a tank 90s, and D3 party mitigation).
+Observe there are "rune" marks that line the outside of the arena. The party 
+needs to dodge Titan's *Landslide* and Ifrit's first *Crimson Cyclone* dash, 
+but end up **between the outside runes** (basically at a cardinal position) to 
+get hit by the second afterburn from *Crimson Cyclone*.
 
-{% include youtube.html id="PxNwUonYP0o" %}
+![]({{site.baseurl}}/assets/images/ultimates/uwu/04a/between_runes.jpg)
+
+This would ordinarily deal lethal damage to the party, but because the party
+survives the damage with migitations, limit break is generated as a result.
+
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+A minimum of <b>three pieces of mitigation and shields</b> are needed to pull 
+this off (H2 30s, a tank 90s, and D3 party mitigation).
+</div>
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+If Ultima Weapon is on an adjacent intercardinal, be on the side <b>away</b> 
+from Ultima Weapon.
+</div>
 
 It might seem odd to do this method, especially as dodging the AoEs normally
 isn't particularly difficult. However, the **real** objective is to
 artificially generate limit break in a consistent manner, which then
 *guarantees* the party will have LB3 available for Ultima #2.
+
+{% include youtube.html id="PxNwUonYP0o" %}
 
 <table>
   <tr>
