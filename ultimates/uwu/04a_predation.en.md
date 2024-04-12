@@ -25,9 +25,10 @@ its enrage sequence.
 
 Ultima Aether is built:
 
-- When Ultima Weapon performs certain actions.
-- When players get hit by Aetheroplasm (green) orbs.
-- **When a player dies.**
+- When Ultima Weapon performs certain actions. (+2 Aether)
+- When players get hit by Aetheroplasm (green) orbs. (+1 Aether for each player 
+  hit)
+- **When a player dies.** (+4 Aether for each death)
 
 This last point is particularly noteworthy, as player deaths effectively bring
 the enrage **forward** in addition to weakness.
