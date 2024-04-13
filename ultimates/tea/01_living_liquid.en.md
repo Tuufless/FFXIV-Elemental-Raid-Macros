@@ -15,6 +15,34 @@ Notable changes are:
 - The first set of Protean Waves are baited by the MT and both healers, instead of both healers and D3.
 - The DPS positions for the final set of Protean Waves are different.
 
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+<details markdown=block>
+<summary><b>[Click to Expand] Jagd Dolls breakdown</b></summary>
+<p>The Jagd Dolls are adds that have the following mechanics:</p>
+<ul>
+  <li>The Jagd Dolls tether to the first player that performs any action on
+  them (including auto-attacks), and lock onto that player.</li>
+  <li>They periodically pulse with <em>Exhaust</em>, a point-blank AoE that
+  applies a stacking <em>Luminous Aetheroplasm</em> on any player hit.
+  <ul>
+    <li>If any player is hit with two AoEs, they explode and wipe the raid.</li>
+  </ul>
+  </li>
+  <li>The Jagd Dolls <b>cannot</b> be destroyed by damage- they will explode
+  and wipe the raid if they reach 0% HP.
+  <ul>
+    <li>To destroy them, they need to be dragged near either Living Liquid
+    <em>or</em> the Liquid Hand. Doing so will tether them to the boss and 
+    destroy them, dealing raid-wide damage to the party <em>(Reducible
+    Complexity)</em> based on its current HP.</li>
+    <li>The Jagd Doll must be <b>under 25% HP</b>, or the explosion will deal 
+    lethal damage.</li>
+  </ul>
+  </li>
+</ul>
+</details>
+</div>
+
 <table>
   <tr>
     <td width="50%">
