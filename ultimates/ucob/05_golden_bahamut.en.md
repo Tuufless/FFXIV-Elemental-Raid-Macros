@@ -12,8 +12,8 @@ This phase is often nicknamed the "victory lap" because it's the simplest phase
 in the entire fight.
 
 If Bahamut was not previously brought down to below 60% HP, Golden Bahamut will
-start the phase with a 5x damage-up buff *("Bahamut grows mightier still!")* that
-making this phase impossible to clear with a standard party composition.
+start the phase with a 5x damage-up buff *("Bahamut grows mightier still!")* 
+that make this phase impossible to clear with a standard party composition.
 
 The final phase of UCoB consists of three mechanics on a loop:
 
@@ -30,7 +30,8 @@ second iteration.**
 
 ## Mitigations
 
-This phase requires planning out and coordinating mitigations. The recommended base mitigation is:
+This phase requires planning out and coordinating mitigations. The recommended 
+base mitigation is:
 
 <table>
   <tr>
@@ -59,7 +60,8 @@ Some things to consider:
 
 - DRK is the only tank *without* a 90s party mitigation at Level 70.
 - AST has an extra cooldown you can use to help shore up missing mitigation.
-- Golden Bahamut's DPS check is (very) lenient now. Consider Tank LB to help mitigate Morn Afah if anything goes wrong.
+- Golden Bahamut's DPS check is (very) lenient now. Consider Tank LB to help 
+  mitigate Morn Afah if anything goes wrong.
 
 Tanks will also need to plan out their cooldowns for the Akh Morns.
 
@@ -159,10 +161,8 @@ the hard enrage.
 
 <details markdown=block>
 <summary>
-  <b>[General]</b> <em>"If Bahamut was not previously brought down to below 60%
-  HP, Golden Bahamut will start the phase with a 5x damage-up buff...making
-  this phase impossible to clear with a standard party composition."</em> - 
-  does that mean it can be cleared with a non-standard party?</summary>
+  <b>[General]</b> Can Golden Bahamut be cleared with the damage-up buff?
+</summary>
 <table>
   <tr>
     <td>
