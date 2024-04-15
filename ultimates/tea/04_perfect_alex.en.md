@@ -467,11 +467,13 @@ Note that DoTs will continue to tick even after the player has been imprisoned.
   do? Why is it important?</summary>
 <table>
   <tr>
-    <td><p>The Enigma Codex allows players to see their clones in Fate 
-    Calibration α and β.</p><p>Without the Enigma Codex, there is no way to 
-    determine what debuffs players are assigned, or what attacks Perfect 
-    Alexander is going to do, and looks 
-    <a href="https://youtu.be/ojaJmo1UTww">something like this</a>.</p>
+    <td>
+      <p>The Enigma Codex allows players to see their clones in Fate 
+      Calibration α and β.</p>
+      <p>Without the Enigma Codex, there is no way to determine what debuffs 
+      players are assigned, or what attacks Perfect Alexander is going to do, 
+      and looks something like this:</p>
+      {% include youtube.html id="ojaJmo1UTww" %}
     </td>
   </tr>
 </table>
