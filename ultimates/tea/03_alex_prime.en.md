@@ -321,12 +321,32 @@ The party then proceeds onto Perfect Alexander.
   <tr><td><p>The crystals need to be placed in a way such that the True Heart that spawns opposite Alexander hits all four crystals. Then will turn the True Heart gold and give the party the Enigma Codex buff.</p><p>The Enigma Codex buff is necessary in order to clear Perfect Alexander.</p><p>When the True Heart hits a crystal, it deals proximity damage to all players. As a result, we want to place them as far away from the party as we can.</p></td></tr>
 </table>
 </details>
+
 <details markdown=block>
-<summary><b>[Inception]</b> Is Perfect Alexander really impossible without the Enigma Codex? Didn't <a href="https://youtu.be/VG2M2bozu2M">a Chinese group clear without it?</a></summary>
+  <summary><b>[Inception]</b> Is Perfect Alexander really impossible without 
+  the Enigma Codex? Didn't a Chinese group clear without it?</summary>
 <table>
-  <tr><td><p>That group super-shielded Divine Judgment to the point where they didn't need to Tank LB3, which let them cheese Fate Calibration α with a Healer LB3 instead.</p><p>More importantly, the group abused a timing issue with the forced march in Fate Calibration β, where if a player jumped and was mid-air when the mechanic starts, the forced movement time would continue to tick, but the player would not be able to move while they are mid-air and not be marched out of the arena as a result.</p><p><a href="https://na.finalfantasyxiv.com/lodestone/topics/detail/c73cd284013587066d8f9e697fab1db9f007372c/">Patch 6.1</a> fixed this by adding a delay from when players lose control of their character, to when the forced march starts. Now, if you try to jump, this delay will cause the forced march to begin only after your character lands, and you will march the full distance out of the arena.</p></td></tr>
+  <tr>
+    <td>
+      {% include youtube.html id="VG2M2bozu2M" %}
+      <p>That group super-shielded Divine Judgment to the point where they 
+      didn't need to Tank LB3, which let them cheese Fate Calibration α with a 
+      Healer LB3 instead.</p>
+      <p>More importantly, the group abused a timing issue with the forced 
+      march in Fate Calibration β, where if a player jumped and was mid-air 
+      when the mechanic starts, the forced movement time would continue to 
+      tick, but the player would not be able to move while they are mid-air and
+      not be marched out of the arena as a result.</p>
+      <p><a href="https://na.finalfantasyxiv.com/lodestone/topics/detail/c73cd284013587066d8f9e697fab1db9f007372c/">Patch 6.1</a>
+      fixed this by adding a delay from when players lose control of their 
+      character, to when the forced march starts. Now, if you try to jump, this 
+      delay will cause the forced march to begin only after your character 
+      lands, and you will march the full distance out of the arena.</p>
+    </td>
+  </tr>
 </table>
 </details>
+
 <details markdown=block>
 <summary><b>[Enumeration]</b> Why don't we group both tanks with one Enumeration target, and both healers with the other Enumeration target?</summary>
 <table>
