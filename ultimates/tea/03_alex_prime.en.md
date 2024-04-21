@@ -348,6 +348,24 @@ The party then proceeds onto Perfect Alexander.
 </details>
 
 <details markdown=block>
+  <summary><b>[Wormhole Formation]</b> Can either 3 or 4 take the final 
+  Repentace puddle if 1 or 2 are dead?</summary>
+<table>
+  <tr>
+    <td>
+      <p>Cruise Chaser's <em>Alpha Sword</em> applies a <em>Magic Vulnerability 
+      Up</em> debuff that means that 3 and 4 <b>cannot</b> take the final 
+      Repentance puddle in the event 1 or 2 are dead.</p>
+      <p><b>However</b>, although the vulnerability increases damage taken by 
+      roughly 6-7 times, the puddle's damage is low enough that a tank can take 
+      the puddle with a <em>Magic Vulnerability Up</em> debuff without any 
+      mitigation (although something would obviously be nice to have).</p>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
 <summary><b>[Enumeration]</b> Why don't we group both tanks with one Enumeration target, and both healers with the other Enumeration target?</summary>
 <table>
   <tr><td>
