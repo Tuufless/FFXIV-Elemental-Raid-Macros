@@ -161,8 +161,30 @@ Remember that **all odd numbered players must face outside the arena and use Arm
 	<td><img src="{{site.baseurl}}/assets/images/ultimates/tea/03/wormhole_01.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>2.</b> Move to positions.</p><ul><li>The person diagonally opposite Brute Justice (3 or 4) should bait Super Jump <b>in front of the red dot.</b></li><li>The person diagonally opposite Cruise Chaser (3 or 4) should go <b>all the way to the edge</b> to dodge Apocalyptic Ray.</li><li><b>1</b> and <b>2</b> use anti-knockback abilities.</li></ul><p><em>(Notice</em> <b>3</b> <em>is</em> slightly <em>further in because they will be baiting Super Jump in this example.</em> <b>4</b> <em> is all the way at the edge.)</em></p></td>
-	<td><img src="{{site.baseurl}}/assets/images/ultimates/tea/03/wormhole_02.jpg"></td>
+    <td>
+      <p><b>2.</b> Move to positions.</p>
+      <ul>
+        <li>The person diagonally opposite Brute Justice (3 or 4) should bait 
+        Super Jump <b>in front of the red dot.</b></li>
+        <li>The person diagonally opposite Cruise Chaser (3 or 4) should go 
+        <b>all the way to the edge</b> to dodge Apocalyptic Ray.</li>
+        <li><b>1</b> and <b>2</b> use anti-knockback abilities.</li>
+      </ul>
+      <p><em>(Notice</em> <b>3</b> <em>is</em> slightly <em>further in because 
+      they will be baiting Super Jump in this example.</em> <b>4</b> <em> is 
+      all the way at the edge.)</em></p>
+      <p>Two Void puddles will also spawn slightly offset from the East
+      and West. These need to be soaked three times, by specific players.</p>
+      <ul>
+        <li><b>1st soak:</b> 5 + 6</li>
+        <li><b>2nd soak:</b> 7 + 8</li>
+        <li><b>3rd soak:</b> 1 + 2</li>
+      </ul>
+      <p>Each time a player takes the puddle, the puddle gets smaller.</p>
+    </td>
+	  <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/tea/03/wormhole_02.jpg">
+    </td>
   </tr>
   <tr>
     <td><p><b>3. </b>Chakrams fly. Brute Justice Super Jumps on the furthest player.</p><p>Cruise Chaser cleaves <b>1</b>.</p><p>The player that originally started in front of Brute Justice (either <b>1</b> or <b>2</b>) stays on the red dot until Apocalyptic Ray comes out. </p></td>
@@ -349,13 +371,13 @@ The party then proceeds onto Perfect Alexander.
 
 <details markdown=block>
   <summary><b>[Wormhole Formation]</b> Can either 3 or 4 take the final 
-  Repentace puddle if 1 or 2 are dead?</summary>
+  Void puddle if 1 or 2 are dead?</summary>
 <table>
   <tr>
     <td>
       <p>Cruise Chaser's <em>Alpha Sword</em> applies a <em>Magic Vulnerability 
       Up</em> debuff that means that 3 and 4 <b>cannot</b> take the final 
-      Repentance puddle in the event 1 or 2 are dead.</p>
+      Void puddle in the event 1 or 2 are dead.</p>
       <p><b>However</b>, although the vulnerability increases damage taken by 
       roughly 6-7 times, the puddle's damage is low enough that a tank can take 
       the puddle with a <em>Magic Vulnerability Up</em> debuff without any 
