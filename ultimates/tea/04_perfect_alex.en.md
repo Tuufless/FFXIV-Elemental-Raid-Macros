@@ -98,10 +98,10 @@ While the Forced March timers tick down, Perfect Alexander will then cast
 </div>
 
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
-<p><b>Tip:</b>: If you are unable to make it all the way to your position and 
+<b>Tip:</b>: If you are unable to make it all the way to your position and 
 <em>Ordained Stillness</em> is cast first, <b>resolve Stillness first</b>. 
 There will be a little bit of time before the Forced March starts for you to 
-finish getting into position.</p></div>
+finish getting into position.</div>
 
 After the Forced March, Perfect Alexander will then use the opposite *Ordained 
 Stillness* or *Ordained Motion*, whichever was not done first.
@@ -127,6 +127,10 @@ random order.
     </td>
   </tr>
 </table>
+
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+<b>Tip:</b>: Use whatever mitigation you have for the stacks. You won't need it 
+in the near future, and it will allow you to survive a 6-2 split.</div>
 
 ---
 
