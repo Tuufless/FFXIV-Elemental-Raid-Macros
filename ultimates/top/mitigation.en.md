@@ -657,6 +657,8 @@ There are a number of details when it comes to mitigating this phase:
           <ul>
             <li><b>MT:</b> Rampart + 3rd + short</li>
             <li><b>ST:</b> 30% + Rampart + short</li>
+            <li>Use <em>Rampart</em> when the arm beams fire at the end of 
+            <em>Run Dynamis (Sigma Version)</em>.</li>
           </ul>
         </li>
         <li>MT Reprisal</li>
@@ -1005,7 +1007,12 @@ however, there are still some points worth mentioning.
           <ol>
             <li>Hallowed Ground > Superbolide</li>
             <li>Superbolide > Living Dead</li>
-            <li>Reprisal, Rampart, 3rd, short + swap</li>
+            <li>Reprisal, Rampart, 3rd, short + swap
+              <ul>
+                <li>Use <em>Rampart</em> when the arm beams fire at the end of 
+                <em>Run Dynamis (Sigma Version)</em>.</li>
+              </ul>
+            </li>
             <li>Reprisal, 30%, Rampart, short + swap</li>
           </ol>
         </li>
@@ -1179,7 +1186,12 @@ however, there are still some points worth mentioning.
           <ol>
             <li>Hallowed Ground > Superbolide</li>
             <li>Superbolide > Living Dead</li>
-            <li>Reprisal, 30%, Rampart, short + swap</li>
+            <li>Reprisal, 30%, Rampart, short + swap
+              <ul>
+                <li>Use <em>Rampart</em> when the arm beams fire at the end of 
+                <em>Run Dynamis (Sigma Version)</em>.</li>
+              </ul>
+            </li>
             <li>Reprisal, Rampart, 3rd, short + swap</li>
           </ol>
         </li>
