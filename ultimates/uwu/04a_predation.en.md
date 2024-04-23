@@ -120,18 +120,17 @@ needs to dodge Titan's *Landslide* and Ifrit's first *Crimson Cyclone* dash,
 but end up **between the outside runes** (basically at a cardinal position) to 
 get hit by the second afterburn from *Crimson Cyclone*.
 
+(If Ultima Weapon is on an adjacent intercardinal, be on the half **away** 
+from Ultima Weapon.)
+
 ![]({{site.baseurl}}/assets/images/ultimates/uwu/04a/between_runes.jpg)
 
 This would ordinarily deal lethal damage to the party, but because the party
 survives the damage with migitations, limit break is generated as a result.
 
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
-A minimum of <b>three pieces of mitigation and shields</b> are needed to pull 
-this off (H2 30s, a tank 90s, and D3 party mitigation).
-</div>
-<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
-If Ultima Weapon is on an adjacent intercardinal, be on the side <b>away</b> 
-from Ultima Weapon.
+The party needs <b>shields <em>and</em> three additional pieces of mitigation</b>
+(H2 30s, a tank 90s, and D3) to survive the afterburn.
 </div>
 
 It might seem odd to do this method, especially as dodging the AoEs normally
