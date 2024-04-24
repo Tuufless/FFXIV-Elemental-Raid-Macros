@@ -657,8 +657,6 @@ There are a number of details when it comes to mitigating this phase:
           <ul>
             <li><b>MT:</b> Rampart + 3rd + short</li>
             <li><b>ST:</b> 30% + Rampart + short</li>
-            <li>Use <em>Rampart</em> when the arm beams fire at the end of 
-            <em>Run Dynamis (Sigma Version)</em>.</li>
           </ul>
         </li>
         <li>MT Reprisal</li>
