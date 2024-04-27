@@ -370,7 +370,7 @@ the hard enrage.
 
 <details markdown=block>
 <summary>
-  <b>[Limitless Synergy]</b> As a tank, how far should I stretch the tethers to
+  <b>[Limitless Synergy]</b> How far should the tethers be stretched to
   maximise the width of the safe corridor?
 </summary>
 <table>
@@ -379,25 +379,21 @@ the hard enrage.
       <p>Short answer: the tanks should aim to stretch the tethers <b>five tick 
       marks</b> from the clones.</p>
       <p>Long answer: We want to point the conal cleaves as far outwards as we
-      can without going outside the arena. This means that we want the tether
-      to be tangent to the arena's circumference, which creates a right-angled
+      can without going outside the arena. In other words, we want the tether
+      to be tangent to the arena's circumference, creating a right-angled
       triangle with the center of the arena, and where the clones spawn.</p>
-      <p>Notably:</p>
+      <p>From there:</p>
       <ul>
         <li>The arena has a radius of 20 yalms.</li>
         <li>The clones spawn 22 yalms away from the center (outside the arena).</li>
       </ul>
-      <p>We can then use basic trigonometry to get cos(θ) = 20/22, so θ = 24.62 
-      degrees.</p>
+      <p>Trigonometry then gets us cos(θ) = 20/22, so θ = 24.62 degrees.</p>
       <p>Each tick mark on the outside of the arena corresponds to 5 degrees,
       so we want the tanks to pull the tethers <b>5 tick marks</b> to maximise 
       the safe zone for the party to dodge to (particularly helpful for
       "cursed" patterns).</p>
-      <p>Of course, the tanks cannot go <em>all</em> the way to the edge of the
-      arena. To that, since cos(θ) = 20/22 < π/2, so as the tanks get closer to 
-      the center, cos(θ) decreases and θ has to <em>increase</em> in order to
-      maintain a right-angled triangle (pull the tether roughly one extra tick 
-      mark clockwise for each yalm you are closer to the center).</p>
+      <p>Done correctly, there should still be some space between Omega-M's 
+      targeting circle, and the cleaves.</p>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/02/limitless_synergy_faq.jpg"></td>
   </tr>
