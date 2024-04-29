@@ -16,7 +16,8 @@ permalink: /ultimates/top/02_omega_mf/
       <p>The party will get two GCDs before Omega M and F cast <em>Firewall</em>,
       which applies a debuff on the four closest players. Those players will
       only be able to attack that target.</p>
-      <p>Stay near to your assigned boss to ensure you get the correct debuff.</p>
+      <p>Stay near to your assigned boss, and away from the center of the arena
+      to ensure you get the correct debuff.</p>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/02/omega_mf_01.jpg"></td>
   </tr>
@@ -396,6 +397,31 @@ the hard enrage.
       targeting circle, and the cleaves.</p>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/02/limitless_synergy_faq.jpg"></td>
+  </tr>
+</table>
+</details>
+
+---
+
+## Troubleshooting
+
+<details markdown=block>
+<summary>
+  <b>[Firewall]</b> Why did someone get the wrong debuff?
+</summary>
+<table>
+  <tr>
+    <td width="50%">
+      <p>Check that all party members are both properly on the side of their
+      target <em>and</em> not too far away.</p>
+      <p>In particular:</p>
+      <ul>
+        <li>Check that a melee isn't in the center of the arena (like D2 in the diagram on the right- they are too close to Omega-M).</li>
+        <li>Check that a ranged or healer isn't too far from their boss (like
+        D3 in the diagram on the right- they are too far from Omega-M).</li>
+      </ul>
+    </td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/02/firewall_faq.jpg"></td>
   </tr>
 </table>
 </details>
