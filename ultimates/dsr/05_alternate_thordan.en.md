@@ -150,6 +150,10 @@ Heavens*.
 My preferred strat is an upside-down version of the "Komazou" strat, which
 splits the Dooms 2-2.
 
+One important detail to note here is that the Playstation symbols are not
+completely random- the circles are baited by the two Doomed players that are
+the furthest apart from each other.
+
 <table>
   <tr>
     <td width="50%">
@@ -211,8 +215,8 @@ splits the Dooms 2-2.
       <p><b>5.</b> Take up positions to prepare for the Playstation markers.</p>
       <p><b>Doomed players:</b></p>
       <ul>
-        <li>The east/west Doomed players will bait the circle marks by being
-        the two Doomed players furthest from one another.</li>
+        <li><b>The east/west Doomed players will bait the circle marks by 
+        being the two Doomed players furthest from one another.</b></li>
         <li>The two other Doomed players take up position towards SW and SE.</li>
       </ul>
       <p><b>Non-Doomed players:</b></p>
@@ -229,7 +233,7 @@ splits the Dooms 2-2.
       <ul>
         <li>After baiting circles, the two circle players move towards the
         center.</li>
-        <li>The two other Doomed players do not move from their position.</li>
+        <li>The two other Doomed players <b>do not move from their position</b>.</li>
       </ul>
       <p><b>Non-Doomed players:</b></p>
       <ul>
