@@ -450,6 +450,26 @@ are:
 
 <details markdown=block>
 <summary>
+  <b>[Gigaflare's Edge]</b> Is <em>Gigaflare's Edge</em> really a point-blank 
+  AoE, or is it proximity-based damage?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p><em>Gigaflare's Edge</em> is actually proximity-based, but the 
+      falloff is very steep, making it act like an AoE.</p>
+      <p>Here's a graph plotting the damage vs distance (in centiyalms).</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/dsr/07/gigaflare_faq.jpg">
+      <em>(Credit: radrauser)</em>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
   <b>[Mitigation]</b> Is there a reason D2 is paired with D4? What happens with
   double caster parties? Wouldn't that overlap Addles?
 </summary>

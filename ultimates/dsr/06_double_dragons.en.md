@@ -1076,10 +1076,16 @@ You will need about six pieces of party mitigation to survive *Alternative End*.
   <tr>
     <td>
       <p><b>Both</b> dragon's damage are based on proximity, even if you are
-      not actually tethered to them.</p><p>You can think of the tethers as just
-      directing where the breaths will go; the colour change is a proximity
-      indicator of that particular player-dragon pair, but you still have to
-      worry about proximity to the other dragon.</p>
+      not actually tethered to them.</p>
+      <p>You can think of the tethers as just directing where the breaths will 
+      go; the colour change is a proximity indicator of that particular 
+      player-dragon pair, but you still have to worry about proximity to the 
+      other dragon.</p>
+      <p>Here is a graph plotting damage vs distance (in centiyalms).</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/wyrmsbreath_faq.jpg">
+      <em>(Credit: radrauser)</em>
     </td>
   </tr>
 </table>
