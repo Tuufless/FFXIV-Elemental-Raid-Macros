@@ -470,8 +470,7 @@ third Akh Morn.
       <p><b>6.</b> Spreads will go towards Nidhogg (west), stacks will go
       towards Hraesvelgr (east).</p>
       <p>A general priority order would resemble:</p>
-      <p style="text-align:center">(Center) Tanks > Healers > Ranged > Melee
-      (Edge)</p>
+      <p style="text-align:center">(Center) MT ST H1 H2 D1 D2 D3 D4 (Edge)</p>
       <p>There is enough space for two "spreads" to stand side-by-side if they
       are on the sides of the safe zone.</p>
     </td>
