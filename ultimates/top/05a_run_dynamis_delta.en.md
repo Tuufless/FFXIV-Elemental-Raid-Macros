@@ -367,11 +367,11 @@ and Hello, Distant World.
   </tr>
 </table>
 </details>
+
 <details markdown=block>
 <summary>
-  <b>[Solar Ray]</b> If we don't have a WAR, why aren't we alternating between
-  invulning and mitigating Solar Ray? <em>(Alternatively, why spend Living Dead
-  on the second Solar Ray instead of the third?)</em> Wouldn't that be easier?
+  <b>[Solar Ray]</b> If we don't have a WAR, why don't we alternate between
+  invulning and mitigating <em>Solar Ray</em>? Wouldn't that be easier?
 </summary>
 <table>
   <tr>
@@ -382,7 +382,7 @@ and Hello, Distant World.
       <p>First, only two tanks can invuln the Solar Ray before Run: Dynamis
       (Omega) and have their invuln back in P6- DRK and WAR, so if your party
       is PLD + GNB, you're out of luck and have to invuln the first two Solar
-      Rays.</p>
+      Rays in P5 to invuln anything in P6.</p>
       <p>This means we are left with DRK + (PLD/GNB), and we have to make a
       choice whether the Living Dead the second Solar Ray (before Sigma), or
       the third Solar Ray (before Omega).</p>
@@ -427,6 +427,7 @@ and Hello, Distant World.
   </tr>
 </table>
 </details>
+
 <details markdown=block>
 <summary>
   <b>[Solar Ray]</b> If we have DRK + WAR, why do we use Living Dead at the
@@ -439,6 +440,7 @@ and Hello, Distant World.
   buttons for the DRK to press during the burst window.</p></td></tr>
 </table>
 </details> 
+
 <details markdown=block>
 <summary>
   <b>[Delta (Awk)]</b> Is there a reason why blue tethers go opposite
@@ -456,6 +458,7 @@ and Hello, Distant World.
   </tr>
 </table>
 </details>
+
 <details markdown=block>
 <summary>
   <b>[Hello, World]</b> Can Hello, World jump back to the original player?
