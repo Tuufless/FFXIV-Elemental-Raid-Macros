@@ -112,6 +112,9 @@ AoE from the center.
     <td>
       <p><b>7.</b> Wave Cannon stacks resolve.</p>
       <p>Return to your original positions.</p>
+      <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+        <b>Tip:</b> You can cut through the boss to get back to your position.
+      </div>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/04/blue_screen_2_4.jpg"></td>
   </tr>
