@@ -143,10 +143,12 @@ This is Ifrit's major mechanic, and where we will wake Ifrit.
       <p>When a Nail is destroyed, the party will take raid-wide damage, and 
       momentality take extra damage, so be sure to give time to recover some HP 
       in between.</p>
-      <p>One <b>random DPS</b> will also be chained to the ST with <em>Infernal
-      Fetters</em>. This chain applies a DoT, lowers damage dealt by the
-      chained players, and increases damage taken by the chained players as the
-      chain gets longer, although this effect is largely negligible.</p>
+      <p>One <b>random DPS</b> will also be chained to whoever is second in 
+      aggro with <em>Infernal Fetters</em>. This chain applies a DoT, lowers 
+      damage dealt by the chained players, and increases damage taken by the 
+      chained players.</p>
+      <p>These effects increase as the chain gets longer, although it's 
+      effectively negligible.</p>
       <p><b>Remember where the fourth Nail is, as this will be the starting
       position for dodging Ifrit's dashes later.</b></p>
     </td>
