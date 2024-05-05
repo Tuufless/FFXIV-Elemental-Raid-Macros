@@ -122,6 +122,48 @@ The following markers are for Papan's Caloric Theory 1 strat.
 
 ## Classical Concepts
 
+The first part of both *Classical Concepts* will be determining where you 
+stand.
+
+A bunch of shapes will appear on the arena. When the mechanic resolves, each
+blue icosahedron will tether to an adjacent red pyramid and an adjacent yellow
+cube.
+
+If two shapes tether together, the raid wipes. The objective is to have all
+eight party members block the shapes from tethering together by standing in
+between the shapes.
+
+<table>
+  <tr>
+    <td width="50%">
+      <p>Each column will have one blue icosahedron.</p>
+      <p>Identify your column's blue icosahedron based on your Playstation
+      marker:</p>
+      <ul>
+        <li>〇: 1st column</li>
+        <li>×: 2nd column</li>
+        <li>▽: 3rd column</li>
+        <li>□: 4th column</li>
+      </ul>
+      <p>Then, stand between your column's blue icosahedron and an adjacent
+      shape based on your α or β debuff:</p>
+      <ul>
+        <li>α: Stand between the blue icosahedron and the <b>red pyramid</b>.</li>
+        <li>β: Stand between the blue icosahedron and the <b>yellow cube</b>.</li>
+      </ul>
+      <p>If your blue icosahedron has two adjacent shapes of the same type, 
+      stand between the one that <b>does not have another blue icosahedron next
+      to it.</b></p>
+    </td>
+    <td><img src="images/classical_concepts_01a.jpg"></td>
+  </tr>
+</table>
+
+Classical Concepts #2 adds a *Panta Rhei* just before the mechanics resolve,
+which rotates all the shapes around 180 degrees. Players will first determine
+where they stand before the rotation happens, before moving to their positions
+post-rotation.
+
 There is a site built for Classical Concepts that you can use for practice:
 
 [https://idea-elemental.pages.dev/](https://idea-elemental.pages.dev/)
@@ -147,7 +189,7 @@ The most common way to bait the rays is:
     <td><img src="images/classical_concepts_01.jpg"></td>
   </tr>
   <tr>
-    <td width="50%">
+    <td>
       <p><b>Palladian Ray #2</b></p>
       <p>Players will bait the Palladian Rays <em>between the shapes</em> in
       this formation (which will looks like the letter 'X') first, <em>then</em>
