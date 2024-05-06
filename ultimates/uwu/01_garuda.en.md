@@ -31,6 +31,14 @@ When a boss gets four stacks of *Aetherically Charged*, they become "Woken", whi
 - A caster, a healer, and a melee **must** have this buff to clear the 
   transition to Ultima Weapon.
 
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+  <p><b>Tip:</b> Correctly waking up the three primals and getting the 
+  <em>Beyond Limits</em> buff is only relevant <em>after</em> Titan.</p>
+  <p>If you are still progging the first three phases and miss waking a
+  primal, don't worry about it and continue trying to progress through the 
+  encounter.</p>
+</div>
+
 ---
 
 ## Waking Garuda

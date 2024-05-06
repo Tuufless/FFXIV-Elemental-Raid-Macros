@@ -99,18 +99,3 @@ The various phases can be broken down as follows:
 ```
 
 </details>
-
----
-
-## Waking the Primals
-
-The defining characteristic of the first three phases (Garuda, Ifrit, Titan) is that each of the bosses must be "woken" by the party.
-
-By executing a mechanic in a particular (generally harder) manner, the boss will get one stack of "Aetherically Charged".
-
-When a boss gets four stacks of "Aetherically Charged", they become "Woken", which does the following:
-
-* Certain attacks are changed or modified when the boss is woken.
-* When defeated, a woken boss will leave behind a light puddle that will give a player a "Beyond Limits" buff when stepped on.
-* When a player with "Beyond Limits" uses an LB3, the buff will be consumed and the LB gauge refilled to LB3.
-* A caster, a healer, and a melee **must** have this buff to clear the transition to Ultima Weapon.
