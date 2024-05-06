@@ -350,7 +350,7 @@ are:
 
 <table>
   <tr>
-    <td><b>First buff window + potions</b></td>
+    <td><b>First buff window</b></td>
     <td>After Gigaflare's Edge #1</td>
   </tr>
   <tr>
@@ -358,6 +358,8 @@ are:
     <td>During Akh Morn's Edge #3</td>
   </tr>
 </table>
+
+Potions can be used at either burst window.
 
 ---
 
@@ -482,6 +484,31 @@ are:
     second caster knows where not to Addle (regardless of whether they're D2 or
     D1).</p>
     <p>The same reasoning applies to double-ranged parties.</p>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
+  <b>[Burst windows]</b> Why is the first burst window after <em>Gigaflare's
+  Edge</em> #1, instead of the P7 opener?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>P7 lasts about 3:45 in total, so there's no way to fit in a 
+      third 2-minute burst window, even if a reopener was used at the start.</p>
+      <p>In addition:</p>
+      <ul>
+        <li>Some players may have opted to use their burst at the end of P6, 
+        after <em>Touchdown</em>.</li>
+        <li>Both dragons can also be downed immediately after <em>Touchdown</em> 
+        if the party's DPS is high.</li>
+      </ul>
+      <p>In either scenario, the 2-minute burst abilities may not necessarily be
+      available at P7's opener, so setting the first burst after <em>Gigaflare's
+      Edge</em> #1 guarantees everyone has their burst abilities ready.</p>
     </td>
   </tr>
 </table>
