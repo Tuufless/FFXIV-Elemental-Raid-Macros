@@ -97,14 +97,41 @@ The FFO strat is Inumaru's strat with two adjustments:
 ## Frequently Asked Questions
 
 <details markdown=block>
-<summary><b>[Damage Down]</b> How strong is the damage down debuff in this fight?</summary>
+<summary><b>[Damage Down]</b> How strong is the damage down debuff in this 
+fight?</summary>
 <table>
-  <tr><td><p>The Damage Down debuff in this phase lowers a player's damage by <b>31%</b>.</p></td></tr>
+  <tr>
+    <td>
+      <p>The Damage Down debuff in this phase lowers a player's damage by 
+      <b>31%</b>.</p>
+    </td>
+  </tr>
 </table>
 </details>
+
 <details markdown=block>
-<summary><b>[Soul Grasp]</b> Can you tank swap to change which tank gets the stack damage midway?</summary>
+<summary><b>[Soul Grasp]</b> Can you tank swap to change which tank gets the 
+stack damage midway?</summary>
 <table>
-  <tr><td><p>No- the initially targeted tank will get all the stacks (unless they die), even if hate transfers in between.</p></td></tr>
+  <tr>
+    <td>
+      <p>No- the initially targeted tank will get all the stacks (unless they 
+      die), even if hate transfers in between.</p>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary><b>[Harrowing Hell]</b> Is damage based on proximity?</summary>
+<table>
+  <tr>
+    <td>
+      <p>No- the two front players will take the most damage (the tanks), but
+      other than that, it doesn't matter where the other six players stand.</p>
+      <p>Standing towards the back of the arena does <em>not</em> lower the
+      damage you take.</p>
+    </td>
+  </tr>
 </table>
 </details>
