@@ -379,7 +379,7 @@ next phase.
 </summary>
 <table>
   <tr>
-    <td>
+    <td width="50%">
       <p>They were simply too close to each other.</p>
       <p><em>Heavensflame</em> damage radius is 10 yalms, which is 
       <em>larger</em> than the visual effects suggest.</p>
