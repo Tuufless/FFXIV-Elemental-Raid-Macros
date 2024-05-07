@@ -49,17 +49,44 @@ In addition, the `AB` markers are for the party to stack at during Black Hole, w
 ```
 </details>
 
+## Meteors
+
+The Meteors spawn in one of three possible arrangements.
+
+Here's how you can drop both sets of meteors/tethers, depending on which side
+goes first.
+
+![](images/meteors.jpg)
+*(Credit: radrauser)*
+
 ## Frequently Asked Questions
 
 <details markdown=block>
 <summary><b>[Meteors]</b> Can you jump off the edge to remove a tether?</summary>
 <table>
-  <tr><td><p>Alas, no- once the tethers come out, they persist through death.</p><p>You'll respawn at the start point, where the southern meteor is, still tethered, and wipe the raid.</p></td></tr>
+  <tr>
+    <td>
+      <p>Alas, no- once the tethers come out, they persist through death.</p>
+      <p>You'll respawn at the start point, where the southern meteor is, still
+      tethered, and wipe the raid.</p>
+    </td>
+  </tr>
 </table>
 </details>
+
 <details markdown=block>
 <summary><b>[Meteors]</b> Can a tank invuln the tethers and not stretch their tether instead?</summary>
 <table>
-  <tr><td><p>Alas, no- the damage from the tethers ignores invulnerability.</p><p>With some help from the party, an unstretched tether <em>can</em> be super-mitigated- it will hit a tank for about 300% of their max HP (remember there are Max HP down debuffs at the time!).</p></td></tr>
+  <tr>
+    <td>
+      <p>Alas, no- the damage from the tethers ignores invulnerability.</p>
+      <p>With some help from the party, an unstretched tether <em>can</em> be
+      super-mitigated- it will hit a tank for about 300% of their max HP 
+      (remember there are Max HP down debuffs at the time!).</p>
+      <p>Unlike other proximity-based damage checks, the tethers do 
+      <em>not</em> have a linear falloff, and are instead a binary pass/fail
+      check.</p>
+    </td>
+  </tr>
 </table>
 </details>
