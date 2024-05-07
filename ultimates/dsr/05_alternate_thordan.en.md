@@ -307,6 +307,7 @@ next phase.
   <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/05/doth_debuffs.jpg"></td></tr>
 </table>
 </details>
+
 <details markdown=block>
 <summary>
   <b>[Death of the Heavens]</b> Is there a particular reason why Dooms go North
@@ -324,6 +325,7 @@ next phase.
   </tr>
 </table>
 </details>
+
 <details markdown=block>
 <summary>
   <b>[Meteors]</b> Why caster LB2 instead of ranged LB2?
@@ -337,6 +339,7 @@ next phase.
   </tr>
 </table>
 </details>
+
 <details markdown=block>
 <summary>
   <b>[Thordan]</b> What happens if you kill Thordan in this phase?
@@ -362,6 +365,27 @@ next phase.
       </blockquote>
       <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     </td>
+  </tr>
+</table>
+</details>
+
+---
+
+## Troubleshooting
+
+<details markdown=block>
+<summary>
+  <b>[Death of the Heavens]</b> How did two players clip their <em>Heavensflame</em> AoE despite getting knocked back correctly?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>They were simply too close to each other.</p>
+      <p><em>Heavensflame</em> damage radius is 10 yalms, which is 
+      <em>larger</em> than the visual effects suggest.</p>
+      <p>The AoE size on the diagram is accurate.</p>
+    </td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/05/death_of_the_heavens_08.jpg"></td>
   </tr>
 </table>
 </details>
