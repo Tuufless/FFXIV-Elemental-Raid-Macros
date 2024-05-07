@@ -92,8 +92,8 @@ Run: Dynamis (Sigma Version) can be broken down into three parts:
   <tr>
     <td>
       <p><b>4.</b> Lasers and Wave Cannons resolve.</p>
-      <p><b>Note which waymark you are standing besides for the next
-      section.</b></p>
+      <p><b>Note which waymark you are standing beside to prepare for the 
+      upcoming towers.</b></p>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/05b/run_dynamis_sigma_04.jpg"></td>
   </tr>
@@ -119,7 +119,8 @@ standing at at the end of the previous section.
       </ul>
       <p>The towers will spawn in a fixed formation, oriented either to where
       Omega-M was standing before, or directly opposite.</p>
-      <p><b>Identify your tower.</b></p>
+      <p><b>Identify your tower based on the waymark you were standing 
+      beside at the end of the previous section.</b></p>
     </td>
   </tr>
   <tr>
