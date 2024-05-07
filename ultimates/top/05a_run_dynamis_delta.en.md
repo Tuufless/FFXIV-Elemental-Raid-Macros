@@ -30,7 +30,9 @@ the final phase with 3 stacks of Dynamis**.
 <summary><b>[Click to Expand] Hello, World explanation</b></summary>
 <table>
   <tr>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/05a/debuffs/hello_near_world.png"></td>
+    <td style="text-align:center">
+      <img src="{{site.baseurl}}/assets/images/ultimates/top/05a/debuffs/hello_near_world.png">
+    </td>
     <td>
       <p><b>Hello, Near World</b></p>
       <ol>
@@ -46,7 +48,9 @@ the final phase with 3 stacks of Dynamis**.
       <p><img src="{{site.baseurl}}/assets/images/ultimates/top/05a/hello_near_world.jpg"></p></td>
   </tr>
   <tr>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/05a/debuffs/hello_distant_world.png"></td>
+    <td style="text-align:center">
+      <img src="{{site.baseurl}}/assets/images/ultimates/top/05a/debuffs/hello_distant_world.png">
+    </td>
     <td><p><b>Hello, Distant World</b></p>
     <ol>
         <li>A large AoE centered on the player with Hello, Distant World goes
