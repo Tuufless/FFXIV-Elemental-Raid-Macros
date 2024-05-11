@@ -47,7 +47,7 @@ Here are some clear PoVs that I've been collecting.
 - [H2 PoV (SGE)](https://youtube.com/live/wklF6mteicY)
 - [D1 PoV (SAM)](https://youtube.com/live/_zxDr1mJLbo)
 - [D2 PoV (NIN)](https://youtube.com/live/IWayItot1o8)
-- [D3 PoV (BRD)](https://youtube.com/live/mtfT3oWXe3Y)
+- [D3 PoV (BRD)](https://youtube.com/live/r-a6z9Ys4OU)
 - [D4 PoV (BLM)](https://youtube.com/live/bB3v9ev093I)
 
 ---

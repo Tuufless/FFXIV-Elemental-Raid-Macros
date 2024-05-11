@@ -49,7 +49,7 @@ Elemental DCの野良絶オメガのやり方は以下に要約する。
 - [H2視点 (賢)](https://youtube.com/live/wklF6mteicY)
 - [D1視点 (侍)](https://youtube.com/live/_zxDr1mJLbo)
 - [D2視点 (忍)](https://youtube.com/live/IWayItot1o8)
-- [D3視点 (詩)](https://youtube.com/live/mtfT3oWXe3Y)
+- [D3視点 (詩)](https://youtube.com/live/r-a6z9Ys4OU)
 - [D4視点 (黒)](https://youtube.com/live/bB3v9ev093I)
 
 ---
