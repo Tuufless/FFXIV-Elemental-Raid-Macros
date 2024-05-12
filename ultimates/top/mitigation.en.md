@@ -861,7 +861,14 @@ however, there are still some points worth mentioning.
         <li>ST Reprisal, H2 30s, D4</li>
       </ul>
     </td>
-    <td></td>
+    <td>
+      <ul>
+        <li>If H2 uses their 30s mitigations when the fourth Exaflare telegraphs
+        appear (when the party turns left or right when baiting AoEs), it will 
+        cover the <em>Cosmo Dive</em> and be back in time for <em>Cosmo 
+        Meteor</em>.</li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td>
@@ -876,7 +883,14 @@ however, there are still some points worth mentioning.
         <li>MT Reprisal, ST 90s, H1 120s, H2 30s, D3</li>
       </ul>
     </td>
-    <td></td>
+    <td>
+      <ul>
+        <li>Depending on when H2 used their 30s mitigation, H2 30s may not be
+        available for the first set of <em>Cosmo Meteor</em>. This is still
+        okay even if the ST is a WAR or PLD, as their 90s will cover the first
+        wave, and H2 30s will be back for the second wave.</li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td>
