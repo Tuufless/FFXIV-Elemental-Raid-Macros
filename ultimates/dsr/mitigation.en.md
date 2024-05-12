@@ -460,6 +460,19 @@ Notably, the mitigations below have been planned *without* taking the healer
 
 ### P5. Alternate Timeline Thordan
 
+It may look odd that tanks aren't using their 30% mitigations here. That is
+because we want to guarantee their 30% mitigations are available for P6's
+*Wyrmsbreaths*, which hit harder, and have greater consequences of a tank death.
+
+Because P5 is so short, 30% mitigations used at the first *Heavenly Heel → 
+Ascalon's Might* sequence may not be back up in time for *Wyrmsbreath #1* if
+the killtime is fast.
+
+This means that tanks will be taking the *Heavenly Heel → Ascalon's Might*
+sequences with their weaker mitigations. In particular, they will need support
+for the second *Heavenly Heel*, hence why D3's party mitigation is used at 
+*Heavenly Heel #2* instead of *Ancient Quaga #2*.
+
 <table>
   <tr>
     <td>
@@ -547,7 +560,14 @@ Notably, the mitigations below have been planned *without* taking the healer
         <li>MT Reprisal, ST 90s, H2 30s, D4</li>
       </ul>
     </td>
-    <td></td>
+    <td>
+      <ul>
+        <li>Although D3 can use their mitigation early to cover both
+        <em>Ancient Quaga</em>, we don't need it here, and it's more valuable
+        at <em>Heavenly Heel #2</em> to help the tanks, as they will be using 
+        their weakest mitigations there.</li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td>
@@ -565,7 +585,7 @@ Notably, the mitigations below have been planned *without* taking the healer
     </td>
     <td>
       <ul>
-        <li>Tank swap MT→ST.</li>
+        <li>Tank swap.</li>
         <li>Healers should help the tanks, as they cannot use their stronger mitigations here.</li>
       </ul>
     </td>
@@ -1560,7 +1580,13 @@ are fairly common, adapt this as needed if H1 is a SCH or SGE.
     <td>
       <p><b>Ancient Quaga #1</b></p>
       <ul>
-        <li><em>Feint</em></li>
+        <li><em>Feint</em>
+          <ul>
+            <li>If the party has two casters, this <em>Feint</em> should go to
+            the melee DPS, as it's more important that <em>Feint</em> is back 
+            for the second <em>Heavenly Heel</em>.</li>
+          </ul>
+        </li>
       </ul>
       <p><b>Heavenly Heel #2</b></p>
       <ul>
@@ -1708,6 +1734,12 @@ This assumes D2 is a melee DPS.
       <p><b>P5. Alternate Timeline Thordan</b></p>
     </td>
     <td>
+      <p>We want D3's mitigation to help the tanks cover the second 
+      <em>Heavenly Heel</em> and <em>Ascalon's Might</em>, as they are the
+      weakest there.</p>
+      <p>This means we want D3 to cover the first <em>Ancient Quaga</em>, but 
+      <em>not</em> the second. This also means that there is no need to try and
+      time D3's mitigations to cover both <em>Ancient Quaga</em>.</p>
       <p><b>Ancient Quaga #1</b></p>
       <ul>
         <li><em>Troubadour/Tactician/Shield Samba</em></li>
@@ -1793,6 +1825,10 @@ This assumes D2 is a melee DPS.
       <p><b>P5. Alternate Timeline Thordan</b></p>
     </td>
     <td>
+      <p>Notably, D4 shouldn't <em>Addle</em> the first <em>Ancient Quaga</em>
+      as it is already covered by D3. We prioritize D3 at the first
+      <em>Ancient Quaga</em> because we need it back to help the tanks with
+      <em>Heavenly Heel #2</em>.</p>
       <p><b>Ancient Quaga #2</b></p>
       <ul>
         <li><em>Addle</em></li>
