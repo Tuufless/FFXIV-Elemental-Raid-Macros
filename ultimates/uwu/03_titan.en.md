@@ -38,7 +38,7 @@ The following mechanics will also change when Titan is woken:
   <tr>
     <td>Weight of the Land</td>
     <td>Two sets of baited AoEs under random players.</td>
-    <td><p>Three sets</p> of baited AoEs under random players.</td>
+    <td><b>Three sets</b> of baited AoEs under random players.</td>
   </tr>
 </table>
 
