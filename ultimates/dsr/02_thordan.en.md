@@ -595,6 +595,7 @@ serves as the hard enrage for this phase.
   not have native access to GCD heals during movement.</p></td></tr>
 </table>
 </details>
+
 <details markdown=block>
 <summary>
   <b>[Sanctity of the Ward]</b> Why is there a need for a role swap? Aren't
@@ -615,6 +616,43 @@ serves as the hard enrage for this phase.
   </tr>
 </table>
 </details>
+
+<details markdown=block>
+<summary>
+  <b>[Sanctity of the Ward]</b> Why does the Meteor group go outside, even for 
+  the E/W positions? Wouldn't it be easier to fix, say, T/H out and DPS in and
+  not have to worry about which role has Meteors?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>The idea that players not have to worry about which role has Meteors 
+      is a misnomer, because <em>all</em> players have to identify who the 
+      Meteor players (and thus, role) are because even if they do not have 
+      Meteor, they may have to potentially swap positions with someone who 
+      does.</p>
+      <p>Furthermore, fixing Meteors outside means that players that adjust,
+      (i.e: whose group has Meteors), <em>always</em> go outside.</p>
+      <p>This last point is particularly important because the players that are
+      adjusting have <em>less</em> time to identify their towers because they
+      end up in a different sector from the one they started in.</p>
+      <p>For example, if we fixed DPS inside, a DPS from either N/S position
+      that adjusts to either E/W position has to identify:</p>
+      <ul>
+        <li>Which sector they are adjusting to (east or west)</li>
+        <li>Whether <em>that</em> sector has two towers outside (because they 
+        will need to go in if there is only one tower outside).</li>
+      </ul>
+      <p>By fixing the Meteor group outside, the players that adjust have the 
+      simpler task (always go out), while the players that stay behind (and 
+      have more downtime) can take on the more complicated task of figuring out
+      whether the second tower in each sector is inside or out, and which 
+      outside tower they should take.</p>
+    </td>
+  </tr>
+</table>
+</details>
+
 <details markdown=block>
 <summary>
   <b>[Sanctity of the Ward]</b> What is the probability of getting forced
@@ -678,7 +716,8 @@ serves as the hard enrage for this phase.
       ways to place three towers in two quadrants.</p>
       <p>We double this to account for its reflection (i.e: fixing the
       east-most towers instead) to get a total of:</p>
-      <p style="text-align:center">2 x C(2,1) x C(3,1)^2 = 36 cursed combinations.</p>
+      <p style="text-align:center">2 x C(2,1) x C(3,1)^2 = 36 cursed 
+      combinations.</p>
     </td>
     <td>
       <p>If we fix the North and South quadrant's towers to be on one side,
