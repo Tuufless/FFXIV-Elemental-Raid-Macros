@@ -813,14 +813,15 @@ order to survive *Alternative End*, the final raid-wide damage that marks the
 transition to the final phase *(Dragonking Thordan will not be targetable*
 *during this)*.
 
-You will need about six pieces of party mitigation to survive *Alternative End*.
-
 <table>
   <tr>
     <td><b>Alterative End</b></td>
     <td>
-      <p>MT 90s, ST 90s, H2 30s, H2 90s, D3</p>
-      <p><em>(Add H2 120s, other party mitigations as needed.)</em></p>
+      <p>MT 90s, ST 90s, H2 30s, H2 120s, H2 90s, D3</p>
+      <ul>
+        <li>A SCH can substitute <em>Expedient</em> with <em>Fey 
+        Illumination</em>.</li>
+      </ul>
     </td>
   </tr>
 </table>
@@ -1036,28 +1037,6 @@ You will need about six pieces of party mitigation to survive *Alternative End*.
   <tr>
     <td>No. Each dragon will have a floor of 1HP until they start casting their
     enrage.</td>
-  </tr>
-</table>
-</details>
-
-<details markdown=block>
-<summary>
-  <b>[Alternative End]</b> What do you mean by "Add H2 120s as needed?"
-</summary>
-<table>
-  <tr>
-    <td>
-      <p>As a single, hard-hitting raid-wide with time to setup, SCH is
-      uniquely positioned to be <em>very</em> effective against <em>Alternative
-      End</em>.</p>
-      <p><em>Fey Illumination</em>, combined with <em>Protraction</em>,
-      <em>Recitation</em>, and <em>Deployment Tactics</em>, allows the SCH to
-      mitigate <em>Alternative End</em> without using having to add
-      <em>Expedient</em> to the mix.</p>
-      <p>SGE, on the other hand, doesn't have the raw shielding power that a
-      SCH has, and they will likely need to add <em>Holos</em> for the party to
-      survive <em>Alternative End</em>.</p>
-    </td>
   </tr>
 </table>
 </details>

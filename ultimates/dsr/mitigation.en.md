@@ -778,12 +778,12 @@ trouble topping up the DRK if *Living Dead* was used at *Cauterize*.
     </td>
     <td>
       <ul>
-        <li>MT 90s, ST 90s, H2 30s, H2 90s, D3</li>
+        <li>MT 90s, ST 90s, H2 30s, H2 120s, H2 90s, D3</li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>A SGE will need to add <em>Holos</em>.</li>
+        <li>A SCH can substitute <em>Expedient</em> with <em>Fey Illumination</em>.</li>
       </ul>
     </td>
   </tr>
