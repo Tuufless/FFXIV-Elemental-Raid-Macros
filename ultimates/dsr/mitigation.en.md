@@ -1489,8 +1489,9 @@ are fairly common, adapt this as needed if H1 is a SCH or SGE.
       </ul>
       <p><b>Alternative End</b></p>
       <ul>
-        <li>H2 30s, H2 90s
-          <li>A SGE will need to add <em>Holos</em>.</li>
+        <li>H2 30s, H2 90s, H2 120s
+          <li>A SCH can substite <em>Expedient</em> with <em>Fey 
+          Illumination</em>.</li>
         </li>
       </ul>
     </td>
