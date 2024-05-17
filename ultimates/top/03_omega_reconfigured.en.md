@@ -941,17 +941,23 @@ PF currently resolves this using [Astoh's strat](https://twitter.com/Astoh_Shall
   <tr>
     <td>
       <p>Omega casts <em>Critical Error</em> at the end of Hello, World.</p>
-      <p>This will apply a new <em>Critical Overflow Bug</em> onto <em>all</em> 
-      players. However, because all players have the <em>Critical Overflow 
-      Debugger</em> buff, this additional <em>Critical Overflow Bug</em> is 
-      blocked.</p>
-      <p>If the <em>Local Regression</em> players stayed with the <em>Critical 
-      Overflow Bug</em> players in the final iteration, their <em>Critical 
-      Overflow Debugger</em> buffs would get consumed there instead.</p>
-      <p>As as result, they won't have the <em>Critical Overflow Debugger</em> 
-      buff when Omega casts <em>Critical Error</em>, and will get another round 
-      of <em>Critical Overflow Bug</em>s that will last into <em>Oversampled 
-      Wave Cannon</em>.</p>
+      <p><em>Critical Error</em> isn't just raidwide damage- <b><em>Critical 
+      Error</em> also gives all players a new <em>Critical Overflow Bug</em>.</b></p>
+      <p>However, because all players have the <em>Critical Overflow 
+      Debugger</em> buff from resolving <em>Critical Overflow</em> earlier, 
+      this additional <em>Critical Overflow Bug</em> will be blocked.</p>
+      <p>The <em>Local Regression</em> players at the fourth set of towers
+      are the players that originally started with <em>Critical Overflow Bug</em>
+      with the first tower, so they already have the <em>Critical Overflow
+      Debugger</em> buff from then.</p>
+      <p>If they stayed with the <em>Critical Overflow Bug</em> players in the
+      final iteration, their <em>Critical Overflow Debugger</em> buffs would 
+      get consumed at the fourth towers, and as a result, they won't have the 
+      <em>Critical Overflow Debugger</em> buff when Omega casts <em>Critical 
+      Error</em>, and will get another round of <em>Critical Overflow Bugs</em>.</p>
+      <p>These <em>Critical Overflow Bugs</em> will resolve together with 
+      <em>Oversampled Wave Cannon</em>, making <em>Oversampled Wave Cannon</em> 
+      impossible to resolve.</p>
     </td>
   </tr>
 </table>
