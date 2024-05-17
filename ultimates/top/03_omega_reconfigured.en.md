@@ -418,10 +418,12 @@ Debugger* buff** <img style="height:1em" src="{{site.baseurl}}/assets/images/ult
 </details>
 </div>
 
-Although *Hello, World* may look overwhelming at first, there are really just
-two variations, determined by which colour debuff (*Critical Performance* and
-*Critical Underflow*) get paired with *Critical Overflow* and *Critical
-Synchronization*.
+Although *Hello, World* may look overwhelming at first, it is just four loops. Each loop, only **two things are relevant**:
+
+1. What colour "Nisi" (*Critical Performance* and *Critical Underflow*) is paired 
+   with *Critical Overflow* and *Critical Synchronization*.
+2. What debuff you currently have in the cycle (the *Local/Remote Regression* 
+   tethers, or the *Critical Overflow/Synchronization* "Nisis").
 
 <table>
   <tr>
@@ -442,9 +444,9 @@ Synchronization*.
   </tr>
 </table>
 
-After that, *Hello, World* is simply a cycle of debuffs to resolve. Players
-will be paired together based on their debuffs- at any one point, two players
-will be at each stage in the cycle, alternating between towers and tethers.
+*Hello, World* is simply a cycle of debuffs to resolve. Players will be paired 
+together based on their debuffs- at any one point, two players will be at each
+stage in the cycle, alternating between towers and tethers.
 
 - The pairing between *Critical Overflow Bugs/Critical Synchronization Bugs* 
   with *Critical Underflow Bugs/Critical Performance Bugs* (red/blue Nisis) is 
