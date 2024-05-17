@@ -817,7 +817,7 @@ damage/second (this is somewhat made up for by having to move and heal).
       <ul>
         <li>If H2 30s is used right after the second <em>Trinity</em> 
         auto-attack after <em>Exaflare's Edge</em>, it will be available for
-        <em>Gigaflare's Edge</em> #2.</li>
+        <em>Gigaflare's Edge</em> #1.</li>
       </ul>
     </td>
   </tr>
@@ -831,7 +831,7 @@ damage/second (this is somewhat made up for by having to move and heal).
     </td>
     <td>
       <ul>
-        <li>ST <em>Reprisal</em>, D2, D4</li>
+        <li>ST <em>Reprisal</em>, H2 30s, D2, D4</li>
       </ul>
     </td>
     <td></td>
@@ -848,7 +848,7 @@ damage/second (this is somewhat made up for by having to move and heal).
     <td>
       <ul>
         <li><b>MT + ST:</b> 30%</li>
-        <li>MT <em>Reprisal</em>, H1 180s, D3</li>
+        <li>MT <em>Reprisal</em>, H1 180s, H2 30s, D3</li>
       </ul>
     </td>
     <td>
@@ -859,8 +859,6 @@ damage/second (this is somewhat made up for by having to move and heal).
         <li>If MT 90s, ST 90s, D3 is used right after the second
         <em>Trinity</em> auto-attack after <em>Exaflare's Edge</em>, it will be 
         available for <em>Akh Morn's Edge</em> #3.</li>
-        <li>A WAR should be careful about using <em>Shake It Off</em> here to
-        avoid accidentally removing <em>Vengeance</em>.</li>
       </ul>
     </td>
   </tr>
@@ -874,7 +872,7 @@ damage/second (this is somewhat made up for by having to move and heal).
     </td>
     <td>
       <ul>
-        <li>ST <em>Reprisal</em>, D1</li>
+        <li>ST <em>Reprisal</em>, H2 30s, D1</li>
       </ul>
     </td>
     <td></td>
@@ -1514,6 +1512,17 @@ are fairly common, adapt this as needed if H1 is a SCH or SGE.
           </ul>
         </li>
       </ul>
+      <p><b>Gigaflare's Edge #1</b></p>
+      <ul>
+        <li>H2 30s
+          <ul>
+            <li>If H2 30s was not used early before <em>Akh Morn's Edge</em> #1
+            (see above), it won't be available for the first hit of 
+            <em>Gigaflare's Edge</em>, but should still be used when available 
+            midway.</li>
+          </ul>
+        </li>
+      </ul>
       <p><b>Akh Morn's Edge #2</b></p>
       <ul>
         <li>H2 30s
@@ -1521,6 +1530,17 @@ are fairly common, adapt this as needed if H1 is a SCH or SGE.
             <li>Use the H2 30s right after the second auto-attack following
             <em>Exaflare's Edge</em> to get an additional use at <em>Gigaflare's
             Edge</em> #2.</li>
+          </ul>
+        </li>
+      </ul>
+      <p><b>Gigaflare's Edge #2</b></p>
+      <ul>
+        <li>H2 30s
+          <ul>
+            <li>If H2 30s was not used early before <em>Akh Morn's Edge</em> #2
+            (see above), it won't be available for the first hit of 
+            <em>Gigaflare's Edge</em>, but should still be used when available 
+            midway.</li>
           </ul>
         </li>
       </ul>
