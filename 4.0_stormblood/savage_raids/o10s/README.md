@@ -19,6 +19,30 @@ permalink: /4.0_stormblood/savage_raids/o10s/
 {% include_relative macros/o10s.jp.txt %}
 ```
 
+## Markers
+
+- The `ABCD` markers are for orientation, while the `1` marker is the center.
+- The `2` marker is for passing *Arcane Bulwark*.
+
+![](images/markers.jpg)
+<details markdown=block>
+<summary>XIVLauncher WaymarkPresetPlugin positions</summary>
+
+```json
+{
+  "Name":"O10S",
+  "MapID":592,
+  "A":{"X":100.0,"Y":0.0,"Z":82.0,"ID":0,"Active":true},
+  "B":{"X":118.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},
+  "C":{"X":100.0,"Y":0.0,"Z":118.0,"ID":2,"Active":true},
+  "D":{"X":82.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},
+  "One":{"X":100.0,"Y":0.0,"Z":100.0,"ID":4,"Active":true},
+  "Two":{"X":105.0,"Y":0.0,"Z":100.0,"ID":5,"Active":true},
+  "Three":{"X":0.0,"Y":0.0,"Z":0.0,"ID":6,"Active":false},
+  "Four":{"X":0.0,"Y":0.0,"Z":0.0,"ID":7,"Active":false}
+}
+```
+
 ## Fireball Phase
 
 <https://youtu.be/PnTdPlW2vYw>
