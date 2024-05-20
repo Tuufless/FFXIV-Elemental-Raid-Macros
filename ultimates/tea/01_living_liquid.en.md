@@ -17,28 +17,41 @@ Notable changes are:
 
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
 <details markdown=block>
-<summary><b>[Click to Expand] Jagd Dolls breakdown</b></summary>
-<p>The Jagd Dolls are adds that have the following mechanics:</p>
+<summary><b>[Click to Expand] Liquid Hand mechanics</b></summary>
+<p>The Liquid Hand is an add that spawns when Living Liquid casts the first 
+<em>Cascade</em> in the fight. It has two key mechanics:</p>
+<p><b>Hand of Parting</b></p>
 <ul>
-  <li>The Jagd Dolls tether to the first player that performs any action on
-  them (including auto-attacks), and lock onto that player.</li>
-  <li>They periodically pulse with <em>Exhaust</em>, a point-blank AoE that
-  applies a stacking <em>Luminous Aetheroplasm</em> on any player hit.
-  <ul>
-    <li>If any player is hit with two AoEs, they explode and wipe the raid.</li>
-  </ul>
+  <li>The Liquid Hand will glow blue and turn into an open palm, or a closed
+  fist.</li>
+  <li>After a few seconds, the Liquid Hand will slam on the ground, dealing
+    raid-wide damage based on its distance to Living Liquid:
+    <ul>
+      <li>If the Hand was <b>an open palm</b>: Stack the Hand on top of Living
+      Liquid.</li>
+      <li>If the Hand was <b>a closed fist</b>: Separate the Hand and Living
+      Liquid.</li>
+    </ul>
   </li>
-  <li>The Jagd Dolls <b>cannot</b> be destroyed by damage- they will explode
-  and wipe the raid if they reach 0% HP.
-  <ul>
-    <li>To destroy them, they need to be dragged near either Living Liquid
-    <em>or</em> the Liquid Hand. Doing so will tether them to the boss and 
-    destroy them, dealing raid-wide damage to the party <em>(Reducible
-    Complexity)</em> based on its current HP.</li>
-    <li>The Jagd Doll must be <b>under 25% HP</b>, or the explosion will deal 
-    lethal damage.</li>
-  </ul>
+  <li>Whether the Hand turns into a closed fist or an open palm <b>can be
+  baited.</b>
+    <ul>
+      <li>If Living Liquid and the Hand are <b>separated</b>, the Hand will
+      glow with an open palm.</li>
+      <li>If Living Liquid and the Hand are <b>near one another</b>, the Hand
+      will glow with <b>a closed fist</b>.</li>
+    </ul>
   </li>
+  <li>We will <em>always</em> want the Liquid Hand to turn to an open
+  palm.</li>
+</ul>
+<p><b>Hand of Pain</b></p>
+<p>The Liquid Hand will slam the ground, and deal raid-wide damage based on the
+HP% difference between Living Liquid and the Liquid Hand.</p>
+<ul>
+  <li>Living Liquid and the Liquid Hand's HP% must be <b>within 5%</b> to not
+  deal lethal damage.</li>
+  <li>This damage ignores tank invulnerability.</li>
 </ul>
 </details>
 </div>
@@ -46,7 +59,11 @@ Notable changes are:
 <table>
   <tr>
     <td width="50%">
-      <p><b>1.</b> Living Liquid casts the first Cascade and the Liquid Hand spawns.</p>
+      <p><b>1.</b> Pull Living Liquid to the center of the arena.</p>
+      <p>Living Liquid will auto-attack three times, before cleaving the MT
+      with a <em>Fluid Swing</em>.</p>
+      <p>Living Liquid then casts the first <em>Cascade</em>, which spawns the
+      Liquid Hand and three water puddles.</p>
       <ul>
         <li>The party orients themselves to the three water puddles.</li>
         <li><b>MT, ST:</b> Separate Living Liquid and Hand to force Liquid Hand
@@ -72,21 +89,81 @@ Notable changes are:
       Liquid, it will now glow as an open palm.</p>
       <ul>
         <li><b>MT:</b> Provoke the Liquid Hand to stack it on top of Living Liquid.</li>
-        <li><b>MT, H1, H2:</b> Bait the first set of (telegraphed) Protean
-        Waves from the water puddles.</li>
+        <li><b>MT, H1, H2:</b> Bait the first set of (telegraphed) <em>Protean
+        Waves</em> from the water puddles.</li>
       </ul>
     </td>
 	  <td>
       <img src="{{site.baseurl}}/assets/images/ultimates/tea/01/living_liquid_02.jpg">
     </td>
   </tr>
+</table>
+
+The Liquid Hand does *not* need to be defeated to clear the phase- however, its
+HP needs to be kept close to Living Liquid's because of *Hand of Pain*.
+
+---
+
+## Jagd Dolls
+
+This is the first major section of the fight that introduces the Jagd Dolls,
+which are a one-time mechanic, but also introduces the puddle's *Protean
+Waves*.
+
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+<details markdown=block>
+<summary><b>[Click to Expand] Jagd Dolls breakdown</b></summary>
+<p>The Jagd Dolls are adds that have the following mechanics:</p>
+<ul>
+  <li>The Jagd Dolls tether to the first player that performs any action on
+  them (including auto-attacks), and lock onto that player.</li>
+  <li>They periodically pulse with <em>Exhaust</em>, a point-blank AoE that
+  applies a stacking <em>Luminous Aetheroplasm</em> on any player hit.
+  <ul>
+    <li>If any player is hit with two AoEs, they explode and wipe the raid.</li>
+  </ul>
+  </li>
+  <li>The Jagd Dolls <b>cannot</b> be destroyed by damage- they will explode
+  and wipe the raid if they reach 0% HP.
+  <ul>
+    <li>To destroy them, they need to be dragged near either Living Liquid
+    <em>or</em> the Liquid Hand. Doing so will tether them to the boss and 
+    destroy them, dealing raid-wide damage to the party <em>(Reducible
+    Complexity)</em> based on its current HP.</li>
+    <li>The Jagd Doll <b>must be under 25% HP</b>, or the explosion will deal 
+    lethal damage.</li>
+  </ul>
+  </li>
+</ul>
+</details>
+</div>
+
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+<details markdown=block>
+<summary><b>[Click to Expand] Puddle's Protean Waves</b></summary>
+<ol>
+  <li>Each puddle targets the closest player to them with a cone telegraph.</li>
+  <li>When the telegraph disappears, a cone <em>Protean Wave</em> fires where
+  the telegraph was. This <em>Protean Wave</em> will also knockback any players
+  hit (although this can be stopped with <em>Arm's Length/Surecast</em>).</li>
+  <li>Finally, a second <b>untelegraphed</b> <em>Protean Wave</em> fires at the
+  closest player. This <em>Protean Wave</em> cannot be avoided, but doesn't
+  knockback.</li>
+</ol>
+<p>All <em>Protean Waves</em> also apply a 5-second <em>Water Resistance Down
+II</em> debuff on the players they hit (so a player cannot get hit by more than
+one).</p>
+</details>
+</div>
+
+<table>
   <tr>
-    <td>
+    <td width="50%">
       <p><b>3.</b> Jagd Dolls spawn, and first set of untelegraphed Protean
       Waves resolve.</p>
       <ul>
-        <li><b>MT:</b> Invuln Living Liquid's Fluid Swing and the Living Hand's
-        Fluid Swing.</li>
+        <li><b>MT:</b> Invuln Living Liquid's <em>Fluid Swing</em> and the
+        Liquid Hand's <em>Fluid Strike</em>.</li>
         <li><b>MT, H1, H2:</b> Bait telegraphed Protean Waves from the puddles</li>
         <li><b>DPS:</b> Take your assigned Jagd Doll.</li>
       </ul>
@@ -138,7 +215,8 @@ Notable changes are:
   </tr>
   <tr>
     <td>
-      <p><b>7.</b> Fluid Swing happens on the two tanks.</p>
+      <p><b>7.</b> Living Liquid and the Liquid Hand both cleave their
+      respective tanks with <em>Fluid Swing/Strike</em>.</p>
       <ul>
         <li><b>D3, D4:</b> Feed your dolls to the bosses when they are <b>under
         25% HP</b>. You may want to wait for the Fluid Swings to resolve first.</li>
@@ -148,9 +226,52 @@ Notable changes are:
       <img src="{{site.baseurl}}/assets/images/ultimates/tea/01/living_liquid_07.jpg">
     </td>
   </tr>
+</table>
+
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+<b>Tip:</b> From here on, the ST will generally take more damage than the MT,
+as the Liquid Hand will auto-attack more over the rest of the phase.</div>
+
+---
+
+## Protean Waves #1
+
+This section of the fight now introduces Living Liquid's *Protean Waves*, which
+are similar to the puddle's *Protean Waves*, with a few differences.
+
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+<details markdown=block>
+<summary><b>[Click to Expand] Living Liquid's Protean Waves</b></summary>
+<ol>
+  <li>Living Liquid targets each player with a cone telegraph.</li>
+  <li>When the telegraphs disappear, a cone <em>Protean Wave</em> fires where
+  the telegraph was. This <em>Protean Wave</em> will also knockback any players
+  hit (although this can be stopped with <em>Arm's Length/Surecast</em>).</li>
+  <li><p>Living Liquid then fires <b>two sets</b> of <b>five untelegraphed</b>
+  <em>Protean Waves</em>, one after the other:</p>
+    <ul>
+      <li>The <b>four closest players</b> to Living Liquid.</li>
+      <li>A fifth <em>Protean Wave</em> in front of Living Liquid, <b>in the
+      direction Living Liquid is facing.</b></li>
+    </ul>
+  </li>
+</ol>
+<p>This last sets of <em>Protean Waves</em> cannot be avoided, but do not
+knockback.</p>
+<p>All <em>Protean Waves</em> also apply a 5-second <em>Water Resistance Down
+II</em> debuff on the players they hit (so a player cannot get hit by more than
+one).</p>
+</details>
+</div>
+
+<table>
   <tr>
-    <td><p><b>8.</b> Party stacks "north/south" to bait the first set of telegraphed Protean Waves from Living Liquid.</p></td>
-	<td><img src="{{site.baseurl}}/assets/images/ultimates/tea/01/living_liquid_08.jpg"></td>
+    <td width="50%">
+      <p><b>8.</b> Party stacks "north/south" to bait the first set of
+      telegraphed <em>Protean Waves</em> from Living Liquid.</p></td>
+	  <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/tea/01/living_liquid_08.jpg">
+    </td>
   </tr>
   <tr>
     <td>
@@ -168,8 +289,10 @@ Notable changes are:
     <td>
       <p><b>10.</b> Second set of untelegraphed Protean Waves.</p>
       <ul>
-        <li><b>MT, ST, D1, D2:</b> Move to max-melee to avoid baiting the Protean Waves.</li>
-        <li><b>H1, H2, D3, D4:</b> Fan out under Living Liquid's targeting circle to bait the Protean Waves.</li>
+        <li><b>MT, ST, D1, D2:</b> Move to max-melee to avoid baiting the
+        <em>Protean Waves</em>.</li>
+        <li><b>H1, H2, D3, D4:</b> Fan out under Living Liquid's targeting
+        circle to bait the Protean Waves.</li>
       </ul>
     </td>
 	  <td>
@@ -178,7 +301,7 @@ Notable changes are:
   </tr>
   <tr>
     <td>
-      <p><b>11.</b> 6x Splashes from Living Liquid.</p>
+      <p><b>11.</b> 6x <em>Splashes</em> from Living Liquid.</p>
       <ul>
         <li><b>MT, ST:</b> Drainage tethers are strong tankbusters with an AoE.</li>
       </ul>
@@ -187,21 +310,31 @@ Notable changes are:
       <img src="{{site.baseurl}}/assets/images/ultimates/tea/01/living_liquid_11.jpg">
     </td>
   </tr>
+</table>
+
+---
+
+## Protean Waves #2
+
+This is the final phase of Living Liquid, and combines both Living Liquid's
+*Protean Waves* with a set of *Protean Waves* from the puddles.
+
+<table>
   <tr>
-    <td>
+    <td width="50%">
       <p><b>12.</b> 2nd Cascade. The party should reorient themselves to the
       new water puddles.</p>
       <ul>
         <li><b>MT, ST, D3, D4:</b> Stack together "north".</li>
         <li><b>H1, H2, D1, D2:</b> Stack together "south".</li>
       </ul>
-      <p>Six players (at random) will get a Throttle debuff, which must be
-      removed via Esuna (or Warden's Paean).</p>
+      <p>Six players (at random) will get a <em>Throttle</em> debuff, which
+      must be removed via <em>Esuna</em> (or <em>Warden's Paean</em>).</p>
       <ul>
-        <li><b>H1, H2:</b> Esuna Throttled players.</li>
+        <li><b>H1, H2:</b> <em>Esuna</em> Throttled players.</li>
       </ul>
-      <p>How the two healers split up the Esunas doesn't matter, so long as
-      they agree. We go with the following priority:</p>
+      <p>How the two healers split up the <em>Esunas</em> doesn't matter, so
+      long as they agree. We go with the following priority:</p>
       <ul>
         <li><b>H1:</b> MT ST H1 H2 D1 D2 D3 D4 <b>:H2</b></li>
       </ul>
@@ -214,9 +347,11 @@ Notable changes are:
     <td>
       <p><b>13.</b> Start of Protean Waves #2.</p>
       <p>Just like the first iteration, this begins with baited, telegraphed
-      Protean Waves north and south of Living Liquid.</p>
+      <em>Protean Waves</em> north and south of Living Liquid.</p>
       <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
-      <b>Tip:</b> If <b>both</b> Living Liquid and the Liquid Hand are around 10-11% HP at this point, the whole party can switch to Living Liquid and kill it before the next Hand of Pain resolves.</div>
+      <b>Tip:</b> If <b>both</b> Living Liquid and the Liquid Hand are around
+      10-11% HP at this point, the whole party can switch to Living Liquid and
+      kill it before the next <em>Hand of Pain</em> resolves.</div>
     </td>
 	  <td>
       <img src="{{site.baseurl}}/assets/images/ultimates/tea/01/living_liquid_13.jpg">
@@ -224,13 +359,14 @@ Notable changes are:
   </tr>
   <tr>
     <td>
-      <p><b>14.</b> 1st untelegraphed Protean Waves from Living Liquid.</p>
-      <p>The Liquid Hand will also do a Hand of Pain here.</p>
+      <p><b>14.</b> 1st untelegraphed <em>Protean Waves</em> from Living
+      Liquid.</p>
+      <p>The Liquid Hand will also do a <em>Hand of Pain</em> here.</p>
       <ul>
         <li>
           <p><b>H1, H2, D3, D4:</b> Bait AoEs next to assigned puddles.</p>
           <p>If you plan on using a gap-closer, wait until you see the
-          telegraphed Protean Waves from the puddles as they are
+          telegraphed <em>Protean Waves</em> from the puddles as they are
           <em>slightly</em> offset.</p>
         </li>
       </ul>
@@ -241,12 +377,14 @@ Notable changes are:
   </tr>
   <tr>
     <td>
-      <p><b>15.</b> 1st telegraphed Protean Waves from the puddles.</p>
+      <p><b>15.</b> 1st telegraphed <em>Protean Waves</em> from the puddles.</p>
       <ul>
         <li><b>D1, D2:</b> Prepare to bait the "west" and "east" puddles.</li>
-        <li><b>H1, H2, D3, D4:</b> Move in to bait Living Liquid's Protean Waves after the puddle's telegraphs appear.</li>
+        <li><b>H1, H2, D3, D4:</b> Move in to bait Living Liquid's <em>Protean
+        Waves</em> after the puddle's telegraphs appear.</li>
       </ul>
-      <p><em>(The East puddle's Protean Wave can be baited by either H2 or D4.)</em></p>
+      <p><em>(The East puddle's <em>Protean Wave</em> can be baited by either
+      H2 or D4.)</em></p>
     </td>
 	  <td>
       <img src="{{site.baseurl}}/assets/images/ultimates/tea/01/living_liquid_15.jpg">
@@ -254,7 +392,8 @@ Notable changes are:
   </tr>
   <tr>
     <td>
-      <p><b>16.</b> 2nd untelegraphed Protean Waves from Living Liquid.</p>
+      <p><b>16.</b> 2nd untelegraphed <em>Protean Waves</em> from Living
+      Liquid.</p>
     </td>
 	  <td>
       <img src="{{site.baseurl}}/assets/images/ultimates/tea/01/living_liquid_16.jpg">
@@ -262,7 +401,7 @@ Notable changes are:
   </tr>
   <tr>
     <td>
-      <p><b>17.</b> 2nd untelegraphed Protean Waves from the puddles.</p>
+      <p><b>17.</b> 2nd untelegraphed <em>Protean Waves</em> from the puddles.</p>
       <ul>
         <li><b>ST:</b> If you're confident on the party's DPS, you can
         alternatively bring the Liquid Hand "south" instead, but an Embolus may
@@ -278,7 +417,7 @@ Notable changes are:
       <p><b>18.</b> Embolus orbs spawn.</p>
       <ul>
         <li><b>MT, ST:</b> Stack Living Liquid and the Liquid Hand together for
-        Hand of Parting once the Liquid Hand glows as an open palm.</li>
+        <em>Hand of Parting</em> once the Liquid Hand glows as an open palm.</li>
       </ul>
     </td>
 	  <td>
@@ -287,12 +426,13 @@ Notable changes are:
   </tr>
   <tr>
     <td>
-      <p><b>19.</b> The Liquid Hand does one final Hand of Pain. If the party
-      went "all in" on Living Liquid, you need to kill Living Liquid before
-      this Hand of Pain resolves.</p>
-      <p>After the Hand of Pain, Living Liquid Splashes six times before
-      targeting the MT with Fluid Swing.</p>
-      <p>Living Liquid then casts one final Cascade, serving as the enrage.</p>
+      <p><b>19.</b> The Liquid Hand does one final <em>Hand of Pain</em>. If 
+      the party went "all in" on Living Liquid, you need to kill Living Liquid
+      before this <em>Hand of Pain</em> resolves.</p>
+      <p>After the <em>Hand of Pain</em>, Living Liquid uses <em>Splash</em>
+      six times before targeting the MT with <em>Fluid Swing</em>.</p>
+      <p>Living Liquid then casts one final <em>Cascade</em>, serving as the
+      enrage.</p>
     </td>
 	  <td>
       <img src="{{site.baseurl}}/assets/images/ultimates/tea/01/living_liquid_19.jpg">
@@ -306,14 +446,16 @@ Notable changes are:
 
 <details markdown=block>
 <summary>
-  <b>[Hand of Pain]</b> The MT invulns the first two Fluid Swings and the
-  Protean Wave from the puddle, but dies shortly thereafter. What happened?
+  <b>[Hand of Pain]</b> The MT invulns the first <em>Fluid Swing/Strike</em>
+  and the <em>Protean Wave</em> from the puddle, but dies shortly thereafter.
+  What happened?
 </summary>
 <table>
   <tr>
     <td>
-      <p>The MT died to Hand of Pain, which shortly follows the Protean Wave.
-      Hand of Pain ignores tank invulnerabilities.</p>
+      <p>The MT possibly died to <em>Hand of Pain</em>, which shortly follows
+      the <em>Protean Wave</em>. <em>Hand of Pain</em> ignores tank
+      invulnerabilities.</p>
     </td>
   </tr>
 </table>
