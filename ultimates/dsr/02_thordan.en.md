@@ -619,9 +619,8 @@ serves as the hard enrage for this phase.
 
 <details markdown=block>
 <summary>
-  <b>[Sanctity of the Ward]</b> Why does the Meteor group go outside, even for 
-  the E/W positions? Wouldn't it be easier to fix, say, T/H out and DPS in and
-  not have to worry about which role has Meteors?
+  <b>[Sanctity of the Ward]</b> Why don't we fix the DPS to go in or out
+  instead of having to worry about Meteor roles?
 </summary>
 <table>
   <tr>
@@ -633,9 +632,9 @@ serves as the hard enrage for this phase.
       does.</p>
       <p>Furthermore, fixing Meteors outside means that players that adjust,
       (i.e: whose group has Meteors), <em>always</em> go outside.</p>
-      <p>This last point is particularly important because the players that are
-      adjusting have <em>less</em> time to identify their towers because they
-      end up in a different sector from the one they started in.</p>
+      <p>This is important because the players that are adjusting have
+      <em>less</em> time to identify their towers because they end up in a 
+      different sector from the one they started in.</p>
       <p>For example, if we fixed DPS inside, a DPS from either N/S position
       that adjusts to either E/W position has to identify:</p>
       <ul>
@@ -645,9 +644,8 @@ serves as the hard enrage for this phase.
       </ul>
       <p>By fixing the Meteor group outside, the players that adjust have the 
       simpler task (always go out), while the players that stay behind (and 
-      have more downtime) can take on the more complicated task of figuring out
-      whether the second tower in each sector is inside or out, and which 
-      outside tower they should take.</p>
+      have more downtime) can figure out whether the second tower in each
+      sector is inside or out, and which outside tower they should take.</p>
     </td>
   </tr>
 </table>
