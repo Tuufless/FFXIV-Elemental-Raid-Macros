@@ -33,7 +33,7 @@ into two teams- Light, and Dark.
 <summary><b>[Click to Expand] Light/Dark breakdown</b></summary>
 <table>
   <tr>
-    <td>
+    <td style="text-align:center">
       <img src="{{site.baseurl}}/assets/images/ultimates/tea/04/debuffs/contact_regulation.png">
     </td>
     <td>
@@ -43,7 +43,7 @@ into two teams- Light, and Dark.
     </td>
   </tr>
   <tr>
-    <td>
+    <td style="text-align:center">
       <img src="{{site.baseurl}}/assets/images/ultimates/tea/04/debuffs/contact_prohibition.png">
     </td>
     <td>
@@ -54,7 +54,7 @@ into two teams- Light, and Dark.
     </td>
   </tr>
   <tr>
-    <td>
+    <td style="text-align:center">
       <img src="{{site.baseurl}}/assets/images/ultimates/tea/04/debuffs/escape_detection.png">
     </td>
     <td>
@@ -64,7 +64,7 @@ into two teams- Light, and Dark.
     </td>
   </tr>
   <tr>
-    <td>
+    <td style="text-align:center">
       <img src="{{site.baseurl}}/assets/images/ultimates/tea/04/debuffs/escape_prohibition.png">
     </td>
     <td>
@@ -88,8 +88,17 @@ While the Forced March timers tick down, Perfect Alexander will then cast
 
 <table>
   <tr>
-    <td width="50%"><b>Forced March:</b><ul><li><b>Light Beacon:</b> West</li><li><b>Dark Beacon:</b> East</li><li><b>Everyone else:</b> Just west of the Dark Beacon</li></ul></td>
-	<td><img src="{{site.baseurl}}/assets/images/ultimates/tea/04/forced_march_01.jpg"></td>
+    <td width="50%">
+      <b>Forced March:</b>
+      <ul>
+        <li><b>Light Beacon:</b> West</li>
+        <li><b>Dark Beacon:</b> East</li>
+        <li><b>Everyone else:</b> Just west of the Dark Beacon</li>
+      </ul>
+    </td>
+	  <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/tea/04/forced_march_01.jpg">
+    </td>
   </tr>
 </table>
 
@@ -167,76 +176,138 @@ when they resolve.
     <td width="50%">
       <p><b>Ordained Stillness</b></p>
       <p><b>All</b> players in the party must keep still.</p>
-      <p><ul><li>Autoattacks count as movement. Tanks and melee should either sheathe their weapons, or untarget the boss to be safe.</li><li>If a player is <b>in the middle</b> of a channeled ability like Flamethrower, Meditate or Improvisation, it <b>does not</b> count as movement.</li></ul></p>
+      <ul>
+        <li>Autoattacks count as movement. Tanks and melee should either 
+        sheathe their weapons, or untarget the boss to be safe.</li>
+        <li>If a player is <b>in the middle</b> of a channeled ability like 
+        <em>Flamethrower</em>, <em>Meditate</em>, or <em>Improvisation</em>,
+        it <b>does not</b> count as movement.</li>
+      </ul>
       <p>Three players will get this.</p></td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/tea/04/fate_calibration_alpha/ordained_stillness.jpg"></td>
+    <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/tea/04/fate_calibration_alpha/ordained_stillness.jpg">
+    </td>
   </tr>
   <tr>
-    <td><p><b>Ordained Motion</b></p>
-    <p><b>All</b> players in the party must be moving.</p>
-    <p>
+    <td>
+      <p><b>Ordained Motion</b></p>
+      <p><b>All</b> players in the party must be moving.</p>
       <ul>
         <li>Casting counts as movement
           <ul>
-            <li>The gap between when the cast finishes and the GCD is up does <b>not</b> count as movement.</li>
+            <li>The gap between when the cast finishes and the GCD is up does 
+            <b>not</b> count as movement <em>(be careful with instant casts!)</em></li>
           </ul>
         </li>
-        <li>If a player is <b>in the middle</b> of a channeled ability like Flamethrower, Meditate or Improvisation, it <b>does not</b> count as movement.</li>
+        <li>If a player is <b>in the middle</b> of a channeled ability like 
+        <em>Flamethrower</em>, <em>Meditate</em>, or <em>Improvisation</em>, it 
+        <b>does not</b> count as movement.</li>
       </ul>
-    </p>
-    <p>Three players will get this.</p><p>You can either wiggle your character around, <em>or</em> continually jump up and down to trigger movement.</p><div style="background-color: #200 ; padding: 10px; border: 1px solid;"><b>Do not</b> wiggle around <b>and</b> jump, <em>especially</em> when near the edge of the arena.</div></td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/tea/04/fate_calibration_alpha/ordained_motion.jpg"></td>
+      <p>Three players will get this.</p>
+      <p>You can either wiggle your character around, <em>or</em> continually 
+      jump up and down to trigger movement.</p>
+      <div style="background-color: #200; padding: 10px; border: 1px solid;">
+        <b>Note: Do not</b> wiggle around <b>and</b> jump, <em>especially</em> 
+        when near the edge of the arena.
+      </div>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/tea/04/fate_calibration_alpha/ordained_motion.jpg">
+    </td>
   </tr>
   <tr>
-    <td><p><b>Defamation</b></p>
-    <p><ul><li><em>Giant</em> AoE centered on the targeted player.</li></ul></p>
-    <p>Stand in front of the Alexander clone that <b>does not</b> cast Sacrament (the white laser beams). This will always be one of the two center Alexander clones.</p>
-    <p>One player will get this.</p></td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/tea/04/fate_calibration_alpha/defamation.jpg"></td>
+    <td>
+      <p><b>Defamation</b></p>
+      <ul>
+        <li><em>Giant</em> AoE centered on the targeted player.</li>
+      </ul>
+      <p>Stand in front of the Alexander clone that <b>does not</b> cast 
+      <em>Sacrament</em> (the white laser beams). This will always be one of 
+      the two center Alexander clones.</p>
+      <p>One player will get this.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/tea/04/fate_calibration_alpha/defamation.jpg">
+    </td>
   </tr>
   <tr>
-    <td><p><b>Shared Sentence</b></p>
-    <p><ul><li>Shared damage between the targeted player, and the three players that did not get any debuff.</li></ul></p>
-    <p>Stack on the <b>west</b> side with the three players that did not get any debuff.</p>
-    <p>One player will get this.</p></td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/tea/04/fate_calibration_alpha/shared_sentence.jpg"></td>
+    <td>
+      <p><b>Shared Sentence</b></p>
+      <ul>
+        <li>Shared damage between the targeted player, and the three players 
+        that did not get any debuff.</li>
+      </ul>
+      <p>Stack on the <b>west</b> side with the three players that did not get 
+      any debuff.</p>
+      <p>One player will get this.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/tea/04/fate_calibration_alpha/shared_sentence.jpg">
+    </td>
   </tr>
   <tr>
-    <td><p><b>Aggravated Assault</b></p>
-    <p><ul><li>Single-target damage that applies a magic vulnerability debuff.</li></ul></p>
-    <p>Stack together on the <b>east</b> side (away from the Shared Sentence)</p>
-    <p>Three players will get this.</p></td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/tea/04/fate_calibration_alpha/aggravated_assault.jpg"></td>
+    <td>
+      <p><b>Aggravated Assault</b></p>
+      <ul>
+        <li>Single-target damage that applies a magic vulnerability debuff.</li>
+      </ul>
+      <p>Stack together on the <b>east</b> side (away from the Shared Sentence)</p>
+      <p>Three players will get this.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/tea/04/fate_calibration_alpha/aggravated_assault.jpg">
+    </td>
   </tr>
 </table>
 </details>
 </div>
 
-When Fate Calibration α finishes its cast, Perfect Alexander will disappear and the mechanics that were telegraphed earlier by the clones will now resolve for real.
+When Fate Calibration α finishes its cast, Perfect Alexander will disappear and 
+the mechanics that were telegraphed earlier by the clones will now resolve for 
+real.
 
-The safe spots to resolve the mechanics will always be opposite one of the two *middle* Perfect Alexander clones.
+The safe spots to resolve the mechanics will always be opposite one of the two 
+*middle* Perfect Alexander clones.
 
 <table>
   <tr>
-    <td width="50%"><b>Fate Calibration α:</b><ul><li><b>Shared Sentence:</b> Left</li><li><b>Nothing:</b> Left</li><li><b>Aggravated Assault:</b> Right</li></ul></td>
-	<td><img src="{{site.baseurl}}/assets/images/ultimates/tea/04/fate_calibration_alpha.jpg"></td>
+    <td width="50%">
+      <p><b>Fate Calibration α:</b></p>
+      <ul>
+        <li><b>Shared Sentence:</b> Left</li>
+        <li><b>Nothing:</b> Left</li>
+        <li><b>Aggravated Assault:</b> Right</li>
+      </ul>
+    </td>
+	  <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/tea/04/fate_calibration_alpha.jpg">
+    </td>
   </tr>
 </table>
 
-After Fate Calibration α, Perfect Alex will cast the first Ordained Capital Punishment, which will be shared between both tanks (ST Provokes to take hate).
+After Fate Calibration α, Perfect Alex will cast the first *Ordained Capital 
+Punishment*, which will be shared between both tanks (ST Provokes to take 
+hate when Perfect Alexander casts *Ordained Punishment*).
 
 <table>
   <tr>
     <td><b>Ordained Capital Punishment #1</b></td>
-    <td><p>MT + ST full buffs.</p><p>Tank swap from MT to ST.</p></td>
+    <td>
+      <p>MT + ST full buffs.</p>
+      <p>Tank swap from MT to ST.</p>
+      <p><em>Stack together for Ordained Capital Punishment, and split up after 
+      the third hit.</em></p>
+    </td>
   </tr>
 </table>
 
 ## Fate Calibration β
 
-Just like Fate Calibration α, clones will appear next to each player that will telegraph the upcoming mechanics.
+Just like Fate Calibration α, clones will appear next to each player that will 
+telegraph the upcoming mechanics.
 
-All players will need to identify the debuffs based on their visual effects when they resolve.
+All players will need to identify the debuffs based on their visual effects 
+when they resolve.
 
 The debuffs will appear in the same order as they resolve:
 
@@ -250,66 +321,118 @@ The debuffs will appear in the same order as they resolve:
 <summary><b>[Click to expand] Fate Calibration β debuffs</b></summary>
 <table>
   <tr>
-    <td width="50%"><p><b>Light</b></p>
-    <p>Four players will be light, that can be further broken down.</p>
-    <p>Light players just need to determine whether they are the Beacon or not.</p>
-    <p><ul>
-      <li>The player whose clone <b>does not move</b> is the Light Beacon.</li>
-      <li>The Light Beacon stands a little bit West from <b>North</b>, away from the party.</li>
-      <li>All other Light players join the party East.</li>
-    </ul></p></td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/tea/04/fate_calibration_beta/light_players.jpg"></td>
+    <td width="50%">
+      <p><b>Light</b></p>
+      <p>Four players will be light, that can be further broken down.</p>
+      <p>Light players just need to determine whether they are the Beacon or 
+      not.</p>
+      <ul>
+        <li>The player whose clone <b>does not move</b> is the Light Beacon.</li>
+        <li>The Light Beacon stands a little bit West from <b>North</b>, away 
+        from the party.</li>
+        <li>All other Light players join the party East.</li>
+      </ul>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/tea/04/fate_calibration_beta/light_players.jpg">
+    </td>
   </tr>
   <tr>
     <td><p><b>Dark</b></p>
-    <p>Four players will be dark, that can be further broken down.</p>
-    <p>All four Dark players have different responsibilities, so they need to pay attention to their tethers.</p>
-    <p><ul>
+    <p>Four players will be dark, that each have their own responsibilities
+    based on their tether, so they need to <b>pay attention to what tether they 
+    got.</b></p>
+    <ul>
       <li>The player whose clone <b>does not move</b> is the Dark Beacon.</li>
       <li>The Dark Beacon stands <b>on</b> the East marker.</li>
-      <li>All other Dark players position themselves relative to the Dark Beacon.</li>
-    </ul></p></td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/tea/04/fate_calibration_beta/dark_players.jpg"></td>
+      <li>All other Dark players position themselves relative to the Dark 
+      Beacon.</li>
+    </ul></td>
+    <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/tea/04/fate_calibration_beta/dark_players.jpg">
+    </td>
   </tr>
 </table>
 </details>
 </div>
 
-It's not entirely obvious, but Fate Calibration β should be lightly mitigated prior to the forced march. Note that you will still need to plan mitigations for the upcoming Exatrines.
+It's not entirely obvious, but *Fate Calibration β* should be lightly mitigated 
+prior to the forced march. Note that you will still need to plan mitigations 
+for the upcoming Exatrines.
 
 <table>
   <tr>
-    <td><b>Fate Calibration β</b></td>
-    <td><p>ST 90s, H2 (strong) shields*</p><p><em>(Deployed Adloquium, or Zoe'd Eukrasian Prognosis)</em></p></td>
+    <td>
+      <b>Fate Calibration β</b>
+    </td>
+    <td>
+      <p>ST 90s, H2 (strong) shields*</p>
+      <p><em>(Deployed Adloquium, or Zoe'd Eukrasian Prognosis)</em></p>
+    </td>
   </tr>
 </table>
 
-Once again, Perfect Alexander will disappear when Fate Calibration β finishes its cast. The mechanics that were telegraphed earlier by the clones will now resolve for real.
+Once again, Perfect Alexander will disappear when *Fate Calibration β* finishes 
+its cast. The mechanics that were telegraphed earlier by the clones will now 
+resolve for real.
 
 <table>
   <tr>
-    <td width="50%"><b>1. Initial positions</b><ul><li><b>Light Beacon:</b> Slightly west of North (NNW)</li><li><b>Dark Beacon:</b> East</li><li><b>Red/Green tether:</b> Slightly NW of the Dark Beacon</li><li><b>No debuff:</b> Slightly W of the Dark Beacon</li><li><b>Blue tether:</b> Slightly SW of the Dark Beacon</li></ul></td>
-	<td><img src="{{site.baseurl}}/assets/images/ultimates/tea/04/fate_calibration_beta_01.jpg"><img src="{{site.baseurl}}/assets/images/ultimates/tea/04/fate_calibration_beta/beta_positioning.jpg"></td>
+    <td width="50%">
+      <p><b>1. Initial positions</b></p>
+      <ul>
+        <li><b>Light Beacon:</b> Slightly west of North (NNW)</li>
+        <li><b>Dark Beacon:</b> East</li>
+        <li><b>Red/Green tether:</b> Slightly NW of the Dark Beacon</li>
+        <li><b>No debuff:</b> Slightly W of the Dark Beacon</li>
+        <li><b>Blue tether:</b> Slightly SW of the Dark Beacon</li>
+      </ul>
+    </td>
+	  <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/tea/04/fate_calibration_beta_01.jpg">
+      <img src="{{site.baseurl}}/assets/images/ultimates/tea/04/fate_calibration_beta/beta_positioning.jpg">
+    </td>
   </tr>
   <tr>
-    <td><b>2.</b> Forced March resolves.<ul><li><b>Light players + Dark with red/green:</b> Stack together north</li><li><b>Dark players (except red/green tether):</b> Move to the edge of the arena.</li></ul></td>
-	<td><img src="{{site.baseurl}}/assets/images/ultimates/tea/04/fate_calibration_beta_02.jpg"></td>
+    <td>
+      <p><b>2.</b> Forced March resolves.</p>
+      <ul>
+        <li><b>Light players + Dark with red/green:</b> Stack together north</li>
+        <li><b>Dark players (except red/green tether):</b> Move to the edge of 
+        the arena.</li>
+      </ul>
+    </td>
+	  <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/tea/04/fate_calibration_beta_02.jpg">
+    </td>
   </tr>
   <tr>
     <td><b>3.</b> Light Shared Sentence and Super Jump resolves.</td>
 	<td><img src="{{site.baseurl}}/assets/images/ultimates/tea/04/fate_calibration_beta_03.jpg"></td>
   </tr>
   <tr>
-    <td><p><b>4.</b>Stack/Spread.</p><p>If Stacks:</p><ul><li><b>Light players:</b> Stack around mid</li><li><b>Dark players:</b> Stack south</li></ul></td>
-	<td><img src="{{site.baseurl}}/assets/images/ultimates/tea/04/fate_calibration_beta_04.jpg"></td>
+    <td>
+      <p><b>4.</b>Stack/Spread.</p>
+      <p>If Stacks:</p>
+      <ul>
+        <li><b>Light players:</b> Stack around mid</li>
+        <li><b>Dark players:</b> Stack south</li>
+      </ul>
+    </td>
+	  <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/tea/04/fate_calibration_beta_04.jpg">
+    </td>
   </tr>
   <tr>
     <td><b>5.</b> Radiant Sacrament resolves.</td>
-	<td><img src="{{site.baseurl}}/assets/images/ultimates/tea/04/fate_calibration_beta_05.jpg"></td>
+	  <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/tea/04/fate_calibration_beta_05.jpg">
+    </td>
   </tr>
 </table>
 
-After Fate Calibration β, Perfect Alexander will cast the second Ordained Capitol Punishment (tankbuster).
+After Fate Calibration β, Perfect Alexander will cast the second *Ordained 
+Capital* Punishment (tankbuster).
 
 <table>
   <tr>
@@ -320,9 +443,13 @@ After Fate Calibration β, Perfect Alexander will cast the second Ordained Capit
 
 ## Exatrines
 
-Almighty Judgment *(also commonly referred to as "Exatrines", after Exaflare from UCoB and Trine from O8S)* are a series of three telegraphed ground AoEs before resolving for real.
+*Almighty Judgment* *(also commonly referred to as "Exatrines", after Exaflare 
+from UCoB and Trine from O8S)* are a series of three telegraphed ground AoEs 
+before resolving for real.
 
-The AoE locations are *not* entirely random- they spawn in a random order from the three diagrams shown below. The *only* positions the party will consider are the ones marked in red:
+The AoE locations are *not* entirely random- they spawn in a random order from 
+the three diagrams shown below. The *only* positions the party will consider
+are the ones marked in red:
 
 <table>
   <tr>
@@ -335,10 +462,13 @@ The AoE locations are *not* entirely random- they spawn in a random order from t
 Note that there will *always* be an available 3-to-1 dodge.
 
 1. Look at the first set of telegraphs. This is where you will *end*.
-2. Look at the second set of telegraphs that are adjacent to your ending point. You will start at the *remaining* adjacent position.
-3. Look at the third (remaining) set of telegraphs that are adjacent to your ending point. This is where you will *start*.
+2. Look at the second set of telegraphs that are adjacent to your ending point. 
+   You will start at the *remaining* adjacent position.
+3. Look at the third (remaining) set of telegraphs that are adjacent to your 
+   ending point. This is where you will *start*.
 
-Each Exatrine is immediately followed by Irresistable Grace, an 8-man party stack that must be heavily mitigated. The recommended mitigation plan is:
+Each Exatrine is immediately followed by *Irresistable Grace*, an 8-man party 
+stack that must be heavily mitigated. The recommended mitigation plan is:
 
 <table>
   <tr>
@@ -362,9 +492,11 @@ There will also be one last tankbuster after the first Exatrine.
 
 ## Temporal Prison
 
-After the second Irresistable Grace, Perfect Alexander will then proceed to cast Temporal Prison, the hard enrage for this fight.
+After the second *Irresistable Grace*, Perfect Alexander will then proceed to 
+cast *Temporal Prison*, the hard enrage for this fight.
 
-Seven towers/jails appear and resolve, starting from the NE and going clockwise around Perfect Alexander.
+Seven towers/jails appear and resolve, starting from the NE and going clockwise 
+around Perfect Alexander.
 
 The jails are resolved with the lowest DPS players going first.
 ```
@@ -375,15 +507,23 @@ Note that DoTs will continue to tick even after the player has been imprisoned.
 ## Frequently Asked Questions
 
 <details markdown=block>
-<summary><b>[Ordained Stillness]</b> Do emotes count as movement?</summary>
+<summary>
+  <b>[Ordained Stillness]</b> Do emotes count as movement?
+</summary>
 <table>
-  <tr><td><p>No, they do not.</p></td></tr>
+  <tr>
+    <td>
+      <p>No, emotes do not count as movement.</p>
+    </td>
+  </tr>
 </table>
 </details>
 
 <details markdown=block>
-  <summary><b>[Light/Dark debuffs]</b> Is there any relation between the 
-  Light and Dark players?</summary>
+<summary>
+  <b>[Light/Dark debuffs]</b> Is there any relation between the Light and Dark 
+  players?
+</summary>
 <table>
   <tr>
     <td>
@@ -395,16 +535,36 @@ Note that DoTs will continue to tick even after the player has been imprisoned.
 </details>
 
 <details markdown=block>
-<summary><b>[Forced March]</b> Why is the forced march east-to-west, instead of south-to-north? Don't melee get positionals?</summary>
+<summary>
+  <b>[Forced March]</b> Why is the forced march east-to-west, instead of 
+  south-to-north? Don't melee get positionals?
+</summary>
 <table>
-  <tr><td><p>This is done to keep the Dark Beacon's position consistent with Fate Calibration β.</p><p>If you <em>really</em> want positionals, you can always have the MT tank Perfect Alexander facing West, although that's rather janky.</p></td></tr>
+  <tr>
+    <td>
+      <p>This is done to keep the Dark Beacon's position consistent with 
+      <em>Fate Calibration β</em>.</p>
+      <p>If you <em>really</em> want positionals, you can always have the MT 
+      tank Perfect Alexander facing West, although that's rather janky.</p>
+    </td>
+  </tr>
 </table>
 </details>
 
 <details markdown=block>
-<summary><b>[Forced March]</b> Why aren't the two stacks before Fate Calibration α split Light/Dark players just like Fate Calibration β?</summary>
+<summary>
+  <b>[Forced March]</b> Why aren't the two stacks before <em>Fate Calibration
+  α</em> split Light/Dark players just like <em>Fate Calibration β</em>?</summary>
 <table>
-  <tr><td><p>The two stacks follow different targeting rules.</p><p>The stacks in Fate Calibration β always target the Light Beacon and the Dark Beacon, which is why players group Light vs. Dark there.</p><p>In contrast, the stacks before Fate Calibration α are <b>random</b>, hence the need for a priority order.</p></td></tr>
+  <tr>
+    <td>
+      <p>The two stacks follow different targeting rules.</p>
+      <p>The stacks in <em>Fate Calibration β</em> always target the Light 
+      Beacon and the Dark Beacon, which is why players group Light vs. Dark 
+      there.</p>
+      <p>The stacks before Fate Calibration α are <b>random</b>.</p>
+    </td>
+  </tr>
 </table>
 </details>
 
@@ -453,13 +613,20 @@ Note that DoTs will continue to tick even after the player has been imprisoned.
 <table>
   <tr>
     <td>
-      <p>You <em>can</em> use the center, and some groups do. However, the 
-      center has a few problems:</p>
+      <p>You <em>can</em> use the center, and some groups do (especially on
+      other data centers). However, using the center has a few problems:</p>
       <ul>
-        <li>Because the party is naturally south of the boss, someone calling 
-        out "center" <em>can</em> be misinterpreted as "center of the arena", 
-        or "center (from west-to-east)", which is the south position. Removing
-        the center of the arena from play gets around this possibility.</li>
+        <li>Because the party will dodge the Exaflares from marker-to-marker, 
+        using the center gives the impression that dodging from the center of 
+        the arena to the east marker (or vice versa) is a viable dodge, while 
+        in reality, the party will <em>never</em> dodge Exatrines that way. 
+        Putting a marker to the SW puts the Exatrine positions along a single 
+        line, lowering the chance of such an accident.</li>
+        <li>In addition, because the party is naturally south of the boss, 
+        someone calling out "center" <em>can</em> be misinterpreted as "center 
+        of the arena", or "center (from west-to-east)", which is the south 
+        position. Removing the center of the arena from play gets around this 
+        possibility.</li>
         <li>If you use the center of the arena, there is a chance the party 
         dodges from the center of the arena to the south position. As people's
         cameras may be facing north at that point (looking towards the boss), 
@@ -467,12 +634,6 @@ Note that DoTs will continue to tick even after the player has been imprisoned.
         making it harder to tell where to stop. By using the SW position, the 
         movement now becomes lateral, so the light pillars are less likely to 
         obstruct players' vision.</li>
-        <li>Because the party will dodge the Exaflares from marker-to-marker, 
-        using the center also gives the illusion that the center of the arena 
-        to the east marker (or vice versa) is a viable dodge, while the party 
-        will <em>never</em> dodge Exatrines that way in reality. Putting a 
-        marker to the SW puts the Exatrine positions along a single line, 
-        lowering the chance of such an accident.</li>
       </ul>
     </td>
   </tr>
@@ -480,7 +641,7 @@ Note that DoTs will continue to tick even after the player has been imprisoned.
 </details>
 
 <details markdown=block>
-  <summary><b>[Perfect Alexander]</b> So, what <em>does</em> the Enigma Codex
+  <summary><b>[Perfect Alexander]</b> What <em>does</em> the Enigma Codex
   do? Why is it important?</summary>
 <table>
   <tr>
@@ -543,22 +704,50 @@ Note that DoTs will continue to tick even after the player has been imprisoned.
 ## Troubleshooting
 
 <details markdown=block>
-<summary><b>[Divine Retribution]</b> What is this? What happened?</summary>
+<summary>
+  <b>[Divine Retribution]</b> What is this? What happened?
+</summary>
 <table>
-  <tr><td><p>This happens when either a Light player touches the Light Beacon, or a Dark player moves too far away from the Dark Beacon.</p></td></tr>
+  <tr>
+    <td>
+      <p>This happens when either a Light player touches the Light Beacon, or a 
+      Dark player moves too far away from the Dark Beacon.</p>
+    </td>
+  </tr>
 </table>
 </details>
 
 <details markdown=block>
-<summary><b>[Collective Reprobation (stacks)]</b> Why did the party wipe? What is "Faithlessness"?</summary>
+<summary>
+  <b>[Collective Reprobation (stacks)]</b> Why did the party wipe? What is 
+  <em>Faithlessness</em>?
+</summary>
 <table>
-  <tr><td><p>The stacks have an anti-cheese mechanic built into them, and cannot be taken solo.</p><p>When a stack is solo'ed (even with invuln), raid-wide damage called "Faithlessness" is triggered, which wipes the raid.</p></td></tr>
+  <tr>
+    <td>
+      <p>The stacks have an anti-cheese mechanic built into them, and 
+      <em>cannot</em> be taken solo.</p>
+      <p>When a stack is solo'ed (even with invuln), raid-wide damage called 
+      <em>Faithlessness</em> is triggered, which wipes the raid.</p>
+    </td>
+  </tr>
 </table>
 </details>
 
 <details markdown=block>
-<summary><b>[Fate Calibration β]</b> How did someone get hit with two J Jumps?</summary>
+<summary>
+  <b>[Fate Calibration β]</b> How did someone get hit with two J Jumps?
+</summary>
 <table>
-  <tr><td><p>This happens when either the Dark Beacon, or the Dark player with no tether forgets to go to the edge of the arena to bait the jump.</p><p>The Alexander clones target the furthest players from them to jump to- if either player forgets to bait this, then the Dark player with the blue tether (who is south) becomes the furthest player for <b>two</b> of the Alexanders.</p></td></tr>
+  <tr>
+    <td>
+      <p>This happens when either the Dark Beacon, or the Dark player with no 
+      tether forgets to go to the edge of the arena to bait the jump.</p>
+      <p>The Alexander clones target the furthest players from them to jump to- 
+      if either player forgets to bait this, then the Dark player with the blue 
+      tether (who is south) becomes the furthest player for <b>two</b> of the 
+      Alexanders.</p>
+    </td>
+  </tr>
 </table>
 </details>

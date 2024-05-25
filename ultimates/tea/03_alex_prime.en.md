@@ -402,6 +402,10 @@ from *Alpha Sword*.
       </ul>
       <p>If either side has both <em>Enumerations</em> (or equivalently, no 
       <em>Enumerations</em>), <b>D1</b> and <b>D2</b> swap sides.</p>
+      <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+      <b>Tip:</b> If you are D1 or D2 and you see four people on your side, 
+      you need to swap <em>(because your counterpart has already swapped, but
+      you haven't)</em>.</div>
     </td>
 	  <td>
       <img src="{{site.baseurl}}/assets/images/ultimates/tea/03/wormhole_12.jpg">
@@ -754,10 +758,13 @@ The party then proceeds onto Perfect Alexander.
         </tr>
       </table>
       <p>Without knowing what the Enumeration split will be ahead of time, 
-      only two players potentially have to adjust with the melee-swap strat 1/
-      3 of the time, while at least two DPS are guaranteed to adjust (with all 
+      only two players potentially have to adjust with the melee-swap strat 1/3 
+      of the time, while at least two DPS are guaranteed to adjust (with all 
       four DPS potentially having to adjust) with the TTD/HHD strat <em>all</em>
       the time, leading to more points of error.</p>
+      <p>This also means that if you are D1 or D2, and you have four people on
+      your side, you are the one that needs to swap to the other side <em>
+      (because your counterpart has already swapped, but you haven't)</em>.</p>
     </td>
   </tr>
 </table>
