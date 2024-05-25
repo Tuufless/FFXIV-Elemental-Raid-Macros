@@ -85,6 +85,12 @@ Touchdown (which is just done at the edge).
 
 This first part cycles through the three main mechanics of the fight.
 
+As there are HP checks in this phase, we assign four players to each dragon as
+a base:
+
+- **MT, H1, D1, D3** → Prioritize Nidhogg
+- **ST, H2, D2, D4** → Prioritize Hraesvelgr
+
 ### Wyrmsbreath #1
 
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
