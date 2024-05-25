@@ -46,6 +46,8 @@ start the fight pulling the boss slightly **North-East** of the center.
 }
 ```
 
+</details>
+
 ## Guardian Programs
 
 Although the programs loaded on the two screens in the background may look
