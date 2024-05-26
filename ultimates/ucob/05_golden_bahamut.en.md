@@ -8,23 +8,44 @@ permalink: /ultimates/ucob/05_golden_bahamut/
 
 # Golden Bahamut
 
-This phase is often nicknamed the "victory lap" because it's the simplest phase
-in the entire fight.
+This phase is often nicknamed the "victory lap" because it's by far the
+simplest phase in the entire fight.
 
-If Bahamut was not previously brought down to below 60% HP, Golden Bahamut will
-start the phase with a 5x damage-up buff *("Bahamut grows mightier still!")* 
+Phoenix revives the party, giving all party members full HP/MP, an LB3, and
+the *Phoenix's Blessing* buff.
+
+<table>
+  <tr>
+    <td style="text-align:center">
+      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/05/phoenix_blessing.png">
+    </td>
+    <td>
+      <p><b>Phoenix's Blessing</b></p>
+      <p><em>Damage dealt is increased.</em></p>
+      <ul>
+        <li>Doubles the damage dealt by the player.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+This buff is *lost* when a player dies, thus increasing the consequences of
+dying in this phase (especially if a DPS dies early in the phase).
+
+Bahamut reappears, and transforms into Golden Bahamut.
+
+If Bahamut was not previously brought down to below 60% HP, Golden Bahamut will 
+start the phase with a 5x damage-up buff *("Bahamut grows mightier still!")*
 that make this phase impossible to clear with a standard party composition.
 
-The final phase of UCoB consists of three mechanics on a loop:
+The final phase consists of three mechanics on a loop:
 
 1. Morn Afah (party stack)
 2. Akh Morn (shared tankbuster)
 3. Exaflares
 
-This loop repeats five times in total.
-
-**However**, the order for Morn Afah and Akh Morn is switched **only for the
-second iteration.**
+This loop repeats five times in total, although the order for *Morn Afah* and 
+*Akh Morn* is switched **only for the second iteration.**
 
 ---
 
@@ -68,7 +89,7 @@ Tanks will also need to plan out their cooldowns for the Akh Morns.
 <table>
   <tr>
     <td><b>Akh Morn #1</b></td>
-    <td><p>MT + ST stack, Rampart + 120s (whatever's available)</p></td>
+    <td><p>MT + ST stack, Rampart + 30% + short</p></td>
   </tr>
   <tr>
     <td><b>Akh Morn #2</b></td>
@@ -80,15 +101,17 @@ Tanks will also need to plan out their cooldowns for the Akh Morns.
   </tr>
   <tr>
     <td><b>Akh Morn #4</b></td>
-    <td>MT + ST stack, Rampart + 120s</td>
+    <td>MT + ST stack, Rampart + 30% + short</td>
   </tr>
 </table>
 
 <table>
   <tr>
     <td width="50%">
-      <p><b>1.</b> Golden Bahamut targets a random party member with Morn Afah.</p>
-      <p>This is a full 8-man party stack that requires additional mitigation.</p>
+      <p><b>1.</b> Golden Bahamut begins by targeting a random party member 
+      with Morn Afah.</p>
+      <p>This is a full 8-man party stack that deals an extremely large amount
+      of damage.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/assets/images/ultimates/ucob/05/golden_bahamut_01.jpg">
@@ -107,7 +130,8 @@ Tanks will also need to plan out their cooldowns for the Akh Morns.
   </tr>
   <tr>
     <td>
-      <p><b>3.</b> Golden Bahamut casts Exaflare.</p><p>First set of Exaflares appear.</p>
+      <p><b>3.</b> Golden Bahamut casts Exaflare.</p>
+      <p>First set of Exaflares appear.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/assets/images/ultimates/ucob/05/golden_bahamut_03.jpg">
@@ -151,9 +175,9 @@ Tanks will also need to plan out their cooldowns for the Akh Morns.
   </tr>
 </table>
 
-The above loop repeats four more times before Golden Bahamut casts a final Morn
-Afah, targeting players one at a time (in order of descending hate) to serve as
-the hard enrage.
+The above loop repeats four more times before Golden Bahamut casts a final 
+*Morn Afah*, targeting players one at a time (in order of descending hate) to 
+serve as the hard enrage.
 
 ---
 
