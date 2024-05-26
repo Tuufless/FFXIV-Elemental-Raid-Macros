@@ -9,11 +9,17 @@ permalink: /ultimates/top/03_omega_reconfigured/
 
 # Omega Reconfigured
 
-This is the only phase in the fight with a transitional mechanic.
+This phase can be broken down into three sections:
+
+- [Transition](#transition)
+- [Hello World](#hello-world)
+- [Oversampled Wave Cannon (Monitors)](#oversampled-wave-cannon)
 
 ---
 
 ## Transition
+
+This is the only phase in the fight with a transition mechanic.
 
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
 <details markdown=block>
@@ -152,16 +158,8 @@ This is the only phase in the fight with a transitional mechanic.
 
 ## Hello, World
 
-Omega begins the phase with its signature *Hello, World* mechanic.
-
-*Hello, World* concludes with Omega casting *Critical Error*. This gives the
-entire party *Critical Overflow Bugs*, which will lead to a wipe. However, this
-is blocked by an *Overflow Debugger* buff, which is gained when a player
-resolves *Critical Overflow*.
-
-**Thus, the goal is to resolve all the debuffs, and get everybody the *Overflow
-Debugger* buff** <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/overflow_debugger.png">
-**before *Critical Error* is cast**.
+Omega begins the phase with its signature *Hello, World* mechanic, which does
+raid-wide damage, and applies a *lot* of debuffs on all players.
 
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
 <details markdown=block>
@@ -418,12 +416,31 @@ Debugger* buff** <img style="height:1em" src="{{site.baseurl}}/assets/images/ult
 </details>
 </div>
 
-Although *Hello, World* may look overwhelming at first, it is just four loops. Each loop, only **two things are relevant**:
+Although *Hello, World* may look overwhelming, only **two things are
+relevant**:
 
-1. What colour "Nisi" (*Critical Performance* and *Critical Underflow*) is paired 
-   with *Critical Overflow* and *Critical Synchronization*.
+1. What colour "Nisi" (*Critical Performance* and *Critical Underflow*) is
+   paired with *Critical Overflow* and *Critical Synchronization*. This is
+   determined when the debuffs appear, and will be fixed for the entire phase.
 2. What debuff you currently have in the cycle (the *Local/Remote Regression* 
    tethers, or the *Critical Overflow/Synchronization* "Nisis").
+
+These two rules then determine where everyone goes each loop:
+
+- ***Critical Overflow/Synchronization* (the "Nisis")**
+  - Players with *Critical Overflow* (the "Defamations") always take their
+    coloured tower, standing towards the **outside**.
+  - Players with *Critical Synchronization* always take their coloured tower,
+    standing towards the **inside**.
+- ***Local/Remote Regression* (the tethers)**
+  - Players with the red/green tethers always stretch their tether, and stand
+    beside the players **with *Critical Overflow*** (the "Defamations")
+  - Players with the blue tethers always stand in between the players **with
+    *Critical Synchronization***.
+
+This then puts the party into one of the two formations below, depending on
+whether *Critical Overflow* is paired with *Critical Performance* or
+*Critical Underflow*.
 
 <table>
   <tr>
@@ -444,22 +461,24 @@ Although *Hello, World* may look overwhelming at first, it is just four loops. E
   </tr>
 </table>
 
-*Hello, World* is simply a cycle of debuffs to resolve. Players will be paired 
-together based on their debuffs- at any one point, two players will be at each
-stage in the cycle, alternating between towers and tethers.
+When the *Critical Overflow/Synchronization Bugs* resolve, everyone in the
+party takes damage, and we pass the *Critical Performance/Underflow* ("Nisis")
+debuffs by having the tether players move to the players with
+*Critical Performance/Underflow*.
 
-- The pairing between *Critical Overflow Bugs/Critical Synchronization Bugs* 
-  with *Critical Underflow Bugs/Critical Performance Bugs* (red/blue Nisis) is 
-  randomly determined when *Hello, World* is cast. Once determined, **it will 
-  not change** between tower sets.
-- Similarly, players are randomly paired together based on their debuffs when 
-  *Hello, World* is cast. Once assigned, **the pairs will not change** between
-  tower sets.
+The tethers will also become real, which we then resolve one by one:
+
+1. First, break the blue tethers by having those players **move away** from
+   each other *(this will naturally break when picking up Critical
+   Performance/Underflow)*.
+2. Then, break the red/green tethers by having those player **move towards**
+   each other.
+
+Thus, the full *Hello, World* sequence goes like this:
 
 <table>
   <tr>
     <td>
-      <p>The basic loop consists of:</p>
       <ol>
         <li>Orientate to coloured towers.</li>
         <li>Pair players together:
@@ -489,9 +508,130 @@ stage in the cycle, alternating between towers and tethers.
   </tr>
 </table>
 
+Once all steps have been completed, the party will find itself with different
+debuffs to resolve, and the sequence repeats.
+
 This loop is repeated four times (all players will have their go at each
 debuff). However, the final iteration has one small difference where the *Local
-Regression* players stand *away* from the *Critical Overflow Bugs* instead.
+Regression* players stand *with* the *Critical Synchronization Bugs* instead.
+
+### Mitigation
+
+One last thing to touch on will be party mitigation.
+
+Each loop, the party will take raid-wide damage from the *Critical
+Overflow/Synchronization* debuffs resolving, and the two tethers breaking.
+
+The party needs **three pieces of mitigation** (shields count) to survive all
+the damage from each loop *without* any healing in between.
+
+As a baseline, I recommend the following mitigation:
+
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+<details markdown=block>
+<summary>
+  <b>[Click to Expand] Mitigation Notation</b>
+</summary>
+<table>
+  <tr>
+    <td colspan="2"><b>Party mitigations</b></td>
+  </tr>
+  <tr>
+    <td>MT 90s, ST 90s</td>
+    <td><em>Shake It Off, Dark Missionary, Heart of Light, Divine Veil</em></td>
+  </tr>
+  <tr>
+    <td>H1 120s</td>
+    <td><em>Temperance, Neutral Sect</em></td>
+  </tr>
+  <tr>
+    <td>H2 30s</td>
+    <td><em>Sacred Soil, Kerachole</em></td>
+  </tr>
+  <tr>
+    <td>H2 90s</td>
+    <td><em>Deployment Tactics, Zoe</em></td>
+  </tr>
+  <tr>
+    <td>H2 120s</td>
+    <td><em>Expedient, Holos</em></td>
+  </tr>
+  <tr>
+    <td>D1, D2</td>
+    <td><em>Feint</em></td>
+  </tr>
+  <tr>
+    <td>D3</td>
+    <td><em>Troubadour, Tactician, Shield Samba</em></td>
+  </tr>
+  <tr>
+    <td>D4</td>
+    <td><em>Addle</em></td>
+  </tr>
+</table>
+</details>
+</div>
+
+<table>
+  <tr>
+    <td><b>Hello, World</b></td>
+    <td>
+      <ul>
+        <li>MT Reprisal, D1, D4</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><b>First loop</b></td>
+    <td>
+      <ul>
+        <li>MT 90s, ST Reprisal</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Second loop</b></td>
+    <td>
+      <ul>
+        <li>H1 120s, H2 120s</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Third loop</b></td>
+    <td>
+      <ul>
+        <li>MT Reprisal, ST 90s</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Fourth loop</b></td>
+    <td>
+      <ul>
+        <li>ST Reprisal, D3</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Critical Error</b></td>
+    <td>
+      <ul>
+        <li>D1, D4</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+Each of these will need the party topped to full, and *something* else from
+the healers, whether it be *Succor/Eukrasian Prognosis*,
+*Sacred Soil/Kerachole*, *Liturgy of the Bell/Macrocosmos*, etc.
+
+Omega will also auto-attack the tanks in between loops, which should be
+mitigated to alleviate strain on the healers. Consider tank-swapping around
+the third set of towers to cycle through both tank's cooldowns.
+
+We can now (finally) go over *Hello, World* in detail.
 
 ### Setup
 
@@ -557,30 +697,18 @@ Regression* players stand *away* from the *Critical Overflow Bugs* instead.
   </tr>
 </table>
 
-<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
-  <p><b>Tip:</b> The boss will be auto-attacking the tanks in between towers.</p>
-  <p>This should be mitigated by cycling through your cooldowns to reduce
-  strain on the healers.</p>
-  <p>Consider tank swapping after the second set of towers to cycle through the 
-  ST's mitigations.</p>
-</div>
-<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
-  <p><b>Tip:</b> The party will be taking raid-wide damage from <em>Critical
-  Overflow</em>, <em>Critical Synchronization</em>, and the two tethers when
-  they resolve.</p>
-  <p>The party needs <b>three pieces of mitigation</b> (shields count) to 
-  survive all the damage without any healing in between.</p>
-</div>
+### First, second, third iterations
 
-### First iteration
+For brevity's sake, we will only display the relevant debuffs, and just the
+first iteration.
 
-For brevity's sake, we will only display the relevant debuffs from here
-onwards.
+The second and third iterations are simply a repeat (with everyone resolving
+different debuffs each time).
 
 <table>
   <tr>
     <td width="50%">
-      <p><b>3.</b> Pair up and move to your towers.</p>
+      <p><b>4.</b> Pair up and move to your towers.</p>
       <ul>
         <li>Critical Overflow <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_overflow_bug.png">
         and red/green tethered players pair up and move to their towers
@@ -602,7 +730,7 @@ onwards.
   </tr>
   <tr>
     <td>
-      <p><b>4.</b> The first set of tethers manifest.</p>
+      <p><b>5.</b> The first set of tethers manifest.</p>
       <p>Towers, Critical Overflow Bugs <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_overflow_bug.png">,
       and Critical Synchronization Bugs <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_synchronization_bug.png">
       resolve.</p>
@@ -618,7 +746,7 @@ onwards.
   <tr>
     <td>
       <p>
-        <b>5.</b> Wait a split second before passing Critical Underflow <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_underflow_bug.png">
+        <b>6.</b> Wait a split second before passing Critical Underflow <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_underflow_bug.png">
         and Critical Performance Bugs <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_performance_bug.png">.
       </p>
       <p>The players who were at the Critical Overflow <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_synchronization_bug.png"> towers <em>(blue in this example)</em> 
@@ -629,7 +757,7 @@ onwards.
   </tr>
   <tr>
     <td>
-      <p><b>4.</b> Red/green tethered players move together to break their tether.</p>
+      <p><b>7.</b> Red/green tethered players move together to break their tether.</p>
       <p>Avoid the explosions from Critical Underflow <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_underflow_bug.png">
       and Critical Performance <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_performance_bug.png">.</p>
     </td>
@@ -637,148 +765,22 @@ onwards.
   </tr>
 </table>
 
-### Second iteration
-
-All players rotate their roles for the second iteration.
-
-- Players who were Critical Overflow <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_overflow_bug.png">
-  become Remote Regression <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/remote_regression.png">
-  (blue tethers)
-- Players who were Remote Regression <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/remote_regression.png">
-  become Critical Synchronization <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_synchronization_bug.png">
-- Players who were Critical Synchronization <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_synchronization_bug.png">
-  become Local Regression <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/local_regression.png">
-  (red/green tethers)
-- Players who were Local Regression <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/local_regression.png">
-  become Critical Overflow <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_overflow_bug.png">.
-
-<table>
-  <tr>
-    <td width="50%">
-      <p><b>6.</b> Pair up and move to your towers.</p>
-      <ul>
-        <li>Critical Overflow <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_overflow_bug.png">
-        and red/green tethered players pair up and move to their towers.</li>
-        <li>Critical Synchronization <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_synchronization_bug.png">
-        and blue tethered players pair up and move to their towers.</li>
-      </ul>
-    </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/03/hello_world_2_1.jpg"></td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>7.</b> The next set of tethers manifest.</p>
-      <p>Towers, Critical Overflow Bugs <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_overflow_bug.png">,
-      and Critical Synchronization Bugs <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_synchronization_bug.png">
-      resolve.</p>
-    </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/03/hello_world_2_2.jpg"></td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>8.</b> Wait a split second before passing Critical Underflow <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_underflow_bug.png">
-      and Critical Performance Bugs <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_performance_bug.png">.</p>
-      <p>The players who were at the Critical Overflow <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_synchronization_bug.png"> towers <em>(blue in this example)</em> 
-      pass their coloured debuffs at the markers.</p>
-      <p>Blue-tethered players also break their tether in the process.</p>
-    </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/03/hello_world_2_3.jpg"></td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>9.</b> Red/green tethered players move together to break their tether.</p>
-      <p>Avoid the explosions from Critical Underflow <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_underflow_bug.png">
-      and Critical Performance <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_performance_bug.png">.</p>
-    </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/03/hello_world_2_4.jpg"></td>
-  </tr>
-</table>
-
-### Third iteration
-
-All players rotate their roles again for the third iteration.
-
-- Players who were Critical Overflow <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_overflow_bug.png">
-  become Remote Regression <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/remote_regression.png">
-  (blue tethers)
-- Players who were Remote Regression <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/remote_regression.png">
-  become Critical Synchronization <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_synchronization_bug.png">
-- Players who were Critical Synchronization <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_synchronization_bug.png">
-  become Local Regression <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/local_regression.png">
-  (red/green tethers)
-- Players who were Local Regression <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/local_regression.png">
-  become Critical Overflow <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_overflow_bug.png">.
-
-<table>
-  <tr>
-    <td width="50%">
-      <p><b>10.</b> Pair up and move to your towers.</p>
-      <ul>
-        <li>Critical Overflow <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_overflow_bug.png">
-        and red/green tethered players pair up and move to their towers.</li>
-        <li>Critical Synchronization <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_synchronization_bug.png">
-        and blue tethered players pair up and move to their towers.</li>
-      </ul>
-    </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/03/hello_world_3_1.jpg"></td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>11.</b> The third set of tethers manifest.</p>
-      <p>Latent Defect, Towers, Critical Overflow Bugs <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_overflow_bug.png">,
-      and Critical Synchronization Bugs <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_synchronization_bug.png">
-      resolve.</p>
-    </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/03/hello_world_3_2.jpg"></td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>12.</b> Wait a split second before passing Critical Underflow <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_underflow_bug.png">
-      and Critical Performance Bugs <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_performance_bug.png">.</p>
-      <p>The players who were at the Critical Overflow <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_synchronization_bug.png"> towers <em>(blue in this example)</em> 
-      pass their coloured debuffs at the markers.</p>
-      <p>Blue-tethered players also break their tether in the process.</p>
-    </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/03/hello_world_3_3.jpg"></td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>13.</b> Red/green tethered players move together to break their tether.</p>
-      <p>Avoid the explosions from Critical Underflow <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_underflow_bug.png">
-      and Critical Performance <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_performance_bug.png">.</p>
-    </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/03/hello_world_3_4.jpg"></td>
-  </tr>
-</table>
+All players rotate their roles for the next iteration, and repeat the loop.
 
 ### Fourth (final) iteration
 
-All players rotate their roles again for the fourth (and final) iteration.
+There are **two key differences** for the final iteration:
 
-- Players who were Critical Overflow <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_overflow_bug.png">
-  become Remote Regression <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/remote_regression.png">
-  (blue tethers)
-- Players who were Remote Regression <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/remote_regression.png">
-  become Critical Synchronization <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_synchronization_bug.png">
-- Players who were Critical Synchronization <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_synchronization_bug.png">
-  become Local Regression <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/local_regression.png">
-  (red/green tethers)
-- Players who were Local Regression <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/local_regression.png">
-  become Critical Overflow <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_overflow_bug.png">.
+1. Players with *Local Regression* <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/local_regression.png"> 
+   will **join** the *Critical Synchronizations* <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_synchronization_bug.png">
+   instead of getting hit by *Critical Overflow* <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_overflow_bug.png">
+   and will break **first**.
+2. Players will **not** pass *Critical Underflow* <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_underflow_bug.png">
+   and *Critical Performance* <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_performance_bug.png">.
 
-This time around, there are two differences:
-
-1. Red/green tethers will **join** the blue tethers at Critical
-   Synchronizations <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_synchronization_bug.png">
-   instead of getting hit by Critical Overflow <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_overflow_bug.png">
-   and break **first**.
-2. Players will **not** pass Critical Underflow <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_underflow_bug.png">
-   and Critical Performance <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_performance_bug.png">.
-
-Also note that because all players have gone through all the previous roles,
-they have the *Underflow Debugger* and *Performance Debugger* buffs that 
-prevent them from receiving *Critical Underflow Bug* and *Critical Performance 
-Bug* again (the Nisis).
+Also, because all players have gone through all other roles, they have the
+Debugger buffs that prevent them from receiving *Critical Underflow Bug* and
+*Critical Performance Bug* again (the Nisis).
 
 Thus, this final set of towers is **free movement**, as the Nisis will not be 
 passed, even if players bump into one another.
@@ -786,7 +788,7 @@ passed, even if players bump into one another.
 <table>
   <tr>
     <td width="50%">
-      <p><b>14.</b> Pair up and move to your towers.</p>
+      <p><b>8.</b> Pair up and move to your towers.</p>
       <ul>
         <li><b>Red/green tethered players will be with Critical Synchronization
         <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_synchronization_bug.png">
@@ -800,7 +802,7 @@ passed, even if players bump into one another.
   </tr>
   <tr>
     <td>
-      <p><b>15.</b> The last set of tethers manifest.</p>
+      <p><b>9.</b> The last set of tethers manifest.</p>
       <p>Latent Defect, Towers, Critical Overflow Bugs <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_overflow_bug.png">,
       and Critical Synchronization Bugs <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_synchronization_bug.png">
       resolve.</p>
@@ -811,7 +813,7 @@ passed, even if players bump into one another.
   </tr>
   <tr>
     <td>
-      <p><b>16.</b> <b>Do not</b> pass Critical Underflow
+      <p><b>10.</b> <b>Do not</b> pass Critical Underflow
       <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_underflow_bug.png">
       and Critical Performance Bugs <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_performance_bug.png">.</p>
       <p>Blue-tethered players break their tether.</p>
@@ -820,7 +822,7 @@ passed, even if players bump into one another.
   </tr>
   <tr>
     <td>
-      <p><b>17.</b> Avoid the explosions from Critical Underflow
+      <p><b>11.</b> Avoid the explosions from Critical Underflow
       <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_underflow_bug.png">
       and Critical Performance <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_performance_bug.png">.</p>
     </td>
@@ -828,7 +830,7 @@ passed, even if players bump into one another.
   </tr>
   <tr>
     <td>
-      <p><b>18.</b> All players have resolved their debuffs, and there are no
+      <p><b>12.</b> All players have resolved their debuffs, and there are no
       more bugs remaining.</p>
       <p>Omega will cast <em>Critical Error</em>, which deals heavy raid-wide 
       damage, <em>and</em> applies a fresh <em>Critical Overflow Bug</em> on
@@ -849,8 +851,8 @@ Monitors will appear on Omega's, and on three random player's left-hand or
 right-hand side. For each of the four monitors (Omega and the three players),
 two random players on the monitor's side will be hit with an AoE.
 
-The party needs to arrange themselves such that all monitors hit exactly one
-player each.
+The party needs to arrange themselves such that all monitors hit exactly two
+players each.
 
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
 <details markdown=block>
@@ -1009,6 +1011,9 @@ PF currently resolves this using [Astoh's strat](https://twitter.com/Astoh_Shall
   </tr>
 </table>
 </details>
+
+After the *Oversampled Wave Cannons* resolve, Omega will then cast *Ion Efflux*
+as the hard enrage for this phase.
 
 ---
 
