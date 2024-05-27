@@ -77,3 +77,14 @@ Elemental DCの野良絶バハのやり方は基本[Cleesさんの処理法](htt
 ```
 
 </details>
+
+---
+
+## よくある質問
+
+<details markdown=block>
+<summary><b>[与ダメージ低下デバフ]</b> 与ダメージ低下率はどれくらいですか？</summary>
+<table>
+  <tr><td><p>ダメージは <b>50%</b> 低下します。</p></td></tr>
+</table>
+</details>

@@ -95,3 +95,21 @@ PF largely follows [Clees' UCoB guide](https://clees.me/guides/ucob/) with a few
 ```
 
 </details>
+
+---
+
+## Frequently Asked Questions
+
+<details markdown=block>
+<summary><b>[Damage Down]</b> How strong is the damage down debuff in this
+fight?</summary>
+<table>
+  <tr>
+    <td>
+      <p>There aren't many mechanics that apply Damage Down debuffs for failure
+      in this encounter, but the ones that do lower a player's damage by
+      <b>50%</b>.</p>
+    </td>
+  </tr>
+</table>
+</details>
