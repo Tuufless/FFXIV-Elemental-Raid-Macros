@@ -932,6 +932,9 @@ PF currently resolves this using [Astoh's strat](https://twitter.com/Astoh_Shall
   </tr>
 </table>
 
+After the *Oversampled Wave Cannons* resolve, Omega will then cast *Ion Efflux*
+as the hard enrage for this phase.
+
 ---
 
 ## Frequently Asked Questions
@@ -1011,9 +1014,6 @@ PF currently resolves this using [Astoh's strat](https://twitter.com/Astoh_Shall
   </tr>
 </table>
 </details>
-
-After the *Oversampled Wave Cannons* resolve, Omega will then cast *Ion Efflux*
-as the hard enrage for this phase.
 
 ---
 
