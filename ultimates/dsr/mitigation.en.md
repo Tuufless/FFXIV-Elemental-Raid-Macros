@@ -586,7 +586,10 @@ for the second *Heavenly Heel*, hence why D3's party mitigation is used at
     <td>
       <ul>
         <li>Tank swap.</li>
-        <li>Healers should help the tanks, as they cannot use their stronger mitigations here.</li>
+        <li>Healers should help the tanks, as they cannot use their stronger 
+        mitigations here.</li>
+        <li>A DRK can <em>Rampart</em> if it's available, as they can use 
+        <em>Dark Mind</em> in P6.</li>
       </ul>
     </td>
   </tr>
@@ -656,6 +659,7 @@ trouble topping up the DRK if *Living Dead* was used at *Cauterize*.
     </td>
     <td>
       <ul>
+        <li>A DRK can add <em>Dark Mind</em>, or use it instead of <em>Rampart</em>.</li>
         <li>The ST may not be able to <em>Reprisal</em> this in the event of
         tank downtime.</li>
       </ul>
@@ -719,6 +723,7 @@ trouble topping up the DRK if *Living Dead* was used at *Cauterize*.
     </td>
     <td>
       <ul>
+        <li>A DRK can add <em>Dark Mind</em>.</li>
         <li>This set of <em>Hallowed Wings</em> hurt more because
         <em>Rampart</em> is not used. Furthermore, one tank will be on the 
         opposite side of the party (out of healing range). Additional 
@@ -756,15 +761,14 @@ trouble topping up the DRK if *Living Dead* was used at *Cauterize*.
     </td>
     <td>
       <ul>
-        <li>Invuln</li>
+        <li><b>MT + ST:</b> Invuln <b>or</b> 30% + <em>Rampart</em> + short</li>
+        <li>H2 30s</li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>If <em>Wyrmsbreath</em> #2 was a single-target tankbuster, the tank
-        that was <em>not</em> targeted can mitigate <em>Cauterize</em> instead
-        to gain an invuln use at P7 (ideally at <em>Akh Morn's Edge #2</em>).
-        A WAR should <em>Holmgang</em> regardless.</li>
+        <li>A WAR should <em>Holmgang</em> regardless, as <em>Holmgang</em> 
+        will be back for <em>Akh Morn's Edge</em> #3.</li>
       </ul>
     </td>
   </tr>
@@ -994,7 +998,8 @@ damage/second (this is somewhat made up for by having to move and heal).
       <p><b>Heavenly Heel #1</b></p>
       <ul>
         <li><em>Rampart</em> + short</li>
-        <li>A WAR can <em>Holmgang</em> instead. Tank swap if this wasn't taken with <em>Holmgang</em>.</li>
+        <li>If you have a WAR, they should <em>Holmgang</em> this instead. Tank
+        swap if this wasn't taken with <em>Holmgang</em>.</li>
       </ul>
       <p><b>Ancient Quaga #2</b></p>
       <ul>
@@ -1002,7 +1007,12 @@ damage/second (this is somewhat made up for by having to move and heal).
       </ul>
       <p><b>Heavenly Heel #2</b></p>
       <ul>
-        <li>3rd + short</li>
+        <li>3rd + short
+          <ul>
+            <li>A DRK can add <em>Rampart</em> if it's available because they 
+            can substitute it with <em>Dark Mind</em> in P6.</li>
+          </ul>
+        </li>
       </ul>
     </td>
   </tr>
@@ -1029,7 +1039,11 @@ damage/second (this is somewhat made up for by having to move and heal).
       </ul>
       <p><b>Hallowed Wings #1</b></p>
       <ul>
-        <li><em>Rampart</em> + short</li>
+        <li><em>Rampart</em> + short
+          <ul>
+            <li>A DRK can <em>Dark Mind</em> instead of <em>Rampart</em>.</li>
+          </ul>
+        </li>
       </ul>
       <p><b>Wroth Flames</b></p>
       <ul>
@@ -1047,15 +1061,24 @@ damage/second (this is somewhat made up for by having to move and heal).
       </ul>
       <p><b>Hallowed Wings #2</b></p>
       <ul>
-        <li>3rd + short</li>
+        <li>3rd + short
+          <ul>
+            <li>A DRK can <em>Dark Mind</em> in addition.</li>
+          </ul>
+        </li>
       </ul>
       <p><b>Wyrmsbreath #2</b></p>
       <ul>
-        <li>30% + <em>Rampart</em></li>
+        <li>30% + <em>Rampart</em>
+          <ul>
+            <li>If timed correctly, these can also be used to mitigate 
+            <em>Cauterize</em>.</li>
+          </ul>
+        </li>
       </ul>
       <p><b>Cauterize</b></p>
       <ul>
-        <li>Invuln</li>
+        <li>Invuln <b>or</b> 30% + <em>Rampart</em> + short</li>
       </ul>
       <p><b>Alternative End</b></p>
       <ul>
@@ -1175,7 +1198,12 @@ damage/second (this is somewhat made up for by having to move and heal).
       </ul>
       <p><b>Heavenly Heel #2</b></p>
       <ul>
-        <li>3rd + short</li>
+        <li>3rd + short
+          <ul>
+            <li>A DRK can add <em>Rampart</em> if it's available because they 
+            can substitute it with <em>Dark Mind</em> in P6.</li>
+          </ul>
+        </li>
         <li><em>Reprisal</em></li>
       </ul>
     </td>
@@ -1201,6 +1229,7 @@ damage/second (this is somewhat made up for by having to move and heal).
           <ul>
             <li>You may not be able to get this <em>Reprisal</em> if it's
             tank downtime.</li>
+            <li>A DRK can <em>Dark Mind</em> instead of <em>Rampart</em>.</li>
           </ul>
         </li>
       </ul>
@@ -1210,16 +1239,25 @@ damage/second (this is somewhat made up for by having to move and heal).
       </ul>
       <p><b>Hallowed Wings #2</b></p>
       <ul>
-        <li>3rd + short</li>
+        <li>3rd + short
+          <ul>
+            <li>A DRK can <em>Dark Mind</em> in addition.</li>
+          </ul>
+        </li>
         <li><em>Reprisal</em></li>
       </ul>
       <p><b>Wyrmsbreath #2</b></p>
       <ul>
-        <li>30% + <em>Rampart</em></li>
+        <li>30% + <em>Rampart</em>
+          <ul>
+            <li>If timed correctly, these can also be used to mitigate 
+            <em>Cauterize</em>.</li>
+          </ul>
+        </li>
       </ul>
       <p><b>Cauterize</b></p>
       <ul>
-        <li>Invuln</li>
+        <li>Invuln <b>or</b> 30% + <em>Rampart</em> + short</li>
       </ul>
       <p><b>Alternative End</b></p>
       <ul>
@@ -1484,6 +1522,10 @@ are fairly common, adapt this as needed if H1 is a SCH or SGE.
       <p><b>Hallowed Wings #2</b></p>
       <ul>
         <li>The tanks are taking more damage here, so give them more attention.</li>
+      </ul>
+      <p><b>Cauterize</b></p>
+      <ul>
+        <li>H2 30s</li>
       </ul>
       <p><b>Alternative End</b></p>
       <ul>
