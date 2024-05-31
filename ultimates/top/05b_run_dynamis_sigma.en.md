@@ -125,10 +125,10 @@ standing at at the end of the previous section.
   </tr>
   <tr>
     <td width="50%">
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/05b/run_dynamis_sigma_waymark_01b.jpg">
+      <img src="{{site.baseurl}}/assets/images/ultimates/top/05b/run_dynamis_sigma_05b.jpg">
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/05b/run_dynamis_sigma_waymark_01a.jpg">
+      <img src="{{site.baseurl}}/assets/images/ultimates/top/05b/run_dynamis_sigma_05a.jpg">
     </td>
   </tr>
   <tr>
