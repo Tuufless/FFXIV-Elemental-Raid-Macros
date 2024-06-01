@@ -62,3 +62,6 @@ This is not mentioned in the macro, and you are expected to know this coming in.
 
 ![](https://i.redd.it/y9lvuc18co661.png)
 *(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/kg6pd6/e10s_timeline_image/))*
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

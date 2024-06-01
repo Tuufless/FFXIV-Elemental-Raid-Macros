@@ -55,3 +55,6 @@ You may see H1 and D3 swapped around for Chain Lightning (so D3 and H2 are the o
 
 ![](https://i.redd.it/ztaf3o390qn41.png)
 *(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/fl51xi/e5s_timeline_image/))*
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

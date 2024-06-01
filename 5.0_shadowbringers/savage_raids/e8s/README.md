@@ -112,3 +112,6 @@ D2 and D3 will need to swap Akh Morn stacks if both reds or both blues are on th
 
 ![](https://i.redd.it/fo9bwgrcfdo41.png)
 *(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/fm0rm4/e8s_timeline_image/))*
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

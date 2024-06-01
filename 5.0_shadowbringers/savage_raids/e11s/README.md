@@ -95,3 +95,6 @@ The standard way to resolve the second Turn of the Heavens (the one with alterna
 
 ![](https://i.redd.it/kfjnekykco661.png)
 *(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/kflij2/e11s_timeline_image/))*
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

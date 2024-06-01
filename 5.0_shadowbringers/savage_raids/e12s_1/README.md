@@ -109,3 +109,6 @@ If you go all the way to the edge of the arena to bait the second or third big l
 
 ![](https://i.redd.it/qknoduxviu661.png)
 *(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/khx7wr/e12s_part_i_timeline_image/))*
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

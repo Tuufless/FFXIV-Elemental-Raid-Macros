@@ -58,3 +58,6 @@ The markers are used to drop seeds for Brambles.
 
 ![](https://i.redd.it/ngc2jw12ao661.png)
 *(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/kg9oko/e9s_timeline_image/))*
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

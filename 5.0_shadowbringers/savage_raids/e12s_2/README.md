@@ -68,3 +68,6 @@ Note: There are some details that are added in the macro, in particular, a DPS p
 
 ![](https://i.redd.it/kitnqysrq2761.png)
 *(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/kj03t5/e12s_part_ii_timeline_image/))*
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

@@ -78,3 +78,6 @@ The other strategy used for Orogenesis was the Idyll strat (イディル式). Th
 
 ![](https://i.redd.it/muhkp07u3bh31.png)
 *(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/cokaco/e4s_rotation_and_timeline_reformed/))*
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

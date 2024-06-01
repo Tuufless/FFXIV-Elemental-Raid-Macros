@@ -23,3 +23,6 @@ permalink: /5.0_shadowbringers/savage_raids/e1s/
 
 ![](https://i.redd.it/rye1wmoz8wd31.png)
 *(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/ckpvr9/e1s_rotation_and_timeline/))*
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

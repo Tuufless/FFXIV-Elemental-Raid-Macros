@@ -54,3 +54,6 @@ You may see configurations where D3 and D4 are on Ifrit, while D1 and D2 are on 
 
 ![](https://i.redd.it/nzpnd1ak3mn41.png)
 *(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/fl6vmk/e6s_timeline_image/))*
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
