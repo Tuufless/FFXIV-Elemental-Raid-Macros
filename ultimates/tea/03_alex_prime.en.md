@@ -171,7 +171,8 @@ will autoattack twice before casting *Inception Formation*.
         <li><b>H1:</b> North, near Cruise Chaser.</li>
         <li><b>H2:</b> South, near Cruise Chaser.</li>
         <li><b>DPS that had the blue tether</b>: West, near Cruise Chaser.</li>
-        <li><b>Everyone else:</b> East, between Cruise Chaser and the ST <em>(not too close to Cruise Chaser!)</em></li>
+        <li><b>Everyone else:</b> East, between Cruise Chaser and the ST
+        <em>(not too close to Cruise Chaser!)</em></li>
       </ul>
     </td>
 	  <td>
@@ -308,7 +309,8 @@ from *Alpha Sword*.
     <td>
       <p><b>5.</b> Players <b>5</b> and <b>6</b> resolve their Void puddles, 
       then take up positions north (where <b>1</b> and <b>2</b> were).</p>
-      <p>Cruise Chaser cleaves <b>3</b>.</p><p>Alexander starts charging <em>Sacrament</em>. <em>(do not panic!)</em></p>
+      <p>Cruise Chaser cleaves <b>3</b>.</p>
+      <p>Alexander starts charging <em>Sacrament</em>. <em>(do not panic!)</em></p>
     </td>
 	  <td>
       <img src="{{site.baseurl}}/assets/images/ultimates/tea/03/wormhole_05.jpg">

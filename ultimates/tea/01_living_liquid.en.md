@@ -11,9 +11,11 @@ permalink: /ultimates/tea/01_living_liquid/
 This is a modified version of the original Separations Living Liquid strat.
 
 Notable changes are:
-- The MT Provokes the Liquid Hand and invulns the first set of Fluid Swings and the Protean Wave from the "north" puddle.
-- The first set of Protean Waves are baited by the MT and both healers, instead of both healers and D3.
-- The DPS positions for the final set of Protean Waves are different.
+- The MT Provokes the Liquid Hand and invulns the first set of *Fluid Swings*
+  and the *Protean Wave* from the "north" puddle.
+- The first set of *Protean Waves* are baited by the MT and both healers,
+  instead of both healers and D3.
+- The DPS positions for the final set of *Protean Waves* are different.
 
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
 <details markdown=block>
