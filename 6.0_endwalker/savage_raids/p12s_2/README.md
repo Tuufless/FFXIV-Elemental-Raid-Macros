@@ -569,3 +569,6 @@ strange? Why is H2 and D3 missing from the priority?</summary>
   the time being.</p></td></tr>
 </table>
 </details>
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

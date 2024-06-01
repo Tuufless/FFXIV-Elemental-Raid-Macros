@@ -91,3 +91,6 @@ Please also refer to the following guides:
 
 ![](https://preview.redd.it/xnx4nnpozob81.png?width=3200&format=png&auto=webp&s=f7b169a040771410d2f4eab2a3d3e997226673a1)
 *(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/s3yfu8/p4s_rotation_and_timeline/))*
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

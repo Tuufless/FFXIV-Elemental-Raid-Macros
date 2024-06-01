@@ -61,3 +61,6 @@ All markers are for resolving Kampeos Harma (a.k.a. "Limit Cut")
 
 ![](https://preview.redd.it/tyzwz0ilkmb81.png?width=3200&format=png&auto=webp&s=24eee61349aaf656e39d387c5036003035a7ba69)
 *(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/s3omn1/p2s_rotation_and_timeline/))*
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

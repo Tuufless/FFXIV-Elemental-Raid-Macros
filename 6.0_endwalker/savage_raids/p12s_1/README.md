@@ -188,3 +188,6 @@ Within each block of four dashes, the center add will do a small 270-degree clea
   </tr>
 </table>
 </details>
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

@@ -215,3 +215,6 @@ instead. The pairings for Firestorms of Asphodelos are different:
 
 ![](https://preview.redd.it/zni62rkskmb81.png?width=3200&format=png&auto=webp&s=778db6ee45958802800f16e5f9c59bedcc5b3dd3)
 *(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/s3on6c/p3s_rotation_and_timeline/))*
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

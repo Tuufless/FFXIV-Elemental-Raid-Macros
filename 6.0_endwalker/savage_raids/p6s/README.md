@@ -128,3 +128,6 @@ Note that there are two versions of the strat going around:
 2. One based on timers (we aren't using this)
 
 The two players with the 20s debuffs start a little under the boss. All other players can wait for their vulnerability debuff to wear off before then stepping inside the boss's hitbox.
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

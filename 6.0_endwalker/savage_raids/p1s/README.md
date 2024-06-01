@@ -119,3 +119,6 @@ The macro uses the duration of each chain's debuff to assign positions, although
 
 ![](https://preview.redd.it/f2989qjawmb81.png?width=3200&format=png&auto=webp&s=6eb36b34199be0a4c2280b2d9a5fd19044291955)
 *(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/s35m0i/p1s_rotation_and_timeline/))*
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

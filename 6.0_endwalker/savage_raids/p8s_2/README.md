@@ -354,3 +354,6 @@ This is Nukemaru's strat for High Concept #2. Several concepts from High Concept
   <tr><td><p>Earlier macros had D1234- the problem is that RDM is the only DPS that cannot heal/shield themselves off the GCD, and would often end up dying to the follow-up raid-wide damage. Casters also have the lowest max HP of all the DPS.</p><p>Putting the casters next to the healers in the priority order increases the likelihood that they are in range of receiving healing.</p><p>Nukemaru's video guide also puts melees towards the outside and casters towards the center for the same reason, leading to the tanks > healers > D4321 order.</p></td></tr>
 </table>
 </details>
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

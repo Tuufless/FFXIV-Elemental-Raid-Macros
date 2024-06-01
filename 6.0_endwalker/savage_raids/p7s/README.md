@@ -124,3 +124,6 @@ Tanks stack on the empty bridge and invuln.
 Note that the minotaur tethers will *not* be stretched out enough to turn purple. As a result, **shields and mitigations are required** for the two minotaur players to survive.
 
 ![](images/wars_harvest.jpg)
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

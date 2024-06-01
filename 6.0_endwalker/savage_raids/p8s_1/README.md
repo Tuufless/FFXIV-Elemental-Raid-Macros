@@ -162,3 +162,6 @@ A clone of the boss will appear at the edge of the arena **when the second set o
 
 ![](images/gorgon_2.jpg)
 *(Credit: [Berga Thompson](https://jp.finalfantasyxiv.com/lodestone/character/17170591/blog/5094725/))*
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

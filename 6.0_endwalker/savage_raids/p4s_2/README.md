@@ -130,3 +130,6 @@ Note that English and Japanese groups will do different Act 3 strats.
 
 ![](https://preview.redd.it/tskvunw5vvb81.png?width=3200&format=png&auto=webp&s=ca69a6132e5aac040f4afd7c21c55bfa6a95c860)
 *(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/s3yfu8/p4s_rotation_and_timeline/))*
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
