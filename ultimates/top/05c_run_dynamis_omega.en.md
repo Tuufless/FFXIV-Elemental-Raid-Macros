@@ -232,3 +232,6 @@ Omega-F then does one more set of *Solar Ray* tankbusters before casting
 
 Like Blue Screen, Omega-F **must** be brought to under 20% HP by the end of
 *Blind Faith*'s cast to proceed onto the final phase of the fight.
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
