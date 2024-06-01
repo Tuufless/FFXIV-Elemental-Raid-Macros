@@ -31,6 +31,3 @@ permalink: /ultimates/jp/
 
 - [絶・竜詩戦争](dsr/index.jp.md)
 - [絶オメガ検証戦](top/index.jp.md)
-
-<script data-goatcounter="https://tuufless.goatcounter.com/count"
-        async src="//gc.zgo.at/count.js"></script>
