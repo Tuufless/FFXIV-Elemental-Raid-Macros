@@ -73,3 +73,6 @@ You might see the `ABCD` markers placed further out towards the edge of the aren
 </table>
 
 *(Credit: [Game8](https://game8.jp/ff14/477950))*
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

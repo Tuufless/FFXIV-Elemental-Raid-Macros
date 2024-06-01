@@ -85,3 +85,6 @@ Game8/Hamkatsu uses the following markers:
   <tr><td><p>This was one of the points of contention when the fight was released. We don't know why Hamkatsu put the MT group on the outside, but this was what PF eventually settled to.</p><p>Many players felt that having the MT group stay towards the center, and the ST group go out made more sense. Another configuration had all the melees inside together with H1, and the ranged (with the ST) outside.</p></td></tr>
 </table>
 </details>
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

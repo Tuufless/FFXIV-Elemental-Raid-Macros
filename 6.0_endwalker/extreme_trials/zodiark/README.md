@@ -38,3 +38,6 @@ All other markers are not really needed, but can be useful for calling out safe 
 ```
 
 </details>
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

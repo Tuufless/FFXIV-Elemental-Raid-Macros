@@ -49,3 +49,6 @@ PF uses [Hamkatsu's strat](https://youtu.be/xrN2viqpTqc) *(yes, this is the down
 ```
 
 </details>
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

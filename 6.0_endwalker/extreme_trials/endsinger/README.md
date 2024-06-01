@@ -72,3 +72,6 @@ An easy way to resolve the 5-heads mechanic is:
 If you have LB3 available during the 2x Fatalism (quadruple planets), a Tank LB3 right after the second planet collision will allow players to survive red planet hits during the harder "blue-to-red" planet sequence.
 
 To get the LB3 by this time, you will need a standard party setup with no duplicate jobs.
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
