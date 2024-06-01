@@ -832,3 +832,6 @@ However, the Twintania player may be part of the Megaflare group, or the towers
   <tr><td><p>This can happen if Nael's line goes Raven's Dive → Lunar Dynamo and the person they dive to is too far back (towards the edge of the arena).</p><p>Tanks can save Sprint for this part to help.</p></td></tr>
 </table>
 </details>
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

@@ -261,3 +261,6 @@ not raising them so they are raised by Phoenix without weakness.</div>
   </tr>
 </table>
 </details>
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

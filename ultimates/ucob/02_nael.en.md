@@ -691,3 +691,6 @@ under 1.4k damage, and the strong one for around 5.5k.
 The healers should start casting a heal to make it in time for *Calamitous 
 Blaze*, but watch out in case some party members are too low HP after the 
 knockback (under 2.8k HP).
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
