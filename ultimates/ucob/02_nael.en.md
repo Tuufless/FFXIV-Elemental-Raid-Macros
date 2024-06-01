@@ -21,7 +21,8 @@ the other quickly.
 
 ## Quotes
 
-Nael telegraphs her upcoming attacks by saying a line- key words in that line indicate what attacks she is about to do, and in what order.
+Nael telegraphs her upcoming attacks by saying a line- key words in that line
+indicate what attacks she is about to do, and in what order.
 
 The quotes that Nael will use in this phase are:
 
@@ -80,7 +81,8 @@ The quotes that Nael will use in this phase are:
     </td>
   </tr>
   <tr>
-    <td>Fleeting light! Amid a rain of <b>stars</b>, exalt you the <b>red moon!</b></td>
+    <td>Fleeting light! Amid a rain of <b>stars</b>, exalt you the <b>red 
+    moon!</b></td>
     <td>
       <p>Meteor Stream →　Dalamud Dive</p>
       <p><em>Spread → Tankbuster</em></p>

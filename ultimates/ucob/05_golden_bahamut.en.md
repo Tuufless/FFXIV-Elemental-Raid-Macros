@@ -140,7 +140,8 @@ Tanks will also need to plan out their cooldowns for the Akh Morns.
   <tr>
     <td>
       <p><b>4.</b> Second set of Exaflares appear.</p>
-      <p>If possible, try to get a 3-to-1 dodge <em>(a 3-to-1 dodge may not always be available)</em>.</p>
+      <p>If possible, try to get a 3-to-1 dodge <em>(a 3-to-1 dodge may not
+      always be available)</em>.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/assets/images/ultimates/ucob/05/golden_bahamut_04.jpg">

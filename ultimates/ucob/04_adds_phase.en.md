@@ -36,14 +36,16 @@ the second loop.
 
 <table>
   <tr>
-    <td>From <b>hallowed moon</b> I <b>descend</b>, upon <b>burning</b> earth to tread!</td>
+    <td>From <b>hallowed moon</b> I <b>descend</b>, upon <b>burning</b> earth
+    to tread!</td>
     <td>
       <p>Lunar Dynamo → Raven's Dive → Thermionic Beam</p>
       <p><em>In → Spread → Stack</em></p>
     </td>
   </tr>
   <tr>
-    <td>From <b>hallowed moon</b> I bare <b>iron</b>, in my <b>descent</b> to wield!</td>
+    <td>From <b>hallowed moon</b> I bare <b>iron</b>, in my <b>descent</b> to
+    wield!</td>
     <td>
       <p>Lunar Dynamo → Iron Chariot → Raven's Dive</p>
       <p><em>In → Out → Spread</em></p>
@@ -115,7 +117,8 @@ the second loop.
         take over that player's position. That player then goes to the edge of 
         the arena.</li>
       </ul>
-      <p><em>(In this example, D2 is not targeted for Hatch, so D4 will go to the top-right Neurolink.)</em></p>
+      <p><em>(In this example, D2 is not targeted for Hatch, so D4 will go to 
+      the top-right Neurolink.)</em></p>
     </td>
     <td>
       <img src="{{site.baseurl}}/assets/images/ultimates/ucob/04/adds_03.jpg">

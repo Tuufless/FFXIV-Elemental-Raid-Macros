@@ -806,17 +806,27 @@ However, the Twintania player may be part of the Megaflare group, or the towers
         towards the center to AoE heal the DPS stack.</li>
       </ul>
     </td>
-  <td><img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/quickmarch_faq.jpg"></td></tr>
+    <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/quickmarch_faq.jpg">
+    </td>
+  </tr>
 </table>
 </details>
 
 <details markdown=block>
 <summary>
-  <b>[Heavensfall Trio]</b> Are there really small gaps between the divebomb AoEs?
+  <b>[Heavensfall Trio]</b> Are there really small gaps between the divebomb
+  AoEs?
 </summary>
 <table>
-  <tr><td width="50%"><p>Yes, there are.</p><p>Don't use them.</p></td>
-  <td><img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/heavensfall_faq.jpg"></td></tr>
+  <tr>
+    <td width="50%">
+      <p>Yes, there are.</p><p>Don't use them.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/heavensfall_faq.jpg">
+    </td>
+  </tr>
 </table>
 </details>
 
@@ -826,10 +836,18 @@ However, the Twintania player may be part of the Megaflare group, or the towers
 
 <details markdown=block>
 <summary>
-  <b>[Fellruin Trio]</b> The tanks can't get to the Neurolinks in time to survive Aetherial Profusion!
+  <b>[Fellruin Trio]</b> The tanks can't get to the Neurolinks in time to
+  survive Aetherial Profusion!
 </summary>
 <table>
-  <tr><td><p>This can happen if Nael's line goes Raven's Dive → Lunar Dynamo and the person they dive to is too far back (towards the edge of the arena).</p><p>Tanks can save Sprint for this part to help.</p></td></tr>
+  <tr>
+    <td>
+      <p>This can happen if Nael's line goes <em>Raven's Dive → Lunar 
+      Dynamo</em> and the person they dive to is too far back (towards the edge
+      of the arena).</p>
+      <p>Tanks can save Sprint for this part to help.</p>
+    </td>
+  </tr>
 </table>
 </details>
 
