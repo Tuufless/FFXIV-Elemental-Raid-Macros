@@ -67,7 +67,7 @@ This is the part that distinguishes this strat from Awk:
 
 <table>
   <tr>
-    <td width="50%" colspan=2>
+    <td colspan=2>
       <p><b>2.</b> Blue and yellow fists appear above each player.</p>
       <p>Players need to adjust as needed to pair one blue fist with one yellow
       fist, and the party needs to determine which colour tethers are the ones
@@ -84,7 +84,7 @@ This is the part that distinguishes this strat from Awk:
     </td>
   </tr>
   <tr>
-    <td style="text-align:center">
+    <td width="50%" style="text-align:center">
       <b>Red/green tethers adjust</b>
     </td>
     <td style="text-align:center">
@@ -259,9 +259,12 @@ pair break (this is reversed in Sfia's GMT group).
     Beetle Omega, and three notches <b>towards</b> Beetle Omega- you will
     <em>not</em> be getting Dynamis stacks this round.</td>
   </tr>
+  <tr>
+    <td colspan="2">
+      <img src="{{site.baseurl}}/assets/images/ultimates/top/B/run_dynamis_delta_gmt_08.jpg">
+    </td>
+  </tr>
 </table>
-
-<img src="{{site.baseurl}}/assets/images/ultimates/top/B/run_dynamis_delta_gmt_08.jpg">
 
 With everyone in position, the cleave resolves together with Hello, Near World
 and Hello, Distant World.

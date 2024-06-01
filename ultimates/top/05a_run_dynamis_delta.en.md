@@ -336,9 +336,10 @@ Hello, Distant World.
     Beetle Omega, and three notches <b>towards</b> Beetle Omega- you will
     <em>not</em> be getting Dynamis stacks this round.</td>
   </tr>
+  <td colspan="2">
+    <img src="{{site.baseurl}}/assets/images/ultimates/top/05a/run_dynamis_delta_08.jpg">
+  </td>
 </table>
-
-<img src="{{site.baseurl}}/assets/images/ultimates/top/05a/run_dynamis_delta_08.jpg">
 
 With everyone in position, the cleave resolves together with Hello, Near World
 and Hello, Distant World.
