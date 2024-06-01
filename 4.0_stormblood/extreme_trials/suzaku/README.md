@@ -13,3 +13,6 @@ permalink: /4.0_stormblood/extreme_trials/suzaku/
 ```
 {% include_relative macros/suzaku.jp.txt %}
 ```
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

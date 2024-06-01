@@ -13,3 +13,6 @@ permalink: /4.0_stormblood/extreme_trials/seiryu/
 ```
 {% include_relative macros/seiryu.jp.txt %}
 ```
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

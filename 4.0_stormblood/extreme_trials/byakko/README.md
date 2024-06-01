@@ -43,3 +43,6 @@ Note when doing this undersized, it is possible to skip the falling intermission
 ```
 
 </details>
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

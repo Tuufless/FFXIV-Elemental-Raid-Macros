@@ -45,3 +45,6 @@ permalink: /4.0_stormblood/extreme_trials/tsukuyomi/
 ```
 
 </details>
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

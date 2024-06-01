@@ -18,3 +18,6 @@ permalink: /4.0_stormblood/extreme_trials/shinryu/
 ```
 {% include_relative macros/shinryu.jp.txt %}
 ```
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
