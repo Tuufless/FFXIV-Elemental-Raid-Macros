@@ -79,3 +79,6 @@ These are for the **134 strat**.
 
 ![](https://i.redd.it/ygehfr3xfnp11.png)
 *(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/9kff83/alphascapesavage_rotation_and_timeline_images_list/))*
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

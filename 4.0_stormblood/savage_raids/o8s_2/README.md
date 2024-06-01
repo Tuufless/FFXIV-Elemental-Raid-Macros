@@ -46,3 +46,6 @@ permalink: /4.0_stormblood/savage_raids/o8s_2/
 
 ![](https://i.redd.it/4mzlkrdywdf01.png)
 *(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/7wlc7i/o8s_god_kefka_rotation_timeline/))*
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

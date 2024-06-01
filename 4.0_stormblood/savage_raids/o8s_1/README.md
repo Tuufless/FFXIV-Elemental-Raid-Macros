@@ -46,3 +46,6 @@ permalink: /4.0_stormblood/savage_raids/o8s_1/
 
 ![](https://i.redd.it/st64gsrzaze01.png)
 *(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/7w4aun/o8s_kefaust_rotations_timeline/))*
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

@@ -45,3 +45,6 @@ The preferred strategy in the end was to bring the boss to the center for the fi
 ```
 
 </details>
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

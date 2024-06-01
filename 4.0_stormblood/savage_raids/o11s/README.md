@@ -49,3 +49,6 @@ Markers are used for Rocket Punch. `1` and `2` are for the first set (before the
 
 ![](https://i.redd.it/0wvi1hmhgkp11.png)
 *(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/9kff83/alphascapesavage_rotation_and_timeline_images_list/))*
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

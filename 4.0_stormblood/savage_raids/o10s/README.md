@@ -51,3 +51,6 @@ permalink: /4.0_stormblood/savage_raids/o10s/
 
 ![](https://i.redd.it/xt2u31jggkp11.png)
 *(Credit: [u/Syldris](https://www.reddit.com/r/ffxiv/comments/9kff83/alphascapesavage_rotation_and_timeline_images_list/))*
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

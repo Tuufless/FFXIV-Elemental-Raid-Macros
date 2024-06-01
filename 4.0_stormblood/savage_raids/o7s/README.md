@@ -54,3 +54,6 @@ Although the programs loaded on the two screens in the background may look
 random, the actual sequence is just one of four possible paths.
 
 ![](images/program_sequence.jpg)
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

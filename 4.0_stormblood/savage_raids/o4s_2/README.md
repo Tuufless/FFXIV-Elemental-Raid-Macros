@@ -41,3 +41,6 @@ permalink: /4.0_stormblood/savage_raids/o4s_2/
   "Four":{"X":0.0,"Y":0.0,"Z":0.0,"ID":7,"Active":false}
 }
 ```
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
