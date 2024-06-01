@@ -10,9 +10,11 @@ permalink: /ultimates/uwu/
 
 # The Weapon's Refrain (Ultimate)
 
-PF largely follows [Clees' UWU guide](https://www.icy-veins.com/ffxiv/the-weapons-refrain-ultimate-guides-ultima) with a few differences:
+PF largely follows [Clees' UWU guide](https://www.icy-veins.com/ffxiv/the-weapons-refrain-ultimate-guides-ultima)
+with a few differences:
 
-- Ultima is pulled a little **north** after Ultimate Predation instead of south. Eruption baiters will start **south** instead of north.
+- Ultima is pulled a little **north** after Ultimate Predation instead of
+  south. Eruption baiters will start **south** instead of north.
 - Green orbs during Ultimate Annihilation are taken **2211** instead of 3311.
 
 The various phases can be broken down as follows:
@@ -29,17 +31,26 @@ The various phases can be broken down as follows:
 
 - Any gear at or above **i500** will have their substats capped.
 - Relic weapons will have their substats capped at **136**.
-- The lowest potions you can use and still get maximum benefits are **HQ Grade 4 Tinctures**.
+- The lowest potions you can use and still get maximum benefits are **HQ Grade 
+  4 Tinctures**.
 
 ---
 
 ## Things to note
 
-- Using automarkers to mark players in Titan Gaols is considered the norm (*use at your own risk*).
-- There are edge cases to consider if you have a PLD or GNB and skipping Ifrit dashes are a possibility.
-	- If you **skip** Ifrit dashes, there is about **6:30** between Ifrit's *first* set of Incinerates and the Homing Lasers after Ultimate Predation (PLD cannot invuln both).
-	- If you **don't skip** Ifrit's dashes, there is about **5:40** between Ifrit's *second* set of Incinerates and the Homing Lasers after Ultimate Predation (GNB and PLD cannot invuln both).
-- You can fix the tank invuln sequence in Ultima by choosing to tank swap Ifrit's second set of Incinerates instead of using the MT invuln there (although this isn't usually practiced).
+- Using automarkers to mark players in Titan Gaols is considered the norm (*use
+  at your own risk*).
+- There are edge cases to consider if you have a PLD or GNB and skipping Ifrit 
+  dashes are a possibility.
+	- If you **skip** Ifrit dashes, there is about **6:30** between Ifrit's 
+    *first* set of Incinerates and the Homing Lasers after Ultimate Predation 
+    (PLD cannot invuln both).
+	- If you **don't skip** Ifrit's dashes, there is about **5:40** between 
+    Ifrit's *second* set of Incinerates and the Homing Lasers after Ultimate 
+    Predation (GNB and PLD cannot invuln both).
+- You can fix the tank invuln sequence in Ultima by choosing to tank swap 
+  Ifrit's second set of Incinerates instead of using the MT invuln there
+  (although this isn't usually practiced).
 
 ---
 
@@ -99,3 +110,6 @@ The various phases can be broken down as follows:
 ```
 
 </details>
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

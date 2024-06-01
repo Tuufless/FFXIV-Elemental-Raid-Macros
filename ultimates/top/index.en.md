@@ -108,3 +108,6 @@ Here are some clear PoVs that I've been collecting.
   <p><em>(Yes, this is </em>worse<em> than double-weakness!)</em></p></td></tr>
 </table>
 </details>
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

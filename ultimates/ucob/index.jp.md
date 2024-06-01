@@ -88,3 +88,6 @@ Elemental DCの野良絶バハのやり方は基本[Cleesさんの処理法](htt
   <tr><td><p>ダメージは <b>50%</b> 低下します。</p></td></tr>
 </table>
 </details>
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

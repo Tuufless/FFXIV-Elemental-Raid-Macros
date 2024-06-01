@@ -2029,3 +2029,6 @@ modifications that are available to MCH that are not available to BRD or DNC.
     </td>
   </tr>
 </table>
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

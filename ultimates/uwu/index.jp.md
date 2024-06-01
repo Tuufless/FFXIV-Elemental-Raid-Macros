@@ -96,3 +96,6 @@ Elemental DCの野良絶アルテマのやり方は基本[Cleesさんの処理�
 ```
 
 </details>
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

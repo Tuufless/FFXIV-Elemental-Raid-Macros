@@ -38,3 +38,6 @@ The current item level cap is **iLvl 665**.
 - **TEA** - [The Epic of Alexander (Ultimate)](ultimates/tea/index.en.md)
 - **DSR** - [Dragonsong's Reprise (Ultimate)](ultimates/dsr/index.en.md)
 - **TOP** - [The Omega Protocol (Ultimate)](ultimates/top/index.en.md)
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

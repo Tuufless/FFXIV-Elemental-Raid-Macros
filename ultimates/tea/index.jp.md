@@ -110,3 +110,6 @@ Elemental DCの野良絶アレキのやり方は以下に要約する。
 ```
 
 </details>
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

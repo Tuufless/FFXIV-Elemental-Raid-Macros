@@ -107,3 +107,6 @@ Here are some clear PoVs that I've been collecting.
 ```
 
 </details>
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

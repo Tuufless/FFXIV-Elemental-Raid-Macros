@@ -1929,3 +1929,6 @@ This assumes D2 is a melee DPS.
     </td>
   </tr>
 </table>
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
