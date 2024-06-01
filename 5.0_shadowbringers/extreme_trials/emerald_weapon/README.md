@@ -88,3 +88,6 @@ Always dodge on the east side.
 <b>A:</b> This refers to the bit in P1 where both tanks get a Flare marker- the MT will take the left side, while the OT takes the right.
 
 </details>
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

@@ -44,3 +44,6 @@ The macros are for the [Okome strategy](https://blog.lariceworks.net/archives/26
 ```
 
 </details>
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

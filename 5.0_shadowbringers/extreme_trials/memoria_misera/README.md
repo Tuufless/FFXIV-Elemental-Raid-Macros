@@ -40,3 +40,6 @@ permalink: /5.0_shadowbringers/extreme_trials/memoria_misera/
 }
 ```
 </details>
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

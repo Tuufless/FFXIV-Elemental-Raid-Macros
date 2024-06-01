@@ -43,3 +43,6 @@ In particular, `1`, `2`, `3`, `4` are placed starting North, going clockwise. Th
 }
 ```
 </details>
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
