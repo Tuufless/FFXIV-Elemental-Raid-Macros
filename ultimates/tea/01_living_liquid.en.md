@@ -460,3 +460,6 @@ This is the final phase of Living Liquid, and combines both Living Liquid's
   </tr>
 </table>
 </details>
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

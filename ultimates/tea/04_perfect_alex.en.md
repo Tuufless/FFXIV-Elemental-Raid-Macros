@@ -751,3 +751,6 @@ Note that DoTs will continue to tick even after the player has been imprisoned.
   </tr>
 </table>
 </details>
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

@@ -152,3 +152,6 @@ After each group resolves their first Limit Cut, the pair on the outside (that w
 	<td><img src="{{site.baseurl}}/assets/images/ultimates/tea/02a/limit_cut_1256_10.jpg"></td>
   </tr>
 </table>
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

@@ -825,3 +825,6 @@ The party then proceeds onto Perfect Alexander.
   </tr>
 </table>
 </details>
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

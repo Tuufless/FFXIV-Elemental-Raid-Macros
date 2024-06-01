@@ -384,3 +384,6 @@ At this time, either all the tanks and healers have Nisi (who the DPS need to co
   <tr><td><p>Cruise Chaser gains a damage-up buff if the Plasma Shield is not destroyed in time, and its auto-attack will one-shot the MT.</p><p>Even if the MT survives this, the follow-up Whirlwind (before third Water) will wipe the party.</p></td></tr>
 </table>
 </details>
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
