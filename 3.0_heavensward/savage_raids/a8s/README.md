@@ -43,3 +43,6 @@ Diamondback gets a lot of use this fight, but some notes:
 - Diamondback will let you survive Enumeration (with a damage-down penalty).
 - Diamondback **will not** let you survive Height Error.
 - Diamondback **will not** let you survive Ultra Flash.
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

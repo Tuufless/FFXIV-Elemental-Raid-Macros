@@ -18,3 +18,6 @@ permalink: /3.0_heavensward/savage_raids/a3s/
 ```
 {% include_relative macros/a3s.jp.txt %}
 ```
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

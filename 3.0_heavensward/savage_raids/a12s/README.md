@@ -9,7 +9,8 @@ permalink: /3.0_heavensward/savage_raids/a12s/
 
 # Alexander - The Eyes of the Creator (Savage)
 
-This is [Cien Choco's macro](https://jp.finalfantasyxiv.com/lodestone/character/1622544/blog/3194463/) for Pekoelog's strat.
+This is [Cien Choco's macro](https://jp.finalfantasyxiv.com/lodestone/character/1622544/blog/3194463/)
+for Pekoelog's strat.
 
 Pekoelog:
   - [Part 1](https://pekoe1001.blog.shinobi.jp/Entry/1585/)
@@ -31,12 +32,15 @@ Pekoelog:
 
 At the time, only the `ABC` markers were available.
 
-Now that more markers are available, I would place the markers as below. The `A` marker is hidden behind the boss.
+Now that more markers are available, I would place the markers as below. The
+`A` marker is hidden behind the boss.
 
-"South-left" would be the `1` marker, while "South-right" would be the `2` marker.
+"South-left" would be the `1` marker, while "South-right" would be the `2`
+marker.
 
-`ABD` are used for Defamation during Temporal Stasis.
-`12` are used for Shared Sentence and Aggravated Assault during Temporal Stasis.
+- `ABD` are used for *Defamation* during *Temporal Stasis*.
+- `12` are used for *Shared Sentence* and *Aggravated Assault* during
+  *Temporal Stasis*.
 
 ![](images/markers.jpg)
 <details markdown=block>
@@ -58,3 +62,6 @@ Now that more markers are available, I would place the markers as below. The `A`
 ```
 
 </details>
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
