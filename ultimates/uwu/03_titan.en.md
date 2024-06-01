@@ -14,13 +14,20 @@ Titan is the last of the three Primals, and is easily the hardest to wake.
 
 ## Waking Titan
 
-After a knockback, Titan will target three random players (excluding the MT) to be trapped in a Granite Gaol.
+After a knockback, Titan will target three random players (excluding the MT) to
+be trapped in a Granite Gaol.
 
-A boulder will spawn opposite Titan and explode in an AoE. When a Granite Gaol is hit by this AoE, it will explode and leave behind a sludge puddle that slows movement and applies a DoT. This explosion will also trigger any other Granite Gaols hit.
+A boulder will spawn opposite Titan and explode in an AoE. When a *Granite Gaol* 
+is hit by this AoE, it will explode and leave behind a sludge puddle that 
+slows movement and applies a DoT. This explosion will also trigger any other 
+*Granite Gaols* hit.
 
-Thus, the idea is to chain the three gaoled players between Titan and the opposite rock, resulting in a chain explosion that will put a sludge puddle in contact with Titan.
+Thus, the idea is to chain the three gaoled players between Titan and the 
+opposite rock, resulting in a chain explosion that will put a sludge puddle in
+contact with Titan.
 
-**Titan gains a stack of "Aetherically Charged" for each DoT tick applied by this sludge puddle.**
+**Titan gains a stack of *Aetherically Charged* for each DoT tick applied by
+this sludge puddle.**
 
 The following mechanics will also change when Titan is woken:
 
@@ -33,7 +40,8 @@ The following mechanics will also change when Titan is woken:
   <tr>
     <td>Landslide</td>
     <td>Five straight-line AoEs.</td>
-    <td>Five straight-line AoEs, <b>followed by a second set of five straight-line AoEs that bisect the first set</b>.</td>
+    <td>Five straight-line AoEs, <b>followed by a second set of five
+    straight-line AoEs that bisect the first set</b>.</td>
   </tr>
   <tr>
     <td>Weight of the Land</td>
@@ -49,10 +57,10 @@ The **MT** will take hate at the start of the fight.
     <td width="50%">
       <p><b>1.</b> Have the <b>MT</b> tank Titan facing south, with the party 
       North.</p>
-      <p>Titan opens with Earthern Fury (heavy raid damage), and start a Rock 
-      Buster→Mountain Buster sequence.</p>
-      <p>Mountain Buster is a particularly dangerous tankbuster because it is 
-      always preceeded with a Rock Buster.</p>
+      <p>Titan opens with <em>Earthern Fury</em> (heavy raid damage), and start
+      a <em>Rock Buster → Mountain Buster</em> sequence.</p>
+      <p><em>Mountain Buster</em> is particularly dangerous because it is
+      always preceeded with a <em>Rock Buster</em>.</p>
     </td>
 	  <td>
       <img src="{{site.baseurl}}/assets/images/ultimates/uwu/03/titan_01.jpg">
@@ -64,8 +72,9 @@ The **MT** will take hate at the start of the fight.
       of the Land.</p>
       <p>Simply stack together behind Titan to bait the first set, dodge 
       left/right to bait the second set at the sides before coming back.</p>
-      <p>When the second set of Weight of the Lands explodes, Titan will 
-      quickly <b>turn to face a random cardinal direction</b> before jumping</p>
+      <p>When the second set of <em>Weight of the Lands</em> explodes, Titan
+      will quickly <b>turn to face a random cardinal direction</b> before
+      jumping.</p>
     </td>
 	  <td>
       <img src="{{site.baseurl}}/assets/images/ultimates/uwu/03/titan_02.jpg">
@@ -103,7 +112,7 @@ The **MT** will take hate at the start of the fight.
   <tr>
     <td>
       <p><b>5.</b> Knockback.</p>
-      <p>This cannot be nullified with Arm's Length/Surecast.</p>
+      <p>This cannot be nullified with <em>Arm's Length/Surecast</em>.</p>
     </td>
 	  <td>
       <img src="{{site.baseurl}}/assets/images/ultimates/uwu/03/titan_05.jpg">
@@ -112,11 +121,12 @@ The **MT** will take hate at the start of the fight.
   <tr>
     <td>
       <p><b>5.</b> Three random players (excluding the MT) will be targeted 
-      by Granite Gaols while Titan readies a set of Landslides.</p>
+      by <em>Granite Gaols</em> while Titan readies a set of
+      <em>Landslides</em>.</p>
       <p>A boulder will drop in the gap that was made earlier and explode.</p>
       <p><b>The goal is to make a chain of boulders to connect Titan to that 
       first exploding boulder.</b></p>
-      <p><b>Gaoled players need to dodge this Landslide.</b></p>
+      <p><b>Gaoled players need to dodge this <em>Landslide</em>.</b></p>
     </td>
 	  <td>
       <img src="{{site.baseurl}}/assets/images/ultimates/uwu/03/titan_06.jpg">
@@ -124,11 +134,11 @@ The **MT** will take hate at the start of the fight.
   </tr>
   <tr>
     <td>
-      <p><b>7.</b> Titan will do a second Landslide while the bomb boulders 
-      explode.</p>
-      <p>Gaoled players will not need to dodge this Landslide, but will need 
-      to join the party on Titan's left as soon as their Gaol explodes as a 
-      sludge puddle will be left behind.</p>
+      <p><b>7.</b> Titan will do a second <em>Landslide</em> while the bomb
+      boulders explode.</p>
+      <p>Gaoled players will not need to dodge this <em>Landslide</em>, but
+      will need to join the party on Titan's left as soon as their Gaol
+      explodes as a sludge puddle will be left behind.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/assets/images/ultimates/uwu/03/titan_07.jpg">
@@ -137,9 +147,11 @@ The **MT** will take hate at the start of the fight.
   <tr>
     <td>
       <p><b>8.</b> While the gaols explode, Titan will begin a series of 8x 
-      Tumults.</p>
-      <p>If done correctly, the three gaoled players will leave behind a chain of sludge puddles that will reach Titan.</p>
-      <p>Each tick Titan stands in a sludge puddle will give Titan a stack of "Aetherically Charged".</p>
+      <em>Tumults</em>.</p>
+      <p>If done correctly, the three gaoled players will leave behind a chain
+      of sludge puddles that will reach Titan.</p>
+      <p>Each tick Titan stands in a sludge puddle will give Titan a stack of
+      <em>Aetherically Charged</em>.</p>
       <ul>
         <li><b>Tanks:</b> Tank swap here <em>(ST now holds hate)</em>.</li>
       </ul>
@@ -158,7 +170,7 @@ The **MT** will take hate at the start of the fight.
   <tr>
     <td width="50%">
       <p><b>9.</b> With the party stacked together on the left, Titan starts 
-      a series of two Weight of the Lands.</p>
+      a series of two <em>Weight of the Lands</em>.</p>
       <p>During this time, Titan will wake with "All my fury I shall bring to 
       bear against thy kind!"</p>
     </td>
@@ -168,7 +180,7 @@ The **MT** will take hate at the start of the fight.
   </tr>
   <tr>
     <td>
-      <p><b>10.</b> Second set of Weight of the Lands.</p>
+      <p><b>10.</b> Second set of <em>Weight of the Lands</em>.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/assets/images/ultimates/uwu/03/titan_10.jpg">
@@ -176,9 +188,11 @@ The **MT** will take hate at the start of the fight.
   </tr>
   <tr>
     <td>
-      <p><b>11.</b> Titan then readies another set of Landslides.</p>
-      <p>However, now that Titan is awake, there will now be two sets of Landslides.</p>
-      <p>Simply move into the first set of Landslides to dodge the second.</p>
+      <p><b>11.</b> Titan then readies another set of <em>Landslides</em>.</p>
+      <p>However, now that Titan is awake, there will now be two sets of
+      <em>Landslides</em>.</p>
+      <p>Simply move into the first set of <em>Landslides</em> to dodge the
+      second.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/assets/images/ultimates/uwu/03/titan_11.jpg">
@@ -186,9 +200,9 @@ The **MT** will take hate at the start of the fight.
   </tr>
   <tr>
     <td>
-      <p><b>12.</b> Second set of (untelegraphed) Landslides now that Titan is
-      awake.</p>
-      <p>These Landslides bisect the first set.</p>
+      <p><b>12.</b> Second set of (untelegraphed) <em>Landslides</em> now that
+      Titan is woken.</p>
+      <p>These <em>Landslides</em> bisect the first set.</p>
       <ul>
         <li><b>ST:</b> Bring Titan to the center of the arena.</li>
       </ul>
@@ -209,7 +223,7 @@ The **MT** will take hate at the start of the fight.
       <p><b>13.</b> Titan will once again briefly turn to face a cardinal 
       direction before jumping.</p>
       <p>The party moves to the opposite side of where Titan faced to avoid 
-      lethal Geocrush damage, and the arena shrinks again.</p>
+      lethal <em>Geocrush</em> damage, and the arena shrinks again.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/assets/images/ultimates/uwu/03/titan_13.jpg">
@@ -231,7 +245,8 @@ The **MT** will take hate at the start of the fight.
   <tr>
     <td>
       <p><b>15.</b> First set of telegraphed Landslides.</p>
-      <p>Dodge into this set of Landslides to avoid getting hit by the follow-up set.</p>
+      <p>Dodge into this set of Landslides to avoid getting hit by the
+      follow-up set.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/assets/images/ultimates/uwu/03/titan_15.jpg">
@@ -299,7 +314,8 @@ The **MT** will take hate at the start of the fight.
   </tr>
   <tr>
     <td>
-      <p><b>22.</b> The MT moves away from the party to take another Rock Buster → Mountain Buster sequence.</p>
+      <p><b>22.</b> The MT moves away from the party to take another <em>Rock
+      Buster → Mountain Buster</em> sequence.</p>
       <p>Stack in the center to prepare to bait Weight of the Lands.</p>
       <p><em>(Most groups will kill Titan by this point.)</em></p>
     </td>
@@ -337,21 +353,25 @@ The **MT** will take hate at the start of the fight.
 </table>
 
 When a woken Titan is defeated, it will also leave behind a light puddle that 
-will give a player the "Beyond Limits" buff.
+will give a player the *Beyond Limits* buff.
 
 <table>
-  <tr><td><b>Beyond Limits (Titan)</b></td><td>Melee</td></tr>
+  <tr>
+    <td><b>Beyond Limits (Titan)</b></td>
+    <td>Melee</td>
+  </tr>
 </table>
 
 ---
 
 ## Ultima Transition
 
-At this point, a healer, a caster, and a melee should have the Beyond Limits 
+At this point, a healer, a caster, and a melee should have the *Beyond Limits* 
 buff.
 
-When a player with the Beyond Limits uses an LB3, the buff will be consumed 
-and the LB3 will be replenished. This lets the party LB3 four times in a row:
+When a player with the *Beyond Limits* uses an LB3, the buff will be consumed 
+and the LB3 will be replenished. This lets the party LB3 four times in a row
+(in order):
 
 1. Caster
 2. Healer

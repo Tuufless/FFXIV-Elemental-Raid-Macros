@@ -11,17 +11,20 @@ permalink: /ultimates/uwu/01_garuda/
 The party begins facing against Garuda. 
 
 However, the first three phases of UWU have one key mechanic that affects how
-the party will resolve mechanics
+the party will resolve mechanics.
 
 ---
 
 ## Waking the Primals
 
-The defining characteristic of the first three phases (Garuda, Ifrit, Titan) is that each of the bosses must be "woken" by the party.
+The defining characteristic of the first three phases (Garuda, Ifrit, Titan) is
+that each of the bosses must be "woken" by the party.
 
-By executing a mechanic in a particular (generally harder) manner, the boss will get one stack of *Aetherically Charged*.
+By executing a mechanic in a particular (generally harder) manner, the boss
+will get one stack of *Aetherically Charged*.
 
-When a boss gets four stacks of *Aetherically Charged*, they become "Woken", which does the following:
+When a boss gets four stacks of *Aetherically Charged*, they become "Woken",
+which does the following:
 
 - Certain attacks are changed or modified when the boss is woken.
 - When defeated, a woken boss will leave behind a light puddle that will give 
@@ -338,7 +341,8 @@ Note that Garuda only has three of the four stacks needed to wake her.
 
 ## Waking Garuda
 
-This is the last part of Garuda's phase, and is where the party will give Garuda the fourth stack of *Aetherically Charged*, waking her.
+This is the last part of Garuda's phase, and is where the party will give 
+Garuda the fourth stack of *Aetherically Charged*, waking her.
 
 <table>
   <tr>
@@ -363,7 +367,8 @@ This is the last part of Garuda's phase, and is where the party will give Garuda
       (frontal cleave), while the ST and D4 have their stacks cleansed by the 
       <em>Mesohigh</em> tethers.</p>
       <ul>
-        <li><b>MT:</b> There is a <em>lot</em> of damage going out even though there isn't an explicit tankbuster. Use cooldowns.</li>
+        <li><b>MT:</b> There is a <em>lot</em> of damage going out even though
+        there isn't an explicit tankbuster. Use cooldowns.</li>
       </ul>
       <p>This will cleanse the two stacks of <em>Thermal Low</em> on the ST, 
       giving Garuda her fourth stack of Aetherically Charged, and waking her with 

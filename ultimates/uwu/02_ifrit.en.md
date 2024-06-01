@@ -121,7 +121,9 @@ This is Ifrit's major mechanic, and where we will wake Ifrit.
         <li>
           <p><b>D3/D4:</b> Bait <em>Violent Eruptions</em>. The first two 
           <em>Eruptions</em> should hit the bottom-left/right <em>Infernal Nail</em>.</p>
-          <p>The last two <em>Eruptions</em> should hit the top two <em>Infernal Nails</em>. <em>(This gives some backup in case one player is slow and misses the fourth Nail.)</em></p>
+          <p>The last two <em>Eruptions</em> should hit the top two 
+          <em>Infernal Nails</em>. <em>(This gives some backup in case one 
+          player is slow and misses the fourth Nail.)</em></p>
         </li>
       </ul>
     </td>

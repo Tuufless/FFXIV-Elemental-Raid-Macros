@@ -74,7 +74,8 @@ accidentally take hate from the MT.
   </tr>
   <tr>
     <td>
-      <p><b>3.</b> The <em>Viscous Aetheroplasm</em> debuff expires, dealing split damage shared by the party.</p>
+      <p><b>3.</b> The <em>Viscous Aetheroplasm</em> debuff expires, dealing
+      split damage shared by the party.</p>
     </td>
 	  <td>
       <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04a/predation_03.jpg">
