@@ -9,7 +9,8 @@ permalink: /3.0_heavensward/extreme_trials/thordan/
 
 # The Minstrel's Ballad: Thordan's Reign
 
-A more up-to-date reference would be Nukemaru's guide, which [Game8](https://game8.jp/ff14/557234) also featured:
+A more up-to-date reference would be Nukemaru's guide, which
+[Game8](https://game8.jp/ff14/557234) also featured:
 
 {% include youtube.html id="MexDR_KSmZc" %}
 
@@ -29,10 +30,13 @@ A more up-to-date reference would be Nukemaru's guide, which [Game8](https://gam
 
 ## Markers
 
-You can use markers in this fight, but they're not really needed as Thordan leaves his sword behind at true North for the parts where you have map-relative spreads.
+You can use markers in this fight, but they're not really needed as Thordan
+leaves his sword behind at true North for the parts where you have
+map-relative spreads.
 
 - `ABCD` are for orientation.
-- The `1` marker is for the marked healer at the first Knights of Round mechanic.
+- The `1` marker is for the marked healer at the first *Knights of Round* 
+  mechanic.
 
 ![](images/markers.jpg)
 <details markdown=block>
@@ -73,9 +77,12 @@ You can use markers in this fight, but they're not really needed as Thordan leav
 
 ## Knights of Round #2 (4x towers)
 
-The towers always spawn on the line perpendicular to the knight that spawns somewhere towards the outside of the arena.
+The towers always spawn on the line perpendicular to the knight that spawns
+somewhere towards the outside of the arena.
 
-Using that knight as north (N.B: *not* Thordan or the Dragon Eye), we assign the healers and ranged towers relative to that knight. Tanks and melee should fill in where possible.
+Using that knight as north (N.B: *not* Thordan or the Dragon Eye), we assign
+the healers and ranged towers relative to that knight. Tanks and melee should
+fill in where possible.
 
 ![](images/towers.jpg)
 
@@ -83,6 +90,12 @@ Using that knight as north (N.B: *not* Thordan or the Dragon Eye), we assign the
 
 ## Notes
 
-You don't *have* to destroy all the small Comet Circles during the Meteors phase- you can let one explode and still survive (it will deal a little over half the party's max HP).
+You don't *have* to destroy all the small Comet Circles during the Meteors
+phase- you can let one explode and still survive (it will deal a little over
+half the party's max HP).
 
-If your party is struggling with this phase, you can choose to ignore the north Comet (which is easily recognisable via Thordan's sword just beside it).
+If your party is struggling with this phase, you can choose to ignore the
+north Comet (which is easily recognisable via Thordan's sword just beside it).
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

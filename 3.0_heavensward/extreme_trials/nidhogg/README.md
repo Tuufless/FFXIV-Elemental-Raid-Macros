@@ -26,3 +26,6 @@ permalink: /3.0_heavensward/extreme_trials/nidhogg/
 A more modern approach would be to use `ABCD` to mark cardinal directions, and use `1` and `2` for Sable Price instead (there were only `ABC` markers available at the time).
 
 ![](images/markers.jpg)
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

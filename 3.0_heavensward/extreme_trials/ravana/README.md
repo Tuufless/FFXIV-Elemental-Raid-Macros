@@ -13,3 +13,6 @@ permalink: /3.0_heavensward/extreme_trials/ravana/
 ```
 {% include_relative macros/ravana.jp.txt %}
 ```
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

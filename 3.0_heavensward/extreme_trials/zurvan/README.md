@@ -49,3 +49,6 @@ An up-to-date reference would be Nukemaru's guide:
 ```
 
 </details>
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

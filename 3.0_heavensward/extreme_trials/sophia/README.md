@@ -64,3 +64,6 @@ The `A` marker is used as a gathering point to bait falloff AoEs during second Q
     - If the number of tethers on both sides are equal, move opposite the blue Meteor.
 - If the total number of meteors/tethers is **even**, go all the way to the edge.
 - If the total number of meteors/tethers is **odd**, stop around 1/4 of the way to the edge.
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
