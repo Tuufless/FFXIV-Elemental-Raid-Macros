@@ -112,3 +112,6 @@ The number of people that are hit by the Aetheroplasm Orbs determine the time th
 The more players that are hit increases the distance between the two orbs, giving the party more time to resolve them.
 
 However, each person hit also increases the Ultima Aether gauge by 1.
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

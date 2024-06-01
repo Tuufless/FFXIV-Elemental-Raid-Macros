@@ -360,3 +360,6 @@ and the LB3 will be replenished. This lets the party LB3 four times in a row:
 
 Start the Caster LB when the Magitek Bits land (and the party takes impact
 damage). All other LBs can be used as soon as the LB3 bar replenishes.
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

@@ -454,3 +454,6 @@ relevant much later into the fight (from Ultimate Annihilation onwards).
     </td>
   </tr>
 </table>
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

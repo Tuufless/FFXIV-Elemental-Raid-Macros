@@ -152,3 +152,6 @@ Once all three Primal sequences are complete, Ultima Weapon will teleport to the
 When the Ultima Aether gauge reaches 100, party members will be incapacitated one-by-one, starting from the player that did the least damage to the player that did the most.
 
 This serves as Ultima Weapon's enrage, although note that there are still a few seconds for DoTs to tick even after the last player has been defeated.
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
