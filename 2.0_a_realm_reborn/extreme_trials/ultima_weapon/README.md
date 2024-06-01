@@ -26,3 +26,6 @@ A more up-to-date reference would be Nukemaru's guide to The Minstrel's Ballad: 
 ```
 {% include_relative macros/ultima_weapon.jp.txt %}
 ```
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

@@ -13,3 +13,6 @@ permalink: /2.0_a_realm_reborn/extreme_trials/ramuh/
 ```
 {% include_relative macros/ramuh.jp.txt %}
 ```
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

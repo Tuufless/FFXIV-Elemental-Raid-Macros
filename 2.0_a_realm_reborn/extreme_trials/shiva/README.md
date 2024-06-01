@@ -22,3 +22,6 @@ A more modern reference would be Nukemaru's guide to the Akh Afah Amphitheatre (
 ```
 {% include_relative macros/shiva.jp.txt %}
 ```
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
