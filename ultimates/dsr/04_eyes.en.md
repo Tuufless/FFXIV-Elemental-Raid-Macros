@@ -253,3 +253,6 @@ If Haurchefant dies in this phase, the fight loops back to Thordan in Phase 2.
   </tr>
 </table>
 </details>
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

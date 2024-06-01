@@ -465,3 +465,6 @@ After the Soul tethers resolve, Nidhogg will then auto-attack the MT
 **always** point South).
 
 Nidhogg then starts casting *Revenge of the Horde* (enrage).
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

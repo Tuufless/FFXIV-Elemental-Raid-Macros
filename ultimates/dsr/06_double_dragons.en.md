@@ -1074,3 +1074,6 @@ transition to the final phase *(Dragonking Thordan will not be targetable*
   </tr>
 </table>
 </details>
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
