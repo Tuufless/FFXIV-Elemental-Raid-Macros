@@ -7,11 +7,16 @@ permalink: /
 
 # FFXIV Elemental Raid Macros
 
-This repository is a collection of macros (and my notes) often encountered in the Elemental Data Center (DC).
+This repository is a collection of macros (and my notes) often encountered in
+the Elemental Data Center (DC).
 
-Because Elemental is ultimately a Japanese DC, these macros are for **Japanese** PF strategies. Keep that in mind that when watching (English) videos/reading guides- the strategies used may have some differences from the ones here.
+Because Elemental is ultimately a Japanese DC, these macros are for
+**Japanese** PF strategies. Keep that in mind that when watching (English)
+videos/reading guides- the strategies used may have some differences from the
+ones here.
 
-Of course, there will probably be small differences between the macros here and the ones you may encounter in PF- use the ones here as a base to work with.
+Of course, there will probably be small differences between the macros here and
+the ones you may encounter in PF- use the ones here as a base to work with.
 
 ## Current content (Patch 6.5)
 
