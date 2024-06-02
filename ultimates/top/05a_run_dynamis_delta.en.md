@@ -179,47 +179,55 @@ Tethers appear, splitting the party up into two groups:
 
 <table>
   <tr>
-    <td width="50%"><p><b>1.</b> Split off into your initial positions:</p>
-    <ul>
-      <li>
-        <p><b>Blue tethers:</b> Form two lines by the "Beetle-form" Omega,
-        one long, and one short.</p>
-        <p>The "long" tether should be long enough to immediately break once
-        the tethers are activated.</p>
-      </li>
-      <li><b>Red/green tethers:</b> Form two lines by the Reconstructed Omega,
-      stretched out to not break the tether.</li>
-    </ul></td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/05a/run_dynamis_delta_01.jpg"></td>
+    <td width="50%">
+      <p><b>1.</b> Split off into your initial positions:</p>
+      <ul>
+        <li>
+          <p><b>Blue tethers:</b> Form two lines by the "Beetle-form" Omega,
+          one long, and one short.</p>
+          <p>The "long" tether should be long enough to immediately break once
+          the tethers are activated.</p>
+        </li>
+        <li><b>Red/green tethers:</b> Form two lines by the Reconstructed Omega,
+        stretched out to not break the tether.</li>
+      </ul>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/top/05a/run_dynamis_delta_01.jpg">
+    </td>
   </tr>
   <tr>
-    <td><p><b>2.</b> Blue and yellow fists appear above each player.</p>
-    <p>The outer pair stays where they are, while the inner pairs move to be in
-    line with them.</p>
-    <p>The inner pair also adjusts if needed:</p>
-    <ol>
-      <li>Identify whether you and the player standing next to you (from the
-      other tether) have the same-coloured fists.</li>
-      <li>If both fists are the same colour, swap positions with your tether
-      partner.</li>
-    </ol>
-    <p><em>In the first example, the blue tethers have the same coloured fists
-    together, so the inner tether (H2 and D2) swap sides. There is no swap
-    needed for the green tethers, so the inner pair (MT, D1) goes to stack on
-    their fist partners (H1 and D4 respectively).</em></p>
-    <p><em>In the second example, the green tethers have the same coloured
-    fists together, so the inner tether (MT and D1) swap sides. There is no
-    swap needed for the blue tethers, so the inner pair (H2, D2) moves to stay
-    in line with their fist partners (D3 and ST respectively).</em></p>
-    <p><em>At most, only one pair will need to swap.</em></p></td>
+    <td>
+      <p><b>2.</b> Blue and yellow fists appear above each player.</p>
+      <p>The outer pair stays where they are, while the inner pairs move to be in
+      line with them.</p>
+      <p>The inner pair also adjusts if needed:</p>
+      <ol>
+        <li>Identify whether you and the player standing next to you (from the
+        other tether) have the same-coloured fists.</li>
+        <li>If both fists are the same colour, swap positions with your tether
+        partner.</li>
+      </ol>
+      <p><em>In the first example, the blue tethers have the same coloured fists
+      together, so the inner tether (H2 and D2) swap sides. There is no swap
+      needed for the green tethers, so the inner pair (MT, D1) goes to stack on
+      their fist partners (H1 and D4 respectively).</em></p>
+      <p><em>In the second example, the green tethers have the same coloured
+      fists together, so the inner tether (MT and D1) swap sides. There is no
+      swap needed for the blue tethers, so the inner pair (H2, D2) moves to stay
+      in line with their fist partners (D3 and ST respectively).</em></p>
+      <p><em>At most, only one pair will need to swap.</em></p>
+    </td>
     <td>
       <img src="{{site.baseurl}}/assets/images/ultimates/top/05a/run_dynamis_delta_02a.jpg">
       <img src="{{site.baseurl}}/assets/images/ultimates/top/05a/run_dynamis_delta_02b.jpg">
     </td>
   </tr>
   <tr>
-    <td><p><b>3.</b> Arms appear on the outside of the arena, and telegraph
-    which direction they will spin.</p></td>
+    <td>
+      <p><b>3.</b> Arms appear on the outside of the arena, and telegraph
+      which direction they will spin.</p>
+    </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/05a/run_dynamis_delta_03.jpg"></td>
   </tr>
   <tr>
