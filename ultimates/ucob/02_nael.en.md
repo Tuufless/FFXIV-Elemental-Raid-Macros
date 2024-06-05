@@ -121,7 +121,7 @@ The quotes that Nael will use in this phase are:
 <summary><b>[Click to Expand] Dragon mechanics breakdown</b></summary>
 <table>
   <tr>
-    <td>
+    <td style="text-align:center">
       <img src="{{site.baseurl}}/assets/images/ultimates/ucob/02/fire_resistance.png">
       <img src="{{site.baseurl}}/assets/images/ultimates/ucob/02/ice_resistance.png">
     </td>
@@ -145,7 +145,7 @@ The quotes that Nael will use in this phase are:
     </td>
   </tr>
   <tr>
-    <td>
+    <td style="text-align:center">
       <img src="{{site.baseurl}}/assets/images/ultimates/ucob/02/doom.png">
     </td>
     <td>
@@ -163,7 +163,7 @@ The quotes that Nael will use in this phase are:
     </td>
   </tr>
   <tr>
-    <td>
+    <td style="text-align:center">
       <img src="{{site.baseurl}}/assets/images/ultimates/ucob/02/thunderstruck.png">
     </td>
     <td>

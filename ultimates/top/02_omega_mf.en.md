@@ -73,7 +73,9 @@ the Playstation symbols. The party will also get either *Mid Glitch*, or
     </td>
   </tr>
   <tr>
-    <td colspan="2"><img src="{{site.baseurl}}/assets/images/ultimates/top/02/glitch_ranges.jpg"></td>
+    <td colspan="2" style="text-align:center">
+      <img src="{{site.baseurl}}/assets/images/ultimates/top/02/glitch_ranges.jpg">
+    </td>
   </tr>
 </table>
 </details>
