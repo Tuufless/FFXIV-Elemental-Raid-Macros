@@ -772,6 +772,22 @@ The party then proceeds onto Perfect Alexander.
 </table>
 </details>
 
+<details markdown=block>
+<summary>
+<b>[Summon Alexander]</b> Can you kill Alexander Prime early and skip J-Waves?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>Alexander Prime has an HP floor of 1HP before J-Waves, so you cannot
+      skip J-Waves altogether (he actually gets an extra 1HP added during
+      J-Waves so you'd still have to poke him to trigger the transition.)</p>
+      {% include youtube.html id="VStb1QTG6vc" %}
+    </td>
+  </tr>
+</table>
+</details>
+
 ---
 
 ## Troubleshooting

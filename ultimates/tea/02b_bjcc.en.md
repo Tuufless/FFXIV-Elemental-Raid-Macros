@@ -666,6 +666,23 @@ overkill?
 </table>
 </details>
 
+<details markdown=block>
+<summary>
+<b>[Gavel]</b> What happens if you kill Brute Justice before <em>Gavel</em>?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>Alas, this is not feasible- if Brute Justice dies before
+      <em>Gavel</em> resolves, he does an instantcast <em>Final Sentence</em>
+      on the way out, killing everybody <em>even if</em> the debuffs from
+      <em>Verdict</em> have not yet been assigned.</p>
+      {% include youtube.html id="VStb1QTG6vc" %}
+    </td>
+  </tr>
+</table>
+</details>
+
 ---
 
 ## Troubleshooting
