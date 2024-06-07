@@ -88,7 +88,7 @@ the party's cooldowns, you'd do something like the following:
   </tr>
   <tr>
     <td><b>Gigaflare's Edge #2</b></td>
-    <td>ST Reprisal, H2 30s, D1</td>
+    <td>ST Reprisal, H2 30s, H2 120s, D1</td>
   </tr>
   <tr>
     <td><b>Akh Morn's Edge #3</b></td>
