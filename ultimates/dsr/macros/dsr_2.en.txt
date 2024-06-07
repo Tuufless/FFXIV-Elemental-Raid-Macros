@@ -77,26 +77,26 @@
 　H1D1　　H2D2　※ D1, D2, D3 adjusts
 【Akh Afah】North：MT, H1, D1, D3
 　　　　　　　South：ST, H2, D2, D4
-【Hallowed Wings #1】MT → North　ST → South
+【Hallowed Wings】MT → Edge　ST → Mid
 【Mortal Vow】(pass in mid except last) 
 　　DPS → MT → ST → (D1>D2) → D3
-【Wroth Flames】Spread → Nidhogg　
-　　　　　　　　　Stacks → Hraesvelgr
-【Hallowed Wings #2】MT → West　ST → East
+【Wroth Flames】Spread → West　Stacks → East
 【Wyrmsbreath #2】(5-1) D3 south
 【Cauterize】(2x invuln) MT → West, ST → East
+【Alternative End】
+　　MT 90s, ST 90s, H2 30s, H2 90s, H2 120s, D3
 ―《Dragonking Thordan》―――――――――――
 【Mitigations】
-　All with H2 30s and:
-　　Alt. End：MT 90s, ST 90s, H2 90, D3
-　　AM1：MT Rep, H1 120s, D1
-　　Giga1： ST Rep, D2, D4
-　　AM2：MT Rep, H1 180s, D3
-　　Giga2：ST Rep, D1
-　　AM3：MT Rep, H1 120s, D2, D4
+　　AM1：MT Rep, H1 120s, H2 30s, D1
+　　Giga1：ST Rep, H2 30s, D2, D4
+　　AM2：MT Rep, MT 90s, ST 90s, H2 30s, D3
+　　Giga2：ST Rep, H2 30s, H2 120s, D1
+　　AM3：MT Rep, H1 120s, H2 30s, D2, D4
+　　　　　+ MT 90s, ST 90s, D3
 【Trinity】After Exaflare → D1, D2
 　　　　　 After Akh Morn → D3, D4
 　　　　　 After Gigaflare → H1, H2
 【Akh Morn's Edge】(All 3-3-2)
 　　H1D1D3　　H2D2D4
 　　　　　　 MTST
+【Morn Afah's Edge】H1H2MT → D3D4ST
