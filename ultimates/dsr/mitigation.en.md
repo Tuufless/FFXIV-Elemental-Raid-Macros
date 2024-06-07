@@ -787,7 +787,8 @@ trouble topping up the DRK if *Living Dead* was used at *Cauterize*.
     </td>
     <td>
       <ul>
-        <li>A SCH can substitute <em>Expedient</em> with <em>Fey Illumination</em>.</li>
+        <li>A SCH can substitute <em>Expedient</em> with <em>Fey
+        Illumination</em>.</li>
       </ul>
     </td>
   </tr>
@@ -800,6 +801,9 @@ Each hit from *Akh Morn's Edge* deals 36k-38k damage/second.
 In contrast, each hit from *Gigaflare's Edge* deals 67k-71k base damage, but
 the three hits are spaced out over 8 seconds, leading to an average of 25k-27k 
 damage/second (this is somewhat made up for by having to move and heal).
+
+Note that MT, ST, H2 and D3 should watch the *Trinity* autoattacks after
+*Exaflare's Edge* to use their mitigations.
 
 <table>
   <tr>
@@ -819,9 +823,8 @@ damage/second (this is somewhat made up for by having to move and heal).
     </td>
     <td>
       <ul>
-        <li>If H2 30s is used right after the second <em>Trinity</em> 
-        auto-attack after <em>Exaflare's Edge</em>, it will be available for
-        <em>Gigaflare's Edge</em> #1.</li>
+        <li>Use H2 30s right after the second <em>Trinity</em> auto-attack
+        after <em>Exaflare's Edge</em>.</li>
       </ul>
     </td>
   </tr>
@@ -852,17 +855,13 @@ damage/second (this is somewhat made up for by having to move and heal).
     <td>
       <ul>
         <li><b>MT + ST:</b> 30%</li>
-        <li>MT <em>Reprisal</em>, H1 180s, H2 30s, D3</li>
+        <li>MT <em>Reprisal</em>, MT 90s, ST 90s, H2 30s, D3</li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>If H2 30s is used right after the second <em>Trinity</em> 
-        auto-attack after <em>Exaflare's Edge</em>, it will be available for
-        <em>Gigaflare's Edge</em> #2.</li>
-        <li>If MT 90s, ST 90s, D3 is used right after the second
-        <em>Trinity</em> auto-attack after <em>Exaflare's Edge</em>, it will be 
-        available for <em>Akh Morn's Edge</em> #3.</li>
+        <li>Use MT 90s, ST 90s, H2 30s, and D3's mitigation right after the
+        second <em>Trinity</em> auto-attack after <em>Exaflare's Edge</em>.</li>
       </ul>
     </td>
   </tr>
@@ -876,7 +875,7 @@ damage/second (this is somewhat made up for by having to move and heal).
     </td>
     <td>
       <ul>
-        <li>ST <em>Reprisal</em>, H2 30s, D1</li>
+        <li>ST <em>Reprisal</em>, H2 30s, H2 120s, D1</li>
       </ul>
     </td>
     <td></td>
@@ -892,8 +891,12 @@ damage/second (this is somewhat made up for by having to move and heal).
     </td>
     <td>
       <ul>
-        <li><b>MT + ST:</b> <em>Rampart</em> + 3rd</li>
-        <li>MT <em>Reprisal</em>, H1 120s, H2 30s, D2, D4</li>
+        <li><b>MT + ST:</b> <em>Rampart</em> + 3rd
+          <ul>
+            <li>A WAR will <em>Holmgang</em> instead.</li>
+          </ul>
+        </li>
+        <li>MT <em>Reprisal</em>, MT 90s, ST 90s, H1 120s, H2 30s, D2, D3, D4</li>
       </ul>
     </td>
     <td></td>
@@ -1089,7 +1092,6 @@ damage/second (this is somewhat made up for by having to move and heal).
   <tr>
     <td><b>P7. Dragonking Thordan</b></td>
     <td>
-      <p>ST 90s will be available from <em>Akh Morn's Edge</em> #2 onwards.</p>
       <p><b>Akh Morn's Edge #1</b></p>
       <ul>
         <li><em>Rampart + 3rd</em></li>
@@ -1098,15 +1100,19 @@ damage/second (this is somewhat made up for by having to move and heal).
       <p><b>Akh Morn's Edge #2</b></p>
       <ul>
         <li>30%</li>
-        <li><em>Reprisal</em></li>
-        <li>MT 90s used after the second auto-attack before <em>Akh Morn's
-        Edge</em> #2, will get an additional use at <em>Akh Morn's
-        Edge</em> #3.</li>
+        <li><em>Reprisal</em>, MT 90s</li>
+        <li>Use MT 90s right after the second auto-attack after <em>Exaflare's
+        Edge</em>.</li>
       </ul>
       <p><b>Akh Morn's Edge #3</b></p>
       <ul>
-        <li><em>Rampart + 3rd</em></li>
-        <li><em>Reprisal</em></li>
+        <li><em>Rampart + 3rd</em>
+          <ul>
+            <li>A WAR will <em>Holmgang</em> instead.</li>
+          </ul>
+        </li>
+        <li><em>Reprisal</em>, MT 90s</li>
+        <li>Use MT 90s as soon as it's available.</li>
       </ul>
     </td>
   </tr>
@@ -1268,7 +1274,6 @@ damage/second (this is somewhat made up for by having to move and heal).
   <tr>
     <td><b>P7. Dragonking Thordan</b></td>
     <td>
-      <p>ST 90s will be available from <em>Akh Morn's Edge</em> #2 onwards.</p>
       <p><b>Akh Morn's Edge #1</b></p>
       <ul>
         <li><em>Rampart + 3rd</em></li>
@@ -1280,9 +1285,9 @@ damage/second (this is somewhat made up for by having to move and heal).
       <p><b>Akh Morn's Edge #2</b></p>
       <ul>
         <li>30%</li>
-        <li>ST 90s used after the second auto-attack before <em>Akh Morn's
-        Edge</em> #2, will get an additional use at <em>Akh Morn's
-        Edge</em> #3.</li>
+        <li>ST 90s</li>
+        <li>Used ST 90s right after the second auto-attack after <em>Exaflare's
+        Edge</em>.</li>
       </ul>
       <p><b>Gigaflare's Edge #2</b></p>
       <ul>
@@ -1291,6 +1296,8 @@ damage/second (this is somewhat made up for by having to move and heal).
       <p><b>Akh Morn's Edge #3</b></p>
       <ul>
         <li><em>Rampart + 3rd</em></li>
+        <li>ST 90s</li>
+        <li>Use ST 90s as soon as it's available.</li>
       </ul>
     </td>
   </tr>
@@ -1541,50 +1548,32 @@ are fairly common, adapt this as needed if H1 is a SCH or SGE.
     <td>
       <p>Notably, SCH would prefer to use <em>Seraph</em> at <em>Gigaflare's
       Edge</em>, while a SGE's <em>Panhaima</em> excels at <em>Akh Morn's
-      Edge</em> #1 and #3, so use <em>Expedient/Holos</em> to fill in as
-      needed, as the mitigation plan does not specify any particular place for
-      the H2 120s mitigations.</p>
+      Edge</em> #1 and #3.</p>
       <p><b>Akh Morn's Edge #1</b></p>
       <ul>
         <li>H2 30s
           <ul>
-            <li>Use the H2 30s right after the second auto-attack following
-            <em>Exaflare's Edge</em> to get an additional use at <em>Gigaflare's
-            Edge</em> #1.</li>
+            <li>Use H2 30s right after the second auto-attack following
+            <em>Exaflare's Edge</em>.</li>
           </ul>
         </li>
       </ul>
       <p><b>Gigaflare's Edge #1</b></p>
       <ul>
-        <li>H2 30s
-          <ul>
-            <li>If H2 30s was not used early before <em>Akh Morn's Edge</em> #1
-            (see above), it won't be available for the first hit of 
-            <em>Gigaflare's Edge</em>, but should still be used when available 
-            midway.</li>
-          </ul>
-        </li>
+        <li>H2 30s</li>
       </ul>
       <p><b>Akh Morn's Edge #2</b></p>
       <ul>
         <li>H2 30s
           <ul>
-            <li>Use the H2 30s right after the second auto-attack following
-            <em>Exaflare's Edge</em> to get an additional use at <em>Gigaflare's
-            Edge</em> #2.</li>
+            <li>Use H2 30s right after the second auto-attack following
+            <em>Exaflare's Edge</em>.</li>
           </ul>
         </li>
       </ul>
       <p><b>Gigaflare's Edge #2</b></p>
       <ul>
-        <li>H2 30s
-          <ul>
-            <li>If H2 30s was not used early before <em>Akh Morn's Edge</em> #2
-            (see above), it won't be available for the first hit of 
-            <em>Gigaflare's Edge</em>, but should still be used when available 
-            midway.</li>
-          </ul>
-        </li>
+        <li>H2 30s, H2 120s</li>
       </ul>
       <p><b>Akh Morn's Edge #3</b></p>
       <ul>
@@ -1844,9 +1833,16 @@ This assumes D2 is a melee DPS.
       <ul>
         <li><em>Troubadour/Tactician/Shield Samba</em>
           <ul>
-            <li>If used after the second auto-attack before <em>Akh Morn's
-            Edge</em> #2, you can get an additional use at <em>Akh Morn's
-            Edge</em> #3.</li>
+            <li>Use after the second auto-attack after <em>Exaflare's
+            Edge</em>.</li>
+          </ul>
+        </li>
+      </ul>
+      <p><b>Akh Morn's Edge #3</b></p>
+      <ul>
+        <li><em>Troubadour/Tactician/Shield Samba</em>
+          <ul>
+            <li>Use as soon as it's available.</li>
           </ul>
         </li>
       </ul>
