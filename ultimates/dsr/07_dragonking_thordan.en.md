@@ -325,11 +325,11 @@ A general kill order should resemble:
 <table>
   <tr>
     <td><b>First set of towers</b></td>
-    <td>H1, H2, ST</td>
+    <td>H1, H2, MT</td>
   </tr>
   <tr>
     <td><b>Second set of towers</b></td>
-    <td>D3, D4, MT</td>
+    <td>D3, D4, ST</td>
   </tr>
   <tr>
     <td><b>Third set of towers</b></td>
