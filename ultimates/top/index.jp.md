@@ -13,7 +13,7 @@ permalink: /ultimates/jp/top/
 
 # 絶オメガ検証戦
 
-Elemental DC野良絶処理法は以下の通りです。
+Elemental DC、野良絶処理法は以下の通りです。
 
 - [**(虫)オメガ**](01_omega.en.md): HTDH、北西/南東4:4分け
 - [**男女オメガ**](02_omega_mf.en.md): 1234-4231 (〇×▽□)

@@ -74,7 +74,7 @@ Elemental DCの野良絶アルテマでは[Cleesさんの処理法](https://www.
 **アルテマ：**
 - `3`:「爆撃」と「蛮神召喚履行フェーズ」にイフリートの突進を避けるため
 - `4`: 乱撃のジェイル
-- `B`: 乱撃のファイアボール # I don't know what you mean by this.
+- `B`: 乱撃終盤のフレイムクラッシュ（頭割り）
 
 
 ![]({{site.baseurl}}/assets/images/ultimates/uwu/markers.jpg)
