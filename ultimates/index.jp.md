@@ -9,11 +9,10 @@ permalink: /ultimates/jp/
 
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
 日本語が母語ではないので記事をすべて日本語するのは難しいと思います。添削をしてくださると嬉しいです。</div>
-#I thought ult pfs are common in Mana Dc nowadays. It originally sounded like only ppl in Ele do ult pfs but i added some nuance to it to be precise.
 
 # 絶シリーズ
-現状エレメンタルDCほど野良絶が活発なコミュニティは日本DCの中ではありません。
-したがって、これから紹介する処理法はすべて英語圏プレイヤーが発案したものになります。
+日本のDCで最初に絶の野良攻略を始めたのがエレメンタルＤＣのため、これから紹介する処理法はすべて英語圏プレイヤーが発案したものになります。
+マナＤＣや他の日本コミュニティとは違う処理法を採用しています。
 文化と言語の壁があっても日本コミュニティで野良絶をもっと浸透させたいという思いでこのサイトを始めました。
 
 ### 外部ツールについて

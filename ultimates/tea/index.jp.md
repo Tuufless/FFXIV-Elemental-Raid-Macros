@@ -13,11 +13,11 @@ permalink: /ultimates/jp/tea/
 
 # 絶アレキサンダー討滅戦
 
-Elemental DC。
+Elemental DCの野良絶処理法は以下の通りです。
 
-- [**リキッド**](01_living_liquid.en.md): セパレ改
+- [**リキッド**](01_living_liquid.en.md): セパレ式改
 - [**サイコロ**](02a_limit_cut.en.md): 1211か1256
-- [**２体フェーズ**](02b_bjcc.en.md): Tollgate（エレDCしかやってない法）
+- [**２体フェーズ**](02b_bjcc.en.md): Tollgate（エレDC特有の処理法）
 - [**アレキザンダープライム**](03_alex_prime.en.md): ハムカツ34固定式
 - [**Pアレキ**](04_perfect_alex.en.md)
 
