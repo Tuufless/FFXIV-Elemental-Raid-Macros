@@ -9,11 +9,11 @@ permalink: /ultimates/jp/top/
 ---
 
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
-日本語が母国語じゃないし、記事をすべて日本語で詳しくできないと思います。添削してくれたら感謝します！</div>
+日本語が母語ではないので記事をすべて日本語するのは難しいと思います。添削をしてくださると嬉しいです。</div>
 
 # 絶オメガ検証戦
 
-Elemental DCの野良絶オメガのやり方は以下に要約する。
+Elemental DC野良絶処理法は以下の通りです。
 
 - [**(虫)オメガ**](01_omega.en.md): HTDH、北西/南東4:4分け
 - [**男女オメガ**](02_omega_mf.en.md): 1234-4231 (〇×▽□)
