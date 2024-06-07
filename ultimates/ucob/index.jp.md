@@ -9,11 +9,11 @@ permalink: /ultimates/jp/ucob/
 ---
 
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
-日本語が母国語じゃないし、記事をすべて日本語で詳しくできないと思います。添削してくれたら感謝します！</div>
+日本語が母語ではないので記事をすべて日本語するのは難しいと思います。添削をしてくださると嬉しいです。</div>
 
 # 絶バハムート討滅戦
 
-Elemental DCの野良絶バハのやり方は基本[Cleesさんの処理法](https://clees.me/guides/ucob/)です。
+Elemental DCの野良絶バハでは、[Cleesさんの処理法](https://clees.me/guides/ucob/)を多用しています。
 
 ### 最適装備
 
