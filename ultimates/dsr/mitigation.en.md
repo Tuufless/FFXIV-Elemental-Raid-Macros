@@ -725,7 +725,7 @@ trouble topping up the DRK if *Living Dead* was used at *Cauterize*.
       <ul>
         <li>A DRK can add <em>Dark Mind</em>.</li>
         <li>This set of <em>Hallowed Wings</em> hurt more because
-        <em>Rampart</em> is not used. Furthermore, one tank will be on the 
+        <em>Rampart</em> is not used. Furthermore, the MT will end up on the 
         opposite side of the party (out of healing range). Additional 
         mitigation helps.</li>
       </ul>

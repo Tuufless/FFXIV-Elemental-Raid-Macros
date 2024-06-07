@@ -283,8 +283,8 @@ a base:
       <ul>
         <li><b>Head up:</b> Party near, tanks far.</li>
         <li><b>Head down:</b> Tanks near, party far.</li>
-        <li><b>MT:</b> North</li>
-        <li><b>ST:</b> South</li>
+        <li><b>MT:</b> Edge (either North or South edge)</li>
+        <li><b>ST:</b> Mid (towards the equator)</li>
       </ul>
       <p><em>(In this example, Hraesvelgr's head is down.)</em></p>
     </td>
@@ -321,7 +321,7 @@ Here are some other potential configurations to consider:
   <tr>
     <td width="50%">
       <p>Heads down means tanks near, party far.</p>
-      <p>The MT takes the northern-most position.</p>
+      <p>The MT takes the southern-most position.</p>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/hallowed_wings_01_03.jpg"></td>
   </tr>
@@ -334,7 +334,7 @@ Here are some other potential configurations to consider:
   <tr>
     <td width="50%">
       <p>Heads up means tanks far, party near.</p>
-      <p>The MT takes the northern-most position.</p>
+      <p>The MT takes the southern-most position.</p>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/hallowed_wings_01_04.jpg"></td>
   </tr>
@@ -666,8 +666,13 @@ same mechanics from earlier.
       <p><b>2.</b> This time, Hallowed Wings will happen in combination with
       Hot Wing <em>or</em> Hot Tail from Nidhogg.</p>
       <ul>
-        <li><b>MT: </b> Takes the western position.</li>
-        <li><b>ST: </b> Takes the eastern position.</li>
+        <li><b>MT:</b> Goes to the edge, depending on Hraesvelgr's head.
+          <ul>
+            <li><b>Hraesvelgr's head up:</b> West edge.</li>
+            <li><b>Hraesvelgr's head down:</b> East edge.</li>
+          </ul>
+        </li>
+        <li><b>ST: </b> Takes the center.</li>
       </ul>
       <p><em>(This example has Hot Wing with Hraesvelgr's head up.)</em></p>
     </td>
@@ -693,7 +698,7 @@ Here are some other potential configurations to consider:
       <p>Hot Wing means all party members must stay near the E/W line.</p>
       <p>Heads up means the tanks are away from Hraesvelgr, and the rest of the
       party is towards Hraesvelgr.</p>
-      <p>The MT takes the western-most position.</p>
+      <p>The MT takes the eastern-most position.</p>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/hallowed_wings_02_01.jpg"></td>
   </tr>
