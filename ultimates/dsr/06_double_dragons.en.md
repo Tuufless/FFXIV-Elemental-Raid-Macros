@@ -93,24 +93,33 @@ a base:
 
 ### Wyrmsbreath #1
 
+Each dragon will tether to three non-tank players that need to be sufficiently
+stretched to lower their damage. They will also apply Fire or Ice aspected
+debuffs that cancel each other, so each non-tank player needs to get hit
+by a tether from *each* dragon.
+
+The tanks also have their own mechanic- either one, or both dragon's mouths
+will glow.
+
+- If one dragon's mouth glows, the dragon whose mouth *doesn't* glow targets
+  the person with hate for a giant AoE tankbuster.
+- If both dragon's mouths glow, they will each target the person with hate for
+  a Light or Dark-aspected AoE tankbuster. Like the tethers, these will cancel
+  each other out.
+
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
 <details markdown=block>
 <summary><b>[Click to Expand] Wyrmsbreath debuffs</b></summary>
+<p><b>Fire-aspected debuffs</b></p>
+<p>Getting hit by Nidhogg's <em>Flame Breath</em> during <em>Wyrmsbreath</em>
+will apply the <em>Boiling</em> debuff.</p>
+<p>The fire-aspected debuffs:</p>
+<ul>
+  <li><b>Are cleansed by getting hit with Ice-aspected damage from 
+  Hraesvelgr</b>, as part of <em>Wyrmsbreath</em>, or <em>Cauterize</em>.</li>
+  <li>Greatly increases Fire-aspected damage taken.</li>
+</ul>
 <table>
-  <tr>
-    <td colspan="2">
-      <p><b>Fire-aspected debuffs</b></p>
-      <p>Getting hit by Nidhogg's <em>Flame Breath</em> during 
-      <em>Wyrmsbreath</em> will apply the <em>Boiling</em> debuff.</p>
-      <p>The fire-aspected debuffs:</p>
-      <ul>
-        <li><b>Are cleansed by getting hit with Ice-aspected damage from 
-        Hraesvelgr</b>, as part of <em>Wyrmsbreath</em>, or 
-        <em>Cauterize</em>.</li>
-        <li>Multiplies Fire-aspected damage taken by approximately 30x.</li>
-      </ul>
-    </td>
-  </tr>
   <tr>
     <td style="text-align:center">
       <img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/debuffs/boiling.png">
@@ -138,20 +147,17 @@ a base:
       </ul>
     </td>
   </tr>
-  <tr>
-    <td colspan="2">
-      <p><b>Ice-aspected debuffs</b></p>
-      <p>Getting hit by Hraesvelgr's <em>Ice Breath</em> during 
-      <em>Wyrmsbreath</em> will apply the <em>Freezing</em> debuff.</p>
-      <p>The ice-aspected debuffs:</p>
-      <ul>
-        <li><b>Are cleansed by getting hit with Fire-aspected damage from 
-        Nidhogg</b>, either as part of <em>Wyrmsbreath</em>, or
-        <em>Cauterize</em>.</li>
-        <li>Multiplies Ice-aspected damage taken by approximately 30x.</li>
-      </ul>
-    </td>
-  </tr>
+</table>
+<p><b>Ice-aspected debuffs</b></p>
+<p>Getting hit by Hraesvelgr's <em>Ice Breath</em> during <em>Wyrmsbreath</em>
+will apply the <em>Freezing</em> debuff.</p>
+<p>The ice-aspected debuffs:</p>
+<ul>
+  <li><b>Are cleansed by getting hit with Fire-aspected damage from
+  Nidhogg</b>, either as part of <em>Wyrmsbreath</em>, or <em>Cauterize</em>.</li>
+  <li>Greatly increases Ice-aspected damage taken.</li>
+</ul>
+<table>
   <tr>
     <td style="text-align:center">
       <img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/debuffs/freezing.png">
@@ -193,7 +199,6 @@ a base:
         <li><b>Bottom-left:</b> H1, D1</li>
         <li><b>Bottom-right:</b> H2, D2</li>
       </ul>
-      <p>This will also be your second pot window.</p>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/wyrmsbreath_01_01.jpg"></td>
   </tr>
@@ -272,6 +277,15 @@ a base:
 </table>
 
 ### Hallowed Wings #1
+
+Three things resolve simultaneously:
+
+1. Nidhogg will disappear and appear along either the North or South edge. Nidhogg
+   will then *Cauterize* down either the west or east, cutting off half the arena.
+2. Either Hraesvelgr's left or right wing will glow, cleaving either the north or
+   south half of the arena, leaving just one safe quadrant to work with.
+3. Hraesvelgr will raise or lower his head and will hit the two furthest (head
+   up) or two closest (head down) players with a large AoE tankbuster.
 
 <table>
   <tr>
@@ -698,7 +712,7 @@ Here are some other potential configurations to consider:
       <p>Hot Wing means all party members must stay near the E/W line.</p>
       <p>Heads up means the tanks are away from Hraesvelgr, and the rest of the
       party is towards Hraesvelgr.</p>
-      <p>The MT takes the eastern-most position.</p>
+      <p>The MT takes the western-most position.</p>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/hallowed_wings_02_01.jpg"></td>
   </tr>
@@ -714,7 +728,7 @@ Here are some other potential configurations to consider:
       without getting hit by Hallowed Wings' AoE.</p>
       <p>Heads down means the tanks are towards Hraesvelgr, and the rest of the
       party is away from Hraesvelgr.</p>
-      <p>The ST takes the eastern-most position.</p>
+      <p>The MT takes the eastern-most position.</p>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/hallowed_wings_02_02.jpg"></td>
   </tr>
