@@ -16,7 +16,8 @@ the main mechanics loop.
 
 ## Mitigations
 
-This phase requires some mitigation planning. As a baseline, start with:
+This phase requires some mitigation planning. To get the most use out of all
+the party's cooldowns, you'd do something like the following:
 
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
 <details markdown=block>
@@ -66,7 +67,11 @@ This phase requires some mitigation planning. As a baseline, start with:
 <table>
   <tr>
     <td><b>Akh Morn's Edge #1</b></td>
-    <td>MT Reprisal, H1 120s, H2 30s, D1</td>
+    <td>MT Reprisal, H1 120s, H2 30s, D1
+      <ul>
+        <li>Use H2 30s at the 2nd Trinity after <em>Exaflare's Edge</em>.</li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td><b>Gigaflare's Edge #1</b></td>
@@ -74,7 +79,12 @@ This phase requires some mitigation planning. As a baseline, start with:
   </tr>
   <tr>
     <td><b>Akh Morn's Edge #2</b></td>
-    <td>MT Reprisal, H1 180s, H2 30s, D3</td>
+    <td>MT Reprisal, MT 90s, ST 90s, H2 30s, D3
+      <ul>
+        <li>Use MT 90s, ST 90s, H2 30s, D3 at the 2nd Trinity after
+        <em>Exaflare's Edge</em>.</li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td><b>Gigaflare's Edge #2</b></td>
@@ -82,25 +92,19 @@ This phase requires some mitigation planning. As a baseline, start with:
   </tr>
   <tr>
     <td><b>Akh Morn's Edge #3</b></td>
-    <td>MT Reprisal, H1 120s, H2 30s, D2, D4</td>
+    <td>MT Reprisal, MT 90s, ST 90s, H1 120s, H2 30s, D2, D3, D4
+      <ul>
+        <li>Use MT 90s, ST 90s, D3 as soon as they're available.</li>
+      </ul>
+    </td>
   </tr>
 </table>
 
-Note that the above is just a *baseline* and does not make any recommendations
-on how to use the other available party mitigations, like MT 90s, ST 90s,
-H2 120s (*Expedient/Holos* and *Consolation/Panhaima*), or other pieces of
-mitigation like Magick Barrier or Dismantle.
+Note that there is a need to time some mitigation at the second autoattack
+before *Akh Morn's Edge*. This is done to gain additional uses:
 
-Add those mitigations as appropriate to supplement the above framework.
-
-<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
-  <p><b>Tip:</b> H2's 30s mitigations should be used when Akh Morn's Edge begins
-  its cast (after the second Trinity attack) to be back up in time for
-  Gigaflare's Edge.</p>
-  <p>90s mitigations used when Akh Morn's Edge begins its cast will cover the
-  Akh Morn's Edge <em>and</em> be back up in time for the <em>next</em> Akh
-  Morn's Edge.</p>
-</div>
+- H2 30s will be back for *Gigaflare's Edge*.
+- MT 90s, ST 90s, D3 will be back for *Akh Morn's Edge* #3.
 
 ---
 
@@ -364,48 +368,6 @@ Potions can be used at either burst window.
 ---
 
 ## Frequently Asked Questions
-
-<details markdown=block>
-<summary>
-  <b>[Mitigation]</b> Why doesn't the mit plan contain <em>all</em> the basic
-  party mitigations for the phase? Why are MT90s, ST90s and H2 120s missing?
-</summary>
-<table>
-  <tr>
-    <td>
-      <p>This is partly a spillover effect from <em>Alternative End</em>,
-      because depending on whether the party has a SCH or a SGE, the H2 may or
-      may not have their 120s mitigation (<em>Expedient</em> versus
-      <em>Holos</em>) available.</p>
-      <p>SCH and SGE also have different preferences when it comes to their
-      shielding 120s (<em>Consolation</em> versus <em>Panhaima</em>)- in
-      particular, SGE would want to use <em>Panhaima</em> to mitigate <em>Akh
-      Morn's Edge</em>, while the ability to <em>Summon Seraph</em> well in
-      advance of applying <em>Consolation</em> makes it well suited for
-      <em>Gigaflare's Edge</em>.</p>
-      <p>Notationally, I also don't have a good way to separate the "shield" H2
-      120s (<em>Consolation</em> versus <em>Panhaima</em>) from the
-      "mitigation" H2 120s (<em>Expedient</em> versus <em>Holos</em>) which
-      would add to the confusion. As a result, I would prefer to just leave it
-      up to the player to determine how to best supplement the provided
-      framework.</p>
-      <p>There are also differences with the tank mitigations- the "shield" 90s
-      mitigations (<em>Shake It Off</em> versus <em>Divine Veil</em>) are
-      particularly nice at <em>Gigaflare's Edge</em> (also for their added
-      bonus heal), while the "mitigation" 90s (<em>Dark Missionary</em> and
-      <em>Heart of Light</em>) shine against <em>Akh Morn's Edge</em>.</p>
-      <p>The 90s cooldown also means that timed correctly, you can get a third
-      use out of the tank mitigations for the second and third <em>Akh Morn's
-      Edge</em>.</p>
-      <p>There's also the fine print on <em>Shake It Off</em> which would
-      dispel a WAR's mitigations if used in the wrong order. Since
-      <em>Vengeance</em> use isn't specified, nor whether the WAR would be MT
-      or ST, it is left to the player to determine when best to use <em>Shake
-      It Off</em>.</p>
-    </td>
-  </tr>
-</table>
-</details>
 
 <details markdown=block>
 <summary>
