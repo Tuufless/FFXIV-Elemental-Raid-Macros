@@ -748,8 +748,10 @@ maintain uptime on a dragon during the mechanic.
   <tr>
     <td width="50%">
       <ul>
-        <li><b>MT:</b> SW if you get the single-target tankbuster (by Nidhogg).</li>
-        <li><b>ST:</b> SE if you get the single-target tankbuster (by Hraesvelgr).</li>
+        <li><b>MT:</b> SW if Nidhogg's mouth isn't glowing (just inside the
+        target circle by the edge).</li>
+        <li><b>ST:</b> SE if Hraesvelgr's mouth isn't glowing (just inside the
+        target circle by the edge).</li>
         <li><b>D3:</b> Go south, and <b>move towards a dragon whose mouth is
         glowing</b>.</li>
         <li><b>All other players:</b> Spread out along the <b>north</b> edge.
