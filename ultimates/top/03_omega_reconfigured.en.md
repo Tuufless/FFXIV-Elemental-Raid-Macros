@@ -69,7 +69,14 @@ This is the only phase in the fight with a transition mechanic.
 <table>
   <tr>
     <td>
-      <p><b>1.</b> Debuffs appear.</p>
+      <p><b>1.</b> Line up horizontally.</p>
+      <p>All players will need shields to survive the transition.</p>
+    </td>
+    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/03/transition_01.jpg"></td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>2.</b> Debuffs appear.</p>
       <ul>
         <li><b>High-powered Sniper Cannon Fodders:</b> Pair up with a player
         with no debuffs north.</li>
@@ -81,7 +88,7 @@ This is the only phase in the fight with a transition mechanic.
   </tr>
   <tr>
     <td>
-      <p><b>2.</b> First pulse of an expanding Wave Repeater AoE goes off.</p>
+      <p><b>3.</b> First pulse of an expanding Wave Repeater AoE goes off.</p>
       <p>Three arms will appear around the arena, 120 degrees from one another.</p>
       <p><b>Note where these first set of arms are.</b></p>
     </td>
@@ -89,14 +96,14 @@ This is the only phase in the fight with a transition mechanic.
   </tr>
   <tr>
     <td>
-      <p><b>3.</b> Second pulse goes off.</p>
+      <p><b>4.</b> Second pulse goes off.</p>
       <p>The second set of arms will appear around the arena.</p>
     </td>
     <td><img src="{{site.baseurl}}/assets/images/ultimates/top/03/transition_04.jpg"></td>
   </tr>
   <tr>
     <td>
-      <p><b>4.</b> Third pulse goes off.</p>
+      <p><b>5.</b> Third pulse goes off.</p>
       <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
       <b>Note:</b> The Wave Repeater AoE boundaries <b>do not</b> follow the rings on the floor.</div>
     </td>
@@ -106,7 +113,7 @@ This is the only phase in the fight with a transition mechanic.
   </tr>
   <tr>
     <td>
-      <p><b>5.</b> Fourth pulse goes off.</p>
+      <p><b>6.</b> Fourth pulse goes off.</p>
       <p>At this point, all players should be in position for the second wave
       of mechanics.</p>
     </td>
@@ -116,7 +123,7 @@ This is the only phase in the fight with a transition mechanic.
   </tr>
   <tr>
     <td>
-      <p><b>6.</b> First pulse of the second wave goes off.</p>
+      <p><b>7.</b> First pulse of the second wave goes off.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/assets/images/ultimates/top/03/transition_07.jpg">
@@ -124,7 +131,7 @@ This is the only phase in the fight with a transition mechanic.
   </tr>
   <tr>
     <td>
-      <p><b>7.</b> Second pulse of the second wave goes off.</p>
+      <p><b>8.</b> Second pulse of the second wave goes off.</p>
       <p>The first set of arms will telegraph an AoE around them.</p>
     </td>
     <td>
@@ -133,7 +140,7 @@ This is the only phase in the fight with a transition mechanic.
   </tr>
   <tr>
     <td>
-      <p><b>8.</b> Third pulse of the second wave goes off.</p>
+      <p><b>9.</b> Third pulse of the second wave goes off.</p>
       <p>The first set of arms explode, while the second set of arms telegraph
       their explosion.</p>
       <p><b>Move into the intersection of the expanding pulse and the first set
@@ -145,7 +152,7 @@ This is the only phase in the fight with a transition mechanic.
   </tr>
   <tr>
     <td>
-      <p><b>9.</b> Player debuffs resolve along with the second set of arm's
+      <p><b>10.</b> Player debuffs resolve along with the second set of arm's
       AoE.</p>
     </td>
     <td>
