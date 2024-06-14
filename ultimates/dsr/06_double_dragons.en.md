@@ -946,19 +946,21 @@ transition to the final phase *(Dragonking Thordan will not be targetable*
       (except for the tanks, who may have to stack in the middle).</p>
       <p>The fixed Wyrmsbreath 2 strat is popular in other regions, but has
       fallen out of favour in Elemental.</p>
+      <p>However, player positioning is precise, and when things go wrong, it's
+      often difficult to diagnose what went wrong.</p>
+      <p style="text-align:center">
+        <img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/fixed_wyrmsbreath2.jpg">
+      </p>
       <ul>
         <li><b>MT:</b> NW if you get the single-target tankbuster (by Nidhogg).</li>
         <li><b>ST:</b> SE if you get the single-target tankbuster (by Hraesvelgr).</li>
       </ul>
-      <p><em>Tanks should use where the outer AoE intersects the boss's
-      targeting circle as a reference point.</em></p>
+      <p><em>Tanks should stand inside the targeting circles- use where the
+      outer AoE intersects the targeting circle as a reference point. You will
+      kill the healers if you are not in the correct place.</em></p>
       <ul>
         <li><b>H1:</b> As far true North as you can go.</li>
         <li><b>H2:</b> As far true South as you can go.</li>
-      </ul>
-      <p><em>Be careful if a tank gets a single-target tankbuster, as you
-      </em>may<em> be in range if poorly positioned.</em></p>
-      <ul>
         <li><b>D1:</b> NW corner of the white tile beside Nidhogg.</li>
         <li><b>D2:</b> Between the two white tiles besides Hraesvelgr.</li>
         <li><b>D3:</b> 1/2 a tile west of the western "train track", as far
@@ -966,17 +968,11 @@ transition to the final phase *(Dragonking Thordan will not be targetable*
         <li><b>D4:</b> 1/2 a tile east of the eastern "train track", as far
         north as you can go.</li>
       </ul>
-      <p><em>Depending on which dragon you are tethered to, your tether <b>may
-      not stretch fully</b>. Use personal mitigations to help survive.</em></p>
-      <p>This method fixes all player positions (except for the tanks), which
-      simplifies positioning.</p>
-      <p>However, player positioning is precise, and when things go wrong, it's
-      often difficult to diagnose what went wrong.</p>
+      <p>Depending on which dragon they are tethered to, <b>D1's and/or D2's
+      tether may not fully stretch. This is okay, and the damage is not
+      lethal.</b></p>
     </td>
-  <td>
-    <img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/fixed_wyrmsbreath2.jpg">
-    <a href="{{site.baseurl}}/assets/images/ultimates/dsr/06/fixed_wyrmsbreath2.jpg"><em>(Full-sized image)</em></a>
-  </td></tr>
+  </tr>
 </table>
 </details>
 <details markdown=block>
