@@ -371,13 +371,26 @@ Potions can be used at either burst window.
 
 <details markdown=block>
 <summary>
-  <b>[Akh Morn's Edge]</b> Why are we doing 3-3-2 instead of 1-1-6? Wouldn't that make it easier to heal?
+  <b>[Akh Morn's Edge]</b> Why do we do 3-3-2 instead of 1-1-6?
 </summary>
 <table>
   <tr>
     <td>
-      <p>1-1-6 at <em>Akh Morn's Edge</em> <b>is</b> easier to heal compared to
-      3-3-2, but it does not come for free.</p>
+      <p>1-1-6 at <em>Akh Morn's Edge</em> is a strat for two of the <em>Akh
+      Morn's Edge</em>s that is easier to heal compared to 3-3-2 by having:</p>
+      <ul>
+        <li>One tank invuln the tank tower.</li>
+        <li>The other tank take one DPS tower solo with mitigation.</li>
+        <li>All six non-tanks take the remaining DPS tower.</li>
+      </ul>
+      <p>By doing so, the players in the DPS tower take roughly half the damage
+      they would take compared to 3-3-2, while the solo tank in the DPS tower
+      takes about the same amount of damage as they would take from sharing the
+      tank tower.</p>
+      <p style="text-align:center">
+        <img src="{{site.baseurl}}/assets/images/ultimates/dsr/07/akh_morn_116.jpg">
+      </p>
+      <p>This looks like all-upside, however <b>it does not come for free</b>.</p>
       <p>The biggest obstacle to 1-1-6 is having to mitigate <em>Wyrmsbreath</em>
       2 and <em>Cauterize</em> with the same 30% at the end of P6.</p>
       <ul>
@@ -403,9 +416,8 @@ Potions can be used at either burst window.
         Edge</em>.</li>
         <li>"Less healing" <em>does not</em> mean "no healing", especially 
         given 1-1-6's reputation of "letting healers parse". It's also easy
-        for healers to forget that the tank in the DPS tower at <em>Akh 
-        Morn's Edge</em> 2 does not have all their cooldowns available because 
-        something was used for <em>Akh Morn's Edge</em> 1.</li>
+        for healers to forget that the tank in the DPS tower still takes a good
+        amount of damage and needs healing as if they were doing 3-3-2.</li>
       </ul>
     </td>
   </tr>
