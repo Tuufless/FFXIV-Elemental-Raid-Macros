@@ -33,7 +33,9 @@ Looking towards the future:
 - Relic weapons (when they arrive) will have their substats capped at **287**.
 
 ![]({{site.baseurl}}/assets/images/ultimates/top/top_cheatsheet.jpg)
-*(Full-size image: [English]({{site.baseurl}}/assets/images/ultimates/top/top_cheatsheet.jpg), [日本語]({{site.baseurl}}/assets/images/ultimates/top/top_cheatsheet_jp.jpg))*
+*(Full-size image: [English]({{site.baseurl}}/assets/images/ultimates/top/top_cheatsheet.jpg), 
+[日本語]({{site.baseurl}}/assets/images/ultimates/top/top_cheatsheet_jp.jpg),
+[中文(台灣)]({{site.baseurl}}/assets/images/ultimates/top/top_cheatsheet_zhtw.jpg))*
 
 ---
 
@@ -54,7 +56,9 @@ Here are some clear PoVs that I've been collecting.
 
 ## Things to note
 
-- Using automarkers to mark players for the transition to P3, and to mark player positions in Delta, Sigma, and Omega is considered the norm (*use at your own risk*).
+- Using automarkers to mark players for the transition to P3, and to mark
+  player positions in Delta, Sigma, and Omega is considered the norm (*use at
+  your own risk*).
 
 ---
 
@@ -102,10 +106,17 @@ Here are some clear PoVs that I've been collecting.
 ## Frequently Asked Questions
 
 <details markdown=block>
-<summary><b>[Damage Down]</b> How strong is the damage down debuff in this fight?</summary>
+<summary>
+  <b>[Damage Down]</b> How strong is the damage down debuff in this fight?
+</summary>
 <table>
-  <tr><td><p>The Damage Down debuff in this phase lowers a player's damage by <b>90%</b>.</p>
-  <p><em>(Yes, this is </em>worse<em> than double-weakness!)</em></p></td></tr>
+  <tr>
+    <td>
+      <p>The Damage Down debuff in this phase lowers a player's damage by
+      <b>90%</b>.</p>
+      <p><em>(Yes, this is </em>worse<em> than double-weakness!)</em></p>
+    </td>
+  </tr>
 </table>
 </details>
 

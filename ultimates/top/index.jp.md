@@ -35,7 +35,9 @@ Elemental DC、野良絶処理法は以下の通りです。
 - レリックウエポンのサブステの上限は**287**です。
 
 ![]({{site.baseurl}}/assets/images/ultimates/top/top_cheatsheet_jp.jpg)
-*(フルサイズ： [日本語]({{site.baseurl}}/assets/images/ultimates/top/top_cheatsheet_jp.jpg)、[English]({{site.baseurl}}/assets/images/ultimates/top/top_cheatsheet.jpg))*
+*(フルサイズ： [日本語]({{site.baseurl}}/assets/images/ultimates/top/top_cheatsheet_jp.jpg)、
+[English]({{site.baseurl}}/assets/images/ultimates/top/top_cheatsheet.jpg)、
+[中文(台灣)]({{site.baseurl}}/assets/images/ultimates/top/top_cheatsheet_zhtw.jpg))*
 
 ---
 
