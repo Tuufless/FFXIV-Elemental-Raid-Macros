@@ -215,6 +215,26 @@ part where we resolve Hello, World.
 Done correctly, at this point the party should have four players with one stack
 of Dynamis, and four players with two stacks of Dynamis.
 
+### Sigma Automarkers
+
+It is common practice to use Automarkers to assign player positions to resolve
+*Hello, Near World* and *Hello, Distant World*.
+
+<table>
+  <tr>
+    <td width="50%">
+      <p>This would be the configuration typically used.</p>
+      <p>The players marked "1" would typically follow the rotating laser,
+      although it is common practice for the two players baiting the arms to
+      incidate which direction they want to go before the laser starts
+      spinning.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/top/05b/run_dynamis_sigma_am.jpg">
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## Frequently Asked Questions

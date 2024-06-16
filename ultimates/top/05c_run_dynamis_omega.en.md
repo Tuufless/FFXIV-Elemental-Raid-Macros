@@ -233,5 +233,56 @@ Omega-F then does one more set of *Solar Ray* tankbusters before casting
 Like Blue Screen, Omega-F **must** be brought to under 20% HP by the end of
 *Blind Faith*'s cast to proceed onto the final phase of the fight.
 
+### Omega Automarkers
+
+Like Sigma, It is common practice to use Automarkers to assign player positions
+to resolve *Hello, Near World* and *Hello, Distant World*.
+
+<table>
+  <tr>
+    <td colspan="2">
+      <p>Follow these positions for the first set (during monitors).</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" style="text-align:center">
+      <b>Omega's monitors face west</b>
+    </td>
+    <td style="text-align:center">
+      <b>Omega's monitors face east</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/top/05c/run_dynamis_omega_am1.jpg">
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/top/05c/run_dynamis_omega_am2.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <p>Typically, the players marked "1" would be on the north side, but this
+      really applies to only the two players at the extreme North and South
+      positions.</p>
+    </td>
+  </tr>
+</table>
+
+Automarkers are used again for the final set of *Hello, Near World* and *Hello,
+Distant World*.
+
+<table>
+  <tr>
+    <td width="50%">
+      <p>Follow these positions for the second set (during tethers).</p>
+      <p>Who takes relative east/west doesn't particularly matter.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/top/05c/run_dynamis_omega_am3.jpg">
+    </td>
+  </tr>
+</table>
+
 <script data-goatcounter="https://tuufless.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
