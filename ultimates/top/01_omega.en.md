@@ -27,83 +27,158 @@ When tethers resolve, they explode in a large AoE, applying one stack of
 Twice-come Ruin and a HP Penalty debuff that reduces that player's maximum HP
 to 1%.
 
-The HP Penalty debuff will wear off within two steps (players numbered 3 and 4
-will need healing to survive their towers).
-
 <table>
   <tr>
     <td width="50%">
       <p>There are eight possible tower spawn points.</p>
-      <p>Two towers will always spawn at a time, and they will always be either
-      90 degrees, or 180 degrees from one another.</p>
-      <p>Towers will not spawn in the same position twice in a row.</p>
+      <ul>
+        <li>Two towers will always spawn at a time, and they will always be either
+        90 degrees, or 180 degrees from one another.</li>
+        <li>Towers will not spawn in the same position twice in a row.</li>
+      </ul>
       <p>We establish a priority to determine who takes which tower/tether:</p>
       <ul>
         <li><b>CW from NW:</b> H1 MT ST D1 D2 D3 D4 H2</li>
       </ul>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/01/program_loop_01.jpg"></td>
-  </tr>
-  <tr>
     <td>
-      <p><b>1.</b> First set of towers spawn</p>
+      <img src="{{site.baseurl}}/assets/images/ultimates/top/01/program_loop_setup.jpg">
+    </td>
+  </tr>
+</table>
+
+The *HP Penalty* debuff will wear off within two steps (this means players
+numbered 3 and 4 will need healing to survive their towers).
+
+<table>
+  <tr>
+    <td width="50%">
+      <p><b>1.</b> Pull Omega to the center of the arena.</p>
+      <p>Some tanks will face Omega south, while some will face Omega at a
+      45-degree angle.</p>
+      <p>Omega will cast <em>Program Loop</em>, which assigns all players a
+      numbered debuff.</p>
       <ul>
         <li><b>3s:</b> Stand in front of the group to take tethers.</li>
         <li><b>Everyone else:</b> Stack together to make the tethers easy to get.</li>
       </ul>
+      <p>In this example:</p>
+      <ul>
+        <li><em>First in Line</em>: H1 and MT</li>
+        <li><em>Second in Line</em>: D2 and D3</li>
+        <li><em>Third in Line</em>: D1 and H2</li>
+        <li><em>Fourth in Line</em>: ST and D4</li>
+      </ul>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/01/program_loop_02.jpg"></td>
+    <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/top/01/program_loop_01.jpg">
+    </td>
   </tr>
   <tr>
     <td>
-      <p><b>1.</b> First set of towers/tethers</p>
+      <p><b>2.</b> First set of towers spawn.</p>
+      <p>Since the 3s are in front, they should intercept the tethers.</p>
       <ul>
-        <li><b>1s:</b> Take your towers.</li>
-        <li><b>3s:</b> Take your tethers.</li>
+        <li><b>1s:</b> Take the towers following the priority.</li>
+        <li><b>3s:</b> Take the tethers to an empty spot, following the
+        priority.</li>
       </ul>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/01/program_loop_03.jpg"></td>
+    <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/top/01/program_loop_02.jpg">
+    </td>
   </tr>
   <tr>
     <td>
-      <p><b>2.</b> Second set of towers/tethers</p>
+      <p><b>3.</b> First set of towers and tethers resolve.</p>
+      <p>The second set of towers will spawn.</p>
       <ul>
-        <li><b>2s:</b> Take your towers.</li>
-        <li><b>4s:</b> Take your tethers.</li>
+        <li><b>4s:</b> Take the tethers following the priority.</li>
       </ul>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/01/program_loop_04.jpg"></td>
+    <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/top/01/program_loop_03.jpg">
+    </td>
   </tr>
   <tr>
     <td>
-      <p><b>3.</b> Third set of towers/tethers</p>
+      <p><b>4.</b> Move into position for the second set of towers.</p>
       <ul>
-        <li><b>3s:</b> Take your towers.</li>
-        <li><b>1s:</b> Take your tethers.</li>
+        <li><b>2s:</b> Take the towers following the priority.</li>
+        <li><b>4s:</b> Take the tethers to an empty spot, following the
+        priority.</li>
       </ul>
-      <p>The max-HP down debuff will wear off on the number 3 players when the
-      previous set of towers resolve. They will need to be healed up to take
-      their towers.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/01/program_loop_05.jpg"></td>
+    <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/top/01/program_loop_04.jpg">
+    </td>
   </tr>
   <tr>
     <td>
-      <p><b>4.</b> Fourth set of towers/tethers</p>
+      <p><b>5.</b> Second set of towers and tethers resolve.</p>
+      <p>The third set of towers will spawn.</p>
       <ul>
-        <li><b>4s:</b> Take your towers.</li>
-        <li><b>2s:</b> Take your tethers.</li>
+        <li><b>1s:</b> Take the tethers following the priority.</li>
       </ul>
-      <p>The max-HP down debuff will wear off on the number 4 players when the
-      previous set of towers resolve. They will need to be healed up to take
-      their towers.</p>
+      <p>The <em>HP Penalty</em> will wear off on the 3s.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/01/program_loop_06.jpg"></td>
+    <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/top/01/program_loop_05.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>6.</b> Move into position for the third set of towers.</p>
+      <ul>
+        <li><b>1s:</b> Take the tethers to an empty spot, following the
+        priority.</li>
+        <li><b>3s:</b> Take the towers following the priority. They will need
+        to be healed to survive the towers.</li>
+      </ul>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/top/01/program_loop_06.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>7.</b> Third set of towers and tethers resolve.</p>
+      <p>The fourth set of towers will spawn.</p>
+      <ul>
+        <li><b>2s:</b> Take the tethers following the priority.</li>
+      </ul>
+      <p>The <em>HP Penalty</em> will wear off on the 4s.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/top/01/program_loop_07.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>8.</b> Move into position for the fourth set of towers.</p>
+      <ul>
+        <li><b>2s:</b> Take the tethers to an empty spot, following the
+        priority.</li>
+        <li><b>4s:</b> Take the towers following the priority. They will need
+        to be healed to survive the towers.</li>
+      </ul>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/top/01/program_loop_08.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>9.</b> Fourth set of towers and tethers resolve.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/top/01/program_loop_09.jpg">
+    </td>
   </tr>
 </table>
 
-After the fourth set of towers, top up the party when the last sets of HP
-Penalties wear off, and prepare for Omega's next mechanic.
+After the fourth set of towers, top up the party when the last sets of *HP
+Penalties* wear off, and prepare for Omega's next mechanic.
 
 ---
 
@@ -115,7 +190,7 @@ the back, and the missile in front.
 <table>
   <tr>
     <td width="50%">
-      <p><b>1.</b> Tank Omega facing North.</p>
+      <p><b>1.</b> Face Omega North.</p>
       <p>The rest of the party can stay near the center of the arena, ready to
       adjust if needed.</p>
     </td>
@@ -275,27 +350,35 @@ Wave Cannon Kyrios.
   <tr>
     <td width="50%">
       <p><b>16.</b> Both tanks stack north, <b>outside</b> Omega's targeting
-      circle and use their invulnerabilities.</p>
+      circle.</p>
       <p>This gives enough space for the rest of the party spreads around the
       south half of the arena <b>inside</b> of Omega's targeting circle.</p>
       <p>Three random (non-tank) players will be selected for the first set of
       Wave Cannons.</p>
+      <p>The marks will pulse five times before the mechanic resolves. Both
+      tanks should use their invulns on the fifth pulse.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/01/wave_cannons_01.jpg"></td>
+    <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/top/01/wave_cannons_01.jpg">
+    </td>
   </tr>
   <tr>
     <td>
       <p><b>17.</b> First set of Wave Cannons resolve.</p>
       <p>The other three players get marked for the second set of Wave Cannons.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/01/wave_cannons_02.jpg"></td>
+    <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/top/01/wave_cannons_02.jpg">
+    </td>
   </tr>
   <tr>
     <td>
       <p><b>17.</b> Second set of Wave Cannons resolve.</p>
       <p>After this, Omega casts Atomic Ray, serving as the hard enrage.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/01/wave_cannons_03.jpg"></td>
+    <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/top/01/wave_cannons_03.jpg">
+    </td>
   </tr>
 </table>
 
@@ -305,11 +388,26 @@ Wave Cannon Kyrios.
 
 <details markdown=block>
 <summary>
-  <b>[Pantokrator]</b> Why does the party group up NW and SE instead of N and S?
+  <b>[Program Loop]</b> Why do some tanks face Omega 45 degrees off (towards an
+  intercardinal)?
 </summary>
 <table>
   <tr>
     <td>
+      <p>This allows the melee DPS to get both rear and flank positionals from
+      half the possible tower positions.</p>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
+  <b>[Pantokrator]</b> Why does the party group up NW and SE instead of N and S?
+</summary>
+<table>
+  <tr>
+    <td width="50%">
       <p>This is done because the Flamethrowers are based on Omega's
       orientation.</p>
       <p>The problem with facing Omega directly at the party (if they were to
@@ -324,10 +422,13 @@ Wave Cannon Kyrios.
       you guarantee that Omega's Flamethrower will <em>never</em> end up in
       this scenario, removing said ambiguity altogether.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/01/pantokrator_faq.jpg"></td>
+    <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/top/01/pantokrator_faq.jpg">
+    </td>
   </tr>
 </table>
 </details>
+
 <details markdown=block>
 <summary>
   <b>[Pantokrator]</b> Why do we resolve the stack at the back instead of the
@@ -368,6 +469,32 @@ Wave Cannon Kyrios.
 
 <details markdown=block>
 <summary>
+  <b>[Program Loop]</b> I keep forgetting if it's my turn to do something!
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>You will always alternate between "doing nothing" and "doing
+      something" (taking a tower or taking a tether).</p>
+      <p>If it's your second time to "do something", and you've forgotten
+      whether it's your turn to take a tower or tether, you can look at your
+      numbered debuff. <b>If your numbered debuff is still there, it's your
+      turn to take a tower.</b></p>
+      <p>Alternatively, you can also use your HP as a reminder:</p>
+      <ul>
+        <li>If your HP is <b>high</b>: You took a tower earlier, so it's now
+        your turn to take a <b>tether</b>.</li>
+        <li>If your HP is <b>low</b>: You took a tether earlier, and your
+        <em>HP Penalty</em> just wore off. It's now your turn to take a
+        <b>tower</b>.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
   <b>[Pantokrator]</b> Why does someone keep getting an AoE dropped in front of
   them?
 </summary>
@@ -388,8 +515,12 @@ Wave Cannon Kyrios.
       spot.</p>
       <p>Haru Glory's group also swapped to the slower path later on.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/01/pantokrator_movement.jpg"></td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/01/pantokrator_movement_fast.jpg"></td>
+    <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/top/01/pantokrator_movement.jpg">
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/assets/images/ultimates/top/01/pantokrator_movement_fast.jpg">
+    </td>
   </tr>
 </table>
 </details>
