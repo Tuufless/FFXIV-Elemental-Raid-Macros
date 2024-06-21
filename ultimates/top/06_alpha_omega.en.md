@@ -1143,7 +1143,7 @@ members of the party, which must be dispelled with a Healer LB3.
 
 <table>
   <tr>
-    <td>
+    <td style="text-align:center">
       <img src="{{site.baseurl}}/assets/images/ultimates/top/06/magic_number.png">
     </td>
     <td>
