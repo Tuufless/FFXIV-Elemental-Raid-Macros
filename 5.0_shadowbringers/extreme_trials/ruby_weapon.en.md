@@ -11,20 +11,22 @@ permalink: /5.0_shadowbringers/extreme_trials/ruby_weapon/
 
 ## English
 ```
-{% include_relative macros/ruby_weapon.en.txt %}
+{% include macros/5.0_shadowbringers/ruby_weapon.en.txt %}
 ```
 
 ## Japanese
 ```
-{% include_relative macros/ruby_weapon.jp.txt %}
+{% include macros/5.0_shadowbringers/ruby_weapon.jp.txt %}
 ```
 
 ## Markers
 
-The markers are used for identifying your Flexiclaw positions in P1, and for placing Meteor Rain in P2.
+The markers are used for identifying your *Flexiclaw* positions in P1, and for
+placing *Meteor Rain* in P2.
 
-In particular, `1`, `2`, `3`, `4` are placed starting North, going clockwise. The 8th marker (`D`) is placed slightly towards the center of the arena.
-![](images/markers.jpg)
+In particular, `1`, `2`, `3`, `4` are placed starting North, going clockwise.
+The 8th marker (`D`) is placed slightly towards the center of the arena.
+![]({{site.baseurl}}/images/5.0_shadowbringers/ruby_weapon/markers.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 

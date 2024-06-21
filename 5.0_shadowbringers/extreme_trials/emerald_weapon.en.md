@@ -9,23 +9,24 @@ permalink: /5.0_shadowbringers/extreme_trials/emerald_weapon/
 
 # Castrum Marinum (Extreme)
 
-The PF standard for handling the eight Aetheroplasm Production orbs in the first phase is 2:2:2:2.
+The PF standard for handling the eight Aetheroplasm Production orbs in the
+first phase is 2:2:2:2.
 
 ## English
 ```
-{% include_relative macros/emerald_weapon.en.txt %}
+{% include macros/5.0_shadowbringers/emerald_weapon.en.txt %}
 ```
 
 ## Japanese
 ```
-{% include_relative macros/emerald_weapon.jp.txt %}
+{% include macros/5.0_shadowbringers/emerald_weapon.jp.txt %}
 ```
 
 ## Markers
 
 ### Part 1
 
-![](images/markers_1.jpg)
+![]({{site.baseurl}}/images/5.0_shadowbringers/emerald_weapon/markers_1.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
@@ -47,8 +48,9 @@ The PF standard for handling the eight Aetheroplasm Production orbs in the first
 
 ### Part 2
 
-The exact orientation doesn't really matter, as long as the "pinwheel" shape is intact.
-![](images/markers_2.jpg)
+The exact orientation doesn't really matter, as long as the "pinwheel" shape is
+intact.
+![]({{site.baseurl}}/images/5.0_shadowbringers/emerald_weapon/markers_2.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
@@ -85,7 +87,8 @@ Always dodge on the east side.
 　    MT　  OT
 ```
 
-<b>A:</b> This refers to the bit in P1 where both tanks get a Flare marker- the MT will take the left side, while the OT takes the right.
+<b>A:</b> This refers to the bit in P1 where both tanks get a Flare marker- the
+MT will take the left side, while the OT takes the right.
 
 </details>
 

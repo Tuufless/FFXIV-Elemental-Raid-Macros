@@ -11,17 +11,17 @@ permalink: /5.0_shadowbringers/extreme_trials/memoria_misera/
 
 ## English
 ```
-{% include_relative macros/memoria_misera.en.txt %}
+{% include macros/5.0_shadowbringers/memoria_misera.en.txt %}
 ```
 
 ## Japanese
 ```
-{% include_relative macros/memoria_misera.jp.txt %}
+{% include macros/5.0_shadowbringers/memoria_misera.jp.txt %}
 ```
 
 ## Markers
 
-![](images/markers.jpg)
+![]({{site.baseurl}}/images/5.0_shadowbringers/memoria_misera/markers.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 

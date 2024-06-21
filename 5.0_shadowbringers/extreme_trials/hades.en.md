@@ -13,18 +13,19 @@ The macros are for the [Okome strategy](https://blog.lariceworks.net/archives/26
 
 ## English
 ```
-{% include_relative macros/hades.en.txt %}
+{% include macros/5.0_shadowbringers/hades.en.txt %}
 ```
 
 ## Japanese
 ```
-{% include_relative macros/hades.jp.txt %}
+{% include macros/5.0_shadowbringers/hades.jp.txt %}
 ```
 
 ## Markers
 
-`ABCD` for tank and healer positions during universal manipulation, while `1` and `2` are safespots for moving AoE.
-![](images/markers.jpg)
+`ABCD` for tank and healer positions during universal manipulation, while `1`
+and `2` are safespots for moving AoE.
+![]({{site.baseurl}}/images/5.0_shadowbringers/hades/markers.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 

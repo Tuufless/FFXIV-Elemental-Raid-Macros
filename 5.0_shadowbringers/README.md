@@ -13,14 +13,14 @@ The level cap for Shadowbringers is **Level 80**.
 
 ## Extreme Trials
 
-- **Titania EX** - [The Dancing Plague (Extreme)](extreme_trials/titania/README.md)
-- **Innocence EX** - [The Crown of the Immaculate (Extreme)](extreme_trials/innocence/README.md)
-- **Hades EX** - [The Minstrel's Ballad: Hades's Elegy](extreme_trials/hades/README.md)
-- **Ruby Weapon EX** - [Cinder Drift (Extreme)](extreme_trials/ruby_weapon/README.md)
-- **Memoria Miseria EX** - [Memoria Misera (Extreme)](extreme_trials/memoria_misera/README.md)
-- **Warrior of Light EX** - [The Seat of Sacrifice (Extreme)](extreme_trials/seat_of_sacrifice/README.md)
-- **Emerald Weapon EX** - [Castrum Marinum (Extreme)](extreme_trials/emerald_weapon/README.md)
-- **Diamond Weapon EX** - [The Cloud Deck (Extreme)](extreme_trials/diamond_weapon/README.md)
+- **Titania EX** - [The Dancing Plague (Extreme)](extreme_trials/titania.en.md)
+- **Innocence EX** - [The Crown of the Immaculate (Extreme)](extreme_trials/innocence.en.md)
+- **Hades EX** - [The Minstrel's Ballad: Hades's Elegy](extreme_trials/hades.en.md)
+- **Ruby Weapon EX** - [Cinder Drift (Extreme)](extreme_trials/ruby_weapon.en.md)
+- **Memoria Miseria EX** - [Memoria Misera (Extreme)](extreme_trials/memoria_misera.en.md)
+- **Warrior of Light EX** - [The Seat of Sacrifice (Extreme)](extreme_trials/seat_of_sacrifice.en.md)
+- **Emerald Weapon EX** - [Castrum Marinum (Extreme)](extreme_trials/emerald_weapon.en.md)
+- **Diamond Weapon EX** - [The Cloud Deck (Extreme)](extreme_trials/diamond_weapon.en.md)
 
 ## Savage
 

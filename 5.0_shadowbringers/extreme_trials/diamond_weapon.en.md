@@ -11,20 +11,22 @@ permalink: /5.0_shadowbringers/extreme_trials/diamond_weapon/
 
 ## English
 ```
-{% include_relative macros/diamond_weapon.en.txt %}
+{% include macros/5.0_shadowbringers/diamond_weapon.en.txt %}
 ```
 
 ## Japanese
 ```
-{% include_relative macros/diamond_weapon.jp.txt %}
+{% include macros/5.0_shadowbringers/diamond_weapon.jp.txt %}
 ```
 
 ## Markers
 
 The markers are for Flood Ray positions.
 
-Note that you will not be able to place the east-side markers until you've cleared Diamond Weapon EX (and both platforms are on the arena), although you can also copy from someone else.
-![](images/markers.jpg)
+Note that you will not be able to place the east-side markers until you've
+cleared Diamond Weapon EX (and both platforms are on the arena), although
+you can also copy from someone else.
+![]({{site.baseurl}}/images/5.0_shadowbringers/diamond_weapon/markers.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
