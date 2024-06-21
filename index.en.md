@@ -29,12 +29,12 @@ The current item level cap is **iLvl 665**.
 - **Thordan** - [The Singularity Reactor (Unreal)](3.0_heavensward/extreme_trials/thordan/README.md)
 
 **Savage Raids:**
-- **P9S** - [Anabaseios: The Ninth Circle (Savage)](6.0_endwalker/savage_raids/p9s/README.md)
-- **P10S** - [Anabaseios: The Tenth Circle (Savage)](6.0_endwalker/savage_raids/p10s/README.md)
-- **P11S** - [Anabaseios: The Eleventh Circle (Savage)](6.0_endwalker/savage_raids/p11s/README.md)
+- **P9S** - [Anabaseios: The Ninth Circle (Savage)](6.0_endwalker/savage_raids/p9s.en.md)
+- **P10S** - [Anabaseios: The Tenth Circle (Savage)](6.0_endwalker/savage_raids/p10s.en.md)
+- **P11S** - [Anabaseios: The Eleventh Circle (Savage)](6.0_endwalker/savage_raids/p11s.en.md)
 - **P12S** - Anabaseios: The Twelfth Circle (Savage)
-    - [Part 1](6.0_endwalker/savage_raids/p12s_1/README.md)
-    - [Part 2](6.0_endwalker/savage_raids/p12s_2/README.md)
+    - [Part 1](6.0_endwalker/savage_raids/p12s_1.en.md)
+    - [Part 2](6.0_endwalker/savage_raids/p12s_2.en.md)
 
 ## Ultimate Raids
 

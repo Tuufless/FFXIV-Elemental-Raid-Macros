@@ -17,24 +17,27 @@ PF references the following guides for P1S:
 ### Things to check on Party Finder
 
 - Check the chain pairs (Japanese groups pair MT+D4 instead of MT+D3, etc.)
-- Check the markers. In particular, Japanese groups rotate all the outer markers clockwise.
+- Check the markers. In particular, Japanese groups rotate all the outer
+  markers clockwise.
 
 ## English
 
 ```
-{% include_relative macros/p1s.en.txt %}
+{% include macros/6.0_endwalker/p1s.en.txt %}
 ```
 
 ## Japanese
 
 ```
-{% include_relative macros/p1s.jp.txt %}
+{% include macros/6.0_endwalker/p1s.jp.txt %}
 ```
 
 ## Markers
 
-The markers are for the purple/red chains. `1234` are for the red chains, while `ABCD` are for purple chains.
-![](images/markers.jpg)
+The markers are for the purple/red chains. `1234` are for the red chains, while
+`ABCD` are for purple chains.
+
+![]({{site.baseurl}}/images/6.0_endwalker/p1s/markers.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
@@ -77,9 +80,13 @@ The markers are for the purple/red chains. `1234` are for the red chains, while 
 Swap within same coloured marker as needed.
 ```
 
-In essence, we want the person with the purple chain as one of the four inner `ABCD` markers, and the person with the red chain as one of the outer `1234` markers.
+In essence, we want the person with the purple chain as one of the four inner
+`ABCD` markers, and the person with the red chain as one of the outer `1234`
+markers.
 
-If someone assigned to an inner marker is targeted with the red chain, that person swaps position with the same coloured marker (`A` with `1`, `B` with `2`, etc.) This then puts red on the outside.
+If someone assigned to an inner marker is targeted with the red chain, that
+person swaps position with the same coloured marker (`A` with `1`, `B` with
+`2`, etc.) This then puts red on the outside.
 
 The same logic applies if someone on the outer markers gets the purple chain.
 
@@ -90,30 +97,35 @@ The same logic applies if someone on the outer markers gets the purple chain.
 S tile not 3x Ice → MT+D3 swap for 3rd gems.
 ```
 
-There are two possible gem configurations. One of them will require MT and D3 to swap positions for the third set.
+There are two possible gem configurations. One of them will require MT and D3
+to swap positions for the third set.
 
 The "no swap" configuration is identified by *either*
 
 - Three blue gems on the southern tile.
 - The top and bottom gems on the corner tiles share the same colour.
 
-In this case, everyone can resolve their own assigned tile throughout the entire mechanic.
+In this case, everyone can resolve their own assigned tile throughout the
+entire mechanic.
 
 The "need to swap" configuration is identified by *either*
 
 - A red gem in the southern tile.
 - The top and bottom gems on the corner tiles are different colours.
 
-In this case, MT and D3 will need to swap tiles for the **third** set of gemstones. 
+In this case, MT and D3 will need to swap tiles for the **third** set of
+gemstones. 
 
 ## Fourfold Shackles
 
-The idea is to have the four purple chains in the inner markers, and the four red chains on the outer markers.
+The idea is to have the four purple chains in the inner markers, and the four
+red chains on the outer markers.
 
-The macro uses the duration of each chain's debuff to assign positions, although if you have voice comms, you can coordinate through that instead.
+The macro uses the duration of each chain's debuff to assign positions,
+although if you have voice comms, you can coordinate through that instead.
 
 **Be careful as the outer marker positions may differ between parties.**
-![](images/fourfold_shackles.jpg)
+![]({{site.baseurl}}/images/6.0_endwalker/p1s/fourfold_shackles.jpg)
 
 ## Timeline
 

@@ -15,18 +15,19 @@ PF uses Hamkatsu's strat for P2S:
 
 ### Things to check on Party Finder
 
-- Check whether the party plans to Tank LB3 the final Channeling Overflow + Coherence combo.
+- Check whether the party plans to Tank LB3 the final *Channeling Overflow* +
+  *Coherence* combo.
 
 ## English
 
 ```
-{% include_relative macros/p2s.en.txt %}
+{% include macros/6.0_endwalker/p2s.en.txt %}
 ```
 
 ## Japanese
 
 ```
-{% include_relative macros/p2s.jp.txt %}
+{% include macros/6.0_endwalker/p2s.jp.txt %}
 ```
 
 ## Markers
@@ -36,7 +37,7 @@ All markers are for resolving Kampeos Harma (a.k.a. "Limit Cut")
 - The `1234` markers are for the purple numbers/untethered players.
 - The `ABCD` markers are for the blue numbers/tethered players.
 
-![](images/markers.jpg)
+![]({{site.baseurl}}/images/6.0_endwalker/p2s/markers.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 

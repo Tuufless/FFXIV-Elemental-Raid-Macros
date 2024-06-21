@@ -13,11 +13,13 @@ PF uses [Inumaru's strat](https://youtu.be/BHMjrxpZb7k) as a base, but puts
 Darkened Fires (闇の炎) on intercardinal positions (Shinosho), and replaces
 Fountain of Fire (霊泉) with Mr. Happy's strat (see below).
 
-English parties replace Firestorms of Asphodelos (FoA) with "my" strat (see below).
+English parties replace Firestorms of Asphodelos (FoA) with "my" strat (see
+below).
 
 ### Things to check on Party Finder
 
-- Check the positions for the transition *(older macros may have different positioning)*
+- Check the positions for the transition *(older macros may have different
+  positioning)*
 
 ---
 
@@ -27,14 +29,14 @@ This is the macro often used in **English** parties. In particular, Firestorms
 of Asphodelos is, er, ["my" strat](#firestorms-of-asphodelos).
 
 ```
-{% include_relative macros/p3s_tuufless.en.txt %}
+{% include macros/6.0_endwalker/p3s_tuufless.en.txt %}
 ```
 
 <details markdown=block>
 <summary>Japanese translation</summary>
 
 ```
-{% include_relative macros/p3s_tuufless.jp.txt %}
+{% include macros/6.0_endwalker/p3s_tuufless.jp.txt %}
 ```
 
 </details>
@@ -45,14 +47,14 @@ This is the [game8 macro](https://game8.jp/ff14/421350) often used by
 **Japanese** parties.
 
 ```
-{% include_relative macros/p3s_inumaru.jp.txt %}
+{% include macros/6.0_endwalker/p3s_inumaru.jp.txt %}
 ```
 
 <details markdown=block>
 <summary>English translation</summary>
 
 ```
-{% include_relative macros/p3s_inumaru.en.txt %}
+{% include macros/6.0_endwalker/p3s_inumaru.en.txt %}
 ```
 
 </details>
@@ -66,7 +68,7 @@ This is the [game8 macro](https://game8.jp/ff14/421350) often used by
   - Resolving the "Limit Cut" dice during Darkened Fires
   - Placing the eye thingies during Fledgling Flight.
 
-![](images/markers.jpg)
+![]({{site.baseurl}}/images/6.0_endwalker/p3s/markers.jpg)
 
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
@@ -134,7 +136,7 @@ pairs from the earlier Experimental Gloryplume:
     <td><p><b>Experimental Ashplume (Spread)</b></p>
     <p>Dodge the "pizza" AoEs, followed by stacking or spreading as required.</p>
     <p>If the party needs to spread, follow this formation.</p></td>
-    <td><img src="images/foa_inumaru_01.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/6.0_endwalker/p3s/foa_inumaru_01.jpg"></td>
   </tr>
   <tr>
     <td><p><b>Storms of Asphodelos</b></p>
@@ -147,7 +149,7 @@ pairs from the earlier Experimental Gloryplume:
       target circle. Use the floor markings to help with positioning.</li>
       </ul>
     </td>
-    <td><img src="images/foa_inumaru_02.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/6.0_endwalker/p3s/foa_inumaru_02.jpg"></td>
   </tr>
   <tr>
     <td><p><b>Darkblaze Twister (Spread)</b></p>
@@ -160,7 +162,7 @@ pairs from the earlier Experimental Gloryplume:
       <li><b>Healers + Ranged:</b> Knockback bottom-right</li>
     </ul>
     <p>If the party needs to spread, take up this formation.</p></td>
-    <td><img src="images/foa_inumaru_03.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/6.0_endwalker/p3s/foa_inumaru_03.jpg"></td>
   </tr>
 </table>
 
@@ -179,7 +181,7 @@ instead. The pairings for Firestorms of Asphodelos are different:
     <td><p><b>Experimental Ashplume (Spread)</b></p>
     <p>Dodge the "pizza" AoEs, followed by stacking or spreading as required.</p>
     <p>If the party needs to spread, follow this formation.</p></td>
-    <td><img src="images/foa_tuufless_01.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/6.0_endwalker/p3s/foa_tuufless_01.jpg"></td>
   </tr>
   <tr>
     <td><p><b>Storms of Asphodelos</b></p>
@@ -192,7 +194,7 @@ instead. The pairings for Firestorms of Asphodelos are different:
       <p>In the event any of the ranged players are dead, H1 (followed by D2)
       goes and takes their position instead.</p>
     </td>
-    <td><img src="images/foa_tuufless_02.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/6.0_endwalker/p3s/foa_tuufless_02.jpg"></td>
   </tr>
   <tr>
     <td><p><b>Darkblaze Twister (Spread)</b></p>
@@ -205,7 +207,7 @@ instead. The pairings for Firestorms of Asphodelos are different:
       <li><b>Tanks + Ranged:</b> Knockback bottom-right</li>
     </ul>
     <p>If the party needs to spread, take up this formation.</p></td>
-    <td><img src="images/foa_tuufless_03.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/6.0_endwalker/p3s/foa_tuufless_03.jpg"></td>
   </tr>
 </table>
 

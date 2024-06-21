@@ -9,7 +9,9 @@ permalink: /6.0_endwalker/savage_raids/p7s/
 
 # Abyssos: The Seventh Circle (Savage)
 
-PF uses [Shinosho's strat](https://youtu.be/JOMBTuWf-j8) as a base, but uses  [Sleepo's Inviolate Purgation strat](https://ff14.toolboxgaming.space/?id=339073562612661&preview=1) and [Inumaru's War's Harvest strat](#wars-harvest-inumaru).
+PF uses [Shinosho's strat](https://youtu.be/JOMBTuWf-j8) as a base, but uses
+[Sleepo's Inviolate Purgation strat](https://ff14.toolboxgaming.space/?id=339073562612661&preview=1)
+and [Inumaru's War's Harvest strat](#wars-harvest-inumaru).
 
 Nukemaru has made a guide aggregating all the strats together:
 
@@ -18,7 +20,8 @@ Nukemaru has made a guide aggregating all the strats together:
 ### Things to check on Party Finder
 
 - **Japanese** parties prefer to:
-  - Inviolate Bonds: Have the first stack in the center of the arena, but do the second stack where the island meets the bridge.
+  - Inviolate Bonds: Have the first stack in the center of the arena, but do
+    the second stack where the island meets the bridge.
   - Forbidden Fruit #5: Take the bird tethers clockwise.
 - **English** parties prefer to:
   - Inviolate Bonds: Resolve both stacks in the middle of the islands.
@@ -28,21 +31,22 @@ Nukemaru has made a guide aggregating all the strats together:
 
 The following is [Game8's macro](https://game8.jp/ff14/479465):
 ```
-{% include_relative macros/p7s.jp.txt %}
+{% include macros/6.0_endwalker/p7s.jp.txt %}
 ```
 
 ## English
 ```
-{% include_relative macros/p7s.en.txt %}
+{% include macros/6.0_endwalker/p7s.en.txt %}
 ```
 
 ## Markers (Game8)
 
 These are the markers as promoted on Game8's website.
 
-All markers are used for Sleepo's Purgation. Of note, the spread position for the outer-left positions (`B` and `2`) are directly *west/east* of the markers.
+All markers are used for Sleepo's Purgation. Of note, the spread position for
+the outer-left positions (`B` and `2`) are directly *west/east* of the markers.
 
-![](images/markers_game8.jpg)
+![]({{site.baseurl}}/images/6.0_endwalker/p7s/markers_game8.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
@@ -65,16 +69,19 @@ All markers are used for Sleepo's Purgation. Of note, the spread position for th
 
 ## Markers (Sleepo)
 
-These set of markers can only be placed in-game after you have cleared the fight (the arena with expand after clearing, where you can then place the markers).
+These set of markers can only be placed in-game after you have cleared the
+fight (the arena with expand after clearing, where you can then place the
+markers).
 
-If you haven't cleared the fight, you will need to copy the markers from someone who does.
+If you haven't cleared the fight, you will need to copy the markers from
+someone who does.
 
 All markers are used for Sleepo's Purgation.
 
 - `2` and `B`: Stack positions.
 - All other markers are the spread positions.
 
-![](images/markers_sleepo.jpg)
+![]({{site.baseurl}}/images/6.0_endwalker/p7s/markers_sleepo.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
@@ -101,7 +108,8 @@ All markers are used for Sleepo's Purgation.
 
 ## Inviolate Purgation (Sleepo)
 
-This is a strat to resolve Inviolate Purgation that involves alternating all eight players between the two front islands.
+This is a strat to resolve Inviolate Purgation that involves alternating all
+eight players between the two front islands.
 
 [Sleepo Purgation Toolbox](https://ff14.toolboxgaming.space/?id=339073562612661&preview=1)
 
@@ -109,21 +117,25 @@ This is a strat to resolve Inviolate Purgation that involves alternating all eig
 
 The group tethered to minotaurs need to cross tethers to avoid hitting one another.
 
-![](images/famines_harvest.jpg)
+![]({{site.baseurl}}/images/6.0_endwalker/p7s/famines_harvest.jpg)
 
 ## Death's Harvest (fixed positions, tank invuln)
 
-One of the three platforms has an add; use this platform as North, and then all (non-tank) players have fixed assigned positions as shown below, regardless of which Behemoth they're tethered to.
+One of the three platforms has an add; use this platform as North, and then all
+(non-tank) players have fixed assigned positions as shown below, regardless of
+which Behemoth they're tethered to.
 
 Tanks stack on the empty bridge and invuln.
 
-![](images/deaths_harvest.jpg)
+![]({{site.baseurl}}/images/6.0_endwalker/p7s/deaths_harvest.jpg)
 
 ## War's Harvest (Inumaru)
 
-Note that the minotaur tethers will *not* be stretched out enough to turn purple. As a result, **shields and mitigations are required** for the two minotaur players to survive.
+Note that the minotaur tethers will *not* be stretched out enough to turn
+purple. As a result, **shields and mitigations are required** for the two
+minotaur players to survive.
 
-![](images/wars_harvest.jpg)
+![]({{site.baseurl}}/images/6.0_endwalker/p7s/wars_harvest.jpg)
 
 <script data-goatcounter="https://tuufless.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>

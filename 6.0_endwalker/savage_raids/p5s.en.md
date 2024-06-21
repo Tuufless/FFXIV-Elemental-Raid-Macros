@@ -16,23 +16,24 @@ This is [Game8's macro](https://game8.jp/ff14/464675)
 ## English
 
 ```
-{% include_relative macros/p5s.en.txt %}
+{% include macros/6.0_endwalker/p5s.en.txt %}
 ```
 
 ## Japanese
 
 ```
-{% include_relative macros/p5s.jp.txt %}
+{% include macros/6.0_endwalker/p5s.jp.txt %}
 ```
 
 ## Markers
 
-There aren't any real fixed set of markers used for this fight- this set places markers on the potential poison puddle positions:
+There aren't any real fixed set of markers used for this fight- this set places
+markers on the potential poison puddle positions:
 
 - `ABCD` are used for orientation.
 - `1234` are useful when calling out where to move during Ruby Glow 3.
 
-![](images/markers_1.jpg)
+![]({{site.baseurl}}/images/6.0_endwalker/p5s/markers_1.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
@@ -58,7 +59,7 @@ This set of markers simply puts everything in a circle.
 - `ABCD` are used for orientation.
 - `1234` are useful when calling out where to move during Ruby Glow 3.
 
-![](images/markers_2.jpg)
+![]({{site.baseurl}}/images/6.0_endwalker/p5s/markers_2.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
@@ -85,20 +86,23 @@ This set of markers simply puts everything in a circle.
 
 ## Ruby Glow 5
 
-The way Game 8 chose to resolve Ruby Glow 5 is to assign the MT group to the north-side **poison** quadrant, and the ST group to the south side **poison** quadrant.
+The way Game 8 chose to resolve Ruby Glow 5 is to assign the MT group to the
+north-side **poison** quadrant, and the ST group to the south side **poison**
+quadrant.
 
-Once you've identified your quadrant, move to the side **without** the poison crystal (this will always be next to the yellow crystal that will explode).
+Once you've identified your quadrant, move to the side **without** the poison
+crystal (this will always be next to the yellow crystal that will explode).
 
 The four possible outcomes are as follows:
 
 <table>
   <tr>
-    <td><img src="images/ruby_5_1.jpg"></td>
-    <td><img src="images/ruby_5_2.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/6.0_endwalker/p5s/ruby_5_1.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/6.0_endwalker/p5s/ruby_5_2.jpg"></td>
   </tr>
   <tr>
-    <td><img src="images/ruby_5_3.jpg"></td>
-    <td><img src="images/ruby_5_4.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/6.0_endwalker/p5s/ruby_5_3.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/6.0_endwalker/p5s/ruby_5_4.jpg"></td>
   </tr>
 </table>
 
@@ -106,19 +110,40 @@ The four possible outcomes are as follows:
 ## Frequently Asked Questions
 
 <details markdown=block>
-<summary><b>[Ruby Glow 5]</b> Some groups refer to a N/W and S/E strat- how is that different?</summary>
+<summary>
+  <b>[Ruby Glow 5]</b> Some groups refer to a N/W and S/E strat- how is that different?
+</summary>
 <table>
-  <tr><td><p>This refers to a different method of assigning quadrants that some EN groups do. The main difference is what the party pays attention to.</p><p>Game8 unfortunately chose the strat that focuses on the <b>poison crystals</b>, which leads to a somewhat counterintuitive case 1/4 of the time.</p><p>This strat assigns the light parties based on the <b>yellow crystals</b> instead, which keeps to the "MT group N/W", "ST group S/E" convention.</p><p>The problem, of course, is that both methods work out to the same outcome in 3/4 of the cases, but not the last 1/4.</p></td></tr>
-  <table>
   <tr>
-    <td><img src="images/ruby_5_1_yellow.jpg"></td>
-    <td><img src="images/ruby_5_2_yellow.jpg"></td>
+    <td colspan="2">
+      <p>This refers to a different method of assigning quadrants that some EN
+      groups do. The main difference is what the party pays attention to.</p>
+      <p>Game8 unfortunately chose the strat that focuses on the <b>poison
+      crystals</b>, which leads to a somewhat counterintuitive case 1/4 of the
+      time.</p>
+      <p>This strat assigns the light parties based on the <b>yellow
+      crystals</b> instead, which keeps to the "MT group N/W", "ST group S/E"
+      convention.</p>
+      <p>The problem, of course, is that both methods work out to the same
+      outcome in 3/4 of the cases, but not the last 1/4.</p>
+    </td>
   </tr>
   <tr>
-    <td><img src="images/ruby_5_3_yellow.jpg"></td>
-    <td><img src="images/ruby_5_4_yellow.jpg"></td>
+    <td width="50%">
+      <img src="{{site.baseurl}}/images/6.0_endwalker/p5s/ruby_5_1_yellow.jpg">
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/6.0_endwalker/p5s/ruby_5_2_yellow.jpg">
+    </td>
   </tr>
-</table>
+  <tr>
+    <td>
+      <img src="{{site.baseurl}}/images/6.0_endwalker/p5s/ruby_5_3_yellow.jpg">
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/6.0_endwalker/p5s/ruby_5_4_yellow.jpg">
+    </td>
+  </tr>
 </table>
 </details>
 

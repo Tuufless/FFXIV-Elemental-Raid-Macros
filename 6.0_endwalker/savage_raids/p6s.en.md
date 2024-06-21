@@ -9,41 +9,44 @@ permalink: /6.0_endwalker/savage_raids/p6s/
 
 # Abyssos: The Sixth Circle (Savage)
 
-The following macros are from [Game8](https://game8.jp/ff14/479307), which uses Nukemaru's strat:
+The following macros are from [Game8](https://game8.jp/ff14/479307), which uses
+Nukemaru's strat:
 
 {% include youtube.html id="pibChZ8AjZ8" %}
 
-*Some* parties will replace Nukemaru's Cachexia 1 with ZizieZip's method (see below).
+*Some* parties will replace Nukemaru's *Cachexia* 1 with ZizieZip's method (see
+below).
 
 ## Japanese
 
 *(Nukemaru's Cachexia 1)*
 ```
-{% include_relative macros/p6s_nukemaru.jp.txt %}
+{% include macros/6.0_endwalker/p6s_nukemaru.jp.txt %}
 ```
 
 ## English
 
 *(Nukemaru's Cachexia 1)*
 ```
-{% include_relative macros/p6s_nukemaru.en.txt %}
+{% include macros/6.0_endwalker/p6s_nukemaru.en.txt %}
 ```
 
-**English** parties will replace Nukemaru's Cachexia 1 strat with [ZizieZip's Cachexia 1 strat](https://twitter.com/ZizieZip/status/1564991162775060480).
+**English** parties will replace Nukemaru's Cachexia 1 strat with
+[ZizieZip's Cachexia 1 strat](https://twitter.com/ZizieZip/status/1564991162775060480).
 
 
 ## English
 
 *(ZizieZip's Cachexia 1)*
 ```
-{% include_relative macros/p6s_ziziezip.en.txt %}
+{% include macros/6.0_endwalker/p6s_ziziezip.en.txt %}
 ```
 
 ## Japanese
 
 *(ZizieZip's Cachexia 1)*
 ```
-{% include_relative macros/p6s_ziziezip.jp.txt %}
+{% include macros/6.0_endwalker/p6s_ziziezip.jp.txt %}
 ```
 
 ## Markers (Nukemaru)
@@ -57,7 +60,7 @@ These markers are for Nukemaru's Cachexia 1:
 
 Players rotate moving "down" in the markers (i.e: 4→3→2→1→4 and D→C→B→A→D)
 
-![](images/markers_nukemaru.jpg)
+![]({{site.baseurl}}/images/6.0_endwalker/p6s/markers_nukemaru.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
@@ -80,13 +83,17 @@ Players rotate moving "down" in the markers (i.e: 4→3→2→1→4 and D→C→
 
 ## Markers (ZizieZip)
 
-These markers are for ZizieZip. The markers are colour-coded in each corner to make callouts easier.
+These markers are for ZizieZip. The markers are colour-coded in each corner to
+make callouts easier.
 
-In addition, the "purple-ish" markers are on the west side, and the "green-ish" markers (blue + yellow) are on the east side to help remember which side the purple/green debuffs go.
+In addition, the "purple-ish" markers are on the west side, and the "green-ish"
+markers (blue + yellow) are on the east side to help remember which side the
+purple/green debuffs go.
 
-Letters are N/S, while numbers are E/W to also help with that grouping when dodging the fan AoEs.
+Letters are N/S, while numbers are E/W to also help with that grouping when
+dodging the fan AoEs.
 
-![](images/markers_ziziezip.jpg)
+![]({{site.baseurl}}/images/6.0_endwalker/p6s/markers_ziziezip.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
@@ -113,21 +120,25 @@ Letters are N/S, while numbers are E/W to also help with that grouping when dodg
 
 ## Aetheric Polynominoids
 
-![](images/polynominoids.jpg)
+![]({{site.baseurl}}/images/6.0_endwalker/p6s/polynominoids.jpg)
 *(Credit: Yuexi Siohre)*
 
 ## Cachexia 1
 
 English PFs will use ZizieZip's strat to resolve Cachexia 1.
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">煉獄零式2層：カヘキシー(緑紫デバフ)<br>ぐるぐる回らなくても、少しの移動だけで処理できそう。<br>デバフの残り秒数に関係なく「北T-H-D4321南」順に並べばめちゃくちゃ簡単。<br>基本の立ち位置に各マーカー、順番にタゲサをちょっと踏み越えるだけでOKです。<a href="https://t.co/VMWjsPhUFb">https://t.co/VMWjsPhUFb</a> <a href="https://t.co/CF32Zq8a1U">pic.twitter.com/CF32Zq8a1U</a></p>&mdash; ジジー･ジップ🐥 (@ZizieZip) <a href="https://twitter.com/ZizieZip/status/1564991162775060480?ref_src=twsrc%5Etfw">August 31, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet">
+  <p lang="ja" dir="ltr">煉獄零式2層：カヘキシー(緑紫デバフ)<br>ぐるぐる回らなくても、少しの移動だけで処理できそう。<br>デバフの残り秒数に関係なく「北T-H-D4321南」順に並べばめちゃくちゃ簡単。<br>基本の立ち位置に各マーカー、順番にタゲサをちょっと踏み越えるだけでOKです。<a href="https://t.co/VMWjsPhUFb">https://t.co/VMWjsPhUFb</a> <a href="https://t.co/CF32Zq8a1U">pic.twitter.com/CF32Zq8a1U</a></p>&mdash; ジジー･ジップ🐥 (@ZizieZip) <a href="https://twitter.com/ZizieZip/status/1564991162775060480?ref_src=twsrc%5Etfw">August 31, 2022</a>
+</blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Note that there are two versions of the strat going around:
 
 1. One based on roles (this is the one used in the macro)
 2. One based on timers (we aren't using this)
 
-The two players with the 20s debuffs start a little under the boss. All other players can wait for their vulnerability debuff to wear off before then stepping inside the boss's hitbox.
+The two players with the 20s debuffs start a little under the boss. All other
+players can wait for their vulnerability debuff to wear off before then
+stepping inside the boss's hitbox.
 
 <script data-goatcounter="https://tuufless.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
