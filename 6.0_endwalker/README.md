@@ -27,34 +27,34 @@ The level cap for Endwalker is **Level 90**.
 
 The item level cap for Pandæmonium: Asphodelos is **iLvl 605**.
 
-- **P1S** - [Asphodelos: The First Circle (Savage)](savage_raids/p1s/README.md)
-- **P2S** - [Asphodelos: The Second Circle (Savage)](savage_raids/p2s/README.md)
-- **P3S** - [Asphodelos: The Third Circle (Savage)](savage_raids/p3s/README.md)
+- **P1S** - [Asphodelos: The First Circle (Savage)](savage_raids/p1s.en.md)
+- **P2S** - [Asphodelos: The Second Circle (Savage)](savage_raids/p2s.en.md)
+- **P3S** - [Asphodelos: The Third Circle (Savage)](savage_raids/p3s.en.md)
 - **P4S** - Asphodelos: The Fourth Circle (Savage)
-	- [Part 1](savage_raids/p4s_1/README.md)
-	- [Part 2](savage_raids/p4s_2/README.md)
+	- [Part 1](savage_raids/p4s_1.en.md)
+	- [Part 2](savage_raids/p4s_2.en.md)
 
 ### Pandæmonium: Abyssos (Patch 6.2)
 
 The item level cap for Pandæmonium: Asphodelos is **iLvl 635**.
 
-- **P5S** - [Abyssos: The Fifth Circle (Savage)](savage_raids/p5s/README.md)
-- **P6S** - [Abyssos: The Sixth Circle (Savage)](savage_raids/p6s/README.md)
-- **P7S** - [Abyssos: The Seventh Circle (Savage)](savage_raids/p7s/README.md)
+- **P5S** - [Abyssos: The Fifth Circle (Savage)](savage_raids/p5s.en.md)
+- **P6S** - [Abyssos: The Sixth Circle (Savage)](savage_raids/p6s.en.md)
+- **P7S** - [Abyssos: The Seventh Circle (Savage)](savage_raids/p7s.en.md)
 - **P8S** - Abyssos: The Eighth Circle (Savage)
-	- [Part 1](savage_raids/p8s_1/README.md)
-	- [Part 2](savage_raids/p8s_2/README.md)
+	- [Part 1](savage_raids/p8s_1.en.md)
+	- [Part 2](savage_raids/p8s_2.en.md)
 
 ### Pandæmonium: Anabaseios (Patch 6.4)
 
 The item level cap for Pandæmonium: Anabaseios is **iLvl 665**.
 
-- **P9S** - [Anabaseios: The Ninth Circle (Savage)](savage_raids/p9s/README.md)
-- **P10S** - [Anabaseios: The Tenth Circle (Savage)](savage_raids/p10s/README.md)
-- **P11S** - [Anabaseios: The Eleventh Circle (Savage)](savage_raids/p11s/README.md)
+- **P9S** - [Anabaseios: The Ninth Circle (Savage)](savage_raids/p9s.en.md)
+- **P10S** - [Anabaseios: The Tenth Circle (Savage)](savage_raids/p10s.en.md)
+- **P11S** - [Anabaseios: The Eleventh Circle (Savage)](savage_raids/p11s.en.md)
 - **P12S** - Anabaseios: The Twelfth Circle (Savage)
-	- [Part 1](savage_raids/p12s_1/README.md)
-	- [Part 2](savage_raids/p12s_2/README.md)
+	- [Part 1](savage_raids/p12s_1.en.md)
+	- [Part 2](savage_raids/p12s_2.en.md)
 
 ## Ultimate
 
