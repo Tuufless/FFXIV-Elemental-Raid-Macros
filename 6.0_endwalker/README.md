@@ -13,13 +13,13 @@ The level cap for Endwalker is **Level 90**.
 
 ## Extreme Trials
 
-- **Zodiark EX** - [The Minstrel's Ballad: Zodiark's Fall](extreme_trials/zodiark/README.md)
-- **Hydaelyn EX** - [The Minstrel's Ballad: Hydaelyn's Call](extreme_trials/hydaelyn/README.md)
-- **Endsinger EX** - [The Minstrel's Ballad: The Endsinger's Aria](extreme_trials/endsinger/README.md)
-- **Barbariccia EX** - [Storm's Crown (Extreme)](extreme_trials/barbariccia/README.md)
-- **Rubicante EX** - [Mount Ordeals (Extreme)](extreme_trials/rubicante/README.md)
-- **Golbez EX** - [The Voidcast Dais (Extreme)](extreme_trials/golbez/README.md)
-- **Zeromus EX** - [The Abyssal Fracture (Extreme)](extreme_trials/zeromus/README.md)
+- **Zodiark EX** - [The Minstrel's Ballad: Zodiark's Fall](extreme_trials/zodiark.en.md)
+- **Hydaelyn EX** - [The Minstrel's Ballad: Hydaelyn's Call](extreme_trials/hydaelyn.en.md)
+- **Endsinger EX** - [The Minstrel's Ballad: The Endsinger's Aria](extreme_trials/endsinger.en.md)
+- **Barbariccia EX** - [Storm's Crown (Extreme)](extreme_trials/barbariccia.en.md)
+- **Rubicante EX** - [Mount Ordeals (Extreme)](extreme_trials/rubicante.en.md)
+- **Golbez EX** - [The Voidcast Dais (Extreme)](extreme_trials/golbez.en.md)
+- **Zeromus EX** - [The Abyssal Fracture (Extreme)](extreme_trials/zeromus.en.md)
 
 ## Savage
 

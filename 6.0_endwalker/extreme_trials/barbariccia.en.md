@@ -11,16 +11,18 @@ permalink: /6.0_endwalker/extreme_trials/barbariccia/
 
 This is [Game8's macro](https://game8.jp/ff14/477950).
 
-It's basically [Hamkatsu's strat](https://youtu.be/FToWDK7uy4w), but resolves Playstation symbols in a "braindead" manner (T/H go to assigned cardinals, DPS all stack in the center and get pulled to their assigned partner). 
-
-## Japanese
-```
-{% include_relative macros/barbariccia.jp.txt %}
-```
+It's basically [Hamkatsu's strat](https://youtu.be/FToWDK7uy4w), but resolves
+Playstation symbols in a "braindead" manner (T/H go to assigned cardinals, DPS
+all stack in the center and get pulled to their assigned partner). 
 
 ## English
 ```
-{% include_relative macros/barbariccia.en.txt %}
+{% include macros/6.0_endwalker/barbariccia.en.txt %}
+```
+
+## Japanese
+```
+{% include macros/6.0_endwalker/barbariccia.jp.txt %}
 ```
 
 ## Markers
@@ -31,7 +33,7 @@ You might see the `ABCD` markers placed further out towards the edge of the aren
 - `C`: Party stack during 2x Flares + stack
 - `1` and `3`: Enumeration pairs during Teasing Tangles
 
-![](images/markers.jpg)
+![]({{site.baseurl}}/images/6.0_endwalker/barbariccia/markers.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
@@ -59,16 +61,16 @@ You might see the `ABCD` markers placed further out towards the edge of the aren
       <p><b>Case 1: Enumeration pairs are opposite each other.</b></p>
       <p>Pair with the player beside you in the adjacent pair.</p>
     </td>
-    <td><img src="images/airbumps_1_1.jpg"></td>
-    <td><img src="images/airbumps_1_2.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/6.0_endwalker/barbariccia/airbumps_1_1.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/6.0_endwalker/barbariccia/airbumps_1_2.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>Case 2: Enumeration pairs are adjacent to each other.</b></p>
       <p>Stack with the adjacent pair (Enumeration pair + no enumeration pair).</p>
     </td>
-    <td><img src="images/airbumps_2_1.jpg"></td>
-    <td><img src="images/airbumps_2_2.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/6.0_endwalker/barbariccia/airbumps_2_1.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/6.0_endwalker/barbariccia/airbumps_2_2.jpg"></td>
   </tr>
 </table>
 

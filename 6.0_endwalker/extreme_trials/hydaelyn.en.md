@@ -9,27 +9,33 @@ permalink: /6.0_endwalker/extreme_trials/hydaelyn/
 
 # The Minstrel's Ballad: Hydaelyn's Call
 
-PF uses [Hamkatsu's strat](https://youtu.be/xrN2viqpTqc) *(yes, this is the downtime Chakrams strat)*
+PF uses [Hamkatsu's strat](https://youtu.be/xrN2viqpTqc) *(yes, this is the
+downtime Chakrams strat)*
 
 ## English
 
 ```
-{% include_relative macros/hydaelyn.en.txt %}
+{% include macros/6.0_endwalker/hydaelyn.en.txt %}
 ```
 
 ## Japanese
 
 ```
-{% include_relative macros/hydaelyn.jp.txt %}
+{% include macros/6.0_endwalker/hydaelyn.jp.txt %}
 ```
 
 ## Markers
 
-- `AC` are for orientation. `A` is important because the boss will teleport a little north of the center during the fight.
-- `12` are for water stacks - have the MT bring the boss center and face `A` right after the final Lightwaves to avoid confusion during the party stack→light party stack sequence.
+- `AC` are for orientation. `A` is important because the boss will teleport a
+  little north of the center during the fight.
+- `12` are for water stacks - have the MT bring the boss center and face `A`
+  right after the final Lightwaves to avoid confusion during the party
+  stack→light party stack sequence.
 
-`BD34` are often omitted, but they demarcate the safe spots behind the crystals during Lightwaves.
-![](images/markers.jpg)
+`BD34` are often omitted, but they demarcate the safe spots behind the crystals
+during Lightwaves.
+![]({{site.baseurl}}/images/6.0_endwalker/hydaelyn/markers.jpg)
+
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 

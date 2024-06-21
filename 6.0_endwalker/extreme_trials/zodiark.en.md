@@ -15,10 +15,12 @@ No macro needed for this fight! *(just dodge everything)*
 
 ## Markers
 
-The `A` marker is placed so that it is the safe spot for Adikia + front row AoE.
+The `A` marker is placed so that it is the safe spot for *Adikia* + front row
+AoE.
 
-All other markers are not really needed, but can be useful for calling out safe spots during the starstorm.
-![](images/markers.jpg)
+All other markers are not really needed, but can be useful for calling out safe
+spots during the starstorm.
+![]({{site.baseurl}}/images/6.0_endwalker/zodiark/markers.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 

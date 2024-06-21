@@ -15,21 +15,24 @@ permalink: /6.0_endwalker/extreme_trials/zeromus/
 
 ### English
 ```
-{% include_relative macros/zeromus.en.txt %}
+{% include macros/6.0_endwalker/zeromus.en.txt %}
 ```
 
 ### Japanese
 ```
-{% include_relative macros/zeromus.jp.txt %}
+{% include macros/6.0_endwalker/zeromus.jp.txt %}
 ```
 
 ## Markers
 
-All markers (except for a center marker) mark safe spots during Visceral Whirl.
+All markers (except for a center marker) mark safe spots during *Visceral
+Whirl*.
 
-In addition, the `AB` markers are for the party to stack at during Black Hole, while the `12` markers are for the marked player dropping the Black Hole.
+In addition, the `AB` markers are for the party to stack at during *Black
+Hole*, while the `12` markers are for the marked player dropping the *Black
+Hole*.
 
-![](images/markers.jpg)
+![]({{site.baseurl}}/images/6.0_endwalker/zeromus/markers.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
@@ -56,13 +59,15 @@ The Meteors spawn in one of three possible arrangements.
 Here's how you can drop both sets of meteors/tethers, depending on which side
 goes first.
 
-![](images/meteors.jpg)
+![]({{site.baseurl}}/images/6.0_endwalker/zeromus/meteors.jpg)
 *(Credit: radrauser)*
 
 ## Frequently Asked Questions
 
 <details markdown=block>
-<summary><b>[Meteors]</b> Can you jump off the edge to remove a tether?</summary>
+<summary>
+  <b>[Meteors]</b> Can you jump off the edge to remove a tether?
+</summary>
 <table>
   <tr>
     <td>
@@ -75,7 +80,10 @@ goes first.
 </details>
 
 <details markdown=block>
-<summary><b>[Meteors]</b> Can a tank invuln the tethers and not stretch their tether instead?</summary>
+<summary>
+  <b>[Meteors]</b> Can a tank invuln the tethers and not stretch their tether
+  instead?
+</summary>
 <table>
   <tr>
     <td>

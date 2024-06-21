@@ -23,7 +23,7 @@ the ones you may encounter in PF- use the ones here as a base to work with.
 The current item level cap is **iLvl 665**.
 
 **Extreme Trials:**
-- **Zeromus EX** - [The Abyssal Fracture (Extreme)](6.0_endwalker/extreme_trials/zeromus/README.md)
+- **Zeromus EX** - [The Abyssal Fracture (Extreme)](6.0_endwalker/extreme_trials/zeromus.en.md)
 
 **Unreal Trial:**
 - **Thordan** - [The Singularity Reactor (Unreal)](3.0_heavensward/extreme_trials/thordan/README.md)

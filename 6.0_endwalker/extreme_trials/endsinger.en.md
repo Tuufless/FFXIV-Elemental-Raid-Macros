@@ -13,16 +13,16 @@ PF largely follows Nukemaru's guide:
 
 {% include youtube.html id="dwZ8uVCPI80" %}
 
+## English
+```
+{% include macros/6.0_endwalker/endsinger.en.txt %}
+```
+
 ## Japanese
 
 This is the [game8 macro](https://game8.jp/ff14/446913) that's being used:
 ```
-{% include_relative macros/endsinger.jp.txt %}
-```
-
-## English
-```
-{% include_relative macros/endsinger.en.txt %}
+{% include macros/6.0_endwalker/endsinger.jp.txt %}
 ```
 
 ## Markers
@@ -32,7 +32,7 @@ The intercardinal `1234` markers are the impact points for all the planetary col
 All markers are the player positions for Flare/AoEs during Theological Fatalism (player debuffs). The center `C` marker is for the Donuts + stack (people tend to stack too far south otherwise).
 
 You also want to mark the two healers for stacks.
-![](images/markers.jpg)
+![]({{site.baseurl}}/images/6.0_endwalker/endsinger/markers.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
@@ -64,7 +64,7 @@ An easy way to resolve the 5-heads mechanic is:
 	- If it is **odd**, stay in your current quadrant.
 	- If it is **even**, move to the other quadrant that won't get cleaved by the center head.
 	
-![](images/five_head.jpg)
+![]({{site.baseurl}}/images/6.0_endwalker/endsinger/five_head.jpg)
 *(Credit: [Nukemaru](https://twitter.com/nukemarugames/status/1514278676359446528?s=20&t=olONmsjUl90VIwjrZNqbtQ))*
 
 ## 2x Fatalism
