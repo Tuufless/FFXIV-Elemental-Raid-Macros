@@ -31,7 +31,7 @@ the final phase with 3 stacks of Dynamis**.
 <table>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/05a/debuffs/hello_near_world.png">
+      <img src="{{site.baseurl}}/images/ultimates/top/05a/debuffs/hello_near_world.png">
     </td>
     <td>
       <p><b>Hello, Near World</b></p>
@@ -45,11 +45,11 @@ the final phase with 3 stacks of Dynamis**.
       <p>All three players hit gain one stack of Dynamis.</p>
       <p>If an AoE hits two players at the same time, or the player with Hello,
       Near World dies, the party wipes.</p>
-      <p><img src="{{site.baseurl}}/assets/images/ultimates/top/05a/hello_near_world.jpg"></p></td>
+      <p><img src="{{site.baseurl}}/images/ultimates/top/05a/hello_near_world.jpg"></p></td>
   </tr>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/05a/debuffs/hello_distant_world.png">
+      <img src="{{site.baseurl}}/images/ultimates/top/05a/debuffs/hello_distant_world.png">
     </td>
     <td><p><b>Hello, Distant World</b></p>
     <ol>
@@ -63,7 +63,7 @@ the final phase with 3 stacks of Dynamis**.
       <p>All three players hit gain one stack of Dynamis.</p>
       <p>If an AoE hits two players at the same time, or the player with Hello,
       Distant World dies, the party wipes.</p>
-      <p><img src="{{site.baseurl}}/assets/images/ultimates/top/05a/hello_distant_world.jpg"></p></td>
+      <p><img src="{{site.baseurl}}/images/ultimates/top/05a/hello_distant_world.jpg"></p></td>
   </tr>
 </table>
 </details>
@@ -193,7 +193,7 @@ Tethers appear, splitting the party up into two groups:
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/05a/run_dynamis_delta_01.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/top/05a/run_dynamis_delta_01.jpg">
     </td>
   </tr>
   <tr>
@@ -219,8 +219,8 @@ Tethers appear, splitting the party up into two groups:
       <p><em>At most, only one pair will need to swap.</em></p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/05a/run_dynamis_delta_02a.jpg">
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/05a/run_dynamis_delta_02b.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/top/05a/run_dynamis_delta_02a.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/top/05a/run_dynamis_delta_02b.jpg">
     </td>
   </tr>
   <tr>
@@ -228,7 +228,7 @@ Tethers appear, splitting the party up into two groups:
       <p><b>3.</b> Arms appear on the outside of the arena, and telegraph
       which direction they will spin.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/05a/run_dynamis_delta_03.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/05a/run_dynamis_delta_03.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -236,7 +236,7 @@ Tethers appear, splitting the party up into two groups:
       blue-tether.</p>
       <p>The outer blue-tethered players move in to stack with the inner
       blue-tethered players.</p></td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/05a/run_dynamis_delta_04.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/05a/run_dynamis_delta_04.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -253,7 +253,7 @@ Tethers appear, splitting the party up into two groups:
         Omega's side.</li>
       </ul>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/05a/run_dynamis_delta_05.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/05a/run_dynamis_delta_05.jpg"></td>
   </tr>
 </table>
 
@@ -272,7 +272,7 @@ on their tethers, with each tether group having different responsibilities.
       closest player.</p>
       <p>The Omega-M clone hits one of the two closest players with Beyond
       Defense.</p></td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/05a/run_dynamis_delta_06.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/05a/run_dynamis_delta_06.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -285,7 +285,7 @@ on their tethers, with each tether group having different responsibilities.
       <p>The player hit by Beyond Defense stands somewhere within this
       corridor, away from the Pile Pitch stack.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/05a/run_dynamis_delta_07.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/05a/run_dynamis_delta_07.jpg"></td>
   </tr>
 </table>
 
@@ -345,7 +345,7 @@ Hello, Distant World.
     <em>not</em> be getting Dynamis stacks this round.</td>
   </tr>
   <td colspan="2">
-    <img src="{{site.baseurl}}/assets/images/ultimates/top/05a/run_dynamis_delta_08.jpg">
+    <img src="{{site.baseurl}}/images/ultimates/top/05a/run_dynamis_delta_08.jpg">
   </td>
 </table>
 
@@ -358,7 +358,7 @@ and Hello, Distant World.
       <p><b>9.</b> Break the final red/green tether when the <b>tether's debuff
       timer reaches 2 seconds</b>.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/05a/run_dynamis_delta_09.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/05a/run_dynamis_delta_09.jpg"></td>
   </tr>
 </table>
 

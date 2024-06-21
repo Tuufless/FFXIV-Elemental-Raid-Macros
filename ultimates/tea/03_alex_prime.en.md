@@ -41,9 +41,9 @@ transition mechanic to this phase.
       Justice.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/03/temporal_stasis_01.jpg">
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/03/temporal_stasis_02.jpg">
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/03/temporal_stasis_tethers.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/03/temporal_stasis_01.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/03/temporal_stasis_02.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/03/temporal_stasis_tethers.jpg">
     </td>
   </tr>
 </table>
@@ -89,8 +89,8 @@ will autoattack twice before casting *Inception Formation*.
       </div>
     </td>
 	<td>
-    <img src="{{site.baseurl}}/assets/images/ultimates/tea/03/inception_01.jpg">
-    <img src="{{site.baseurl}}/assets/images/ultimates/tea/03/inception_crystals.jpg">
+    <img src="{{site.baseurl}}/images/ultimates/tea/03/inception_01.jpg">
+    <img src="{{site.baseurl}}/images/ultimates/tea/03/inception_crystals.jpg">
   </td>
   </tr>
   <tr>
@@ -110,7 +110,7 @@ will autoattack twice before casting *Inception Formation*.
       Enigma Codex.)</em></p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/03/inception_02.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/03/inception_02.jpg">
     </td>
   </tr>
   <tr>
@@ -123,7 +123,7 @@ will autoattack twice before casting *Inception Formation*.
       <p><em>(Note that the green puddles left behind will slow down movement.)</em></p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/03/inception_03.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/03/inception_03.jpg">
     </td>
   </tr>
   <tr>
@@ -139,7 +139,7 @@ will autoattack twice before casting *Inception Formation*.
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/03/inception_04.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/03/inception_04.jpg">
     </td>
   </tr>
   <tr>
@@ -159,7 +159,7 @@ will autoattack twice before casting *Inception Formation*.
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/03/inception_05.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/03/inception_05.jpg">
     </td>
   </tr>
   <tr>
@@ -176,7 +176,7 @@ will autoattack twice before casting *Inception Formation*.
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/03/inception_06.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/03/inception_06.jpg">
     </td>
   </tr>
   <tr>
@@ -189,7 +189,7 @@ will autoattack twice before casting *Inception Formation*.
       Jump</em>.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/03/inception_07.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/03/inception_07.jpg">
     </td>
   </tr>
   <tr>
@@ -200,7 +200,7 @@ will autoattack twice before casting *Inception Formation*.
       run away from the ST by the third <em>Alpha Sword</em>.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/03/inception_08.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/03/inception_08.jpg">
     </td>
   </tr>
 </table>
@@ -249,7 +249,7 @@ from *Alpha Sword*.
       positioning requirements).</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/03/wormhole_01.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/03/wormhole_01.jpg">
     </td>
   </tr>
   <tr>
@@ -275,7 +275,7 @@ from *Alpha Sword*.
       <p>Each time a player takes the puddle, the puddle gets smaller.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/03/wormhole_02.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/03/wormhole_02.jpg">
     </td>
   </tr>
   <tr>
@@ -288,7 +288,7 @@ from *Alpha Sword*.
       comes out.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/03/wormhole_03.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/03/wormhole_03.jpg">
     </td>
   </tr>
   <tr>
@@ -302,7 +302,7 @@ from *Alpha Sword*.
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/03/wormhole_04.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/03/wormhole_04.jpg">
     </td>
   </tr>
   <tr>
@@ -313,7 +313,7 @@ from *Alpha Sword*.
       <p>Alexander starts charging <em>Sacrament</em>. <em>(do not panic!)</em></p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/03/wormhole_05.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/03/wormhole_05.jpg">
     </td>
   </tr>
   <tr>
@@ -326,7 +326,7 @@ from *Alpha Sword*.
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/03/wormhole_06.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/03/wormhole_06.jpg">
     </td>
   </tr>
   <tr>
@@ -337,7 +337,7 @@ from *Alpha Sword*.
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/03/wormhole_07.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/03/wormhole_07.jpg">
     </td>
   </tr>
   <tr>
@@ -349,7 +349,7 @@ from *Alpha Sword*.
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/03/wormhole_08.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/03/wormhole_08.jpg">
     </td>
   </tr>
   <tr>
@@ -358,7 +358,7 @@ from *Alpha Sword*.
       <li><b>1</b>, <b>2</b>: Resolve Void puddles.</li>
       <li><b>3</b>, <b>4</b>, <b>5</b>, and <b>6</b>: Start moving to the center to prepare for <em>Incinerating Heat</em>.</li>
     </ul></td>
-	<td><img src="{{site.baseurl}}/assets/images/ultimates/tea/03/wormhole_09.jpg"></td>
+	<td><img src="{{site.baseurl}}/images/ultimates/tea/03/wormhole_09.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -372,7 +372,7 @@ from *Alpha Sword*.
       closer to the <em>Incinerating Heat</em> stack.</div>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/03/wormhole_10.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/03/wormhole_10.jpg">
     </td>
   </tr>
   <tr>
@@ -388,7 +388,7 @@ from *Alpha Sword*.
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/03/wormhole_11.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/03/wormhole_11.jpg">
     </td>
   </tr>
   <tr>
@@ -410,7 +410,7 @@ from *Alpha Sword*.
       you haven't)</em>.</div>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/03/wormhole_12.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/03/wormhole_12.jpg">
     </td>
   </tr>
 </table>
@@ -838,7 +838,7 @@ The party then proceeds onto Perfect Alexander.
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/03/wormhole_faq.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/03/wormhole_faq.jpg">
     </td>
   </tr>
 </table>

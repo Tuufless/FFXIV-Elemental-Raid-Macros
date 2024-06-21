@@ -59,7 +59,7 @@ This one is simple. **Hraesvelgr will enrage if he kills *any* player.**
       players to stack- the player that has the debuff, and the player that is
       about to receive it.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/mortal_vow.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/mortal_vow.jpg"></td>
   </tr>
 </table>
 </details>
@@ -122,7 +122,7 @@ will apply the <em>Boiling</em> debuff.</p>
 <table>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/debuffs/boiling.png">
+      <img src="{{site.baseurl}}/images/ultimates/dsr/06/debuffs/boiling.png">
     </td>
     <td>
       <p><b>Boiling</b></p>
@@ -135,7 +135,7 @@ will apply the <em>Boiling</em> debuff.</p>
   </tr>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/debuffs/pyretic.png">
+      <img src="{{site.baseurl}}/images/ultimates/dsr/06/debuffs/pyretic.png">
     </td>
     <td>
       <p><b>Pyretic</b></p>
@@ -160,7 +160,7 @@ will apply the <em>Freezing</em> debuff.</p>
 <table>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/debuffs/freezing.png">
+      <img src="{{site.baseurl}}/images/ultimates/dsr/06/debuffs/freezing.png">
     </td>
     <td>
       <p><b>Freezing</b></p>
@@ -174,7 +174,7 @@ will apply the <em>Freezing</em> debuff.</p>
   </tr>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/debuffs/deep_freeze.png">
+      <img src="{{site.baseurl}}/images/ultimates/dsr/06/debuffs/deep_freeze.png">
     </td>
     <td>
       <p><b>Deep Freeze</b></p>
@@ -200,7 +200,7 @@ will apply the <em>Freezing</em> debuff.</p>
         <li><b>Bottom-right:</b> H2, D2</li>
       </ul>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/wyrmsbreath_01_01.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wyrmsbreath_01_01.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -210,7 +210,7 @@ will apply the <em>Freezing</em> debuff.</p>
       <p><em>(Note the white tile that can be used as reference for the center
       position.)</em></p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/tethers_01.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/tethers_01.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -223,7 +223,7 @@ will apply the <em>Freezing</em> debuff.</p>
       </ul>
       <p><em>(In this example, D1 and D3 will swap positions.)</em></p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/wyrmsbreath_01_02.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wyrmsbreath_01_02.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -242,8 +242,8 @@ will apply the <em>Freezing</em> debuff.</p>
       stack together for a shared tankbuster.</em></p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/wyrmsbreath_01_03a.jpg">
-      <img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/wyrmsbreath_01_03b.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/dsr/06/wyrmsbreath_01_03a.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/dsr/06/wyrmsbreath_01_03b.jpg">
     </td>
   </tr>
   <tr>
@@ -252,7 +252,7 @@ will apply the <em>Freezing</em> debuff.</p>
       <p>DPS spread out- Nidhogg will target a random DPS for the first Mortal
       Vow (in an AoE around that player).</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/mortal_vow_01.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/mortal_vow_01.jpg"></td>
   </tr>
 </table>
 
@@ -272,7 +272,7 @@ will apply the <em>Freezing</em> debuff.</p>
         <li><b>White tether:</b> Hraesvelgr's HP is too high.</li>
       </ul>  
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/akh_afah.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/akh_afah.jpg"></td>
   </tr>
 </table>
 
@@ -302,7 +302,7 @@ Three things resolve simultaneously:
       </ul>
       <p><em>(In this example, Hraesvelgr's head is down.)</em></p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/hallowed_wings_01_01.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/hallowed_wings_01_01.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -310,7 +310,7 @@ Three things resolve simultaneously:
       <p>The DPS that Nidhogg targeted with Mortal Vow passes it to the MT in
       the middle of the arena.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/mortal_vow_02.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/mortal_vow_02.jpg"></td>
   </tr>
 </table>
 
@@ -324,7 +324,7 @@ Here are some other potential configurations to consider:
       <p>Heads up means tanks far, party near.</p>
       <p>The MT takes the northern-most position.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/hallowed_wings_01_02.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/hallowed_wings_01_02.jpg"></td>
   </tr>
 </table>
 </details>
@@ -337,7 +337,7 @@ Here are some other potential configurations to consider:
       <p>Heads down means tanks near, party far.</p>
       <p>The MT takes the southern-most position.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/hallowed_wings_01_03.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/hallowed_wings_01_03.jpg"></td>
   </tr>
 </table>
 </details>
@@ -350,7 +350,7 @@ Here are some other potential configurations to consider:
       <p>Heads up means tanks far, party near.</p>
       <p>The MT takes the southern-most position.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/hallowed_wings_01_04.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/hallowed_wings_01_04.jpg"></td>
   </tr>
 </table>
 </details>
@@ -377,7 +377,7 @@ resolve at the end of the mechanic.
 <table>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/spreading_flames.png">
+      <img src="{{site.baseurl}}/images/ultimates/dsr/06/spreading_flames.png">
     </td>
     <td>
       <p><b>Spreading Flames</b></p>
@@ -396,7 +396,7 @@ resolve at the end of the mechanic.
   </tr>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/entangled_flames.png">
+      <img src="{{site.baseurl}}/images/ultimates/dsr/06/entangled_flames.png">
     </td>
     <td>
       <p><b>Entangled Flames</b></p>
@@ -454,7 +454,7 @@ third Akh Morn.
       </ol>
       <p><em>(In this example, Hraesvelgr's Cauterize will hit the east half.)</em></p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/wroth_flames_ex_01_01.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_01_01.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -463,27 +463,27 @@ third Akh Morn.
       <p>The initial Akh Morn movement will always go east-to-west or vice
       versa.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/wroth_flames_ex_01_02.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_01_02.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>3.</b> First set of eye AoEs resolve. Drop the second Akh Morn
       puddle without getting hit by the eye AoE.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/wroth_flames_ex_01_03.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_01_03.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>4.</b> Drop third and fourth Akh Morn puddles.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/wroth_flames_ex_01_04.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_01_04.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>5.</b> Move to the middle and identify whether Nidhogg is casting
       Hot Wing or Hot Tail.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/wroth_flames_ex_01_05.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_01_05.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -495,8 +495,8 @@ third Akh Morn.
       are on the sides of the safe zone.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/wroth_flames_ex_01_06a.jpg">
-      <img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/wroth_flames_ex_01_06b.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_01_06a.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_01_06b.jpg">
     </td>
   </tr>
 </table>
@@ -518,7 +518,7 @@ practice to mark the players. However, there are two different marking schemes.
       east wall).</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/wroth_flames_am_markers.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_am_markers.jpg">
     </td>
   </tr>
 </table>
@@ -550,7 +550,7 @@ practice to mark the players. However, there are two different marking schemes.
       together, with the "2s" against the east wall.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/wroth_flames_manual_markers.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_manual_markers.jpg">
     </td>
   </tr>
 </table>
@@ -562,7 +562,7 @@ practice to mark the players. However, there are two different marking schemes.
       <p>Note that this Mortal Vow pass is *fast*, hence why we want to try to
       keep the tanks near the center if possible.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/mortal_vow_03.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/mortal_vow_03.jpg"></td>
   </tr>
 </table>
 
@@ -583,33 +583,33 @@ Here are some additional examples to consider:
         with a 2-1 dodge.</li>
       </ul>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/wroth_flames_ex_02_01.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_02_01.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>2.</b> Hraesvelgr's Cauterize resolves. Drop first Akh Morn puddle.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/wroth_flames_ex_02_02.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_02_02.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>3.</b> First set of eye AoEs resolve. Drop the second Akh Morn
       puddle without getting hit.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/wroth_flames_ex_02_03.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_02_03.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>4.</b> Drop third and fourth Akh Morn puddles.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/wroth_flames_ex_02_04.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_02_04.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>5.</b> Move to the middle, identify whether Nidhogg is casting Hot
       Wing or Hot Tail.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/wroth_flames_ex_02_05.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_02_05.jpg"></td>
   </tr>
 </table>
 </details>
@@ -627,25 +627,25 @@ Here are some additional examples to consider:
         <li>The furthest position away from the second set of eyes is NE.</li>
       </ul>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/wroth_flames_ex_03_01.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_03_01.jpg"></td>
   </tr>
   <tr>
     <td><b>2.</b> Hraesvelgr's Cauterize resolves. Drop first Akh Morn puddle.</td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/wroth_flames_ex_03_02.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_03_02.jpg"></td>
   </tr>
   <tr>
     <td><b>3.</b> First set of eye AoEs resolve. Drop the second Akh Morn
     puddle without getting hit.</td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/wroth_flames_ex_03_03.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_03_03.jpg"></td>
   </tr>
   <tr>
     <td><b>4.</b> Drop third and fourth Akh Morn puddles.</td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/wroth_flames_ex_03_04.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_03_04.jpg"></td>
   </tr>
   <tr>
     <td><b>5.</b> Move to the middle, identify whether Nidhogg is casting Hot
     Wing or Hot Tail.</td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/wroth_flames_ex_03_05.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_03_05.jpg"></td>
   </tr>
 </table>
 </details>
@@ -668,7 +668,7 @@ same mechanics from earlier.
       uptime/downtime earlier on Hraesvelgr or Nidhogg during the previous
       mechanics, one of the two dragons' HP may be skewed to one side.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/akh_afah.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/akh_afah.jpg"></td>
   </tr>
 </table>
 
@@ -690,7 +690,7 @@ same mechanics from earlier.
       </ul>
       <p><em>(This example has Hot Wing with Hraesvelgr's head up.)</em></p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/hallowed_wings_02_01.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/hallowed_wings_02_01.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -698,7 +698,7 @@ same mechanics from earlier.
       <p>This pass goes from the ST to D1, <em>unless</em> D1 started with the
       first Mortal Vow, in which case ST passes to D2 instead.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/mortal_vow_04.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/mortal_vow_04.jpg"></td>
   </tr>
 </table>
 
@@ -714,7 +714,7 @@ Here are some other potential configurations to consider:
       party is towards Hraesvelgr.</p>
       <p>The MT takes the western-most position.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/hallowed_wings_02_01.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/hallowed_wings_02_01.jpg"></td>
   </tr>
 </table>
 </details>
@@ -730,7 +730,7 @@ Here are some other potential configurations to consider:
       party is away from Hraesvelgr.</p>
       <p>The MT takes the eastern-most position.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/hallowed_wings_02_02.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/hallowed_wings_02_02.jpg"></td>
   </tr>
 </table>
 </details>
@@ -767,8 +767,8 @@ maintain uptime on a dragon during the mechanic.
       together for a shared tankbuster.</em></p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/wyrmsbreath_02_a.jpg">
-      <img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/wyrmsbreath_02_b.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/dsr/06/wyrmsbreath_02_a.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/dsr/06/wyrmsbreath_02_b.jpg">
     </td>
   </tr>
 </table>
@@ -777,7 +777,7 @@ The left-most and right-most players at the North can use the inner markers as
 a guide. As long as their tethers **do not cross the center of the markers**,
 they will be safe from the cone AoEs.
 
-![]({{site.baseurl}}/assets/images/ultimates/dsr/06/wyrmsbreath_02_positions.jpg)
+![]({{site.baseurl}}/images/ultimates/dsr/06/wyrmsbreath_02_positions.jpg)
 
 ---
 
@@ -809,7 +809,7 @@ we needed the fire/ice debuffs in order to survive this mechanic.
         neither dragon will be targetable for the DRK to recover HP for <em>Walking Dead</em>.
       </div>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/cauterize_01.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/cauterize_01.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -819,7 +819,7 @@ we needed the fire/ice debuffs in order to survive this mechanic.
       <p>After Touchdown, all players move away from the stack point
       <em>except</em> the DPS with Mortal Vow and D3.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/mortal_vow_05.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/mortal_vow_05.jpg"></td>
   </tr>
 </table>
 
@@ -907,7 +907,7 @@ transition to the final phase *(Dragonking Thordan will not be targetable*
       <p>Unfortunately not- the debuff distribution is random.</p>
       <p>Here's an example where two of the no-debuff players are both DPS.</p>
     </td>
-  <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/wroth_flames_debuffs.jpg"></td></tr>
+  <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_debuffs.jpg"></td></tr>
 </table>
 </details>
 
@@ -933,7 +933,7 @@ transition to the final phase *(Dragonking Thordan will not be targetable*
     and leaving the SAM unmarked (it also doesn't help that <em>Mortal
     Atonement</em> looks like a purple spread debuff).</p>
   </td>
-  <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/wroth_flames_debuffs.jpg"></td></tr>
+  <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_debuffs.jpg"></td></tr>
 </table>
 </details>
 <details markdown=block>
@@ -949,7 +949,7 @@ transition to the final phase *(Dragonking Thordan will not be targetable*
       <p>However, player positioning is precise, and when things go wrong, it's
       often difficult to diagnose what went wrong.</p>
       <p style="text-align:center">
-        <img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/fixed_wyrmsbreath2.jpg">
+        <img src="{{site.baseurl}}/images/ultimates/dsr/06/fixed_wyrmsbreath2.jpg">
       </p>
       <ul>
         <li><b>MT:</b> NW if you get the single-target tankbuster (by Nidhogg).</li>
@@ -1004,7 +1004,7 @@ transition to the final phase *(Dragonking Thordan will not be targetable*
     <td>Each Cauterize is exactly half the arena, even though the visual
     effects make it look like the AoE is slightly larger.</td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/cauterize.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/dsr/06/cauterize.jpg">
     </td>
   </tr>
 </table>
@@ -1085,7 +1085,7 @@ transition to the final phase *(Dragonking Thordan will not be targetable*
       <p>Here is a graph plotting damage vs distance (in centiyalms).</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/dsr/06/wyrmsbreath_faq.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/dsr/06/wyrmsbreath_faq.jpg">
       <em>(Credit: radrauser)</em>
     </td>
   </tr>

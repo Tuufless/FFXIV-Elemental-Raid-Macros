@@ -102,7 +102,7 @@ The following mechanics will also change when Garuda is woken:
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/01/garuda_01.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/01/garuda_01.jpg">
     </td>
   </tr>
   <tr>
@@ -118,7 +118,7 @@ The following mechanics will also change when Garuda is woken:
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/01/garuda_02.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/01/garuda_02.jpg">
     </td>
   </tr>
   <tr>
@@ -129,7 +129,7 @@ The following mechanics will also change when Garuda is woken:
       for the next step.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/01/garuda_03.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/01/garuda_03.jpg">
     </td>
   </tr>
   <tr>
@@ -141,7 +141,7 @@ The following mechanics will also change when Garuda is woken:
       causing the Spiny Plume to tether to the ST.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/01/garuda_04.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/01/garuda_04.jpg">
     </td>
   </tr>
   <tr>
@@ -153,7 +153,7 @@ The following mechanics will also change when Garuda is woken:
       also applies a stack of Thermal Low.</p>
     </td>
   	<td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/01/garuda_05.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/01/garuda_05.jpg">
     </td>
   </tr>
   <tr>
@@ -164,7 +164,7 @@ The following mechanics will also change when Garuda is woken:
       <p><b>Do not destroy the Spiny Plume.</b></p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/01/garuda_06.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/01/garuda_06.jpg">
     </td>
   </tr>
   <tr>
@@ -176,7 +176,7 @@ The following mechanics will also change when Garuda is woken:
       again (giving the ST a third stack).</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/01/garuda_07.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/01/garuda_07.jpg">
     </td>
   </tr>
 </table>
@@ -201,7 +201,7 @@ to be woken later on. Note that unlike Ifrit and Titan, Garuda will not
       wipe the raid.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/01/garuda_08.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/01/garuda_08.jpg">
     </td>
   </tr>
   <tr>
@@ -216,7 +216,7 @@ to be woken later on. Note that unlike Ifrit and Titan, Garuda will not
       <em>Aetherically Charged</em>.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/01/garuda_09.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/01/garuda_09.jpg">
     </td>
   </tr>
   <tr>
@@ -228,7 +228,7 @@ to be woken later on. Note that unlike Ifrit and Titan, Garuda will not
       <p><em>(Only the ST, D1, and D2 should now have 1 stack of Thermal Low.)</em></p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/01/garuda_10.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/01/garuda_10.jpg">
     </td>
   </tr>
   <tr>
@@ -240,7 +240,7 @@ to be woken later on. Note that unlike Ifrit and Titan, Garuda will not
       the ST, D1, and D2 who have two stacks each.)</em></p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/01/garuda_11.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/01/garuda_11.jpg">
     </td>
   </tr>
   <tr>
@@ -249,7 +249,7 @@ to be woken later on. Note that unlike Ifrit and Titan, Garuda will not
       <p>This will give Garuda her second stack of <em>Aetherically Charged</em>.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/01/garuda_12.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/01/garuda_12.jpg">
     </td>
   </tr>
   <tr>
@@ -261,7 +261,7 @@ to be woken later on. Note that unlike Ifrit and Titan, Garuda will not
       Thermal Low, and the ST should have two stacks.)</em></p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/01/garuda_13.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/01/garuda_13.jpg">
     </td>
   </tr>
   <tr>
@@ -270,7 +270,7 @@ to be woken later on. Note that unlike Ifrit and Titan, Garuda will not
       puddles on random players.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/01/garuda_14.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/01/garuda_14.jpg">
     </td>
   </tr>
 </table>
@@ -290,7 +290,7 @@ Note that Garuda only has three of the four stacks needed to wake her.
       <em>Feather Rains</em> will drop on five random players.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/01/garuda_15.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/01/garuda_15.jpg">
     </td>
   </tr>
   <tr>
@@ -302,7 +302,7 @@ Note that Garuda only has three of the four stacks needed to wake her.
       South-East.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/01/garuda_16.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/01/garuda_16.jpg">
     </td>
   </tr>
   <tr>
@@ -322,7 +322,7 @@ Note that Garuda only has three of the four stacks needed to wake her.
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/01/garuda_17.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/01/garuda_17.jpg">
     </td>
   </tr>
   <tr>
@@ -332,7 +332,7 @@ Note that Garuda only has three of the four stacks needed to wake her.
       <p>Done correctly, the center of the arena will <em>always</em> be safe.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/01/garuda_18.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/01/garuda_18.jpg">
     </td>
   </tr>
 </table>
@@ -358,7 +358,7 @@ Garuda the fourth stack of *Aetherically Charged*, waking her.
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/01/garuda_19.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/01/garuda_19.jpg">
     </td>
   </tr>
   <tr>
@@ -375,7 +375,7 @@ Garuda the fourth stack of *Aetherically Charged*, waking her.
       a "HOWL TEMPEST! NONE SHALL ESCAPE MY WRATH!"</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/01/garuda_20.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/01/garuda_20.jpg">
     </td>
   </tr>
   <tr>
@@ -384,7 +384,7 @@ Garuda the fourth stack of *Aetherically Charged*, waking her.
       <em>Feather Rains</em> again.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/01/garuda_21.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/01/garuda_21.jpg">
     </td>
   </tr>
   <tr>
@@ -392,7 +392,7 @@ Garuda the fourth stack of *Aetherically Charged*, waking her.
       <p><b>22.</b> MT baits a Slipstream away from the party.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/01/garuda_22.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/01/garuda_22.jpg">
     </td>
   </tr>
   <tr>
@@ -407,7 +407,7 @@ Garuda the fourth stack of *Aetherically Charged*, waking her.
       <p><em>(Most groups will have killed Garuda by this point.)</em></p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/01/garuda_23.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/01/garuda_23.jpg">
     </td>
   </tr>
   <tr>
@@ -417,7 +417,7 @@ Garuda the fourth stack of *Aetherically Charged*, waking her.
       the entire party.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/01/garuda_24.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/01/garuda_24.jpg">
     </td>
   </tr>
   <tr>
@@ -427,7 +427,7 @@ Garuda the fourth stack of *Aetherically Charged*, waking her.
       <p>After this, Garuda will jump <em>(Feather Rains)</em>, become 
       untargetable and enrage <em>(Aerial Blast)</em>.</p></td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/01/garuda_25.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/01/garuda_25.jpg">
     </td>
   </tr>
 </table>
@@ -455,7 +455,7 @@ relevant much later into the fight (from Ultimate Annihilation onwards).
       <p><em>(The timing is quite tight- Sprint is highly recommended.)</em></p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/01/garuda_26.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/01/garuda_26.jpg">
     </td>
   </tr>
 </table>

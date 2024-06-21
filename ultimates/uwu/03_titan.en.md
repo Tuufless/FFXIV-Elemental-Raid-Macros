@@ -63,7 +63,7 @@ The **MT** will take hate at the start of the fight.
       always preceeded with a <em>Rock Buster</em>.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/03/titan_01.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/03/titan_01.jpg">
     </td>
   </tr>
   <tr>
@@ -77,7 +77,7 @@ The **MT** will take hate at the start of the fight.
       jumping.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/03/titan_02.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/03/titan_02.jpg">
     </td>
   </tr>
 </table>
@@ -93,7 +93,7 @@ The **MT** will take hate at the start of the fight.
       jumped.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/03/titan_03.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/03/titan_03.jpg">
     </td>
   </tr>
   <tr>
@@ -105,8 +105,8 @@ The **MT** will take hate at the start of the fight.
       knocked back into the hole.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/03/titan_04.jpg">
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/03/titan_knockback.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/03/titan_04.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/03/titan_knockback.jpg">
     </td>
   </tr>
   <tr>
@@ -115,7 +115,7 @@ The **MT** will take hate at the start of the fight.
       <p>This cannot be nullified with <em>Arm's Length/Surecast</em>.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/03/titan_05.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/03/titan_05.jpg">
     </td>
   </tr>
   <tr>
@@ -129,7 +129,7 @@ The **MT** will take hate at the start of the fight.
       <p><b>Gaoled players need to dodge this <em>Landslide</em>.</b></p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/03/titan_06.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/03/titan_06.jpg">
     </td>
   </tr>
   <tr>
@@ -141,7 +141,7 @@ The **MT** will take hate at the start of the fight.
       explodes as a sludge puddle will be left behind.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/03/titan_07.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/03/titan_07.jpg">
     </td>
   </tr>
   <tr>
@@ -157,7 +157,7 @@ The **MT** will take hate at the start of the fight.
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/03/titan_08.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/03/titan_08.jpg">
     </td>
   </tr>
 </table>
@@ -175,7 +175,7 @@ The **MT** will take hate at the start of the fight.
       bear against thy kind!"</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/03/titan_09.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/03/titan_09.jpg">
     </td>
   </tr>
   <tr>
@@ -183,7 +183,7 @@ The **MT** will take hate at the start of the fight.
       <p><b>10.</b> Second set of <em>Weight of the Lands</em>.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/03/titan_10.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/03/titan_10.jpg">
     </td>
   </tr>
   <tr>
@@ -195,7 +195,7 @@ The **MT** will take hate at the start of the fight.
       second.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/03/titan_11.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/03/titan_11.jpg">
     </td>
   </tr>
   <tr>
@@ -208,7 +208,7 @@ The **MT** will take hate at the start of the fight.
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/03/titan_12.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/03/titan_12.jpg">
     </td>
   </tr>
 </table>
@@ -226,7 +226,7 @@ The **MT** will take hate at the start of the fight.
       lethal <em>Geocrush</em> damage, and the arena shrinks again.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/03/titan_13.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/03/titan_13.jpg">
     </td>
   </tr>
   <tr>
@@ -239,7 +239,7 @@ The **MT** will take hate at the start of the fight.
       wiping the raid.)</em></p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/03/titan_14.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/03/titan_14.jpg">
     </td>
   </tr>
   <tr>
@@ -249,7 +249,7 @@ The **MT** will take hate at the start of the fight.
       follow-up set.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/03/titan_15.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/03/titan_15.jpg">
     </td>
   </tr>
   <tr>
@@ -257,7 +257,7 @@ The **MT** will take hate at the start of the fight.
       <p><b>16.</b> Second set of (untelegraphed) Landslides.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/03/titan_16.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/03/titan_16.jpg">
     </td>
   </tr>
   <tr>
@@ -271,7 +271,7 @@ The **MT** will take hate at the start of the fight.
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/03/titan_17.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/03/titan_17.jpg">
     </td>
   </tr>
   <tr>
@@ -283,7 +283,7 @@ The **MT** will take hate at the start of the fight.
       rotate clockwise away from Titan.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/03/titan_18.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/03/titan_18.jpg">
     </td>
   </tr>
   <tr>
@@ -291,7 +291,7 @@ The **MT** will take hate at the start of the fight.
       <p><b>19.</b> Second set of Weight of the Land.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/03/titan_19.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/03/titan_19.jpg">
     </td>
   </tr>
   <tr>
@@ -301,7 +301,7 @@ The **MT** will take hate at the start of the fight.
       <p>Keep running and dodge into the first set of Landslides.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/03/titan_20.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/03/titan_20.jpg">
     </td>
   </tr>
   <tr>
@@ -309,7 +309,7 @@ The **MT** will take hate at the start of the fight.
       <p><b>21.</b> Second set of Landslides.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/03/titan_21.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/03/titan_21.jpg">
     </td>
   </tr>
   <tr>
@@ -320,7 +320,7 @@ The **MT** will take hate at the start of the fight.
       <p><em>(Most groups will kill Titan by this point.)</em></p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/03/titan_22.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/03/titan_22.jpg">
     </td>
   </tr>
   <tr>
@@ -328,7 +328,7 @@ The **MT** will take hate at the start of the fight.
       <p><b>23.</b> First set of Weight of the Lands.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/03/titan_23.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/03/titan_23.jpg">
     </td>
   </tr>
   <tr>
@@ -336,7 +336,7 @@ The **MT** will take hate at the start of the fight.
       <p><b>24.</b> Second set of Weight of the Lands.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/03/titan_24.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/03/titan_24.jpg">
     </td>
   </tr>
   <tr>
@@ -347,7 +347,7 @@ The **MT** will take hate at the start of the fight.
       (Earthern Fury).</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/03/titan_25.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/03/titan_25.jpg">
     </td>
   </tr>
 </table>

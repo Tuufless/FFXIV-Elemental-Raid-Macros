@@ -82,7 +82,7 @@ the second loop.
       <p>Make sure to point Twintania's <em>Plummet</em> away from the party.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/04/adds_01.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/04/adds_01.jpg">
     </td>
   </tr>
   <tr>
@@ -96,7 +96,7 @@ the second loop.
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/04/adds_02.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/04/adds_02.jpg">
     </td>
   </tr>
   <tr>
@@ -121,7 +121,7 @@ the second loop.
       the top-right Neurolink.)</em></p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/04/adds_03.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/04/adds_03.jpg">
     </td>
   </tr>
   <tr>
@@ -136,7 +136,7 @@ the second loop.
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/04/adds_04.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/04/adds_04.jpg">
     </td>
   </tr>
   <tr>
@@ -145,7 +145,7 @@ the second loop.
       <p>The player at the back then enters their Neurolink to resolve Hatch.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/04/adds_05.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/04/adds_05.jpg">
     </td>
   </tr>
   <tr>
@@ -155,7 +155,7 @@ the second loop.
       <em>Iron Chariot</em>.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/04/adds_06a.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/04/adds_06a.jpg">
     </td>
   </tr>
 </table>
@@ -170,21 +170,21 @@ the *Lunar Dynamo*.
   <tr>
     <td width="50%">
       <p><em>Lunar Dynamo (In or outrange)</em></p>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/04/adds_06a.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/04/adds_06a.jpg">
     </td>
     <td>
       <p><em>Iron Chariot (Out)</em></p>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/04/adds_06b.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/04/adds_06b.jpg">
     </td>
   </tr>
   <tr>
     <td>
       <p><em>Raven's Dive (Spread)</em></p>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/04/adds_06c.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/04/adds_06c.jpg">
     </td>
     <td>
       <p><em>Thermionic Beam (Stack)</em></p>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/04/adds_06d.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/04/adds_06d.jpg">
     </td>
   </tr>
 </table>
@@ -202,7 +202,7 @@ having everyone stack together in time.</p></div>
       <p>Spread out in the same directions as the Raven's Dive spread.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/04/adds_07.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/04/adds_07.jpg">
     </td>
   </tr>
   <tr>
@@ -217,7 +217,7 @@ having everyone stack together in time.</p></div>
       Twintania stays "west" and Nael stays "east")</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/04/adds_08.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/04/adds_08.jpg">
     </td>
   </tr>
 </table>

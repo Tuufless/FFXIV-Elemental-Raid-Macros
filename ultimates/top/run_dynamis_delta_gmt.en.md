@@ -58,7 +58,7 @@ Tethers appear, splitting the party up into two groups:
       D2+D4</em></p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/B/run_dynamis_delta_gmt_01.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/top/B/run_dynamis_delta_gmt_01.jpg">
     </td>
   </tr>
 </table>
@@ -93,10 +93,10 @@ This is the part that distinguishes this strat from Awk:
   </tr>
   <tr>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/B/run_dynamis_delta_gmt_02a.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/top/B/run_dynamis_delta_gmt_02a.jpg">
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/B/run_dynamis_delta_gmt_02b.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/top/B/run_dynamis_delta_gmt_02b.jpg">
     </td>
   </tr>
   <tr>
@@ -133,7 +133,7 @@ fairly naturally.
       Beetle Omega, and the short side at Final Omega.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/B/run_dynamis_delta_gmt_03.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/top/B/run_dynamis_delta_gmt_03.jpg">
     </td>
   </tr>
   <tr>
@@ -141,7 +141,7 @@ fairly naturally.
       <p><b>4.</b> The spinning arms appear around the arena.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/B/run_dynamis_delta_gmt_04.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/top/B/run_dynamis_delta_gmt_04.jpg">
     </td>
   </tr>
   <tr>
@@ -158,7 +158,7 @@ fairly naturally.
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/B/run_dynamis_delta_gmt_05.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/top/B/run_dynamis_delta_gmt_05.jpg">
     </td>
   </tr>
 </table>
@@ -179,7 +179,7 @@ on their tethers, with each tether group having different responsibilities.
       <p>The Omega-M clone hits one of the two closest players with Beyond
       Defense.</p></td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/B/run_dynamis_delta_gmt_06.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/top/B/run_dynamis_delta_gmt_06.jpg">
     </td>
   </tr>
   <tr>
@@ -193,7 +193,7 @@ on their tethers, with each tether group having different responsibilities.
       <p>The player hit by Beyond Defense stands somewhere within this
       corridor, away from the Pile Pitch stack.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/B/run_dynamis_delta_gmt_07.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/B/run_dynamis_delta_gmt_07.jpg"></td>
   </tr>
 </table>
 
@@ -261,7 +261,7 @@ pair break (this is reversed in Sfia's GMT group).
   </tr>
   <tr>
     <td colspan="2">
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/B/run_dynamis_delta_gmt_08.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/top/B/run_dynamis_delta_gmt_08.jpg">
     </td>
   </tr>
 </table>
@@ -276,7 +276,7 @@ and Hello, Distant World.
       timer reaches 2 seconds</b>.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/B/run_dynamis_delta_gmt_09.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/top/B/run_dynamis_delta_gmt_09.jpg">
     </td>
   </tr>
 </table>

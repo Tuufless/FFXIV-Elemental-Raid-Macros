@@ -81,7 +81,7 @@ The **ST** will take hate at the start of the fight.
       and takes over.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/02/ifrit_01.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/02/ifrit_01.jpg">
     </td>
   </tr>
 </table>
@@ -109,7 +109,7 @@ This is Ifrit's major mechanic, and where we will wake Ifrit.
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/02/ifrit_02.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/02/ifrit_02.jpg">
     </td>
   </tr>
   <tr>
@@ -127,7 +127,7 @@ This is Ifrit's major mechanic, and where we will wake Ifrit.
         </li>
       </ul>
     </td>
-	<td><img src="{{site.baseurl}}/assets/images/ultimates/uwu/02/ifrit_03.jpg"></td>
+	<td><img src="{{site.baseurl}}/images/ultimates/uwu/02/ifrit_03.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -155,7 +155,7 @@ This is Ifrit's major mechanic, and where we will wake Ifrit.
       position for dodging Ifrit's dashes later.</b></p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/02/ifrit_04.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/02/ifrit_04.jpg">
     </td>
   </tr>
 </table>
@@ -187,7 +187,7 @@ Ifrit will also start glowing **blue** (which will be important later).
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/02/ifrit_05.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/02/ifrit_05.jpg">
     </td>
   </tr>
   <tr>
@@ -198,7 +198,7 @@ Ifrit will also start glowing **blue** (which will be important later).
       end up directly opposite the party.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/02/ifrit_06.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/02/ifrit_06.jpg">
     </td>
   </tr>
   <tr>
@@ -208,7 +208,7 @@ Ifrit will also start glowing **blue** (which will be important later).
       <p>These dashes will <em>always</em> happen along the cardinal directions.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/02/ifrit_07.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/02/ifrit_07.jpg">
     </td>
   </tr>
   <tr>
@@ -225,7 +225,7 @@ Ifrit will also start glowing **blue** (which will be important later).
       Crush</em>, which should be taken as a 6-man stack.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/02/ifrit_08.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/02/ifrit_08.jpg">
     </td>
   </tr>
 </table>
@@ -259,7 +259,7 @@ The four Ifrits will **dash in the same order the Nails were destroyed**.
       the party will be moving twice.)</em></p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/02/ifrit_09.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/02/ifrit_09.jpg">
     </td>
   </tr>
   <tr>
@@ -268,7 +268,7 @@ The four Ifrits will **dash in the same order the Nails were destroyed**.
       <p>Move into this area right after the dash happens.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/02/ifrit_10.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/02/ifrit_10.jpg">
     </td>
   </tr>
   <tr>
@@ -277,7 +277,7 @@ The four Ifrits will **dash in the same order the Nails were destroyed**.
       <p>Move into this area right after the dash <b>if you need to</b>.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/02/ifrit_11.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/02/ifrit_11.jpg">
     </td>
   </tr>
   <tr>
@@ -286,7 +286,7 @@ The four Ifrits will **dash in the same order the Nails were destroyed**.
       <p>The party should not need to move at this point.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/02/ifrit_12.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/02/ifrit_12.jpg">
     </td>
   </tr>
   <tr>
@@ -295,7 +295,7 @@ The four Ifrits will **dash in the same order the Nails were destroyed**.
       <p>The party should not need to move at this point.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/02/ifrit_13.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/02/ifrit_13.jpg">
     </td>
   </tr>
   <tr>
@@ -306,7 +306,7 @@ The four Ifrits will **dash in the same order the Nails were destroyed**.
       steps, depending on where the real Ifrit was.)</em></p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/02/ifrit_14.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/02/ifrit_14.jpg">
     </td>
   </tr>
 </table>
@@ -328,7 +328,7 @@ The four Ifrits will **dash in the same order the Nails were destroyed**.
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/02/ifrit_15.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/02/ifrit_15.jpg">
     </td>
   </tr>
   <tr>
@@ -340,7 +340,7 @@ The four Ifrits will **dash in the same order the Nails were destroyed**.
       </ul>
     </td>
   	<td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/02/ifrit_16.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/02/ifrit_16.jpg">
     </td>
   </tr>
   <tr>
@@ -352,7 +352,7 @@ The four Ifrits will **dash in the same order the Nails were destroyed**.
       (<em>Hellfire</em>).</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/02/ifrit_17.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/02/ifrit_17.jpg">
     </td>
   </tr>
 </table>
@@ -374,7 +374,7 @@ will give a player the *Beyond Limits* buff.
       <p>Stand <b>all the way to the edge</b> to avoid dying to <em>Geocrush</em>.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/02/ifrit_18.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/02/ifrit_18.jpg">
     </td>
   </tr>
 </table>

@@ -48,7 +48,7 @@ actually happen in-game.
   </tr>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/assets/images/ultimates/dsr/03/debuffs/high_jump.png">
+      <img src="{{site.baseurl}}/images/ultimates/dsr/03/debuffs/high_jump.png">
     </td>
     <td>
       <p><b>High Jump Target</b></p>
@@ -58,7 +58,7 @@ actually happen in-game.
   </tr>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/assets/images/ultimates/dsr/03/debuffs/spineshatter_dive.png">
+      <img src="{{site.baseurl}}/images/ultimates/dsr/03/debuffs/spineshatter_dive.png">
     </td>
     <td>
       <p><b>Spineshatter Dive Target</b></p>
@@ -70,7 +70,7 @@ actually happen in-game.
   </tr>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/assets/images/ultimates/dsr/03/debuffs/elusive_jump.png">
+      <img src="{{site.baseurl}}/images/ultimates/dsr/03/debuffs/elusive_jump.png">
     </td>
     <td>
       <p><b>Elusive Jump Target</b></p>
@@ -93,7 +93,7 @@ actually happen in-game.
       </ul>
       <p>These will be your positions <b>if your group does not get arrows</b>.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/03/nidhogg_01.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/03/nidhogg_01.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -107,7 +107,7 @@ actually happen in-game.
       </ul>
       <p>These are now the final player positions for the Wyrmhole phase.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/03/nidhogg_02.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/03/nidhogg_02.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -123,7 +123,7 @@ actually happen in-game.
         <li><b>2s:</b> Stack north</li><li><b>3s:</b> Stack north</li>
       </ul>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/03/nidhogg_03.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/03/nidhogg_03.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -136,7 +136,7 @@ actually happen in-game.
       <p><em>(The diagram illustrates "<b>Gnash</b> and Lash", so players stay
       out first.)</em></p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/03/nidhogg_04.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/03/nidhogg_04.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -149,7 +149,7 @@ actually happen in-game.
       <p><em>(The diagram illustrates "Gnash and <b>Lash</b>", so players move
       in next.)</em></p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/03/nidhogg_05.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/03/nidhogg_05.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -159,7 +159,7 @@ actually happen in-game.
         <li><b>3s:</b> Bait Geirskoguls outside.</li>
       </ul>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/03/nidhogg_06.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/03/nidhogg_06.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -172,7 +172,7 @@ actually happen in-game.
         <li><b>3s:</b> Dodge Geirskoguls.</li>
       </ul>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/03/nidhogg_07.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/03/nidhogg_07.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -181,7 +181,7 @@ actually happen in-game.
         <li><b>1s:</b> Bait Geirskoguls outside.</li>
       </ul>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/03/nidhogg_08.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/03/nidhogg_08.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -194,7 +194,7 @@ actually happen in-game.
         <li><b>3s:</b> Place towers (face east if you have an arrow!).</li>
       </ul>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/03/nidhogg_09.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/03/nidhogg_09.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -208,7 +208,7 @@ actually happen in-game.
       <p><em>(The diagram illustrates "<b>Lash</b> and Gnash", so players move
       in first.)</em></p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/03/nidhogg_10.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/03/nidhogg_10.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -222,7 +222,7 @@ actually happen in-game.
       <p><em>(The diagram illustrates "Lash and <b>Gnash</b>", so players move
       out next.)</em></p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/03/nidhogg_11.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/03/nidhogg_11.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -232,7 +232,7 @@ actually happen in-game.
         <li><b>2s:</b> Bait east/west Geirskoguls outside.</li>
       </ul>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/03/nidhogg_12.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/03/nidhogg_12.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -244,7 +244,7 @@ actually happen in-game.
         <li><b>2s:</b> Dodge Geirskogul.</li>
       </ul>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/03/nidhogg_13.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/03/nidhogg_13.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -252,7 +252,7 @@ actually happen in-game.
       <b>random</b> party member and cast Drachenlance.</p>
       <p>Dodge or outrange this, and prepare for 4x towers.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/03/nidhogg_14.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/03/nidhogg_14.jpg"></td>
   </tr>
 </table>
 
@@ -283,7 +283,7 @@ The easiest way to resolve this is to preposition in pairs at each tower:
         </li>
       </ul>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/03/4x_towers_example_starting_positions.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/03/4x_towers_example_starting_positions.jpg"></td>
   </tr>
 </table>
 
@@ -333,7 +333,7 @@ The easiest way to resolve this is to preposition in pairs at each tower:
         </li>
       </ul>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/03/4x_towers_example_01.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/03/4x_towers_example_01.jpg"></td>
   </tr>
 </table>
 
@@ -376,7 +376,7 @@ The easiest way to resolve this is to preposition in pairs at each tower:
         </li>
       </ul>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/03/4x_towers_example_02.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/03/4x_towers_example_02.jpg"></td>
   </tr>
 </table>
 </details>
@@ -420,7 +420,7 @@ The easiest way to resolve this is to preposition in pairs at each tower:
         </li>
       </ul>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/03/4x_towers_example_03.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/03/4x_towers_example_03.jpg"></td>
   </tr>
 </table>
 </details>
@@ -441,7 +441,7 @@ resolved.
         <b>Note:</b> Having a tether does not necessarily mean you are not baiting <em>Geirskogul</em>, as the tether could have come from a different clone.
       </div>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/03/soul_tethers_01.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/03/soul_tethers_01.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -456,7 +456,7 @@ resolved.
         <b>Note:</b> If you are tethered to <b>your own clone</b>, it will be difficult for the ST to find and take your tether. Since you are not baiting a Gierskogul, move to the side to stretch your tether to make it easier for the ST.
       </div>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/03/soul_tethers_02.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/03/soul_tethers_02.jpg"></td>
   </tr>
 </table>
 

@@ -28,7 +28,7 @@ and the Fireball stack. The phase lasts until Twintania is pushed below 75% HP.
       members (except for the tanks) have a clear path to Twintania's rear.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/01/twintania_1_1.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/01/twintania_1_1.jpg">
     </td>
   </tr>
   <tr>
@@ -50,7 +50,7 @@ and the Fireball stack. The phase lasts until Twintania is pushed below 75% HP.
       <p><b>Do not</b> use debuffs like <em>Reprisal, Feint, or Addle</em>.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/01/twintania_1_2.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/01/twintania_1_2.jpg">
     </td>
   </tr>
   <tr>
@@ -63,7 +63,7 @@ and the Fireball stack. The phase lasts until Twintania is pushed below 75% HP.
       seeing the second Fireball.)</em></p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/01/twintania_1_3.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/01/twintania_1_3.jpg">
     </td>
   </tr>
 </table>
@@ -83,7 +83,7 @@ The phase ends when Twintania is pushed below 45% HP.
       <p><b>4.</b> Pull Twintania clockwise to the next marker.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/01/twintania_2_1.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/01/twintania_2_1.jpg">
     </td>
   </tr>
   <tr>
@@ -97,7 +97,7 @@ The phase ends when Twintania is pushed below 45% HP.
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/01/twintania_2_2.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/01/twintania_2_2.jpg">
     </td>
   </tr>
   <tr>
@@ -109,7 +109,7 @@ The phase ends when Twintania is pushed below 45% HP.
       Neurolink to avoid getting hit by the black orb.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/01/twintania_2_3.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/01/twintania_2_3.jpg">
     </td>
   </tr>
   <tr>
@@ -131,7 +131,7 @@ The phase ends when Twintania is pushed below 45% HP.
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/01/twintania_2_4.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/01/twintania_2_4.jpg">
     </td>
   </tr>
   <tr>
@@ -143,7 +143,7 @@ The phase ends when Twintania is pushed below 45% HP.
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/01/twintania_2_5.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/01/twintania_2_5.jpg">
     </td>
   </tr>
   <tr>
@@ -152,7 +152,7 @@ The phase ends when Twintania is pushed below 45% HP.
       <p>This time, the DPS needs to preposition <b>outside</b> the Neurolink.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/01/twintania_2_6.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/01/twintania_2_6.jpg">
     </td>
   </tr>
   <tr>
@@ -166,14 +166,14 @@ The phase ends when Twintania is pushed below 45% HP.
       the <em>Twisters</em> are skipped.)</em></p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/01/twintania_2_7.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/01/twintania_2_7.jpg">
     </td>
   </tr>
   <tr>
     <td>
       <p><b>11. </b>Twintania then <em>Plummets</em> before restarting the loop
       from the first set of baited <em>Liquid Hells</em>.</p></td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/ucob/01/twintania_2_8.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/ucob/01/twintania_2_8.jpg"></td>
   </tr>
 </table>
 
@@ -189,7 +189,7 @@ This phase is the culmination of all the mechanics introduced thus far.
       <p><b>11. </b>Pull Twintania clockwise to the next marker.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/01/twintania_3_1.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/01/twintania_3_1.jpg">
     </td>
   </tr>
   <tr>
@@ -202,7 +202,7 @@ This phase is the culmination of all the mechanics introduced thus far.
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/01/twintania_3_2.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/01/twintania_3_2.jpg">
     </td>
   </tr>
   <tr>
@@ -214,7 +214,7 @@ This phase is the culmination of all the mechanics introduced thus far.
       the two Neurolinks to avoid bumping into the black orbs.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/01/twintania_3_3.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/01/twintania_3_3.jpg">
     </td>
   </tr>
   <tr>
@@ -223,7 +223,7 @@ This phase is the culmination of all the mechanics introduced thus far.
       Hypersensitivity</em> debuff, the two targeted DPS must go into separate
       Neurolinks.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/ucob/01/twintania_3_4.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/ucob/01/twintania_3_4.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -244,7 +244,7 @@ This phase is the culmination of all the mechanics introduced thus far.
       <em>Fireball</em> target).</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/01/twintania_3_5.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/01/twintania_3_5.jpg">
     </td>
   </tr>
   <tr>
@@ -256,7 +256,7 @@ This phase is the culmination of all the mechanics introduced thus far.
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/01/twintania_3_6.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/01/twintania_3_6.jpg">
     </td>
   </tr>
   <tr>
@@ -266,7 +266,7 @@ This phase is the culmination of all the mechanics introduced thus far.
       damage.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/01/twintania_3_7.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/01/twintania_3_7.jpg">
     </td>
   </tr>
   <tr>
@@ -277,7 +277,7 @@ This phase is the culmination of all the mechanics introduced thus far.
       their Neurolinks and not enter.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/01/twintania_3_8.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/01/twintania_3_8.jpg">
     </td>
   </tr>
   <tr>
@@ -288,7 +288,7 @@ This phase is the culmination of all the mechanics introduced thus far.
       entering their Neurolinks to resolve <em>Hatch</em>.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/01/twintania_3_9.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/01/twintania_3_9.jpg">
     </td>
   </tr>
   <tr>
@@ -299,7 +299,7 @@ This phase is the culmination of all the mechanics introduced thus far.
       Hatches.)</em></p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/01/twintania_3_10.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/01/twintania_3_10.jpg">
     </td>
   </tr>
 </table>
@@ -316,7 +316,7 @@ This phase is the culmination of all the mechanics introduced thus far.
       <p>The party should stack on the south waymark. Optionally, the tanks may
       stand on the north side instead.</p></td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/01/transition_01.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/01/transition_01.jpg">
     </td>
   </tr>
   <tr>
@@ -326,7 +326,7 @@ This phase is the culmination of all the mechanics introduced thus far.
       the edge.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/01/transition_02.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/01/transition_02.jpg">
     </td>
   </tr>
   <tr>
@@ -337,7 +337,7 @@ This phase is the culmination of all the mechanics introduced thus far.
       which should not overlap.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/01/transition_03.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/01/transition_03.jpg">
     </td>
   </tr>
   <tr>
@@ -350,7 +350,7 @@ This phase is the culmination of all the mechanics introduced thus far.
       slices for this second set.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/01/transition_04.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/01/transition_04.jpg">
     </td>
   </tr>
   <tr>
@@ -365,7 +365,7 @@ This phase is the culmination of all the mechanics introduced thus far.
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/01/transition_05.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/01/transition_05.jpg">
     </td>
   </tr>
 </table>

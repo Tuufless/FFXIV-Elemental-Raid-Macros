@@ -19,14 +19,14 @@ permalink: /ultimates/top/02_omega_mf/
       <p>Stay near to your assigned boss, and away from the center of the arena
       to ensure you get the correct debuff.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/02/omega_mf_01.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/02/omega_mf_01.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>2.</b> Omega-M and Omega-F will each target their tank with <em>Solar
       Ray</em>, an AoE tankbuster.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/02/omega_mf_02.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/02/omega_mf_02.jpg"></td>
   </tr>
 </table>
 
@@ -55,8 +55,8 @@ the Playstation symbols. The party will also get either *Mid Glitch*, or
 <table>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/02/debuffs/mid_glitch.png">
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/02/debuffs/remote_glitch.png">
+      <img src="{{site.baseurl}}/images/ultimates/top/02/debuffs/mid_glitch.png">
+      <img src="{{site.baseurl}}/images/ultimates/top/02/debuffs/remote_glitch.png">
     </td>
     <td>
       <p>Mid Glitch and Remote Glitch are debuffs that will apply a
@@ -74,7 +74,7 @@ the Playstation symbols. The party will also get either *Mid Glitch*, or
   </tr>
   <tr>
     <td colspan="2" style="text-align:center">
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/02/glitch_ranges.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/top/02/glitch_ranges.jpg">
     </td>
   </tr>
 </table>
@@ -92,7 +92,7 @@ intercardinal position.
         <li><b>N:</b> Healer > Tank > Melee > Ranged <b>:S</b></li>
       </ul>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/02/party_synergy_01.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/02/party_synergy_01.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -104,7 +104,7 @@ intercardinal position.
       later.</b></p>
       <p>The symbols will disappear.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/02/party_synergy_02.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/02/party_synergy_02.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -119,7 +119,7 @@ intercardinal position.
       <p><em>(You do not need to consider the Mid/Remote Glitch tethers at this
       point.)</em></p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/02/party_synergy_03.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/02/party_synergy_03.jpg"></td>
   </tr>
 </table>
 
@@ -130,21 +130,21 @@ pair. Note how the markers demarcate the boundary of Omega-F's AoE.
   <tr>
     <td width="50%">
       <p><b>M Sword, F Blade-legs:</b></p>
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/02/party_synergy_03d.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/top/02/party_synergy_03d.jpg">
     </td>
     <td>
       <p><b>M Shield, F Blade-legs:</b></p>
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/02/party_synergy_03a.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/top/02/party_synergy_03a.jpg">
     </td>
   </tr>
   <tr>
     <td>
       <p><b>M Sword, F Staff:</b></p>
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/02/party_synergy_03c.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/top/02/party_synergy_03c.jpg">
     </td>
     <td>
       <p><b>M Shield, F Staff:</b></p>
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/02/party_synergy_03b.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/top/02/party_synergy_03b.jpg">
     </td>
   </tr>
 </table>
@@ -167,8 +167,8 @@ After dodging Omega-M/F's AoEs, the party now resolves Mid/Remote Glitch.
       all the intercardinal directions.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/02/party_synergy_04a.jpg">
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/02/party_synergy_04b.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/top/02/party_synergy_04a.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/top/02/party_synergy_04b.jpg">
     </td>
   </tr>
   <tr>
@@ -183,7 +183,7 @@ After dodging Omega-M/F's AoEs, the party now resolves Mid/Remote Glitch.
       <p><em>(In this example, the left side × and □ players both have a stack
       marker. Since □ is further from the eye, the □ players swap sides.)</em></p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/02/party_synergy_05.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/02/party_synergy_05.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -200,8 +200,8 @@ After dodging Omega-M/F's AoEs, the party now resolves Mid/Remote Glitch.
         </li>
       </ul></td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/02/party_synergy_06a.jpg">
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/02/party_synergy_06b.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/top/02/party_synergy_06a.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/top/02/party_synergy_06b.jpg">
     </td>
   </tr>
 </table>
@@ -245,7 +245,7 @@ mechanics at the party to resolve.
       <p>Two clones at opposite intercardinal positions will each tether a
       random (non-tank) player.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/02/limitless_synergy_01.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/02/limitless_synergy_01.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -255,14 +255,14 @@ mechanics at the party to resolve.
         <li><b>ST:</b> Take the south tether.</li>
       </ul>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/02/limitless_synergy_02.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/02/limitless_synergy_02.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>9.</b> When the Sagittarius Arrow's telegraph appears, dodge it, by
       moving into the boss's target circle.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/02/limitless_synergy_03.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/02/limitless_synergy_03.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -273,7 +273,7 @@ mechanics at the party to resolve.
         <li><b>Everyone else:</b> Stand in the middle of the boss's hitbox.</li>
       </ul>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/02/limitless_synergy_04.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/02/limitless_synergy_04.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -290,7 +290,7 @@ mechanics at the party to resolve.
       placing three Flare markers on three random players.</p>
       <p><b>Ignore the Flares, and stack together in the middle</b>.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/02/limitless_synergy_05.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/02/limitless_synergy_05.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -300,7 +300,7 @@ mechanics at the party to resolve.
       Meteor</em>.</p>
       <p>This will need to be <em>heavily</em> mitigated.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/02/limitless_synergy_06.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/02/limitless_synergy_06.jpg"></td>
   </tr>
 </table>
 
@@ -366,7 +366,7 @@ the hard enrage.
       switches sides (two people on each side adjusts).</p>
       <p><em>(For completeness, the chance nobody swaps is 8/35, while the chance one person on each side swaps is 24/35.)</em></p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/02/two_pairs.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/02/two_pairs.jpg"></td>
   </tr>
 </table>
 </details>
@@ -398,7 +398,7 @@ the hard enrage.
       <p>Done correctly, there should still be some space between Omega-M's 
       targeting circle, and the cleaves.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/02/limitless_synergy_faq.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/02/limitless_synergy_faq.jpg"></td>
   </tr>
 </table>
 </details>
@@ -423,7 +423,7 @@ the hard enrage.
         D3 in the diagram on the right- they are too far from Omega-M).</li>
       </ul>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/02/firewall_faq.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/02/firewall_faq.jpg"></td>
   </tr>
 </table>
 </details>

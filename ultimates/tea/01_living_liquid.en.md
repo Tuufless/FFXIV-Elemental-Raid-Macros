@@ -82,7 +82,7 @@ HP% difference between Living Liquid and the Liquid Hand.</p>
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/01/living_liquid_01.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/01/living_liquid_01.jpg">
     </td>
   </tr>
   <tr>
@@ -96,7 +96,7 @@ HP% difference between Living Liquid and the Liquid Hand.</p>
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/01/living_liquid_02.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/01/living_liquid_02.jpg">
     </td>
   </tr>
 </table>
@@ -174,7 +174,7 @@ one).</p>
       Hand is stacked on top of Living Liquid.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/01/living_liquid_03.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/01/living_liquid_03.jpg">
     </td>
   </tr>
   <tr>
@@ -188,7 +188,7 @@ one).</p>
       <p>The Liquid Hand will also use <em>Hand of Pain</em> here. Living
       Liquid and the Liquid Hand's HP need to be kept within 5% HP of each
       another for the party to survive this.</p></td>
-	<td><img src="{{site.baseurl}}/assets/images/ultimates/tea/01/living_liquid_04.jpg"></td>
+	<td><img src="{{site.baseurl}}/images/ultimates/tea/01/living_liquid_04.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -200,7 +200,7 @@ one).</p>
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/01/living_liquid_05.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/01/living_liquid_05.jpg">
     </td>
   </tr>
   <tr>
@@ -212,7 +212,7 @@ one).</p>
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/01/living_liquid_06.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/01/living_liquid_06.jpg">
     </td>
   </tr>
   <tr>
@@ -225,7 +225,7 @@ one).</p>
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/01/living_liquid_07.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/01/living_liquid_07.jpg">
     </td>
   </tr>
 </table>
@@ -272,7 +272,7 @@ one).</p>
       <p><b>8.</b> Party stacks "north/south" to bait the first set of
       telegraphed <em>Protean Waves</em> from Living Liquid.</p></td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/01/living_liquid_08.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/01/living_liquid_08.jpg">
     </td>
   </tr>
   <tr>
@@ -284,7 +284,7 @@ one).</p>
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/01/living_liquid_09.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/01/living_liquid_09.jpg">
     </td>
   </tr>
   <tr>
@@ -298,7 +298,7 @@ one).</p>
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/01/living_liquid_10.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/01/living_liquid_10.jpg">
     </td>
   </tr>
   <tr>
@@ -309,7 +309,7 @@ one).</p>
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/01/living_liquid_11.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/01/living_liquid_11.jpg">
     </td>
   </tr>
 </table>
@@ -342,7 +342,7 @@ This is the final phase of Living Liquid, and combines both Living Liquid's
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/01/living_liquid_12.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/01/living_liquid_12.jpg">
     </td>
   </tr>
   <tr>
@@ -356,7 +356,7 @@ This is the final phase of Living Liquid, and combines both Living Liquid's
       kill it before the next <em>Hand of Pain</em> resolves.</div>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/01/living_liquid_13.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/01/living_liquid_13.jpg">
     </td>
   </tr>
   <tr>
@@ -374,7 +374,7 @@ This is the final phase of Living Liquid, and combines both Living Liquid's
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/01/living_liquid_14.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/01/living_liquid_14.jpg">
     </td>
   </tr>
   <tr>
@@ -389,7 +389,7 @@ This is the final phase of Living Liquid, and combines both Living Liquid's
       H2 or D4.)</em></p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/01/living_liquid_15.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/01/living_liquid_15.jpg">
     </td>
   </tr>
   <tr>
@@ -398,7 +398,7 @@ This is the final phase of Living Liquid, and combines both Living Liquid's
       Liquid.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/01/living_liquid_16.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/01/living_liquid_16.jpg">
     </td>
   </tr>
   <tr>
@@ -411,7 +411,7 @@ This is the final phase of Living Liquid, and combines both Living Liquid's
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/01/living_liquid_17.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/01/living_liquid_17.jpg">
     </td>
   </tr>
   <tr>
@@ -423,7 +423,7 @@ This is the final phase of Living Liquid, and combines both Living Liquid's
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/01/living_liquid_18.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/01/living_liquid_18.jpg">
     </td>
   </tr>
   <tr>
@@ -437,7 +437,7 @@ This is the final phase of Living Liquid, and combines both Living Liquid's
       enrage.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/01/living_liquid_19.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/01/living_liquid_19.jpg">
     </td>
   </tr>
 </table>

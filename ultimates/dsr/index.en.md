@@ -32,8 +32,8 @@ Looking towards the future:
 - Dragonsong's Reprise will not be outgeared until **i730** gear is available.
 - Relic weapons (when they arrive) will have their substats capped at **269**.
 
-![]({{site.baseurl}}/assets/images/ultimates/dsr/dsr_cheatsheet.jpg)
-*(Full-size image: [English]({{site.baseurl}}/assets/images/ultimates/dsr/dsr_cheatsheet.jpg), [日本語]({{site.baseurl}}/assets/images/ultimates/dsr/dsr_cheatsheet_jp.jpg))*
+![]({{site.baseurl}}/images/ultimates/dsr/dsr_cheatsheet.jpg)
+*(Full-size image: [English]({{site.baseurl}}/images/ultimates/dsr/dsr_cheatsheet.jpg), [日本語]({{site.baseurl}}/images/ultimates/dsr/dsr_cheatsheet_jp.jpg))*
 
 ---
 
@@ -67,14 +67,14 @@ there are two sets of markers and macros to use for this fight.
 ## English
 
 ```
-{% include_relative macros/dsr_1.en.txt %}
+{% include macros/ultimates/dsr_1.en.txt %}
 ```
 
 <details markdown=block>
 <summary>日本語</summary>
 
 ```
-{% include_relative macros/dsr_1.jp.txt %}
+{% include macros/ultimates/dsr_1.jp.txt %}
 ```
 
 </details>
@@ -83,7 +83,7 @@ there are two sets of markers and macros to use for this fight.
 
 All markers are used to bait Hyperdimensional Slashes (black orbs).
 
-![]({{site.baseurl}}/assets/images/ultimates/dsr/markers_1.jpg)
+![]({{site.baseurl}}/images/ultimates/dsr/markers_1.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
@@ -113,14 +113,14 @@ This is the macro for the bulk of the fight.
 ## English
 
 ```
-{% include_relative macros/dsr_2.en.txt %}
+{% include macros/ultimates/dsr_2.en.txt %}
 ```
 
 <details markdown=block>
 <summary>日本語</summary>
 
 ```
-{% include_relative macros/dsr_2.jp.txt %}
+{% include macros/ultimates/dsr_2.jp.txt %}
 ```
 
 </details>
@@ -137,7 +137,7 @@ In addition, the intercardinal square markers indicate:
 - Where to stand to bait the towers in Nidhogg.
 - The boundary of Hot Tail in the Double Dragons phase.
 
-![]({{site.baseurl}}/assets/images/ultimates/dsr/markers_2.jpg)
+![]({{site.baseurl}}/images/ultimates/dsr/markers_2.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 

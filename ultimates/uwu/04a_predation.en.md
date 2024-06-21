@@ -55,7 +55,7 @@ accidentally take hate from the MT.
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04a/predation_01.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/04a/predation_01.jpg">
     </td>
   </tr>
   <tr>
@@ -69,7 +69,7 @@ accidentally take hate from the MT.
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04a/predation_02.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/04a/predation_02.jpg">
     </td>
   </tr>
   <tr>
@@ -78,7 +78,7 @@ accidentally take hate from the MT.
       split damage shared by the party.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04a/predation_03.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/04a/predation_03.jpg">
     </td>
   </tr>
 </table>
@@ -124,7 +124,7 @@ get hit by the second afterburn from *Crimson Cyclone*.
 (If Ultima Weapon is on an adjacent intercardinal, be on the half **away** 
 from Ultima Weapon.)
 
-![]({{site.baseurl}}/assets/images/ultimates/uwu/04a/between_runes.jpg)
+![]({{site.baseurl}}/images/ultimates/uwu/04a/between_runes.jpg)
 
 This would ordinarily deal lethal damage to the party, but because the party
 survives the damage with migitations, limit break is generated as a result.
@@ -149,7 +149,7 @@ artificially generate limit break in a consistent manner, which then
       <p>Identify Garuda, and move to the quadrant diagonally opposite.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04a/predation_4a_safe_01.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/04a/predation_4a_safe_01.jpg">
     </td>
   </tr>
   <tr>
@@ -158,7 +158,7 @@ artificially generate limit break in a consistent manner, which then
       <p>Avoid both Ifrit's dash <em>and</em> Titan's first <em>Landslide</em>.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04a/predation_4a_safe_02.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/04a/predation_4a_safe_02.jpg">
     </td>
   </tr>
   <tr>
@@ -181,7 +181,7 @@ artificially generate limit break in a consistent manner, which then
       (as they do not have a tank 90s at this level).</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04a/predation_4a_safe_03.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/04a/predation_4a_safe_03.jpg">
     </td>
   </tr>
   <tr>
@@ -190,7 +190,7 @@ artificially generate limit break in a consistent manner, which then
       <p><em>(Bait and dodge Feather Rains)</em></p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04a/predation_4a_safe_04.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/04a/predation_4a_safe_04.jpg">
     </td>
   </tr>
 </table>
@@ -209,7 +209,7 @@ Observe there are "rune" marks that line the outside the arena- **four runes
 from a cardinal direction** will dodge Ifrit's and Titan's second set of 
 mechanics, which just leaves Garuda and Ultima to manage:
 
-![]({{site.baseurl}}/assets/images/ultimates/uwu/04a/four_runes.jpg)
+![]({{site.baseurl}}/images/ultimates/uwu/04a/four_runes.jpg)
 
 <table>
   <tr>
@@ -219,7 +219,7 @@ mechanics, which just leaves Garuda and Ultima to manage:
       <p>Identify Garuda, and move to the quadrant diagonally opposite.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04a/predation_4_safe_01.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/04a/predation_4_safe_01.jpg">
     </td>
   </tr>
   <tr>
@@ -228,7 +228,7 @@ mechanics, which just leaves Garuda and Ultima to manage:
       <p><em>(Green crosses mark the 4th rune.)</em></p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04a/predation_4_safe_02.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/04a/predation_4_safe_02.jpg">
     </td>
   </tr>
   <tr>
@@ -237,7 +237,7 @@ mechanics, which just leaves Garuda and Ultima to manage:
       <p><em>(Green crosses mark the 4th rune.)</em></p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04a/predation_4_safe_03.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/04a/predation_4_safe_03.jpg">
     </td>
   </tr>
   <tr>
@@ -246,7 +246,7 @@ mechanics, which just leaves Garuda and Ultima to manage:
       <p><em>(Bait and dodge Feather Rains)</em></p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04a/predation_4_safe_04.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/04a/predation_4_safe_04.jpg">
     </td>
   </tr>
 </table>
@@ -261,7 +261,7 @@ mechanics, which just leaves Garuda and Ultima to manage:
       <p>Identify Garuda, and move to the quadrant diagonally opposite.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04a/predation_3_safe_01.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/04a/predation_3_safe_01.jpg">
     </td>
   </tr>
   <tr>
@@ -270,7 +270,7 @@ mechanics, which just leaves Garuda and Ultima to manage:
       <p><em>(Green crosses mark the 4th rune.)</em></p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04a/predation_3_safe_02.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/04a/predation_3_safe_02.jpg">
     </td>
   </tr>
   <tr>
@@ -280,7 +280,7 @@ mechanics, which just leaves Garuda and Ultima to manage:
       <p><em>(Green crosses mark the 4th rune.)</em></p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04a/predation_3_safe_03.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/04a/predation_3_safe_03.jpg">
     </td>
   </tr>
   <tr>
@@ -289,7 +289,7 @@ mechanics, which just leaves Garuda and Ultima to manage:
       <p><em>(Bait and dodge Feather Rains)</em></p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04a/predation_3_safe_04.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/04a/predation_3_safe_04.jpg">
     </td>
   </tr>
 </table>
@@ -305,7 +305,7 @@ mechanics, which just leaves Garuda and Ultima to manage:
       <p>Identify Garuda, and move to the quadrant diagonally opposite.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04a/predation_1_safe_01.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/04a/predation_1_safe_01.jpg">
     </td>
   </tr>
   <tr>
@@ -314,7 +314,7 @@ mechanics, which just leaves Garuda and Ultima to manage:
       <p><em>(Green crosses mark the 4th rune.)</em></p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04a/predation_1_safe_02.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/04a/predation_1_safe_02.jpg">
     </td>
   </tr>
   <tr>
@@ -324,7 +324,7 @@ mechanics, which just leaves Garuda and Ultima to manage:
       <p><em>(Green crosses mark the 4th rune.)</em></p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04a/predation_1_safe_03.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/04a/predation_1_safe_03.jpg">
     </td>
   </tr>
   <tr>
@@ -333,7 +333,7 @@ mechanics, which just leaves Garuda and Ultima to manage:
       <p><em>(Bait and dodge Feather Rains)</em></p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04a/predation_1_safe_04.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/04a/predation_1_safe_04.jpg">
     </td>
   </tr>
 </table>

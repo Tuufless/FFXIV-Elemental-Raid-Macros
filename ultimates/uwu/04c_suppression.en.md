@@ -32,7 +32,7 @@ arena.
       <p><b>Note the <em>Searing Wind</em> has one more pulse left!</b></p>
     </td>
 	<td>
-    <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04c/suppression_01.jpg">
+    <img src="{{site.baseurl}}/images/ultimates/uwu/04c/suppression_01.jpg">
   </td>
   </tr>
   <tr>
@@ -44,7 +44,7 @@ arena.
       </ul>
     </td>
 	<td>
-    <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04c/suppression_02.jpg">
+    <img src="{{site.baseurl}}/images/ultimates/uwu/04c/suppression_02.jpg">
   </td>
   </tr>
   <tr>
@@ -53,7 +53,7 @@ arena.
       <p>Stand near the border and prepare to move out.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04c/suppression_03.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/04c/suppression_03.jpg">
     </td>
   </tr>
   <tr>
@@ -64,7 +64,7 @@ arena.
       stage.)</em></p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04c/suppression_04.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/04c/suppression_04.jpg">
     </td>
   </tr>
   <tr>
@@ -76,7 +76,7 @@ arena.
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04c/suppression_05.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/04c/suppression_05.jpg">
     </td>
   </tr>
   <tr>
@@ -91,7 +91,7 @@ arena.
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04c/suppression_06.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/04c/suppression_06.jpg">
     </td>
   </tr>
   <tr>
@@ -103,7 +103,7 @@ arena.
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04c/suppression_07.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/04c/suppression_07.jpg">
     </td>
   </tr>
   <tr>
@@ -114,7 +114,7 @@ arena.
       Suppression</em>.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04c/suppression_08.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/04c/suppression_08.jpg">
     </td>
   </tr>
 </table>
@@ -136,7 +136,7 @@ This phase is pushed when Ultima Weapon's HP drops below 50%.
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04c/suppression_09.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/04c/suppression_09.jpg">
     </td>
   </tr>
   <tr>
@@ -153,7 +153,7 @@ This phase is pushed when Ultima Weapon's HP drops below 50%.
       identify which role they are.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04c/suppression_10.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/04c/suppression_10.jpg">
     </td>
   </tr>
   <tr>
@@ -173,7 +173,7 @@ This phase is pushed when Ultima Weapon's HP drops below 50%.
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04c/suppression_11.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/04c/suppression_11.jpg">
     </td>
   </tr>
   <tr>
@@ -184,7 +184,7 @@ This phase is pushed when Ultima Weapon's HP drops below 50%.
       <p>These are blocked by the two tanks respectively.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04c/suppression_12.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/04c/suppression_12.jpg">
     </td>
   </tr>
   <tr>
@@ -196,7 +196,7 @@ This phase is pushed when Ultima Weapon's HP drops below 50%.
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04c/suppression_13.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/04c/suppression_13.jpg">
     </td>
   </tr>
   <tr>
@@ -211,7 +211,7 @@ This phase is pushed when Ultima Weapon's HP drops below 50%.
       but there is an additional player removed (the <em>Light Pillar</em>).</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04c/suppression_14.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/04c/suppression_14.jpg">
     </td>
   </tr>
   <tr>
@@ -221,7 +221,7 @@ This phase is pushed when Ultima Weapon's HP drops below 50%.
       <p>All players stack together a little east of the center.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04c/suppression_15.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/04c/suppression_15.jpg">
     </td>
   </tr>
   <tr>
@@ -235,7 +235,7 @@ This phase is pushed when Ultima Weapon's HP drops below 50%.
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04c/suppression_16.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/04c/suppression_16.jpg">
     </td>
   </tr>
   <tr>
@@ -244,7 +244,7 @@ This phase is pushed when Ultima Weapon's HP drops below 50%.
       Ifrit's <em>Flaming Crush</em>.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04c/suppression_17.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/04c/suppression_17.jpg">
     </td>
   </tr>
   <tr>
@@ -258,7 +258,7 @@ This phase is pushed when Ultima Weapon's HP drops below 50%.
       edge.</p>
     </td>
 	<td>
-    <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04c/suppression_18.jpg">
+    <img src="{{site.baseurl}}/images/ultimates/uwu/04c/suppression_18.jpg">
   </td>
   </tr>
 </table>

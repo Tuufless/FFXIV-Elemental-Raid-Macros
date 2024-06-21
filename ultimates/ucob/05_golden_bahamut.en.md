@@ -17,7 +17,7 @@ the *Phoenix's Blessing* buff.
 <table>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/05/phoenix_blessing.png">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/05/phoenix_blessing.png">
     </td>
     <td>
       <p><b>Phoenix's Blessing</b></p>
@@ -114,7 +114,7 @@ Tanks will also need to plan out their cooldowns for the Akh Morns.
       of damage.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/05/golden_bahamut_01.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/05/golden_bahamut_01.jpg">
     </td>
   </tr>
   <tr>
@@ -125,7 +125,7 @@ Tanks will also need to plan out their cooldowns for the Akh Morns.
       was</b>.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/05/golden_bahamut_02.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/05/golden_bahamut_02.jpg">
     </td>
   </tr>
   <tr>
@@ -134,7 +134,7 @@ Tanks will also need to plan out their cooldowns for the Akh Morns.
       <p>First set of Exaflares appear.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/05/golden_bahamut_03.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/05/golden_bahamut_03.jpg">
     </td>
   </tr>
   <tr>
@@ -144,7 +144,7 @@ Tanks will also need to plan out their cooldowns for the Akh Morns.
       always be available)</em>.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/05/golden_bahamut_04.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/05/golden_bahamut_04.jpg">
     </td>
   </tr>
   <tr>
@@ -152,7 +152,7 @@ Tanks will also need to plan out their cooldowns for the Akh Morns.
       <p><b>5.</b> Third set of Exaflares appear.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/05/golden_bahamut_05.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/05/golden_bahamut_05.jpg">
     </td>
   </tr>
   <tr>
@@ -162,7 +162,7 @@ Tanks will also need to plan out their cooldowns for the Akh Morns.
       <p><em>This will be Morn Afah in all future iterations.</em></p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/05/golden_bahamut_06.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/05/golden_bahamut_06.jpg">
     </td>
   </tr>
   <tr>
@@ -171,7 +171,7 @@ Tanks will also need to plan out their cooldowns for the Akh Morns.
       <p><em>This will be Akh Morn in all future iterations.</em></p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/05/golden_bahamut_07.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/05/golden_bahamut_07.jpg">
     </td>
   </tr>
 </table>

@@ -34,10 +34,10 @@ Elemental DC、野良絶処理法は以下の通りです。
 - **IL760**以上の装備で、サブステが上限に設定される。
 - レリックウエポンのサブステの上限は**287**です。
 
-![]({{site.baseurl}}/assets/images/ultimates/top/top_cheatsheet_jp.jpg)
-*(フルサイズ： [日本語]({{site.baseurl}}/assets/images/ultimates/top/top_cheatsheet_jp.jpg)、
-[English]({{site.baseurl}}/assets/images/ultimates/top/top_cheatsheet.jpg)、
-[中文(台灣)]({{site.baseurl}}/assets/images/ultimates/top/top_cheatsheet_zhtw.jpg))*
+![]({{site.baseurl}}/images/ultimates/top/top_cheatsheet_jp.jpg)
+*(フルサイズ： [日本語]({{site.baseurl}}/images/ultimates/top/top_cheatsheet_jp.jpg)、
+[English]({{site.baseurl}}/images/ultimates/top/top_cheatsheet.jpg)、
+[中文(台灣)]({{site.baseurl}}/images/ultimates/top/top_cheatsheet_zhtw.jpg))*
 
 ---
 
@@ -64,14 +64,14 @@ Elemental DC、野良絶処理法は以下の通りです。
 
 ## マクロ
 ```
-{% include_relative macros/top.jp.txt %}
+{% include macros/ultimates/top.jp.txt %}
 ```
 
 <details markdown=block>
 <summary>English</summary>
 
 ```
-{% include_relative macros/top.en.txt %}
+{% include macros/ultimates/top.en.txt %}
 ```
 
 </details>
@@ -80,7 +80,7 @@ Elemental DC、野良絶処理法は以下の通りです。
 
 ## マーカー
 
-![]({{site.baseurl}}/assets/images/ultimates/top/markers.jpg)
+![]({{site.baseurl}}/images/ultimates/top/markers.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin の座標</summary>
 

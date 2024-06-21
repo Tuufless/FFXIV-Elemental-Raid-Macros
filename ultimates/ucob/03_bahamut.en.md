@@ -40,7 +40,7 @@ starting the first of many Trios.
       the healers and melee just need enough space to dodge along the edge.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/quickmarch_01.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/quickmarch_01.jpg">
     </td>
   </tr>
   <tr>
@@ -49,7 +49,7 @@ starting the first of many Trios.
       move along the edge of the arena to dodge Twisters.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/quickmarch_02.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/quickmarch_02.jpg">
     </td>
   </tr>
   <tr>
@@ -60,7 +60,7 @@ starting the first of many Trios.
       hitting them <em>(You can be chosen for both)</em>.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/quickmarch_03.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/quickmarch_03.jpg">
     </td>
   </tr>
   <tr>
@@ -76,7 +76,7 @@ starting the first of many Trios.
       the Megaflare AoEs from the previous step.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/quickmarch_04.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/quickmarch_04.jpg">
     </td>
   </tr>
   <tr>
@@ -89,7 +89,7 @@ starting the first of many Trios.
       immediately after this Megaflare stack.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/quickmarch_05.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/quickmarch_05.jpg">
     </td>
   </tr>
   <tr>
@@ -100,7 +100,7 @@ starting the first of many Trios.
       two.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/quickmarch_06.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/quickmarch_06.jpg">
     </td>
   </tr>
   <tr>
@@ -108,7 +108,7 @@ starting the first of many Trios.
       <p><b>7.</b> Tempest Wings resolve.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/quickmarch_07.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/quickmarch_07.jpg">
     </td>
   </tr>
 </table>
@@ -130,7 +130,7 @@ onto the second Trio.
       anti-clockwise from Twintania.</div>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/blackfire_01.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/blackfire_01.jpg">
     </td>
   </tr>
   <tr>
@@ -141,7 +141,7 @@ onto the second Trio.
       random player.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/blackfire_02.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/blackfire_02.jpg">
     </td>
   </tr>
   <tr>
@@ -150,7 +150,7 @@ onto the second Trio.
       resolves, which should have been baited through the center of the arena.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/blackfire_03.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/blackfire_03.jpg">
     </td>
   </tr>
   <tr>
@@ -173,7 +173,7 @@ onto the second Trio.
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/blackfire_04.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/blackfire_04.jpg">
     </td>
   </tr>
   <tr>
@@ -183,7 +183,7 @@ onto the second Trio.
       players without Megaflare marks enter their tower.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/blackfire_05.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/blackfire_05.jpg">
     </td>
   </tr>
   <tr>
@@ -194,7 +194,7 @@ onto the second Trio.
       Hypernovas!)</em></p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/blackfire_06.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/blackfire_06.jpg">
     </td>
   </tr>
 </table>
@@ -240,10 +240,10 @@ Note that Nael's lines now telegraph *three* mechanics instead of two.
       <p>Tanks should be nearest to the middle of the arena.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/fellruin_01a.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/fellruin_01a.jpg">
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/fellruin_01b.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/fellruin_01b.jpg">
     </td>
   </tr>
   <tr>
@@ -253,10 +253,10 @@ Note that Nael's lines now telegraph *three* mechanics instead of two.
       players, other than the tanks.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/fellruin_02a.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/fellruin_02a.jpg">
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/fellruin_02b.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/fellruin_02b.jpg">
     </td>
   </tr>
   <tr>
@@ -266,10 +266,10 @@ Note that Nael's lines now telegraph *three* mechanics instead of two.
       <p>Tanks should have the Tempest Wing tethers at this point.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/fellruin_03a.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/fellruin_03a.jpg">
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/fellruin_03b.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/fellruin_03b.jpg">
     </td>
   </tr>
 </table>
@@ -281,7 +281,7 @@ Note that Nael's lines now telegraph *three* mechanics instead of two.
       <p>All players must be in a Neurolink.</p>
     </td>
     <td colspan="2">
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/fellruin_04.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/fellruin_04.jpg">
     </td>
   </tr>
   <tr>
@@ -291,7 +291,7 @@ Note that Nael's lines now telegraph *three* mechanics instead of two.
       <p>Spread out around the Neurolink as shown.</p>
     </td>
     <td colspan="2">
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/fellruin_05.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/fellruin_05.jpg">
     </td>
   </tr>
 </table>
@@ -313,7 +313,7 @@ Bahamut then starts Heavensfall Trio, marking the halfway point in the fight.
       will get marked for Twintania's dive.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/heavensfall_01.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/heavensfall_01.jpg">
     </td>
   </tr>
   <tr>
@@ -327,7 +327,7 @@ Bahamut then starts Heavensfall Trio, marking the halfway point in the fight.
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/heavensfall_02b.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/heavensfall_02b.jpg">
     </td>
   </tr>
 </table>
@@ -340,13 +340,13 @@ This will end up looking like one of the three diagrams below:
   <th style="text-align:center">Nael right</th>
   <tr>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/heavensfall_02a.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/heavensfall_02a.jpg">
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/heavensfall_02b.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/heavensfall_02b.jpg">
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/heavensfall_02c.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/heavensfall_02c.jpg">
     </td>
   </tr>
 </table>
@@ -359,7 +359,7 @@ This will end up looking like one of the three diagrams below:
       the outside of the arena, just like Quickmarch Trio.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/heavensfall_03.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/heavensfall_03.jpg">
     </td>
   </tr>
   <tr>
@@ -379,7 +379,7 @@ This will end up looking like one of the three diagrams below:
       closer to the center of the arena.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/heavensfall_04.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/heavensfall_04.jpg">
     </td>
   </tr>
   <tr>
@@ -395,7 +395,7 @@ This will end up looking like one of the three diagrams below:
       </div>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/heavensfall_05.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/heavensfall_05.jpg">
     </td>
   </tr>
   <tr>
@@ -405,7 +405,7 @@ This will end up looking like one of the three diagrams below:
       clockwise or anti-clockwise in a full circle.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/heavensfall_06.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/heavensfall_06.jpg">
     </td>
   </tr>
   <tr>
@@ -420,7 +420,7 @@ This will end up looking like one of the three diagrams below:
       </div>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/heavensfall_07.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/heavensfall_07.jpg">
     </td>
   </tr>
   <tr>
@@ -430,12 +430,12 @@ This will end up looking like one of the three diagrams below:
       center of the arena.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/heavensfall_08.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/heavensfall_08.jpg">
     </td>
   </tr>
   <tr>
     <td><p><b>9.</b> A random player gets marked for Twintania's Fireball.</p></td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/heavensfall_09.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/ucob/03/heavensfall_09.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -446,7 +446,7 @@ This will end up looking like one of the three diagrams below:
       </div>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/heavensfall_10.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/heavensfall_10.jpg">
     </td>
   </tr>
 </table>
@@ -464,7 +464,7 @@ before starting Tenstrike Trio.
       <p><b>1.</b> Line up west-to-east.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/tenstrike_01.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/tenstrike_01.jpg">
     </td>
   </tr>
   <tr>
@@ -473,7 +473,7 @@ before starting Tenstrike Trio.
       (including tanks and healers) get targeted for Hatches.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/tenstrike_02.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/tenstrike_02.jpg">
     </td>
   </tr>
   <tr>
@@ -494,7 +494,7 @@ before starting Tenstrike Trio.
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/tenstrike_03.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/tenstrike_03.jpg">
     </td>
   </tr>
   <tr>
@@ -506,7 +506,7 @@ before starting Tenstrike Trio.
       DPS, followed by the healers, and finally the tanks.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/tenstrike_04.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/tenstrike_04.jpg">
     </td>
   </tr>
   <tr>
@@ -524,7 +524,7 @@ before starting Tenstrike Trio.
       </div>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/tenstrike_05.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/tenstrike_05.jpg">
     </td>
   </tr>
   <tr>
@@ -533,7 +533,7 @@ before starting Tenstrike Trio.
       disappears and four random players get marked for Earthshakers.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/tenstrike_06.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/tenstrike_06.jpg">
     </td>
   </tr>
   <tr>
@@ -550,7 +550,7 @@ before starting Tenstrike Trio.
       </div>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/tenstrike_07.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/tenstrike_07.jpg">
     </td>
   </tr>
   <tr>
@@ -559,7 +559,7 @@ before starting Tenstrike Trio.
       <p>The four previously unmarked players get marked for Earthshakers.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/tenstrike_08.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/tenstrike_08.jpg">
     </td>
   </tr>
   <tr>
@@ -567,7 +567,7 @@ before starting Tenstrike Trio.
       <p><b>9.</b> The two sets of four players swap places.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/tenstrike_09.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/tenstrike_09.jpg">
     </td>
   </tr>
   <tr>
@@ -576,7 +576,7 @@ before starting Tenstrike Trio.
       <p>Bahamut starts casting Gigaflare.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/tenstrike_10.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/tenstrike_10.jpg">
     </td>
   </tr>
 </table>
@@ -603,7 +603,7 @@ be able to prog the adds phase).
       to prepare for the upcoming mechanic.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/grand_octet_01.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/grand_octet_01.jpg">
     </td>
   </tr>
   <tr>
@@ -632,7 +632,7 @@ be able to prog the adds phase).
       </div>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/grand_octet_02.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/grand_octet_02.jpg">
     </td>
   </tr>
   <tr>
@@ -649,8 +649,8 @@ be able to prog the adds phase).
       Nael.)</em></p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/grand_octet_03a.jpg">
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/grand_octet_03b.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/grand_octet_03a.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/grand_octet_03b.jpg">
     </td>
   </tr>
   <tr>
@@ -663,7 +663,7 @@ be able to prog the adds phase).
       around the arena.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/grand_octet_04.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/grand_octet_04.jpg">
     </td>
   </tr>
   <tr>
@@ -672,7 +672,7 @@ be able to prog the adds phase).
       make sure you stay ahead of the divebombs.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/grand_octet_05.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/grand_octet_05.jpg">
     </td>
   </tr>
   <tr>
@@ -686,7 +686,7 @@ be able to prog the adds phase).
       That player prepares to bait Twintania's divebomb.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/grand_octet_06.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/grand_octet_06.jpg">
     </td>
   </tr>
   <tr>
@@ -694,7 +694,7 @@ be able to prog the adds phase).
       <p><b>7.</b> Bahamut dives. <b>Find Twintania</b>.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/grand_octet_07.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/grand_octet_07.jpg">
     </td>
   </tr>
   <tr>
@@ -715,7 +715,7 @@ be able to prog the adds phase).
       <p><b>Ignore the Megaflare markers.</b></p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/grand_octet_08.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/grand_octet_08.jpg">
     </td>
   </tr>
   <tr>
@@ -724,7 +724,7 @@ be able to prog the adds phase).
       player dodges to the other side of Twintania.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/grand_octet_09.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/grand_octet_09.jpg">
     </td>
   </tr>
   <tr>
@@ -734,7 +734,7 @@ be able to prog the adds phase).
       <p>Watch for Twisters, and gather together to prepare for the adds phase.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/grand_octet_10.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/grand_octet_10.jpg">
     </td>
   </tr>
 </table>
@@ -766,7 +766,7 @@ However, the Twintania player may be part of the Megaflare group, or the towers
       the empty tower.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/grand_octet_09a.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/grand_octet_09a.jpg">
     </td>
   </tr>
   <tr>
@@ -781,7 +781,7 @@ However, the Twintania player may be part of the Megaflare group, or the towers
       join the Megaflare stack.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/grand_octet_09b.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/grand_octet_09b.jpg">
     </td>
   </tr>
 </table>
@@ -807,7 +807,7 @@ However, the Twintania player may be part of the Megaflare group, or the towers
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/quickmarch_faq.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/quickmarch_faq.jpg">
     </td>
   </tr>
 </table>
@@ -824,7 +824,7 @@ However, the Twintania player may be part of the Megaflare group, or the towers
       <p>Yes, there are.</p><p>Don't use them.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/heavensfall_faq.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/heavensfall_faq.jpg">
     </td>
   </tr>
 </table>

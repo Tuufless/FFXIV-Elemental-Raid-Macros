@@ -26,14 +26,14 @@ Elemental DCの野良絶バハでは、[Cleesさんの処理法](https://clees.m
 ## マクロ
 
 ```
-{% include_relative macros/ucob.jp.txt %}
+{% include macros/ultimates/ucob.jp.txt %}
 ```
 
 <details markdown=block>
 <summary>English</summary>
 
 ```
-{% include_relative macros/ucob.en.txt %}
+{% include macros/ultimates/ucob.en.txt %}
 ```
 
 </details>
@@ -57,7 +57,7 @@ Elemental DCの野良絶バハでは、[Cleesさんの処理法](https://clees.m
 **金バハムート：**
 - `3`：アク・モーン１回目のタンク２人受けところ
 
-![]({{site.baseurl}}/assets/images/ultimates/ucob/markers.jpg)
+![]({{site.baseurl}}/images/ultimates/ucob/markers.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin の座標</summary>
 

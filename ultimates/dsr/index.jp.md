@@ -32,8 +32,8 @@ Elemental DC の野良処理法：
 - **IL730**以上の装備で、サブステが上限に設定される。
 - レリックウエポンのサブステの上限は**269**です。
 
-![]({{site.baseurl}}/assets/images/ultimates/dsr/dsr_cheatsheet_jp.jpg)
-*(フルサイズ： [日本語]({{site.baseurl}}/assets/images/ultimates/dsr/dsr_cheatsheet_jp.jpg)、[English]({{site.baseurl}}/assets/images/ultimates/dsr/dsr_cheatsheet.jpg))*
+![]({{site.baseurl}}/images/ultimates/dsr/dsr_cheatsheet_jp.jpg)
+*(フルサイズ： [日本語]({{site.baseurl}}/images/ultimates/dsr/dsr_cheatsheet_jp.jpg)、[English]({{site.baseurl}}/images/ultimates/dsr/dsr_cheatsheet.jpg))*
 
 ---
 
@@ -65,14 +65,14 @@ Elemental DC の野良処理法：
 ## マクロ
 
 ```
-{% include_relative macros/dsr_1.jp.txt %}
+{% include macros/ultimates/dsr_1.jp.txt %}
 ```
 
 <details markdown=block>
 <summary>English</summary>
 
 ```
-{% include_relative macros/dsr_1.en.txt %}
+{% include macros/ultimates/dsr_1.en.txt %}
 ```
 
 </details>
@@ -81,7 +81,7 @@ Elemental DC の野良処理法：
 
 すべてのマーカーをハイパーディメンションの誘導に使用する。
 
-![]({{site.baseurl}}/assets/images/ultimates/dsr/markers_1.jpg)
+![]({{site.baseurl}}/images/ultimates/dsr/markers_1.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin の座標</summary>
 
@@ -111,14 +111,14 @@ Elemental DC の野良処理法：
 ## マクロ
 
 ```
-{% include_relative macros/dsr_2.jp.txt %}
+{% include macros/ultimates/dsr_2.jp.txt %}
 ```
 
 <details markdown=block>
 <summary>English</summary>
 
 ```
-{% include_relative macros/dsr_2.en.txt %}
+{% include macros/ultimates/dsr_2.en.txt %}
 ```
 
 </details>
@@ -131,7 +131,7 @@ Elemental DC の野良処理法：
 - ニーズヘッグの 4 塔
 - 二天竜フェーズのヒートテイルの安地
 
-![]({{site.baseurl}}/assets/images/ultimates/dsr/markers_2.jpg)
+![]({{site.baseurl}}/images/ultimates/dsr/markers_2.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin の座標</summary>
 

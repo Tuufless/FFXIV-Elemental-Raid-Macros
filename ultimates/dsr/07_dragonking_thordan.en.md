@@ -124,8 +124,8 @@ Ice of Ascalon, which resolves together at the beginning of the mechanic.
       Ascalon</em>, which is a point-blank AoE.</p>
       <p>Players must be <b>outside</b> his targeting circle.</p>
     </td>
-    <td width="33%"><img src="{{site.baseurl}}/assets/images/ultimates/dsr/07/fire_of_ascalon_01.jpg"></td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/07/fire_of_ascalon_02.jpg"></td>
+    <td width="33%"><img src="{{site.baseurl}}/images/ultimates/dsr/07/fire_of_ascalon_01.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/07/fire_of_ascalon_02.jpg"></td>
   </tr>
   <tr>
     <td width="34%">
@@ -133,8 +133,8 @@ Ice of Ascalon, which resolves together at the beginning of the mechanic.
       of Ascalon</em>, which is a donut AoE.</p>
       <p>Players must be <b>inside</b> his targeting circle.</p>
     </td>
-    <td width="33%"><img src="{{site.baseurl}}/assets/images/ultimates/dsr/07/ice_of_ascalon_01.jpg"></td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/07/ice_of_ascalon_02.jpg"></td>
+    <td width="33%"><img src="{{site.baseurl}}/images/ultimates/dsr/07/ice_of_ascalon_01.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/07/ice_of_ascalon_02.jpg"></td>
   </tr>
 </table>
 
@@ -154,7 +154,7 @@ After each mechanic has completed, Dragonking Thordan will auto-attack twice.
         Resistance Down, Light Resistance Down, and Physical Vulnerability Up.</li>
       </ul>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/07/trinity.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/07/trinity.jpg"></td>
   </tr>
 </table>
 
@@ -214,7 +214,7 @@ the start of this mechanic.
       <p><b>1.</b> Three Exaflare telegraphs will appear relative to Thordan's
       orientation.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/07/exaflare_01.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/07/exaflare_01.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -223,14 +223,14 @@ the start of this mechanic.
       <p>If Dragonking Thordan is facing either north or south, you can also
       use the floor markings to guide your movement.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/07/exaflare_02.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/07/exaflare_02.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>3.</b> When the Exaflares resolve, dodge to where the bright dot
       was.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/07/exaflare_03.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/07/exaflare_03.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -240,7 +240,7 @@ the start of this mechanic.
       Exaflare patterns where you can maintain melee uptime <em>(dodging to the
       left in this case)</em>, but this is not necessary.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/07/exaflare_04.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/07/exaflare_04.jpg"></td>
   </tr>
 </table>
 
@@ -274,7 +274,7 @@ originally red.
         <li><b>Back:</b> MT, ST</li>
       </ul>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/07/akh_morn.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/07/akh_morn.jpg"></td>
   </tr>
 </table>
 
@@ -298,7 +298,7 @@ Where Thordan faces after *Akh Morn's Edge* doesn't matter.
       entire sequence lasts 8 seconds, while several debuffs (Reprisal, Feint,
       Addle) lasts only 10 seconds.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/07/gigaflare.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/07/gigaflare.jpg"></td>
   </tr>
 </table>
 
@@ -388,7 +388,7 @@ Potions can be used at either burst window.
       takes about the same amount of damage as they would take from sharing the
       tank tower.</p>
       <p style="text-align:center">
-        <img src="{{site.baseurl}}/assets/images/ultimates/dsr/07/akh_morn_116.jpg">
+        <img src="{{site.baseurl}}/images/ultimates/dsr/07/akh_morn_116.jpg">
       </p>
       <p>This looks like all-upside, however <b>it does not come for free</b>.</p>
       <p>The biggest obstacle to 1-1-6 is having to mitigate <em>Wyrmsbreath</em>
@@ -437,7 +437,7 @@ Potions can be used at either burst window.
       <p>Here's a graph plotting the damage vs distance (in centiyalms).</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/dsr/07/gigaflare_faq.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/dsr/07/gigaflare_faq.jpg">
       <em>(Credit: radrauser)</em>
     </td>
   </tr>

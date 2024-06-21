@@ -32,8 +32,8 @@ Elemental DCの野良絶処理法は以下の通りです。
 - レリックウエポンのサブステの上限は**184**です。
 - **幻薬G6**以上の薬が上限に設定される。
 
-![]({{site.baseurl}}/assets/images/ultimates/tea/tea_cheatsheet_jp.jpg)
-*(フルサイズ： [日本語]({{site.baseurl}}/assets/images/ultimates/tea/tea_cheatsheet_jp.jpg)、[English]({{site.baseurl}}/assets/images/ultimates/tea/tea_cheatsheet.jpg))*
+![]({{site.baseurl}}/images/ultimates/tea/tea_cheatsheet_jp.jpg)
+*(フルサイズ： [日本語]({{site.baseurl}}/images/ultimates/tea/tea_cheatsheet_jp.jpg)、[English]({{site.baseurl}}/images/ultimates/tea/tea_cheatsheet.jpg))*
 
 ---
 
@@ -55,14 +55,14 @@ Elemental DCの野良絶処理法は以下の通りです。
 ## マクロ
 
 ```
-{% include_relative macros/tea.jp.txt %}
+{% include macros/ultimates/tea.jp.txt %}
 ```
 
 <details markdown=block>
 <summary>English</summary>
 
 ```
-{% include_relative macros/tea.en.txt %}
+{% include macros/ultimates/tea.en.txt %}
 ```
 
 </details>
@@ -90,7 +90,7 @@ Elemental DCの野良絶処理法は以下の通りです。
 - `B`：闇の親
 - `1234`：大審判
 
-![]({{site.baseurl}}/assets/images/ultimates/tea/markers.jpg)
+![]({{site.baseurl}}/images/ultimates/tea/markers.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin の座標</summary>
 

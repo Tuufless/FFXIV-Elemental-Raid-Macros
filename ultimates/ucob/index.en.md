@@ -21,13 +21,13 @@ few differences:
 <table>
   <tr>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/heavensfall_02a.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/heavensfall_02a.jpg">
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/heavensfall_02b.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/heavensfall_02b.jpg">
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/03/heavensfall_02c.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/03/heavensfall_02c.jpg">
     </td>
   </tr>
 </table>
@@ -46,14 +46,14 @@ few differences:
 ## English
 
 ```
-{% include_relative macros/ucob.en.txt %}
+{% include macros/ultimates/ucob.en.txt %}
 ```
 
 <details markdown=block>
 <summary>日本語</summary>
 
 ```
-{% include_relative macros/ucob.jp.txt %}
+{% include macros/ultimates/ucob.jp.txt %}
 ```
 
 </details>
@@ -84,7 +84,7 @@ few differences:
 **Golden Bahamut:**
 - `3`: Where tanks will stack for the first *Akh Morn* in Golden Bahamut.
 
-![]({{site.baseurl}}/assets/images/ultimates/ucob/markers.jpg)
+![]({{site.baseurl}}/images/ultimates/ucob/markers.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 

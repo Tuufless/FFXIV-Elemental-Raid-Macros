@@ -43,21 +43,21 @@ direction, either **near, middle, or far** away from the center.
   <tr>
     <td width="50%">
       <p><b>M Sword, F Blade-legs</b> <em>(Away from M, near)</em></p>
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/05c/run_dynamis_omega_03d.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/top/05c/run_dynamis_omega_03d.jpg">
     </td>
     <td>
       <p><b>M Shield, F Blade-legs</b> <em>(Towards M, near)</em></p>
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/05c/run_dynamis_omega_03a.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/top/05c/run_dynamis_omega_03a.jpg">
     </td>
   </tr>
   <tr>
     <td>
       <p><b>M Sword, F Staff</b> <em>(Towards M, far)</em></p>
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/05c/run_dynamis_omega_03c.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/top/05c/run_dynamis_omega_03c.jpg">
     </td>
     <td>
       <p><b>M Shield, F Staff</b> <em>(Towards M, middle)</em></p>
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/05c/run_dynamis_omega_03b.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/top/05c/run_dynamis_omega_03b.jpg">
     </td>
   </tr>
 </table>
@@ -79,7 +79,7 @@ the first safe spot *(determine whether you're going to move cw or ccw, and whet
       <p><em>(In this example, the safe spot will be near the middle, either
       North or West.)</em></p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/05c/run_dynamis_omega_01.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/05c/run_dynamis_omega_01.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -87,7 +87,7 @@ the first safe spot *(determine whether you're going to move cw or ccw, and whet
       intercardinal positions, again with a random Sword/Shield and
       Staff/Blade-Legs combo.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/05c/run_dynamis_omega_02.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/05c/run_dynamis_omega_02.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -99,7 +99,7 @@ the first safe spot *(determine whether you're going to move cw or ccw, and whet
       <p><em>(In this example, the Diffuse Wave Cannon eliminates the West safe
       spot, leaving only North, near the center.)</em></p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/05c/run_dynamis_omega_03.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/05c/run_dynamis_omega_03.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -111,7 +111,7 @@ the first safe spot *(determine whether you're going to move cw or ccw, and whet
       <p><em>(In this example, the party rotates 90 degrees clockwise, and goes
       far from the center.)</em></p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/05c/run_dynamis_omega_04.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/05c/run_dynamis_omega_04.jpg"></td>
   </tr>
 </table>
 
@@ -164,7 +164,7 @@ Nukemaru has compiled a collection of clips which may help:
       <p>Just like before, these two players should be standing one ring in
       front of the markers <em>(towards the center of the arena)</em>.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/05c/run_dynamis_omega_05.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/05c/run_dynamis_omega_05.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -181,7 +181,7 @@ Nukemaru has compiled a collection of clips which may help:
         <li>The other six players should all have two Dynamis stacks.</li>
       </ul>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/05c/run_dynamis_omega_06.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/05c/run_dynamis_omega_06.jpg"></td>
   </tr>
 </table>
 
@@ -207,7 +207,7 @@ Nukemaru has compiled a collection of clips which may help:
       <p>Both <em>Hello, World</em> players should stand one ring in front of
       the markers <em>(towards the center of the arena)</em>.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/05c/run_dynamis_omega_07.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/05c/run_dynamis_omega_07.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -216,14 +216,14 @@ Nukemaru has compiled a collection of clips which may help:
       player can adjust a little bit after the tethers resolve just to be sure
       the <em>Hello, Distant World</em> debuffs resolve correctly.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/05c/run_dynamis_omega_08.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/05c/run_dynamis_omega_08.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>9.</b> Shortly after, the <em>Hello, World</em> debuffs resolve.</p>
       <p>All players should now have three Dynamis stacks each.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/05c/run_dynamis_omega_09.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/05c/run_dynamis_omega_09.jpg"></td>
   </tr>
 </table>
 
@@ -254,10 +254,10 @@ to resolve *Hello, Near World* and *Hello, Distant World*.
   </tr>
   <tr>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/05c/run_dynamis_omega_am1.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/top/05c/run_dynamis_omega_am1.jpg">
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/05c/run_dynamis_omega_am2.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/top/05c/run_dynamis_omega_am2.jpg">
     </td>
   </tr>
   <tr>
@@ -279,7 +279,7 @@ Distant World*.
       <p>Who takes relative east/west doesn't particularly matter.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/05c/run_dynamis_omega_am3.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/top/05c/run_dynamis_omega_am3.jpg">
     </td>
   </tr>
 </table>

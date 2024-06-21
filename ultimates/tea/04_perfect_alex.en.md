@@ -34,7 +34,7 @@ into two teams- Light, and Dark.
 <table>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/04/debuffs/contact_regulation.png">
+      <img src="{{site.baseurl}}/images/ultimates/tea/04/debuffs/contact_regulation.png">
     </td>
     <td>
       <p><b>Final Word: Contact Regulation</b></p>
@@ -44,7 +44,7 @@ into two teams- Light, and Dark.
   </tr>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/04/debuffs/contact_prohibition.png">
+      <img src="{{site.baseurl}}/images/ultimates/tea/04/debuffs/contact_prohibition.png">
     </td>
     <td>
       <p><b>Final Word: Contact Prohibition</b></p>
@@ -55,7 +55,7 @@ into two teams- Light, and Dark.
   </tr>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/04/debuffs/escape_detection.png">
+      <img src="{{site.baseurl}}/images/ultimates/tea/04/debuffs/escape_detection.png">
     </td>
     <td>
       <p><b>Final Word: Escape Detection</b></p>
@@ -65,7 +65,7 @@ into two teams- Light, and Dark.
   </tr>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/04/debuffs/escape_prohibition.png">
+      <img src="{{site.baseurl}}/images/ultimates/tea/04/debuffs/escape_prohibition.png">
     </td>
     <td>
       <p><b>Final Word: Escape Prohibition</b></p>
@@ -97,7 +97,7 @@ While the Forced March timers tick down, Perfect Alexander will then cast
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/04/forced_march_01.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/04/forced_march_01.jpg">
     </td>
   </tr>
 </table>
@@ -132,7 +132,7 @@ random order.
       other group, and resolve the groups 5-3.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/04/forced_march_02.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/04/forced_march_02.jpg">
     </td>
   </tr>
 </table>
@@ -185,7 +185,7 @@ when they resolve.
       </ul>
       <p>Three players will get this.</p></td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/04/fate_calibration_alpha/ordained_stillness.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/04/fate_calibration_alpha/ordained_stillness.jpg">
     </td>
   </tr>
   <tr>
@@ -212,7 +212,7 @@ when they resolve.
       </div>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/04/fate_calibration_alpha/ordained_motion.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/04/fate_calibration_alpha/ordained_motion.jpg">
     </td>
   </tr>
   <tr>
@@ -227,7 +227,7 @@ when they resolve.
       <p>One player will get this.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/04/fate_calibration_alpha/defamation.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/04/fate_calibration_alpha/defamation.jpg">
     </td>
   </tr>
   <tr>
@@ -242,7 +242,7 @@ when they resolve.
       <p>One player will get this.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/04/fate_calibration_alpha/shared_sentence.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/04/fate_calibration_alpha/shared_sentence.jpg">
     </td>
   </tr>
   <tr>
@@ -255,7 +255,7 @@ when they resolve.
       <p>Three players will get this.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/04/fate_calibration_alpha/aggravated_assault.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/04/fate_calibration_alpha/aggravated_assault.jpg">
     </td>
   </tr>
 </table>
@@ -280,7 +280,7 @@ The safe spots to resolve the mechanics will always be opposite one of the two
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/04/fate_calibration_alpha.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/04/fate_calibration_alpha.jpg">
     </td>
   </tr>
 </table>
@@ -334,7 +334,7 @@ The debuffs will appear in the same order as they resolve:
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/04/fate_calibration_beta/light_players.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/04/fate_calibration_beta/light_players.jpg">
     </td>
   </tr>
   <tr>
@@ -349,7 +349,7 @@ The debuffs will appear in the same order as they resolve:
       Beacon.</li>
     </ul></td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/04/fate_calibration_beta/dark_players.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/04/fate_calibration_beta/dark_players.jpg">
     </td>
   </tr>
 </table>
@@ -389,8 +389,8 @@ resolve for real.
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/04/fate_calibration_beta_01.jpg">
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/04/fate_calibration_beta/beta_positioning.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/04/fate_calibration_beta_01.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/04/fate_calibration_beta/beta_positioning.jpg">
     </td>
   </tr>
   <tr>
@@ -403,12 +403,12 @@ resolve for real.
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/04/fate_calibration_beta_02.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/04/fate_calibration_beta_02.jpg">
     </td>
   </tr>
   <tr>
     <td><b>3.</b> Light Shared Sentence and Super Jump resolves.</td>
-	<td><img src="{{site.baseurl}}/assets/images/ultimates/tea/04/fate_calibration_beta_03.jpg"></td>
+	<td><img src="{{site.baseurl}}/images/ultimates/tea/04/fate_calibration_beta_03.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -420,13 +420,13 @@ resolve for real.
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/04/fate_calibration_beta_04.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/04/fate_calibration_beta_04.jpg">
     </td>
   </tr>
   <tr>
     <td><b>5.</b> Radiant Sacrament resolves.</td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/04/fate_calibration_beta_05.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/04/fate_calibration_beta_05.jpg">
     </td>
   </tr>
 </table>
@@ -453,9 +453,9 @@ are the ones marked in red:
 
 <table>
   <tr>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/tea/04/exatrine_01.jpg"></td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/tea/04/exatrine_02.jpg"></td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/tea/04/exatrine_03.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/tea/04/exatrine_01.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/tea/04/exatrine_02.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/tea/04/exatrine_03.jpg"></td>
   </tr>
 </table>
 
@@ -583,7 +583,7 @@ Note that DoTs will continue to tick even after the player has been imprisoned.
   </tr>
   <tr>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/04/sacrament_faq.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/04/sacrament_faq.jpg">
     </td>
   </tr>
 </table>

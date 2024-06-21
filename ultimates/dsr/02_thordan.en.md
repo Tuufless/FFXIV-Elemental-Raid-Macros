@@ -41,11 +41,11 @@ have Holmgang back up in time.</div>
       Impact early. This then lets them cast an additional GCD heal without
       using Swiftcast.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/02/strength_of_the_ward_1_1.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/02/strength_of_the_ward_1_1.jpg"></td>
   </tr>
   <tr>
     <td><p><b>2.</b> Heavy Impact boundaries.</p></td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/02/strength_of_the_ward_1_2.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/02/strength_of_the_ward_1_2.jpg"></td>
   </tr>
 </table>
 
@@ -64,7 +64,7 @@ of the arena.
 These knights indicate the orientation of the map for the next part of Strength
 of the Ward, and will always spawn "southwest" and "southeast".
 
-![]({{site.baseurl}}/assets/images/ultimates/dsr/02/strength_orientation.jpg)
+![]({{site.baseurl}}/images/ultimates/dsr/02/strength_orientation.jpg)
 
 Thordan will do another Ascalon's Mercy Concealed that locks on each player's
 position at the fourth Heavy Impact.
@@ -95,13 +95,13 @@ yourself such that Thordan is north.
         <li>The two tanks need to take the two tethers, and criss-cross them.</li>
       </ul>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/02/strength_of_the_ward_2_1.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/02/strength_of_the_ward_2_1.jpg"></td>
   </tr>
   <tr>
     <td><b>2.</b> To help communicate who will take which tower, the three
     (non-tanks) at Thordan will briefly spread to communicate which tower they
     will take <b>before collapsing together in the middle for the stack.</b></td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/02/strength_towers.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/02/strength_towers.jpg"></td>
   </tr>
   <tr>
     <td><p><b>3.</b> AoEs resolve.</p>
@@ -112,12 +112,12 @@ yourself such that Thordan is north.
       the three unmarked players and the two tanks.</li>
       <li>The two tanks will each be hit by <em>Holy Shield Bash</em>.</li>
     </ul></td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/02/strength_of_the_ward_2_2.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/02/strength_of_the_ward_2_2.jpg"></td>
   </tr>
   <tr>
     <td><p><b>4.</b> The two tanks will be stunned and hit with <em>Holy
     Bladedance</em>.</p><p>All other players enter their towers.</p></td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/02/strength_of_the_ward_2_3.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/02/strength_of_the_ward_2_3.jpg"></td>
   </tr>
 </table>
 
@@ -181,7 +181,7 @@ In other words:
         positions will automatically dodge <em>both</em> gazes.</p>
       </div>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/02/sanctity_drk_relative_cw_01.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/02/sanctity_drk_relative_cw_01.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -190,7 +190,7 @@ In other words:
       <p>At the same time, Ser Zephirin (the DRK) will jump four times in 
       total, alternating between the players marked with one and two swords.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/02/sanctity_drk_relative_cw_02.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/02/sanctity_drk_relative_cw_02.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -201,11 +201,11 @@ In other words:
       <p>The time to move will depend on whether you are moving towards N/S or 
       E/W, but the principle stays the same.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/02/sanctity_drk_relative_cw_03.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/02/sanctity_drk_relative_cw_03.jpg"></td>
   </tr>
   <tr>
     <td><b>4.</b> Stop three notches away from the next shuriken.</td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/02/sanctity_drk_relative_cw_04.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/02/sanctity_drk_relative_cw_04.jpg"></td>
   </tr>
 </table>
 
@@ -228,7 +228,7 @@ In other words:
         the DRK (SE).</em></li>
       </ul>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/02/sanctity_drk_relative_ccw_01.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/02/sanctity_drk_relative_ccw_01.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -237,7 +237,7 @@ In other words:
       <p>At the same time, Ser Zephirin (the DRK) will jump four times in 
       total, alternating between the players marked with one and two swords.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/02/sanctity_drk_relative_ccw_02.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/02/sanctity_drk_relative_ccw_02.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -248,12 +248,12 @@ In other words:
       <p>Notice that because the party is moving towards E/W, the movement
       timing is different from the previous example.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/02/sanctity_drk_relative_ccw_03.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/02/sanctity_drk_relative_ccw_03.jpg"></td>
   </tr>
   <tr>
     <td><b>4.</b> When the orbs in front of the party explode, move and stop 
     three notches away from the next shuriken.</td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/02/sanctity_drk_relative_ccw_04.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/02/sanctity_drk_relative_ccw_04.jpg"></td>
   </tr>
 </table>
 </details>
@@ -276,7 +276,7 @@ In other words:
       </ul>
       <p><em>In this example, H1 and MT will swap places.</em></p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/02/meteors_01_01.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/02/meteors_01_01.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -305,7 +305,7 @@ In other words:
         </li>
       </ul>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/02/meteors_01_03.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/02/meteors_01_03.jpg"></td>
   </tr>
   <tr>
     <td><p><b>3.</b> Like the towers in <em>Strength of the Ward</em>, before
@@ -314,7 +314,7 @@ In other words:
     <p>This is particularly important for the N/S positions, as you want to try
     and avoid putting either of the meteor players into a "cursed" pattern as
     much as possible.</p></td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/02/sanctity_towers.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/02/sanctity_towers.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -339,7 +339,7 @@ In other words:
         that tower.</li>
       </ul>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/02/meteors_01_04.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/02/meteors_01_04.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -348,7 +348,7 @@ In other words:
       <p>Players on the <b>inside</b> get knocked back to their
       (intercardinal) towers.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/02/meteors_01_05.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/02/meteors_01_05.jpg"></td>
   </tr>
 </table>
 
@@ -372,12 +372,12 @@ scenarios to consider.
         <li>DPS are the Meteor-role, T/H are the non-Meteors.</li>
       </ul>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/02/meteors_02_01.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/02/meteors_02_01.jpg"></td>
   </tr>
   <tr>
     <td><b>2.</b> After adjusting players, ice puddles get dropped on each
     pair.</td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/02/meteors_02_02.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/02/meteors_02_02.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -427,7 +427,7 @@ scenarios to consider.
         </li>
       </ul>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/02/meteors_02_03.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/02/meteors_02_03.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -446,7 +446,7 @@ scenarios to consider.
         original ice puddle (NW).</li>
       </ul>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/02/meteors_02_04.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/02/meteors_02_04.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -455,7 +455,7 @@ scenarios to consider.
       <p>Players on the <b>inside</b> get knocked back to their
       (intercardinal) towers.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/02/meteors_02_05.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/02/meteors_02_05.jpg"></td>
   </tr>
 </table>
 </details>
@@ -474,11 +474,11 @@ scenarios to consider.
         <li>DPS are the Meteor-role, T/H are the non-Meteors.</li>
       </ul>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/02/meteors_03_01.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/02/meteors_03_01.jpg"></td>
   </tr>
   <tr>
     <td><b>2.</b> After adjusting players, ice puddles get dropped on each pair.</td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/02/meteors_03_02.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/02/meteors_03_02.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -535,7 +535,7 @@ scenarios to consider.
         </li>
       </ul>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/02/meteors_03_03.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/02/meteors_03_03.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -553,7 +553,7 @@ scenarios to consider.
         original ice puddle (SW and NW).</li>
       </ul>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/02/meteors_03_04.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/02/meteors_03_04.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -562,7 +562,7 @@ scenarios to consider.
       <p>Players on the <b>inside</b> get knocked back to their
       (intercardinal) towers.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/dsr/02/meteors_03_05.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/02/meteors_03_05.jpg"></td>
   </tr>
 </table>
 </details>

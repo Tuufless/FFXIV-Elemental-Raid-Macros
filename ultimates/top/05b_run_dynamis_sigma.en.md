@@ -33,7 +33,7 @@ Run: Dynamis (Sigma Version) can be broken down into three parts:
       <p>This establishes where "North" will be for this first part of the
       mechanic.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/05b/run_dynamis_sigma_01.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/05b/run_dynamis_sigma_01.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -60,7 +60,7 @@ Run: Dynamis (Sigma Version) can be broken down into three parts:
         </li>
       </ul>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/05b/run_dynamis_sigma_02.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/05b/run_dynamis_sigma_02.jpg"></td>
   </tr>
   <tr>
     <td><p><b>3.</b> Spread out based on your positions.</p>
@@ -87,7 +87,7 @@ Run: Dynamis (Sigma Version) can be broken down into three parts:
         <li><b>Remote Glitch:</b> Move to the edge of the arena.</li>
       </ul>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/05b/run_dynamis_sigma_03.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/05b/run_dynamis_sigma_03.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -95,7 +95,7 @@ Run: Dynamis (Sigma Version) can be broken down into three parts:
       <p><b>Note which waymark you are standing beside to prepare for the 
       upcoming towers.</b></p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/05b/run_dynamis_sigma_04.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/05b/run_dynamis_sigma_04.jpg"></td>
   </tr>
 </table>
 
@@ -125,10 +125,10 @@ standing at at the end of the previous section.
   </tr>
   <tr>
     <td width="50%">
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/05b/run_dynamis_sigma_05b.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/top/05b/run_dynamis_sigma_05b.jpg">
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/05b/run_dynamis_sigma_05a.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/top/05b/run_dynamis_sigma_05a.jpg">
     </td>
   </tr>
   <tr>
@@ -171,7 +171,7 @@ part where we resolve Hello, World.
       </ul>
       <p>The remaining five players go opposite Omega-F.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/05b/run_dynamis_sigma_07.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/05b/run_dynamis_sigma_07.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -181,8 +181,8 @@ part where we resolve Hello, World.
       and stay outside <b>or</b> follow the Rear Power Unit's AoE.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/05b/run_dynamis_sigma_08b.jpg">
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/05b/run_dynamis_sigma_08a.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/top/05b/run_dynamis_sigma_08b.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/top/05b/run_dynamis_sigma_08a.jpg">
     </td>
   </tr>
   <tr>
@@ -191,7 +191,7 @@ part where we resolve Hello, World.
       Unit will fire its last laser in this orientation.</p>
       <p>Use this time to move into position to resolve Hello, World.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/05b/run_dynamis_sigma_09.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/05b/run_dynamis_sigma_09.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -208,7 +208,7 @@ part where we resolve Hello, World.
         Omega-F, they would ideally bait the Arm lasers.</li>
       </ul>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/05b/run_dynamis_sigma_10.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/05b/run_dynamis_sigma_10.jpg"></td>
   </tr>
 </table>
 
@@ -230,7 +230,7 @@ It is common practice to use Automarkers to assign player positions to resolve
       spinning.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/05b/run_dynamis_sigma_am.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/top/05b/run_dynamis_sigma_am.jpg">
     </td>
   </tr>
 </table>

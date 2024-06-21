@@ -29,7 +29,7 @@ Tanks should try to have minor cooldowns available for the Lightning passes.
       <p>The DPS make up much of the movement in this phase.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02b/bjcc_overview.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02b/bjcc_overview.jpg">
     </td>
   </tr>
 </table>
@@ -57,7 +57,7 @@ on the affected player.</p>
 <table>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02b/debuffs/compressed_water.png">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02b/debuffs/compressed_water.png">
     </td>
     <td>
       <p><b>Compressed Water</b></p>
@@ -79,7 +79,7 @@ on the affected player.</p>
   </tr>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02b/debuffs/compressed_lightning.png">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02b/debuffs/compressed_lightning.png">
     </td>
     <td>
       <p><b>Compressed Lightning</b></p>
@@ -100,10 +100,10 @@ healers when Brute Justice casts Judgment Nisi.</p>
 <table>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02b/debuffs/final_decree_nisi_alpha.png">
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02b/debuffs/final_decree_nisi_beta.png">
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02b/debuffs/final_decree_nisi_gamma.png">
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02b/debuffs/final_decree_nisi_delta.png">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02b/debuffs/final_decree_nisi_alpha.png">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02b/debuffs/final_decree_nisi_beta.png">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02b/debuffs/final_decree_nisi_gamma.png">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02b/debuffs/final_decree_nisi_delta.png">
     </td>
     <td>
       <p><b>Final Decree Nisi αβγδ</b></p>
@@ -123,10 +123,10 @@ players:</p>
 <table>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02b/debuffs/final_judgment_decree_nisi_alpha.png">
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02b/debuffs/final_judgment_decree_nisi_beta.png">
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02b/debuffs/final_judgment_decree_nisi_gamma.png">
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02b/debuffs/final_judgment_decree_nisi_delta.png">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02b/debuffs/final_judgment_decree_nisi_alpha.png">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02b/debuffs/final_judgment_decree_nisi_beta.png">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02b/debuffs/final_judgment_decree_nisi_gamma.png">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02b/debuffs/final_judgment_decree_nisi_delta.png">
     </td>
     <td><p><b>Final Judgment Decree Nisi αβγδ</b></p>
       <ul>
@@ -166,7 +166,7 @@ all the debuffs.</p>
       passing Nisi debuffs.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02b/bjcc_01.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02b/bjcc_01.jpg">
     </td>
   </tr>
   <tr>
@@ -177,7 +177,7 @@ all the debuffs.</p>
       <p>Move towards the edge of the arena to dodge the Chakrams' path.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02b/bjcc_02.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02b/bjcc_02.jpg">
     </td>
   </tr>
   <tr>
@@ -192,7 +192,7 @@ all the debuffs.</p>
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02b/bjcc_03.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02b/bjcc_03.jpg">
     </td>
   </tr>
   <tr>
@@ -207,7 +207,7 @@ all the debuffs.</p>
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02b/bjcc_04.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02b/bjcc_04.jpg">
     </td>
   </tr>
   <tr>
@@ -227,8 +227,8 @@ all the debuffs.</p>
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02b/bjcc_05.jpg">
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02b/brute_justice_position.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02b/bjcc_05.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02b/brute_justice_position.jpg">
     </td>
   </tr>
   <tr>
@@ -246,7 +246,7 @@ all the debuffs.</p>
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02b/bjcc_06.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02b/bjcc_06.jpg">
     </td>
   </tr>
   <tr>
@@ -267,7 +267,7 @@ all the debuffs.</p>
       at the end of the phase.</div>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02b/bjcc_07.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02b/bjcc_07.jpg">
     </td>
   </tr>
   <tr>
@@ -287,7 +287,7 @@ all the debuffs.</p>
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02b/bjcc_08.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02b/bjcc_08.jpg">
     </td>
   </tr>
   <tr>
@@ -321,8 +321,8 @@ all the debuffs.</p>
       line <em>(note it has expanded since the Hidden Mines have been baited)</em>.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02b/bjcc_09.jpg">
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02b/bjcc_ice.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02b/bjcc_09.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02b/bjcc_ice.jpg">
     </td>
   </tr>
   <tr>
@@ -334,7 +334,7 @@ all the debuffs.</p>
       dotted line to avoid getting clipped by the Hidden Mine's AoE.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02b/bjcc_10.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02b/bjcc_10.jpg">
     </td>
   </tr>
   <tr>
@@ -351,7 +351,7 @@ all the debuffs.</p>
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02b/bjcc_11.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02b/bjcc_11.jpg">
     </td>
   </tr>
   <tr>
@@ -372,7 +372,7 @@ all the debuffs.</p>
       Nisi passes.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02b/bjcc_12.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02b/bjcc_12.jpg">
     </td>
   </tr>
   <tr>
@@ -393,7 +393,7 @@ all the debuffs.</p>
       destroys the Plasma Shield.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02b/bjcc_13.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02b/bjcc_13.jpg">
     </td>
   </tr>
   <tr>
@@ -408,7 +408,7 @@ all the debuffs.</p>
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02b/bjcc_14.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02b/bjcc_14.jpg">
     </td>
   </tr>
   <tr>
@@ -420,7 +420,7 @@ all the debuffs.</p>
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02b/bjcc_15.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02b/bjcc_15.jpg">
     </td>
   </tr>
   <tr>
@@ -433,7 +433,7 @@ all the debuffs.</p>
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02b/bjcc_16.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02b/bjcc_16.jpg">
     </td>
   </tr>
   <tr>
@@ -446,7 +446,7 @@ all the debuffs.</p>
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02b/bjcc_17.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02b/bjcc_17.jpg">
     </td>
   </tr>
   <tr>
@@ -460,7 +460,7 @@ all the debuffs.</p>
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02b/bjcc_18.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02b/bjcc_18.jpg">
     </td>
   </tr>
   <tr>
@@ -472,7 +472,7 @@ all the debuffs.</p>
       the other starts casting their enrage.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02b/bjcc_19.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02b/bjcc_19.jpg">
     </td>
   </tr>
 </table>
@@ -507,7 +507,7 @@ need to pass to the appropriate tank or healer).
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02b/nisi_example_01.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02b/nisi_example_01.jpg">
     </td>
   </tr>
   <tr>
@@ -529,7 +529,7 @@ need to pass to the appropriate tank or healer).
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02b/nisi_example_02.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02b/nisi_example_02.jpg">
     </td>
   </tr>
   <tr>
@@ -551,7 +551,7 @@ need to pass to the appropriate tank or healer).
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02b/nisi_example_03.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02b/nisi_example_03.jpg">
     </td>
   </tr>
   <tr>
@@ -573,7 +573,7 @@ need to pass to the appropriate tank or healer).
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02b/nisi_example_04.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02b/nisi_example_04.jpg">
     </td>
   </tr>
 </table>

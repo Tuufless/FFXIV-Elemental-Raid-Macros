@@ -27,7 +27,7 @@ This is the only phase in the fight with a transition mechanic.
 <table>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/sniper_cannon.png">
+      <img src="{{site.baseurl}}/images/ultimates/top/03/debuffs/sniper_cannon.png">
     </td>
     <td>
       <p><b>Sniper Cannon Fodder</b></p>
@@ -40,7 +40,7 @@ This is the only phase in the fight with a transition mechanic.
   </tr>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/high_powered_sniper_cannon.png">
+      <img src="{{site.baseurl}}/images/ultimates/top/03/debuffs/high_powered_sniper_cannon.png">
     </td>
     <td>
       <p><b>High-powered Sniper Cannon Fodder</b></p>
@@ -72,7 +72,7 @@ This is the only phase in the fight with a transition mechanic.
       <p><b>1.</b> Line up horizontally.</p>
       <p>All players will need shields to survive the transition.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/03/transition_01.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/03/transition_01.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -84,7 +84,7 @@ This is the only phase in the fight with a transition mechanic.
         <li><b>No debuffs:</b> Pair up with a <em>High-powered Sniper Cannon 
         Fodder</em> player north.</li>
       </ul></td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/03/transition_02.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/03/transition_02.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -92,14 +92,14 @@ This is the only phase in the fight with a transition mechanic.
       <p>Three arms will appear around the arena, 120 degrees from one another.</p>
       <p><b>Note where these first set of arms are.</b></p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/03/transition_03.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/03/transition_03.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>4.</b> Second pulse goes off.</p>
       <p>The second set of arms will appear around the arena.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/03/transition_04.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/03/transition_04.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -108,7 +108,7 @@ This is the only phase in the fight with a transition mechanic.
       <b>Note:</b> The Wave Repeater AoE boundaries <b>do not</b> follow the rings on the floor.</div>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/03/transition_05.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/top/03/transition_05.jpg">
     </td>
   </tr>
   <tr>
@@ -118,7 +118,7 @@ This is the only phase in the fight with a transition mechanic.
       of mechanics.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/03/transition_06.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/top/03/transition_06.jpg">
     </td>
   </tr>
   <tr>
@@ -126,7 +126,7 @@ This is the only phase in the fight with a transition mechanic.
       <p><b>7.</b> First pulse of the second wave goes off.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/03/transition_07.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/top/03/transition_07.jpg">
     </td>
   </tr>
   <tr>
@@ -135,7 +135,7 @@ This is the only phase in the fight with a transition mechanic.
       <p>The first set of arms will telegraph an AoE around them.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/03/transition_08.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/top/03/transition_08.jpg">
     </td>
   </tr>
   <tr>
@@ -147,7 +147,7 @@ This is the only phase in the fight with a transition mechanic.
       of AoE</b> so you do not get hit by the second set of arms.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/03/transition_09.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/top/03/transition_09.jpg">
     </td>
   </tr>
   <tr>
@@ -156,7 +156,7 @@ This is the only phase in the fight with a transition mechanic.
       AoE.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/03/transition_10.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/top/03/transition_10.jpg">
     </td>
   </tr>
 </table>
@@ -176,7 +176,7 @@ raid-wide damage, and applies a *lot* of debuffs on all players.
 <table>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/latent_synchronization_bug.png">
+      <img src="{{site.baseurl}}/images/ultimates/top/03/debuffs/latent_synchronization_bug.png">
     </td>
     <td>
       <p><b>Latent Synchronization Bug</b></p>
@@ -189,8 +189,8 @@ raid-wide damage, and applies a *lot* of debuffs on all players.
   </tr>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/local_code_smell.png">
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/local_regression.png">
+      <img src="{{site.baseurl}}/images/ultimates/top/03/debuffs/local_code_smell.png">
+      <img src="{{site.baseurl}}/images/ultimates/top/03/debuffs/local_regression.png">
     </td>
     <td>
       <p><b>Local Code Smell</b></p>
@@ -213,8 +213,8 @@ raid-wide damage, and applies a *lot* of debuffs on all players.
   </tr>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/remote_code_smell.png">
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/remote_regression.png">
+      <img src="{{site.baseurl}}/images/ultimates/top/03/debuffs/remote_code_smell.png">
+      <img src="{{site.baseurl}}/images/ultimates/top/03/debuffs/remote_regression.png">
     </td>
     <td>
       <p><b>Remote Code Smell</b></p>
@@ -237,8 +237,8 @@ raid-wide damage, and applies a *lot* of debuffs on all players.
   </tr>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/cascading_latent_defect.png">
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/latent_performance_defect.png">
+      <img src="{{site.baseurl}}/images/ultimates/top/03/debuffs/cascading_latent_defect.png">
+      <img src="{{site.baseurl}}/images/ultimates/top/03/debuffs/latent_performance_defect.png">
     </td>
     <td>
       <p><b>Cascading Latent Defect</b></p>
@@ -273,9 +273,9 @@ raid-wide damage, and applies a *lot* of debuffs on all players.
   </tr>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/overflow_code_smell.png">
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_overflow_bug.png">
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/overflow_debugger.png">
+      <img src="{{site.baseurl}}/images/ultimates/top/03/debuffs/overflow_code_smell.png">
+      <img src="{{site.baseurl}}/images/ultimates/top/03/debuffs/critical_overflow_bug.png">
+      <img src="{{site.baseurl}}/images/ultimates/top/03/debuffs/overflow_debugger.png">
     </td>
     <td>
       <p><b>Overflow Code Smell</b></p>
@@ -306,9 +306,9 @@ raid-wide damage, and applies a *lot* of debuffs on all players.
   </tr>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/synchronization_code_smell.png">
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_synchronization_bug.png">
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/synchronization_debugger.png">
+      <img src="{{site.baseurl}}/images/ultimates/top/03/debuffs/synchronization_code_smell.png">
+      <img src="{{site.baseurl}}/images/ultimates/top/03/debuffs/critical_synchronization_bug.png">
+      <img src="{{site.baseurl}}/images/ultimates/top/03/debuffs/synchronization_debugger.png">
     </td>
     <td>
       <p><b>Synchronization Code Smell</b></p>
@@ -336,9 +336,9 @@ raid-wide damage, and applies a *lot* of debuffs on all players.
   </tr>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/underflow_code_smell.png">
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_underflow_bug.png">
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/underflow_debugger.png">
+      <img src="{{site.baseurl}}/images/ultimates/top/03/debuffs/underflow_code_smell.png">
+      <img src="{{site.baseurl}}/images/ultimates/top/03/debuffs/critical_underflow_bug.png">
+      <img src="{{site.baseurl}}/images/ultimates/top/03/debuffs/underflow_debugger.png">
     </td>
     <td>
       <p><b>Underflow Code Smell</b></p>
@@ -378,9 +378,9 @@ raid-wide damage, and applies a *lot* of debuffs on all players.
   </tr>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/performance_code_smell.png">
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_performance_bug.png">
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/performance_debugger.png">
+      <img src="{{site.baseurl}}/images/ultimates/top/03/debuffs/performance_code_smell.png">
+      <img src="{{site.baseurl}}/images/ultimates/top/03/debuffs/critical_performance_bug.png">
+      <img src="{{site.baseurl}}/images/ultimates/top/03/debuffs/performance_debugger.png">
     </td>
     <td>
       <p><b>Performance Code Smell</b></p>
@@ -451,19 +451,19 @@ whether *Critical Overflow* is paired with *Critical Performance* or
 
 <table>
   <tr>
-    <td width="50%"><img src="{{site.baseurl}}/assets/images/ultimates/top/03/hello_world_0_0a.jpg"></td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/03/hello_world_0_0b.jpg"></td>
+    <td width="50%"><img src="{{site.baseurl}}/images/ultimates/top/03/hello_world_0_0a.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/03/hello_world_0_0b.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><em>"Blue is Defamation"</em></p>
-      <p>Critical Overflow <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_overflow_bug.png">
-      has Critical Performance <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_performance_bug.png"></p>
+      <p>Critical Overflow <img style="height:1em" src="{{site.baseurl}}/images/ultimates/top/03/debuffs/critical_overflow_bug.png">
+      has Critical Performance <img style="height:1em" src="{{site.baseurl}}/images/ultimates/top/03/debuffs/critical_performance_bug.png"></p>
     </td>
     <td>
       <p><em>"Red is Defamation"</em></p>
-      <p>Critical Overflow <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_overflow_bug.png">
-      has Critical Underflow <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_underflow_bug.png"></p>
+      <p>Critical Overflow <img style="height:1em" src="{{site.baseurl}}/images/ultimates/top/03/debuffs/critical_overflow_bug.png">
+      has Critical Underflow <img style="height:1em" src="{{site.baseurl}}/images/ultimates/top/03/debuffs/critical_underflow_bug.png"></p>
     </td>
   </tr>
 </table>
@@ -490,28 +490,28 @@ Thus, the full *Hello, World* sequence goes like this:
         <li>Orientate to coloured towers.</li>
         <li>Pair players together:
           <ul>
-            <li><em>Critical Overflows</em> <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_overflow_bug.png">
-            pair with <em>Local Regression</em> <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/local_regression.png">
+            <li><em>Critical Overflows</em> <img style="height:1em" src="{{site.baseurl}}/images/ultimates/top/03/debuffs/critical_overflow_bug.png">
+            pair with <em>Local Regression</em> <img style="height:1em" src="{{site.baseurl}}/images/ultimates/top/03/debuffs/local_regression.png">
             (red/green tethers).</li>
-            <li><em>Critical Synchronizations</em> <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_synchronization_bug.png">
-            pair with <em>Remote Regression</em> <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/remote_regression.png">
+            <li><em>Critical Synchronizations</em> <img style="height:1em" src="{{site.baseurl}}/images/ultimates/top/03/debuffs/critical_synchronization_bug.png">
+            pair with <em>Remote Regression</em> <img style="height:1em" src="{{site.baseurl}}/images/ultimates/top/03/debuffs/remote_regression.png">
             (blue tethers).</li>
           </ul>
         </li>
-        <li><em>Critical Overflows</em> <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_overflow_bug.png">
-        and <em>Critical Synchronizations</em> <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_synchronization_bug.png">
+        <li><em>Critical Overflows</em> <img style="height:1em" src="{{site.baseurl}}/images/ultimates/top/03/debuffs/critical_overflow_bug.png">
+        and <em>Critical Synchronizations</em> <img style="height:1em" src="{{site.baseurl}}/images/ultimates/top/03/debuffs/critical_synchronization_bug.png">
         resolve.</li>
-        <li>Pass <em>Critical Underflow</em> <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_underflow_bug.png">
-        (red Nisi) and <em>Critical Performance</em> <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_performance_bug.png">
+        <li>Pass <em>Critical Underflow</em> <img style="height:1em" src="{{site.baseurl}}/images/ultimates/top/03/debuffs/critical_underflow_bug.png">
+        (red Nisi) and <em>Critical Performance</em> <img style="height:1em" src="{{site.baseurl}}/images/ultimates/top/03/debuffs/critical_performance_bug.png">
         (blue Nisi) within the <b>next 3 seconds</b>.</li>
-        <li>Break <em>Remote Regression</em> <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/remote_regression.png">
+        <li>Break <em>Remote Regression</em> <img style="height:1em" src="{{site.baseurl}}/images/ultimates/top/03/debuffs/remote_regression.png">
         (blue tethers).</li>
-        <li>Break <em>Local Regression</em> <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/local_regression.png">
+        <li>Break <em>Local Regression</em> <img style="height:1em" src="{{site.baseurl}}/images/ultimates/top/03/debuffs/local_regression.png">
         (red/green tethers).</li>
         <li>Repeat the loop with the next mechanic in the cycle.</li>
       </ol>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/03/hello_world_cycle.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/03/hello_world_cycle.jpg"></td>
   </tr>
 </table>
 
@@ -654,29 +654,29 @@ We can now (finally) go over *Hello, World* in detail.
       <p><em>In this example:</em></p>
       <ul>
         <li>
-          <p><em>Critical Overflows <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_overflow_bug.png">
-          start with Critical Performance <img  style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_performance_bug.png">
+          <p><em>Critical Overflows <img style="height:1em" src="{{site.baseurl}}/images/ultimates/top/03/debuffs/critical_overflow_bug.png">
+          start with Critical Performance <img  style="height:1em" src="{{site.baseurl}}/images/ultimates/top/03/debuffs/critical_performance_bug.png">
           (blue Nisis), so will go to blue towers.</em></p>
           <ul>
-            <li><em>Local Regressions <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/local_regression.png">
+            <li><em>Local Regressions <img style="height:1em" src="{{site.baseurl}}/images/ultimates/top/03/debuffs/local_regression.png">
             (red/green tethers) follow Critical Overflows to the same colour
             (blue towers).</em></li>
           </ul>
         </li>
         <li>
-          <p><em>Critical Synchronization <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_synchronization_bug.png">
-          start with Critical Underflow <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_underflow_bug.png">
+          <p><em>Critical Synchronization <img style="height:1em" src="{{site.baseurl}}/images/ultimates/top/03/debuffs/critical_synchronization_bug.png">
+          start with Critical Underflow <img style="height:1em" src="{{site.baseurl}}/images/ultimates/top/03/debuffs/critical_underflow_bug.png">
           (red Nisis), so will go with red towers.</em></p>
           <ul>
-            <li><em>Remote Regressions <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/remote_regression.png">
+            <li><em>Remote Regressions <img style="height:1em" src="{{site.baseurl}}/images/ultimates/top/03/debuffs/remote_regression.png">
             (blue tethers) follow Critical Synchronizations
-            <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_synchronization_bug.png">
+            <img style="height:1em" src="{{site.baseurl}}/images/ultimates/top/03/debuffs/critical_synchronization_bug.png">
             to the same colour (red towers).</em></li>
           </ul>
         </li>
       </ul>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/03/hello_world_0_1.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/03/hello_world_0_1.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -687,20 +687,20 @@ We can now (finally) go over *Hello, World* in detail.
         Omega's hitbox. Find your partner and stand beside them.</li>
       </ul>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/03/hello_world_0_2.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/03/hello_world_0_2.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>3.</b> When the towers appear, the players with Critical 
-      Overflow <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_overflow_bug.png">
-      and Critical Performance <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_performance_bug.png">
+      Overflow <img style="height:1em" src="{{site.baseurl}}/images/ultimates/top/03/debuffs/critical_overflow_bug.png">
+      and Critical Performance <img style="height:1em" src="{{site.baseurl}}/images/ultimates/top/03/debuffs/critical_performance_bug.png">
       (the Nisis) move around the outside to get to their towers.</p>
       <p>The players with the tethers stay inside the Omega's target 
       circle, and orient themselves to prepare to move.</p>
       <p>The tether players <b>wait for the the Nisis to be in position</b>
       before moving out.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/03/hello_world_0_3.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/03/hello_world_0_3.jpg"></td>
   </tr>
 </table>
 
@@ -717,10 +717,10 @@ different debuffs each time).
     <td width="50%">
       <p><b>4.</b> Pair up and move to your towers.</p>
       <ul>
-        <li>Critical Overflow <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_overflow_bug.png">
+        <li>Critical Overflow <img style="height:1em" src="{{site.baseurl}}/images/ultimates/top/03/debuffs/critical_overflow_bug.png">
         and red/green tethered players pair up and move to their towers
         <em>(blue in this example).</em></li>
-        <li>Critical Synchronization <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_synchronization_bug.png">
+        <li>Critical Synchronization <img style="height:1em" src="{{site.baseurl}}/images/ultimates/top/03/debuffs/critical_synchronization_bug.png">
         and blue tethered players pair up and move to their towers <em>(red in
         this example)</em></li>
       </ul>
@@ -729,46 +729,46 @@ different debuffs each time).
         <li>The red/green tethered players are on the outside of their
         coloured towers</li>
         <li>The blue tethered players are between their coloured towers.</li>
-        <li>The Critical Overflow <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_overflow_bug.png"> 
+        <li>The Critical Overflow <img style="height:1em" src="{{site.baseurl}}/images/ultimates/top/03/debuffs/critical_overflow_bug.png"> 
         players are just outside the "white" center of their towers.</li>
       </ul>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/03/hello_world_1_1.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/03/hello_world_1_1.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>5.</b> The first set of tethers manifest.</p>
-      <p>Towers, Critical Overflow Bugs <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_overflow_bug.png">,
-      and Critical Synchronization Bugs <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_synchronization_bug.png">
+      <p>Towers, Critical Overflow Bugs <img style="height:1em" src="{{site.baseurl}}/images/ultimates/top/03/debuffs/critical_overflow_bug.png">,
+      and Critical Synchronization Bugs <img style="height:1em" src="{{site.baseurl}}/images/ultimates/top/03/debuffs/critical_synchronization_bug.png">
       resolve.</p>
       <ul>
-        <li>Critical Overflow Bugs <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_overflow_bug.png">
+        <li>Critical Overflow Bugs <img style="height:1em" src="{{site.baseurl}}/images/ultimates/top/03/debuffs/critical_overflow_bug.png">
         transfer to the red/green tethered players.</li>
-        <li>Critical Synchronisations <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_synchronization_bug.png">
+        <li>Critical Synchronisations <img style="height:1em" src="{{site.baseurl}}/images/ultimates/top/03/debuffs/critical_synchronization_bug.png">
         transfer to the blue tethered players.</li>
       </ul>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/03/hello_world_1_2.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/03/hello_world_1_2.jpg"></td>
   </tr>
   <tr>
     <td>
       <p>
-        <b>6.</b> Wait a split second before passing Critical Underflow <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_underflow_bug.png">
-        and Critical Performance Bugs <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_performance_bug.png">.
+        <b>6.</b> Wait a split second before passing Critical Underflow <img style="height:1em" src="{{site.baseurl}}/images/ultimates/top/03/debuffs/critical_underflow_bug.png">
+        and Critical Performance Bugs <img style="height:1em" src="{{site.baseurl}}/images/ultimates/top/03/debuffs/critical_performance_bug.png">.
       </p>
-      <p>The players who were at the Critical Overflow <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_synchronization_bug.png"> towers <em>(blue in this example)</em> 
+      <p>The players who were at the Critical Overflow <img style="height:1em" src="{{site.baseurl}}/images/ultimates/top/03/debuffs/critical_synchronization_bug.png"> towers <em>(blue in this example)</em> 
       pass their coloured debuffs at the markers.</p>
       <p>Blue-tethered players also break their tether in the process.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/03/hello_world_1_3.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/03/hello_world_1_3.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>7.</b> Red/green tethered players move together to break their tether.</p>
-      <p>Avoid the explosions from Critical Underflow <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_underflow_bug.png">
-      and Critical Performance <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_performance_bug.png">.</p>
+      <p>Avoid the explosions from Critical Underflow <img style="height:1em" src="{{site.baseurl}}/images/ultimates/top/03/debuffs/critical_underflow_bug.png">
+      and Critical Performance <img style="height:1em" src="{{site.baseurl}}/images/ultimates/top/03/debuffs/critical_performance_bug.png">.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/03/hello_world_1_4.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/03/hello_world_1_4.jpg"></td>
   </tr>
 </table>
 
@@ -778,12 +778,12 @@ All players rotate their roles for the next iteration, and repeat the loop.
 
 There are **two key differences** for the final iteration:
 
-1. Players with *Local Regression* <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/local_regression.png"> 
-   will **join** the *Critical Synchronizations* <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_synchronization_bug.png">
-   instead of getting hit by *Critical Overflow* <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_overflow_bug.png">
+1. Players with *Local Regression* <img style="height:1em" src="{{site.baseurl}}/images/ultimates/top/03/debuffs/local_regression.png"> 
+   will **join** the *Critical Synchronizations* <img style="height:1em" src="{{site.baseurl}}/images/ultimates/top/03/debuffs/critical_synchronization_bug.png">
+   instead of getting hit by *Critical Overflow* <img style="height:1em" src="{{site.baseurl}}/images/ultimates/top/03/debuffs/critical_overflow_bug.png">
    and will break **first**.
-2. Players will **not** pass *Critical Underflow* <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_underflow_bug.png">
-   and *Critical Performance* <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_performance_bug.png">.
+2. Players will **not** pass *Critical Underflow* <img style="height:1em" src="{{site.baseurl}}/images/ultimates/top/03/debuffs/critical_underflow_bug.png">
+   and *Critical Performance* <img style="height:1em" src="{{site.baseurl}}/images/ultimates/top/03/debuffs/critical_performance_bug.png">.
 
 Also, because all players have gone through all other roles, they have the
 Debugger buffs that prevent them from receiving *Critical Underflow Bug* and
@@ -798,42 +798,42 @@ passed, even if players bump into one another.
       <p><b>8.</b> Pair up and move to your towers.</p>
       <ul>
         <li><b>Red/green tethered players will be with Critical Synchronization
-        <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_synchronization_bug.png">
+        <img style="height:1em" src="{{site.baseurl}}/images/ultimates/top/03/debuffs/critical_synchronization_bug.png">
         this time.</b></li>
-        <li>Critical Synchronization <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_synchronization_bug.png">,
+        <li>Critical Synchronization <img style="height:1em" src="{{site.baseurl}}/images/ultimates/top/03/debuffs/critical_synchronization_bug.png">,
         blue tethered players, and red/green tethered players group up and move
         to their towers.</li>
       </ul>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/03/hello_world_4_1.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/03/hello_world_4_1.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>9.</b> The last set of tethers manifest.</p>
-      <p>Latent Defect, Towers, Critical Overflow Bugs <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_overflow_bug.png">,
-      and Critical Synchronization Bugs <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_synchronization_bug.png">
+      <p>Latent Defect, Towers, Critical Overflow Bugs <img style="height:1em" src="{{site.baseurl}}/images/ultimates/top/03/debuffs/critical_overflow_bug.png">,
+      and Critical Synchronization Bugs <img style="height:1em" src="{{site.baseurl}}/images/ultimates/top/03/debuffs/critical_synchronization_bug.png">
       resolve.</p>
       <p>This should immediately break the red/green tethers- break them if
       they have not.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/03/hello_world_4_2.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/03/hello_world_4_2.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>10.</b> <b>Do not</b> pass Critical Underflow
-      <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_underflow_bug.png">
-      and Critical Performance Bugs <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_performance_bug.png">.</p>
+      <img style="height:1em" src="{{site.baseurl}}/images/ultimates/top/03/debuffs/critical_underflow_bug.png">
+      and Critical Performance Bugs <img style="height:1em" src="{{site.baseurl}}/images/ultimates/top/03/debuffs/critical_performance_bug.png">.</p>
       <p>Blue-tethered players break their tether.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/03/hello_world_4_3.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/03/hello_world_4_3.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>11.</b> Avoid the explosions from Critical Underflow
-      <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_underflow_bug.png">
-      and Critical Performance <img style="height:1em" src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/critical_performance_bug.png">.</p>
+      <img style="height:1em" src="{{site.baseurl}}/images/ultimates/top/03/debuffs/critical_underflow_bug.png">
+      and Critical Performance <img style="height:1em" src="{{site.baseurl}}/images/ultimates/top/03/debuffs/critical_performance_bug.png">.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/03/hello_world_4_4.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/03/hello_world_4_4.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -844,7 +844,7 @@ passed, even if players bump into one another.
       all players, which will get blocked by everybody's <em>Overflow Debugger</em>
       buff.</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/03/hello_world_4_5.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/03/hello_world_4_5.jpg"></td>
   </tr>
 </table>
 
@@ -869,7 +869,7 @@ players each.
 <table>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/assets/images/ultimates/top/03/debuffs/monitors_debuff.png">
+      <img src="{{site.baseurl}}/images/ultimates/top/03/debuffs/monitors_debuff.png">
     </td>
     <td>
       <p><em>Preparing oversampled wave cannon, which will fire in the
@@ -896,7 +896,7 @@ PF currently resolves this using [Astoh's strat](https://twitter.com/Astoh_Shall
         <li><b>North:</b> H1 H2 MT ST D1 D2 D3 D4 <b>:South</b></li>
       </ul>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/03/monitors_01.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/03/monitors_01.jpg"></td>
   </tr>
   <tr>
     <td colspan="2">
@@ -918,9 +918,9 @@ PF currently resolves this using [Astoh's strat](https://twitter.com/Astoh_Shall
     <td style="text-align:center"><b>Omega's monitors face east</b></td>
   </tr>
   <tr>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/03/monitors_02a.jpg">
+    <td><img src="{{site.baseurl}}/images/ultimates/top/03/monitors_02a.jpg">
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/03/monitors_02b.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/03/monitors_02b.jpg"></td>
   </tr>
   <tr>
     <td colspan="2">

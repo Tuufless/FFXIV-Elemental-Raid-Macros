@@ -29,8 +29,8 @@ Since Elemental PF hasn't agreed on a TEA strat since Patch 5.1, I'm going to ta
 - Relic weapons will have their substats capped at **184**.
 - The lowest potions you can use and still get maximum benefits are **HQ Grade 6 Tinctures**.
 
-![]({{site.baseurl}}/assets/images/ultimates/tea/tea_cheatsheet.jpg)
-*(Full-size image: [English]({{site.baseurl}}/assets/images/ultimates/tea/tea_cheatsheet.jpg), [日本語]({{site.baseurl}}/assets/images/ultimates/tea/tea_cheatsheet_jp.jpg))*
+![]({{site.baseurl}}/images/ultimates/tea/tea_cheatsheet.jpg)
+*(Full-size image: [English]({{site.baseurl}}/images/ultimates/tea/tea_cheatsheet.jpg), [日本語]({{site.baseurl}}/images/ultimates/tea/tea_cheatsheet_jp.jpg))*
 
 ---
 
@@ -52,14 +52,14 @@ Here are some clear PoVs that I've been collecting.
 ## English
 
 ```
-{% include_relative macros/tea.en.txt %}
+{% include macros/ultimates/tea.en.txt %}
 ```
 
 <details markdown=block>
 <summary>日本語</summary>
 
 ```
-{% include_relative macros/tea.jp.txt %}
+{% include macros/ultimates/tea.jp.txt %}
 ```
 
 </details>
@@ -87,7 +87,7 @@ Here are some clear PoVs that I've been collecting.
 - `B`: Dark Beacon (Forced March, Fate Calibration Beta)
 - `1234`: Exatrine
 
-![]({{site.baseurl}}/assets/images/ultimates/tea/markers.jpg)
+![]({{site.baseurl}}/images/ultimates/tea/markers.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 

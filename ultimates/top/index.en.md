@@ -32,10 +32,10 @@ Looking towards the future:
 - The Omega Protocol will not be outgeared until **i760** gear is available.
 - Relic weapons (when they arrive) will have their substats capped at **287**.
 
-![]({{site.baseurl}}/assets/images/ultimates/top/top_cheatsheet.jpg)
-*(Full-size image: [English]({{site.baseurl}}/assets/images/ultimates/top/top_cheatsheet.jpg), 
-[日本語]({{site.baseurl}}/assets/images/ultimates/top/top_cheatsheet_jp.jpg),
-[中文(台灣)]({{site.baseurl}}/assets/images/ultimates/top/top_cheatsheet_zhtw.jpg))*
+![]({{site.baseurl}}/images/ultimates/top/top_cheatsheet.jpg)
+*(Full-size image: [English]({{site.baseurl}}/images/ultimates/top/top_cheatsheet.jpg), 
+[日本語]({{site.baseurl}}/images/ultimates/top/top_cheatsheet_jp.jpg),
+[中文(台灣)]({{site.baseurl}}/images/ultimates/top/top_cheatsheet_zhtw.jpg))*
 
 ---
 
@@ -64,14 +64,14 @@ Here are some clear PoVs that I've been collecting.
 
 ## English
 ```
-{% include_relative macros/top.en.txt %}
+{% include macros/ultimates/top.en.txt %}
 ```
 
 <details markdown=block>
 <summary>日本語</summary>
 
 ```
-{% include_relative macros/top.jp.txt %}
+{% include macros/ultimates/top.jp.txt %}
 ```
 
 </details>
@@ -80,7 +80,7 @@ Here are some clear PoVs that I've been collecting.
 
 ## Markers
 
-![]({{site.baseurl}}/assets/images/ultimates/top/markers.jpg)
+![]({{site.baseurl}}/images/ultimates/top/markers.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 

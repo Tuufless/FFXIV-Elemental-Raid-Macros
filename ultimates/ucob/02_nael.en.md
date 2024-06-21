@@ -101,7 +101,7 @@ The quotes that Nael will use in this phase are:
       is over, and center Nael, facing North.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/02/nael_1_1.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/02/nael_1_1.jpg">
     </td>
   </tr>
   <tr>
@@ -111,7 +111,7 @@ The quotes that Nael will use in this phase are:
       <p>These dragons are responsible for much of the upcoming mechanics.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/02/nael_1_2.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/02/nael_1_2.jpg">
     </td>
   </tr>
 </table>
@@ -122,8 +122,8 @@ The quotes that Nael will use in this phase are:
 <table>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/02/fire_resistance.png">
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/02/ice_resistance.png">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/02/fire_resistance.png">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/02/ice_resistance.png">
     </td>
     <td>
       <p><b>Firescorched and Icebitten</b></p>
@@ -146,7 +146,7 @@ The quotes that Nael will use in this phase are:
   </tr>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/02/doom.png">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/02/doom.png">
     </td>
     <td>
       <p><b>Dooms and Wings of Salvation</b></p>
@@ -164,7 +164,7 @@ The quotes that Nael will use in this phase are:
   </tr>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/02/thunderstruck.png">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/02/thunderstruck.png">
     </td>
     <td>
       <p><b>Thunderstruck</b></p>
@@ -206,7 +206,7 @@ To summarize the mechanics sequence for Nael's first line:
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/02/nael_1_3.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/02/nael_1_3.jpg">
     </td>
   </tr>
   <tr>
@@ -216,8 +216,8 @@ To summarize the mechanics sequence for Nael's first line:
       Chariot</em>.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/02/nael_1_4a.jpg">
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/02/nael_1_4b.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/02/nael_1_4a.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/02/nael_1_4b.jpg">
     </td>
   </tr>
   <tr>
@@ -226,7 +226,7 @@ To summarize the mechanics sequence for Nael's first line:
       party gets hit by the <em>Fireball</em>.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/02/nael_1_5.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/02/nael_1_5.jpg">
     </td>
   </tr>
   <tr>
@@ -237,7 +237,7 @@ To summarize the mechanics sequence for Nael's first line:
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/02/nael_1_6.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/02/nael_1_6.jpg">
     </td>
   </tr>
   <tr>
@@ -249,7 +249,7 @@ To summarize the mechanics sequence for Nael's first line:
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/02/nael_1_7.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/02/nael_1_7.jpg">
     </td>
   </tr>
   <tr>
@@ -257,7 +257,7 @@ To summarize the mechanics sequence for Nael's first line:
       <p><b>8.</b> Nael does a 5-hit <em>Bahamut's Claw</em> on the MT.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/02/nael_1_8.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/02/nael_1_8.jpg">
     </td>
   </tr>
 </table>
@@ -290,7 +290,7 @@ This is potentially the most hectic sequence in this phase:
         player to remove <em>Icebitten</em>.</li></ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/02/nael_1_9.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/02/nael_1_9.jpg">
     </td>
   </tr>
   <tr>
@@ -306,7 +306,7 @@ This is potentially the most hectic sequence in this phase:
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/02/nael_2_1.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/02/nael_2_1.jpg">
     </td>
   </tr>
   <tr>
@@ -315,7 +315,7 @@ This is potentially the most hectic sequence in this phase:
       <p>Stack in the middle for <em>Thermionic Beam</em>.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/02/nael_2_2.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/02/nael_2_2.jpg">
     </td>
   </tr>
   <tr>
@@ -327,8 +327,8 @@ This is potentially the most hectic sequence in this phase:
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/02/nael_2_3a.jpg">
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/02/nael_2_3b.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/02/nael_2_3a.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/02/nael_2_3b.jpg">
     </td>
   </tr>
   <tr>
@@ -337,7 +337,7 @@ This is potentially the most hectic sequence in this phase:
       <em>three</em> Dooms at 6s, 10s, and 14s.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/02/nael_2_4.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/02/nael_2_4.jpg">
     </td>
   </tr>
   <tr>
@@ -349,7 +349,7 @@ This is potentially the most hectic sequence in this phase:
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/02/nael_2_5.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/02/nael_2_5.jpg">
     </td>
   </tr>
   <tr>
@@ -363,7 +363,7 @@ This is potentially the most hectic sequence in this phase:
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/02/nael_2_6.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/02/nael_2_6.jpg">
     </td>
   </tr>
   <tr>
@@ -371,7 +371,7 @@ This is potentially the most hectic sequence in this phase:
       <p><b>16. 14s Doom:</b> Cleanse your Doom debuff.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/02/nael_2_7.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/02/nael_2_7.jpg">
     </td>
   </tr>
   <tr>
@@ -381,7 +381,7 @@ This is potentially the most hectic sequence in this phase:
       <b>except the player that was 2nd Fire.</b></p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/02/nael_2_8.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/02/nael_2_8.jpg">
     </td>
   </tr>
   <tr>
@@ -390,7 +390,7 @@ This is potentially the most hectic sequence in this phase:
       <p>Nael will Bahamut's Claw the MT.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/02/nael_2_9.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/02/nael_2_9.jpg">
     </td>
   </tr>
 </table>
@@ -426,7 +426,7 @@ The mechanics for Nael's third line will go:
       <p>The Fire Dragon will also tether to a random player.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/02/nael_3_1.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/02/nael_3_1.jpg">
     </td>
   </tr>
   <tr>
@@ -439,8 +439,8 @@ The mechanics for Nael's third line will go:
       <p>Two random players will be targeted for <em>Thunderstruck</em>.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/02/nael_3_2a.jpg">
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/02/nael_3_2b.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/02/nael_3_2a.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/02/nael_3_2b.jpg">
     </td>
   </tr>
   <tr>
@@ -449,7 +449,7 @@ The mechanics for Nael's third line will go:
       Salvation</em> AoE appears.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/02/nael_3_3.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/02/nael_3_3.jpg">
     </td>
   </tr>
   <tr>
@@ -464,7 +464,7 @@ The mechanics for Nael's third line will go:
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/02/nael_3_4.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/02/nael_3_4.jpg">
     </td>
   </tr>
   <tr>
@@ -475,7 +475,7 @@ The mechanics for Nael's third line will go:
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/02/nael_3_5.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/02/nael_3_5.jpg">
     </td>
   </tr>
   <tr>
@@ -486,7 +486,7 @@ The mechanics for Nael's third line will go:
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/02/nael_3_6.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/02/nael_3_6.jpg">
     </td>
   </tr>
   <tr>
@@ -497,7 +497,7 @@ The mechanics for Nael's third line will go:
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/02/nael_3_7.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/02/nael_3_7.jpg">
     </td>
   </tr>
   <tr>
@@ -507,7 +507,7 @@ The mechanics for Nael's third line will go:
       II</em> debuff, forcing a tank swap.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/02/nael_3_8.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/02/nael_3_8.jpg">
     </td>
   </tr>
 </table>
@@ -548,7 +548,7 @@ You can use this site to practice divebomb placement:
       that's not the ST (who currently holds hate).</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/02/nael_4_1.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/02/nael_4_1.jpg">
     </td>
   </tr>
   <tr>
@@ -559,7 +559,7 @@ You can use this site to practice divebomb placement:
       <p>The second divebomb marker appears above another player.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/02/nael_4_2.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/02/nael_4_2.jpg">
     </td>
   </tr>
   <tr>
@@ -570,7 +570,7 @@ You can use this site to practice divebomb placement:
       <p>The third divebomb marker appears above another player.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/02/nael_4_3.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/02/nael_4_3.jpg">
     </td>
   </tr>
   <tr>
@@ -580,7 +580,7 @@ You can use this site to practice divebomb placement:
       location.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/02/nael_4_4.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/02/nael_4_4.jpg">
     </td>
   </tr>
   <tr>
@@ -595,8 +595,8 @@ You can use this site to practice divebomb placement:
       <p>The party should also avoid the ST.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/02/nael_4_5a.jpg">
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/02/nael_4_5b.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/02/nael_4_5a.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/02/nael_4_5b.jpg">
     </td>
   </tr>
   <tr>
@@ -613,8 +613,8 @@ You can use this site to practice divebomb placement:
       <p>The third set of divebombs will also resolve.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/02/nael_4_6a.jpg">
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/02/nael_4_6b.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/02/nael_4_6a.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/02/nael_4_6b.jpg">
     </td>
   </tr>
   <tr>
@@ -623,7 +623,7 @@ You can use this site to practice divebomb placement:
       just like the sequence at the start of the phase.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/ucob/02/nael_4_7.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/ucob/02/nael_4_7.jpg">
     </td>
   </tr>
 </table>

@@ -26,7 +26,7 @@ This is the second of the four blocks in in Ultima Weapon's timeline.
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04b/annihilation_01.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/04b/annihilation_01.jpg">
     </td>
   </tr>
   <tr>
@@ -37,7 +37,7 @@ This is the second of the four blocks in in Ultima Weapon's timeline.
       and bait in pairs.)</em></p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04b/annihilation_02.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/04b/annihilation_02.jpg">
     </td>
   </tr>
   <tr>
@@ -49,7 +49,7 @@ This is the second of the four blocks in in Ultima Weapon's timeline.
       You can take note of where Titan is to prepare for the next movement.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04b/annihilation_03.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/04b/annihilation_03.jpg">
     </td>
   </tr>
   <tr>
@@ -68,7 +68,7 @@ This is the second of the four blocks in in Ultima Weapon's timeline.
       <b>then</b> dodge Titan's Landslide.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04b/annihilation_04.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/04b/annihilation_04.jpg">
     </td>
   </tr>
   <tr>
@@ -77,7 +77,7 @@ This is the second of the four blocks in in Ultima Weapon's timeline.
       the second set <em>(Only Titan will have a second set of Landslides).</em></p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04b/annihilation_05.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/04b/annihilation_05.jpg">
     </td>
   </tr>
   <tr>
@@ -95,7 +95,7 @@ This is the second of the four blocks in in Ultima Weapon's timeline.
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04b/annihilation_06.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/04b/annihilation_06.jpg">
     </td>
   </tr>
   <tr>
@@ -108,7 +108,7 @@ This is the second of the four blocks in in Ultima Weapon's timeline.
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04b/annihilation_07.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/04b/annihilation_07.jpg">
     </td>
   </tr>
   <tr>
@@ -128,7 +128,7 @@ This is the second of the four blocks in in Ultima Weapon's timeline.
       <p>Everybody rotates anti-clockwise to dodge Feather Rains.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04b/annihilation_08.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/04b/annihilation_08.jpg">
     </td>
   </tr>
 </table>
@@ -159,7 +159,7 @@ south-east corner).
       <em>Flaming Crush</em> stack.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04b/annihilation_09.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/04b/annihilation_09.jpg">
     </td>
   </tr>
   <tr>
@@ -168,7 +168,7 @@ south-east corner).
       <p>Garuda will spawn south and tether onto a random player.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04b/annihilation_10.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/04b/annihilation_10.jpg">
     </td>
   </tr>
   <tr>
@@ -184,7 +184,7 @@ south-east corner).
       </ul>
     </td>
   	<td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04b/annihilation_11.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/04b/annihilation_11.jpg">
     </td>
   </tr>
   <tr>
@@ -199,7 +199,7 @@ south-east corner).
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04b/annihilation_12.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/04b/annihilation_12.jpg">
     </td>
   </tr>
   <tr>
@@ -214,7 +214,7 @@ south-east corner).
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04b/annihilation_13.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/04b/annihilation_13.jpg">
     </td>
   </tr>
   <tr>
@@ -224,7 +224,7 @@ south-east corner).
       arena.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04b/annihilation_14.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/04b/annihilation_14.jpg">
     </td>
   </tr>
   <tr>
@@ -239,7 +239,7 @@ south-east corner).
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04b/annihilation_15.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/04b/annihilation_15.jpg">
     </td>
   </tr>
   <tr>
@@ -256,7 +256,7 @@ south-east corner).
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/uwu/04b/annihilation_16.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/uwu/04b/annihilation_16.jpg">
     </td>
   </tr>
 </table>

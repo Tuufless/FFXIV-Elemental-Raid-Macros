@@ -45,7 +45,7 @@ There are two main strats for Limit Cut- [1211](#1211), and [1256](#1256).
       nullified with <em>Arm's Length</em> or <em>Surecast</em>.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02a/limit_cut.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02a/limit_cut.jpg">
     </td>
   </tr>
 </table>
@@ -72,7 +72,7 @@ through the center of the arena).*
       combo.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02a/limit_cut_1211_overview.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02a/limit_cut_1211_overview.jpg">
     </td>
   </tr>
 </table>
@@ -86,7 +86,7 @@ The movement for 1211 is as follows:
       explosion in the northern (west) half.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02a/limit_cut_1211_01.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02a/limit_cut_1211_01.jpg">
     </td>
   </tr>
   <tr>
@@ -98,7 +98,7 @@ The movement for 1211 is as follows:
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02a/limit_cut_1211_02.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02a/limit_cut_1211_02.jpg">
     </td>
   </tr>
   <tr>
@@ -106,7 +106,7 @@ The movement for 1211 is as follows:
       <p><b>3.</b> Third pair of explosions.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02a/limit_cut_1211_03.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02a/limit_cut_1211_03.jpg">
     </td>
   </tr>
   <tr>
@@ -119,7 +119,7 @@ The movement for 1211 is as follows:
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02a/limit_cut_1211_04.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02a/limit_cut_1211_04.jpg">
     </td>
   </tr>
   <tr>
@@ -127,7 +127,7 @@ The movement for 1211 is as follows:
       <p><b>5.</b> Fifth explosion.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02a/limit_cut_1211_05.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02a/limit_cut_1211_05.jpg">
     </td>
   </tr>
   <tr>
@@ -135,7 +135,7 @@ The movement for 1211 is as follows:
       <p><b>6.</b> Sixth pair of explosions.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02a/limit_cut_1211_06.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02a/limit_cut_1211_06.jpg">
     </td>
   </tr>
   <tr>
@@ -147,7 +147,7 @@ The movement for 1211 is as follows:
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02a/limit_cut_1211_07.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02a/limit_cut_1211_07.jpg">
     </td>
   </tr>
   <tr>
@@ -159,7 +159,7 @@ The movement for 1211 is as follows:
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02a/limit_cut_1211_08.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02a/limit_cut_1211_08.jpg">
     </td>
   </tr>
   <tr>
@@ -167,7 +167,7 @@ The movement for 1211 is as follows:
       <p><b>9.</b> Ninth pair of explosions. Do not enter the middle yet.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02a/limit_cut_1211_09.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02a/limit_cut_1211_09.jpg">
     </td>
   </tr>
   <tr>
@@ -178,7 +178,7 @@ The movement for 1211 is as follows:
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02a/limit_cut_1211_10.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02a/limit_cut_1211_10.jpg">
     </td>
   </tr>
 </table>
@@ -204,7 +204,7 @@ TEA.
       and <b>8</b> start from the southern (east) explosion.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02a/limit_cut_1256_overview.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02a/limit_cut_1256_overview.jpg">
     </td>
   </tr>
 </table>
@@ -232,7 +232,7 @@ finished resolving their Limit Cut) swaps places.
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02a/limit_cut_1256_01.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02a/limit_cut_1256_01.jpg">
     </td>
   </tr>
   <tr>
@@ -243,7 +243,7 @@ finished resolving their Limit Cut) swaps places.
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02a/limit_cut_1256_02.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02a/limit_cut_1256_02.jpg">
     </td>
   </tr>
   <tr>
@@ -257,7 +257,7 @@ finished resolving their Limit Cut) swaps places.
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02a/limit_cut_1256_03.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02a/limit_cut_1256_03.jpg">
     </td>
   </tr>
   <tr>
@@ -271,7 +271,7 @@ finished resolving their Limit Cut) swaps places.
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02a/limit_cut_1256_04.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02a/limit_cut_1256_04.jpg">
     </td>
   </tr>
   <tr>
@@ -279,7 +279,7 @@ finished resolving their Limit Cut) swaps places.
       <p><b>5.</b> Fifth explosion.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02a/limit_cut_1256_05.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02a/limit_cut_1256_05.jpg">
     </td>
   </tr>
   <tr>
@@ -287,7 +287,7 @@ finished resolving their Limit Cut) swaps places.
       <p><b>6.</b> Sixth pair of explosions.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02a/limit_cut_1256_06.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02a/limit_cut_1256_06.jpg">
     </td>
   </tr>
   <tr>
@@ -301,7 +301,7 @@ finished resolving their Limit Cut) swaps places.
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02a/limit_cut_1256_07.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02a/limit_cut_1256_07.jpg">
     </td>
   </tr>
   <tr>
@@ -315,7 +315,7 @@ finished resolving their Limit Cut) swaps places.
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02a/limit_cut_1256_08.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02a/limit_cut_1256_08.jpg">
     </td>
   </tr>
   <tr>
@@ -323,7 +323,7 @@ finished resolving their Limit Cut) swaps places.
       <p><b>9.</b> Ninth pair of explosions.</p>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02a/limit_cut_1256_09.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02a/limit_cut_1256_09.jpg">
     </td>
   </tr>
   <tr>
@@ -337,7 +337,7 @@ finished resolving their Limit Cut) swaps places.
       </ul>
     </td>
 	  <td>
-      <img src="{{site.baseurl}}/assets/images/ultimates/tea/02a/limit_cut_1256_10.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/tea/02a/limit_cut_1256_10.jpg">
     </td>
   </tr>
 </table>
