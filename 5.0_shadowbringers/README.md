@@ -28,30 +28,30 @@ The level cap for Shadowbringers is **Level 80**.
 
 The item level cap for Eden's Gate is **iLvl 475**.
 
-- **E1S** - [Eden's Gate: Resurrection (Savage)](savage_raids/e1s/README.md)
-- **E2S** - [Eden's Gate: Descent (Savage)](savage_raids/e2s/README.md)
-- **E3S** - [Eden's Gate: Inundation (Savage)](savage_raids/e3s/README.md)
-- **E4S** - [Eden's Gate: Sepulture (Savage)](savage_raids/e4s/README.md)
+- **E1S** - [Eden's Gate: Resurrection (Savage)](savage_raids/e1s.en.md)
+- **E2S** - [Eden's Gate: Descent (Savage)](savage_raids/e2s.en.md)
+- **E3S** - [Eden's Gate: Inundation (Savage)](savage_raids/e3s.en.md)
+- **E4S** - [Eden's Gate: Sepulture (Savage)](savage_raids/e4s.en.md)
 
 ### Eden's Verse (Patch 5.2)
 
 The item level cap for Eden's Verse is **iLvl 505**.
 
-- **E5S** - [Eden's Verse: Fulmination (Savage)](savage_raids/e5s/README.md)
-- **E6S** - [Eden's Verse: Furor (Savage)](savage_raids/e6s/README.md)
-- **E7S** - [Eden's Verse: Iconoclasm (Savage)](savage_raids/e7s/README.md)
-- **E8S** - [Eden's Verse: Refulgence (Savage)](savage_raids/e8s/README.md)
+- **E5S** - [Eden's Verse: Fulmination (Savage)](savage_raids/e5s.en.md)
+- **E6S** - [Eden's Verse: Furor (Savage)](savage_raids/e6s.en.md)
+- **E7S** - [Eden's Verse: Iconoclasm (Savage)](savage_raids/e7s.en.md)
+- **E8S** - [Eden's Verse: Refulgence (Savage)](savage_raids/e8s.en.md)
 
 ### Eden's Promise (Patch 5.4)
 
 The item level cap for Eden's Promise is **iLvl 535**.
 
-- **E9S** - [Eden's Promise: Umbra (Savage)](savage_raids/e9s/README.md)
-- **E10S** - [Eden's Promise: Litany (Savage)](savage_raids/e10s/README.md)
-- **E11S** - [Eden's Promise: Anamorphosis (Savage)](savage_raids/e11s/README.md)
+- **E9S** - [Eden's Promise: Umbra (Savage)](savage_raids/e9s.en.md)
+- **E10S** - [Eden's Promise: Litany (Savage)](savage_raids/e10s.en.md)
+- **E11S** - [Eden's Promise: Anamorphosis (Savage)](savage_raids/e11s.en.md)
 - **E12S** - Eden's Promise: Eternity (Savage)
-	- [Part 1](savage_raids/e12s_1/README.md)
-	- [Part 2](savage_raids/e12s_2/README.md)
+	- [Part 1](savage_raids/e12s_1.en.md)
+	- [Part 2](savage_raids/e12s_2.en.md)
 
 ## Ultimate
 

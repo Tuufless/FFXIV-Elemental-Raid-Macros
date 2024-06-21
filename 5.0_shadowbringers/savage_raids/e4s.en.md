@@ -25,12 +25,12 @@ This is an evolution of Amaya's strategy, and largely became the PF standard. It
 
 ### English
 ```
-{% include_relative macros/e4s_amaya.en.txt %}
+{% include macros/5.0_shadowbringers/e4s_amaya.en.txt %}
 ```
 
 ### Japanese
 ```
-{% include_relative macros/e4s_amaya.jp.txt %}
+{% include macros/5.0_shadowbringers/e4s_amaya.jp.txt %}
 ```
 
 ## Idyll strat/イディル式
@@ -42,18 +42,18 @@ The other strategy used for Orogenesis was the Idyll strat (イディル式). Th
 
 ### English
 ```
-{% include_relative macros/e4s_idyll.en.txt %}
+{% include macros/5.0_shadowbringers/e4s_idyll.en.txt %}
 ```
 
 ### Japanese
 ```
-{% include_relative macros/e4s_idyll.jp.txt %}
+{% include macros/5.0_shadowbringers/e4s_idyll.jp.txt %}
 ```
 
 ## Markers
 
 `ABCD` are used for Crumbling Down. `1` marks North for orientation. Both strategies use the same markers.
-![](images/markers.jpg)
+![]({{site.baseurl}}/images/5.0_shadowbringers/e4s/markers.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 

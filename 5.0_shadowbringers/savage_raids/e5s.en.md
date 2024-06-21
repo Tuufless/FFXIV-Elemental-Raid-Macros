@@ -14,12 +14,12 @@ permalink: /5.0_shadowbringers/savage_raids/e5s/
 
 ## English
 ```
-{% include_relative macros/e5s.en.txt %}
+{% include macros/5.0_shadowbringers/e5s.en.txt %}
 ```
 
 ## Japanese
 ```
-{% include_relative macros/e5s.jp.txt %}
+{% include macros/5.0_shadowbringers/e5s.jp.txt %}
 ```
 
 ## Variants
@@ -30,7 +30,7 @@ You may see H1 and D3 swapped around for Chain Lightning (so D3 and H2 are the o
 
 (`C` and `D` are on the last two corners, off-screen)
 `ABCD` are for Thunderclouds, while `1234` are for Chain Lightning.
-![](images/markers.jpg)
+![]({{site.baseurl}}/images/5.0_shadowbringers/e5s/markers.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 

@@ -9,31 +9,35 @@ permalink: /5.0_shadowbringers/savage_raids/e9s/
 
 # Eden's Promise: Umbra (Savage)
 
-The standard PF strategy uses [Akito's strat (あきと式)](https://youtu.be/FMJ2W5_MLW8) as a base, but replaces the Empty Plane positions with Yamipika (やみぴか) positions, although you'll often see "天空近接内" instead (melees in for Empty Plane). Yamipika essentially ensures tanks and melee DPS have full uptime on the boss throughout the Empty Plane phase.
+The standard PF strategy uses [Akito's strat (あきと式)](https://youtu.be/FMJ2W5_MLW8)
+as a base, but replaces the Empty Plane positions with Yamipika (やみぴか)
+positions, although you'll often see "天空近接内" instead (melees in for *Empty
+Plane*). Yamipika essentially ensures tanks and melee DPS have full uptime on
+the boss throughout the *Empty Plane* phase.
 
 ### Things to check on Party Finder
 
 - Tower positions may be flipped horizontally.
-- It's also worth checking the Empty Plane positions just to be sure.
+- It's also worth checking the *Empty Plane* positions just to be sure.
 
 ## English
 
 *(Akito's strat, Yamipika Empty Plane)*
 ```
-{% include_relative macros/e9s.en.txt %}
+{% include macros/5.0_shadowbringers/e9s.en.txt %}
 ```
 
 ## Japanese
 
 *(Akito's strat, Yamipika Empty Plane)*
 ```
-{% include_relative macros/e9s.jp.txt %}
+{% include macros/5.0_shadowbringers/e9s.jp.txt %}
 ```
 
 ## Markers
 
 The markers are used to drop seeds for Brambles.
-![](images/markers.jpg)
+![]({{site.baseurl}}/images/5.0_shadowbringers/e9s/markers.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 

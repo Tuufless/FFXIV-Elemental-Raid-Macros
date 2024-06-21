@@ -11,12 +11,12 @@ permalink: /5.0_shadowbringers/savage_raids/e2s/
 
 ## English
 ```
-{% include_relative macros/e2s.en.txt %}
+{% include macros/5.0_shadowbringers/e2s.en.txt %}
 ```
 
 ## Japanese
 ```
-{% include_relative macros/e2s.jp.txt %}
+{% include macros/5.0_shadowbringers/e2s.jp.txt %}
 ```
 
 ## Timeline

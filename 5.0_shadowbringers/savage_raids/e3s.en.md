@@ -11,18 +11,18 @@ permalink: /5.0_shadowbringers/savage_raids/e3s/
 
 ## English
 ```
-{% include_relative macros/e3s.en.txt %}
+{% include macros/5.0_shadowbringers/e3s.en.txt %}
 ```
 
 ## Japanese
 ```
-{% include_relative macros/e3s.jp.txt %}
+{% include macros/5.0_shadowbringers/e3s.jp.txt %}
 ```
 
 ## Markers
 
 `A` and `B` are stack points for Tsunami 2. `1`, `2`, `C` and `D` demarcate the boundaries for dodging Temporary Current.
-![](images/markers.jpg)
+![]({{site.baseurl}}/images/5.0_shadowbringers/e3s/markers.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 

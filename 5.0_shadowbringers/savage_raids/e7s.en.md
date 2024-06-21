@@ -11,17 +11,17 @@ permalink: /5.0_shadowbringers/savage_raids/e7s/
 
 ## English
 ```
-{% include_relative macros/e7s.en.txt %}
+{% include macros/5.0_shadowbringers/e7s.en.txt %}
 ```
 
 ## Japanese
 ```
-{% include_relative macros/e7s.jp.txt %}
+{% include macros/5.0_shadowbringers/e7s.jp.txt %}
 ```
 
 ## Markers
 
-![](images/markers.jpg)
+![]({{site.baseurl}}/images/5.0_shadowbringers/e7s/markers.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
@@ -56,7 +56,7 @@ permalink: /5.0_shadowbringers/savage_raids/e7s/
 ## 1st Away with Thee
 
 DPS positions are based on which ball you are tethered to.
-![](images/1st_away_with_thee.jpg)
+![]({{site.baseurl}}/images/5.0_shadowbringers/e7s/1st_away_with_thee.jpg)
 
 ## Timeline
 

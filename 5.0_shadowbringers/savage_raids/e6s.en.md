@@ -14,12 +14,12 @@ permalink: /5.0_shadowbringers/savage_raids/e6s/
 
 ## English
 ```
-{% include_relative macros/e6s.en.txt %}
+{% include macros/5.0_shadowbringers/e6s.en.txt %}
 ```
 
 ## Japanese
 ```
-{% include_relative macros/e6s.jp.txt %}
+{% include macros/5.0_shadowbringers/e6s.jp.txt %}
 ```
 
 ## Variants
@@ -29,7 +29,7 @@ You may see configurations where D3 and D4 are on Ifrit, while D1 and D2 are on 
 ## Markers
 
 `ABCD` are for orientation. `1234` are for resolving Air Bumps.
-![](images/markers.jpg)
+![]({{site.baseurl}}/images/5.0_shadowbringers/e6s/markers.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
