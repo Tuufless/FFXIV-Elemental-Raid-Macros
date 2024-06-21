@@ -11,12 +11,12 @@ permalink: /4.0_stormblood/extreme_trials/tsukuyomi/
 
 ## English
 ```
-{% include_relative macros/tsukuyomi.en.txt %}
+{% include macros/4.0_stormblood/tsukuyomi.en.txt %}
 ```
 
 ## Japanese
 ```
-{% include_relative macros/tsukuyomi.jp.txt %}
+{% include macros/4.0_stormblood/tsukuyomi.jp.txt %}
 ```
 
 ## Moon Phase
@@ -25,7 +25,7 @@ permalink: /4.0_stormblood/extreme_trials/tsukuyomi/
 
 ## Markers
 
-![](images/markers.jpg)
+![]({{site.baseurl}}/images/4.0_stormblood/tsukuyomi/markers.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 

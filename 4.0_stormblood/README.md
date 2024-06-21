@@ -13,14 +13,14 @@ The level cap for Stormblood is **Level 70**.
 
 ## Extreme Trials
 
-- **Susano EX** - [The Pool of Tribute (Extreme)](extreme_trials/susano/README.md)
-- **Lakshmi EX** - [Emanation (Extreme)](extreme_trials/lakshmi/README.md)
-- **Shinryu EX** - [The Minstrel's Ballad: Shinryu's Domain](extreme_trials/shinryu/README.md)
-- **Tsukuyomi EX** - [The Minstrel's Ballad: Tsukuyomi's Pain](extreme_trials/tsukuyomi/README.md)
+- **Susano EX** - [The Pool of Tribute (Extreme)](extreme_trials/susano.en.md)
+- **Lakshmi EX** - [Emanation (Extreme)](extreme_trials/lakshmi.en.md)
+- **Shinryu EX** - [The Minstrel's Ballad: Shinryu's Domain](extreme_trials/shinryu.en.md)
+- **Tsukuyomi EX** - [The Minstrel's Ballad: Tsukuyomi's Pain](extreme_trials/tsukuyomi.en.md)
 - **Rathalos EX** - The Great Hunt (Extreme)
-- **Byakko EX** - [The Jade Stoa (Extreme)](extreme_trials/byakko/README.md)
-- **Suzaku EX** - [Hells' Kier (Extreme)](extreme_trials/suzaku/README.md)
-- **Seiryu EX** - [The Wreath of Snakes (Extreme)](extreme_trials/seiryu/README.md)
+- **Byakko EX** - [The Jade Stoa (Extreme)](extreme_trials/byakko.en.md)
+- **Suzaku EX** - [Hells' Kier (Extreme)](extreme_trials/suzaku.en.md)
+- **Seiryu EX** - [The Wreath of Snakes (Extreme)](extreme_trials/seiryu.en.md)
 
 ## Savage
 

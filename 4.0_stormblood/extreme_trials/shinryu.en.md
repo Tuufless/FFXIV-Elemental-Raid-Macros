@@ -11,12 +11,12 @@ permalink: /4.0_stormblood/extreme_trials/shinryu/
 
 ## English
 ```
-{% include_relative macros/shinryu.en.txt %}
+{% include macros/4.0_stormblood/shinryu.en.txt %}
 ```
 
 ## Japanese
 ```
-{% include_relative macros/shinryu.jp.txt %}
+{% include macros/4.0_stormblood/shinryu.jp.txt %}
 ```
 
 <script data-goatcounter="https://tuufless.goatcounter.com/count"

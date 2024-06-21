@@ -1,17 +1,17 @@
 ---
 layout: default
-title: Suzaku EX
+title: Lakshmi EX
 parent: Extreme Trials
-nav_order: 6
+nav_order: 2
 grand_parent: 4.0 Stormblood
-permalink: /4.0_stormblood/extreme_trials/suzaku/
+permalink: /4.0_stormblood/extreme_trials/lakshmi/
 ---
 
-# Hells' Kier (Extreme)
+# Emanation (Extreme)
 
 ## Japanese
 ```
-{% include_relative macros/suzaku.jp.txt %}
+{% include macros/4.0_stormblood/lakshmi.jp.txt %}
 ```
 
 <script data-goatcounter="https://tuufless.goatcounter.com/count"

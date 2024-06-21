@@ -11,7 +11,7 @@ permalink: /4.0_stormblood/extreme_trials/seiryu/
 
 ## Japanese
 ```
-{% include_relative macros/seiryu.jp.txt %}
+{% include macros/4.0_stormblood/seiryu.jp.txt %}
 ```
 
 <script data-goatcounter="https://tuufless.goatcounter.com/count"

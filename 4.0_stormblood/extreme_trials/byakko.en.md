@@ -13,17 +13,17 @@ Note when doing this undersized, it is possible to skip the falling intermission
 
 ## English
 ```
-{% include_relative macros/byakko.en.txt %}
+{% include macros/4.0_stormblood/byakko.en.txt %}
 ```
 
 ## Japanese
 ```
-{% include_relative macros/byakko.jp.txt %}
+{% include macros/4.0_stormblood/byakko.jp.txt %}
 ```
 
 ## Markers
 
-![](images/markers.jpg)
+![]({{site.baseurl}}/images/4.0_stormblood/byakko/markers.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
