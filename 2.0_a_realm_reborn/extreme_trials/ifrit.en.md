@@ -1,17 +1,18 @@
 ---
 layout: default
-title: Thornmarch EX
+title: Ifrit EX
 parent: Extreme Trials
-nav_order: 4
+nav_order: 3
 grand_parent: 2.0 A Realm Reborn
-permalink: /2.0_a_realm_reborn/extreme_trials/thornmarch/
+permalink: /2.0_a_realm_reborn/extreme_trials/ifrit/
 ---
 
-# Thornmarch (Extreme)
+# The Bowl of Embers (Extreme)
 
 ## Japanese
+
 ```
-{% include_relative macros/thornmarch.jp.txt %}
+{% include macros/2.0_a_realm_reborn/ifrit.jp.txt %}
 ```
 
 <script data-goatcounter="https://tuufless.goatcounter.com/count"

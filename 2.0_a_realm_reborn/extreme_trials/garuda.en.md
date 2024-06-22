@@ -1,17 +1,18 @@
 ---
 layout: default
-title: Ramuh EX
+title: Garuda EX
 parent: Extreme Trials
-nav_order: 7
+nav_order: 1
 grand_parent: 2.0 A Realm Reborn
-permalink: /2.0_a_realm_reborn/extreme_trials/ramuh/
+permalink: /2.0_a_realm_reborn/extreme_trials/garuda/
 ---
 
-# The Striking Tree (Extreme)
+# The Howling Eye (Extreme)
 
 ## Japanese
+
 ```
-{% include_relative macros/ramuh.jp.txt %}
+{% include macros/2.0_a_realm_reborn/garuda.jp.txt %}
 ```
 
 <script data-goatcounter="https://tuufless.goatcounter.com/count"

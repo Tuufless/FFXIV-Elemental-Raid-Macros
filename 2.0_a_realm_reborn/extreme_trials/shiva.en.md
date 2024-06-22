@@ -15,12 +15,12 @@ A more modern reference would be Nukemaru's guide to the Akh Afah Amphitheatre (
 
 ## English
 ```
-{% include_relative macros/shiva.en.txt %}
+{% include macros/2.0_a_realm_reborn/shiva.en.txt %}
 ```
 
 ## Japanese
 ```
-{% include_relative macros/shiva.jp.txt %}
+{% include macros/2.0_a_realm_reborn/shiva.jp.txt %}
 ```
 
 <script data-goatcounter="https://tuufless.goatcounter.com/count"

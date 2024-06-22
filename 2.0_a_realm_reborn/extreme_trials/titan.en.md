@@ -11,12 +11,12 @@ permalink: /2.0_a_realm_reborn/extreme_trials/titan/
 
 ## English
 ```
-{% include_relative macros/titan.en.txt %}
+{% include macros/2.0_a_realm_reborn/titan.en.txt %}
 ```
 
 ## Japanese
 ```
-{% include_relative macros/titan.jp.txt %}
+{% include macros/2.0_a_realm_reborn/titan.jp.txt %}
 ```
 
 <script data-goatcounter="https://tuufless.goatcounter.com/count"

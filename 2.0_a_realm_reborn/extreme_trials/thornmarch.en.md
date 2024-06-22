@@ -1,18 +1,17 @@
 ---
 layout: default
-title: Garuda EX
+title: Thornmarch EX
 parent: Extreme Trials
-nav_order: 1
+nav_order: 4
 grand_parent: 2.0 A Realm Reborn
-permalink: /2.0_a_realm_reborn/extreme_trials/garuda/
+permalink: /2.0_a_realm_reborn/extreme_trials/thornmarch/
 ---
 
-# The Howling Eye (Extreme)
+# Thornmarch (Extreme)
 
 ## Japanese
-
 ```
-{% include_relative macros/garuda.jp.txt %}
+{% include macros/2.0_a_realm_reborn/thornmarch.jp.txt %}
 ```
 
 <script data-goatcounter="https://tuufless.goatcounter.com/count"
