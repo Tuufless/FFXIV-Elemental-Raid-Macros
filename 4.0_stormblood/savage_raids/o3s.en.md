@@ -11,19 +11,19 @@ permalink: /4.0_stormblood/savage_raids/o3s/
 
 ## English
 ```
-{% include_relative macros/o3s.en.txt %}
+{% include macros/4.0_stormblood/o3s.en.txt %}
 ```
 
 ## Japanese
 ```
-{% include_relative macros/o3s.jp.txt %}
+{% include macros/4.0_stormblood/o3s.jp.txt %}
 ```
 
 ## Markers
 
 We just need an `A` marker for North.
 
-![](images/markers.jpg)
+![]({{site.baseurl}}/images/4.0_stormblood/o3s/markers.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 

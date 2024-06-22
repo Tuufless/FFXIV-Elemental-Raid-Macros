@@ -14,12 +14,12 @@ start the fight pulling the boss slightly **North-East** of the center.
 
 ## English
 ```
-{% include_relative macros/o7s.en.txt %}
+{% include macros/4.0_stormblood/o7s.en.txt %}
 ```
 
 ## Japanese
 ```
-{% include_relative macros/o7s.jp.txt %}
+{% include macros/4.0_stormblood/o7s.jp.txt %}
 ```
 
 ## Markers
@@ -27,7 +27,7 @@ start the fight pulling the boss slightly **North-East** of the center.
 - `A` and `B` just marks North and South, while the `1` marker is the center.
 - The `C` marker is where Virus is passed.
 
-![](images/markers.jpg)
+![]({{site.baseurl}}/images/4.0_stormblood/o7s/markers.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
@@ -53,7 +53,7 @@ start the fight pulling the boss slightly **North-East** of the center.
 Although the programs loaded on the two screens in the background may look
 random, the actual sequence is just one of four possible paths.
 
-![](images/program_sequence.jpg)
+![]({{site.baseurl}}/images/4.0_stormblood/o7s/program_sequence.jpg)
 
 <script data-goatcounter="https://tuufless.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>

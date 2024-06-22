@@ -1,17 +1,17 @@
 ---
 layout: default
-title: O1S
+title: O2S
 parent: Savage Raids
-nav_order: "01"
+nav_order: "02"
 grand_parent: 4.0 Stormblood
-permalink: /4.0_stormblood/savage_raids/o1s/
+permalink: /4.0_stormblood/savage_raids/o2s/
 ---
 
-# Deltascape V1.0 (Savage)
+# Deltascape V2.0 (Savage)
 
 ## Japanese
 ```
-{% include_relative macros/o1s.jp.txt %}
+{% include macros/4.0_stormblood/o2s.jp.txt %}
 ```
 
 <script data-goatcounter="https://tuufless.goatcounter.com/count"

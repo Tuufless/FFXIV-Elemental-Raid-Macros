@@ -28,34 +28,34 @@ The level cap for Stormblood is **Level 70**.
 
 The item level cap for Deltascape is **iLvl 345**.
 
-- **O1S** - [Deltascape V1.0 (Savage)](savage_raids/o1s/README.md)
-- **O2S** - [Deltascape V2.0 (Savage)](savage_raids/o2s/README.md)
-- **O3S** - [Deltascape V3.0 (Savage)](savage_raids/o3s/README.md)
+- **O1S** - [Deltascape V1.0 (Savage)](savage_raids/o1s.en.md)
+- **O2S** - [Deltascape V2.0 (Savage)](savage_raids/o2s.en.md)
+- **O3S** - [Deltascape V3.0 (Savage)](savage_raids/o3s.en.md)
 - **O4S** - Deltascape V4.0 (Savage)
-	- [Part 1](savage_raids/o4s_1/README.md)
-	- [Part 2](savage_raids/o4s_2/README.md)
+	- [Part 1](savage_raids/o4s_1.en.md)
+	- [Part 2](savage_raids/o4s_2.en.md)
 
 ### Sigmascape (Patch 4.2)
 
 The item level cap for Sigmascape is **iLvl 375**.
 
-- **O5S** - [Sigmascape V1.0 (Savage)](savage_raids/o5s/README.md)
-- **O6S** - [Sigmascape V2.0 (Savage)](savage_raids/o6s/README.md)
-- **O7S** - [Sigmascape V3.0 (Savage)](savage_raids/o7s/README.md)
+- **O5S** - [Sigmascape V1.0 (Savage)](savage_raids/o5s.en.md)
+- **O6S** - [Sigmascape V2.0 (Savage)](savage_raids/o6s.en.md)
+- **O7S** - [Sigmascape V3.0 (Savage)](savage_raids/o7s.en.md)
 - **O8S** - Sigmascape V4.0 (Savage)
-	- [Part 1](savage_raids/o8s_1/README.md)
-	- [Part 2](savage_raids/o8s_2/README.md)
+	- [Part 1](savage_raids/o8s_1.en.md)
+	- [Part 2](savage_raids/o8s_2.en.md)
 
 ### Alphascape (Patch 4.4)
 
 The item level cap for Alphascape is **iLvl 405**.
 
-- **O9S** - [Alphascape V1.0 (Savage)](savage_raids/o9s/README.md)
-- **O10S** - [Alphascape V2.0 (Savage)](savage_raids/o10s/README.md)
-- **O11S** - [Alphascape V3.0 (Savage)](savage_raids/o11s/README.md)
+- **O9S** - [Alphascape V1.0 (Savage)](savage_raids/o9s.en.md)
+- **O10S** - [Alphascape V2.0 (Savage)](savage_raids/o10s.en.md)
+- **O11S** - [Alphascape V3.0 (Savage)](savage_raids/o11s.en.md)
 - **O12S** - Alphascape V4.0 (Savage)
-	- [Part 1](savage_raids/o12s_1/README.md)
-	- [Part 2](savage_raids/o12s_2/README.md)
+	- [Part 1](savage_raids/o12s_1.en.md)
+	- [Part 2](savage_raids/o12s_2.en.md)
 
 ## Ultimate
 

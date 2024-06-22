@@ -12,7 +12,7 @@ permalink: /4.0_stormblood/savage_raids/o5s/
 ## Japanese
 
 ```
-{% include_relative macros/o5s.jp.txt %}
+{% include macros/4.0_stormblood/o5s.jp.txt %}
 ```
 
 <script data-goatcounter="https://tuufless.goatcounter.com/count"

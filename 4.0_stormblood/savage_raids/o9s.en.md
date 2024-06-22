@@ -11,12 +11,12 @@ permalink: /4.0_stormblood/savage_raids/o9s/
 
 ## English
 ```
-{% include_relative macros/o9s.en.txt %}
+{% include macros/4.0_stormblood/o9s.en.txt %}
 ```
 
 ## Japanese
 ```
-{% include_relative macros/o9s.jp.txt %}
+{% include macros/4.0_stormblood/o9s.jp.txt %}
 ```
 
 ## Markers
@@ -27,7 +27,7 @@ permalink: /4.0_stormblood/savage_raids/o9s/
 - The `1` and `2` markers are where the party should stack for the donut AoEs
   during the Tsunami phase when the boss is casting *Damning Edict*.
 
-![](images/markers.jpg)
+![]({{site.baseurl}}/images/4.0_stormblood/o9s/markers.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
