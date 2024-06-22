@@ -12,11 +12,11 @@ permalink: /ultimates/tea/
 
 Since Elemental PF hasn't agreed on a TEA strat since Patch 5.1, I'm going to take the liberty of piecing one together myself. This is what I would do:
 
-- [**Living Liquid**](01_living_liquid.en.md): Modified Separations (the "JP strat")
-- [**Limit Cut**](02a_limit_cut.en.md): 1211 or 1256
-- [**Brute Justice + Cruise Chaser**](02b_bjcc.en.md): Tollgate (this is my strat that I use)
-- [**Alexander Prime**](03_alex_prime.en.md): 09STOP Wormhole (Korean sim strat- this is also called "Onyxia" by NA/EU)
-- [**Perfect Alexander**](04_perfect_alex.en.md)
+- [**Living Liquid**](01_living_liquid): Modified Separations (the "JP strat")
+- [**Limit Cut**](02a_limit_cut): 1211 or 1256
+- [**Brute Justice + Cruise Chaser**](02b_bjcc): Tollgate (this is my strat that I use)
+- [**Alexander Prime**](03_alex_prime): 09STOP Wormhole (Korean sim strat- this is also called "Onyxia" by NA/EU)
+- [**Perfect Alexander**](04_perfect_alex)
 
 ### Things to check
 

@@ -15,11 +15,11 @@ permalink: /ultimates/jp/tea/
 
 Elemental DCの野良絶処理法は以下の通りです。
 
-- [**リキッド**](01_living_liquid.en.md): セパレ式改
-- [**サイコロ**](02a_limit_cut.en.md): 1211か1256
-- [**２体フェーズ**](02b_bjcc.en.md): Tollgate（エレDC特有の処理法）
-- [**アレキザンダープライム**](03_alex_prime.en.md): ハムカツ34固定式
-- [**Pアレキ**](04_perfect_alex.en.md)
+- (英語) [**リキッド**]({{site.baseurl}}/ultimates/tea/01_living_liquid): セパレ式改
+- (英語) [**サイコロ**]({{site.baseurl}}/ultimates/tea/02a_limit_cut): 1211か1256
+- (英語) [**２体フェーズ**]({{site.baseurl}}/ultimates/tea/02b_bjcc): Tollgate（エレDC特有の処理法）
+- (英語) [**アレキザンダープライム**]({{site.baseurl}}/ultimates/tea/03_alex_prime): ハムカツ34固定式
+- (英語) [**Pアレキ**]({{site.baseurl}}/ultimates/tea/04_perfect_alex)
 
 ### 確認しておくこと
 

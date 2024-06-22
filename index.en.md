@@ -38,11 +38,11 @@ The current item level cap is **iLvl 665**.
 
 ## Ultimate Raids
 
-- **UCoB** - [The Unending Coil of Bahamut (Ultimate)](ultimates/ucob/index.en.md)
-- **UWU** - [The Weapon's Refrain (Ultimate)](ultimates/uwu/index.en.md)
-- **TEA** - [The Epic of Alexander (Ultimate)](ultimates/tea/index.en.md)
-- **DSR** - [Dragonsong's Reprise (Ultimate)](ultimates/dsr/index.en.md)
-- **TOP** - [The Omega Protocol (Ultimate)](ultimates/top/index.en.md)
+- **UCoB** - [The Unending Coil of Bahamut (Ultimate)](ultimates/ucob)
+- **UWU** - [The Weapon's Refrain (Ultimate)](ultimates/uwu)
+- **TEA** - [The Epic of Alexander (Ultimate)](ultimates/tea)
+- **DSR** - [Dragonsong's Reprise (Ultimate)](ultimates/dsr)
+- **TOP** - [The Omega Protocol (Ultimate)](ultimates/top)
 
 <script data-goatcounter="https://tuufless.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>

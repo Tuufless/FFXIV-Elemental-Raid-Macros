@@ -22,3 +22,13 @@ enable_copy_code_button: true
 
 back_to_top: true
 back_to_top_text: "Back to top"
+
+collections:
+  ultimates:
+    permalink: "/:collection/:path/"
+    output: true
+
+just_the_docs:
+  collections:
+    ultimates:
+      name: Ultimates

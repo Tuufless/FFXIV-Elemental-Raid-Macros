@@ -21,14 +21,14 @@ permalink: /ultimates/jp/
 
 ### レベル70 絶
 
-- [絶バハムート討滅戦](ucob/index.jp.md)
-- [絶アルテマウェポン破壊作戦](uwu/index.jp.md)
+- [絶バハムート討滅戦](ucob)
+- [絶アルテマウェポン破壊作戦](uwu)
 
 ### レベル80 絶
 
-- [絶アレキサンダー討滅戦](tea/index.jp.md)
+- [絶アレキサンダー討滅戦](tea)
 
 ### レベル90 絶
 
-- [絶・竜詩戦争](dsr/index.jp.md)
-- [絶オメガ検証戦](top/index.jp.md)
+- [絶・竜詩戦争](dsr)
+- [絶オメガ検証戦](top)

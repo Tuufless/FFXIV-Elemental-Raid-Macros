@@ -15,13 +15,13 @@ permalink: /ultimates/jp/dsr/
 
 Elemental DC の野良処理法：
 
-- [**教皇庁フェーズ**](01_the_holy_see.en.md): 光翼閃 H1H2 D1D2 D3D4 MTST
-- [**正典トールダン**](02_thordan.en.md): 聖杖ゼフィラン基準、ロール内で交代
-- [**ニーズヘッグ**](03_nidhogg.en.md): イル B スパ D（東向き）
-- [**邪眼フェーズ**](04_eyes.en.md): T/H 赤、DPS 青
-- [**偽典トールダン**](05_alternate_thordan.en.md): 宣告北 & 宣告固定
-- [**二天竜フェーズ**](06_double_dragons.en.md): 息吹 1 三角散開、滅殺 DTTMR、息吹 2 位置固定 *または* 北 5 南 1（5-1）
-- [**騎竜神トールダン**](07_dragonking_thordan.en.md): アク・モーン 3-3-2
+- (英語) [**教皇庁フェーズ**]({{site.baseurl}}/ultimates/dsr/01_the_holy_see): 光翼閃 H1H2 D1D2 D3D4 MTST
+- (英語) [**正典トールダン**]({{site.baseurl}}/ultimates/dsr/02_thordan): 聖杖ゼフィラン基準、ロール内で交代
+- (英語) [**ニーズヘッグ**]({{site.baseurl}}/ultimates/dsr/03_nidhogg): イル B スパ D（東向き）
+- (英語) [**邪眼フェーズ**]({{site.baseurl}}/ultimates/dsr/04_eyes): T/H 赤、DPS 青
+- (英語) [**偽典トールダン**]({{site.baseurl}}/ultimates/dsr/05_alternate_thordan): 宣告北 & 宣告固定
+- (英語) [**二天竜フェーズ**]({{site.baseurl}}/ultimates/dsr/06_double_dragons): 息吹 1 三角散開、滅殺 DTTMR、息吹 2 位置固定 *または* 北 5 南 1（5-1）
+- (英語) [**騎竜神トールダン**]({{site.baseurl}}/ultimates/dsr/07_dragonking_thordan): アク・モーン 3-3-2
 
 ### 最適装備
 

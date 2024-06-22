@@ -12,15 +12,15 @@ permalink: /ultimates/top/
 
 Elemental's TOP PF strat can be broken down as follows:
 
-- [**(Beetle) Omega**](01_omega.en.md): HTDH priority, NW/SE Pantokrator
-- [**Omega M/F**](02_omega_mf.en.md): 1234 (〇×▽□)-4231
-- [**(Final) Omega**](03_omega_reconfigured.en.md): Astoh monitors
-- [**Blue Screen**](04_blue_screen.en.md): TRHM, melee adjust
+- [**(Beetle) Omega**](01_omega): HTDH priority, NW/SE Pantokrator
+- [**Omega M/F**](02_omega_mf): 1234 (〇×▽□)-4231
+- [**(Final) Omega**](03_omega_reconfigured): Astoh monitors
+- [**Blue Screen**](04_blue_screen): TRHM, melee adjust
 - **Run: Dynamis**
-  - [**Delta**](05a_run_dynamis_delta.en.md): Awk
-  - [**Sigma**](05b_run_dynamis_sigma.en.md): Waymark towers
-  - [**Omega**](05c_run_dynamis_omega.en.md)
-- [**Alpha Omega**](06_alpha_omega.en.md): Clock spread, Wave Cannon stack east
+  - [**Delta**](05a_run_dynamis_delta): Awk
+  - [**Sigma**](05b_run_dynamis_sigma): Waymark towers
+  - [**Omega**](05c_run_dynamis_omega)
+- [**Alpha Omega**](06_alpha_omega): Clock spread, Wave Cannon stack east
 
 ### BiS Notes
 

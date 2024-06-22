@@ -15,13 +15,13 @@ permalink: /ultimates/jp/uwu/
 
 Elemental DCの野良絶アルテマでは[Cleesさんの処理法](https://www.icy-veins.com/ffxiv/the-weapons-refrain-ultimate-guides-ultima)を多用しています。
 
-- [**ガルーダ**](01_garuda.en.md): ガルーダ中央
-- [**イフリート**](02_ifrit.en.md): 逆Z字
-- [**タイタン**](03_titan.en.md): マラソン
-- [**追撃**](04a_predation.en.md)
-- [**爆撃**](04b_annihilation.en.md): 2211玉処理
-- [**乱撃**](04c_suppression.en.md): 扇式
-- [**蛮神召喚履行**](04d_primal_roulette.en.md)
+- (英語) [**ガルーダ**]({{site.baseurl}}/ultimates/uwu/01_garuda): ガルーダ中央
+- (英語) [**イフリート**]({{site.baseurl}}/ultimates/uwu/02_ifrit): 逆Z字
+- (英語) [**タイタン**]({{site.baseurl}}/ultimates/uwu/03_titan): マラソン
+- (英語) [**追撃**]({{site.baseurl}}/ultimates/uwu/04a_predation)
+- (英語) [**爆撃**]({{site.baseurl}}/ultimates/uwu/04b_annihilation): 2211玉処理
+- (英語) [**乱撃**]({{site.baseurl}}/ultimates/uwu/04c_suppression): 扇式
+- (英語) [**蛮神召喚履行**]({{site.baseurl}}/ultimates/uwu/04d_primal_roulette)
 
 ### 最適装備
 

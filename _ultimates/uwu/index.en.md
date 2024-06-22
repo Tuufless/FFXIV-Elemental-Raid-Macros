@@ -19,13 +19,13 @@ with a few differences:
 
 The various phases can be broken down as follows:
 
-- [**Garuda**](01_garuda.en.md): Midruda
-- [**Ifrit**](02_ifrit.en.md): Reverse-Z
-- [**Titan**](03_titan.en.md): Mario Kart
-- [**Ultimate Predation**](04a_predation.en.md)
-- [**Ultimate Annihilation**](04b_annihilation.en.md): 2211 orbs
-- [**Ultimate Suppression**](04c_suppression.en.md): Fan Suppression
-- [**Primal Roulette**](04d_primal_roulette.en.md)
+- [**Garuda**](01_garuda): Midruda
+- [**Ifrit**](02_ifrit): Reverse-Z
+- [**Titan**](03_titan): Mario Kart
+- [**Ultimate Predation**](04a_predation)
+- [**Ultimate Annihilation**](04b_annihilation): 2211 orbs
+- [**Ultimate Suppression**](04c_suppression): Fan Suppression
+- [**Primal Roulette**](04d_primal_roulette)
 
 ### BiS Notes
 

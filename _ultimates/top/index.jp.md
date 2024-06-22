@@ -15,15 +15,15 @@ permalink: /ultimates/jp/top/
 
 Elemental DC、野良絶処理法は以下の通りです。
 
-- [**(虫)オメガ**](01_omega.en.md): HTDH、北西/南東4:4分け
-- [**男女オメガ**](02_omega_mf.en.md): 1234-4231 (〇×▽□)
-- [**ファイナルオメガ**](03_omega_reconfigured.en.md): アスト式
-- [**ブルー・スクリーン**](04_blue_screen.en.md): TRHM、近接調整
+- (英語) [**(虫)オメガ**]({{site.baseurl}}/ultimates/top/01_omega): HTDH、北西/南東4:4分け
+- (英語) [**男女オメガ**]({{site.baseurl}}/ultimates/top/02_omega_mf): 1234-4231 (〇×▽□)
+- (英語) [**ファイナルオメガ**]({{site.baseurl}}/ultimates/top/03_omega_reconfigured): アスト式
+- (英語) [**ブルー・スクリーン**]({{site.baseurl}}/ultimates/top/04_blue_screen): TRHM、近接調整
 - **コードデュナミス**
-  - [**デルタ**](05a_run_dynamis_delta.en.md): Awk式
-  - [**シグマ**](05b_run_dynamis_sigma.en.md): マーカー判断式
-  - [**オメガ**](05c_run_dynamis_omega.en.md)
-- [**アルファオメガ**](06_alpha_omega.en.md): 8方向散開、頭割り東
+  - (英語) [**デルタ**]({{site.baseurl}}/ultimates/top/05a_run_dynamis_delta): Awk式
+  - (英語) [**シグマ**]({{site.baseurl}}/ultimates/top/05b_run_dynamis_sigma): マーカー判断式
+  - (英語) [**オメガ**]({{site.baseurl}}/ultimates/top/05c_run_dynamis_omega)
+- (英語) [**アルファオメガ**]({{site.baseurl}}/ultimates/top/06_alpha_omega): 8方向散開、頭割り東
 
 ### 最適装備
 

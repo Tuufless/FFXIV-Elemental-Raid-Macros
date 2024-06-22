@@ -12,15 +12,15 @@ permalink: /ultimates/dsr/
 
 Elemental's DSR PF strat can be broken down as follows:
 
-- [**The Holy See**](01_the_holy_see.en.md): HMRT
-- [**King Thordan**](02_thordan.en.md): DRK-relative, role adjust
-- [**Nidhogg**](03_nidhogg.en.md): Easthogg
-- [**Eyes**](04_eyes.en.md): T/H red, DPS blue
-- [**Alternate Timeline Thordan**](05_alternate_thordan.en.md):
+- [**The Holy See**](01_the_holy_see): HMRT
+- [**King Thordan**](02_thordan): DRK-relative, role adjust
+- [**Nidhogg**](03_nidhogg): Easthogg
+- [**Eyes**](04_eyes): T/H red, DPS blue
+- [**Alternate Timeline Thordan**](05_alternate_thordan):
   2-2 Dooms North, Anchored Dooms
-- [**Double Dragons**](06_double_dragons.en.md): △ WB1, DTTMR
+- [**Double Dragons**](06_double_dragons): △ WB1, DTTMR
   Mortal Vow, 5-1 WB2
-- [**Dragonking Thordan**](07_dragonking_thordan.en.md): All 3-3-2
+- [**Dragonking Thordan**](07_dragonking_thordan): All 3-3-2
 
 ### BiS Notes
 
