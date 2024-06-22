@@ -26,7 +26,7 @@ The current item level cap is **iLvl 665**.
 - **Zeromus EX** - [The Abyssal Fracture (Extreme)](6.0_endwalker/extreme_trials/zeromus.en.md)
 
 **Unreal Trial:**
-- **Thordan** - [The Singularity Reactor (Unreal)](3.0_heavensward/extreme_trials/thordan/README.md)
+- **Thordan** - [The Singularity Reactor (Unreal)](3.0_heavensward/extreme_trials/thordan.en.md)
 
 **Savage Raids:**
 - **P9S** - [Anabaseios: The Ninth Circle (Savage)](6.0_endwalker/savage_raids/p9s.en.md)
