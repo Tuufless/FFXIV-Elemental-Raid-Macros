@@ -13,14 +13,14 @@ The level cap for A Realm Reborn is **Level 50**.
 
 ## Extreme Trials
 
-- **Garuda EX** - [The Howling Eye (Extreme)](extreme_trials/garuda.en.md)
-- **Titan EX** - [The Navel (Extreme)](extreme_trials/titan.en.md)
-- **Ifrit EX** - [The Bowl of Embers (Extreme)](extreme_trials/ifrit.en.md)
-- **Thornmarch EX** - [Thornmarch (Extreme)](extreme_trials/thornmarch.en.md)
-- **Ultima EX** - [The Minstrel's Ballad: Ultima's Bane](extreme_trials/ultima_weapon.en.md)
-- **Leviathan EX** - [The Whorleater (Extreme)](extreme_trials/leviathan.en.md)
-- **Ramuh EX** - [The Striking Tree (Extreme)](extreme_trials/ramuh.en.md)
-- **Shiva EX** - [Akh Afah Amphitheatre (Extreme)](extreme_trials/shiva.en.md)
+- **Garuda EX** - [The Howling Eye (Extreme)](extreme_trials/garuda)
+- **Titan EX** - [The Navel (Extreme)](extreme_trials/titan)
+- **Ifrit EX** - [The Bowl of Embers (Extreme)](extreme_trials/ifrit)
+- **Thornmarch EX** - [Thornmarch (Extreme)](extreme_trials/thornmarch)
+- **Ultima EX** - [The Minstrel's Ballad: Ultima's Bane](extreme_trials/ultima_weapon)
+- **Leviathan EX** - [The Whorleater (Extreme)](extreme_trials/leviathan)
+- **Ramuh EX** - [The Striking Tree (Extreme)](extreme_trials/ramuh)
+- **Shiva EX** - [Akh Afah Amphitheatre (Extreme)](extreme_trials/shiva)
 
 ## Raids
 

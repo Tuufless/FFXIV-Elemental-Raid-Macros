@@ -24,11 +24,16 @@ back_to_top: true
 back_to_top_text: "Back to top"
 
 collections:
+  raids:
+    permalink: "/:collection/:path/"
+    output: true
   ultimates:
     permalink: "/:collection/:path/"
     output: true
 
 just_the_docs:
   collections:
+    raids:
+      name: Raids
     ultimates:
       name: Ultimates
