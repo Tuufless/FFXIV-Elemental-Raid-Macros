@@ -17,9 +17,9 @@ Elemental's TOP PF strat can be broken down as follows:
 - [**(Final) Omega**](03_omega_reconfigured): Astoh monitors
 - [**Blue Screen**](04_blue_screen): TRHM, melee adjust
 - **Run: Dynamis**
-  - [**Delta**](05a_run_dynamis_delta): Awk
-  - [**Sigma**](05b_run_dynamis_sigma): Waymark towers
-  - [**Omega**](05c_run_dynamis_omega)
+  - [**Delta**](05_run_dynamis_delta): Awk
+  - [**Sigma**](05_run_dynamis_sigma): Waymark towers
+  - [**Omega**](05_run_dynamis_omega)
 - [**Alpha Omega**](06_alpha_omega): Clock spread, Wave Cannon stack east
 
 ### BiS Notes
