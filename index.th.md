@@ -17,7 +17,7 @@ permalink: /th/
 
 ## คอนเทนท์ปัจจุบัน (แพทช์ 7.0)
 
-item level สูงที่สุดในแพทช์นี้คือ **iLvl 710**.
+Item level สูงที่สุดในแพทช์นี้คือ **iLvl 710**.
 
 **Extreme Trials:**
 - **Valigarmanda EX** - [???]({{site.baseurl}}/7.0_dawntrail/extreme_trials/valigarmanda) *(Under construction)*
