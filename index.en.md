@@ -18,31 +18,13 @@ ones here.
 Of course, there will probably be small differences between the macros here and
 the ones you may encounter in PF- use the ones here as a base to work with.
 
-## Current content (Patch 6.5)
+## Current content (Patch 7.0)
 
-The current item level cap is **iLvl 665**.
+The current item level cap is **iLvl 710**.
 
 **Extreme Trials:**
-- **Zeromus EX** - [The Abyssal Fracture (Extreme)](6.0_endwalker/extreme_trials/zeromus.en.md)
-
-**Unreal Trial:**
-- **Thordan** - [The Singularity Reactor (Unreal)](3.0_heavensward/extreme_trials/thordan.en.md)
-
-**Savage Raids:**
-- **P9S** - [Anabaseios: The Ninth Circle (Savage)](6.0_endwalker/savage_raids/p9s.en.md)
-- **P10S** - [Anabaseios: The Tenth Circle (Savage)](6.0_endwalker/savage_raids/p10s.en.md)
-- **P11S** - [Anabaseios: The Eleventh Circle (Savage)](6.0_endwalker/savage_raids/p11s.en.md)
-- **P12S** - Anabaseios: The Twelfth Circle (Savage)
-    - [Part 1](6.0_endwalker/savage_raids/p12s_1.en.md)
-    - [Part 2](6.0_endwalker/savage_raids/p12s_2.en.md)
-
-## Ultimate Raids
-
-- **UCoB** - [The Unending Coil of Bahamut (Ultimate)](ultimates/ucob)
-- **UWU** - [The Weapon's Refrain (Ultimate)](ultimates/uwu)
-- **TEA** - [The Epic of Alexander (Ultimate)](ultimates/tea)
-- **DSR** - [Dragonsong's Reprise (Ultimate)](ultimates/dsr)
-- **TOP** - [The Omega Protocol (Ultimate)](ultimates/top)
+- **Valigarmanda EX** - [???]({{site.baseurl}}/7.0_dawntrail/extreme_trials/valigarmanda) *(Under construction)*
+- **EX2** - [???]({{site.baseurl}}/7.0_dawntrail/extreme_trials/ex2) *(Under construction)*
 
 <script data-goatcounter="https://tuufless.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
