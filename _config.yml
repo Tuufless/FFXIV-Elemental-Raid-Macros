@@ -24,6 +24,9 @@ back_to_top: true
 back_to_top_text: "Back to top"
 
 collections:
+  current:
+    permalink: "/:collection/:path/"
+    output: true
   raids:
     permalink: "/:collection/:path/"
     output: true
@@ -33,7 +36,9 @@ collections:
 
 just_the_docs:
   collections:
-    raids:
-      name: Raids
+    current:
+      name: 7.0 Dawntrail
     ultimates:
       name: Ultimates
+    raids:
+      name: Archives
