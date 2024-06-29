@@ -5,7 +5,7 @@ nav_order: 2
 permalink: /7.0_dawntrail/extreme_trials/ex2/
 ---
 
-# EX2
+# Everkeep (Extreme)
 
 <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
 <b>UNDER CONSTRUCTION</b>

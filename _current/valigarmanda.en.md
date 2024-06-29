@@ -5,7 +5,7 @@ nav_order: 1
 permalink: /7.0_dawntrail/extreme_trials/valigarmanda/
 ---
 
-# Valigarmanda EX
+# Worqor Lar Dor (Extreme)
 
 <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
 <b>UNDER CONSTRUCTION</b>

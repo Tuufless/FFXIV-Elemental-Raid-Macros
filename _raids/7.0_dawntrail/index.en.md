@@ -13,5 +13,5 @@ The level cap for Dawntrail is **Level 100**.
 
 ## Extreme Trials
 
-- **Valigarmanda EX** - [???]({{site.baseurl}}/7.0_dawntrail/extreme_trials/valigarmanda)
-- **EX2** - [???]({{site.baseurl}}/7.0_dawntrail/extreme_trials/ex2)
+- **Valigarmanda EX** - [Worqor Lar Dor (Extreme)]({{site.baseurl}}/7.0_dawntrail/extreme_trials/valigarmanda)
+- **EX2** - [Everkeep (Extreme)]({{site.baseurl}}/7.0_dawntrail/extreme_trials/ex2)
