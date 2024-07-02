@@ -8,7 +8,8 @@ permalink: /7.0_dawntrail/extreme_trials/valigarmanda/
 # Worqor Lar Dor (Extreme)
 
 <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
-<b>UNDER CONSTRUCTION</b>
+<b>UNDER CONSTRUCTION - the strats here have not yet settled, and can still 
+change.</b>
 </div>
 
 **Note:** As an EX trial, this will eventually follow whatever Game8 decides on.
