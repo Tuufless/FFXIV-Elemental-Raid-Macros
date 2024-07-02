@@ -13,12 +13,24 @@ permalink: /7.0_dawntrail/extreme_trials/valigarmanda/
 
 **Note:** As an EX trial, this will eventually follow whatever Game8 decides on.
 
-PF currently follows mostly Hamkatsu's guide, although note that it is still 
-early and modifications may still be made.
+PF currently follows mostly Hamkatsu's guide, although note that it is **still 
+early and modifications may still be made**.
 
 {% include youtube.html id="nI_L-b80b10" %}
 
-Meanwhile, here is Nukemaru's guide:
+## English
+
+```
+{% include macros/7.0_dawntrail/valigarmanda.en.txt %}
+```
+
+## Japanese
+
+```
+{% include macros/7.0_dawntrail/valigarmanda.jp.txt %}
+```
+
+Nukemaru has also made a guide for cross-referencing:
 
 {% include youtube.html id="sP2Ljn2Y2NA" %}
 
