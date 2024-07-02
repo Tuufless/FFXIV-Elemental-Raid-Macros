@@ -19,6 +19,10 @@ early and modifications may still be made.
 
 {% include youtube.html id="2Yq4hrQQsNI" %}
 
+### Things to check
+
+- How the party will resolve [Projection of Turmoil](#projection-of-turmoil).
+
 ## English
 
 ```
