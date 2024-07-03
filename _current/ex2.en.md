@@ -39,6 +39,13 @@ Meanwhile, here is Nukemaru's guide:
 
 {% include youtube.html id="X7DYfozHLcw" %}
 
+## Markers
+
+Markers aren't really needed for this fight- maybe one marker at North just to
+demarcate where North is (as that's where the line-of-stacks begins).
+
+![]({{site.baseurl}}/images/7.0_dawntrail/zoraal_ja/markers.jpg)
+
 ## Projection of Turmoil
 
 There are currently a couple different ways to resolve *Projection of Turmoil*.
@@ -46,7 +53,8 @@ There are currently a couple different ways to resolve *Projection of Turmoil*.
 1. The macros above follow Hamkatsu, and have the party resolve the mechanic 
    "properly" with a single 8-man stack each time.
 2. Another strat involves just stepping outside the arena and waiting for the
-   line to disappear. This is slowly picking up in Mana (look for 外周無視).
+   line to disappear. This is currently picking up in Mana (look for 外周無視 or 
+   頭割り無視).
 
 <script data-goatcounter="https://tuufless.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
