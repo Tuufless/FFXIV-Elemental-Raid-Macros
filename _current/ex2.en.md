@@ -55,6 +55,7 @@ There are currently a couple different ways to resolve *Projection of Turmoil*.
 2. Another strat involves just stepping outside the arena and waiting for the
    line to disappear. This is currently picking up in Mana (look for 外周無視 or 
    頭割り無視).
+   - **Note:** [This has been identified as an issue, and will be addressed.](https://na.finalfantasyxiv.com/lodestone/news/detail/3b60d81a7123a4894e208f835c043c22eb4697b5)
 
 <script data-goatcounter="https://tuufless.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
