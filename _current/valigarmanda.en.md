@@ -19,6 +19,13 @@ early and modifications may still be made**.
 
 {% include youtube.html id="nI_L-b80b10" %}
 
+### Things to check on Party Finder
+
+- Which feather the party will destroy in *Hail of Feathers*. English 
+  guides have been destroying the **first** feather that falls (E or W). 
+  **This is not done in JP**, where the party destroys the **second** feather
+  that falls instead (SW or SE). *(I personally prefer JP's method.)*
+
 ## English
 
 ```
@@ -59,6 +66,29 @@ There are currently **two** sets of markers going around.
   *Skyruin*:Ice. Notably, they are **not** safe when dodging the boss's donut AoE.
 
 ![]({{site.baseurl}}/images/7.0_dawntrail/valigarmanda/hamkatsu_markers.jpg)
+
+## Frequently Asked Questions
+
+<details markdown=block>
+<summary>
+  <b>[Hail of Feathers]</b> Why do we destroy the second feather instead of the
+  first?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>Destroying the first feather maximises the time the party has before 
+      <em>Blighted Bolt</em> resolves. However, the party has plenty of time 
+      to destroy the second feather instead.</p>
+      <p>More importantly, you <b>cannot stay and melee the boss</b> after
+      destroying the first feather, as it is too close to the sixth (and final)
+      feather.</p>
+      <p>This is <em>not</em> the case for the second feather- players can 
+      switch over to the boss without needing to pay attention to when the 
+      later feathers will fall.</p>
+    </td>
+  </tr>
+</table>
 
 <script data-goatcounter="https://tuufless.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>

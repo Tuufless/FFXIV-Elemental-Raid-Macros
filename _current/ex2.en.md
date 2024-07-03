@@ -19,7 +19,7 @@ early and modifications may still be made.
 
 {% include youtube.html id="2Yq4hrQQsNI" %}
 
-### Things to check
+### Things to check on Party Finder
 
 - How the party will resolve [Projection of Turmoil](#projection-of-turmoil).
 
@@ -46,8 +46,7 @@ There are currently a couple different ways to resolve *Projection of Turmoil*.
 1. The macros above follow Hamkatsu, and have the party resolve the mechanic 
    "properly" with a single 8-man stack each time.
 2. Another strat involves just stepping outside the arena and waiting for the
-   line to disappear. This is **not** commonly practiced in Mana (although it
-   may pick up in Elemental).
+   line to disappear. This is slowly picking up in Mana (look for 外周無視).
 
 <script data-goatcounter="https://tuufless.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>

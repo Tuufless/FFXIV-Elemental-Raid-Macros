@@ -14,7 +14,7 @@ An up-to-date reference would be Nukemaru's guide:
 {% include youtube.html id="WsiSU759ff8" %}
 *(English subtitled)*
 
-## Things to check
+### Things to check on Party Finder
 
 - Check the Sin and Punishment spread positions.
 - Check which tank takes which add.
