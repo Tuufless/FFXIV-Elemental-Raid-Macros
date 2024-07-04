@@ -8,20 +8,17 @@ permalink: /7.0_dawntrail/extreme_trials/ex2/
 # Everkeep (Extreme)
 
 <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
-<b>UNDER CONSTRUCTION - the strats here have not yet settled, and can still 
-change.</b>
+<b>Note:</b> As an EX trial, this will eventually follow whatever Game8 decides on.
 </div>
 
-**Note:** As an EX trial, this will eventually follow whatever Game8 decides on.
-
-PF currently follows mostly Hamkatsu's guide, although note that it is still 
-early and modifications may still be made.
+PF currently follows Hamkatsu's guide:
 
 {% include youtube.html id="2Yq4hrQQsNI" %}
 
 ### Things to check on Party Finder
 
 - How the party will resolve [Projection of Turmoil](#projection-of-turmoil).
+  - Note that the "cheese" strat will be patched out shortly.
 
 ## English
 
@@ -34,10 +31,6 @@ early and modifications may still be made.
 ```
 {% include macros/7.0_dawntrail/zoraal_ja.jp.txt %}
 ```
-
-Meanwhile, here is Nukemaru's guide:
-
-{% include youtube.html id="X7DYfozHLcw" %}
 
 ## Markers
 

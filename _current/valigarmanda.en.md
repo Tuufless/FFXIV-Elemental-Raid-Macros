@@ -8,23 +8,12 @@ permalink: /7.0_dawntrail/extreme_trials/valigarmanda/
 # Worqor Lar Dor (Extreme)
 
 <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
-<b>UNDER CONSTRUCTION - the strats here have not yet settled, and can still 
-change.</b>
+<b>Note:</b> As an EX trial, this will eventually follow whatever Game8 decides on.
 </div>
 
-**Note:** As an EX trial, this will eventually follow whatever Game8 decides on.
-
-PF currently follows mostly Hamkatsu's guide, although note that it is **still 
-early and modifications may still be made**.
+PF currently follows Hamkatsu's guide:
 
 {% include youtube.html id="nI_L-b80b10" %}
-
-### Things to check on Party Finder
-
-- Which feather the party will destroy in *Hail of Feathers*. English 
-  guides have been destroying the **first** feather that falls (E or W). 
-  **This is not done in JP**, where the party destroys the **second** feather
-  that falls instead (SW or SE). *(I personally prefer JP's method.)*
 
 ## English
 
@@ -38,34 +27,33 @@ early and modifications may still be made**.
 {% include macros/7.0_dawntrail/valigarmanda.jp.txt %}
 ```
 
-Nukemaru has also made a guide for cross-referencing:
-
-{% include youtube.html id="sP2Ljn2Y2NA" %}
-
 ## Markers
 
-There are currently **two** sets of markers going around.
-
-### Nukemaru's markers
-
-*(I personally prefer Nukemaru's markers for the time being)*
-
-- The `1234` markers are the spots for the Fire pairs. They are **also** 
-  inside the boss's donut AoE.
-  - The `1` and `2` markers are also safe for the party during *Mountain Fire*.
+- The `1234` markers are the spots for the Fire pairs during the donut AoE.
+- The `1` and `2` markers are safe for the party during *Mountain Fire*.
 - The `A` and `B` markers are the safe spots for dodging the Ice Stars in 
   *Skyruin*:Ice.
 
-![]({{site.baseurl}}/images/7.0_dawntrail/valigarmanda/nukemaru_markers.jpg)
+![]({{site.baseurl}}/images/7.0_dawntrail/valigarmanda/markers.jpg)
+<details markdown=block>
+<summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
-### Hamkatsu's markers
+```json
+{
+  "Name":"Valigarmanda EX",
+  "MapID":833,
+  "A":{"X":92.5,"Y":0.0,"Z":92.5,"ID":0,"Active":true},
+  "B":{"X":107.5,"Y":0.0,"Z":92.5,"ID":1,"Active":true},
+  "C":{"X":118.0,"Y":0.0,"Z":100.0,"ID":2,"Active":true},
+  "D":{"X":82.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},
+  "One":{"X":95.2,"Y":0.0,"Z":95.2,"ID":4,"Active":true},
+  "Two":{"X":104.8,"Y":0.0,"Z":95.2,"ID":5,"Active":true},
+  "Three":{"X":104.8,"Y":0.0,"Z":104.8,"ID":6,"Active":true},
+  "Four":{"X":95.2,"Y":0.0,"Z":104.8,"ID":7,"Active":true}
+}
+```
 
-- The `1` and `2` markers are for the tanks during the Fire+Ice markers in 
-  *Skyruin*:Ice.
-- The `A` and `B` markers are the safe spots for dodging the Ice Stars in 
-  *Skyruin*:Ice. Notably, they are **not** safe when dodging the boss's donut AoE.
-
-![]({{site.baseurl}}/images/7.0_dawntrail/valigarmanda/hamkatsu_markers.jpg)
+</details>
 
 ## Frequently Asked Questions
 
