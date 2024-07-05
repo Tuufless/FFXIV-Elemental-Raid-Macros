@@ -7,11 +7,7 @@ permalink: /7.0_dawntrail/extreme_trials/ex2/
 
 # Everkeep (Extreme)
 
-<div style="background-color: #200 ; padding: 10px; border: 1px solid;">
-<b>Note:</b> As an EX trial, this will eventually follow whatever Game8 decides on.
-</div>
-
-PF currently follows Hamkatsu's guide:
+[Game8](https://game8.jp/ff14/622454) went along with Hamkatsu's guide:
 
 {% include youtube.html id="2Yq4hrQQsNI" %}
 

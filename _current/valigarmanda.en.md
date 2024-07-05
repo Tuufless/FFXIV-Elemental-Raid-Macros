@@ -7,11 +7,8 @@ permalink: /7.0_dawntrail/extreme_trials/valigarmanda/
 
 # Worqor Lar Dor (Extreme)
 
-<div style="background-color: #200 ; padding: 10px; border: 1px solid;">
-<b>Note:</b> As an EX trial, this will eventually follow whatever Game8 decides on.
-</div>
-
-PF currently follows Hamkatsu's guide:
+[Game8](https://game8.jp/ff14/622480) went along with Hamkatsu's guide, 
+but with Nukemaru's markers:
 
 {% include youtube.html id="nI_L-b80b10" %}
 
