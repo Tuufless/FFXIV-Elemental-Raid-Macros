@@ -23,8 +23,8 @@ the ones you may encounter in PF- use the ones here as a base to work with.
 The current item level cap is **iLvl 710**.
 
 **Extreme Trials:**
-- **Valigarmanda EX** - [Worqor Lar Dor (Extreme)]({{site.baseurl}}/7.0_dawntrail/extreme_trials/valigarmanda) *(Under construction)*
-- **EX2** - [Everkeep (Extreme)]({{site.baseurl}}/7.0_dawntrail/extreme_trials/ex2) *(Under construction)*
+- **Valigarmanda EX** - [Worqor Lar Dor (Extreme)]({{site.baseurl}}/7.0_dawntrail/extreme_trials/valigarmanda)
+- **EX2** - [Everkeep (Extreme)]({{site.baseurl}}/7.0_dawntrail/extreme_trials/zoraal_ja)
 
 <script data-goatcounter="https://tuufless.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>

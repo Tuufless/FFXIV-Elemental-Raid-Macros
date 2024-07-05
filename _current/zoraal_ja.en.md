@@ -2,7 +2,7 @@
 layout: default
 title: EX2
 nav_order: 2
-permalink: /7.0_dawntrail/extreme_trials/ex2/
+permalink: /7.0_dawntrail/extreme_trials/zoraal_ja/
 ---
 
 # Everkeep (Extreme)
