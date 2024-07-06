@@ -11,11 +11,6 @@ permalink: /7.0_dawntrail/extreme_trials/zoraal_ja/
 
 {% include youtube.html id="2Yq4hrQQsNI" %}
 
-### Things to check on Party Finder
-
-- How the party will resolve [Projection of Turmoil](#projection-of-turmoil).
-  - Note that the "cheese" strat will be patched out shortly.
-
 ## English
 
 ```
@@ -35,16 +30,31 @@ demarcate where North is (as that's where the line-of-stacks begins).
 
 ![]({{site.baseurl}}/images/7.0_dawntrail/zoraal_ja/markers.jpg)
 
-## Projection of Turmoil
+## Frequently Asked Questions
 
-There are currently a couple different ways to resolve *Projection of Turmoil*.
+<details markdown=block>
+<summary>
+  <b>[Projection of Turmoil]</b> What was the "cheese strat", and what happened to it?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>On release, the debuffs that players got during <em>Projection of 
+      Turmoil</em> would simply disappear if the timer expired without being
+      triggered.</p>
+      <p>This might seem okay because the "line-of-stacks" sweeps over the 
+      arena, however, because the "death wall" in this instance is just a DoT,
+      players discovered you could just step out <em>into</em> the death wall,
+      avoiding the "line-of-stacks" altogether, and the debuffs would disappear
+      without triggering anything.</p>
+      <p>This was identified as an issue, and <a href="https://na.finalfantasyxiv.com/lodestone/news/detail/6495aeb93d82245a8d7fe5aaee9e0d9f1121db0b">
+      hotfixed about a week</a> after early access.</p>
+      <p>Now, the stack triggers when the debuff's timer expires, invalidating 
+      this method.</p>
+    </td>
+  </tr>
+</table>
 
-1. The macros above follow Hamkatsu, and have the party resolve the mechanic 
-   "properly" with a single 8-man stack each time.
-2. Another strat involves just stepping outside the arena and waiting for the
-   line to disappear. This is currently picking up in Mana (look for 外周無視 or 
-   頭割り無視).
-   - **Note:** [This has been identified as an issue, and will be addressed.](https://na.finalfantasyxiv.com/lodestone/news/detail/3b60d81a7123a4894e208f835c043c22eb4697b5)
 
 <script data-goatcounter="https://tuufless.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
