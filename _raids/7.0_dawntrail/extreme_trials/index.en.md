@@ -10,4 +10,4 @@ permalink: /7.0_dawntrail/extreme_trials/
 # Extreme Trials
 
 - **Valigarmanda EX** - [Worqor Lar Dor (Extreme)]({{site.baseurl}}/7.0_dawntrail/extreme_trials/valigarmanda)
-- **EX2** - [Everkeep (Extreme)]({{site.baseurl}}/7.0_dawntrail/extreme_trials/zoraal_ja)
+- **Zoraal Ja EX** - [Everkeep (Extreme)]({{site.baseurl}}/7.0_dawntrail/extreme_trials/zoraal_ja)

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EX2
+title: Zoraal Ja EX
 nav_order: 2
 permalink: /7.0_dawntrail/extreme_trials/zoraal_ja/
 ---
@@ -10,6 +10,12 @@ permalink: /7.0_dawntrail/extreme_trials/zoraal_ja/
 [Game8](https://game8.jp/ff14/622454) went along with Hamkatsu's guide:
 
 {% include youtube.html id="2Yq4hrQQsNI" %}
+
+### Things to note in Party Finder
+
+- The three-hit *Bitter Whirlwind* tankbuster at the end of *Projection of 
+  Turmoil* is taken by a tank invuln. However, there are two instances in the 
+  fight, and *only* WAR can invuln both.
 
 ## English
 
