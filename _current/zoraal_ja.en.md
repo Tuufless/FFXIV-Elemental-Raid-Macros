@@ -60,7 +60,42 @@ demarcate where North is (as that's where the line-of-stacks begins).
     </td>
   </tr>
 </table>
+</details>
 
+## Troubleshooting
+
+<details markdown=block>
+<summary>
+  <b>[Jumps]</b> I keep getting flung off the platform! What determines the direction of travel?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>There are two sets of jumps in the encounter:</p>
+      <ol>
+        <li>The paired jumps (with the white circles).
+          <ul>
+            <li>If the circles are centered on you, you just get thrown up and 
+            down.</li>
+            <li>If they are <em>not</em> centered on you, then you get thrown 
+            from where your <em>your partner</em> (whom the circle is 
+            centered on), is standing.</li>
+          </ul>
+        </li>
+        <li>The green tornado on the ground.
+          <ul>
+            <li>You get thrown from the center of the tornado.</li>
+          </ul>
+        </li>
+      </ol>
+    </td>
+    <td style="text-align:center">
+      <img src="{{site.baseurl}}/images/7.0_dawntrail/zoraal_ja/jump_faq_1.jpg">
+      <img src="{{site.baseurl}}/images/7.0_dawntrail/zoraal_ja/jump_faq_2.jpg">
+    </td>
+  </tr>
+</table>
+</details>
 
 <script data-goatcounter="https://tuufless.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
