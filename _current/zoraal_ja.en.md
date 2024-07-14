@@ -40,6 +40,21 @@ demarcate where North is (as that's where the line-of-stacks begins).
 
 <details markdown=block>
 <summary>
+  <b>[Projection of Turmoil]</b> Does debuffing the boss affect the damage from
+  the stacks?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>Yes, the damage source is still Zoraal Ja, so debuffs like <em>Addle,
+      Dismantle, Feint, and Reprisal will lower the stack damage.</p>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
   <b>[Projection of Turmoil]</b> What was the "cheese strat", and what happened to it?
 </summary>
 <table>
