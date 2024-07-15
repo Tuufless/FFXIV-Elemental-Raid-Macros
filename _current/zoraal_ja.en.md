@@ -47,7 +47,7 @@ demarcate where North is (as that's where the line-of-stacks begins).
   <tr>
     <td>
       <p>Yes, the damage source is still Zoraal Ja, so debuffs like <em>Addle,
-      Dismantle, Feint, and Reprisal will lower the stack damage.</p>
+      Dismantle, Feint, and Reprisal</em> will lower the stack damage.</p>
     </td>
   </tr>
 </table>
@@ -72,6 +72,7 @@ demarcate where North is (as that's where the line-of-stacks begins).
       hotfixed about a week</a> after early access.</p>
       <p>Now, the stack triggers when the debuff's timer expires, invalidating 
       this method.</p>
+      {% include youtube.html id="DFkauys7bWE" %}
     </td>
   </tr>
 </table>
