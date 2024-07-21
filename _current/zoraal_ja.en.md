@@ -94,8 +94,8 @@ demarcate where North is (as that's where the line-of-stacks begins).
             <li>If the circles are centered on you, you just get thrown up and 
             down.</li>
             <li>If they are <em>not</em> centered on you, then you get thrown 
-            from where your <em>your partner</em> (whom the circle is 
-            centered on), is standing.</li>
+            from where <em>your partner</em> (whom the circle is centered on), 
+            is standing.</li>
           </ul>
         </li>
         <li>The green tornado on the ground.
