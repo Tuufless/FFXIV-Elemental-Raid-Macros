@@ -24,7 +24,7 @@ Elemental's TOP PF strat can be broken down as follows:
 
 ### BiS Notes
 
-- The Omega Protocal is a current Ultimate, and is **not** outgeared yet.
+- The Omega Protocal has **not** been outgeared yet.
     - BiS will be a mix of i630 gear, and i635 gear from The Lunar Subterrane.
 
 Looking towards the future:

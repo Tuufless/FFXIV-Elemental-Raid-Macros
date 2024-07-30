@@ -24,13 +24,9 @@ Elemental's DSR PF strat can be broken down as follows:
 
 ### BiS Notes
 
-- Dragonsong's Reprise is the current Ultimate, and is **not** outgeared yet.
-  - BiS will be a mix of i600 gear, and i605 gear from Lapis Manalis.
-
-Looking towards the future:
-
-- Dragonsong's Reprise will not be outgeared until **i730** gear is available.
-- Relic weapons (when they arrive) will have their substats capped at **269**.
+- Any gear at or above **i730** will have their substats capped.
+- Relic weapons will have their substats capped at **269**.
+- Use the highest grade potions available.
 
 ![]({{site.baseurl}}/images/ultimates/dsr/dsr_cheatsheet.jpg)
 *(Full-size image: [English]({{site.baseurl}}/images/ultimates/dsr/dsr_cheatsheet.jpg), [日本語]({{site.baseurl}}/images/ultimates/dsr/dsr_cheatsheet_jp.jpg))*

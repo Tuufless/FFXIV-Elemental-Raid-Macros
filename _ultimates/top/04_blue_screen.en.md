@@ -20,7 +20,7 @@ This is where groups will typically open with a melee LB3.
 <table>
   <tr>
     <td><b>Limit Break priority</b></td>
-    <td>NIN > DRG > MNK > RPR > SAM</td>
+    <td>NIN > DRG > MNK > VPR > RPR > SAM</td>
   </tr>
 </table>
 
