@@ -41,7 +41,7 @@ The current item level cap is **iLvl 735**.
 
 **Savage Raids:**
 
-- **M1S** - AAC Light-heavyweight M1 (Savage) *(Under construction)*
+- **M1S** - [AAC Light-heavyweight M1 (Savage)]({{site.baseurl}}/7.0_dawntrail/savage_raids/m1s) *(Under construction)*
 - **M2S** - AAC Light-heavyweight M2 (Savage) *(Under construction)*
 - **M3S** - AAC Light-heavyweight M3 (Savage) *(Under construction)*
 - **M4S** - AAC Light-heavyweight M4 (Savage) *(Under construction)*
