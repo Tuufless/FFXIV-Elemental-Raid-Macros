@@ -10,7 +10,16 @@ permalink: /7.0_dawntrail/savage_raids/m1s/
 The PF strat has not settled down yet. Join [the discord](https://discord.gg/WEzhVHwAU6)
 to stay up to date with the discussion.
 
-[Game8](https://game8.jp/ff14/630292) has gone with Inumaru's strat for M1S.
+[Game8](https://game8.jp/ff14/630292) has gone with Inumaru's strat for M1S as
+a base, changing:
+
+- The knockback/knockup *Elevate/Eviscerate* mechanic. Game8 is going with the 
+  single-tile strat.
+  - Each player has an assigned, *uncracked* tile (H1/D3 > MT/D1 > ST/D2 >
+    H2/D4)
+  - When marked, that player goes to their tile and positions themselves to get 
+    knocked from one corner diagonally to the other corner of the the same
+    tile, thus ignoring which stance the clone is actually in.
 
 {% include youtube.html id="S1SBXo9tLfo" %}
 
