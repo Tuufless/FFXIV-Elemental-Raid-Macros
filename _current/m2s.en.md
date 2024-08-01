@@ -22,16 +22,27 @@ permalink: /7.0_dawntrail/savage_raids/m2s/
 The PF strat has not settled down yet. Join [the discord](https://discord.gg/WEzhVHwAU6)
 to stay up to date with the discussion.
 
-Both Inumaru and Nukemaru's strats seem to be popular in PF.
-
-## Inumaru
-
-{% include youtube.html id="Pk2Kckwg4Hg" %}
-
-## Nukemaru
+[Game8](https://game8.jp/ff14/630353) has gone along with Nukemaru's strat.
 
 {% include youtube.html id="p9tE-x0XEC4" %}
 
+### Japanese
+
+```
+{% include macros/7.0_dawntrail/m2s.jp.txt %}
+```
+
+## Other guides
+
+Other Japanese content creators have also published their guides:
+
+### Inumaru
+
+{% include youtube.html id="Pk2Kckwg4Hg" %}
+
+### Hamkatsu
+
+{% include youtube.html id="G2NcWfpGNt0" %}
 
 
 <script data-goatcounter="https://tuufless.goatcounter.com/count"

@@ -61,13 +61,15 @@ a base, changing:
 
 </details>
 
+## Other guides
+
 Other Japanese content creators have also published their guides:
 
-## Hamkatsu
+### Hamkatsu
 
 {% include youtube.html id="zNQCr7QBUEw" %}
 
-## Nukemaru
+### Nukemaru
 
 {% include youtube.html id="Txqnv1oBHG4" %}
 
