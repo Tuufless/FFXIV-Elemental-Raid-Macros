@@ -13,7 +13,7 @@ to stay up to date with the discussion.
 [Game8](https://game8.jp/ff14/630292) has gone with Inumaru's strat for M1S as
 a base, changing:
 
-- The knockback/knockup *Elevate/Eviscerate* mechanic. Game8 is going with the 
+- The knockback/knockup *Elevate and Eviscerate* mechanic. Game8 is going with the 
   single-tile strat.
   - Each player has an assigned, *uncracked* tile (H1/D3 > MT/D1 > ST/D2 >
     H2/D4)
