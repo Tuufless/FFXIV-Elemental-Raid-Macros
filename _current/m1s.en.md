@@ -37,6 +37,9 @@ a base, changing:
 
 ## Markers
 
+- The `ABCD` markers are for orientation.
+- The `1234` markers are where the clones will teleport to.
+
 ![]({{site.baseurl}}/images/7.0_dawntrail/m1s/markers.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
