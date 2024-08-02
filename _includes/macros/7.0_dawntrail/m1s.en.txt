@@ -5,10 +5,6 @@
 【4:4 stacks】　　　　　【Splintering Nails】
 　N/W：MTH1D1D3 　　　 　　(BOSS)　　
 　S/E：STH2D2D4　　　　　T 　 　D　 　H
-【Elevate and Eviscerate (Pawprint marker)】
-　Go to uncracked tile：
-　　N/W：H1/D3 > MT/D1 > ST/D2 > H2/D4：S/E
-　Get knocked diagonally (land on same tile)
 【Shockwave】
 　■ Knockback　　　　■ Spread　(BOSS)
 　　West → MTH1D1D3　　　MT/ST　　D1/D2
