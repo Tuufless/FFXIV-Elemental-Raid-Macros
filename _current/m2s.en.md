@@ -26,6 +26,12 @@ to stay up to date with the discussion.
 
 {% include youtube.html id="p9tE-x0XEC4" %}
 
+### English
+
+```
+{% include macros/7.0_dawntrail/m2s.en.txt %}
+```
+
 ### Japanese
 
 ```
