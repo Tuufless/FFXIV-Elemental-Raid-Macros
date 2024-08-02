@@ -22,11 +22,15 @@ permalink: /7.0_dawntrail/savage_raids/m3s/
 The PF strat has not settled down yet. Join [the discord](https://discord.gg/WEzhVHwAU6)
 to stay up to date with the discussion.
 
-Currently, Hamkatsu's strat is popular:
+[Game8](https://game8.jp/ff14/630870) has gone along with Nukemaru's strat:
 
-## Hamkatsu
+{% include youtube.html id="QPLQbRkbvDk" %}
 
-{% include youtube.html id="mGBQuI-ifS8" %}
+### Japanese
+
+```
+{% include macros/7.0_dawntrail/m3s.jp.txt %}
+```
 
 <script data-goatcounter="https://tuufless.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
