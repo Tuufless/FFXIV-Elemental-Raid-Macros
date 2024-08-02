@@ -32,18 +32,5 @@ to stay up to date with the discussion.
 {% include macros/7.0_dawntrail/m2s.jp.txt %}
 ```
 
-## Other guides
-
-Other Japanese content creators have also published their guides:
-
-### Inumaru
-
-{% include youtube.html id="Pk2Kckwg4Hg" %}
-
-### Hamkatsu
-
-{% include youtube.html id="G2NcWfpGNt0" %}
-
-
 <script data-goatcounter="https://tuufless.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
