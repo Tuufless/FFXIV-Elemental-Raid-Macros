@@ -23,7 +23,13 @@ The PF strat has not settled down yet. Join [the discord](https://discord.gg/WEz
 to stay up to date with the discussion.
 
 There are several guides out there for this fight, but we are waiting for Game8
-to make a decision:
+to make a decision. The current strat used in JP PF is Idyllshire's strat:
+
+## Idyllshire
+
+The original blog outlining the strat can be found [here](http://kanatan.info/archives/37586397.html).
+
+An English translation can be found [here](https://docs.google.com/document/d/1R-9dZSVBn-7SlX-cv0l1y0kXtou4jeOm/edit).
 
 ## Hamkatsu
 
@@ -40,10 +46,6 @@ to make a decision:
 **First half:**
 
 {% include youtube.html id="YlxE-oe9nrc" %}
-
-## Idyllshire
-
-You can also reference [Idyllshire's strat](http://kanatan.info/archives/37586397.html).
 
 ### Kuuya's Ion Cluster
 
