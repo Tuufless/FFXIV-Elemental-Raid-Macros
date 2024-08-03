@@ -22,7 +22,10 @@ permalink: /7.0_dawntrail/savage_raids/m4s/
 The PF strat has not settled down yet. Join [the discord](https://discord.gg/WEzhVHwAU6)
 to stay up to date with the discussion.
 
-Hamkatsu has made guides for this fight:
+There are several guides out there for this fight, but we are waiting for Game8
+to make a decision:
+
+## Hamkatsu
 
 **First half:**
 
@@ -32,8 +35,13 @@ Hamkatsu has made guides for this fight:
 
 {% include youtube.html id="aEYdGoRgh3Y" %}
 
+## Nukemaru
 
-## Idyllshire's strat
+**First half:**
+
+{% include youtube.html id="YlxE-oe9nrc" %}
+
+## Idyllshire
 
 You can also reference [Idyllshire's strat](http://kanatan.info/archives/37586397.html).
 
