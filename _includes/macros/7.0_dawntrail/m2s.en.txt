@@ -4,7 +4,7 @@
 　D1 ST D2 　 　 D1 D2
 　　 　 　 　 　 　H1 H2
 ■ Honey B. Live: 1st Beat
-　Melee：Get 2♡ → Stack　　Ranged：Get 3♡
+　Melee：Get 2♡　Ranged：Get 3♡　2♡：Stack
 ■ Honey B. Live: 2nd Beat
 　0♡：Mid → N → Stacks: TH West, DPS East
 　1♡：S → No-AoE take tower: TH N/W, DPS S/E
