@@ -7,21 +7,6 @@ permalink: /7.0_dawntrail/savage_raids/m2s/
 
 # AAC Light-heavyweight M2 (Savage)
 
-<div style="background-color: #200 ; padding: 10px; border: 1px solid;">
-<b>UNDER CONSTRUCTION</b>
-<ul>
-  <li>The PF strat will usually take about 3 weeks to settle down, especially 
-  further into the tier.</li>
-  <li>The PF strat will be based on whatever Game8 publishes, which in turn
-  will be based on the Japanese PF strat in Mana DC.</li>
-  <li><em>Some parts</em> of the EN strat on Elemental may modify part(s) of
-  the Japanese PF strat.</li>
-</ul>
-</div>
-
-The PF strat has not settled down yet. Join [the discord](https://discord.gg/WEzhVHwAU6)
-to stay up to date with the discussion.
-
 [Game8](https://game8.jp/ff14/630353) has gone along with Nukemaru's strat.
 
 {% include youtube.html id="p9tE-x0XEC4" %}
@@ -39,6 +24,10 @@ to stay up to date with the discussion.
 ```
 
 ## Markers
+
+- The `ABCD` markers are just for orientation.
+- The `1234` markers mark the boundary for the boss's line AoEs (markers are
+  safe).
 
 ![]({{site.baseurl}}/images/7.0_dawntrail/m2s/markers.jpg)
 <details markdown=block>
