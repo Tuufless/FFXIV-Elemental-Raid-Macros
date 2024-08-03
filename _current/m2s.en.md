@@ -52,10 +52,10 @@ to stay up to date with the discussion.
   "B":{"X":114.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},
   "C":{"X":100.0,"Y":0.0,"Z":114.0,"ID":2,"Active":true},
   "D":{"X":86.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},
-  "One":{"X":91.375,"Y":0.0,"Z":91.375,"ID":4,"Active":true},
-  "Two":{"X":108.625,"Y":0.0,"Z":91.375,"ID":5,"Active":true},
+  "One":{"X":108.625,"Y":0.0,"Z":91.375,"ID":5,"Active":true},
+  "Two":{"X":91.375,"Y":0.0,"Z":108.625,"ID":6,"Active":true},
   "Three":{"X":108.625,"Y":0.0,"Z":108.625,"ID":7,"Active":true},
-  "Four":{"X":91.375,"Y":0.0,"Z":108.625,"ID":6,"Active":true}
+  "Four":{"X":91.375,"Y":0.0,"Z":91.375,"ID":4,"Active":true}
 }
 ```
 
