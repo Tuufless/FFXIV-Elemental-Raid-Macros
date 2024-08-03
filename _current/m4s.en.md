@@ -22,9 +22,20 @@ permalink: /7.0_dawntrail/savage_raids/m4s/
 The PF strat has not settled down yet. Join [the discord](https://discord.gg/WEzhVHwAU6)
 to stay up to date with the discussion.
 
+Hamkatsu has made guides for this fight:
+
+**First half:**
+
+{% include youtube.html id="zEvghGfSkVM" %}
+
+**Second half:**
+
+{% include youtube.html id="aEYdGoRgh3Y" %}
+
+
 ## Idyllshire's strat
 
-PF currently references [Idyllshire's strat](http://kanatan.info/archives/37586397.html).
+You can also reference [Idyllshire's strat](http://kanatan.info/archives/37586397.html).
 
 ### Kuuya's Ion Cluster
 
