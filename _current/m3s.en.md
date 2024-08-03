@@ -25,6 +25,8 @@ permalink: /7.0_dawntrail/savage_raids/m3s/
 
 ## Markers
 
+- All markers are primarily for *Fuse or Foe*.
+
 ![]({{site.baseurl}}/images/7.0_dawntrail/m3s/markers.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
