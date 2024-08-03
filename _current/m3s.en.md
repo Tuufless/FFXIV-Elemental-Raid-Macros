@@ -26,11 +26,21 @@ to stay up to date with the discussion.
 
 {% include youtube.html id="QPLQbRkbvDk" %}
 
+### English
+
+```
+{% include macros/7.0_dawntrail/m3s.en.txt %}
+```
+
 ### Japanese
 
 ```
 {% include macros/7.0_dawntrail/m3s.jp.txt %}
 ```
+
+## Markers
+
+![]({{site.baseurl}}/images/7.0_dawntrail/m3s/markers.jpg)
 
 <script data-goatcounter="https://tuufless.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
