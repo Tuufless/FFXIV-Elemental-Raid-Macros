@@ -45,7 +45,7 @@ An English translation can be found [here](https://docs.google.com/document/d/1R
 
 **First half:**
 
-{% include youtube.html id="YlxE-oe9nrc" %}
+{% include youtube.html id="Ona9Pb8EaN8" %}
 
 ### Kuuya's Ion Cluster
 
