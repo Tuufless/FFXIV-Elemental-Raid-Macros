@@ -10,6 +10,7 @@ permalink: /7.0_dawntrail/savage_raids/m2s/
 [Game8](https://game8.jp/ff14/630353) has gone along with Nukemaru's strat.
 
 {% include youtube.html id="p9tE-x0XEC4" %}
+*(English subtitled)*
 
 ### English
 
