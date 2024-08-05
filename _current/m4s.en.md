@@ -51,6 +51,76 @@ An English translation can be found [here](https://docs.google.com/document/d/1R
 
 {% include youtube.html id="YaGV9tDuMdI" %}
 
+## DN's Witch Hunt
+
+This was a [strat used by Team DN](https://twitter.com/Lial_Varia/status/1818672413585928380)
+that simplifies things by allowing **players to ignore whether the baited dives 
+will go on the near, or far players**.
+
+Note that the markers used in the diagrams before are the markers that are 
+being populated by JP PF, and are *not* the markers that the group originally 
+used.
+
+<table>
+  <tr>
+    <td width="50%">
+      <p>Each role has two anchor points that dodge the boss's <em>Narrowing 
+      Witch Hunt</em> or <em>Widening Witch Hunt</em>.</p>
+      <p>Then, each anchor point has <b>two</b> positions- one "inner" and one 
+      "outer" position.</p>
+      <p>Using the diagram to the right, all players will dodge to the <b>green → 
+      green → red → red</b> marks, based on their clock positions.</p>
+    </td>
+    <td style="text-align:center">
+      <img src="{{site.baseurl}}/images/7.0_dawntrail/m4s/witch_hunt.jpg">
+    </td>
+  </tr>
+</table>
+
+In order words, once you have established the two anchor points, your dodges will go:
+
+- **Tanks + Ranged:** Inner → Inner → Outer → Outer
+- **Healers + Melee:** Outer → Outer → Inner → Inner
+
+<table>
+  <tr>
+    <td colspan="2">
+      <p><b>1st and 2nd dives:</b></p>
+      <ul>
+        <li><b>Tanks + Ranged:</b> Inner positions.</li>
+        <li><b>Healers + Melee:</b> Outer positions.</li>
+      </ul>
+      <p>The tanks will take the near-dives, while the healers will take the far-dives.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" style="text-align:center">
+      <img src="{{site.baseurl}}/images/7.0_dawntrail/m4s/witch_hunt_01.jpg">
+    </td>
+    <td style="text-align:center">
+      <img src="{{site.baseurl}}/images/7.0_dawntrail/m4s/witch_hunt_02.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <p><b>3rd and 4th dives:</b></p>
+      <ul>
+        <li><b>Tanks + Ranged:</b> Outer positions.</li>
+        <li><b>Healers + Melee:</b> Inner positions.</li>
+      </ul>
+      <p>The melee will take the near-dives, while the ranged will take the far-dives.</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center">
+      <img src="{{site.baseurl}}/images/7.0_dawntrail/m4s/witch_hunt_03.jpg">
+    </td>
+    <td style="text-align:center">
+      <img src="{{site.baseurl}}/images/7.0_dawntrail/m4s/witch_hunt_04.jpg">
+    </td>
+  </tr>
+</table>
+
 ### Kuuya's Ion Cluster
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">4層前半エレクトロンストリーム位置固定法<br>野良でやりたいから流行ってほしい <a href="https://t.co/jNuSAxUeM5">pic.twitter.com/jNuSAxUeM5</a></p>&mdash; くうや (@kuuya_ava) <a href="https://twitter.com/kuuya_ava/status/1818663317055082797?ref_src=twsrc%5Etfw">July 31, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
