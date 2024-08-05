@@ -31,17 +31,9 @@ The original blog outlining the strat can be found [here](http://kanatan.info/ar
 
 An English translation can be found [here](https://docs.google.com/document/d/1R-9dZSVBn-7SlX-cv0l1y0kXtou4jeOm/edit).
 
-## Hamkatsu
-
-**First half:**
-
-{% include youtube.html id="zEvghGfSkVM" %}
-
-**Second half:**
-
-{% include youtube.html id="aEYdGoRgh3Y" %}
-
 ## Nukemaru
+
+Nukemaru has been iterating on their guides to match what PF has been doing:
 
 **First half:**
 
@@ -50,6 +42,14 @@ An English translation can be found [here](https://docs.google.com/document/d/1R
 **Second half:**
 
 {% include youtube.html id="YaGV9tDuMdI" %}
+
+### Japanese
+
+The following macro follows Nukemaru's video:
+
+```
+{% include macros/7.0_dawntrail/m4s.jp.txt %}
+```
 
 ## Markers
 
