@@ -51,6 +51,35 @@ An English translation can be found [here](https://docs.google.com/document/d/1R
 
 {% include youtube.html id="YaGV9tDuMdI" %}
 
+## Markers
+
+Nukemaru's markers are pretty common.
+
+- The markers are used for *Narrowing/Widening Witch Hunt*.
+- The `A` marker is also used to reference North for the pair/spread positions 
+  during *Electrope 1*.
+
+![]({{site.baseurl}}/images/7.0_dawntrail/m4s/markers.jpg)
+<details markdown=block>
+<summary>XIVLauncher WaymarkPresetPlugin positions</summary>
+
+```json
+{
+  "Name":"M4S (Nukemaru)",
+  "MapID":992,
+  "A":{"X":100.0,"Y":0.0,"Z":90.0,"ID":0,"Active":true},
+  "B":{"X":110.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},
+  "C":{"X":100.0,"Y":0.0,"Z":110.0,"ID":2,"Active":true},
+  "D":{"X":90.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},
+  "One":{"X":105.0,"Y":0.0,"Z":95.0,"ID":4,"Active":true},
+  "Two":{"X":105.0,"Y":0.0,"Z":105.0,"ID":5,"Active":true},
+  "Three":{"X":95.0,"Y":0.0,"Z":105.0,"ID":6,"Active":true},
+  "Four":{"X":95.0,"Y":0.0,"Z":95.0,"ID":7,"Active":true}
+}
+```
+
+</details>
+
 ## DN's Witch Hunt
 
 This was a [strat used by Team DN](https://twitter.com/Lial_Varia/status/1818672413585928380)
