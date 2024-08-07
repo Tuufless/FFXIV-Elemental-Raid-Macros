@@ -27,9 +27,7 @@ to make a decision. The current strat used in JP PF is Idyllshire's strat:
 
 ## Idyllshire
 
-The original blog outlining the strat can be found [here](http://kanatan.info/archives/37586397.html).
-
-An English translation can be found [here](https://docs.google.com/document/d/1R-9dZSVBn-7SlX-cv0l1y0kXtou4jeOm/edit).
+The original blog outlining the strat can be found [here](http://kanatan.info/archives/37662658.html).
 
 ## Nukemaru
 
