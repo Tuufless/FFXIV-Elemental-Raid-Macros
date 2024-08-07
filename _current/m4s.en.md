@@ -7,31 +7,13 @@ permalink: /7.0_dawntrail/savage_raids/m4s/
 
 # AAC Light-heavyweight M4 (Savage)
 
-<div style="background-color: #200 ; padding: 10px; border: 1px solid;">
-<b>UNDER CONSTRUCTION</b>
-<ul>
-  <li>The PF strat will usually take about 3 weeks to settle down, especially 
-  further into the tier.</li>
-  <li>The PF strat will be based on whatever Game8 publishes, which in turn
-  will be based on the Japanese PF strat in Mana DC.</li>
-  <li><em>Some parts</em> of the EN strat on Elemental may modify part(s) of
-  the Japanese PF strat.</li>
-</ul>
-</div>
+[Game8](https://game8.jp/ff14/631136) has gone along with [Idyllshire's strat](http://kanatan.info/archives/37662658.html),
+using Kuuya's *Ion Cluster*, Mochibe's *Midnight Sabath*, and Ice's *Sunrise 
+Sabath* positions.
 
-The PF strat has not settled down yet. Join [the discord](https://discord.gg/WEzhVHwAU6)
-to stay up to date with the discussion.
-
-There are several guides out there for this fight, but we are waiting for Game8
-to make a decision. The current strat used in JP PF is Idyllshire's strat:
-
-## Idyllshire
-
-The original blog outlining the strat can be found [here](http://kanatan.info/archives/37662658.html).
-
-## Nukemaru
-
-Nukemaru has been iterating on their guides to match what PF has been doing:
+Idyllshire does not make video guides, but Nukemaru has been iterating on their 
+guides to match what PF has been doing, although note that there are still a 
+couple differences remaining.
 
 **First half:**
 
@@ -39,11 +21,9 @@ Nukemaru has been iterating on their guides to match what PF has been doing:
 
 **Second half:**
 
-{% include youtube.html id="YaGV9tDuMdI" %}
+{% include youtube.html id="vFh4YWxUVrE" %}
 
 ### Japanese
-
-The following macro follows Nukemaru's video:
 
 ```
 {% include macros/7.0_dawntrail/m4s.jp.txt %}
