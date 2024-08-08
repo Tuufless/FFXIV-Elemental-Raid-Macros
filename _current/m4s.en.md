@@ -7,13 +7,8 @@ permalink: /7.0_dawntrail/savage_raids/m4s/
 
 # AAC Light-heavyweight M4 (Savage)
 
-[Game8](https://game8.jp/ff14/631136) has gone along with [Idyllshire's strat](http://kanatan.info/archives/37662658.html),
-using Kuuya's *Ion Cluster*, Mochibe's *Midnight Sabath*, and Ice's *Sunrise 
-Sabath* positions.
-
-Idyllshire does not make video guides, but Nukemaru has been iterating on their 
-guides to match what PF has been doing, although note that there are still a 
-couple differences remaining.
+[Game8](https://game8.jp/ff14/631136) has gone along with Nukemaru's strat for
+the most part, although it also looks like they haven't decided on P2 yet.
 
 **First half:**
 
@@ -30,8 +25,6 @@ couple differences remaining.
 ```
 
 ## Markers
-
-Nukemaru's markers are pretty common.
 
 - The markers are used for *Narrowing/Widening Witch Hunt*.
 - The `A` marker is also used to reference North for the pair/spread positions 
