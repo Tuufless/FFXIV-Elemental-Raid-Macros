@@ -7,8 +7,13 @@ permalink: /7.0_dawntrail/savage_raids/m4s/
 
 # AAC Light-heavyweight M4 (Savage)
 
-[Game8](https://game8.jp/ff14/631136) has gone along with Nukemaru's strat for
-the most part, although it also looks like they haven't decided on P2 yet.
+Game8 has gone along with Nukemaru's strat. Explanation has been split into two 
+parts, even though this is a single encounter with no checkpoint.
+
+- [Part 1](https://game8.jp/ff14/631136)
+- [Part 2](https://game8.jp/ff14/631340)
+
+Nukemaru has also split his guide into two parts:
 
 **First half:**
 

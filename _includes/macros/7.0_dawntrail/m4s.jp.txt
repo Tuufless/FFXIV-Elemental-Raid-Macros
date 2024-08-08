@@ -1,4 +1,4 @@
-■縦散開ーーーー■円輪・輪円（もちべ式）ーーーーーー
+■縦散開ーーーー■円輪・輪円（DN式）ーーーーーー
 D3 D4 　 　 　 　D3 MT D4
 MT ST 　 　 　 　D1 ☆ D2
 D1 D2 　 　 　 　H1 ST H2
@@ -31,10 +31,10 @@ TH少：A　 　DPS少：C 　 |　MT　 　 　H1
 D1 MT ST D2 　 　 　 　デバフ受取優先順位
 D3 H1 H2 D4 　 　MT←D1D3H1 H2D4D2→ST
 ■夜半ーーーーー■剣の雨ーーー■剣の舞ーーーーー
-　 D1　MT 　 　 | MT　ST　|　MT/D1　ST/D2
-ST 　 　 　D2 　 | D1　D2　|
-D3　 　 　H2 　| H1　H2　|　H1/D3　H2/D4
-　 H1　D4 　 　 | D3　D4　|
+　 MT　D2 　 　 | MT　ST　|　MT/D1　ST/D2
+D1 　 　 　ST 　 | D1　D2　|
+H1　 　 　D4 　| H1　H2　|　H1/D3　H2/D4
+　 D3　H2 　 　 | D3　D4　|
 ■日出
 　《塔》 　 　 　 　 　 《誘導》
 TH：南・西 　 　 　 　TH：11時から反時計
