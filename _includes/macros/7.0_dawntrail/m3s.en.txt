@@ -14,7 +14,7 @@
 　　MT/D1 　　　　　┃　　　　　　　 ST/D2
 　　H2/D4 ST/D2　　┃2nd (long)　　H2/D4
 ■ Fusefield ーーーーーーーーーーーーーーーーーー
-　CW from Basic Spread：short → long
+　CW from North：short → long
 　MT→ST→H1→H2　D1→D2→D3→D4
 ■ Bombarian Special ーーーーーーーーーーーーー
 　Octoboom Bomb. Special → Basic Spread
