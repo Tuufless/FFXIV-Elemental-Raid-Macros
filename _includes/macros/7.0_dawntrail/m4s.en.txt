@@ -6,39 +6,37 @@
 ー【Sideways Spark 1】ーーーーーーーーーーーーー
 　　MT　D2　D4　　　　　☆   ST/D2   H2/D4
 　　D1　 ST　H2　　　　MT/D1
-　　D3　 H1　□　　　 　H1/D3
+　　D3　 H1　■　　　 　H1/D3
 ー【Lightning Cage】ーーーーーーーーーーーーーー
-　 Spread　　　| 　↑ ■ ■ ■ ↑　 West：T/H
-　D3 MT D4　　| 　■ 　 ■ 　■　 East：DPS
-　H1 ★ H2 　　|  　　 　 ■　　　↑：More
-　D1 ST D2　　|  　↓ 　 ■　 ↓　↓：Less
- 　　　　　 　 　 　 　 　| ■ ■ s ■ ■
-ー【Pairs】ーーーーーー【Spread (True North)】ー
-　　　　　TH↓　　　　｜　　　D3
-　TH↑　DPS↑　TH↑  ｜　　MT　　H1
-　　　 　 DPS↓　　　　｜  ☆ D1 ST
-　　　　　　　　　　  　｜　　D2　　H2
-  ↑: More　　↓: Less　｜　　　D4
-ー【Ion Cluster】ーーーー 【Transition】ーーーーー
-　　　Purple　　　　　　| 　 　 　 　A
-　　 Near/Far　 　 　　　|　 H2/D2 　 H1/D1
-　Blue 　 　 Blue　　　　|　　　　　▼
-　Blue 　 　 Blue　　　　|　ST/D4 　 MT/D3
-　　 Near/Far　 　 　　　| 　 　 　　 C
-　　　Purple 　　　　　 ｜※ Dodge CW ⇒ CCW
-　T/H outside (at wall)  ｜
-　DPS inside　　　　  　｜
+　　 Spread　　 　↑ ■ ■ ■ ↑　←T/H　DPS→
+　　D3 MT D4　　■ 　 ■ 　■　22s：2 or 3 zaps
+　　H1 ▲ H2　　　　　 ■　　　42s：1 or 2 zaps
+　　D1 ST D2　  　↓ 　 ■　↓　　↑：More
+　　　　　　　　　 ■ ■ s ■ ■　　↓：Less
+【Pairs (True north)】 　【Spread (True north)】
+　　　　　TH↓　　　　　　　　　　 D3
+　TH↑　DPS↑　TH↑　　　　　MT　　H1
+ 　　　　 DPS↓　　　　　　　▲ D1  ST
+　　　　　　　　　　　　　　　　D2　　H2
+　↑: More　　↓: Less　　　　　　  D4
+ー【Ion Cluster】ーーーーーー【Transition】ーーー
+　　Purple　　　　　　　　｜　D3/MT　ST/D4
+　  Near/Far　　　　　　　 ｜　　　　  ▲
+　Blue　Blue ※T/H at wall｜　H1/D1    D2/H2
+　Blue　Blue ※DPS inside｜
+　  Near/Far　　　　　　　 ｜※ Boss-relative
+　　Purple 　　　　　　　   ｜※ Dodge CW ⇒ CCW
 ー【Wicked Blaze (Exaflares)】ーーーーーーーーー
-　West：MTH1D1D3　　East：STH2D2D4
+　West : MT group　East : ST group
 ー【Mustard Bomb】ーーーーーーーーーーーーーー
-　D1 MT ST D2　　【 Take debuff priority】
-　D3 H1 H2 D4 　 MT：D1 D3 H1 H2 D4 D2：ST
-ー【Midnight Sabath】ー【Towers】ーーーーーー
-　　　 D1　MT　　　　｜　MT　ST
-　　ST 　 　 　D2　　　｜　D1　D2
-　　D3 　 　　H2　　　｜　H1　H2
-　　　 H1　D4 　　　　｜　D3　D4
-ー【Sunrise Sabath】ー【Sword Quiver】ーーーー
-　T/H towers：S/W　|　 MT/D1 ST/D2
-　(CCW from 11 o'clock)|
-　DPS towers：N/E　| 　H1/D3 H2/D4
+　D1  MT  ST  D2　　　　　Taking Debuff
+　D3  H1  H2  D4　　MT：D1D3H1H2D4D2：ST
+ー【Midnight Sabath】 ーー【Raining Swords】ー
+　　　　MT　D2　　　　｜　MT　ST　(towers)
+　　　D1　　　 ST　　　｜　D1　D2
+　　　H1　　　D4　　　｜　H1　H2
+　　　　D3　H2　　　　｜　D3　D4
+ー【Sunrise Sabath】ーー【Sword Quiver】ーーー
+　◇Towers/Beams　　｜　MT/D1　　ST/D2
+　T/H：CCW from NW  ｜
+　DPS：CW from N　　｜　H1/D3　　H2/D4

@@ -23,6 +23,12 @@ Nukemaru has also split his guide into two parts:
 
 {% include youtube.html id="vFh4YWxUVrE" %}
 
+### English
+
+```
+{% include macros/7.0_dawntrail/m4s.en.txt %}
+```
+
 ### Japanese
 
 ```
