@@ -130,6 +130,9 @@ In order words, once you have established the two anchor points, your dodges wil
 
 ### Kuuya's Ion Cluster
 
+Notably, tanks and healers drop their AoEs/donuts *towards the wall*, while DPS 
+drop theirs *towards the inside* of the arena.
+
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">4層前半エレクトロンストリーム位置固定法<br>野良でやりたいから流行ってほしい <a href="https://t.co/jNuSAxUeM5">pic.twitter.com/jNuSAxUeM5</a></p>&mdash; くうや (@kuuya_ava) <a href="https://twitter.com/kuuya_ava/status/1818663317055082797?ref_src=twsrc%5Etfw">July 31, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <script data-goatcounter="https://tuufless.goatcounter.com/count"
