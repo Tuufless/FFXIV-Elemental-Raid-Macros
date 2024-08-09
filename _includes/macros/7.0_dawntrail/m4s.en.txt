@@ -31,12 +31,12 @@
 ー【Mustard Bomb】ーーーーーーーーーーーーーー
 　D1  MT  ST  D2　　　　　Taking Debuff
 　D3  H1  H2  D4　　MT：D1D3H1H2D4D2：ST
-ー【Midnight Sabath】 ーー【Raining Swords】ー
+ー【Midnight Sabbath】 ー【Raining Swords】ー
 　　　　MT　D2　　　　｜　MT　ST　(towers)
 　　　D1　　　 ST　　　｜　D1　D2
 　　　H1　　　D4　　　｜　H1　H2
 　　　　D3　H2　　　　｜　D3　D4
-ー【Sunrise Sabath】ーー【Sword Quiver】ーーー
+ー【Sunrise Sabbath】ー【Sword Quiver】ーーー
 　◇Towers/Beams　　｜　MT/D1　　ST/D2
 　T/H：CCW from NW  ｜
 　DPS：CW from N　　｜　H1/D3　　H2/D4
