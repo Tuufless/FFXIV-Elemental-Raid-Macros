@@ -18,19 +18,6 @@ ones here.
 Of course, there will probably be small differences between the macros here and
 the ones you may encounter in PF- use the ones here as a base to work with.
 
-<div style="background-color: #200 ; padding: 10px; border: 1px solid;">
-<p><b>Savage has just come out!</b></p>
-<ul>
-  <li>The PF strat will usually take about 3 weeks to settle down, especially 
-  as you go further into the tier.</li>
-  <li>The PF strat will be based on whatever Game8 publishes, which in turn
-  will be based on the Japanese PF strat in Mana DC.</li>
-  <li><em>Some parts</em> of the EN strat on Elemental may modify part(s) of
-  the Japanese PF strat.</li>
-  <li>There are discussion channels on <a href="https://discord.gg/WEzhVHwAU6">the Discord</a> to help stay up-to-date.</li>
-</ul>
-</div>
-
 ## Current content (Patch 7.0)
 
 The current item level cap is **iLvl 735**.
