@@ -14,11 +14,11 @@
 　　D1 ST D2　  　↓ 　 ■　↓　　↑：More
 　　　　　　　　　 ■ ■ s ■ ■　　↓：Less
 ー【Electrope Edge 2：Sideways Spark】ーーーー
-　※ Use True North　　　　　　　 D3
-　　　　　　TH↓　　　　　　　MT　　H1
-　　TH↑　DPS↑　TH↑　　 ▲ D1  ST
- 　　　　　 DPS↓　　　　　　　D2　　H2
-　↑: More　　↓: Less　　　　　　 D4
+　※ Flip horizontally as needed　　   D3
+　　　　　TH↓　　　　　　　　　  MT　　H1
+　　　　▲DPS↑ TH↑　　　　　▲ D1  ST
+　　　　　DPS↓　　　　　　　　　D2　　H2
+　↑: More　　↓: Less　　　　　　　  D4
 ー【Ion Cluster】ーーーーーー【Transition】ーーー
 　　Purple　　　　　　　　｜　D3/MT　ST/D4
 　  Near/Far　　　　　　　 ｜　　　　  ▲
