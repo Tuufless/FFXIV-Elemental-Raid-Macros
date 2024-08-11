@@ -75,12 +75,12 @@ used.
 <table>
   <tr>
     <td width="50%">
-      <p>Each role has two anchor points that dodge the boss's <em>Narrowing 
+      <p>Each role has two reference points that dodge the boss's <em>Narrowing 
       Witch Hunt</em> or <em>Widening Witch Hunt</em>.</p>
-      <p>Then, each anchor point has <b>two</b> positions- one "inner" and one 
-      "outer" position.</p>
-      <p>Using the diagram to the right, all players will dodge to the <b>green → 
-      green → red → red</b> marks, based on their clock positions.</p>
+      <p>Then, each reference point has <b>two</b> positions- one "inner" and
+      one "outer" position.</p>
+      <p>Using the diagram to the right, all players will dodge to the <b>green
+      → green → red → red</b> marks, based on their clock positions.</p>
     </td>
     <td style="text-align:center">
       <img src="{{site.baseurl}}/images/7.0_dawntrail/m4s/witch_hunt.jpg">
@@ -88,20 +88,75 @@ used.
   </tr>
 </table>
 
-In order words, once you have established the two anchor points, your dodges will go:
+The reference points and positions are very specific:
+
+<table>
+  <tr>
+    <td></td>
+    <td style="text-align:center" width="40%">
+      <b>Inside reference point</b>
+    </td>
+    <td style="text-align:center" width="40%">
+      <b>Outside reference point</b>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center">
+      <b>Tanks + Melee</b>
+    </td>
+    <td>
+      <p>Use the boss's targeting circle.</p>
+      <ul>
+        <li><b>Inner:</b> Just inside the targeting circle.</li>
+        <li><b>Outer:</b> Just outside the targeting circle.</li>
+      </ul>
+    </td>
+    <td>
+      <p>Use the cardinal waymark.</p>
+      <ul>
+        <li><b>Inner:</b> On the outer half of the marker.</li>
+        <li><b>Outer:</b> Just past the marker.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center">
+      <b>Healers + Ranged</b>
+    </td>
+    <td>
+      <p>Use the intercardinal waymark.</p>
+      <ul>
+        <li><b>Inner:</b> On the outer corner of the waymark.</li>
+        <li><b>Outer:</b> Just past the outer corner of the waymark.</li>
+      </ul>
+    </td>
+    <td>
+      <p>Use the junction where four tiles meet.</p>
+      <ul>
+        <li><b>Inner:</b> Just before the junction.</li>
+        <li><b>Outer:</b> On the junction, or further.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+Once you have established the two anchor points, your dodges will go:
 
 - **Tanks + Ranged:** Inner → Inner → Outer → Outer
 - **Healers + Melee:** Outer → Outer → Inner → Inner
 
+Put together, it will look like this:
+
 <table>
   <tr>
     <td colspan="2">
-      <p><b>1st and 2nd dives:</b></p>
+      <p><b>1st and 2nd <em>Witch Hunts</em>:</b></p>
       <ul>
         <li><b>Tanks + Ranged:</b> Inner positions.</li>
         <li><b>Healers + Melee:</b> Outer positions.</li>
       </ul>
-      <p>The tanks will take the near-dives, while the healers will take the far-dives.</p>
+      <p>The tanks will take the near-dives, while the healers will take the
+      far-dives.</p>
     </td>
   </tr>
   <tr>
@@ -114,12 +169,13 @@ In order words, once you have established the two anchor points, your dodges wil
   </tr>
   <tr>
     <td colspan="2">
-      <p><b>3rd and 4th dives:</b></p>
+      <p><b>3rd and 4th <em>Witch Hunts</em>:</b></p>
       <ul>
         <li><b>Tanks + Ranged:</b> Outer positions.</li>
         <li><b>Healers + Melee:</b> Inner positions.</li>
       </ul>
-      <p>The melee will take the near-dives, while the ranged will take the far-dives.</p>
+      <p>The melee will take the near-dives, while the ranged will take the
+      far-dives.</p>
     </td>
   </tr>
   <tr>
