@@ -64,6 +64,10 @@ Nukemaru has also split his guide into two parts:
 
 </details>
 
+## Timeline
+![](https://lh3.googleusercontent.com/pw/AP1GczMMyMo9Hu-zy6LIGLIcCDQ7SqWm9KujuglARA55OdUtLhSDa-r0lS2922ytKh-PUJjAwppNHl9shYUM--MwBrVM-22caQyar96-4-RqQvzLjW-YFYk9ll1-uz-k3vM-DtC61i3LmNsbuffy5rcdOkWJ=w1079-h911-s-no-gm?authuser=0)
+*([Full size image](https://lh3.googleusercontent.com/pw/AP1GczMMyMo9Hu-zy6LIGLIcCDQ7SqWm9KujuglARA55OdUtLhSDa-r0lS2922ytKh-PUJjAwppNHl9shYUM--MwBrVM-22caQyar96-4-RqQvzLjW-YFYk9ll1-uz-k3vM-DtC61i3LmNsbuffy5rcdOkWJ=w1079-h911-s-no-gm?authuser=0), Credit: [u/ExiaKuromonji](https://www.reddit.com/r/ffxiv/comments/1eigxar/m4s_timeline_spoiler_70/))*
+
 ## DN's Witch Hunt
 
 This was a [strat used by Team DN](https://twitter.com/Lial_Varia/status/1818672413585928380)

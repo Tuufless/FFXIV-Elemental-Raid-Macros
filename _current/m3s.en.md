@@ -49,5 +49,9 @@ permalink: /7.0_dawntrail/savage_raids/m3s/
 
 </details>
 
+## Timeline
+![](https://lh3.googleusercontent.com/pw/AP1GczMsB72LqcDP2Rg8mtIU0teq0Xs-s-SeK8F8aMDiouBNsUg-tgnn-Pi4zwmqkCK0TqWFOHhzBc_L-3iTkkoCM60zMHX5c0FY3oy21TxNh72ozftySeeOlSVLwDVABNeWC_1sGH2CMif5g40_OEE7aqCh=w1452-h716-s-no-gm?authuser=0)
+*([Full size image](https://lh3.googleusercontent.com/pw/AP1GczMsB72LqcDP2Rg8mtIU0teq0Xs-s-SeK8F8aMDiouBNsUg-tgnn-Pi4zwmqkCK0TqWFOHhzBc_L-3iTkkoCM60zMHX5c0FY3oy21TxNh72ozftySeeOlSVLwDVABNeWC_1sGH2CMif5g40_OEE7aqCh=w1452-h716-s-no-gm?authuser=0), Credit: [u/ExiaKuromonji](https://www.reddit.com/r/ffxiv/comments/1ehrtpc/m3s_timeline_spoiler_70/))*
+
 <script data-goatcounter="https://tuufless.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>

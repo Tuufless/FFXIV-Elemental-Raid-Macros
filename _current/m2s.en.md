@@ -87,5 +87,9 @@ above:
 
 </details>
 
+## Timeline
+![](https://lh3.googleusercontent.com/pw/AP1GczNSVhF923-PC6d6QG6M3Fu87Yi5KG2Az-cEBC-Tu0wYEM-kimRgpEAJ_I1J5P4c8c1t5bYN1tU-b7uam0FoPHQo9DWE7sDNnIJeLhiMOY2fe0Qr8PlGkgozMbxNNZh5hxaAPqD8NFdx-NnB-yvggSLE=w1745-h715-s-no-gm?authuser=0)
+*([Full size image](https://lh3.googleusercontent.com/pw/AP1GczNSVhF923-PC6d6QG6M3Fu87Yi5KG2Az-cEBC-Tu0wYEM-kimRgpEAJ_I1J5P4c8c1t5bYN1tU-b7uam0FoPHQo9DWE7sDNnIJeLhiMOY2fe0Qr8PlGkgozMbxNNZh5hxaAPqD8NFdx-NnB-yvggSLE=w1745-h715-s-no-gm?authuser=0), Credit: [u/ExiaKuromonji](https://www.reddit.com/r/ffxiv/comments/1eh1qr3/m2s_timeline_spoiler_70/))*
+
 <script data-goatcounter="https://tuufless.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
