@@ -18,10 +18,12 @@ Nukemaru has also split his guide into two parts:
 **First half:**
 
 {% include youtube.html id="gl4BNKLr3rk" %}
+*(English subtitled)*
 
 **Second half:**
 
 {% include youtube.html id="vFh4YWxUVrE" %}
+*(English subtitled)*
 
 ### English
 
