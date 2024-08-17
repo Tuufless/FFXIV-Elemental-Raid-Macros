@@ -247,6 +247,28 @@ and healers drop their AoEs/donuts *towards the wall*, while DPS drop theirs
   </tr>
 </table>
 
+### Sunrise Sabbath
+
+Resolving *Sunrise Sabbath* requires baiting the beams in specific positions
+(notice a pattern with this fight?) to not hit the players in the towers, *and*
+not get clipped by another player's beam.
+
+<table>
+  <tr>
+    <td>
+      <p>Draw a line diagonally across the tile (which will cut through the
+      tile's rivets).</p>
+      <p>Stand on that line, as close to the edge as you can.</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center">
+      <img src="{{site.baseurl}}/images/7.0_dawntrail/m4s/sunrise_sabbath.jpg">
+    </td>
+  </tr>
+</table>
+
+
 ## Frequently Asked Questions
 
 <details markdown=block>
