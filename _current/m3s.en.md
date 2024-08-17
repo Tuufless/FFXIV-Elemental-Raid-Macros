@@ -49,6 +49,28 @@ permalink: /7.0_dawntrail/savage_raids/m3s/
 
 </details>
 
+## Troubleshooting
+
+<details markdown=block>
+<summary>
+  <b>[Barbarous Barrage]</b> I keep getting the angle slightly off, and get
+  knocked out the arena with the last tower!
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>It's tempting to stand near the center of the tower to maximise your
+      distance to the edge, but doing so makes your knockback angle much more
+      sensitive to your positioning (increasing the chance you get knocked
+      enough sideways out of the arena).</p>
+      <p>Stand towards the outer end of the tower instead. This makes your
+      knockback direction less sensitive to your positioning, and the knockback
+      distance isn't enough to throw you out of the arena.</p>
+    </td>
+  </tr>
+</table>
+
+
 ## Timeline
 ![](https://lh3.googleusercontent.com/pw/AP1GczMsB72LqcDP2Rg8mtIU0teq0Xs-s-SeK8F8aMDiouBNsUg-tgnn-Pi4zwmqkCK0TqWFOHhzBc_L-3iTkkoCM60zMHX5c0FY3oy21TxNh72ozftySeeOlSVLwDVABNeWC_1sGH2CMif5g40_OEE7aqCh=w1452-h716-s-no-gm?authuser=0)
 *([Full size image](https://lh3.googleusercontent.com/pw/AP1GczMsB72LqcDP2Rg8mtIU0teq0Xs-s-SeK8F8aMDiouBNsUg-tgnn-Pi4zwmqkCK0TqWFOHhzBc_L-3iTkkoCM60zMHX5c0FY3oy21TxNh72ozftySeeOlSVLwDVABNeWC_1sGH2CMif5g40_OEE7aqCh=w1452-h716-s-no-gm?authuser=0), Credit: [u/ExiaKuromonji](https://www.reddit.com/r/ffxiv/comments/1ehrtpc/m3s_timeline_spoiler_70/))*
