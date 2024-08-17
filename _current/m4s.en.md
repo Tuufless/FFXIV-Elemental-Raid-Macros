@@ -194,6 +194,66 @@ Put together, it will look like this:
   </tr>
 </table>
 
+### Electrope Edge 1
+
+Which corners the boss zaps isn't completely random.
+
+If you're having trouble determining the safe quadrants the "proper" way
+(tracking which corners only get zapped once), you can take advantage of this.
+
+<table>
+  <tr>
+    <th></th>
+    <th>West half</th>
+    <th>East half</th>
+  </tr>
+  <tr>
+    <td style="text-align:center">
+      <p><b>1st hit</b></p>
+    </td>
+    <td>
+      <p>NW or SW at random.</p>
+      <div style="background-color: #002 ; padding: 10px">
+        <p>Whichever west-side quadrant <em>was not</em> hit first is 
+        potentially safe for <em>Sideways Swipe</em>.</p>
+      </div>
+    </td>
+    <td>
+      <p>NE or SE at random.</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center">
+      <p><b>2nd hit</b></p>
+    </td>
+    <td>
+      <p>NW or SW, whichever was hit first.</p>
+    </td>
+    <td>
+      <p>NE or SE, whichever was <em>not</em> hit first.</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center">
+      <p><b>3rd hit</b></p>
+    </td>
+    <td>
+      <p>NW or SW, whichever was <em>not</em> hit first.</p>
+      <div style="background-color: #005 ; padding: 10px">
+        <p>Whichever west-side quadrant <em>was</em> hit third is
+        potentially safe for <em>Sideways Swipe</em>.</p>
+      </div>
+    </td>
+    <td>
+      <p>NE or SE at random.</p>
+      <div style="background-color: #002 ; padding: 10px">
+        <p>Whichever east-side quadrant <em>was not</em> hit third is
+        potentially safe for <em>Sideways Swipe</em>.</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
 ### Kuuya's Electron Stream
 
 [Kuuya's Electron Stream](https://twitter.com/kuuya_ava/status/1818663317055082797)
