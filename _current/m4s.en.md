@@ -68,7 +68,7 @@ Nukemaru has also split his guide into two parts:
 ![](https://lh3.googleusercontent.com/pw/AP1GczMMyMo9Hu-zy6LIGLIcCDQ7SqWm9KujuglARA55OdUtLhSDa-r0lS2922ytKh-PUJjAwppNHl9shYUM--MwBrVM-22caQyar96-4-RqQvzLjW-YFYk9ll1-uz-k3vM-DtC61i3LmNsbuffy5rcdOkWJ=w1079-h911-s-no-gm?authuser=0)
 *([Full size image](https://lh3.googleusercontent.com/pw/AP1GczMMyMo9Hu-zy6LIGLIcCDQ7SqWm9KujuglARA55OdUtLhSDa-r0lS2922ytKh-PUJjAwppNHl9shYUM--MwBrVM-22caQyar96-4-RqQvzLjW-YFYk9ll1-uz-k3vM-DtC61i3LmNsbuffy5rcdOkWJ=w1079-h911-s-no-gm?authuser=0), Credit: [u/ExiaKuromonji](https://www.reddit.com/r/ffxiv/comments/1eigxar/m4s_timeline_spoiler_70/))*
 
-## DN's Witch Hunt
+### Team DN's Witch Hunt
 
 This was a [strat used by Team DN](https://twitter.com/Lial_Varia/status/1818672413585928380)
 that simplifies things by allowing **players to ignore whether the baited dives 
@@ -194,12 +194,85 @@ Put together, it will look like this:
   </tr>
 </table>
 
-### Kuuya's Ion Cluster
+### Kuuya's Electron Stream
 
-Notably, tanks and healers drop their AoEs/donuts *towards the wall*, while DPS 
-drop theirs *towards the inside* of the arena.
+[Kuuya's Electron Stream](https://twitter.com/kuuya_ava/status/1818663317055082797)
+is a method to resolve all the debuffs in *Electron Stream* that minimises
+movement and maintains melee uptime.
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">4層前半エレクトロンストリーム位置固定法<br>野良でやりたいから流行ってほしい <a href="https://t.co/jNuSAxUeM5">pic.twitter.com/jNuSAxUeM5</a></p>&mdash; くうや (@kuuya_ava) <a href="https://twitter.com/kuuya_ava/status/1818663317055082797?ref_src=twsrc%5Etfw">July 31, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+It is essentially identical to Team DN's solution, *however*, Kuuya has tanks
+and healers drop their AoEs/donuts *towards the wall*, while DPS drop theirs
+*towards the inside* of the arena.
+
+<table>
+  <tr>
+    <td style="text-align:center">
+      <img src="{{site.baseurl}}/images/7.0_dawntrail/m4s/roundhouse_conductor.png">
+      <img src="{{site.baseurl}}/images/7.0_dawntrail/m4s/spinning_conductor.png">
+    </td>
+    <td>
+      <p><em>Roundhouse Conductor/Spinning Conductor</em></p>
+      <p>Stand on the "rivet" towards the corner of the tile, towards the
+      boss.</p>
+      <ul>
+        <li><b>Tanks/Healers</b>: Towards the outside (the wall).</li>
+        <li><b>DPS</b>: Towards the inside (where the floor used to be).</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center">
+      <img src="{{site.baseurl}}/images/7.0_dawntrail/m4s/proximate_current.png">
+      <img src="{{site.baseurl}}/images/7.0_dawntrail/m4s/remote_current.png">
+    </td>
+    <td>
+      <p><em>Proximate Current/Remote Current</em></p>
+      <p>Stand just in front of the center of the tile (in front of the player
+      with <em>Collider Conductor</em>).</p></td>
+  </tr>
+  <tr>
+    <td style="text-align:center">
+      <img src="{{site.baseurl}}/images/7.0_dawntrail/m4s/collider_conductor.png">
+    </td>
+    <td>
+      <p><em>Collider Conductor</em></p>
+      <p>Stand just behind the center of the tile (behind the player with
+      <em>Proximate/Remote Current</em>).</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:center">
+      <img src="{{site.baseurl}}/images/7.0_dawntrail/m4s/ion_cluster.jpg">
+    </td>
+  </tr>
+</table>
+
+## Frequently Asked Questions
+
+<details markdown=block>
+<summary>
+  <b>[Electron Stream]</b> Why do the players go to the outside/inside instead
+  of to the left/right?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>At least two groups independently came up with essentially the same
+      solution, with the only difference being where the <em>Conductor</em>
+      debuffs go.</p>
+      <ul>
+        <li><b>One Ace</b> is the Japanese group that Kuuya was part of, and
+        put tanks/healers to the wall, and DPS on the inside.</li>
+        <li><b>Team DN</b> is the NA group that got World 6th, and put
+        tanks/healers to the left (facing the boss), and DPS to the right.</li>
+      </ul>
+      <p>Which scheme you choose is ultimately an arbitrary decision.</p>
+      <p>One Ace, being a Japanese group, has more influence over the Japanese
+      player base, hence why tanks/healers go to the wall in the Japanese
+      DCs.</p>
+    </td>
+  </tr>
+</table>
 
 <script data-goatcounter="https://tuufless.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
