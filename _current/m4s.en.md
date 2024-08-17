@@ -273,8 +273,8 @@ not get clipped by another player's beam.
 
 <details markdown=block>
 <summary>
-  <b>[Electron Stream]</b> Why do the players go to the outside/inside instead
-  of to the left/right?
+  <b>[Electron Stream]</b> Why do we fix roles to go to the outside/inside
+  instead of to the left/right?
 </summary>
 <table>
   <tr>
@@ -283,12 +283,16 @@ not get clipped by another player's beam.
       solution, with the only difference being where the <em>Conductor</em>
       debuffs go.</p>
       <ul>
-        <li><b>One Ace</b> is the Japanese group that Kuuya was part of, and
-        put tanks/healers to the wall, and DPS on the inside.</li>
-        <li><b>Team DN</b> is the NA group that got World 6th, and put
-        tanks/healers to the left (facing the boss), and DPS to the right.</li>
+        <li><a href="https://twitter.com/kuuya_ava/status/1818663317055082797">
+        <b>One Ace</b></a> is the Japanese group that Kuuya was part of, and
+        put tanks/healers to the outside (the wall), and DPS on the inside.</li>
+        <li><a href="https://twitter.com/Lial_Varia/status/1818400040454373676">
+        <b>Team DN</b></a> is the NA group that got World 6th, and put
+        tanks/healers to one side (facing the boss), and DPS to the other.</li>
       </ul>
-      <p>Which scheme you choose is ultimately an arbitrary decision.</p>
+      <p>Which scheme you choose is ultimately an arbitrary decision (although
+      you can argue that having tanks/healers to the wall means the subsequent
+      tankbuster always points outside).</p>
       <p>One Ace, being a Japanese group, has more influence over the Japanese
       player base, hence why tanks/healers go to the wall in the Japanese
       DCs.</p>
