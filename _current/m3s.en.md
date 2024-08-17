@@ -28,13 +28,15 @@ permalink: /7.0_dawntrail/savage_raids/m3s/
 
 - All markers are primarily for *Fuse or Foe*.
 
-![]({{site.baseurl}}/images/7.0_dawntrail/m3s/markers.jpg)
+These markers use the colours to indicate pairs.
+
+![]({{site.baseurl}}/images/7.0_dawntrail/m3s/markers_en.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
 ```json
 {
-  "Name":"M3S",
+  "Name":"M3S (EN)",
   "MapID":990,
   "A":{"X":100.0,"Y":0.0,"Z":93.0,"ID":0,"Active":true},
   "B":{"X":107.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},
@@ -48,6 +50,31 @@ permalink: /7.0_dawntrail/savage_raids/m3s/
 ```
 
 </details>
+
+These markers are more likely to be used by Japanese parties.
+
+![]({{site.baseurl}}/images/7.0_dawntrail/m3s/markers_jp.jpg)
+<details markdown=block>
+<summary>XIVLauncher WaymarkPresetPlugin positions</summary>
+
+```json
+{
+  "Name":"M3S (JP)",
+  "MapID":990,
+  "A":{"X":100.0,"Y":0.0,"Z":93.0,"ID":0,"Active":true},
+  "B":{"X":107.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},
+  "C":{"X":100.0,"Y":0.0,"Z":107.0,"ID":2,"Active":true},
+  "D":{"X":93.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},
+  "One":{"X":108.5,"Y":0.0,"Z":91.5,"ID":5,"Active":true},
+  "Two":{"X":108.5,"Y":0.0,"Z":108.5,"ID":6,"Active":true},
+  "Three":{"X":91.5,"Y":0.0,"Z":108.5,"ID":7,"Active":true},
+  "Four":{"X":91.5,"Y":0.0,"Z":91.5,"ID":4,"Active":true}
+}
+```
+
+</details>
+
+
 
 ## Troubleshooting
 
