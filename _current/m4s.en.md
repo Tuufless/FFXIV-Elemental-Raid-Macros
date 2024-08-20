@@ -319,6 +319,12 @@ not get clipped by another player's beam.
       <p>Draw a line diagonally across the tile (which will cut through the
       tile's rivets).</p>
       <p>Stand on that line, as close to the edge as you can.</p>
+      <ul> 
+        <li>You can move a step or two towards the clone, but <em>this is a
+        tradeoff</em>. Moving closer lowers the chance you get hit by another
+        player's beam, but also makes your beam more sensitive to your
+        position, increasing the chance your beam hits someone else.</li>
+      </ul>
     </td>
   </tr>
   <tr>
