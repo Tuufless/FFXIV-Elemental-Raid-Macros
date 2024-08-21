@@ -87,9 +87,43 @@ above:
 
 </details>
 
+
 ## Timeline
 ![](https://lh3.googleusercontent.com/pw/AP1GczNSVhF923-PC6d6QG6M3Fu87Yi5KG2Az-cEBC-Tu0wYEM-kimRgpEAJ_I1J5P4c8c1t5bYN1tU-b7uam0FoPHQo9DWE7sDNnIJeLhiMOY2fe0Qr8PlGkgozMbxNNZh5hxaAPqD8NFdx-NnB-yvggSLE=w1745-h715-s-no-gm?authuser=0)
 *([Full size image](https://lh3.googleusercontent.com/pw/AP1GczNSVhF923-PC6d6QG6M3Fu87Yi5KG2Az-cEBC-Tu0wYEM-kimRgpEAJ_I1J5P4c8c1t5bYN1tU-b7uam0FoPHQo9DWE7sDNnIJeLhiMOY2fe0Qr8PlGkgozMbxNNZh5hxaAPqD8NFdx-NnB-yvggSLE=w1745-h715-s-no-gm?authuser=0), Credit: [u/ExiaKuromonji](https://www.reddit.com/r/ffxiv/comments/1eh1qr3/m2s_timeline_spoiler_70/))*
+
+
+## Frequently Asked Questions
+
+<details markdown=block>
+<summary>
+  <b>[Honey B. Live: 1st Beat]</b> Is a ranged player supposed to end up with
+  two hearts?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>Yes- assuming nobody takes an extra heart, there should be five
+      players with two hearts, not four. The party actually has a one-heart
+      margin of error.</p>
+      <p>If you look closely, that's also why there's a subtle difference
+      between the English and Japanese macros:</p>
+      <ul>
+        <li>The Japanese macro says "all melee get two hearts, and stack
+        together."</li>
+        <li>The English macro says "all melee get two hearts, then all players
+        with two hearts stack together."</li>
+      </ul>
+      <p>This is important, because the stack targets a random player with the
+      fewest hearts (which could be a ranged), but it's also good practice to
+      associate "stacking together" with "having two hearts", instead of "being
+      melee".</p>
+      <p>That means if anyone accidentally messes up and takes one extra heart,
+      everything still works out because the remaining four players with two
+      hearts can share the stack.</p>
+    </td>
+  </tr>
+</table>
 
 <script data-goatcounter="https://tuufless.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
