@@ -124,6 +124,40 @@ above:
     </td>
   </tr>
 </table>
+</details>
+
+<details markdown=block>
+<summary>
+  <b>[Heartsick (stacks)]</b> How are hearts distributed?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>All stacks distribute a total of 4 hearts to players in the stack. Who
+      gets the hearts seem to be decided by:</p>
+      <ol>
+        <li>Pick a maximum of four players at random in the stack (pick
+        everybody if the stack has less than 5 players).</li>
+        <li>Sort these players from lowest to highest number of hearts.</li>
+        <li>Give a heart to those players in that order (looping if needed)
+        until there are no more hearts left to distribute.</li>
+      </ol>
+      <p>As a result:</p>
+      <ul>
+        <li>If there is only one player in the stack, that player gets four
+        hearts.</li>
+        <li>If there are two players in the stack, each get two hearts.</li>
+        <li>If there are three players in the stack, each get a heart, and
+        the extra heart goes to one of the players with the fewest hearts.</li>
+        <li>If there are four players in the stack, each gets a heart.</li>
+        <li>If there are five or more players in the stack, four of them at
+        random get a heart.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+</details>
 
 <script data-goatcounter="https://tuufless.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
+ 
