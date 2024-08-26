@@ -62,5 +62,20 @@ a base, changing:
 ![](https://lh3.googleusercontent.com/pw/AP1GczP1CwLInp0122ZHqTP_P2JW05I9TA7BRRlCpPkw5yakP6dAlVQ_pWGjAUViTxxR1E4fMt1rCVbSiph4bWsor_G811520ttjiujXImRpsXhJYi9WxjikjnRppuWPrB_UwsTRHeynjGfarc4J9VUGf6RO=w1771-h813-s-no-gm?authuser=0)
 *([Full size image](https://lh3.googleusercontent.com/pw/AP1GczP1CwLInp0122ZHqTP_P2JW05I9TA7BRRlCpPkw5yakP6dAlVQ_pWGjAUViTxxR1E4fMt1rCVbSiph4bWsor_G811520ttjiujXImRpsXhJYi9WxjikjnRppuWPrB_UwsTRHeynjGfarc4J9VUGf6RO=w1771-h813-s-no-gm?authuser=0), Credit: [u/ExiaKuromonji](https://www.reddit.com/r/ffxiv/comments/1eg0ugu/m1s_timeline_spoiler_70/))*
 
+## Frequently Asked Questions
+
+<details markdown=block>
+<summary><b>[Damage Down]</b> How strong is the damage down debuff in this 
+fight?</summary>
+<table>
+  <tr>
+    <td>
+      <p>The Damage Down debuff in this encounter lowers a player's damage by 
+      <b>25%</b> for 30 seconds.</p>
+    </td>
+  </tr>
+</table>
+</details>
+
 <script data-goatcounter="https://tuufless.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>

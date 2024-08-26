@@ -338,6 +338,19 @@ not get clipped by another player's beam.
 ## Frequently Asked Questions
 
 <details markdown=block>
+<summary><b>[Damage Down]</b> How strong is the damage down debuff in this 
+fight?</summary>
+<table>
+  <tr>
+    <td>
+      <p>The Damage Down debuff in this encounter lowers a player's damage by 
+      <b>25%</b> for 30 seconds.</p>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
 <summary>
   <b>[Electron Stream]</b> Why do we fix roles to go to the outside/inside
   instead of to the left/right?

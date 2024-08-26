@@ -78,6 +78,21 @@ These markers are more likely to be used by Japanese parties.
 ![](https://lh3.googleusercontent.com/pw/AP1GczMsB72LqcDP2Rg8mtIU0teq0Xs-s-SeK8F8aMDiouBNsUg-tgnn-Pi4zwmqkCK0TqWFOHhzBc_L-3iTkkoCM60zMHX5c0FY3oy21TxNh72ozftySeeOlSVLwDVABNeWC_1sGH2CMif5g40_OEE7aqCh=w1452-h716-s-no-gm?authuser=0)
 *([Full size image](https://lh3.googleusercontent.com/pw/AP1GczMsB72LqcDP2Rg8mtIU0teq0Xs-s-SeK8F8aMDiouBNsUg-tgnn-Pi4zwmqkCK0TqWFOHhzBc_L-3iTkkoCM60zMHX5c0FY3oy21TxNh72ozftySeeOlSVLwDVABNeWC_1sGH2CMif5g40_OEE7aqCh=w1452-h716-s-no-gm?authuser=0), Credit: [u/ExiaKuromonji](https://www.reddit.com/r/ffxiv/comments/1ehrtpc/m3s_timeline_spoiler_70/))*
 
+## Frequently Asked Questions
+
+<details markdown=block>
+<summary><b>[Damage Down]</b> How strong is the damage down debuff in this 
+fight?</summary>
+<table>
+  <tr>
+    <td>
+      <p>The Damage Down debuff in this encounter lowers a player's damage by 
+      <b>38%</b> for 30 seconds.</p>
+    </td>
+  </tr>
+</table>
+</details>
+
 ## Troubleshooting
 
 <details markdown=block>

@@ -96,6 +96,19 @@ above:
 ## Frequently Asked Questions
 
 <details markdown=block>
+<summary><b>[Damage Down]</b> How strong is the damage down debuff in this 
+fight?</summary>
+<table>
+  <tr>
+    <td>
+      <p>The Damage Down debuff in this encounter lowers a player's damage by 
+      <b>26%</b> for 30 seconds.</p>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
 <summary>
   <b>[Honey B. Live: 1st Beat]</b> Is a ranged player supposed to end up with
   two hearts?
