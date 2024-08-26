@@ -158,6 +158,22 @@ above:
 </table>
 </details>
 
+<details markdown=block>
+<summary>
+  <b>[Rotten Heart]</b> What's the latest you can trigger the debuffs before
+  the raid-wide?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>The latest you can trigger the α and β debuffs and have the <em>Magic
+      Vulnerability Up</em> wear off before <em>Call Me Honey</em> is when
+      there is <b>3 seconds left</b> on the debuff.</p>
+    </td>
+  </tr>
+</table>
+</details>
+
 <script data-goatcounter="https://tuufless.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
  
