@@ -7,7 +7,7 @@ permalink: /7.0_dawntrail/savage_raids/m1s/
 
 # AAC Light-heavyweight M1 (Savage)
 
-[Game8](https://game8.jp/ff14/630292) has gone with Inumaru's strat for M1S as
+[Game8.jp](https://game8.jp/ff14/630292) has gone with Inumaru's strat for M1S as
 a base, changing:
 
 - The knockback/knockup *Elevate and Eviscerate* mechanic. Game8 is going with

@@ -7,7 +7,7 @@ permalink: /7.0_dawntrail/extreme_trials/zoraal_ja/
 
 # Everkeep (Extreme)
 
-[Game8](https://game8.jp/ff14/622454) went along with Hamkatsu's guide:
+[Game8.jp](https://game8.jp/ff14/622454) went along with Hamkatsu's guide:
 
 {% include youtube.html id="2Yq4hrQQsNI" %}
 

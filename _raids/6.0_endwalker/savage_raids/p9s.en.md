@@ -9,7 +9,7 @@ permalink: /6.0_endwalker/savage_raids/p9s/
 
 # Anabaseios: The Ninth Circle (Savage)
 
-[Game8](https://game8.jp/ff14/532345) has gone with Nukemaru's strat for P9S.
+[Game8.jp](https://game8.jp/ff14/532345) has gone with Nukemaru's strat for P9S.
 
 {% include youtube.html id="URo06JSGEgM" %}
 

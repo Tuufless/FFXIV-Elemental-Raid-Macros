@@ -9,7 +9,7 @@ permalink: /6.0_endwalker/extreme_trials/zeromus/
 
 # The Abyssal Fracture (Extreme)
 
-[Game8](https://game8.jp/ff14/557945) has gone ahead with Hamkatsu's strat:
+[Game8.jp](https://game8.jp/ff14/557945) has gone ahead with Hamkatsu's strat:
 
 {% include youtube.html id="jfL35wWxylY" %}
 

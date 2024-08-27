@@ -20,7 +20,7 @@ PF largely follows Nukemaru's guide:
 
 ## Japanese
 
-This is the [game8 macro](https://game8.jp/ff14/446913) that's being used:
+This is the [Game8.jp macro](https://game8.jp/ff14/446913) that's being used:
 ```
 {% include macros/6.0_endwalker/endsinger.jp.txt %}
 ```

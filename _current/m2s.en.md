@@ -7,7 +7,7 @@ permalink: /7.0_dawntrail/savage_raids/m2s/
 
 # AAC Light-heavyweight M2 (Savage)
 
-[Game8](https://game8.jp/ff14/630353) has gone along with Nukemaru's strat.
+[Game8.jp](https://game8.jp/ff14/630353) has gone along with Nukemaru's strat.
 
 {% include youtube.html id="p9tE-x0XEC4" %}
 *(English subtitled)*

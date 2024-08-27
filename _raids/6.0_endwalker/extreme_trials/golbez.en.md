@@ -9,7 +9,7 @@ permalink: /6.0_endwalker/extreme_trials/golbez/
 
 # The Voidcast Dais (Extreme)
 
-[Game8](https://game8.jp/ff14/529320) has gone ahead with a modified version of
+[Game8.jp](https://game8.jp/ff14/529320) has gone ahead with a modified version of
 Hamkatsu's strat for Golbez EX.
 
 {% include youtube.html id="Js6k0I2yImw" %}
@@ -67,7 +67,8 @@ Game8/Hamkatsu uses the following markers:
 
 <details markdown=block>
 <summary>
-  <b>[Game8]</b> What was the modification made to Hamkatsu's to get to Game8?
+  <b>[Game8]</b> What was the modification made to Hamkatsu's to get to Game8's
+  strat?
 </summary>
 <table>
   <tr>

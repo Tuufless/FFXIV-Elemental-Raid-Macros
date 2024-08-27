@@ -9,7 +9,7 @@ permalink: /6.0_endwalker/savage_raids/p5s/
 
 # Abyssos: The Fifth Circle (Savage)
 
-This is [Game8's macro](https://game8.jp/ff14/464675)
+This is [Game8.jp's macro](https://game8.jp/ff14/464675)
 
 {% include youtube.html id="GRrZvJT1fXM" %}
 

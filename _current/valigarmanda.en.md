@@ -7,7 +7,7 @@ permalink: /7.0_dawntrail/extreme_trials/valigarmanda/
 
 # Worqor Lar Dor (Extreme)
 
-[Game8](https://game8.jp/ff14/622480) went along with Hamkatsu's guide, 
+[Game8.jp](https://game8.jp/ff14/622480) went along with Hamkatsu's guide, 
 but with Nukemaru's markers:
 
 {% include youtube.html id="nI_L-b80b10" %}

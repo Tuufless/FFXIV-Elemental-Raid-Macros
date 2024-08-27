@@ -9,7 +9,7 @@ permalink: /6.0_endwalker/extreme_trials/rubicante/
 
 # Mount Ordeals (Extreme)
 
-These macros are from [Game8](https://game8.jp/ff14/507079) which follows
+These macros are from [Game8.jp](https://game8.jp/ff14/507079) which follows
 Nukemaru's strat.
 
 {% include youtube.html id="uWR-SoZ4hFw" %}

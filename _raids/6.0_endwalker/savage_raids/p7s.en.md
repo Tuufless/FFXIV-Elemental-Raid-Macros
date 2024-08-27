@@ -29,7 +29,7 @@ Nukemaru has made a guide aggregating all the strats together:
 
 ## Japanese
 
-The following is [Game8's macro](https://game8.jp/ff14/479465):
+The following is [Game8.jp's macro](https://game8.jp/ff14/479465):
 ```
 {% include macros/6.0_endwalker/p7s.jp.txt %}
 ```

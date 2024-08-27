@@ -9,7 +9,7 @@ permalink: /6.0_endwalker/savage_raids/p6s/
 
 # Abyssos: The Sixth Circle (Savage)
 
-The following macros are from [Game8](https://game8.jp/ff14/479307), which uses
+The following macros are from [Game8.jp](https://game8.jp/ff14/479307), which uses
 Nukemaru's strat:
 
 {% include youtube.html id="pibChZ8AjZ8" %}

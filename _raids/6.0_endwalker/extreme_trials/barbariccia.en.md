@@ -9,7 +9,7 @@ permalink: /6.0_endwalker/extreme_trials/barbariccia/
 
 # Storm's Crown (Extreme)
 
-This is [Game8's macro](https://game8.jp/ff14/477950).
+This is [Game8.jp's macro](https://game8.jp/ff14/477950).
 
 It's basically [Hamkatsu's strat](https://youtu.be/FToWDK7uy4w), but resolves
 Playstation symbols in a "braindead" manner (T/H go to assigned cardinals, DPS
@@ -74,7 +74,7 @@ You might see the `ABCD` markers placed further out towards the edge of the aren
   </tr>
 </table>
 
-*(Credit: [Game8](https://game8.jp/ff14/477950))*
+*(Credit: [Game8.jp](https://game8.jp/ff14/477950))*
 
 <script data-goatcounter="https://tuufless.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>

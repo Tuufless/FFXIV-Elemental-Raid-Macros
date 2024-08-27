@@ -43,7 +43,7 @@ of Asphodelos is, er, ["my" strat](#firestorms-of-asphodelos).
 
 ## Japanese
 
-This is the [game8 macro](https://game8.jp/ff14/421350) often used by
+This is the [Game8.jp macro](https://game8.jp/ff14/421350) often used by
 **Japanese** parties.
 
 ```
