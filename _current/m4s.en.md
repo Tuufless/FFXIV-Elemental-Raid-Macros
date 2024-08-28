@@ -25,6 +25,8 @@ Nukemaru has also split his guide into two parts:
 {% include youtube.html id="vFh4YWxUVrE" %}
 *(English subtitled)*
 
+---
+
 ### English
 
 ```
@@ -36,6 +38,8 @@ Nukemaru has also split his guide into two parts:
 ```
 {% include macros/7.0_dawntrail/m4s.jp.txt %}
 ```
+
+---
 
 ## Markers
 
@@ -64,9 +68,13 @@ Nukemaru has also split his guide into two parts:
 
 </details>
 
+---
+
 ## Timeline
 ![](https://lh3.googleusercontent.com/pw/AP1GczMMyMo9Hu-zy6LIGLIcCDQ7SqWm9KujuglARA55OdUtLhSDa-r0lS2922ytKh-PUJjAwppNHl9shYUM--MwBrVM-22caQyar96-4-RqQvzLjW-YFYk9ll1-uz-k3vM-DtC61i3LmNsbuffy5rcdOkWJ=w1079-h911-s-no-gm?authuser=0)
 *([Full size image](https://lh3.googleusercontent.com/pw/AP1GczMMyMo9Hu-zy6LIGLIcCDQ7SqWm9KujuglARA55OdUtLhSDa-r0lS2922ytKh-PUJjAwppNHl9shYUM--MwBrVM-22caQyar96-4-RqQvzLjW-YFYk9ll1-uz-k3vM-DtC61i3LmNsbuffy5rcdOkWJ=w1079-h911-s-no-gm?authuser=0), Credit: [u/ExiaKuromonji](https://www.reddit.com/r/ffxiv/comments/1eigxar/m4s_timeline_spoiler_70/))*
+
+---
 
 ### Team DN's Witch Hunt
 
@@ -334,6 +342,7 @@ not get clipped by another player's beam.
   </tr>
 </table>
 
+---
 
 ## Frequently Asked Questions
 

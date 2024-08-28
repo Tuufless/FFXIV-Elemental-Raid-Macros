@@ -20,6 +20,8 @@ a base, changing:
 
 {% include youtube.html id="S1SBXo9tLfo" %}
 
+---
+
 ### English
 
 ```
@@ -31,6 +33,8 @@ a base, changing:
 ```
 {% include macros/7.0_dawntrail/m1s.jp.txt %}
 ```
+
+---
 
 ## Markers
 
@@ -58,9 +62,13 @@ a base, changing:
 
 </details>
 
+---
+
 ## Timeline
 ![](https://lh3.googleusercontent.com/pw/AP1GczP1CwLInp0122ZHqTP_P2JW05I9TA7BRRlCpPkw5yakP6dAlVQ_pWGjAUViTxxR1E4fMt1rCVbSiph4bWsor_G811520ttjiujXImRpsXhJYi9WxjikjnRppuWPrB_UwsTRHeynjGfarc4J9VUGf6RO=w1771-h813-s-no-gm?authuser=0)
 *([Full size image](https://lh3.googleusercontent.com/pw/AP1GczP1CwLInp0122ZHqTP_P2JW05I9TA7BRRlCpPkw5yakP6dAlVQ_pWGjAUViTxxR1E4fMt1rCVbSiph4bWsor_G811520ttjiujXImRpsXhJYi9WxjikjnRppuWPrB_UwsTRHeynjGfarc4J9VUGf6RO=w1771-h813-s-no-gm?authuser=0), Credit: [u/ExiaKuromonji](https://www.reddit.com/r/ffxiv/comments/1eg0ugu/m1s_timeline_spoiler_70/))*
+
+---
 
 ## Frequently Asked Questions
 

@@ -12,6 +12,8 @@ permalink: /7.0_dawntrail/savage_raids/m2s/
 {% include youtube.html id="p9tE-x0XEC4" %}
 *(English subtitled)*
 
+---
+
 ### English
 
 ```
@@ -23,6 +25,8 @@ permalink: /7.0_dawntrail/savage_raids/m2s/
 ```
 {% include macros/7.0_dawntrail/m2s.jp.txt %}
 ```
+
+---
 
 ## Markers
 
@@ -87,11 +91,13 @@ above:
 
 </details>
 
+---
 
 ## Timeline
 ![](https://lh3.googleusercontent.com/pw/AP1GczNSVhF923-PC6d6QG6M3Fu87Yi5KG2Az-cEBC-Tu0wYEM-kimRgpEAJ_I1J5P4c8c1t5bYN1tU-b7uam0FoPHQo9DWE7sDNnIJeLhiMOY2fe0Qr8PlGkgozMbxNNZh5hxaAPqD8NFdx-NnB-yvggSLE=w1745-h715-s-no-gm?authuser=0)
 *([Full size image](https://lh3.googleusercontent.com/pw/AP1GczNSVhF923-PC6d6QG6M3Fu87Yi5KG2Az-cEBC-Tu0wYEM-kimRgpEAJ_I1J5P4c8c1t5bYN1tU-b7uam0FoPHQo9DWE7sDNnIJeLhiMOY2fe0Qr8PlGkgozMbxNNZh5hxaAPqD8NFdx-NnB-yvggSLE=w1745-h715-s-no-gm?authuser=0), Credit: [u/ExiaKuromonji](https://www.reddit.com/r/ffxiv/comments/1eh1qr3/m2s_timeline_spoiler_70/))*
 
+---
 
 ## Frequently Asked Questions
 
