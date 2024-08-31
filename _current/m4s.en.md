@@ -324,15 +324,12 @@ not get clipped by another player's beam.
 <table>
   <tr>
     <td>
-      <p>Draw a line diagonally across the tile (which will cut through the
-      tile's rivets).</p>
-      <p>Stand on that line, as close to the edge as you can.</p>
-      <ul> 
-        <li>You can move a step or two towards the clone, but <em>this is a
-        tradeoff</em>. Moving closer lowers the chance you get hit by another
-        player's beam, but also makes your beam more sensitive to your
-        position, increasing the chance your beam hits someone else.</li>
-      </ul>
+      <p>As long as all players that are baiting lasers stand anywhere within
+      the appropriate green regions below, they will not hit another player.</p>
+      <p>Moving closer to the clone lowers the chance you get hit by another
+      player's beam, but <b>this is a tradeoff</b>. As you get closer to the
+      clone, the closer you also have to be to the death wall to not hit
+      someone else with your own beam.</p>
     </td>
   </tr>
   <tr>
@@ -387,6 +384,7 @@ fight?</summary>
     </td>
   </tr>
 </table>
+</details>
 
 <script data-goatcounter="https://tuufless.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
