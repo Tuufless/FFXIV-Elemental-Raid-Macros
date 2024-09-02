@@ -10,13 +10,11 @@ permalink: /
 This repository is a collection of macros (and my notes) often encountered in
 the Elemental Data Center (DC).
 
-Because Elemental is ultimately a Japanese DC, these macros are for
-**Japanese** PF strategies. Keep that in mind that when watching (English)
-videos/reading guides- the strategies used may have some differences from the
-ones here.
-
-Of course, there will probably be small differences between the macros here and
-the ones you may encounter in PF- use the ones here as a base to work with.
+Elemental is a Japanese FFXIV data center; however, it is home to servers with
+high populations from other countries such as Tonberry or Kujata. That being
+said, it is still ultimately a Japanese DC, so it generally follows
+**Japanese** strategies. Keep that in mind that when watching (English)
+videos/reading guides- there may be differences.
 
 ---
 
@@ -35,6 +33,14 @@ The current item level cap is **iLvl 735**.
 - **M3S** - [AAC Light-heavyweight M3 (Savage)]({{site.baseurl}}/7.0_dawntrail/savage_raids/m3s)
 - **M4S** - [AAC Light-heavyweight M4 (Savage)]({{site.baseurl}}/7.0_dawntrail/savage_raids/m4s)
 
+---
+
+## Contributing
+
+This page is built from [an underlying Github repository](https://github.com/Tuufless/FFXIV-Elemental-raid-macros).
+
+Please feel free to make a pull request if you see any errors, or if you'd like
+to contribute!
 
 <script data-goatcounter="https://tuufless.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
