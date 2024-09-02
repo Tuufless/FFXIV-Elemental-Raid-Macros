@@ -18,6 +18,8 @@ ones here.
 Of course, there will probably be small differences between the macros here and
 the ones you may encounter in PF- use the ones here as a base to work with.
 
+---
+
 ## Current content (Patch 7.0)
 
 The current item level cap is **iLvl 735**.
