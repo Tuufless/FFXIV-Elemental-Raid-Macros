@@ -9,7 +9,7 @@ permalink: /ultimates/zhtw/top/05_run_dynamis_omega/
 
 # 代碼：潛能量 (歐米茄)
 
-Run: Dynamis (Omega Version) can be split down into the following three blocks:
+代碼：潛能量(歐米茄)可以被分為下列三個部分：
 
 1. [躲避 AoE](#1-躲避-aoe)
 2. [第一次「你好，世界」與探測式波動砲](#2-第一次你好世界與探測式波動砲)
