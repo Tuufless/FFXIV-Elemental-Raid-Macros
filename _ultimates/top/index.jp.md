@@ -63,16 +63,13 @@ Elemental DC、野良絶処理法は以下の通りです。
 ---
 
 ## マクロ
-```
-{% include macros/ultimates/top.jp.txt %}
-```
+
+{% include_relative macros/top.jp.md %}
 
 <details markdown=block>
 <summary>English</summary>
 
-```
-{% include macros/ultimates/top.en.txt %}
-```
+{% include_relative macros/top.en.md %}
 
 </details>
 

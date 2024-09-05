@@ -1,3 +1,4 @@
+```
 ■ Basic Spreads
 　D3 MT D4　 　D3 D4 　　MT/D3　ST/D4
 　H1 ☆ H2 　 　 MT ST 　 　 H1/D1　D2/H2
@@ -13,3 +14,4 @@
 　AoEs → intercard　Towers → use pair positions
 ■ Rotten Heart (Clock positions)
 　Raid-wide → Heal → Shortest debuff pair mid
+```

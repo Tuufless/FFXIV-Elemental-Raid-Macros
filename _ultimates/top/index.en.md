@@ -63,16 +63,14 @@ Here are some clear PoVs that I've been collecting.
 ---
 
 ## English
-```
-{% include macros/ultimates/top.en.txt %}
-```
+
+{% include_relative macros/top.en.md %}
+
 
 <details markdown=block>
 <summary>日本語</summary>
 
-```
-{% include macros/ultimates/top.jp.txt %}
-```
+{% include_relative macros/top.jp.md %}
 
 </details>
 

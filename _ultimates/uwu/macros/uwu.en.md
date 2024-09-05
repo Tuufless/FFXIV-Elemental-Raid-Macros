@@ -1,3 +1,4 @@
+```
 ―《Garuda》――――――――――――――――――
 【Friction】D1 > D2 cleanse 2x Friction stacks
 【Wicked Wheel + Mistral Song】
@@ -56,3 +57,4 @@
 　　Mitigation：1st：MT + H2
 　　　　　　　　  2nd：D3 + stronger shields
 　　　　　　　　  3rd：ST + H2
+```

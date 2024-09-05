@@ -16,15 +16,11 @@ permalink: /7.0_dawntrail/savage_raids/m2s/
 
 ### English
 
-```
-{% include macros/7.0_dawntrail/m2s.en.txt %}
-```
+{% include_relative macros/m2s.en.md %}
 
 ### Japanese
 
-```
-{% include macros/7.0_dawntrail/m2s.jp.txt %}
-```
+{% include_relative macros/m2s.jp.md %}
 
 ---
 

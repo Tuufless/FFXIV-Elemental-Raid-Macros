@@ -24,15 +24,11 @@ a base, changing:
 
 ### English
 
-```
-{% include macros/7.0_dawntrail/m1s.en.txt %}
-```
+{% include_relative macros/m1s.en.md %}
 
 ### Japanese
 
-```
-{% include macros/7.0_dawntrail/m1s.jp.txt %}
-```
+{% include_relative macros/m1s.jp.md %}
 
 ---
 

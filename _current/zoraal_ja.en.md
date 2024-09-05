@@ -19,15 +19,11 @@ permalink: /7.0_dawntrail/extreme_trials/zoraal_ja/
 
 ## English
 
-```
-{% include macros/7.0_dawntrail/zoraal_ja.en.txt %}
-```
+{% include_relative macros/zoraal_ja.en.md %}
 
 ## Japanese
 
-```
-{% include macros/7.0_dawntrail/zoraal_ja.jp.txt %}
-```
+{% include_relative macros/zoraal_ja.jp.md %}
 
 ## Markers
 

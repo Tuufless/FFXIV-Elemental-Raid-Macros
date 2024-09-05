@@ -29,15 +29,11 @@ Nukemaru has also split his guide into two parts:
 
 ### English
 
-```
-{% include macros/7.0_dawntrail/m4s.en.txt %}
-```
+{% include_relative macros/m4s.en.md %}
 
 ### Japanese
 
-```
-{% include macros/7.0_dawntrail/m4s.jp.txt %}
-```
+{% include_relative macros/m4s.jp.md %}
 
 ---
 

@@ -45,16 +45,12 @@ few differences:
 
 ## English
 
-```
-{% include macros/ultimates/ucob.en.txt %}
-```
+{% include_relative macros/ucob.en.md %}
 
 <details markdown=block>
 <summary>日本語</summary>
 
-```
-{% include macros/ultimates/ucob.jp.txt %}
-```
+{% include_relative macros/ucob.jp.md %}
 
 </details>
 

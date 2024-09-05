@@ -1,3 +1,4 @@
+```
 ■ Charring Cataclysm：Fire
 　"A tempestuous wind..." (donut)
 　　MT/D1　ST/D2　　※ & Skyruin：Lightning
@@ -13,3 +14,4 @@
 ■ Skyruin：Ice (Fire+Ice)
 　　NW → MT　　NE → ST
 　　Stacks：West→H1 D1 D3　East→H2 D2 D4
+```

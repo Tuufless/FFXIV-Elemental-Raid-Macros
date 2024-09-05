@@ -1,3 +1,4 @@
+```
 ―《Living Liquid (Separations)》――――――――
 　■ Jagd Dolls：
 　　D2●D1　　Proteans：MT (North)
@@ -86,3 +87,4 @@
 　　※ All with shields + H2 30s and：
 　　　1st: MT Rep + MT 90s + H1 120s + D1 + D4
 　　　2nd: ST Rep + ST 90s + H2 120s + D2 + D3
+```

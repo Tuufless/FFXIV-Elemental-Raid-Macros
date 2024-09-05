@@ -1,3 +1,4 @@
+```
 【Quadruple Crossing (Fan AoEs at cardinals)】
 　　　  MTD3　　　Baits：T/H → DPS
 　 H1D1 ▲ H2D4　※ Boss-relative
@@ -13,3 +14,4 @@
 　NW：MT → MT (invuln) → MT (invuln) → D1 
 　NE： ST → ST (invuln) → ST (invuln) → D2
 　Near (S)：H1D1D2　　Far (S)：H2D3D4
+```

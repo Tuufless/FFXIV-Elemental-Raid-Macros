@@ -25,16 +25,12 @@ Elemental DCの野良絶バハでは、[Cleesさんの処理法](https://clees.m
 
 ## マクロ
 
-```
-{% include macros/ultimates/ucob.jp.txt %}
-```
+{% include_relative macros/ucob.jp.md %}
 
 <details markdown=block>
 <summary>English</summary>
 
-```
-{% include macros/ultimates/ucob.en.txt %}
-```
+{% include_relative macros/ucob.en.md %}
 
 </details>
 

@@ -62,16 +62,12 @@ there are two sets of markers and macros to use for this fight.
 
 ## English
 
-```
-{% include macros/ultimates/dsr_1.en.txt %}
-```
+{% include_relative macros/dsr_1.en.md %}
 
 <details markdown=block>
 <summary>日本語</summary>
 
-```
-{% include macros/ultimates/dsr_1.jp.txt %}
-```
+{% include_relative macros/dsr_1.jp.md %}
 
 </details>
 
@@ -108,16 +104,12 @@ This is the macro for the bulk of the fight.
 
 ## English
 
-```
-{% include macros/ultimates/dsr_2.en.txt %}
-```
+{% include_relative macros/dsr_2.en.md %}
 
 <details markdown=block>
 <summary>日本語</summary>
 
-```
-{% include macros/ultimates/dsr_2.jp.txt %}
-```
+{% include_relative macros/dsr_2.jp.md %}
 
 </details>
 

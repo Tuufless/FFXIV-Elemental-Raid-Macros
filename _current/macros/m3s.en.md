@@ -1,3 +1,4 @@
+```
 ■ Spread ーーーーーー■ Quadruple Lariatーーー
 　D3 MT D4 　 　 　 　MT/D3 　 　 H2/D4
 　H1 ★ H2 　 　 　 　 　 　 　 　★
@@ -23,3 +24,4 @@
 　D3　MT　D4
 　D1 　★ 　D2
 　H1　ST　 H2
+```

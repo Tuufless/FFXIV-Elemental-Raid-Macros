@@ -71,16 +71,13 @@ permalink: /ultimates/zhtw/top/
 ---
 
 ## 英文的宏
-```
-{% include macros/ultimates/top.en.txt %}
-```
+
+{% include_relative macros/top.en.md %}
 
 <details markdown=block>
 <summary>日本語</summary>
 
-```
-{% include macros/ultimates/top.jp.txt %}
-```
+{% include_relative macros/top.jp.md %}
 
 </details>
 

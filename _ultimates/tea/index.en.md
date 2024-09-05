@@ -10,12 +10,15 @@ permalink: /ultimates/tea/
 
 # The Epic of Alexander (Ultimate)
 
-Since Elemental PF hasn't agreed on a TEA strat since Patch 5.1, I'm going to take the liberty of piecing one together myself. This is what I would do:
+Since Elemental PF hasn't agreed on a TEA strat since Patch 5.1, I'm going to
+take the liberty of piecing one together myself. This is what I would do:
 
 - [**Living Liquid**](01_living_liquid): Modified Separations (the "JP strat")
 - [**Limit Cut**](02a_limit_cut): 1211 or 1256
-- [**Brute Justice + Cruise Chaser**](02b_bjcc): Tollgate (this is my strat that I use)
-- [**Alexander Prime**](03_alex_prime): 09STOP Wormhole (Korean sim strat- this is also called "Onyxia" by NA/EU)
+- [**Brute Justice + Cruise Chaser**](02b_bjcc): Tollgate (this is my strat
+  that I use)
+- [**Alexander Prime**](03_alex_prime): 09STOP Wormhole (Korean sim strat- this
+  is also called "Onyxia" by NA/EU)
 - [**Perfect Alexander**](04_perfect_alex)
 
 ### Things to check
@@ -27,7 +30,8 @@ Since Elemental PF hasn't agreed on a TEA strat since Patch 5.1, I'm going to ta
 
 - Any gear at or above **i595** will have their substats capped.
 - Relic weapons will have their substats capped at **184**.
-- The lowest potions you can use and still get maximum benefits are **HQ Grade 6 Tinctures**.
+- The lowest potions you can use and still get maximum benefits are **HQ Grade
+  6 Tinctures**.
 
 ![]({{site.baseurl}}/images/ultimates/tea/tea_cheatsheet.jpg)
 *(Full-size image: [English]({{site.baseurl}}/images/ultimates/tea/tea_cheatsheet.jpg), [日本語]({{site.baseurl}}/images/ultimates/tea/tea_cheatsheet_jp.jpg))*
@@ -51,16 +55,12 @@ Here are some clear PoVs that I've been collecting.
 
 ## English
 
-```
-{% include macros/ultimates/tea.en.txt %}
-```
+{% include_relative macros/tea.en.md %}
 
 <details markdown=block>
 <summary>日本語</summary>
 
-```
-{% include macros/ultimates/tea.jp.txt %}
-```
+{% include_relative macros/tea.jp.md %}
 
 </details>
 

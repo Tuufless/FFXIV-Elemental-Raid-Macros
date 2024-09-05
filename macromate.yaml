@@ -1,0 +1,129 @@
+name: "Elemental DC"
+macros:
+  # ===================
+  # = Current Content =
+  # ===================
+
+  - name: Worqor Lar Dor (Extreme) - English
+    group: "Current"
+    iconId: 81825
+    markdownUrl: _current/macros/valigarmanda.en.md
+
+  - name: Worqor Lar Dor (Extreme) - Japanese
+    group: "Current"
+    iconId: 81825
+    markdownUrl: _current/macros/valigarmanda.jp.md
+
+  - name: Everkeep (Extreme) - English
+    group: "Current"
+    iconId: 81825
+    markdownUrl: _current/macros/zoraal_ja.en.md
+
+  - name: Everkeep (Extreme) - Japanese
+    group: "Current"
+    iconId: 81825
+    markdownUrl: _current/macros/zoraal_ja.jp.md
+
+  - name: AAC Light-heavyweight M1 (Savage) - English
+    group: "Current"
+    iconId: 26457
+    markdownUrl: _current/macros/m1s.en.md
+
+  - name: AAC Light-heavyweight M1 (Savage) - Japanese
+    group: "Current"
+    iconId: 26457
+    markdownUrl: _current/macros/m1s.jp.md
+
+  - name: AAC Light-heavyweight M2 (Savage) - English
+    group: "Current"
+    iconId: 26458
+    markdownUrl: _current/macros/m2s.en.md
+
+  - name: AAC Light-heavyweight M2 (Savage) - Japanese
+    group: "Current"
+    iconId: 26458
+    markdownUrl: _current/macros/m2s.jp.md
+
+  - name: AAC Light-heavyweight M3 (Savage) - English
+    group: "Current"
+    iconId: 26459
+    markdownUrl: _current/macros/m3s.en.md
+
+  - name: AAC Light-heavyweight M3 (Savage) - Japanese
+    group: "Current"
+    iconId: 26459
+    markdownUrl: _current/macros/m3s.jp.md
+
+  - name: AAC Light-heavyweight M4 (Savage) - English
+    group: "Current"
+    iconId: 26460
+    markdownUrl: _current/macros/m4s.en.md
+
+  - name: AAC Light-heavyweight M4 (Savage) - Japanese
+    group: "Current"
+    iconId: 26460
+    markdownUrl: _current/macros/m4s.jp.md
+
+  # ===================
+  # = Ultimates       =
+  # ===================
+
+  - name: The Unending Coil of Bahamut - English
+    group: "Ultimates"
+    iconId: 26626
+    markdownUrl: _ultimates/ucob/macros/ucob.en.md
+
+  - name: The Unending Coil of Bahamut - Japanese
+    group: "Ultimates"
+    iconId: 26626
+    markdownUrl: _ultimates/ucob/macros/ucob.jp.md
+
+  - name: The Weapon's Refrain - English
+    group: "Ultimates"
+    iconId: 26532
+    markdownUrl: _ultimates/uwu/macros/uwu.en.md
+
+  - name: The Weapon's Refrain - Japanese
+    group: "Ultimates"
+    iconId: 26532
+    markdownUrl: _ultimates/uwu/macros/uwu.jp.md
+
+  - name: The Epic of Alexander - English
+    group: "Ultimates"
+    iconId: 26532
+    markdownUrl: _ultimates/tea/macros/tea.en.md
+
+  - name: The Epic of Alexander - Japanese
+    group: "Ultimates"
+    iconId: 26532
+    markdownUrl: _ultimates/tea/macros/tea.jp.md
+
+  - name: Dragonsong's Reprise (P1) - English
+    group: "Ultimates"
+    iconId: 26627
+    markdownUrl: _ultimates/dsr/macros/dsr_1.en.md
+
+  - name: Dragonsong's Reprise (P1) - Japanese
+    group: "Ultimates"
+    iconId: 26627
+    markdownUrl: _ultimates/dsr/macros/dsr_1.jp.md
+
+  - name: Dragonsong's Reprise (P2-7) - English
+    group: "Ultimates"
+    iconId: 26627
+    markdownUrl: _ultimates/dsr/macros/dsr_2.en.md
+
+  - name: Dragonsong's Reprise (P2-7) - Japanese
+    group: "Ultimates"
+    iconId: 26627
+    markdownUrl: _ultimates/dsr/macros/dsr_2.jp.md
+
+  - name: The Omega Protocol - English
+    group: "Ultimates"
+    iconId: 26532
+    markdownUrl: _ultimates/top/macros/top.en.md
+
+  - name: The Omega Protocol - Japanese
+    group: "Ultimates"
+    iconId: 26532
+    markdownUrl: _ultimates/top/macros/top.jp.md

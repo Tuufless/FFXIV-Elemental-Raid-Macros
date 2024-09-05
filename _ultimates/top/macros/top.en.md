@@ -1,3 +1,4 @@
+```
 ―《P1 Omega》―――――――――――――――――
 【Program Loop】
 　Towers→1234　Tethers→3412
@@ -112,3 +113,4 @@ Beetle Omega｜❶❷：2-marker pairs
 　　H1　　H2　※ Wave Cannon：Stack East
 　　D1 ST D2
 　■ Exaflares：Move to 1.5 markers away
+```

@@ -42,17 +42,12 @@ Elemental DCの野良絶アルテマでは[Cleesさんの処理法](https://www.
 
 ## マクロ
 
-```
-{% include macros/ultimates/uwu.jp.txt %}
-```
+{% include_relative macros/uwu.jp.md %}
 
 <details markdown=block>
 <summary>English</summary>
 
-
-```
-{% include macros/ultimates/uwu.en.txt %}
-```
+{% include_relative macros/uwu.en.md %}
 
 </details>
 

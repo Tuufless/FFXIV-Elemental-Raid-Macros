@@ -1,3 +1,4 @@
+```
 　Adelphel：ST　Grinnaux：MT
 【Holy Bladedance】Tether → MT + invuln
 【Hyperdimensional Slash】Markers S → N
@@ -12,3 +13,4 @@
 　　H/R AoE ★ T/M AoE　　　ring (True South)
 　　　　　   party
 　H1+H2 → D1+D2 → D3+D4 → MT+ST
+```

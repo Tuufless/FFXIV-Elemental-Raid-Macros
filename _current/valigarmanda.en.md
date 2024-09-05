@@ -14,15 +14,11 @@ but with Nukemaru's markers:
 
 ## English
 
-```
-{% include macros/7.0_dawntrail/valigarmanda.en.txt %}
-```
+{% include_relative macros/valigarmanda.en.md %}
 
 ## Japanese
 
-```
-{% include macros/7.0_dawntrail/valigarmanda.jp.txt %}
-```
+{% include_relative macros/valigarmanda.jp.md %}
 
 ## Markers
 

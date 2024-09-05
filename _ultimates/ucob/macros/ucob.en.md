@@ -1,3 +1,4 @@
+```
 ―《Twintania》――――――――――――――――
 【Neurolinks】　【1st Phase Fireballs】
 　　 　 　　　　　MT, ST, D3 stay out
@@ -67,3 +68,4 @@
 　　2. MT invuln
 　　3. ST invuln
 　　4. Share (full buff)
+```
