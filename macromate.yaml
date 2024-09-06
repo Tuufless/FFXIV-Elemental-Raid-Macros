@@ -358,6 +358,16 @@ macros:
     notes: |
       This was preferred by English parties.
 
+  - name: "Abyssos: The Eighth Circle (Savage) - Part 2"
+    group: "6.0 Endwalker/Savage Raids/English"
+    iconId: 26460
+    markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p8s_2.en.md
+
+  - name: "Abyssos: The Eighth Circle (Savage) - Part 2"
+    group: "6.0 Endwalker/Savage Raids/Japanese"
+    iconId: 26460
+    markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p8s_2.jp.md
+
   - name: "Anabaseios: The Ninth Circle (Savage) - MarioKart"
     group: "6.0 Endwalker/Savage Raids/English"
     iconId: 26457
