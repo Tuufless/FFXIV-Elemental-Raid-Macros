@@ -10,14 +10,12 @@ permalink: /4.0_stormblood/extreme_trials/tsukuyomi/
 # The Minstrel's Ballad: Tsukuyomi's Pain
 
 ## English
-```
-{% include macros/4.0_stormblood/tsukuyomi.en.txt %}
-```
+
+{% include_relative macros/tsukuyomi.en.md %}
 
 ## Japanese
-```
-{% include macros/4.0_stormblood/tsukuyomi.jp.txt %}
-```
+
+{% include_relative macros/tsukuyomi.jp.md %}
 
 ## Moon Phase
 

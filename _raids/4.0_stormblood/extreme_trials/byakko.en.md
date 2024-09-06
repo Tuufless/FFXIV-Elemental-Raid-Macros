@@ -12,14 +12,12 @@ permalink: /4.0_stormblood/extreme_trials/byakko/
 Note when doing this undersized, it is possible to skip the falling intermission phase by [holding DPS at 62% until Byakko jumps to the center for orbs](https://youtu.be/pTQekJSPPC0).
 
 ## English
-```
-{% include macros/4.0_stormblood/byakko.en.txt %}
-```
+
+{% include_relative macros/byakko.en.md %}
 
 ## Japanese
-```
-{% include macros/4.0_stormblood/byakko.jp.txt %}
-```
+
+{% include_relative macros/byakko.jp.md %}
 
 ## Markers
 

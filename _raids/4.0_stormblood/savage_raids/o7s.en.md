@@ -13,14 +13,12 @@ Because the Bibliotaph can spawn with the first *Run Program*, the MT will
 start the fight pulling the boss slightly **North-East** of the center.
 
 ## English
-```
-{% include macros/4.0_stormblood/o7s.en.txt %}
-```
+
+{% include_relative macros/o7s.en.md %}
 
 ## Japanese
-```
-{% include macros/4.0_stormblood/o7s.jp.txt %}
-```
+
+{% include_relative macros/o7s.jp.md %}
 
 ## Markers
 

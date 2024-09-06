@@ -10,9 +10,8 @@ permalink: /4.0_stormblood/extreme_trials/seiryu/
 # The Wreath of Snakes (Extreme)
 
 ## Japanese
-```
-{% include macros/4.0_stormblood/seiryu.jp.txt %}
-```
+
+{% include_relative macros/seiryu.jp.md %}
 
 <script data-goatcounter="https://tuufless.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>

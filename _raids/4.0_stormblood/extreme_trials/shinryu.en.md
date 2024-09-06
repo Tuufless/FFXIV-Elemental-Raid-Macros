@@ -10,14 +10,12 @@ permalink: /4.0_stormblood/extreme_trials/shinryu/
 # The Minstrel's Ballad: Shinryu's Domain
 
 ## English
-```
-{% include macros/4.0_stormblood/shinryu.en.txt %}
-```
+
+{% include_relative macros/shinryu.en.md %}
 
 ## Japanese
-```
-{% include macros/4.0_stormblood/shinryu.jp.txt %}
-```
+
+{% include_relative macros/shinryu.jp.md %}
 
 <script data-goatcounter="https://tuufless.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>

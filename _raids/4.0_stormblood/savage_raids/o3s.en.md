@@ -10,14 +10,12 @@ permalink: /4.0_stormblood/savage_raids/o3s/
 # Deltascape V3.0 (Savage)
 
 ## English
-```
-{% include macros/4.0_stormblood/o3s.en.txt %}
-```
+
+{% include_relative macros/o3s.en.md %}
 
 ## Japanese
-```
-{% include macros/4.0_stormblood/o3s.jp.txt %}
-```
+
+{% include_relative macros/o3s.jp.md %}
 
 ## Markers
 

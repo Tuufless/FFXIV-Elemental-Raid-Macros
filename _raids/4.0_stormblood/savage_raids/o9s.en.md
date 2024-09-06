@@ -10,14 +10,12 @@ permalink: /4.0_stormblood/savage_raids/o9s/
 # Alphascape V1.0 (Savage)
 
 ## English
-```
-{% include macros/4.0_stormblood/o9s.en.txt %}
-```
+
+{% include_relative macros/o9s.en.md %}
 
 ## Japanese
-```
-{% include macros/4.0_stormblood/o9s.jp.txt %}
-```
+
+{% include_relative macros/o9s.jp.md %}
 
 ## Markers
 

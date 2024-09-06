@@ -661,3 +661,186 @@ macros:
     group: "5.0 Shadowbringers/Savage Raids/Japanese"
     iconId: 26460
     markdownUrl: _raids/5.0_shadowbringers/savage_raids/macros/e12s_2.jp.md
+
+  # ==========================
+  # = Stormblood - EX trials =
+  # ==========================
+
+  - name: "The Minstrel's Ballad: Shinryu's Domain"
+    group: "4.0 Stormblood/Extreme Trials/English"
+    iconId: 26521
+    markdownUrl: _raids/4.0_stormblood/extreme_trials/macros/shinryu.en.md
+  
+  - name: "The Minstrel's Ballad: Shinryu's Domain"
+    group: "4.0 Stormblood/Extreme Trials/Japanese"
+    iconId: 26521
+    markdownUrl: _raids/4.0_stormblood/extreme_trials/macros/shinryu.jp.md
+
+  - name: "The Minstrel's Ballad: Tsukuyomi's Pain"
+    group: "4.0 Stormblood/Extreme Trials/English"
+    iconId: 26533
+    markdownUrl: _raids/4.0_stormblood/extreme_trials/macros/tsukuyomi.en.md
+
+  - name: "The Minstrel's Ballad: Tsukuyomi's Pain"
+    group: "4.0 Stormblood/Extreme Trials/Japanese"
+    iconId: 26533
+    markdownUrl: _raids/4.0_stormblood/extreme_trials/macros/tsukuyomi.jp.md
+
+  - name: "The Jade Stoa (Extreme)"
+    group: "4.0 Stormblood/Extreme Trials/English"
+    iconId: 26529
+    markdownUrl: _raids/4.0_stormblood/extreme_trials/macros/byakko.en.md
+
+  - name: "The Jade Stoa (Extreme)"
+    group: "4.0 Stormblood/Extreme Trials/Japanese"
+    iconId: 26529
+    markdownUrl: _raids/4.0_stormblood/extreme_trials/macros/byakko.jp.md
+
+  - name: "Hells' Kier (Extreme)"
+    group: "4.0 Stormblood/Extreme Trials/Japanese"
+    iconId: 26541
+    markdownUrl: _raids/4.0_stormblood/extreme_trials/macros/suzaku.jp.md
+
+  - name: "The Wreath of Snakes (Extreme)"
+    group: "4.0 Stormblood/Extreme Trials/Japanese"
+    iconId: 26545
+    markdownUrl: _raids/4.0_stormblood/extreme_trials/macros/seiryu.jp.md
+
+  # =============================
+  # = Stormblood - Savage Raids =
+  # =============================
+
+  - name: "Deltascape V1.0 (Savage)"
+    group: "4.0 Stormblood/Savage Raids/Japanese"
+    iconId: 26457
+    markdownUrl: _raids/4.0_stormblood/savage_raids/macros/o1s.jp.md
+
+  - name: "Deltascape V2.0 (Savage)"
+    group: "4.0 Stormblood/Savage Raids/Japanese"
+    iconId: 26458
+    markdownUrl: _raids/4.0_stormblood/savage_raids/macros/o2s.jp.md
+
+  - name: "Deltascape V3.0 (Savage)"
+    group: "4.0 Stormblood/Savage Raids/English"
+    iconId: 26459
+    markdownUrl: _raids/4.0_stormblood/savage_raids/macros/o3s.en.md
+
+  - name: "Deltascape V3.0 (Savage)"
+    group: "4.0 Stormblood/Savage Raids/Japanese"
+    iconId: 26459
+    markdownUrl: _raids/4.0_stormblood/savage_raids/macros/o3s.jp.md
+
+  - name: "Deltascape V4.0 (Savage) - Part 1"
+    group: "4.0 Stormblood/Savage Raids/English"
+    iconId: 26460
+    markdownUrl: _raids/4.0_stormblood/savage_raids/macros/o4s_1.en.md
+
+  - name: "Deltascape V4.0 (Savage) - Part 1"
+    group: "4.0 Stormblood/Savage Raids/Japanese"
+    iconId: 26460
+    markdownUrl: _raids/4.0_stormblood/savage_raids/macros/o4s_1.jp.md
+
+  - name: "Deltascape V4.0 (Savage) - Part 2"
+    group: "4.0 Stormblood/Savage Raids/English"
+    iconId: 26460
+    markdownUrl: _raids/4.0_stormblood/savage_raids/macros/o4s_2.en.md
+
+  - name: "Deltascape V4.0 (Savage) - Part 2"
+    group: "4.0 Stormblood/Savage Raids/Japanese"
+    iconId: 26460
+    markdownUrl: _raids/4.0_stormblood/savage_raids/macros/o4s_2.jp.md
+
+  - name: "Sigmascape V1.0 (Savage)"
+    group: "4.0 Stormblood/Savage Raids/Japanese"
+    iconId: 26457
+    markdownUrl: _raids/4.0_stormblood/savage_raids/macros/o5s.jp.md
+
+  - name: "Sigmascape V2.0 (Savage)"
+    group: "4.0 Stormblood/Savage Raids/English"
+    iconId: 26458
+    markdownUrl: _raids/4.0_stormblood/savage_raids/macros/o6s.en.md
+
+  - name: "Sigmascape V2.0 (Savage)"
+    group: "4.0 Stormblood/Savage Raids/Japanese"
+    iconId: 26458
+    markdownUrl: _raids/4.0_stormblood/savage_raids/macros/o6s.jp.md
+
+  - name: "Sigmascape V3.0 (Savage)"
+    group: "4.0 Stormblood/Savage Raids/English"
+    iconId: 26459
+    markdownUrl: _raids/4.0_stormblood/savage_raids/macros/o7s.en.md
+  
+  - name: "Sigmascape V3.0 (Savage)"
+    group: "4.0 Stormblood/Savage Raids/Japanese"
+    iconId: 26459
+    markdownUrl: _raids/4.0_stormblood/savage_raids/macros/o7s.jp.md
+
+  - name: "Sigmascape V4.0 (Savage) - Part 1"
+    group: "4.0 Stormblood/Savage Raids/English"
+    iconId: 26460
+    markdownUrl: _raids/4.0_stormblood/savage_raids/macros/o8s_1.en.md
+
+  - name: "Sigmascape V4.0 (Savage) - Part 1"
+    group: "4.0 Stormblood/Savage Raids/Japanese"
+    iconId: 26460
+    markdownUrl: _raids/4.0_stormblood/savage_raids/macros/o8s_1.jp.md
+
+  - name: "Sigmascape V4.0 (Savage) - Part 2"
+    group: "4.0 Stormblood/Savage Raids/English"
+    iconId: 26460
+    markdownUrl: _raids/4.0_stormblood/savage_raids/macros/o8s_2.en.md
+
+  - name: "Sigmascape V4.0 (Savage) - Part 2"
+    group: "4.0 Stormblood/Savage Raids/Japanese"
+    iconId: 26460
+    markdownUrl: _raids/4.0_stormblood/savage_raids/macros/o8s_2.jp.md
+
+  - name: "Alphascape V1.0 (Savage)"
+    group: "4.0 Stormblood/Savage Raids/English"
+    iconId: 26457
+    markdownUrl: _raids/4.0_stormblood/savage_raids/macros/o9s.en.md
+
+  - name: "Alphascape V1.0 (Savage)"
+    group: "4.0 Stormblood/Savage Raids/Japanese"
+    iconId: 26457
+    markdownUrl: _raids/4.0_stormblood/savage_raids/macros/o9s.jp.md
+
+  - name: "Alphascape V2.0 (Savage)"
+    group: "4.0 Stormblood/Savage Raids/English"
+    iconId: 26458
+    markdownUrl: _raids/4.0_stormblood/savage_raids/macros/o10s.en.md
+
+  - name: "Alphascape V2.0 (Savage)"
+    group: "4.0 Stormblood/Savage Raids/Japanese"
+    iconId: 26458
+    markdownUrl: _raids/4.0_stormblood/savage_raids/macros/o10s.jp.md
+
+  - name: "Alphascape V3.0 (Savage)"
+    group: "4.0 Stormblood/Savage Raids/English"
+    iconId: 26459
+    markdownUrl: _raids/4.0_stormblood/savage_raids/macros/o11s.en.md
+
+  - name: "Alphascape V3.0 (Savage)"
+    group: "4.0 Stormblood/Savage Raids/Japanese"
+    iconId: 26459
+    markdownUrl: _raids/4.0_stormblood/savage_raids/macros/o11s.jp.md
+
+  - name: "Alphascape V4.0 (Savage) - Part 1"
+    group: "4.0 Stormblood/Savage Raids/English"
+    iconId: 26460
+    markdownUrl: _raids/4.0_stormblood/savage_raids/macros/o12s_1.en.md
+  
+  - name: "Alphascape V4.0 (Savage) - Part 1"
+    group: "4.0 Stormblood/Savage Raids/Japanese"
+    iconId: 26460
+    markdownUrl: _raids/4.0_stormblood/savage_raids/macros/o12s_1.jp.md
+
+  - name: "Alphascape V4.0 (Savage) - Part 2"
+    group: "4.0 Stormblood/Savage Raids/English"
+    iconId: 26460
+    markdownUrl: _raids/4.0_stormblood/savage_raids/macros/o12s_2.en.md
+  
+  - name: "Alphascape V4.0 (Savage) - Part 2"
+    group: "4.0 Stormblood/Savage Raids/Japanese"
+    iconId: 26460
+    markdownUrl: _raids/4.0_stormblood/savage_raids/macros/o12s_2.jp.md

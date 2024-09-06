@@ -10,9 +10,8 @@ permalink: /4.0_stormblood/extreme_trials/suzaku/
 # Hells' Kier (Extreme)
 
 ## Japanese
-```
-{% include macros/4.0_stormblood/suzaku.jp.txt %}
-```
+
+{% include_relative macros/suzaku.jp.md %}
 
 <script data-goatcounter="https://tuufless.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>

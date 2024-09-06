@@ -10,14 +10,12 @@ permalink: /4.0_stormblood/savage_raids/o6s/
 # Sigmascape V2.0 (Savage)
 
 ## English
-```
-{% include macros/4.0_stormblood/o6s.en.txt %}
-```
+
+{% include_relative macros/o6s.en.md %}
 
 ## Japanese
-```
-{% include macros/4.0_stormblood/o6s.jp.txt %}
-```
+
+{% include_relative macros/o6s.jp.md %}
 
 ## Markers
 
