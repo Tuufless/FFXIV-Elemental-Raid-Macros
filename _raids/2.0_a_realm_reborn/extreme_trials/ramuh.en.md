@@ -10,9 +10,8 @@ permalink: /2.0_a_realm_reborn/extreme_trials/ramuh/
 # The Striking Tree (Extreme)
 
 ## Japanese
-```
-{% include macros/2.0_a_realm_reborn/ramuh.jp.txt %}
-```
+
+{% include_relative macros/ramuh.jp.md %}
 
 <script data-goatcounter="https://tuufless.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>

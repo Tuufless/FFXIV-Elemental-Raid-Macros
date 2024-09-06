@@ -46,6 +46,6 @@ The item level cap for Alexander: Midas is **iLvl 245**.
 The item level cap for Alexander: The Creator is **iLvl 275**.
 
 - **A9S** - [Alexander - The Eyes of the Creator (Savage)](savage_raids/a9s)
-- **A10S** - [Alexander - Breath of the Creator (Savage)](savage_raids/a10s)
+- **A10S** - [Alexander - The Breath of the Creator (Savage)](savage_raids/a10s)
 - **A11S** - [Alexander - The Heart of the Creator (Savage)](savage_raids/a11s)
 - **A12S** - [Alexander - The Soul of the Creator (Savage)](savage_raids/a12s)

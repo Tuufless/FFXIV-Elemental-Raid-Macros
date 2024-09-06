@@ -10,14 +10,12 @@ permalink: /3.0_heavensward/savage_raids/a3s/
 # Alexander - The Arm of the Father (Savage)
 
 ## English
-```
-{% include macros/3.0_heavensward/a3s.en.txt %}
-```
+
+{% include_relative macros/a3s.en.md %}
 
 ## Japanese
-```
-{% include macros/3.0_heavensward/a3s.jp.txt %}
-```
+
+{% include_relative macros/a3s.jp.md %}
 
 <script data-goatcounter="https://tuufless.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>

@@ -10,9 +10,8 @@ permalink: /3.0_heavensward/savage_raids/a9s/
 # Alexander - The Eyes of the Creator (Savage)
 
 ## Japanese
-```
-{% include macros/3.0_heavensward/a9s.jp.txt %}
-```
+
+{% include_relative macros/a9s.jp.md %}
 
 <script data-goatcounter="https://tuufless.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>

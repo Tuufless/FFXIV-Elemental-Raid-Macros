@@ -10,14 +10,12 @@ permalink: /3.0_heavensward/extreme_trials/nidhogg/
 # The Minstrel's Ballad: Nidhogg's Rage
 
 ## English
-```
-{% include macros/3.0_heavensward/nidhogg.en.txt %}
-```
+
+{% include_relative macros/nidhogg.en.md %}
 
 ## Japanese
-```
-{% include macros/3.0_heavensward/nidhogg.jp.txt %}
-```
+
+{% include_relative macros/nidhogg.jp.md %}
 
 ## Markers
 

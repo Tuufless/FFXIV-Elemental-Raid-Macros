@@ -19,14 +19,12 @@ Ultima's Bane (Unreal):
 - You **cannot** invuln *Aetheric Boom*.
 
 ## English
-```
-{% include macros/2.0_a_realm_reborn/ultima_weapon.en.txt %}
-```
+
+{% include_relative macros/ultima_weapon.en.md %}
 
 ## Japanese
-```
-{% include macros/2.0_a_realm_reborn/ultima_weapon.jp.txt %}
-```
+
+{% include_relative macros/ultima_weapon.jp.md %}
 
 <script data-goatcounter="https://tuufless.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>

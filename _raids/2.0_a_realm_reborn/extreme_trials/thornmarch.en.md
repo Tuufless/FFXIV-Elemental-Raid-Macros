@@ -10,9 +10,8 @@ permalink: /2.0_a_realm_reborn/extreme_trials/thornmarch/
 # Thornmarch (Extreme)
 
 ## Japanese
-```
-{% include macros/2.0_a_realm_reborn/thornmarch.jp.txt %}
-```
+
+{% include_relative macros/thornmarch.jp.md %}
 
 <script data-goatcounter="https://tuufless.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>

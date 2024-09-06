@@ -22,14 +22,12 @@ An up-to-date reference would be Nukemaru's guide:
 *(These two points are different from older macros.)*
 
 ## Japanese
-```
-{% include macros/3.0_heavensward/sophia.jp.txt %}
-```
+
+{% include_relative macros/sophia.jp.md %}
 
 ## English
-```
-{% include macros/3.0_heavensward/sophia.en.txt %}
-```
+
+{% include_relative macros/sophia.en.md %}
 
 ## Markers
 

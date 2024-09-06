@@ -14,14 +14,12 @@ An up-to-date reference would be Nukemaru's guide:
 {% include youtube.html id="a05iQfpiGoE" %}
 
 ## English
-```
-{% include macros/3.0_heavensward/zurvan.en.txt %}
-```
+
+{% include_relative macros/zurvan.en.md %}
 
 ## Japanese
-```
-{% include macros/3.0_heavensward/zurvan.jp.txt %}
-```
+
+{% include_relative macros/zurvan.jp.md %}
 
 ## Markers
 

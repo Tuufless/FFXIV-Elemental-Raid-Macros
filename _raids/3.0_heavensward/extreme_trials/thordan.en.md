@@ -17,14 +17,12 @@ A more up-to-date reference would be Nukemaru's guide, which
 ---
 
 ## English
-```
-{% include macros/3.0_heavensward/thordan.en.txt %}
-```
+
+{% include_relative macros/thordan.en.md %}
 
 ## Japanese
-```
-{% include macros/3.0_heavensward/thordan.jp.txt %}
-```
+
+{% include_relative macros/thordan.jp.md %}
 
 ---
 

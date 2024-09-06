@@ -14,14 +14,12 @@ An up-to-date reference would be Nukemaru's guide:
 {% include youtube.html id="bHCGhhyV8VQ" %}
 
 ## English
-```
-{% include macros/3.0_heavensward/sephirot.en.txt %}
-```
+
+{% include_relative macros/sephirot.en.md %}
 
 ## Japanese
-```
-{% include macros/3.0_heavensward/sephirot.jp.txt %}
-```
+
+{% include_relative macros/sephirot.jp.md %}
 
 ## Markers
 

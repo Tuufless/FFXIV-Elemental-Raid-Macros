@@ -10,14 +10,12 @@ permalink: /3.0_heavensward/savage_raids/a8s/
 # Alexander - The Burden of the Son (Savage)
 
 ## English
-```
-{% include macros/3.0_heavensward/a8s.en.txt %}
-```
+
+{% include_relative macros/a8s.en.md %}
 
 ## Japanese
-```
-{% include macros/3.0_heavensward/a8s.jp.txt %}
-```
+
+{% include_relative macros/a8s.jp.md %}
 
 ## Blue Mage Notes
 

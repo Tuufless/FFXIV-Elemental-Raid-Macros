@@ -11,9 +11,7 @@ permalink: /2.0_a_realm_reborn/extreme_trials/garuda/
 
 ## Japanese
 
-```
-{% include macros/2.0_a_realm_reborn/garuda.jp.txt %}
-```
+{% include_relative macros/garuda.jp.md %}
 
 <script data-goatcounter="https://tuufless.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>

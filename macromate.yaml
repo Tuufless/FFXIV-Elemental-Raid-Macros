@@ -844,3 +844,190 @@ macros:
     group: "4.0 Stormblood/Savage Raids/Japanese"
     iconId: 26460
     markdownUrl: _raids/4.0_stormblood/savage_raids/macros/o12s_2.jp.md
+
+  # ===========================
+  # = Heavensward - EX trials =
+  # ===========================
+
+  - name: "Thok ast Thok (Extreme)"
+    group: "3.0 Heavensward/Extreme Trials/Japanese"
+    iconId: 26521
+    markdownUrl: _raids/3.0_heavensward/extreme_trials/macros/ravana.jp.md
+  
+  - name: "The Minstrel's Ballad: Thordan's Reign"
+    group: "3.0 Heavensward/Extreme Trials/English"
+    iconId: 26521
+    markdownUrl: _raids/3.0_heavensward/extreme_trials/macros/thordan.en.md
+
+  - name: "The Minstrel's Ballad: Thordan's Reign"
+    group: "3.0 Heavensward/Extreme Trials/Japanese"
+    iconId: 26521
+    markdownUrl: _raids/3.0_heavensward/extreme_trials/macros/thordan.jp.md
+
+  - name: "Containment Bay S1T7 (Extreme)"
+    group: "3.0 Heavensward/Extreme Trials/English"
+    iconId: 26521
+    markdownUrl: _raids/3.0_heavensward/extreme_trials/macros/sephirot.en.md
+
+  - name: "Containment Bay S1T7 (Extreme)"
+    group: "3.0 Heavensward/Extreme Trials/Japanese"
+    iconId: 26521
+    markdownUrl: _raids/3.0_heavensward/extreme_trials/macros/sephirot.jp.md
+
+  - name: "The Minstrel's Ballad: Nidhogg's Rage"
+    group: "3.0 Heavensward/Extreme Trials/English"
+    iconId: 26521
+    markdownUrl: _raids/3.0_heavensward/extreme_trials/macros/nidhogg.en.md
+
+  - name: "The Minstrel's Ballad: Nidhogg's Rage"
+    group: "3.0 Heavensward/Extreme Trials/Japanese"
+    iconId: 26521
+    markdownUrl: _raids/3.0_heavensward/extreme_trials/macros/nidhogg.jp.md
+
+  - name: "Containment Bay P1T6 (Extreme)"
+    group: "3.0 Heavensward/Extreme Trials/English"
+    iconId: 26521
+    markdownUrl: _raids/3.0_heavensward/extreme_trials/macros/sophia.en.md
+
+  - name: "Containment Bay P1T6 (Extreme)"
+    group: "3.0 Heavensward/Extreme Trials/Japanese"
+    iconId: 26521
+    markdownUrl: _raids/3.0_heavensward/extreme_trials/macros/sophia.jp.md
+
+  - name: "Containment Bay Z1T9 (Extreme)"
+    group: "3.0 Heavensward/Extreme Trials/English"
+    iconId: 26521
+    markdownUrl: _raids/3.0_heavensward/extreme_trials/macros/zurvan.en.md
+
+  - name: "Containment Bay Z1T9 (Extreme)"
+    group: "3.0 Heavensward/Extreme Trials/Japanese"
+    iconId: 26521
+    markdownUrl: _raids/3.0_heavensward/extreme_trials/macros/zurvan.jp.md
+
+  # ==============================
+  # = Heavensward - Savage Raids =
+  # ==============================
+
+  - name: "Alexander - The Arm of the Father (Savage)"
+    group: "3.0 Heavensward/Savage Raids/English"
+    iconId: 26459
+    markdownUrl: _raids/3.0_heavensward/savage_raids/macros/a3s.en.md
+
+  - name: "Alexander - The Arm of the Father (Savage)"
+    group: "3.0 Heavensward/Savage Raids/Japanese"
+    iconId: 26459
+    markdownUrl: _raids/3.0_heavensward/savage_raids/macros/a3s.jp.md
+
+  - name: "Alexander - The Burden of the Father (Savage)"
+    group: "3.0 Heavensward/Savage Raids/Japanese"
+    iconId: 26460
+    markdownUrl: _raids/3.0_heavensward/savage_raids/macros/a4s.jp.md
+
+  - name: "Alexander - The Fist of the Son (Savage)"
+    group: "3.0 Heavensward/Savage Raids/Japanese"
+    iconId: 26457
+    markdownUrl: _raids/3.0_heavensward/savage_raids/macros/a5s.jp.md
+
+  - name: "Alexander - The Cuff of the Son (Savage)"
+    group: "3.0 Heavensward/Savage Raids/Japanese"
+    iconId: 26458
+    markdownUrl: _raids/3.0_heavensward/savage_raids/macros/a6s.jp.md
+
+  - name: "Alexander - The Arm of the Son (Savage)"
+    group: "3.0 Heavensward/Savage Raids/Japanese"
+    iconId: 26459
+    markdownUrl: _raids/3.0_heavensward/savage_raids/macros/a7s.jp.md
+
+  - name: "Alexander - The Burden of the Son (Savage)"
+    group: "3.0 Heavensward/Savage Raids/English"
+    iconId: 26460
+    markdownUrl: _raids/3.0_heavensward/savage_raids/macros/a8s.en.md
+
+  - name: "Alexander - The Burden of the Son (Savage)"
+    group: "3.0 Heavensward/Savage Raids/Japanese"
+    iconId: 26460
+    markdownUrl: _raids/3.0_heavensward/savage_raids/macros/a8s.jp.md
+
+  - name: "Alexander - The Eyes of the Creator (Savage)"
+    group: "3.0 Heavensward/Savage Raids/Japanese"
+    iconId: 26457
+    markdownUrl: _raids/3.0_heavensward/savage_raids/macros/a9s.jp.md
+
+  - name: "Alexander - The Breath of the Creator (Savage)"
+    group: "3.0 Heavensward/Savage Raids/Japanese"
+    iconId: 26458
+    markdownUrl: _raids/3.0_heavensward/savage_raids/macros/a10s.jp.md
+
+  - name: "Alexander - The Heart of the Creator (Savage)"
+    group: "3.0 Heavensward/Savage Raids/English"
+    iconId: 26459
+    markdownUrl: _raids/3.0_heavensward/savage_raids/macros/a11s.en.md
+
+  - name: "Alexander - The Heart of the Creator (Savage)"
+    group: "3.0 Heavensward/Savage Raids/Japanese"
+    iconId: 26459
+    markdownUrl: _raids/3.0_heavensward/savage_raids/macros/a11s.jp.md
+  
+  - name: "Alexander - The Soul of the Creator (Savage)"
+    group: "3.0 Heavensward/Savage Raids/English"
+    iconId: 26460
+    markdownUrl: _raids/3.0_heavensward/savage_raids/macros/a12s.en.md
+
+  - name: "Alexander - The Soul of the Creator (Savage)"
+    group: "3.0 Heavensward/Savage Raids/Japanese"
+    iconId: 26460
+    markdownUrl: _raids/3.0_heavensward/savage_raids/macros/a12s.jp.md
+
+  # ==============================
+  # = A Realm Reborn - EX trials =
+  # ==============================
+
+  - name: "The Howling Eye (Extreme)"
+    group: "2.0 A Realm Reborn/Extreme Trials/Japanese"
+    iconId: 26555
+    markdownUrl: _raids/2.0_a_realm_reborn/extreme_trials/macros/garuda.jp.md
+
+  - name: "The Navel (Extreme)"
+    group: "2.0 A Realm Reborn/Extreme Trials/English"
+    iconId: 26587
+    markdownUrl: _raids/2.0_a_realm_reborn/extreme_trials/macros/titan.en.md
+
+  - name: "The Navel (Extreme)"
+    group: "2.0 A Realm Reborn/Extreme Trials/Japanese"
+    iconId: 26587
+    markdownUrl: _raids/2.0_a_realm_reborn/extreme_trials/macros/titan.jp.md
+
+  - name: "The Bowl of Embers (Extreme)"
+    group: "2.0 A Realm Reborn/Extreme Trials/Japanese"
+    iconId: 26601
+    markdownUrl: _raids/2.0_a_realm_reborn/extreme_trials/macros/ifrit.jp.md
+
+  - name: "Thornmarch (Extreme)"
+    group: "2.0 A Realm Reborn/Extreme Trials/Japanese"
+    iconId: 26638
+    markdownUrl: _raids/2.0_a_realm_reborn/extreme_trials/macros/thornmarch.jp.md
+
+  - name: "The Minstrel's Ballad: Ultima's Bane"
+    group: "2.0 A Realm Reborn/Extreme Trials/English"
+    iconId: 26606
+    markdownUrl: _raids/2.0_a_realm_reborn/extreme_trials/macros/ultima_weapon.en.md
+
+  - name: "The Minstrel's Ballad: Ultima's Bane"
+    group: "2.0 A Realm Reborn/Extreme Trials/Japanese"
+    iconId: 26606
+    markdownUrl: _raids/2.0_a_realm_reborn/extreme_trials/macros/ultima_weapon.jp.md
+
+  - name: "The Striking Tree (Extreme)"
+    group: "2.0 A Realm Reborn/Extreme Trials/Japanese"
+    iconId: 26611
+    markdownUrl: _raids/2.0_a_realm_reborn/extreme_trials/macros/ramuh.jp.md
+
+  - name: "Akh Afah Amphitheatre (Extreme)"
+    group: "2.0 A Realm Reborn/Extreme Trials/English"
+    iconId: 26614
+    markdownUrl: _raids/2.0_a_realm_reborn/extreme_trials/macros/shiva.en.md
+
+  - name: "Akh Afah Amphitheatre (Extreme)"
+    group: "2.0 A Realm Reborn/Extreme Trials/Japanese"
+    iconId: 26614
+    markdownUrl: _raids/2.0_a_realm_reborn/extreme_trials/macros/shiva.jp.md

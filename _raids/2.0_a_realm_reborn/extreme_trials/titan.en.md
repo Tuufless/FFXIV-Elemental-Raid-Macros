@@ -10,14 +10,12 @@ permalink: /2.0_a_realm_reborn/extreme_trials/titan/
 # The Navel (Extreme)
 
 ## English
-```
-{% include macros/2.0_a_realm_reborn/titan.en.txt %}
-```
+
+{% include_relative macros/titan.en.md %}
 
 ## Japanese
-```
-{% include macros/2.0_a_realm_reborn/titan.jp.txt %}
-```
+
+{% include_relative macros/titan.jp.md %}
 
 <script data-goatcounter="https://tuufless.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
