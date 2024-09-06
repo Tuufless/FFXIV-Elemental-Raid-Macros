@@ -16,16 +16,12 @@ uptime) for *Hallowed Wings*.
 ## English
 
 *(DD out, Ayatori Light Rampant, "Fixed at red Hallowed Wings)*
-```
-{% include macros/5.0_shadowbringers/e8s.en.txt %}
-```
+{% include_relative macros/e8s.en.md %}
 
 ## Japanese
 
 *(DD out, Ayatori Light Rampant, "Fixed at red Hallowed Wings)*
-```
-{% include macros/5.0_shadowbringers/e8s.jp.txt %}
-```
+{% include_relative macros/e8s.jp.md %}
 
 ## Markers
 

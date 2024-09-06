@@ -10,14 +10,12 @@ permalink: /5.0_shadowbringers/savage_raids/e3s/
 # Eden's Gate: Inundation (Savage)
 
 ## English
-```
-{% include macros/5.0_shadowbringers/e3s.en.txt %}
-```
+
+{% include_relative macros/e3s.en.md %}
 
 ## Japanese
-```
-{% include macros/5.0_shadowbringers/e3s.jp.txt %}
-```
+
+{% include_relative macros/e3s.jp.md %}
 
 ## Markers
 

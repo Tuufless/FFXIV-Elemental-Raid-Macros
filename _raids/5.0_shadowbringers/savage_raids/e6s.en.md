@@ -13,14 +13,12 @@ permalink: /5.0_shadowbringers/savage_raids/e6s/
 - [Amaya's strat (あまや式)](https://jp.finalfantasyxiv.com/lodestone/character/9416493/blog/4354941/)
 
 ## English
-```
-{% include macros/5.0_shadowbringers/e6s.en.txt %}
-```
+
+{% include_relative macros/e6s.en.md %}
 
 ## Japanese
-```
-{% include macros/5.0_shadowbringers/e6s.jp.txt %}
-```
+
+{% include_relative macros/e6s.jp.md %}
 
 ## Variants
 

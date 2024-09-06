@@ -10,14 +10,12 @@ permalink: /5.0_shadowbringers/extreme_trials/titania/
 # The Dancing Plague (Extreme)
 
 ## English
-```
-{% include macros/5.0_shadowbringers/titania.en.txt %}
-```
+
+{% include_relative macros/titania.en.md %}
 
 ## Japanese
-```
-{% include macros/5.0_shadowbringers/titania.jp.txt %}
-```
+
+{% include_relative macros/titania.jp.md %}
 
 ## Markers
 

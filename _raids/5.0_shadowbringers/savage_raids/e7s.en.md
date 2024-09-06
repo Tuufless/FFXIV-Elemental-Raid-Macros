@@ -10,14 +10,12 @@ permalink: /5.0_shadowbringers/savage_raids/e7s/
 # Eden's Verse: Iconoclasm (Savage)
 
 ## English
-```
-{% include macros/5.0_shadowbringers/e7s.en.txt %}
-```
+
+{% include_relative macros/e7s.en.md %}
 
 ## Japanese
-```
-{% include macros/5.0_shadowbringers/e7s.jp.txt %}
-```
+
+{% include_relative macros/e7s.jp.md %}
 
 ## Markers
 

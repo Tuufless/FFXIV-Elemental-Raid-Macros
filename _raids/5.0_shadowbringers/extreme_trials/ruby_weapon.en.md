@@ -10,14 +10,12 @@ permalink: /5.0_shadowbringers/extreme_trials/ruby_weapon/
 # The Cinder Drift (Extreme)
 
 ## English
-```
-{% include macros/5.0_shadowbringers/ruby_weapon.en.txt %}
-```
+
+{% include_relative macros/ruby_weapon.en.md %}
 
 ## Japanese
-```
-{% include macros/5.0_shadowbringers/ruby_weapon.jp.txt %}
-```
+
+{% include_relative macros/ruby_weapon.jp.md %}
 
 ## Markers
 

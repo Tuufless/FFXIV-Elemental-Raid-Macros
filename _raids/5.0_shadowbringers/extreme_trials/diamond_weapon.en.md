@@ -10,14 +10,12 @@ permalink: /5.0_shadowbringers/extreme_trials/diamond_weapon/
 # The Cloud Deck (Extreme)
 
 ## English
-```
-{% include macros/5.0_shadowbringers/diamond_weapon.en.txt %}
-```
+
+{% include_relative macros/diamond_weapon.en.md %}
 
 ## Japanese
-```
-{% include macros/5.0_shadowbringers/diamond_weapon.jp.txt %}
-```
+
+{% include_relative macros/diamond_weapon.jp.md %}
 
 ## Markers
 

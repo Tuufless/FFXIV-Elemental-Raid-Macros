@@ -23,16 +23,12 @@ the boss throughout the *Empty Plane* phase.
 ## English
 
 *(Akito's strat, Yamipika Empty Plane)*
-```
-{% include macros/5.0_shadowbringers/e9s.en.txt %}
-```
+{% include_relative macros/e9s.en.md %}
 
 ## Japanese
 
 *(Akito's strat, Yamipika Empty Plane)*
-```
-{% include macros/5.0_shadowbringers/e9s.jp.txt %}
-```
+{% include_relative macros/e9s.jp.md %}
 
 ## Markers
 

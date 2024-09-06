@@ -13,14 +13,12 @@ The PF standard for handling the eight Aetheroplasm Production orbs in the
 first phase is 2:2:2:2.
 
 ## English
-```
-{% include macros/5.0_shadowbringers/emerald_weapon.en.txt %}
-```
+
+{% include_relative macros/emerald_weapon.en.md %}
 
 ## Japanese
-```
-{% include macros/5.0_shadowbringers/emerald_weapon.jp.txt %}
-```
+
+{% include_relative macros/emerald_weapon.jp.md %}
 
 ## Markers
 

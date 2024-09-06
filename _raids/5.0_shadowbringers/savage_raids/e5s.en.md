@@ -13,14 +13,12 @@ permalink: /5.0_shadowbringers/savage_raids/e5s/
 - [Akito's strat (アキト式)](https://youtu.be/0LTiI3Ft-xw)
 
 ## English
-```
-{% include macros/5.0_shadowbringers/e5s.en.txt %}
-```
+
+{% include_relative macros/e5s.en.md %}
 
 ## Japanese
-```
-{% include macros/5.0_shadowbringers/e5s.jp.txt %}
-```
+
+{% include_relative macros/e5s.jp.md %}
 
 ## Variants
 

@@ -443,3 +443,221 @@ macros:
     markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p12s_2_papan.jp.md
     notes: |
       This was preferred by English parties.
+
+  # ==============================
+  # = Shadowbringers - EX trials =
+  # ==============================
+
+  - name: "The Dancing Plague (Extreme)"
+    group: "5.0 Shadowbringers/Extreme Trials/English"
+    iconId: 26555
+    markdownUrl: _raids/5.0_shadowbringers/extreme_trials/macros/titania.en.md
+  
+  - name: "The Dancing Plague (Extreme)"
+    group: "5.0 Shadowbringers/Extreme Trials/Japanese"
+    iconId: 26555
+    markdownUrl: _raids/5.0_shadowbringers/extreme_trials/macros/titania.jp.md
+
+  - name: "The Minstrel's Ballad: Hades's Elegy"
+    group: "5.0 Shadowbringers/Extreme Trials/English"
+    iconId: 26587
+    markdownUrl: _raids/5.0_shadowbringers/extreme_trials/macros/hades.en.md
+  
+  - name: "The Minstrel's Ballad: Hades's Elegy"
+    group: "5.0 Shadowbringers/Extreme Trials/Japanese"
+    iconId: 26587
+    markdownUrl: _raids/5.0_shadowbringers/extreme_trials/macros/hades.jp.md
+
+  - name: "Cinder Drift (Extreme)"
+    group: "5.0 Shadowbringers/Extreme Trials/English"
+    iconId: 26601
+    markdownUrl: _raids/5.0_shadowbringers/extreme_trials/macros/ruby_weapon.en.md
+  
+  - name: "Cinder Drift (Extreme)"
+    group: "5.0 Shadowbringers/Extreme Trials/Japanese"
+    iconId: 26601
+    markdownUrl: _raids/5.0_shadowbringers/extreme_trials/macros/ruby_weapon.jp.md
+  
+  - name: "Memoria Misera (Extreme)"
+    group: "5.0 Shadowbringers/Extreme Trials/English"
+    iconId: 26638
+    markdownUrl: _raids/5.0_shadowbringers/extreme_trials/macros/memoria_misera.en.md
+  
+  - name: "Memoria Misera (Extreme)"
+    group: "5.0 Shadowbringers/Extreme Trials/Japanese"
+    iconId: 26638
+    markdownUrl: _raids/5.0_shadowbringers/extreme_trials/macros/memoria_misera.jp.md
+
+  - name: "The Seat of Sacrifice (Extreme)"
+    group: "5.0 Shadowbringers/Extreme Trials/English"
+    iconId: 26606
+    markdownUrl: _raids/5.0_shadowbringers/extreme_trials/macros/seat_of_sacrifice.en.md
+  
+  - name: "The Seat of Sacrifice (Extreme)"
+    group: "5.0 Shadowbringers/Extreme Trials/Japanese"
+    iconId: 26606
+    markdownUrl: _raids/5.0_shadowbringers/extreme_trials/macros/seat_of_sacrifice.jp.md
+
+  - name: "Castrum Marinum (Extreme)"
+    group: "5.0 Shadowbringers/Extreme Trials/English"
+    iconId: 26611
+    markdownUrl: _raids/5.0_shadowbringers/extreme_trials/macros/emerald_weapon.en.md
+  
+  - name: "Castrum Marinum (Extreme)"
+    group: "5.0 Shadowbringers/Extreme Trials/Japanese"
+    iconId: 26611
+    markdownUrl: _raids/5.0_shadowbringers/extreme_trials/macros/emerald_weapon.jp.md
+
+  - name: "The Cloud Deck (Extreme)"
+    group: "5.0 Shadowbringers/Extreme Trials/English"
+    iconId: 26614
+    markdownUrl: _raids/5.0_shadowbringers/extreme_trials/macros/diamond_weapon.en.md
+  
+  - name: "The Cloud Deck (Extreme)"
+    group: "5.0 Shadowbringers/Extreme Trials/Japanese"
+    iconId: 26614
+    markdownUrl: _raids/5.0_shadowbringers/extreme_trials/macros/diamond_weapon.jp.md
+
+  # =================================
+  # = Shadowbringers - Savage Raids =
+  # =================================
+
+  - name: "Eden's Gate: Resurrection (Savage)"
+    group: "5.0 Shadowbringers/Savage Raids/English"
+    iconId: 26457
+    markdownUrl: _raids/5.0_shadowbringers/savage_raids/macros/e1s.en.md
+
+  - name: "Eden's Gate: Resurrection (Savage)"
+    group: "5.0 Shadowbringers/Savage Raids/Japanese"
+    iconId: 26457
+    markdownUrl: _raids/5.0_shadowbringers/savage_raids/macros/e1s.jp.md
+
+  - name: "Eden's Gate: Descent (Savage)"
+    group: "5.0 Shadowbringers/Savage Raids/English"
+    iconId: 26458
+    markdownUrl: _raids/5.0_shadowbringers/savage_raids/macros/e2s.en.md
+
+  - name: "Eden's Gate: Descent (Savage)"
+    group: "5.0 Shadowbringers/Savage Raids/Japanese"
+    iconId: 26458
+    markdownUrl: _raids/5.0_shadowbringers/savage_raids/macros/e2s.jp.md
+
+  - name: "Eden's Gate: Inundation (Savage)"
+    group: "5.0 Shadowbringers/Savage Raids/English"
+    iconId: 26459
+    markdownUrl: _raids/5.0_shadowbringers/savage_raids/macros/e3s.en.md
+
+  - name: "Eden's Gate: Inundation (Savage)"
+    group: "5.0 Shadowbringers/Savage Raids/Japanese"
+    iconId: 26459
+    markdownUrl: _raids/5.0_shadowbringers/savage_raids/macros/e3s.jp.md
+
+  - name: "Eden's Gate: Sepulture (Savage) - Amaya"
+    group: "5.0 Shadowbringers/Savage Raids/English"
+    iconId: 26460
+    markdownUrl: _raids/5.0_shadowbringers/savage_raids/macros/e4s_amaya.en.md
+
+  - name: "Eden's Gate: Sepulture (Savage) - Amaya"
+    group: "5.0 Shadowbringers/Savage Raids/Japanese"
+    iconId: 26460
+    markdownUrl: _raids/5.0_shadowbringers/savage_raids/macros/e4s_amaya.jp.md
+
+  - name: "Eden's Gate: Sepulture (Savage) - Idyllshire"
+    group: "5.0 Shadowbringers/Savage Raids/English"
+    iconId: 26460
+    markdownUrl: _raids/5.0_shadowbringers/savage_raids/macros/e4s_idyll.en.md
+
+  - name: "Eden's Gate: Sepulture (Savage) - Idyllshire"
+    group: "5.0 Shadowbringers/Savage Raids/Japanese"
+    iconId: 26460
+    markdownUrl: _raids/5.0_shadowbringers/savage_raids/macros/e4s_idyll.jp.md
+
+  - name: "Eden's Verse: Fulmination (Savage)"
+    group: "5.0 Shadowbringers/Savage Raids/English"
+    iconId: 26457
+    markdownUrl: _raids/5.0_shadowbringers/savage_raids/macros/e5s.en.md
+
+  - name: "Eden's Verse: Fulmination (Savage)"
+    group: "5.0 Shadowbringers/Savage Raids/Japanese"
+    iconId: 26457
+    markdownUrl: _raids/5.0_shadowbringers/savage_raids/macros/e5s.jp.md
+
+  - name: "Eden's Verse: Furor (Savage)"
+    group: "5.0 Shadowbringers/Savage Raids/English"
+    iconId: 26458
+    markdownUrl: _raids/5.0_shadowbringers/savage_raids/macros/e6s.en.md
+
+  - name: "Eden's Verse: Furor (Savage)"
+    group: "5.0 Shadowbringers/Savage Raids/Japanese"
+    iconId: 26458
+    markdownUrl: _raids/5.0_shadowbringers/savage_raids/macros/e6s.jp.md
+
+  - name: "Eden's Verse: Iconoclasm (Savage)"
+    group: "5.0 Shadowbringers/Savage Raids/English"
+    iconId: 26459
+    markdownUrl: _raids/5.0_shadowbringers/savage_raids/macros/e7s.en.md
+
+  - name: "Eden's Verse: Iconoclasm (Savage)"
+    group: "5.0 Shadowbringers/Savage Raids/Japanese"
+    iconId: 26459
+    markdownUrl: _raids/5.0_shadowbringers/savage_raids/macros/e7s.jp.md
+
+  - name: "Eden's Verse: Refulgence (Savage)"
+    group: "5.0 Shadowbringers/Savage Raids/English"
+    iconId: 26460
+    markdownUrl: _raids/5.0_shadowbringers/savage_raids/macros/e8s.en.md
+
+  - name: "Eden's Verse: Refulgence (Savage)"
+    group: "5.0 Shadowbringers/Savage Raids/Japanese"
+    iconId: 26460
+    markdownUrl: _raids/5.0_shadowbringers/savage_raids/macros/e8s.jp.md
+
+  - name: "Eden's Promise: Umbra (Savage)"
+    group: "5.0 Shadowbringers/Savage Raids/English"
+    iconId: 26457
+    markdownUrl: _raids/5.0_shadowbringers/savage_raids/macros/e9s.en.md
+
+  - name: "Eden's Promise: Umbra (Savage)"
+    group: "5.0 Shadowbringers/Savage Raids/Japanese"
+    iconId: 26457
+    markdownUrl: _raids/5.0_shadowbringers/savage_raids/macros/e9s.jp.md
+
+  - name: "Eden's Promise: Litany (Savage)"
+    group: "5.0 Shadowbringers/Savage Raids/English"
+    iconId: 26458
+    markdownUrl: _raids/5.0_shadowbringers/savage_raids/macros/e10s.en.md
+
+  - name: "Eden's Promise: Litany (Savage)"
+    group: "5.0 Shadowbringers/Savage Raids/Japanese"
+    iconId: 26458
+    markdownUrl: _raids/5.0_shadowbringers/savage_raids/macros/e10s.jp.md
+
+  - name: "Eden's Promise: Anamorphosis (Savage)"
+    group: "5.0 Shadowbringers/Savage Raids/English"
+    iconId: 26459
+    markdownUrl: _raids/5.0_shadowbringers/savage_raids/macros/e11s.en.md
+
+  - name: "Eden's Promise: Anamorphosis (Savage)"
+    group: "5.0 Shadowbringers/Savage Raids/Japanese"
+    iconId: 26459
+    markdownUrl: _raids/5.0_shadowbringers/savage_raids/macros/e11s.jp.md
+
+  - name: "Eden's Promise: Eternity (Savage) - Part 1"
+    group: "5.0 Shadowbringers/Savage Raids/English"
+    iconId: 26460
+    markdownUrl: _raids/5.0_shadowbringers/savage_raids/macros/e12s_1.en.md
+
+  - name: "Eden's Promise: Eternity (Savage) - Part 1"
+    group: "5.0 Shadowbringers/Savage Raids/Japanese"
+    iconId: 26460
+    markdownUrl: _raids/5.0_shadowbringers/savage_raids/macros/e12s_1.jp.md
+
+  - name: "Eden's Promise: Eternity (Savage) - Part 2"
+    group: "5.0 Shadowbringers/Savage Raids/English"
+    iconId: 26460
+    markdownUrl: _raids/5.0_shadowbringers/savage_raids/macros/e12s_2.en.md
+
+  - name: "Eden's Promise: Eternity (Savage) - Part 2"
+    group: "5.0 Shadowbringers/Savage Raids/Japanese"
+    iconId: 26460
+    markdownUrl: _raids/5.0_shadowbringers/savage_raids/macros/e12s_2.jp.md

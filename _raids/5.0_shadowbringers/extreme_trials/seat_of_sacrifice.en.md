@@ -12,14 +12,12 @@ permalink: /5.0_shadowbringers/extreme_trials/seat_of_sacrifice/
 X-formation Meteors, 十-formation NIN KB
 
 ## English
-```
-{% include macros/5.0_shadowbringers/seat_of_sacrifice.en.txt %}
-```
+
+{% include_relative macros/seat_of_sacrifice.en.md %}
 
 ## Japanese
-```
-{% include macros/5.0_shadowbringers/seat_of_sacrifice.jp.txt %}
-```
+
+{% include_relative macros/seat_of_sacrifice.jp.md %}
 
 ## Markers
 

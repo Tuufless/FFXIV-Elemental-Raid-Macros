@@ -24,14 +24,12 @@ This is an evolution of Amaya's strategy, and largely became the PF standard. It
 - Orogenesis: [video](https://youtu.be/wyCey_t9MiI)
 
 ### English
-```
-{% include macros/5.0_shadowbringers/e4s_amaya.en.txt %}
-```
+
+{% include_relative macros/e4s_amaya.en.md %}
 
 ### Japanese
-```
-{% include macros/5.0_shadowbringers/e4s_amaya.jp.txt %}
-```
+
+{% include_relative macros/e4s_amaya.jp.md %}
 
 ## Idyll strat/イディル式
 
@@ -41,14 +39,12 @@ The other strategy used for Orogenesis was the Idyll strat (イディル式). Th
 - Orogenesis: [video](https://youtu.be/HRN7Fw9xbrA)
 
 ### English
-```
-{% include macros/5.0_shadowbringers/e4s_idyll.en.txt %}
-```
+
+{% include_relative macros/e4s_idyll.en.md %}
 
 ### Japanese
-```
-{% include macros/5.0_shadowbringers/e4s_idyll.jp.txt %}
-```
+
+{% include_relative macros/e4s_idyll.jp.md %}
 
 ## Markers
 

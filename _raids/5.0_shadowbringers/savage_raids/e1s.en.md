@@ -10,14 +10,12 @@ permalink: /5.0_shadowbringers/savage_raids/e1s/
 # Eden's Gate: Resurrection (Savage)
 
 ## English
-```
-{% include macros/5.0_shadowbringers/e1s.en.txt %}
-```
+
+{% include_relative macros/e1s.en.md %}
 
 ## Japanese
-```
-{% include macros/5.0_shadowbringers/e1s.jp.txt %}
-```
+
+{% include_relative macros/e1s.jp.md %}
 
 ## Timeline
 

@@ -10,14 +10,12 @@ permalink: /5.0_shadowbringers/extreme_trials/memoria_misera/
 # Memoria Misera (Extreme)
 
 ## English
-```
-{% include macros/5.0_shadowbringers/memoria_misera.en.txt %}
-```
+
+{% include_relative macros/memoria_misera.en.md %}
 
 ## Japanese
-```
-{% include macros/5.0_shadowbringers/memoria_misera.jp.txt %}
-```
+
+{% include_relative macros/memoria_misera.jp.md %}
 
 ## Markers
 

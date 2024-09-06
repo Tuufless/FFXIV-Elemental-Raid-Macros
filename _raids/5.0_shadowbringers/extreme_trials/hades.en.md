@@ -12,14 +12,12 @@ permalink: /5.0_shadowbringers/extreme_trials/hades/
 The macros are for the [Okome strategy](https://blog.lariceworks.net/archives/268).
 
 ## English
-```
-{% include macros/5.0_shadowbringers/hades.en.txt %}
-```
+
+{% include_relative macros/hades.en.md %}
 
 ## Japanese
-```
-{% include macros/5.0_shadowbringers/hades.jp.txt %}
-```
+
+{% include_relative macros/hades.jp.md %}
 
 ## Markers
 
