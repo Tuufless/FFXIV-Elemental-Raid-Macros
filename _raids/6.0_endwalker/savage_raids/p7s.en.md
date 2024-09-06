@@ -30,14 +30,13 @@ Nukemaru has made a guide aggregating all the strats together:
 ## Japanese
 
 The following is [Game8.jp's macro](https://game8.jp/ff14/479465):
-```
-{% include macros/6.0_endwalker/p7s.jp.txt %}
-```
+
+{% include_relative macros/p7s.jp.md %}
+
 
 ## English
-```
-{% include macros/6.0_endwalker/p7s.en.txt %}
-```
+
+{% include_relative macros/p7s.en.md %}
 
 ## Markers (Game8)
 

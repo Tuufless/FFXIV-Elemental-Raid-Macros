@@ -20,16 +20,12 @@ below).
 ## Japanese
 
 *(Nukemaru's Cachexia 1)*
-```
-{% include macros/6.0_endwalker/p6s_nukemaru.jp.txt %}
-```
+{% include_relative macros/p6s_nukemaru.jp.md %}
 
 ## English
 
 *(Nukemaru's Cachexia 1)*
-```
-{% include macros/6.0_endwalker/p6s_nukemaru.en.txt %}
-```
+{% include_relative macros/p6s_nukemaru.en.md %}
 
 **English** parties will replace Nukemaru's Cachexia 1 strat with
 [ZizieZip's Cachexia 1 strat](https://twitter.com/ZizieZip/status/1564991162775060480).
@@ -38,16 +34,12 @@ below).
 ## English
 
 *(ZizieZip's Cachexia 1)*
-```
-{% include macros/6.0_endwalker/p6s_ziziezip.en.txt %}
-```
+{% include_relative macros/p6s_ziziezip.en.md %}
 
 ## Japanese
 
 *(ZizieZip's Cachexia 1)*
-```
-{% include macros/6.0_endwalker/p6s_ziziezip.jp.txt %}
-```
+{% include_relative macros/p6s_ziziezip.jp.md %}
 
 ## Markers (Nukemaru)
 

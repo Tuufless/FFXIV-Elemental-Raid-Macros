@@ -14,14 +14,12 @@ permalink: /6.0_endwalker/extreme_trials/zeromus/
 {% include youtube.html id="jfL35wWxylY" %}
 
 ### English
-```
-{% include macros/6.0_endwalker/zeromus.en.txt %}
-```
+
+{% include_relative macros/zeromus.en.md %}
 
 ### Japanese
-```
-{% include macros/6.0_endwalker/zeromus.jp.txt %}
-```
+
+{% include_relative macros/zeromus.jp.md %}
 
 ## Markers
 

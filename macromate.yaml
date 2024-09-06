@@ -4,63 +4,63 @@ macros:
   # = Current Content =
   # ===================
 
-  - name: Worqor Lar Dor (Extreme) - English
-    group: "Current"
-    iconId: 81825
+  - name: "Worqor Lar Dor (Extreme)"
+    group: "Current/English"
+    iconId: 26662
     markdownUrl: _current/macros/valigarmanda.en.md
 
-  - name: Worqor Lar Dor (Extreme) - Japanese
-    group: "Current"
-    iconId: 81825
+  - name: "Worqor Lar Dor (Extreme)"
+    group: "Current/Japanese"
+    iconId: 26662
     markdownUrl: _current/macros/valigarmanda.jp.md
 
-  - name: Everkeep (Extreme) - English
-    group: "Current"
-    iconId: 81825
+  - name: "Everkeep (Extreme)"
+    group: "Current/English"
+    iconId: 26663
     markdownUrl: _current/macros/zoraal_ja.en.md
 
-  - name: Everkeep (Extreme) - Japanese
-    group: "Current"
-    iconId: 81825
+  - name: "Everkeep (Extreme)"
+    group: "Current/Japanese"
+    iconId: 26663
     markdownUrl: _current/macros/zoraal_ja.jp.md
 
-  - name: AAC Light-heavyweight M1 (Savage) - English
-    group: "Current"
+  - name: "AAC Light-heavyweight M1 (Savage)"
+    group: "Current/English"
     iconId: 26457
     markdownUrl: _current/macros/m1s.en.md
 
-  - name: AAC Light-heavyweight M1 (Savage) - Japanese
-    group: "Current"
+  - name: "AAC Light-heavyweight M1 (Savage)"
+    group: "Current/Japanese"
     iconId: 26457
     markdownUrl: _current/macros/m1s.jp.md
 
-  - name: AAC Light-heavyweight M2 (Savage) - English
-    group: "Current"
+  - name: "AAC Light-heavyweight M2 (Savage)"
+    group: "Current/English"
     iconId: 26458
     markdownUrl: _current/macros/m2s.en.md
 
-  - name: AAC Light-heavyweight M2 (Savage) - Japanese
-    group: "Current"
+  - name: "AAC Light-heavyweight M2 (Savage)"
+    group: "Current/Japanese"
     iconId: 26458
     markdownUrl: _current/macros/m2s.jp.md
 
-  - name: AAC Light-heavyweight M3 (Savage) - English
-    group: "Current"
+  - name: "AAC Light-heavyweight M3 (Savage)"
+    group: "Current/English"
     iconId: 26459
     markdownUrl: _current/macros/m3s.en.md
 
-  - name: AAC Light-heavyweight M3 (Savage) - Japanese
-    group: "Current"
+  - name: "AAC Light-heavyweight M3 (Savage)"
+    group: "Current/Japanese"
     iconId: 26459
     markdownUrl: _current/macros/m3s.jp.md
 
-  - name: AAC Light-heavyweight M4 (Savage) - English
-    group: "Current"
+  - name: "AAC Light-heavyweight M4 (Savage)"
+    group: "Current/English"
     iconId: 26460
     markdownUrl: _current/macros/m4s.en.md
 
-  - name: AAC Light-heavyweight M4 (Savage) - Japanese
-    group: "Current"
+  - name: "AAC Light-heavyweight M4 (Savage)"
+    group: "Current/Japanese"
     iconId: 26460
     markdownUrl: _current/macros/m4s.jp.md
 
@@ -68,62 +68,378 @@ macros:
   # = Ultimates       =
   # ===================
 
-  - name: The Unending Coil of Bahamut - English
-    group: "Ultimates"
-    iconId: 26626
+  - name: "The Unending Coil of Bahamut"
+    group: "Ultimates/English"
+    iconId: 26526
     markdownUrl: _ultimates/ucob/macros/ucob.en.md
 
-  - name: The Unending Coil of Bahamut - Japanese
-    group: "Ultimates"
-    iconId: 26626
+  - name: "The Unending Coil of Bahamut"
+    group: "Ultimates/Japanese"
+    iconId: 26526
     markdownUrl: _ultimates/ucob/macros/ucob.jp.md
 
-  - name: The Weapon's Refrain - English
-    group: "Ultimates"
+  - name: "The Weapon's Refrain"
+    group: "Ultimates/English"
     iconId: 26532
     markdownUrl: _ultimates/uwu/macros/uwu.en.md
 
-  - name: The Weapon's Refrain - Japanese
-    group: "Ultimates"
+  - name: "The Weapon's Refrain"
+    group: "Ultimates/Japanese"
     iconId: 26532
     markdownUrl: _ultimates/uwu/macros/uwu.jp.md
 
-  - name: The Epic of Alexander - English
-    group: "Ultimates"
-    iconId: 26532
+  - name: "The Epic of Alexander"
+    group: "Ultimates/English"
+    iconId: 26588
     markdownUrl: _ultimates/tea/macros/tea.en.md
 
-  - name: The Epic of Alexander - Japanese
-    group: "Ultimates"
-    iconId: 26532
+  - name: "The Epic of Alexander"
+    group: "Ultimates/Japanese"
+    iconId: 26588
     markdownUrl: _ultimates/tea/macros/tea.jp.md
 
-  - name: Dragonsong's Reprise (P1) - English
-    group: "Ultimates"
+  - name: "Dragonsong's Reprise - P1"
+    group: "Ultimates/English"
     iconId: 26627
     markdownUrl: _ultimates/dsr/macros/dsr_1.en.md
 
-  - name: Dragonsong's Reprise (P1) - Japanese
-    group: "Ultimates"
+  - name: "Dragonsong's Reprise - P1"
+    group: "Ultimates/Japanese"
     iconId: 26627
     markdownUrl: _ultimates/dsr/macros/dsr_1.jp.md
 
-  - name: Dragonsong's Reprise (P2-7) - English
-    group: "Ultimates"
+  - name: "Dragonsong's Reprise - P2-7"
+    group: "Ultimates/English"
     iconId: 26627
     markdownUrl: _ultimates/dsr/macros/dsr_2.en.md
 
-  - name: Dragonsong's Reprise (P2-7) - Japanese
-    group: "Ultimates"
+  - name: "Dragonsong's Reprise - P2-7"
+    group: "Ultimates/Japanese"
     iconId: 26627
     markdownUrl: _ultimates/dsr/macros/dsr_2.jp.md
 
-  - name: The Omega Protocol - English
-    group: "Ultimates"
-    iconId: 26532
+  - name: "The Omega Protocol"
+    group: "Ultimates/English"
+    iconId: 26639
     markdownUrl: _ultimates/top/macros/top.en.md
 
-  - name: The Omega Protocol - Japanese
-    group: "Ultimates"
-    iconId: 26532
+  - name: "The Omega Protocol"
+    group: "Ultimates/Japanese"
+    iconId: 26639
     markdownUrl: _ultimates/top/macros/top.jp.md
+
+  # =========================
+  # = Endwalker - EX trials =
+  # =========================
+
+  - name: "The Minstrel's Ballad: Hydaelyn's Call"
+    group: "6.0 Endwalker/Extreme Trials/English"
+    iconId: 26620
+    markdownUrl: _raids/6.0_endwalker/extreme_trials/macros/hydaelyn.en.md
+  
+  - name: "The Minstrel's Ballad: Hydaelyn's Call"
+    group: "6.0 Endwalker/Extreme Trials/Japanese"
+    iconId: 26620
+    markdownUrl: _raids/6.0_endwalker/extreme_trials/macros/hydaelyn.jp.md
+
+  - name: "The Minstrel's Ballad: The Endsinger's Aria"
+    group: "6.0 Endwalker/Extreme Trials/English"
+    iconId: 26626
+    markdownUrl: _raids/6.0_endwalker/extreme_trials/macros/endsinger.en.md
+
+  - name: "The Minstrel's Ballad: The Endsinger's Aria"
+    group: "6.0 Endwalker/Extreme Trials/Japanese"
+    iconId: 26626
+    markdownUrl: _raids/6.0_endwalker/extreme_trials/macros/endsinger.jp.md
+
+  - name: "Storm's Crown (Extreme)"
+    group: "6.0 Endwalker/Extreme Trials/English"
+    iconId: 26629
+    markdownUrl: _raids/6.0_endwalker/extreme_trials/macros/barbariccia.en.md
+
+  - name: "Storm's Crown (Extreme)"
+    group: "6.0 Endwalker/Extreme Trials/Japanese"
+    iconId: 26629
+    markdownUrl: _raids/6.0_endwalker/extreme_trials/macros/barbariccia.jp.md
+
+  - name: "Mount Ordeals (Extreme)"
+    group: "6.0 Endwalker/Extreme Trials/English"
+    iconId: 26638
+    markdownUrl: _raids/6.0_endwalker/extreme_trials/macros/rubicante.en.md
+
+  - name: "Mount Ordeals (Extreme)"
+    group: "6.0 Endwalker/Extreme Trials/Japanese"
+    iconId: 26638
+    markdownUrl: _raids/6.0_endwalker/extreme_trials/macros/rubicante.jp.md
+
+  - name: "The Voidcast Dais (Extreme)"
+    group: "6.0 Endwalker/Extreme Trials/English"
+    iconId: 26644
+    markdownUrl: _raids/6.0_endwalker/extreme_trials/macros/golbez.en.md
+
+  - name: "The Voidcast Dais (Extreme)"
+    group: "6.0 Endwalker/Extreme Trials/Japanese"
+    iconId: 26644
+    markdownUrl: _raids/6.0_endwalker/extreme_trials/macros/golbez.jp.md
+
+  - name: "The Abyssal Fracture (Extreme)"
+    group: "6.0 Endwalker/Extreme Trials/English"
+    iconId: 26646
+    markdownUrl: _raids/6.0_endwalker/extreme_trials/macros/zeromus.en.md
+
+  - name: "The Abyssal Fracture (Extreme)"
+    group: "6.0 Endwalker/Extreme Trials/Japanese"
+    iconId: 26646
+    markdownUrl: _raids/6.0_endwalker/extreme_trials/macros/zeromus.jp.md
+
+  # =========================
+  # = Endwalker - Savage    =
+  # =========================
+
+  - name: "Asphodelos: The First Circle (Savage)"
+    group: "6.0 Endwalker/Savage Raids/English"
+    iconId: 26457
+    markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p1s.en.md
+
+  - name: "Asphodelos: The First Circle (Savage)"
+    group: "6.0 Endwalker/Savage Raids/Japanese"
+    iconId: 26457
+    markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p1s.jp.md
+
+  - name: "Asphodelos: The Second Circle (Savage)"
+    group: "6.0 Endwalker/Savage Raids/English"
+    iconId: 26458
+    markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p2s.en.md
+
+  - name: "Asphodelos: The Second Circle (Savage)"
+    group: "6.0 Endwalker/Savage Raids/Japanese"
+    iconId: 26458
+    markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p2s.jp.md
+
+  - name: "Asphodelos: The Third Circle (Savage) - Inumaru FoA"
+    group: "6.0 Endwalker/Savage Raids/English"
+    iconId: 26459
+    markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p3s_inumaru.en.md
+    notes: |
+      This was preferred by Japanese parties.
+
+  - name: "Asphodelos: The Third Circle (Savage) - Inumaru FoA"
+    group: "6.0 Endwalker/Savage Raids/Japanese"
+    iconId: 26459
+    markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p3s_inumaru.jp.md
+    notes: |
+      This was preferred by Japanese parties.
+
+  - name: "Asphodelos: The Third Circle (Savage) - Tuufless FoA"
+    group: "6.0 Endwalker/Savage Raids/English"
+    iconId: 26459
+    markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p3s_tuufless.en.md
+    notes: |
+      This was preferred by English parties.
+
+  - name: "Asphodelos: The Third Circle (Savage) - Tuufless FoA"
+    group: "6.0 Endwalker/Savage Raids/Japanese"
+    iconId: 26459
+    markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p3s_tuufless.jp.md
+    notes: |
+      This was preferred by English parties.
+
+  - name: "Asphodelos: The Fourth Circle (Savage) - Part 1"
+    group: "6.0 Endwalker/Savage Raids/English"
+    iconId: 26460
+    markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p4s_1.en.md
+
+  - name: "Asphodelos: The Fourth Circle (Savage) - Part 1"
+    group: "6.0 Endwalker/Savage Raids/Japanese"
+    iconId: 26460
+    markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p4s_1.jp.md
+
+  - name: "Asphodelos: The Fourth Circle (Savage) - Part 2 (Inumaru Act 3)"
+    group: "6.0 Endwalker/Savage Raids/English"
+    iconId: 26460
+    markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p4s_2_inumaru.en.md
+    notes: |
+      This was preferred by Japanese parties.
+
+  - name: "Asphodelos: The Fourth Circle (Savage) - Part 2 (Inumaru Act 3)"
+    group: "6.0 Endwalker/Savage Raids/Japanese"
+    iconId: 26460
+    markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p4s_2_inumaru.jp.md
+    notes: |
+      This was preferred by Japanese parties.
+
+  - name: "Asphodelos: The Fourth Circle (Savage) - Part 2 (Xeno Act 3)"
+    group: "6.0 Endwalker/Savage Raids/English"
+    iconId: 26460
+    markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p4s_2_xeno.en.md
+    notes: |
+      This was preferred by English parties.
+
+  - name: "Asphodelos: The Fourth Circle (Savage) - Part 2 (Xeno Act 3)"
+    group: "6.0 Endwalker/Savage Raids/Japanese"
+    iconId: 26460
+    markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p4s_2_xeno.jp.md
+    notes: |
+      This was preferred by English parties.
+
+  - name: "Abyssos: The Fifth Circle (Savage)"
+    group: "6.0 Endwalker/Savage Raids/English"
+    iconId: 26457
+    markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p5s.en.md
+
+  - name: "Abyssos: The Fifth Circle (Savage)"
+    group: "6.0 Endwalker/Savage Raids/Japanese"
+    iconId: 26457
+    markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p5s.jp.md
+
+  - name: "Abyssos: The Sixth Circle (Savage) - Nukemaru"
+    group: "6.0 Endwalker/Savage Raids/English"
+    iconId: 26458
+    markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p6s_nukemaru.en.md
+    notes: |
+      This was preferred by Japanese parties.
+
+  - name: "Abyssos: The Sixth Circle (Savage) - Nukemaru"
+    group: "6.0 Endwalker/Savage Raids/Japanese"
+    iconId: 26458
+    markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p6s_nukemaru.jp.md
+    notes: |
+      This was preferred by Japanese parties.
+
+  - name: "Abyssos: The Sixth Circle (Savage) - ZizieZip"
+    group: "6.0 Endwalker/Savage Raids/English"
+    iconId: 26458
+    markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p6s_ziziezip.en.md
+    notes: |
+      This was preferred by English parties.
+
+  - name: "Abyssos: The Fifth Circle (Savage) - ZizieZip"
+    group: "6.0 Endwalker/Savage Raids/Japanese"
+    iconId: 26458
+    markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p6s_ziziezip.jp.md
+    notes: |
+      This was preferred by English parties.
+
+  - name: "Abyssos: The Seventh Circle (Savage)"
+    group: "6.0 Endwalker/Savage Raids/English"
+    iconId: 26459
+    markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p7s.en.md
+
+  - name: "Abyssos: The Seventh Circle (Savage)"
+    group: "6.0 Endwalker/Savage Raids/Japanese"
+    iconId: 26459
+    markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p7s.jp.md
+
+  - name: "Abyssos: The Eighth Circle (Savage) - Part 1, Coloured Gorgons"
+    group: "6.0 Endwalker/Savage Raids/English"
+    iconId: 26460
+    markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p8s_1.en.md
+    notes: |
+      This was preferred by Japanese parties.
+
+  - name: "Abyssos: The Eighth Circle (Savage) - Part 1, Coloured Gorgons"
+    group: "6.0 Endwalker/Savage Raids/Japanese"
+    iconId: 26460
+    markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p8s_1.jp.md
+    notes: |
+      This was preferred by Japanese parties.
+
+  - name: "Abyssos: The Eighth Circle (Savage) - Part 1, Spriggan Gorgons"
+    group: "6.0 Endwalker/Savage Raids/English"
+    iconId: 26460
+    markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p8s_1_spriggan.en.md
+    notes: |
+      This was preferred by English parties.
+
+  - name: "Abyssos: The Eighth Circle (Savage) - Part 1, Spriggan Gorgons"
+    group: "6.0 Endwalker/Savage Raids/Japanese"
+    iconId: 26460
+    markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p8s_1_spriggan.jp.md
+    notes: |
+      This was preferred by English parties.
+
+  - name: "Anabaseios: The Ninth Circle (Savage) - MarioKart"
+    group: "6.0 Endwalker/Savage Raids/English"
+    iconId: 26457
+    markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p9s_mariokart.en.md
+    notes: |
+      This was preferred by English parties.
+
+  - name: "Anabaseios: The Ninth Circle (Savage) - MarioKart"
+    group: "6.0 Endwalker/Savage Raids/Japanese"
+    iconId: 26457
+    markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p9s_mariokart.jp.md
+    notes: |
+      This was preferred by English parties.
+
+  - name: "Anabaseios: The Ninth Circle (Savage) - Intercard"
+    group: "6.0 Endwalker/Savage Raids/English"
+    iconId: 26457
+    markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p9s_intercard.en.md
+    notes: |
+      This was preferred by Japanese parties.
+
+  - name: "Anabaseios: The Ninth Circle (Savage) - Intercard"
+    group: "6.0 Endwalker/Savage Raids/Japanese"
+    iconId: 26457
+    markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p9s_intercard.jp.md
+    notes: |
+      This was preferred by Japanese parties.
+
+  - name: "Anabaseios: The Tenth Circle (Savage)"
+    group: "6.0 Endwalker/Savage Raids/English"
+    iconId: 26458
+    markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p10s.en.md
+
+  - name: "Anabaseios: The Tenth Circle (Savage)"
+    group: "6.0 Endwalker/Savage Raids/Japanese"
+    iconId: 26458
+    markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p10s.jp.md
+
+  - name: "Anabaseios: The Eleventh Circle (Savage)"
+    group: "6.0 Endwalker/Savage Raids/English"
+    iconId: 26459
+    markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p11s.en.md
+
+  - name: "Anabaseios: The Eleventh Circle (Savage)"
+    group: "6.0 Endwalker/Savage Raids/Japanese"
+    iconId: 26459
+    markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p11s.jp.md
+
+  - name: "Anabaseios: The Twelfth Circle (Savage) - Part 1"
+    group: "6.0 Endwalker/Savage Raids/English"
+    iconId: 26460
+    markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p12s_1.en.md
+
+  - name: "Anabaseios: The Twelfth Circle (Savage) - Part 1"
+    group: "6.0 Endwalker/Savage Raids/Japanese"
+    iconId: 26460
+    markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p12s_1.jp.md
+
+  - name: "Anabaseios: The Twelfth Circle (Savage) - Part 2, Mochibe"
+    group: "6.0 Endwalker/Savage Raids/English"
+    iconId: 26460
+    markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p12s_2_mochibe.en.md
+    notes: |
+      This was preferred by Japanese parties.
+
+  - name: "Anabaseios: The Twelfth Circle (Savage) - Part 2, Mochibe"
+    group: "6.0 Endwalker/Savage Raids/Japanese"
+    iconId: 26460
+    markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p12s_2_mochibe.jp.md
+    notes: |
+      This was preferred by Japanese parties.
+
+  - name: "Anabaseios: The Twelfth Circle (Savage) - Part 2, Original Papan"
+    group: "6.0 Endwalker/Savage Raids/English"
+    iconId: 26460
+    markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p12s_2_papan.en.md
+    notes: |
+      This was preferred by English parties.
+
+  - name: "Anabaseios: The Twelfth Circle (Savage) - Part 2, Original Papan"
+    group: "6.0 Endwalker/Savage Raids/Japanese"
+    iconId: 26460
+    markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p12s_2_papan.jp.md
+    notes: |
+      This was preferred by English parties.

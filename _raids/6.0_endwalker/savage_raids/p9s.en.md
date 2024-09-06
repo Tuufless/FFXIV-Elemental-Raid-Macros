@@ -29,15 +29,11 @@ This is the preferred strat by JP that Nukemaru featured. It uses the "Mario Kar
 
 ### English (Mario Kart)
 
-```
-{% include macros/6.0_endwalker/p9s_mariokart.en.txt %}
-```
+{% include_relative macros/p9s_mariokart.en.md %}
 
 ### Japanese (Mario Kart)
 
-```
-{% include macros/6.0_endwalker/p9s_mariokart.jp.txt %}
-```
+{% include_relative macros/p9s_mariokart.jp.md %}
 
 ### Scrambled Succession (Mario Kart)
 
@@ -53,21 +49,60 @@ This is the strat chosen by Game8 that involves splitting the party into two gro
 
 <table>
   <tr>
-    <td width="50%"><p><b>1.</b> Numbers appear. Split up into your groups.</p>
-    <ul><li><b>No number:</b> Go to the orb numbered 1.</li><li><b>Numbered:</b> Go to the orb numbered 5 (directly opposite), and stay on the floor's inner-most ring.</li></ul>
-    <p>Identify whether the orbs are increasing in a clockwise or anti-clockwise order.</p>
-    <ul><li>The player numbered 2 can preposition at the edge, 45-degrees ahead of the other even-numbered players.</li></ul></td>
-    <td><img src="{{site.baseurl}}/images/6.0_endwalker/p9s/lc1_nukemaru_01.jpg"></td>
+    <td width="50%">
+      <p><b>1.</b> Numbers appear. Split up into your groups.</p>
+      <ul>
+        <li><b>No number:</b> Go to the orb numbered 1.</li>
+        <li><b>Numbered:</b> Go to the orb numbered 5 (directly opposite), and
+        stay on the floor's inner-most ring.</li>
+      </ul>
+      <p>Identify whether the orbs are increasing in a clockwise or
+      anti-clockwise order.</p>
+      <ul>
+        <li>The player numbered 2 can preposition at the edge, 45-degrees ahead
+        of the other even-numbered players.</li>
+      </ul>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/6.0_endwalker/p9s/lc1_nukemaru_01.jpg">
+    </td>
   </tr>
   <tr>
-    <td><p><b>2.</b> The first blue mark appears on a random player that did not have a number.</p>
-    <ul><li><b>No number:</b><ul><li><b>If you were marked:</b> Move to the wall.</li><li><b>If you were not marked:</b> Rotate 90 degrees to the next wall (move to the orb numbered 3).</li></ul></li></ul></td>
-    <td><img src="{{site.baseurl}}/images/6.0_endwalker/p9s/lc1_nukemaru_02.jpg"></td>
+    <td>
+      <p><b>2.</b> The first blue mark appears on a random player that did not
+      have a number.</p>
+      <ul>
+        <li><b>No number:</b>
+          <ul>
+            <li><b>If you were marked:</b> Move to the wall.</li>
+            <li><b>If you were not marked:</b> Rotate 90 degrees to the next
+            wall (move to the orb numbered 3).</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/6.0_endwalker/p9s/lc1_nukemaru_02.jpg">
+    </td>
   </tr>
   <tr>
-    <td><p><b>3.</b> The boss will become untargetable, teleport behind the orb numbered 1, and kick it across the arena.</p><p>When the orb hits the wall, it will explode in an AoE and leave behind a tower.</p><ul><li><b>6:</b> Enter the tower after the orb explodes.</li></ul><p>A second non-numbered player will get a blue mark.</p>
-    <ul><li><b>If you were marked:</b> Stay at the wall.</li><li><b>If you were not marked:</b> Rotate 90 degrees to the next wall.</li></ul></td>
-    <td><img src="{{site.baseurl}}/images/6.0_endwalker/p9s/lc1_nukemaru_03.jpg"></td>
+    <td>
+      <p><b>3.</b> The boss will become untargetable, teleport behind the orb
+      numbered 1, and kick it across the arena.</p>
+      <p>When the orb hits the wall, it will explode in an AoE and leave behind
+      a tower.</p>
+      <ul>
+        <li><b>6:</b> Enter the tower after the orb explodes.</li>
+      </ul>
+      <p>A second non-numbered player will get a blue mark.</p>
+      <ul>
+        <li><b>If you were marked:</b> Stay at the wall.</li>
+        <li><b>If you were not marked:</b> Rotate 90 degrees to the next wall.</li>
+      </ul>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/6.0_endwalker/p9s/lc1_nukemaru_03.jpg">
+    </td>
   </tr>
   <tr>
     <td><p><b>4.</b> First round of AoEs resolve together:</p><ul><li>A giant Ice AoE on the player with the blue orb</li><li>A Fire AoE on the even-numbered player.</li><li>The tower left behind by the first orb.</li></ul><p>All players rotate 90 degrees.</p>
@@ -106,19 +141,17 @@ This is the strat chosen by Game8 that involves splitting the party into two gro
 
 ## Nukemaru's strat + Intercardinal Limit Cut
 
-This is the preferred strat by EN. It takes Nukemaru's strat, but replaces Scrambled Succession (Limit Cut) with the Intercard strat, known as ぶたばら式 in Japanese.
+This is the preferred strat by EN. It takes Nukemaru's strat, but replaces
+*Scrambled Succession* (Limit Cut) with the Intercard strat, known as ぶたばら式 in
+Japanese.
 
 ### English (Intercard)
 
-```
-{% include macros/6.0_endwalker/p9s_intercard.en.txt %}
-```
+{% include_relative macros/p9s_intercard.en.md %}
 
 ### Japanese (Intercard/ぶたばら式)
 
-```
-{% include macros/6.0_endwalker/p9s_intercard.jp.txt %}
-```
+{% include_relative macros/p9s_intercard.jp.md %}
 
 ### Scrambled Succession (Intercard)
 

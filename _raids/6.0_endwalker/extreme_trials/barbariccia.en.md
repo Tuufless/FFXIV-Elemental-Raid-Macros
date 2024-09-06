@@ -16,14 +16,12 @@ Playstation symbols in a "braindead" manner (T/H go to assigned cardinals, DPS
 all stack in the center and get pulled to their assigned partner). 
 
 ## English
-```
-{% include macros/6.0_endwalker/barbariccia.en.txt %}
-```
+
+{% include_relative macros/barbariccia.en.md %}
 
 ## Japanese
-```
-{% include macros/6.0_endwalker/barbariccia.jp.txt %}
-```
+
+{% include_relative macros/barbariccia.jp.md %}
 
 ## Markers
 

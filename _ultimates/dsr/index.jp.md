@@ -64,16 +64,12 @@ Elemental DC の野良処理法：
 
 ## マクロ
 
-```
-{% include macros/ultimates/dsr_1.jp.txt %}
-```
+{% include_relative macros/dsr_1.jp.md %}
 
 <details markdown=block>
 <summary>English</summary>
 
-```
-{% include macros/ultimates/dsr_1.en.txt %}
-```
+{% include_relative macros/dsr_1.en.md %}
 
 </details>
 

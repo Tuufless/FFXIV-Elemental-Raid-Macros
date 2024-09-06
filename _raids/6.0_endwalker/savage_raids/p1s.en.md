@@ -22,15 +22,11 @@ PF references the following guides for P1S:
 
 ## English
 
-```
-{% include macros/6.0_endwalker/p1s.en.txt %}
-```
+{% include_relative macros/p1s.en.md %}
 
 ## Japanese
 
-```
-{% include macros/6.0_endwalker/p1s.jp.txt %}
-```
+{% include_relative macros/p1s.jp.md %}
 
 ## Markers
 

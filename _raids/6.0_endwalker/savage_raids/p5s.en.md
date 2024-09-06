@@ -15,15 +15,11 @@ This is [Game8.jp's macro](https://game8.jp/ff14/464675)
 
 ## English
 
-```
-{% include macros/6.0_endwalker/p5s.en.txt %}
-```
+{% include_relative macros/p5s.en.md %}
 
 ## Japanese
 
-```
-{% include macros/6.0_endwalker/p5s.jp.txt %}
-```
+{% include_relative macros/p5s.jp.md %}
 
 ## Markers
 
@@ -111,7 +107,8 @@ The four possible outcomes are as follows:
 
 <details markdown=block>
 <summary>
-  <b>[Ruby Glow 5]</b> Some groups refer to a N/W and S/E strat- how is that different?
+  <b>[Ruby Glow 5]</b> Some groups refer to a N/W and S/E strat- how is that
+  different?
 </summary>
 <table>
   <tr>

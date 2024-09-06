@@ -14,15 +14,11 @@ downtime Chakrams strat)*
 
 ## English
 
-```
-{% include macros/6.0_endwalker/hydaelyn.en.txt %}
-```
+{% include_relative macros/hydaelyn.en.md %}
 
 ## Japanese
 
-```
-{% include macros/6.0_endwalker/hydaelyn.jp.txt %}
-```
+{% include_relative macros/hydaelyn.jp.md %}
 
 ## Markers
 

@@ -15,14 +15,12 @@ Nukemaru's strat.
 {% include youtube.html id="uWR-SoZ4hFw" %}
 
 ### English
-```
-{% include macros/6.0_endwalker/rubicante.en.txt %}
-```
+
+{% include_relative macros/rubicante.en.md %}
 
 ### Japanese
-```
-{% include macros/6.0_endwalker/rubicante.jp.txt %}
-```
+
+{% include_relative macros/rubicante.jp.md %}
 
 ### Flamerake
 

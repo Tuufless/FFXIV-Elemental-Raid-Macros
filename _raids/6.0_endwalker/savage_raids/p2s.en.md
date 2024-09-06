@@ -20,15 +20,11 @@ PF uses Hamkatsu's strat for P2S:
 
 ## English
 
-```
-{% include macros/6.0_endwalker/p2s.en.txt %}
-```
+{% include_relative macros/p2s.en.md %}
 
 ## Japanese
 
-```
-{% include macros/6.0_endwalker/p2s.jp.txt %}
-```
+{% include_relative macros/p2s.jp.md %}
 
 ## Markers
 

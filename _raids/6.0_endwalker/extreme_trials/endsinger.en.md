@@ -14,16 +14,14 @@ PF largely follows Nukemaru's guide:
 {% include youtube.html id="dwZ8uVCPI80" %}
 
 ## English
-```
-{% include macros/6.0_endwalker/endsinger.en.txt %}
-```
+
+{% include_relative macros/endsinger.en.md %}
 
 ## Japanese
 
 This is the [Game8.jp macro](https://game8.jp/ff14/446913) that's being used:
-```
-{% include macros/6.0_endwalker/endsinger.jp.txt %}
-```
+
+{% include_relative macros/endsinger.jp.md %}
 
 ## Markers
 

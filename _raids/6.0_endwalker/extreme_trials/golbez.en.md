@@ -23,15 +23,11 @@ The key points to note are:
 
 ### English
 
-```
-{% include macros/6.0_endwalker/golbez.en.txt %}
-```
+{% include_relative macros/golbez.en.md %}
 
 ### Japanese
 
-```
-{% include macros/6.0_endwalker/golbez.jp.txt %}
-```
+{% include_relative macros/golbez.jp.md %}
 
 ## Markers
 

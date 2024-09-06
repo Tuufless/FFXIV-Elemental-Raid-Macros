@@ -28,16 +28,12 @@ below).
 This is the macro often used in **English** parties. In particular, Firestorms
 of Asphodelos is, er, ["my" strat](#firestorms-of-asphodelos).
 
-```
-{% include macros/6.0_endwalker/p3s_tuufless.en.txt %}
-```
+{% include_relative macros/p3s_tuufless.en.md %}
 
 <details markdown=block>
 <summary>Japanese translation</summary>
 
-```
-{% include macros/6.0_endwalker/p3s_tuufless.jp.txt %}
-```
+{% include_relative macros/p3s_tuufless.jp.md %}
 
 </details>
 
@@ -46,16 +42,12 @@ of Asphodelos is, er, ["my" strat](#firestorms-of-asphodelos).
 This is the [Game8.jp macro](https://game8.jp/ff14/421350) often used by
 **Japanese** parties.
 
-```
-{% include macros/6.0_endwalker/p3s_inumaru.jp.txt %}
-```
+{% include_relative macros/p3s_inumaru.jp.md %}
 
 <details markdown=block>
 <summary>English translation</summary>
 
-```
-{% include macros/6.0_endwalker/p3s_inumaru.en.txt %}
-```
+{% include_relative macros/p3s_inumaru.en.md %}
 
 </details>
 
