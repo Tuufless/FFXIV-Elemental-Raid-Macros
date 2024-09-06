@@ -35,6 +35,30 @@ The current item level cap is **iLvl 735**.
 
 ---
 
+## Ultimates
+
+- **Lv. 70. UCoB** - [The Unending Coil of Bahamut (Ultimate)]({{site.baseurl}}/ultimates/ucob)
+- **Lv. 70. UWU** - [The Weapon's Refrain (Ultimate)]({{site.baseurl}}/ultimates/uwu)
+- **Lv. 80. TEA** - [The Epic of Alexander (Ultimate)]({{site.baseurl}}/ultimates/tea)
+- **Lv. 90. DSR** - [Dragonsong's Reprise (Ultimate)]({{site.baseurl}}/ultimates/dsr)
+- **Lv. 90. TOP** - [The Omega Protocol (Ultimate)]({{site.baseurl}}/ultimates/top)
+
+---
+
+## Macro Mate
+
+PC players can use the **Macro Mate** Dalamud plugin to sync to all the macros
+from this website. *(This is a third-party tool and goes against the Terms of
+Service, so use at your own risk.)*
+
+Download and install the **Macro Mate** plugin, select "New" then
+"Subscription", and enter the following URL:
+```
+https://raw.githubusercontent.com/Tuufless/FFXIV-Elemental-Raid-Macros/main/macromate.yaml
+```
+
+---
+
 ## Contributing
 
 This page is built from [an underlying Github repository](https://github.com/Tuufless/FFXIV-Elemental-raid-macros).
