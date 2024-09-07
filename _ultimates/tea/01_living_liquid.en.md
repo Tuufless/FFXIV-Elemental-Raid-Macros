@@ -550,7 +550,7 @@ However, there are some consequences, namely:
       <p><b>6.</b> Liquid Hand casts Hand of Pain; two Embolus orbs spawn and
       slowly move towards the bosses.</p>
       <p>The ST Provokes Living Liquid, and the MT Shirks both Living Liquid
-      and Liquid Hand over to the MT.</p>
+      and Liquid Hand over to the ST.</p>
       <ul>
         <li><b>ST:</b> Move the bosses just beside the East-side puddle, being
         sure not to tether a Jagd Doll to either boss.</li>
