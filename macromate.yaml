@@ -136,7 +136,7 @@ macros:
     group: "6.0 Endwalker/Extreme Trials/English"
     iconId: 26620
     markdownUrl: _raids/6.0_endwalker/extreme_trials/macros/hydaelyn.en.md
-  
+
   - name: "The Minstrel's Ballad: Hydaelyn's Call"
     group: "6.0 Endwalker/Extreme Trials/Japanese"
     iconId: 26620
@@ -198,258 +198,258 @@ macros:
 
   - name: "Asphodelos: The First Circle (Savage)"
     group: "6.0 Endwalker/Savage Raids/English"
-    iconId: 26457
+    iconId: 26450
     markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p1s.en.md
 
   - name: "Asphodelos: The First Circle (Savage)"
     group: "6.0 Endwalker/Savage Raids/Japanese"
-    iconId: 26457
+    iconId: 26450
     markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p1s.jp.md
 
   - name: "Asphodelos: The Second Circle (Savage)"
     group: "6.0 Endwalker/Savage Raids/English"
-    iconId: 26458
+    iconId: 26451
     markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p2s.en.md
 
   - name: "Asphodelos: The Second Circle (Savage)"
     group: "6.0 Endwalker/Savage Raids/Japanese"
-    iconId: 26458
+    iconId: 26451
     markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p2s.jp.md
 
   - name: "Asphodelos: The Third Circle (Savage) - Inumaru FoA"
     group: "6.0 Endwalker/Savage Raids/English"
-    iconId: 26459
+    iconId: 26452
     markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p3s_inumaru.en.md
     notes: |
       This was preferred by Japanese parties.
 
   - name: "Asphodelos: The Third Circle (Savage) - Inumaru FoA"
     group: "6.0 Endwalker/Savage Raids/Japanese"
-    iconId: 26459
+    iconId: 26452
     markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p3s_inumaru.jp.md
     notes: |
       This was preferred by Japanese parties.
 
   - name: "Asphodelos: The Third Circle (Savage) - Tuufless FoA"
     group: "6.0 Endwalker/Savage Raids/English"
-    iconId: 26459
+    iconId: 26452
     markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p3s_tuufless.en.md
     notes: |
       This was preferred by English parties.
 
   - name: "Asphodelos: The Third Circle (Savage) - Tuufless FoA"
     group: "6.0 Endwalker/Savage Raids/Japanese"
-    iconId: 26459
+    iconId: 26452
     markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p3s_tuufless.jp.md
     notes: |
       This was preferred by English parties.
 
   - name: "Asphodelos: The Fourth Circle (Savage) - Part 1"
     group: "6.0 Endwalker/Savage Raids/English"
-    iconId: 26460
+    iconId: 26453
     markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p4s_1.en.md
 
   - name: "Asphodelos: The Fourth Circle (Savage) - Part 1"
     group: "6.0 Endwalker/Savage Raids/Japanese"
-    iconId: 26460
+    iconId: 26453
     markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p4s_1.jp.md
 
   - name: "Asphodelos: The Fourth Circle (Savage) - Part 2 (Inumaru Act 3)"
     group: "6.0 Endwalker/Savage Raids/English"
-    iconId: 26460
+    iconId: 26453
     markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p4s_2_inumaru.en.md
     notes: |
       This was preferred by Japanese parties.
 
   - name: "Asphodelos: The Fourth Circle (Savage) - Part 2 (Inumaru Act 3)"
     group: "6.0 Endwalker/Savage Raids/Japanese"
-    iconId: 26460
+    iconId: 26453
     markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p4s_2_inumaru.jp.md
     notes: |
       This was preferred by Japanese parties.
 
   - name: "Asphodelos: The Fourth Circle (Savage) - Part 2 (Xeno Act 3)"
     group: "6.0 Endwalker/Savage Raids/English"
-    iconId: 26460
+    iconId: 26453
     markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p4s_2_xeno.en.md
     notes: |
       This was preferred by English parties.
 
   - name: "Asphodelos: The Fourth Circle (Savage) - Part 2 (Xeno Act 3)"
     group: "6.0 Endwalker/Savage Raids/Japanese"
-    iconId: 26460
+    iconId: 26453
     markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p4s_2_xeno.jp.md
     notes: |
       This was preferred by English parties.
 
   - name: "Abyssos: The Fifth Circle (Savage)"
     group: "6.0 Endwalker/Savage Raids/English"
-    iconId: 26457
+    iconId: 26450
     markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p5s.en.md
 
   - name: "Abyssos: The Fifth Circle (Savage)"
     group: "6.0 Endwalker/Savage Raids/Japanese"
-    iconId: 26457
+    iconId: 26450
     markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p5s.jp.md
 
   - name: "Abyssos: The Sixth Circle (Savage) - Nukemaru"
     group: "6.0 Endwalker/Savage Raids/English"
-    iconId: 26458
+    iconId: 26451
     markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p6s_nukemaru.en.md
     notes: |
       This was preferred by Japanese parties.
 
   - name: "Abyssos: The Sixth Circle (Savage) - Nukemaru"
     group: "6.0 Endwalker/Savage Raids/Japanese"
-    iconId: 26458
+    iconId: 26451
     markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p6s_nukemaru.jp.md
     notes: |
       This was preferred by Japanese parties.
 
   - name: "Abyssos: The Sixth Circle (Savage) - ZizieZip"
     group: "6.0 Endwalker/Savage Raids/English"
-    iconId: 26458
+    iconId: 26451
     markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p6s_ziziezip.en.md
     notes: |
       This was preferred by English parties.
 
-  - name: "Abyssos: The Fifth Circle (Savage) - ZizieZip"
+  - name: "Abyssos: The Sixth Circle (Savage) - ZizieZip"
     group: "6.0 Endwalker/Savage Raids/Japanese"
-    iconId: 26458
+    iconId: 26451
     markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p6s_ziziezip.jp.md
     notes: |
       This was preferred by English parties.
 
   - name: "Abyssos: The Seventh Circle (Savage)"
     group: "6.0 Endwalker/Savage Raids/English"
-    iconId: 26459
+    iconId: 26452
     markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p7s.en.md
 
   - name: "Abyssos: The Seventh Circle (Savage)"
     group: "6.0 Endwalker/Savage Raids/Japanese"
-    iconId: 26459
+    iconId: 26452
     markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p7s.jp.md
 
   - name: "Abyssos: The Eighth Circle (Savage) - Part 1, Coloured Gorgons"
     group: "6.0 Endwalker/Savage Raids/English"
-    iconId: 26460
+    iconId: 26453
     markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p8s_1.en.md
     notes: |
       This was preferred by Japanese parties.
 
   - name: "Abyssos: The Eighth Circle (Savage) - Part 1, Coloured Gorgons"
     group: "6.0 Endwalker/Savage Raids/Japanese"
-    iconId: 26460
+    iconId: 26453
     markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p8s_1.jp.md
     notes: |
       This was preferred by Japanese parties.
 
   - name: "Abyssos: The Eighth Circle (Savage) - Part 1, Spriggan Gorgons"
     group: "6.0 Endwalker/Savage Raids/English"
-    iconId: 26460
+    iconId: 26453
     markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p8s_1_spriggan.en.md
     notes: |
       This was preferred by English parties.
 
   - name: "Abyssos: The Eighth Circle (Savage) - Part 1, Spriggan Gorgons"
     group: "6.0 Endwalker/Savage Raids/Japanese"
-    iconId: 26460
+    iconId: 26453
     markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p8s_1_spriggan.jp.md
     notes: |
       This was preferred by English parties.
 
   - name: "Abyssos: The Eighth Circle (Savage) - Part 2"
     group: "6.0 Endwalker/Savage Raids/English"
-    iconId: 26460
+    iconId: 26453
     markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p8s_2.en.md
 
   - name: "Abyssos: The Eighth Circle (Savage) - Part 2"
     group: "6.0 Endwalker/Savage Raids/Japanese"
-    iconId: 26460
+    iconId: 26453
     markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p8s_2.jp.md
 
   - name: "Anabaseios: The Ninth Circle (Savage) - MarioKart"
     group: "6.0 Endwalker/Savage Raids/English"
-    iconId: 26457
+    iconId: 26450
     markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p9s_mariokart.en.md
     notes: |
       This was preferred by English parties.
 
   - name: "Anabaseios: The Ninth Circle (Savage) - MarioKart"
     group: "6.0 Endwalker/Savage Raids/Japanese"
-    iconId: 26457
+    iconId: 26450
     markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p9s_mariokart.jp.md
     notes: |
       This was preferred by English parties.
 
   - name: "Anabaseios: The Ninth Circle (Savage) - Intercard"
     group: "6.0 Endwalker/Savage Raids/English"
-    iconId: 26457
+    iconId: 26450
     markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p9s_intercard.en.md
     notes: |
       This was preferred by Japanese parties.
 
   - name: "Anabaseios: The Ninth Circle (Savage) - Intercard"
     group: "6.0 Endwalker/Savage Raids/Japanese"
-    iconId: 26457
+    iconId: 26450
     markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p9s_intercard.jp.md
     notes: |
       This was preferred by Japanese parties.
 
   - name: "Anabaseios: The Tenth Circle (Savage)"
     group: "6.0 Endwalker/Savage Raids/English"
-    iconId: 26458
+    iconId: 26451
     markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p10s.en.md
 
   - name: "Anabaseios: The Tenth Circle (Savage)"
     group: "6.0 Endwalker/Savage Raids/Japanese"
-    iconId: 26458
+    iconId: 26451
     markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p10s.jp.md
 
   - name: "Anabaseios: The Eleventh Circle (Savage)"
     group: "6.0 Endwalker/Savage Raids/English"
-    iconId: 26459
+    iconId: 26452
     markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p11s.en.md
 
   - name: "Anabaseios: The Eleventh Circle (Savage)"
     group: "6.0 Endwalker/Savage Raids/Japanese"
-    iconId: 26459
+    iconId: 26452
     markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p11s.jp.md
 
   - name: "Anabaseios: The Twelfth Circle (Savage) - Part 1"
     group: "6.0 Endwalker/Savage Raids/English"
-    iconId: 26460
+    iconId: 26453
     markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p12s_1.en.md
 
   - name: "Anabaseios: The Twelfth Circle (Savage) - Part 1"
     group: "6.0 Endwalker/Savage Raids/Japanese"
-    iconId: 26460
+    iconId: 26453
     markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p12s_1.jp.md
 
   - name: "Anabaseios: The Twelfth Circle (Savage) - Part 2, Mochibe"
     group: "6.0 Endwalker/Savage Raids/English"
-    iconId: 26460
+    iconId: 26453
     markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p12s_2_mochibe.en.md
     notes: |
       This was preferred by Japanese parties.
 
   - name: "Anabaseios: The Twelfth Circle (Savage) - Part 2, Mochibe"
     group: "6.0 Endwalker/Savage Raids/Japanese"
-    iconId: 26460
+    iconId: 26453
     markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p12s_2_mochibe.jp.md
     notes: |
       This was preferred by Japanese parties.
 
   - name: "Anabaseios: The Twelfth Circle (Savage) - Part 2, Original Papan"
     group: "6.0 Endwalker/Savage Raids/English"
-    iconId: 26460
+    iconId: 26453
     markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p12s_2_papan.en.md
     notes: |
       This was preferred by English parties.
 
   - name: "Anabaseios: The Twelfth Circle (Savage) - Part 2, Original Papan"
     group: "6.0 Endwalker/Savage Raids/Japanese"
-    iconId: 26460
+    iconId: 26453
     markdownUrl: _raids/6.0_endwalker/savage_raids/macros/p12s_2_papan.jp.md
     notes: |
       This was preferred by English parties.
@@ -462,7 +462,7 @@ macros:
     group: "5.0 Shadowbringers/Extreme Trials/English"
     iconId: 26555
     markdownUrl: _raids/5.0_shadowbringers/extreme_trials/macros/titania.en.md
-  
+
   - name: "The Dancing Plague (Extreme)"
     group: "5.0 Shadowbringers/Extreme Trials/Japanese"
     iconId: 26555
@@ -472,7 +472,7 @@ macros:
     group: "5.0 Shadowbringers/Extreme Trials/English"
     iconId: 26587
     markdownUrl: _raids/5.0_shadowbringers/extreme_trials/macros/hades.en.md
-  
+
   - name: "The Minstrel's Ballad: Hades's Elegy"
     group: "5.0 Shadowbringers/Extreme Trials/Japanese"
     iconId: 26587
@@ -482,27 +482,27 @@ macros:
     group: "5.0 Shadowbringers/Extreme Trials/English"
     iconId: 26601
     markdownUrl: _raids/5.0_shadowbringers/extreme_trials/macros/ruby_weapon.en.md
-  
+
   - name: "Cinder Drift (Extreme)"
     group: "5.0 Shadowbringers/Extreme Trials/Japanese"
     iconId: 26601
     markdownUrl: _raids/5.0_shadowbringers/extreme_trials/macros/ruby_weapon.jp.md
-  
+
   - name: "Memoria Misera (Extreme)"
     group: "5.0 Shadowbringers/Extreme Trials/English"
-    iconId: 26638
+    iconId: 26541
     markdownUrl: _raids/5.0_shadowbringers/extreme_trials/macros/memoria_misera.en.md
-  
+
   - name: "Memoria Misera (Extreme)"
     group: "5.0 Shadowbringers/Extreme Trials/Japanese"
-    iconId: 26638
+    iconId: 26541
     markdownUrl: _raids/5.0_shadowbringers/extreme_trials/macros/memoria_misera.jp.md
 
   - name: "The Seat of Sacrifice (Extreme)"
     group: "5.0 Shadowbringers/Extreme Trials/English"
     iconId: 26606
     markdownUrl: _raids/5.0_shadowbringers/extreme_trials/macros/seat_of_sacrifice.en.md
-  
+
   - name: "The Seat of Sacrifice (Extreme)"
     group: "5.0 Shadowbringers/Extreme Trials/Japanese"
     iconId: 26606
@@ -512,7 +512,7 @@ macros:
     group: "5.0 Shadowbringers/Extreme Trials/English"
     iconId: 26611
     markdownUrl: _raids/5.0_shadowbringers/extreme_trials/macros/emerald_weapon.en.md
-  
+
   - name: "Castrum Marinum (Extreme)"
     group: "5.0 Shadowbringers/Extreme Trials/Japanese"
     iconId: 26611
@@ -522,7 +522,7 @@ macros:
     group: "5.0 Shadowbringers/Extreme Trials/English"
     iconId: 26614
     markdownUrl: _raids/5.0_shadowbringers/extreme_trials/macros/diamond_weapon.en.md
-  
+
   - name: "The Cloud Deck (Extreme)"
     group: "5.0 Shadowbringers/Extreme Trials/Japanese"
     iconId: 26614
@@ -534,153 +534,158 @@ macros:
 
   - name: "Eden's Gate: Resurrection (Savage)"
     group: "5.0 Shadowbringers/Savage Raids/English"
-    iconId: 26457
+    iconId: 26445
     markdownUrl: _raids/5.0_shadowbringers/savage_raids/macros/e1s.en.md
 
   - name: "Eden's Gate: Resurrection (Savage)"
     group: "5.0 Shadowbringers/Savage Raids/Japanese"
-    iconId: 26457
+    iconId: 26445
     markdownUrl: _raids/5.0_shadowbringers/savage_raids/macros/e1s.jp.md
 
   - name: "Eden's Gate: Descent (Savage)"
     group: "5.0 Shadowbringers/Savage Raids/English"
-    iconId: 26458
+    iconId: 26446
     markdownUrl: _raids/5.0_shadowbringers/savage_raids/macros/e2s.en.md
 
   - name: "Eden's Gate: Descent (Savage)"
     group: "5.0 Shadowbringers/Savage Raids/Japanese"
-    iconId: 26458
+    iconId: 26446
     markdownUrl: _raids/5.0_shadowbringers/savage_raids/macros/e2s.jp.md
 
   - name: "Eden's Gate: Inundation (Savage)"
     group: "5.0 Shadowbringers/Savage Raids/English"
-    iconId: 26459
+    iconId: 26447
     markdownUrl: _raids/5.0_shadowbringers/savage_raids/macros/e3s.en.md
 
   - name: "Eden's Gate: Inundation (Savage)"
     group: "5.0 Shadowbringers/Savage Raids/Japanese"
-    iconId: 26459
+    iconId: 26447
     markdownUrl: _raids/5.0_shadowbringers/savage_raids/macros/e3s.jp.md
 
   - name: "Eden's Gate: Sepulture (Savage) - Amaya"
     group: "5.0 Shadowbringers/Savage Raids/English"
-    iconId: 26460
+    iconId: 26448
     markdownUrl: _raids/5.0_shadowbringers/savage_raids/macros/e4s_amaya.en.md
 
   - name: "Eden's Gate: Sepulture (Savage) - Amaya"
     group: "5.0 Shadowbringers/Savage Raids/Japanese"
-    iconId: 26460
+    iconId: 26448
     markdownUrl: _raids/5.0_shadowbringers/savage_raids/macros/e4s_amaya.jp.md
 
   - name: "Eden's Gate: Sepulture (Savage) - Idyllshire"
     group: "5.0 Shadowbringers/Savage Raids/English"
-    iconId: 26460
+    iconId: 26448
     markdownUrl: _raids/5.0_shadowbringers/savage_raids/macros/e4s_idyll.en.md
 
   - name: "Eden's Gate: Sepulture (Savage) - Idyllshire"
     group: "5.0 Shadowbringers/Savage Raids/Japanese"
-    iconId: 26460
+    iconId: 26448
     markdownUrl: _raids/5.0_shadowbringers/savage_raids/macros/e4s_idyll.jp.md
 
   - name: "Eden's Verse: Fulmination (Savage)"
     group: "5.0 Shadowbringers/Savage Raids/English"
-    iconId: 26457
+    iconId: 26445
     markdownUrl: _raids/5.0_shadowbringers/savage_raids/macros/e5s.en.md
 
   - name: "Eden's Verse: Fulmination (Savage)"
     group: "5.0 Shadowbringers/Savage Raids/Japanese"
-    iconId: 26457
+    iconId: 26445
     markdownUrl: _raids/5.0_shadowbringers/savage_raids/macros/e5s.jp.md
 
   - name: "Eden's Verse: Furor (Savage)"
     group: "5.0 Shadowbringers/Savage Raids/English"
-    iconId: 26458
+    iconId: 26446
     markdownUrl: _raids/5.0_shadowbringers/savage_raids/macros/e6s.en.md
 
   - name: "Eden's Verse: Furor (Savage)"
     group: "5.0 Shadowbringers/Savage Raids/Japanese"
-    iconId: 26458
+    iconId: 26446
     markdownUrl: _raids/5.0_shadowbringers/savage_raids/macros/e6s.jp.md
 
   - name: "Eden's Verse: Iconoclasm (Savage)"
     group: "5.0 Shadowbringers/Savage Raids/English"
-    iconId: 26459
+    iconId: 26447
     markdownUrl: _raids/5.0_shadowbringers/savage_raids/macros/e7s.en.md
 
   - name: "Eden's Verse: Iconoclasm (Savage)"
     group: "5.0 Shadowbringers/Savage Raids/Japanese"
-    iconId: 26459
+    iconId: 26447
     markdownUrl: _raids/5.0_shadowbringers/savage_raids/macros/e7s.jp.md
 
   - name: "Eden's Verse: Refulgence (Savage)"
     group: "5.0 Shadowbringers/Savage Raids/English"
-    iconId: 26460
+    iconId: 26448
     markdownUrl: _raids/5.0_shadowbringers/savage_raids/macros/e8s.en.md
 
   - name: "Eden's Verse: Refulgence (Savage)"
     group: "5.0 Shadowbringers/Savage Raids/Japanese"
-    iconId: 26460
+    iconId: 26448
     markdownUrl: _raids/5.0_shadowbringers/savage_raids/macros/e8s.jp.md
 
   - name: "Eden's Promise: Umbra (Savage)"
     group: "5.0 Shadowbringers/Savage Raids/English"
-    iconId: 26457
+    iconId: 26445
     markdownUrl: _raids/5.0_shadowbringers/savage_raids/macros/e9s.en.md
 
   - name: "Eden's Promise: Umbra (Savage)"
     group: "5.0 Shadowbringers/Savage Raids/Japanese"
-    iconId: 26457
+    iconId: 26445
     markdownUrl: _raids/5.0_shadowbringers/savage_raids/macros/e9s.jp.md
 
   - name: "Eden's Promise: Litany (Savage)"
     group: "5.0 Shadowbringers/Savage Raids/English"
-    iconId: 26458
+    iconId: 26446
     markdownUrl: _raids/5.0_shadowbringers/savage_raids/macros/e10s.en.md
 
   - name: "Eden's Promise: Litany (Savage)"
     group: "5.0 Shadowbringers/Savage Raids/Japanese"
-    iconId: 26458
+    iconId: 26446
     markdownUrl: _raids/5.0_shadowbringers/savage_raids/macros/e10s.jp.md
 
   - name: "Eden's Promise: Anamorphosis (Savage)"
     group: "5.0 Shadowbringers/Savage Raids/English"
-    iconId: 26459
+    iconId: 26447
     markdownUrl: _raids/5.0_shadowbringers/savage_raids/macros/e11s.en.md
 
   - name: "Eden's Promise: Anamorphosis (Savage)"
     group: "5.0 Shadowbringers/Savage Raids/Japanese"
-    iconId: 26459
+    iconId: 26447
     markdownUrl: _raids/5.0_shadowbringers/savage_raids/macros/e11s.jp.md
 
   - name: "Eden's Promise: Eternity (Savage) - Part 1"
     group: "5.0 Shadowbringers/Savage Raids/English"
-    iconId: 26460
+    iconId: 26448
     markdownUrl: _raids/5.0_shadowbringers/savage_raids/macros/e12s_1.en.md
 
   - name: "Eden's Promise: Eternity (Savage) - Part 1"
     group: "5.0 Shadowbringers/Savage Raids/Japanese"
-    iconId: 26460
+    iconId: 26448
     markdownUrl: _raids/5.0_shadowbringers/savage_raids/macros/e12s_1.jp.md
 
   - name: "Eden's Promise: Eternity (Savage) - Part 2"
     group: "5.0 Shadowbringers/Savage Raids/English"
-    iconId: 26460
+    iconId: 26448
     markdownUrl: _raids/5.0_shadowbringers/savage_raids/macros/e12s_2.en.md
 
   - name: "Eden's Promise: Eternity (Savage) - Part 2"
     group: "5.0 Shadowbringers/Savage Raids/Japanese"
-    iconId: 26460
+    iconId: 26448
     markdownUrl: _raids/5.0_shadowbringers/savage_raids/macros/e12s_2.jp.md
 
   # ==========================
   # = Stormblood - EX trials =
   # ==========================
 
+  - name: "Emanation (Extreme)"
+    group: "4.0 Stormblood/Extreme Trials/Japanese"
+    iconId: 26511
+    markdownUrl: _raids/4.0_stormblood/extreme_trials/macros/lakshmi.jp.md
+
   - name: "The Minstrel's Ballad: Shinryu's Domain"
     group: "4.0 Stormblood/Extreme Trials/English"
     iconId: 26521
     markdownUrl: _raids/4.0_stormblood/extreme_trials/macros/shinryu.en.md
-  
+
   - name: "The Minstrel's Ballad: Shinryu's Domain"
     group: "4.0 Stormblood/Extreme Trials/Japanese"
     iconId: 26521
@@ -722,137 +727,137 @@ macros:
 
   - name: "Deltascape V1.0 (Savage)"
     group: "4.0 Stormblood/Savage Raids/Japanese"
-    iconId: 26457
+    iconId: 26430
     markdownUrl: _raids/4.0_stormblood/savage_raids/macros/o1s.jp.md
 
   - name: "Deltascape V2.0 (Savage)"
     group: "4.0 Stormblood/Savage Raids/Japanese"
-    iconId: 26458
+    iconId: 26431
     markdownUrl: _raids/4.0_stormblood/savage_raids/macros/o2s.jp.md
 
   - name: "Deltascape V3.0 (Savage)"
     group: "4.0 Stormblood/Savage Raids/English"
-    iconId: 26459
+    iconId: 26432
     markdownUrl: _raids/4.0_stormblood/savage_raids/macros/o3s.en.md
 
   - name: "Deltascape V3.0 (Savage)"
     group: "4.0 Stormblood/Savage Raids/Japanese"
-    iconId: 26459
+    iconId: 26432
     markdownUrl: _raids/4.0_stormblood/savage_raids/macros/o3s.jp.md
 
   - name: "Deltascape V4.0 (Savage) - Part 1"
     group: "4.0 Stormblood/Savage Raids/English"
-    iconId: 26460
+    iconId: 26433
     markdownUrl: _raids/4.0_stormblood/savage_raids/macros/o4s_1.en.md
 
   - name: "Deltascape V4.0 (Savage) - Part 1"
     group: "4.0 Stormblood/Savage Raids/Japanese"
-    iconId: 26460
+    iconId: 26433
     markdownUrl: _raids/4.0_stormblood/savage_raids/macros/o4s_1.jp.md
 
   - name: "Deltascape V4.0 (Savage) - Part 2"
     group: "4.0 Stormblood/Savage Raids/English"
-    iconId: 26460
+    iconId: 26433
     markdownUrl: _raids/4.0_stormblood/savage_raids/macros/o4s_2.en.md
 
   - name: "Deltascape V4.0 (Savage) - Part 2"
     group: "4.0 Stormblood/Savage Raids/Japanese"
-    iconId: 26460
+    iconId: 26433
     markdownUrl: _raids/4.0_stormblood/savage_raids/macros/o4s_2.jp.md
 
   - name: "Sigmascape V1.0 (Savage)"
     group: "4.0 Stormblood/Savage Raids/Japanese"
-    iconId: 26457
+    iconId: 26430
     markdownUrl: _raids/4.0_stormblood/savage_raids/macros/o5s.jp.md
 
   - name: "Sigmascape V2.0 (Savage)"
     group: "4.0 Stormblood/Savage Raids/English"
-    iconId: 26458
+    iconId: 26431
     markdownUrl: _raids/4.0_stormblood/savage_raids/macros/o6s.en.md
 
   - name: "Sigmascape V2.0 (Savage)"
     group: "4.0 Stormblood/Savage Raids/Japanese"
-    iconId: 26458
+    iconId: 26431
     markdownUrl: _raids/4.0_stormblood/savage_raids/macros/o6s.jp.md
 
   - name: "Sigmascape V3.0 (Savage)"
     group: "4.0 Stormblood/Savage Raids/English"
-    iconId: 26459
+    iconId: 26432
     markdownUrl: _raids/4.0_stormblood/savage_raids/macros/o7s.en.md
-  
+
   - name: "Sigmascape V3.0 (Savage)"
     group: "4.0 Stormblood/Savage Raids/Japanese"
-    iconId: 26459
+    iconId: 26432
     markdownUrl: _raids/4.0_stormblood/savage_raids/macros/o7s.jp.md
 
   - name: "Sigmascape V4.0 (Savage) - Part 1"
     group: "4.0 Stormblood/Savage Raids/English"
-    iconId: 26460
+    iconId: 26433
     markdownUrl: _raids/4.0_stormblood/savage_raids/macros/o8s_1.en.md
 
   - name: "Sigmascape V4.0 (Savage) - Part 1"
     group: "4.0 Stormblood/Savage Raids/Japanese"
-    iconId: 26460
+    iconId: 26433
     markdownUrl: _raids/4.0_stormblood/savage_raids/macros/o8s_1.jp.md
 
   - name: "Sigmascape V4.0 (Savage) - Part 2"
     group: "4.0 Stormblood/Savage Raids/English"
-    iconId: 26460
+    iconId: 26433
     markdownUrl: _raids/4.0_stormblood/savage_raids/macros/o8s_2.en.md
 
   - name: "Sigmascape V4.0 (Savage) - Part 2"
     group: "4.0 Stormblood/Savage Raids/Japanese"
-    iconId: 26460
+    iconId: 26433
     markdownUrl: _raids/4.0_stormblood/savage_raids/macros/o8s_2.jp.md
 
   - name: "Alphascape V1.0 (Savage)"
     group: "4.0 Stormblood/Savage Raids/English"
-    iconId: 26457
+    iconId: 26430
     markdownUrl: _raids/4.0_stormblood/savage_raids/macros/o9s.en.md
 
   - name: "Alphascape V1.0 (Savage)"
     group: "4.0 Stormblood/Savage Raids/Japanese"
-    iconId: 26457
+    iconId: 26430
     markdownUrl: _raids/4.0_stormblood/savage_raids/macros/o9s.jp.md
 
   - name: "Alphascape V2.0 (Savage)"
     group: "4.0 Stormblood/Savage Raids/English"
-    iconId: 26458
+    iconId: 26431
     markdownUrl: _raids/4.0_stormblood/savage_raids/macros/o10s.en.md
 
   - name: "Alphascape V2.0 (Savage)"
     group: "4.0 Stormblood/Savage Raids/Japanese"
-    iconId: 26458
+    iconId: 26431
     markdownUrl: _raids/4.0_stormblood/savage_raids/macros/o10s.jp.md
 
   - name: "Alphascape V3.0 (Savage)"
     group: "4.0 Stormblood/Savage Raids/English"
-    iconId: 26459
+    iconId: 26432
     markdownUrl: _raids/4.0_stormblood/savage_raids/macros/o11s.en.md
 
   - name: "Alphascape V3.0 (Savage)"
     group: "4.0 Stormblood/Savage Raids/Japanese"
-    iconId: 26459
+    iconId: 26432
     markdownUrl: _raids/4.0_stormblood/savage_raids/macros/o11s.jp.md
 
   - name: "Alphascape V4.0 (Savage) - Part 1"
     group: "4.0 Stormblood/Savage Raids/English"
-    iconId: 26460
+    iconId: 26433
     markdownUrl: _raids/4.0_stormblood/savage_raids/macros/o12s_1.en.md
-  
+
   - name: "Alphascape V4.0 (Savage) - Part 1"
     group: "4.0 Stormblood/Savage Raids/Japanese"
-    iconId: 26460
+    iconId: 26433
     markdownUrl: _raids/4.0_stormblood/savage_raids/macros/o12s_1.jp.md
 
   - name: "Alphascape V4.0 (Savage) - Part 2"
     group: "4.0 Stormblood/Savage Raids/English"
-    iconId: 26460
+    iconId: 26433
     markdownUrl: _raids/4.0_stormblood/savage_raids/macros/o12s_2.en.md
-  
+
   - name: "Alphascape V4.0 (Savage) - Part 2"
     group: "4.0 Stormblood/Savage Raids/Japanese"
-    iconId: 26460
+    iconId: 26433
     markdownUrl: _raids/4.0_stormblood/savage_raids/macros/o12s_2.jp.md
 
   # ===========================
@@ -861,57 +866,57 @@ macros:
 
   - name: "Thok ast Thok (Extreme)"
     group: "3.0 Heavensward/Extreme Trials/Japanese"
-    iconId: 26521
+    iconId: 21002
     markdownUrl: _raids/3.0_heavensward/extreme_trials/macros/ravana.jp.md
-  
+
   - name: "The Minstrel's Ballad: Thordan's Reign"
     group: "3.0 Heavensward/Extreme Trials/English"
-    iconId: 26521
+    iconId: 20956
     markdownUrl: _raids/3.0_heavensward/extreme_trials/macros/thordan.en.md
 
   - name: "The Minstrel's Ballad: Thordan's Reign"
     group: "3.0 Heavensward/Extreme Trials/Japanese"
-    iconId: 26521
+    iconId: 20956
     markdownUrl: _raids/3.0_heavensward/extreme_trials/macros/thordan.jp.md
 
   - name: "Containment Bay S1T7 (Extreme)"
     group: "3.0 Heavensward/Extreme Trials/English"
-    iconId: 26521
+    iconId: 21002
     markdownUrl: _raids/3.0_heavensward/extreme_trials/macros/sephirot.en.md
 
   - name: "Containment Bay S1T7 (Extreme)"
     group: "3.0 Heavensward/Extreme Trials/Japanese"
-    iconId: 26521
+    iconId: 21002
     markdownUrl: _raids/3.0_heavensward/extreme_trials/macros/sephirot.jp.md
 
   - name: "The Minstrel's Ballad: Nidhogg's Rage"
     group: "3.0 Heavensward/Extreme Trials/English"
-    iconId: 26521
+    iconId: 21002
     markdownUrl: _raids/3.0_heavensward/extreme_trials/macros/nidhogg.en.md
 
   - name: "The Minstrel's Ballad: Nidhogg's Rage"
     group: "3.0 Heavensward/Extreme Trials/Japanese"
-    iconId: 26521
+    iconId: 21002
     markdownUrl: _raids/3.0_heavensward/extreme_trials/macros/nidhogg.jp.md
 
   - name: "Containment Bay P1T6 (Extreme)"
     group: "3.0 Heavensward/Extreme Trials/English"
-    iconId: 26521
+    iconId: 21002
     markdownUrl: _raids/3.0_heavensward/extreme_trials/macros/sophia.en.md
 
   - name: "Containment Bay P1T6 (Extreme)"
     group: "3.0 Heavensward/Extreme Trials/Japanese"
-    iconId: 26521
+    iconId: 21002
     markdownUrl: _raids/3.0_heavensward/extreme_trials/macros/sophia.jp.md
 
   - name: "Containment Bay Z1T9 (Extreme)"
     group: "3.0 Heavensward/Extreme Trials/English"
-    iconId: 26521
+    iconId: 21002
     markdownUrl: _raids/3.0_heavensward/extreme_trials/macros/zurvan.en.md
 
   - name: "Containment Bay Z1T9 (Extreme)"
     group: "3.0 Heavensward/Extreme Trials/Japanese"
-    iconId: 26521
+    iconId: 21002
     markdownUrl: _raids/3.0_heavensward/extreme_trials/macros/zurvan.jp.md
 
   # ==============================
@@ -920,72 +925,72 @@ macros:
 
   - name: "Alexander - The Arm of the Father (Savage)"
     group: "3.0 Heavensward/Savage Raids/English"
-    iconId: 26459
+    iconId: 26156
     markdownUrl: _raids/3.0_heavensward/savage_raids/macros/a3s.en.md
 
   - name: "Alexander - The Arm of the Father (Savage)"
     group: "3.0 Heavensward/Savage Raids/Japanese"
-    iconId: 26459
+    iconId: 26156
     markdownUrl: _raids/3.0_heavensward/savage_raids/macros/a3s.jp.md
 
   - name: "Alexander - The Burden of the Father (Savage)"
     group: "3.0 Heavensward/Savage Raids/Japanese"
-    iconId: 26460
+    iconId: 26160
     markdownUrl: _raids/3.0_heavensward/savage_raids/macros/a4s.jp.md
 
   - name: "Alexander - The Fist of the Son (Savage)"
     group: "3.0 Heavensward/Savage Raids/Japanese"
-    iconId: 26457
+    iconId: 26196
     markdownUrl: _raids/3.0_heavensward/savage_raids/macros/a5s.jp.md
 
   - name: "Alexander - The Cuff of the Son (Savage)"
     group: "3.0 Heavensward/Savage Raids/Japanese"
-    iconId: 26458
+    iconId: 26197
     markdownUrl: _raids/3.0_heavensward/savage_raids/macros/a6s.jp.md
 
   - name: "Alexander - The Arm of the Son (Savage)"
     group: "3.0 Heavensward/Savage Raids/Japanese"
-    iconId: 26459
+    iconId: 26198
     markdownUrl: _raids/3.0_heavensward/savage_raids/macros/a7s.jp.md
 
   - name: "Alexander - The Burden of the Son (Savage)"
     group: "3.0 Heavensward/Savage Raids/English"
-    iconId: 26460
+    iconId: 26199
     markdownUrl: _raids/3.0_heavensward/savage_raids/macros/a8s.en.md
 
   - name: "Alexander - The Burden of the Son (Savage)"
     group: "3.0 Heavensward/Savage Raids/Japanese"
-    iconId: 26460
+    iconId: 26199
     markdownUrl: _raids/3.0_heavensward/savage_raids/macros/a8s.jp.md
 
   - name: "Alexander - The Eyes of the Creator (Savage)"
     group: "3.0 Heavensward/Savage Raids/Japanese"
-    iconId: 26457
+    iconId: 26426
     markdownUrl: _raids/3.0_heavensward/savage_raids/macros/a9s.jp.md
 
   - name: "Alexander - The Breath of the Creator (Savage)"
     group: "3.0 Heavensward/Savage Raids/Japanese"
-    iconId: 26458
+    iconId: 26427
     markdownUrl: _raids/3.0_heavensward/savage_raids/macros/a10s.jp.md
 
   - name: "Alexander - The Heart of the Creator (Savage)"
     group: "3.0 Heavensward/Savage Raids/English"
-    iconId: 26459
+    iconId: 26428
     markdownUrl: _raids/3.0_heavensward/savage_raids/macros/a11s.en.md
 
   - name: "Alexander - The Heart of the Creator (Savage)"
     group: "3.0 Heavensward/Savage Raids/Japanese"
-    iconId: 26459
+    iconId: 26428
     markdownUrl: _raids/3.0_heavensward/savage_raids/macros/a11s.jp.md
-  
+
   - name: "Alexander - The Soul of the Creator (Savage)"
     group: "3.0 Heavensward/Savage Raids/English"
-    iconId: 26460
+    iconId: 26429
     markdownUrl: _raids/3.0_heavensward/savage_raids/macros/a12s.en.md
 
   - name: "Alexander - The Soul of the Creator (Savage)"
     group: "3.0 Heavensward/Savage Raids/Japanese"
-    iconId: 26460
+    iconId: 26429
     markdownUrl: _raids/3.0_heavensward/savage_raids/macros/a12s.jp.md
 
   # ==============================
@@ -994,50 +999,50 @@ macros:
 
   - name: "The Howling Eye (Extreme)"
     group: "2.0 A Realm Reborn/Extreme Trials/Japanese"
-    iconId: 26555
+    iconId: 25901
     markdownUrl: _raids/2.0_a_realm_reborn/extreme_trials/macros/garuda.jp.md
 
   - name: "The Navel (Extreme)"
     group: "2.0 A Realm Reborn/Extreme Trials/English"
-    iconId: 26587
+    iconId: 21206
     markdownUrl: _raids/2.0_a_realm_reborn/extreme_trials/macros/titan.en.md
 
   - name: "The Navel (Extreme)"
     group: "2.0 A Realm Reborn/Extreme Trials/Japanese"
-    iconId: 26587
+    iconId: 21206
     markdownUrl: _raids/2.0_a_realm_reborn/extreme_trials/macros/titan.jp.md
 
   - name: "The Bowl of Embers (Extreme)"
     group: "2.0 A Realm Reborn/Extreme Trials/Japanese"
-    iconId: 26601
+    iconId: 22205
     markdownUrl: _raids/2.0_a_realm_reborn/extreme_trials/macros/ifrit.jp.md
 
   - name: "Thornmarch (Extreme)"
     group: "2.0 A Realm Reborn/Extreme Trials/Japanese"
-    iconId: 26638
+    iconId: 21002
     markdownUrl: _raids/2.0_a_realm_reborn/extreme_trials/macros/thornmarch.jp.md
 
   - name: "The Minstrel's Ballad: Ultima's Bane"
     group: "2.0 A Realm Reborn/Extreme Trials/English"
-    iconId: 26606
+    iconId: 26532
     markdownUrl: _raids/2.0_a_realm_reborn/extreme_trials/macros/ultima_weapon.en.md
 
   - name: "The Minstrel's Ballad: Ultima's Bane"
     group: "2.0 A Realm Reborn/Extreme Trials/Japanese"
-    iconId: 26606
+    iconId: 26532
     markdownUrl: _raids/2.0_a_realm_reborn/extreme_trials/macros/ultima_weapon.jp.md
 
   - name: "The Striking Tree (Extreme)"
     group: "2.0 A Realm Reborn/Extreme Trials/Japanese"
-    iconId: 26611
+    iconId: 21265
     markdownUrl: _raids/2.0_a_realm_reborn/extreme_trials/macros/ramuh.jp.md
 
   - name: "Akh Afah Amphitheatre (Extreme)"
     group: "2.0 A Realm Reborn/Extreme Trials/English"
-    iconId: 26614
+    iconId: 20003
     markdownUrl: _raids/2.0_a_realm_reborn/extreme_trials/macros/shiva.en.md
 
   - name: "Akh Afah Amphitheatre (Extreme)"
     group: "2.0 A Realm Reborn/Extreme Trials/Japanese"
-    iconId: 26614
+    iconId: 20003
     markdownUrl: _raids/2.0_a_realm_reborn/extreme_trials/macros/shiva.jp.md
