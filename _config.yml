@@ -1,4 +1,4 @@
-remote_theme: just-the-docs/just-the-docs@v0.4.0.rc4
+remote_theme: just-the-docs/just-the-docs@v0.9.0
 
 plugins:
   - jekyll-seo-tag
@@ -17,6 +17,7 @@ aux_links:
     - "https://github.com/Tuufless/FFXIV-Elemental-raid-macros"
 
 aux_links_new_tab: true
+nav_external_links_new_tab: true
 
 enable_copy_code_button: true
 
