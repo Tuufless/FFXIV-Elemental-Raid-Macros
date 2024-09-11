@@ -217,7 +217,8 @@ the furthest apart from each other.
       <ul>
         <li><b>The east/west Doomed players will bait the circle marks by 
         being the two Doomed players furthest from one another.</b></li>
-        <li>The two other Doomed players take up position towards SW and SE.</li>
+        <li>The NW Doom player takes up position towards the SW, and the NE
+        Doom player takes up position towards the SE.</li>
       </ul>
       <p><b>Non-Doomed players:</b></p>
       <ul>
