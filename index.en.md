@@ -47,9 +47,10 @@ The current item level cap is **iLvl 735**.
 
 ## Macro Mate
 
-PC players can use the **Macro Mate** Dalamud plugin to sync to all the macros
-from this website. *(This is a third-party tool and goes against the Terms of
-Service, so use at your own risk.)*
+PC players with the [custom XIVLauncher](https://goatcorp.github.io/) can use
+the **Macro Mate** plugin to sync to all the macros from this website. *(This
+is a third-party tool and goes against the Terms of Service, so use at your own
+risk.)*
 
 Download and install the **Macro Mate** plugin, select "New" then
 "Subscription", and enter the following URL:
