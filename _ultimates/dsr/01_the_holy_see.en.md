@@ -251,5 +251,27 @@ attacks Thordan, or you will restart from this phase.
 </table>
 </details>
 
+## Troubleshooting
+
+<details markdown=block>
+<summary>
+  <b>[Playstation]</b> Why aren't the chains breaking?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>The chains break when they are stretched beyond an additional distance
+      from their <em>original</em> length. That is to say, if the two chained
+      players start far apart, then the chain needs to be stretched longer for
+      it to break (so starting further out, then coming in after the chains
+      spawn for the knockback doesn't work).</p>
+      <p>The knockback distance alone also isn't enough to break the chain- all
+      players should <b>also move a bit further out towards the edges after the
+      knockback</b> to ensure the chains break.</p>
+    </td>
+  </tr>
+</table>
+</details>
+
 <script data-goatcounter="https://tuufless.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
