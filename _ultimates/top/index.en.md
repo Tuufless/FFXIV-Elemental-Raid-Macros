@@ -26,6 +26,7 @@ Elemental's TOP PF strat can be broken down as follows:
 
 - The Omega Protocal has **not** been outgeared yet.
     - BiS will be a mix of i630 gear, and i635 gear from The Lunar Subterrane.
+    - Substats-wise, melded i635 > melded i630 > i730 > i720 > i710 >>> i660.
 
 Looking towards the future:
 
