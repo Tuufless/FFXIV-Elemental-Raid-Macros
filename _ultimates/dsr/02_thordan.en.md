@@ -36,54 +36,120 @@ have Holmgang back up in time.</div>
 <table>
   <tr>
     <td width="50%">
-      <p><b>1.</b> Light party spreads.</p>
+      <p><b>1.</b> Three knights will appear at three random (inter)cardinal
+      positions outside of the arena. Each knight will also preparing a
+      <em>Spiral Thrust</em> line dash across the arena. These line
+      AoEs will never overlap one another, leaving just two safe sectors at
+      opposite cardinal/intercardinal positions.</p>
+      <p>The party needs to spread out inside these two safe sectors, as
+      Thordan is also targeting each player with a <em>Lightning Storm</em>
+      point-blank AoE.</p>
+      <ul>
+        <li><b>MT group:</b> Take the sector from West to North-East.</li>
+        <li><b>ST group:</b> Take the sector from South-West to East.</li>
+      </ul>
       <p>Healers are in front to allow them to dodge into the upcoming Heavy
       Impact early. This then lets them cast an additional GCD heal without
       using Swiftcast.</p>
+      <p>Ser Guerrique (a WAR) will also spawn a little away from the center
+      of the arena at a random (inter)cardinal position, and prepare <em>Heavy
+      Impact</em>.</p>
+      <p>Take note of where Ser Guerrique is relative to your position.</p>
     </td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/02/strength_of_the_ward_1_1.jpg"></td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/dsr/02/strength_of_the_ward_1_1.jpg">
+    </td>
   </tr>
   <tr>
-    <td><p><b>2.</b> Heavy Impact boundaries.</p></td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/02/strength_of_the_ward_1_2.jpg"></td>
+    <td>
+      <p><b>2.</b> <em>Heavy Impact</em>'s first hit resolves together with 
+      he three <em>Spiral Thrusts</em> resolve together with <em>Lightning
+      Storm</em>.</p>
+      <p>The <em>Heavy Impact</em>'s AoE will continue to ripple outwards (shown
+      in subsequent diagrams).</p>
+      <p>The goal from here is to <b>get to the center of the arena</b> while dodging
+      the <em>Heavy Impact</em>.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/dsr/02/strength_of_the_ward_1_2.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>3.</b> <em>Heavy Impact</em>'s second hit.</p>
+      <p>At this time, four knights will appear. In particular, <em>two</em> 
+      knights will appear towards the center of the arena (90 degrees apart).
+      Pay attention to where these two knights are, as they will be used for
+      orientation in the second part.</p>
+      <p>The other knights can be ignored.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/dsr/02/strength_of_the_ward_1_3.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>4.</b> <em>Heavy Impact</em>'s third hit.</p>
+      <p>The party should be near the center at this point. Stack together in
+      two groups opposite each other to bait a set of <em>Ascalon's Mercy
+      Concealed</em> from Thordan in the center.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/dsr/02/strength_of_the_ward_1_4.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>5.</b> <em>Heavy Impact</em>'s fourth hit resolves together with
+      <em>Ascalon's Mercy Concealed</em>.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/dsr/02/strength_of_the_ward_1_5.jpg">
+    </td>
   </tr>
 </table>
 
-Note that players on the back row can simply run forward to naturally dodge the
-Heavy Impacts as long as Ser Guerrique is not on one of the three closer positions.
+This first part will take a bit of practice, as there's quite a lot to take in.
 
-- [Furthest Heavy Impact](https://clips.twitch.tv/GrotesqueDignifiedSkunkLitty-9twQOEUJM1i_Gca7)
-- [Far Heavy Impact](https://clips.twitch.tv/FineTubularDelicataRiPepperonis-d5-AO5H6wUfRwd4H)
-- [Middle Heavy Impact](https://clips.twitch.tv/AmusedCautiousFiddleheadsPanicVis-cs5131laAWRwlEkg)
-- [Near Heavy Impact](https://clips.twitch.tv/SecretiveUnsightlyBorkRitzMitz-xUIR65ezwTfJOZL3)
-- [Nearest Heavy Impact](https://clips.twitch.tv/RelatedPiercingGrasshopperOMGScoots-iqC09dukfOnorski)
-
-As you are dodging the Heavy Impact, locate the two knights towards the center
-of the arena.
-
-These knights indicate the orientation of the map for the next part of Strength
-of the Ward, and will always spawn "southwest" and "southeast".
-
-![]({{site.baseurl}}/images/ultimates/dsr/02/strength_orientation.jpg)
-
-Thordan will do another Ascalon's Mercy Concealed that locks on each player's
-position at the fourth Heavy Impact.
-
-Dodge the Ascalon's Mercy Concealed, and orientate yourself to the new "North"
-as indicated by the two knights.
+<table>
+  <tr>
+    <td width="50%">
+      <p>To help, these are the boundaries for each <em>Heavy Impact</em> hit.</p>
+      <p>In addition, players on the back row can dodge the <em>Heavy Impact</em>
+      by simply running forward as long as Ser Guerrique is not on one of the
+      three close positions.</p>
+      <ul>
+        <li><a href="https://clips.twitch.tv/GrotesqueDignifiedSkunkLitty-9twQOEUJM1i_Gca7">Furthest Heavy Impact</a></li>
+        <li><a href="https://clips.twitch.tv/FineTubularDelicataRiPepperonis-d5-AO5H6wUfRwd4H">Far Heavy Impact</a></li>
+        <li><a href="https://clips.twitch.tv/AmusedCautiousFiddleheadsPanicVis-cs5131laAWRwlEkg">Middle Heavy Impact</a></li>
+        <li><a href="https://clips.twitch.tv/SecretiveUnsightlyBorkRitzMitz-xUIR65ezwTfJOZL3">Near Heavy Impact</a></li>
+        <li><a href="https://clips.twitch.tv/RelatedPiercingGrasshopperOMGScoots-iqC09dukfOnorski">Nearest Heavy Impact</a></li>
+      </ul>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/dsr/02/strength_of_the_ward_heavy_impact.jpg">
+    </td>
+  </tr>
+</table>
 
 ### Part 2
 
-After dodging the Heavy Impact and Ascalon's Mercy Concealed, orientate
-yourself such that Thordan is north.
+The two knights that spawned towards the middle of the arena earlier orient the
+map for the next part of *Strength of the Ward*. We consider the two knights
+as "southwest" and "southeast".
+
+![]({{site.baseurl}}/images/ultimates/dsr/02/strength_orientation.jpg)
+
+This is because Thordan will teleport to "north", relative to these two
+knights.
 
 <table>
   <tr>
     <td width="50%">
       <p><b>1.</b> Using <b>Thordan as north</b>:</p>
       <ul>
-        <li>Three (non-tanks) will be targeted with blue <em>Skyward Leap</em>
-        markers. These players go west, east, and south.</li>
+        <li>Three random (non-tanks) will be targeted with blue <em>Skyward
+        Leap</em> markers. These players go west, east, and south.</li>
         <li>The other three (non-tanks) go north towards Thordan.
           <ul>
             <li>Two of these players will shortly be tethered to by the two
@@ -95,29 +161,45 @@ yourself such that Thordan is north.
         <li>The two tanks need to take the two tethers, and criss-cross them.</li>
       </ul>
     </td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/02/strength_of_the_ward_2_1.jpg"></td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/dsr/02/strength_of_the_ward_2_1.jpg">
+    </td>
   </tr>
   <tr>
-    <td><b>2.</b> To help communicate who will take which tower, the three
-    (non-tanks) at Thordan will briefly spread to communicate which tower they
-    will take <b>before collapsing together in the middle for the stack.</b></td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/02/strength_towers.jpg"></td>
+    <td>
+      <p><b>2.</b> To help communicate who will take which tower, the three
+      (non-tanks) at Thordan will briefly spread to communicate which tower they
+      will take <b>before collapsing together in the middle for the stack.</b></p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/dsr/02/strength_towers.jpg">
+    </td>
   </tr>
   <tr>
-    <td><p><b>3.</b> AoEs resolve.</p>
-    <ul>
-      <li>Each of the three blue-marked players will have a giant <em>Skyward
-      Leap</em> AoE centered on them. Take care not to hit the tanks with these.</li>
-      <li><em>The Dragon's Rage</em> resolves, which should be split between
-      the three unmarked players and the two tanks.</li>
-      <li>The two tanks will each be hit by <em>Holy Shield Bash</em>.</li>
-    </ul></td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/02/strength_of_the_ward_2_2.jpg"></td>
+    <td>
+      <p><b>3.</b> AoEs resolve.</p>
+      <ul>
+        <li>Each of the three blue-marked players will have a giant <em>Skyward
+        Leap</em> AoE centered on them. Take care not to hit the tanks with
+        these.</li>
+        <li><em>The Dragon's Rage</em> resolves, which should be split between
+        the three unmarked players and the two tanks.</li>
+        <li>The two tanks will each be hit by <em>Holy Shield Bash</em>.</li>
+      </ul>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/dsr/02/strength_of_the_ward_2_2.jpg">
+    </td>
   </tr>
   <tr>
-    <td><p><b>4.</b> The two tanks will be stunned and hit with <em>Holy
-    Bladedance</em>.</p><p>All other players enter their towers.</p></td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/02/strength_of_the_ward_2_3.jpg"></td>
+    <td>
+      <p><b>4.</b> The two tanks will be stunned and hit with <em>Holy
+      Bladedance</em>.</p>
+      <p>All other players enter their towers.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/dsr/02/strength_of_the_ward_2_3.jpg">
+    </td>
   </tr>
 </table>
 
