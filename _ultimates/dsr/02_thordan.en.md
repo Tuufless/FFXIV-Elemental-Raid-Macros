@@ -54,7 +54,7 @@ have Holmgang back up in time.</div>
       <p>Ser Guerrique (a WAR) will also spawn a little away from the center
       of the arena at a random (inter)cardinal position, and prepare <em>Heavy
       Impact</em>.</p>
-      <p>Take note of where Ser Guerrique is relative to your position.</p>
+      <p><b>Take note of where Ser Guerrique is relative to your position.</b></p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/dsr/02/strength_of_the_ward_1_1.jpg">
@@ -822,6 +822,23 @@ serves as the hard enrage for this phase.
 ---
 
 ## Troubleshooting
+
+<details markdown=block>
+<summary>
+  <b>[Strength of the Ward]</b> I can't identify the two safe sectors fast
+  enough!
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>It's much easier to identify the two safe sectors from the edge of the
+      arena, as opposed to towards the center.</p>
+      <p>When Thordan jumps away, move towards the edge of the arena to get a
+      wide vantage over the whole arena.</p>
+    </td>
+  </tr>
+</table>
+</details>
 
 <details markdown=block>
 <summary>
