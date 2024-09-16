@@ -76,10 +76,11 @@ have Holmgang back up in time.</div>
   </tr>
   <tr>
     <td>
-      <p><b>3.</b> <em>Heavy Impact</em>'s second hit.</p>
-      <p>At this time, four knights will appear. In particular, <em>two</em> 
-      knights will appear towards the center of the arena (90 degrees apart).
-      Pay attention to where these two knights are, as they will be used for
+      <p><b>3.</b> <em>Heavy Impact</em>'s second hit. At this time, four
+      knights will appear.</p>
+      <p>In particular, <b>two knights will appear towards the center of the
+      arena</b> (90 degrees apart).</p>
+      <p>Pay attention to where these two knights are, as they will be used for
       orientation in the second part.</p>
       <p>The other knights can be ignored.</p>
     </td>
