@@ -680,6 +680,22 @@ serves as the hard enrage for this phase.
 
 <details markdown=block>
 <summary>
+  <b>[Strength of the Ward]</b> Why do we criss-cross the tank tethers?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>Just like in P1, <em>Holy Shield Bash</em> deals damage based on how
+      long the tether is, with lesser damage being dealt as the tether gets
+      longer.</p>
+      <p>Criss-crossing the tethers minimises the damage dealt.</p>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
   <b>[Sanctity of the Ward]</b> Why is there a need for a role swap? Aren't
   there simpler strategies?
 </summary>
@@ -835,6 +851,30 @@ serves as the hard enrage for this phase.
       arena, as opposed to towards the center.</p>
       <p>When Thordan jumps away, move towards the edge of the arena to get a
       wide vantage over the whole arena.</p>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
+  <b>[Strength of the Ward]</b> The tanks are having trouble taking the tethers
+  and making it to the safe spot in time without using <em>Sprint</em>!
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>It may make sense for the tanks to stand right next to the knights to
+      take the tethers, however, the problem is that they have a long distance
+      to cover to reach their final position to criss-cross the tethers.</p>
+      <p>While you <em>can</em> use <em>Sprint</em> to help with this, an
+      easier method is to stand towards North instead of besides the knight.</p>
+      <p>Because the tethers initially tether to two players that are not
+      targeted by <em>Skyward Leap</em>, the players with the tethers will be
+      heading north anyway, and the tanks can let the players bring the tethers
+      to them instead.</p>
+      <p>This lets the tanks stay near their final positions, reducing the
+      distance they have to travel.</p>
     </td>
   </tr>
 </table>
