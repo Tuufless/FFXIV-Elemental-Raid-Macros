@@ -183,7 +183,8 @@ when they resolve.
         <em>Flamethrower</em>, <em>Meditate</em>, or <em>Improvisation</em>,
         it <b>does not</b> count as movement.</li>
       </ul>
-      <p>Three players will get this.</p></td>
+      <p>Three players will get the indicators, although the mechanic applies
+      to the whole party.</p></td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/tea/04/fate_calibration_alpha/ordained_stillness.jpg">
     </td>
@@ -203,7 +204,8 @@ when they resolve.
         <em>Flamethrower</em>, <em>Meditate</em>, or <em>Improvisation</em>, it 
         <b>does not</b> count as movement.</li>
       </ul>
-      <p>Three players will get this.</p>
+      <p>Three players will get the indicators, although the mechanic applies
+      to the whole party.</p>
       <p>You can either wiggle your character around, <em>or</em> continually 
       jump up and down to trigger movement.</p>
       <div style="background-color: #200; padding: 10px; border: 1px solid;">
