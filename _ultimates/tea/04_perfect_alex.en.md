@@ -459,7 +459,8 @@ are the ones marked in red:
   </tr>
 </table>
 
-Note that there will *always* be an available 3-to-1 dodge.
+Note that there will *always* be an available 3-to-1 dodge, and the party will
+*never* dodge diagonally.
 
 1. Look at the first set of telegraphs. This is where you will *end*.
 2. Find the telegraph in the third set that is adjacent to the telegraph in the
