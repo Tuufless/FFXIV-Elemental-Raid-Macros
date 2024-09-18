@@ -217,8 +217,8 @@ of Dynamis, and four players with two stacks of Dynamis.
 
 ### Sigma Automarkers
 
-It is common practice to use Automarkers to assign player positions to resolve
-*Hello, Near World* and *Hello, Distant World*.
+It is common practice in Elemental DC to use Automarkers to assign player
+positions to resolve *Hello, Near World* and *Hello, Distant World*.
 
 <table>
   <tr>

@@ -235,8 +235,8 @@ Like Blue Screen, Omega-F **must** be brought to under 20% HP by the end of
 
 ### Omega Automarkers
 
-Like Sigma, It is common practice to use Automarkers to assign player positions
-to resolve *Hello, Near World* and *Hello, Distant World*.
+Like Sigma, It is common practice in Elemental DC to use Automarkers to assign
+player positions to resolve *Hello, Near World* and *Hello, Distant World*.
 
 <table>
   <tr>
