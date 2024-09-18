@@ -304,8 +304,8 @@ The easiest way to resolve this is to preposition in pairs at each tower:
         <li>
           <b>MT:</b>
           <ol>
-            <li><b>MT</b> tower (NW) has 1 pip → <b>Move</b>.</li>
-            <li>CW tower has more than 2 → <b>Rotate CW</b></li>
+            <li><b>MT</b> tower (NW) has 1 pip → Move.</li>
+            <li>CW tower has more than 2 → <b>Go CW</b>.</li>
           </ol>
         </li>
         <li>
@@ -323,8 +323,8 @@ The easiest way to resolve this is to preposition in pairs at each tower:
         <li>
           <b>D2:</b>
           <ol>
-            <li>Own tower (SE) has 1 pip → <b>Move</b>.</li>
-            <li>CW tower has more than 2 → <b>Rotate CW</b></li>
+            <li>Own tower (SE) has 1 pip → Move.</li>
+            <li>CW tower has more than 2 → <b>Go CW</b></li>
           </ol>
         </li>
       </ul>
@@ -342,8 +342,8 @@ The easiest way to resolve this is to preposition in pairs at each tower:
         <li>
           <b>MT:</b>
           <ol>
-            <li><b>MT</b> tower (NW) has 1 pip → <b>Move</b>.</li>
-            <li>CW tower has more than 2 → <b>Rotate CW</b></li>
+            <li><b>MT</b> tower (NW) has 1 pip → Move.</li>
+            <li>CW tower has more than 2 → <b>Go CW</b>.</li>
           </ol>
         </li>
         <li>
@@ -361,9 +361,9 @@ The easiest way to resolve this is to preposition in pairs at each tower:
         <li>
           <b>D2:</b>
           <ol>
-            <li>Own tower (SE) has 1 pip → <b>Move</b>.</li>
-            <li>CW tower has 2 pips → <b>Don't go CW</b></li>
-            <li>CCW tower has more than 2 → <b>Rotate CCW</b></li>
+            <li>Own tower (SE) has 1 pip → Move.</li>
+            <li>CW tower has 2 pips → Don't go CW.</li>
+            <li>CCW tower has more than 2 → <b>Go CCW</b>.</li>
           </ol>
         </li>
       </ul>
@@ -400,9 +400,9 @@ The easiest way to resolve this is to preposition in pairs at each tower:
         <li>
           <b>D2:</b>
           <ol>
-            <li>Own tower (SE) has 1 pip → <b>Move</b>.</li>
-            <li>CW tower has 2 pips → <b>Don't go CW</b>.</li>
-            <li>CCW tower has 2 pips → <b>Don't go CCW</b>.</li>
+            <li>Own tower (SE) has 1 pip → Move.</li>
+            <li>CW tower has 2 pips → Don't go CW.</li>
+            <li>CCW tower has 2 pips → Don't go CCW.</li>
             <li><b>Move diagonally across</b>.</li>
           </ol>
         </li>
