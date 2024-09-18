@@ -304,31 +304,27 @@ The easiest way to resolve this is to preposition in pairs at each tower:
         <li>
           <b>MT:</b>
           <ol>
-            <li><b>MT</b> tower (NW) has 1 pip.</li>
-            <li>CW tower has more than 2</li>
-            <li><b>Rotate CW</b></li>
+            <li><b>MT</b> tower (NW) has 1 pip → <b>Move</b>.</li>
+            <li>CW tower has more than 2 → <b>Rotate CW</b></li>
           </ol>
         </li>
         <li>
           <b>ST:</b>
           <ol>
-            <li>Own tower (NE) has 2 or more pips.</li>
-            <li><b>Stay</b></li>
+            <li>Own tower (NE) has 2 or more pips → <b>Stay</b>.</li>
           </ol>
         </li>
         <li>
           <b>D1:</b>
           <ol>
-            <li>Own tower (SW) has 2 or more pips.</li>
-            <li><b>Stay</b></li>
+            <li>Own tower (SW) has 2 or more pips → <b>Stay</b>.</li>
           </ol>
         </li>
         <li>
           <b>D2:</b>
           <ol>
-            <li>Own tower (SE) has 1 pip.</li>
-            <li>CW tower has more than 2</li>
-            <li><b>Rotate CW</b></li>
+            <li>Own tower (SE) has 1 pip → <b>Move</b>.</li>
+            <li>CW tower has more than 2 → <b>Rotate CW</b></li>
           </ol>
         </li>
       </ul>
@@ -346,32 +342,28 @@ The easiest way to resolve this is to preposition in pairs at each tower:
         <li>
           <b>MT:</b>
           <ol>
-            <li><b>MT</b> tower (NW) has 1 pip.</li>
-            <li>CW tower has more than 2</li>
-            <li><b>Rotate CW</b></li>
+            <li><b>MT</b> tower (NW) has 1 pip → <b>Move</b>.</li>
+            <li>CW tower has more than 2 → <b>Rotate CW</b></li>
           </ol>
         </li>
         <li>
           <b>ST:</b>
           <ol>
-            <li>Own tower (NE) has 2 or more pips.</li>
-            <li><b>Stay</b></li>
+            <li>Own tower (NE) has 2 or more pips → <b>Stay</b>.</li>
           </ol>
         </li>
         <li>
           <b>D1:</b>
           <ol>
-            <li>Own tower (SW) has 2 or more pips.</li>
-            <li><b>Stay</b></li>
+            <li>Own tower (SW) has 2 or more pips → <b>Stay</b>.</li>
           </ol>
         </li>
         <li>
           <b>D2:</b>
           <ol>
-            <li>Own tower (SE) has 1 pip.</li>
-            <li>CW tower has 2 pips</li>
-            <li>CCW tower has more than 2</li>
-            <li><b>Rotate CCW</b></li>
+            <li>Own tower (SE) has 1 pip → <b>Move</b>.</li>
+            <li>CW tower has 2 pips → <b>Don't go CW</b></li>
+            <li>CCW tower has more than 2 → <b>Rotate CCW</b></li>
           </ol>
         </li>
       </ul>
@@ -390,32 +382,28 @@ The easiest way to resolve this is to preposition in pairs at each tower:
         <li>
           <b>MT:</b>
           <ol>
-            <li>Own tower (NE) has 2 or more pips.</li>
-            <li><b>Stay</b></li>
+            <li>Own tower (NE) has 2 or more pips → <b>Stay</b>.</li>
           </ol>
         </li>
         <li>
           <b>ST:</b>
           <ol>
-            <li>Own tower (NE) has 2 or more pips.</li>
-            <li><b>Stay</b></li>
+            <li>Own tower (NE) has 2 or more pips → <b>Stay</b>.</li>
           </ol>
         </li>
         <li>
           <b>D1:</b>
           <ol>
-            <li>Own tower (SW) has 2 or more pips.</li>
-            <li><b>Stay</b></li>
+            <li>Own tower (SW) has 2 or more pips → <b>Stay</b>.</li>
           </ol>
         </li>
         <li>
           <b>D2:</b>
           <ol>
-            <li>Own tower (SE) has 1 pip.</li>
-            <li>CW tower has 2 pips</li>
-            <li>CCW tower has 2 pips</li>
-            <li>Opposite tower has more than 2 pips</li>
-            <li><b>Move across</b></li>
+            <li>Own tower (SE) has 1 pip → <b>Move</b>.</li>
+            <li>CW tower has 2 pips → <b>Don't go CW</b>.</li>
+            <li>CCW tower has 2 pips → <b>Don't go CCW</b>.</li>
+            <li><b>Move diagonally across</b>.</li>
           </ol>
         </li>
       </ul>
