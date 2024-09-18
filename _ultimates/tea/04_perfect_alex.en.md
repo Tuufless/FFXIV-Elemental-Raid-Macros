@@ -462,13 +462,11 @@ are the ones marked in red:
 Note that there will *always* be an available 3-to-1 dodge.
 
 1. Look at the first set of telegraphs. This is where you will *end*.
-2. Look at the second set of telegraphs that are adjacent to your ending point. 
-   You will start at the *remaining* adjacent position.
-3. Look at the third (remaining) set of telegraphs that are adjacent to your 
-   ending point. This is where you will *start*.
+2. Find the telegraph in the third set that is adjacent to the telegraph in the
+   first set. This is where you will *start*.
 
-Each Exatrine is immediately followed by *Irresistable Grace*, an 8-man party 
-stack that must be heavily mitigated. The recommended mitigation plan is:
+Each Exatrine is followed by *Irresistable Grace*, an 8-man party stack that
+must be heavily mitigated. The recommended mitigation plan is:
 
 <table>
   <tr>
