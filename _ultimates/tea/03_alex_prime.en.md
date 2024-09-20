@@ -97,17 +97,33 @@ will autoattack twice before casting *Inception Formation*.
     <td>
       <p><b>2.</b> Resolve the Crystal AoEs and the green orbs.</p>
       <ul>
-        <li>The residual AoEs will be slightly <b>larger</b> than their
-        telegraphed size.</li>
-        <li>The green orbs can be placed on the red dots, although the two orbs
-        closer to Alexander should be placed one notch up.</li>
+        <li>
+          <p>Crystals will spawn where the AoEs were- <b>they will be slightly
+          larger than their telegraphed size.</b></p>
+        </li>
+        <li>
+          <p>The green orbs should be spread out along the edge towards
+          Alexander Prime. The east/west orbs can be placed on the red dots,
+          while the two orbs closer to Alexander should be placed one notch up
+          from the red dot.</p>
+        </li>
       </ul>
-      <p>The party wipes if any AoEs touch each other.</p>
       <p>Done correctly, the True Heart that spawns opposite Alexander Prime
       will <b>hit all four crystals</b> and turn gold, giving the party the
       Enigma Codex buff.</p>
-      <p><em>(The Perfect Alexander phase will be <b>impossible</b> without the
-      Enigma Codex.)</em></p>
+      <p><em>(This is a <b>requirement</b> to clear the Perfect Alexander
+      phase.)</em></p>
+      <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
+      <p>The following are failure conditions:</p>
+      <ul>
+        <li>The True Heart does not hit all four crystals (crystals placed too
+        far from the center).</li>
+        <li>Two (or more) crystals touch, causing them to pulsate with proximity
+        damage telegraphs, which the True Heart will pass through.</li>
+        <li>When a player touches a green orb, it leaves behind a green puddle.
+        If two puddles touch, they explode and wipe the raid.</li>
+      </ul>
+      </div>
     </td>
 	  <td>
       <img src="{{site.baseurl}}/images/ultimates/tea/03/inception_02.jpg">
@@ -764,6 +780,9 @@ The party then proceeds onto Perfect Alexander.
       of the time, while at least two DPS are guaranteed to adjust (with all 
       four DPS potentially having to adjust) with the TTD/HHD strat <em>all</em>
       the time, leading to more points of error.</p>
+      <p>The melee-swap strat also establishes exactly <em>who</em> adjusts in
+      the event the Enumerations do not start out balanced, reducing the number
+      of players that potentially have to adjust from four to two.</p>
       <p>This also means that if you are D1 or D2, and you have four people on
       your side, you are the one that needs to swap to the other side <em>
       (because your counterpart has already swapped, but you haven't)</em>.</p>
