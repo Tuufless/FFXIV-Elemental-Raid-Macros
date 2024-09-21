@@ -149,8 +149,10 @@ knights.
     <td width="50%">
       <p><b>1.</b> Using <b>Thordan as north</b>:</p>
       <ul>
-        <li>Three random (non-tanks) will be targeted with blue <em>Skyward
-        Leap</em> markers. These players go west, east, and south.</li>
+        <li><p>Three random (non-tanks) will be targeted with blue <em>Skyward
+        Leap</em> markers. These players go west, east, and south.</p>
+        <p>The marked players at the "east" and "west" positions should stand
+        <b>slightly away from Thordan</b> (roughly 1-2 notches).</p></li>
         <li>The other three (non-tanks) go north towards Thordan.
           <ul>
             <li>Two of these players will shortly be tethered to by the two
@@ -164,6 +166,7 @@ knights.
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/dsr/02/strength_of_the_ward_2_1.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/dsr/02/skyward_leap.jpg">
     </td>
   </tr>
   <tr>
@@ -181,8 +184,7 @@ knights.
       <p><b>3.</b> AoEs resolve.</p>
       <ul>
         <li>Each of the three blue-marked players will have a giant <em>Skyward
-        Leap</em> AoE centered on them. Take care not to hit the tanks with
-        these.</li>
+        Leap</em> AoE centered on them.</li>
         <li><em>The Dragon's Rage</em> resolves, which should be split between
         the three unmarked players and the two tanks.</li>
         <li>The two tanks will each be hit by <em>Holy Shield Bash</em>.</li>
