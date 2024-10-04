@@ -196,3 +196,26 @@ Finder.
 
 How many clears everyone is expected to stay for (e,g: 3 rounds/3周). This will
 most often be seen on farmable encounters, like EX trials.
+
+
+---
+
+## Frequently Asked Questions
+
+<details markdown=block>
+<summary>
+  <b>[Recruitment]</b> What does the 〆 symbol mean?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>〆 is read しめ (shime), and means "closed" in this context (閉め), or
+      "taken".</p>
+      <p>This is particularly applicable to tanks and melee, where a player can
+      fill one of two possible party slots.</p>
+      <p>i.e: a PF that says MT〆 means that the MT position has been taken, and
+      a tank that joins is expected to take ST.</p>
+    </td>
+  </tr>
+</table>
+</details>
