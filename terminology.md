@@ -181,6 +181,21 @@ While it is not enforcible that players don't just loot on multiple items,
 **doing so would almost certainly get you blacklisted**, and is a reportable
 offense.
 
+### Choose a weapon/武器希望制
+
+This applies specifically to the 4th raid in a tier that drops a random weapon,
+and becomes more common as the tier progresses and people start running/gearing
+alt-jobs.
+
+When you join the party, you reserve a weapon that hasn't already been claimed.
+This weapon does not need to match the job you will play.
+
+During recruitment, the party leader will update the PF description with the
+already-claimed weapons to prevent multiple people claiming the same weapon.
+
+**If that weapon drops and someone has reserved it, that player casts a lot on
+it and all other players pass**, as if that player lot "Need" on it.
+
 ### FFA/フリロ
 
 "FFA" stands for "Free for All". The Japanese フリロ means either "Free-lot" or
