@@ -448,8 +448,10 @@ third Akh Morn.
 <table>
   <tr>
     <td width="50%"><p><b>1.</b> Identify the starting location.</p>
+    <p>To do so, <b>in order</b>:</p>
       <ol>
-        <li>Avoid Hraesvelgr's Cauterize</li>
+        <li>Avoid Hraesvelgr's Cauterize <em>(2/3 of the time, you will start
+        next to Nidhogg)</em></li>
         <li>Be as far away from the <b>second</b> set of eyes as you can.</li>
       </ol>
       <p><em>(In this example, Hraesvelgr's Cauterize will hit the east half.)</em></p>
@@ -555,12 +557,15 @@ practice to mark the players. However, there are two different marking schemes.
   </tr>
 </table>
 
+Shortly after the stacks/spreads resolve, the next *Mortal Vow* pass happens.
+
+Note that this *Mortal Vow* pass is *fast*, which is why we want to try to keep
+the tanks near the middle of the arena if possible.
+
 <table>
   <tr>
-    <td>
-      <p><b>7.</b> Finally, pass Mortal Vow from the MT to the ST.</p>
-      <p>Note that this Mortal Vow pass is *fast*, hence why we want to try to
-      keep the tanks near the center if possible.</p>
+    <td width="50%">
+      <p><b>7.</b> Pass Mortal Vow from the MT to the ST in the center.</p>
     </td>
     <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/mortal_vow_03.jpg"></td>
   </tr>
