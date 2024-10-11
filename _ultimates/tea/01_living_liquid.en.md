@@ -304,9 +304,13 @@ one).</p>
   <tr>
     <td>
       <p><b>11.</b> 6x <em>Splashes</em> from Living Liquid.</p>
-      <ul>
-        <li><b>MT, ST:</b> Drainage tethers are strong tankbusters with an AoE.</li>
-      </ul>
+      <p>Two tornados will also tether to two players, and these tethers should
+      be picked up by the tanks. They will resolve with an AoE tankbuster
+      centered on the tethered player.</p>
+      <p>It's easy for the Liquid Hand to be out of melee range, because the
+      melee do not want to get hit by the tether AoEs. Healers and ranged can
+      swap over to the Liquid Hand if needed to keep the HP within range for
+      <em>Hand of Pain</em>.</p>
     </td>
 	  <td>
       <img src="{{site.baseurl}}/images/ultimates/tea/01/living_liquid_11.jpg">
@@ -324,8 +328,9 @@ This is the final phase of Living Liquid, and combines both Living Liquid's
 <table>
   <tr>
     <td width="50%">
-      <p><b>12.</b> 2nd Cascade. The party should reorient themselves to the
-      new water puddles.</p>
+      <p><b>12.</b> 2nd Cascade. The Liquid Hand also uses <em>Hand of
+      Pain</em>.</p>
+      <p>The party should reorient themselves to the new water puddles.</p>
       <ul>
         <li><b>MT, ST, D3, D4:</b> Stack together "north".</li>
         <li><b>H1, H2, D1, D2:</b> Stack together "south".</li>
