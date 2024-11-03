@@ -3,7 +3,6 @@ layout: default
 title: "B. Delta - GMT"
 nav_order: 10
 parent: Lv 90. TOP
-grand_parent: Ultimates
 permalink: /ultimates/top/run_dynamis_delta_gmt/
 ---
 

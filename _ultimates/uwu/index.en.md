@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Lv 70. UWU
-parent: Ultimates
 nav_order: 2
 has_children: true
 has_toc: false

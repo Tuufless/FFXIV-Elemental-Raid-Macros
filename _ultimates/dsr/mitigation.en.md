@@ -5,7 +5,7 @@ parent: Lv 90. DSR
 nav_order: 9
 has_children: false
 has_toc: false
-grand_parent: Ultimates
+
 permalink: /ultimates/dsr/mitigation/
 ---
 

@@ -2,7 +2,6 @@
 layout: default
 title: 4. Perfect Alexander
 parent: Lv 80. TEA
-grand_parent: Ultimates
 permalink: /ultimates/tea/04_perfect_alex/
 ---
 

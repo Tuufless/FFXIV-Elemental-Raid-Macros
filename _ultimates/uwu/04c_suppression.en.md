@@ -2,7 +2,6 @@
 layout: default
 title: 4c. Ultimate Suppression
 parent: Lv 70. UWU
-grand_parent: Ultimates
 permalink: /ultimates/uwu/04c_suppression/
 ---
 

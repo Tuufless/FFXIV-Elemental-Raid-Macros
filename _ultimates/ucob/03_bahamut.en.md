@@ -2,7 +2,6 @@
 layout: default
 title: 3. Bahamut
 parent: Lv 70. UCoB
-grand_parent: Ultimates
 permalink: /ultimates/ucob/03_bahamut/
 ---
 

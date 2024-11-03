@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Lv 90. DSR
-parent: Ultimates
 nav_order: 4
 has_children: true
 has_toc: false

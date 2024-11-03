@@ -2,7 +2,6 @@
 layout: default
 title: 2b. Brute Justice + Cruise Chaser
 parent: Lv 80. TEA
-grand_parent: Ultimates
 permalink: /ultimates/tea/02b_bjcc/
 ---
 

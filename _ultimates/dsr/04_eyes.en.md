@@ -2,7 +2,6 @@
 layout: default
 title: 4. Eyes
 parent: Lv 90. DSR
-grand_parent: Ultimates
 nav_order: 5
 has_children: false
 has_toc: false

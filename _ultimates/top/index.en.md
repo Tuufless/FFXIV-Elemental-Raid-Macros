@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Lv 90. TOP
-parent: Ultimates
 nav_order: 5
 has_children: true
 has_toc: false

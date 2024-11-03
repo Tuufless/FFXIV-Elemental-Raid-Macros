@@ -2,7 +2,6 @@
 layout: default
 title: 4. Adds phase
 parent: Lv 70. UCoB
-grand_parent: Ultimates
 permalink: /ultimates/ucob/04_adds/
 ---
 

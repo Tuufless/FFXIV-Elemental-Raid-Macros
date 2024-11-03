@@ -2,7 +2,6 @@
 layout: default
 title: 2a. Limit Cut
 parent: Lv 80. TEA
-grand_parent: Ultimates
 permalink: /ultimates/tea/02a_limit_cut/
 ---
 

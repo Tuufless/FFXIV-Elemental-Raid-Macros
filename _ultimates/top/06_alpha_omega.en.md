@@ -3,7 +3,6 @@ layout: default
 title: "6. Alpha Omega"
 nav_order: 8
 parent: Lv 90. TOP
-grand_parent: Ultimates
 permalink: /ultimates/top/06_alpha_omega/
 ---
 

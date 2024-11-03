@@ -2,7 +2,6 @@
 layout: default
 title: 3. Nidhogg
 parent: Lv 90. DSR
-grand_parent: Ultimates
 nav_order: 4
 has_children: false
 has_toc: false

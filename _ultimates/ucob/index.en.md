@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Lv 70. UCoB
-parent: Ultimates
 nav_order: 1
 has_children: true
 has_toc: false

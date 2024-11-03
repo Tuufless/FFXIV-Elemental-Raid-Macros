@@ -2,7 +2,6 @@
 layout: default
 title: 3. Alexander Prime
 parent: Lv 80. TEA
-grand_parent: Ultimates
 permalink: /ultimates/tea/03_alex_prime/
 ---
 

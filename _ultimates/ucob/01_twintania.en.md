@@ -2,7 +2,6 @@
 layout: default
 title: 1. Twintania
 parent: Lv 70. UCoB
-grand_parent: Ultimates
 permalink: /ultimates/ucob/01_twintania/
 ---
 
