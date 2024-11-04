@@ -94,6 +94,8 @@ which prevents an additional swap for the duration.
       <p>At this point, all DPS should have red tethers and be spread around
       the west Eye, and all tanks/healers should have blue tethers and be
       stacked on top of the Eye.</p>
+      <p>Once the red eye is brought down to <b>40% HP</b>, all party members 
+      should switch over to the blue eye.</p>
     </td>
     <td><img src="{{site.baseurl}}/images/ultimates/dsr/04/eyes_07.jpg"></td>
   </tr>
@@ -140,14 +142,13 @@ which prevents an additional swap for the duration.
       <p>Both eyes will begin to cast <em>Steep in Rage</em> shortly after.</p>
       <p>At least one eye must be killed before <em>Steep in Rage</em> resolves,
       or the outgoing damage will wipe the party.</p>
-      <p>Note that because red-tethered players take damage from Steep in Rage,
-      the red eye will also take damage as a result.</p>
-      <p>Similarly, the blue eye will revive (as the blue-tethered players took
-      damage).</p>
     </td>
     <td><img src="{{site.baseurl}}/images/ultimates/dsr/04/eyes_11.jpg"></td>
   </tr>
 </table>
+
+The party now has until the *Nidhogg's Influence* gauge reaches 100 to defeat 
+both eyes, failing which Estinien transforms into Nidhogg for an enrage.
 
 ---
 
