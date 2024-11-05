@@ -272,13 +272,16 @@ This phase is pushed when Ultima Weapon's HP drops below 50%.
 </summary>
 <table>
   <tr>
-    <td>
+    <td width="50%">
       <p>This is actually a Woken Garuda mechanic that you can see in P1 if you
       cleanse <em>three sets</em> of <em>Thermal Low</em> stacks using the
       Spiny Plume's bubble instead of two.</p>
       <p>The feathers will all home in on party members, killing them- the way
       to prevent this is to knock them out of the air by cleansing and
       triggering a <em>Thermal Low</em> (by taking Garuda's tether).</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/uwu/04c/feathers.jpg">
     </td>
   </tr>
 </table>

@@ -1606,7 +1606,7 @@ not to use their potions at certain buff windows.
 </summary>
 <table>
   <tr>
-    <td>
+    <td width="50%">
       <p>The H2 120s mitigations have a range of 30 yalms- if <em>Cosmo
       Arrow</em> is the "out-first" pattern, the other side of the arena
       (H1 and D1) will be out of range of H2's mitigations.</p>
