@@ -268,7 +268,7 @@ This phase is pushed when Ultima Weapon's HP drops below 50%.
 
 <details markdown=block>
 <summary>
-  <b>[Feather Lance]</b> What causes the feathers to converge in on the party?
+  <b>[Featherlance]</b> What causes the feathers to converge in on the party?
 </summary>
 <table>
   <tr>
@@ -278,7 +278,11 @@ This phase is pushed when Ultima Weapon's HP drops below 50%.
       Spiny Plume's bubble instead of two.</p>
       <p>The feathers will all home in on party members, killing them- the way
       to prevent this is to knock them out of the air by cleansing and
-      triggering a <em>Thermal Low</em> (by taking Garuda's tether).</p>
+      triggering a <em>Super Cyclone</em> by taking Garuda's tether <b>with a
+      stack of <em>Thermal Low</em>.</b></p>
+      <p>At this point, there should only be two people that can do this-
+      either the MT, or the healer that did <em>not</em> get <em>Searing Wind</em>
+      earlier during <em>Ultimate Annihilation</em>.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/uwu/04c/feathers.jpg">

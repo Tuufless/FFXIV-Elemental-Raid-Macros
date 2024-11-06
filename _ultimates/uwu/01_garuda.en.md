@@ -57,7 +57,7 @@ These stacks are then cleansed in two places:
 2. Taking Mesohigh tethers from Chirada and Suparna ("the sisters").
 
 When a player's *Thermal Low* stacks are cleansed, the party will take
-raid-wide damage depending on the number of stacks cleansed:
+raid-wide damage *(Super Cyclone)* depending on the number of stacks cleansed:
 
 - If **one** stack is cleansed, the party takes minor damage.
 - If **two** stacks are cleansed, the party takes a lot of damage.
@@ -84,6 +84,15 @@ The following mechanics will also change when Garuda is woken:
     <td>Downburst</td>
     <td>Frontal cleave that's taken by the MT.</td>
     <td>Frontal cleave that's <b>shared by the party</b></td>
+  </tr>
+  <tr>
+    <td>Satin Plumes</td>
+    <td>Adds that tether and close in to random players. They must be destroyed 
+    before they cast a raid-wide <em>Sleep</em>.</td>
+    <td>Turns to Razor Plumes that circle around the outer edge of the arena. 
+    They will eventually home in on players and explode with a lethal AoE unless 
+    they are blown using wind attacks such as <em>Wicked Tornado</em> or 
+    <em>Super Cyclone</em>.</td>
   </tr>
 </table>
 
