@@ -10,6 +10,10 @@ permalink: /ultimates/dsr/06_double_dragons/
 
 # Double Dragons
 
+As far as progression goes, reaching this phase for the first time marks
+roughly the half-way point. The mechanics in this phase are not particularly 
+difficult, but this phase is unforgiving.
+
 The structure of this phase can be broken down as follows:
 
 - First half
@@ -24,17 +28,14 @@ The structure of this phase can be broken down as follows:
 - [Cauterize](#cauterize)
 - [Alternative End](#alternative-end)
 
-In addition, each dragon also has their own enrage condition. Causing either
-dragon to break their vow will result in their attacks one-shotting anyone hit
-(including tanks), and lower their damage taken.
+### Enrage conditions
 
-### Solemn Vow
+Each dragon also has their own enrage condition. Causing either dragon to break 
+their vow will result in their attacks one-shotting anyone hit (including 
+tanks), and lower their damage taken.
 
-This one is simple. **Hraesvelgr will enrage if he kills *any* player.**
-
-### Mortal Vow
-
-**Nidhogg will enrage if *Mortal Vow* is not passed.**
+**Solemn Vow:** Hraesvelgr will enrage if he kills *any* player.
+**Mortal Vow:** Nidhogg will enrage if *Mortal Vow* is not passed.
 
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
 <details markdown=block>
@@ -64,7 +65,7 @@ This one is simple. **Hraesvelgr will enrage if he kills *any* player.**
 </details>
 </div>
 
-There are *four* passes in this phase.
+There are *four Mortal Vow* passes in this phase.
 
 1. After Hallowed Wings #1
 2. After Wroth Flames (this pass is *quick*)
@@ -367,8 +368,19 @@ will leave the arena.
 Wroth Flames is the half-way point of this phase, separating the first and
 second iteration of each of the looped mechanics.
 
-The party will be affected by a variety of spread and stack debuffs that will
-resolve at the end of the mechanic.
+- Hraesvelgr will become untargetable, and respawn on one of three positions  
+  along either the North or South edge to *Cauterize* half the arena.
+  *(this gives a 2/3 chance that the party will have melee uptime on Nidhogg*
+  *during this mechanic.)*
+- Nidhogg will cast *Akh Morn*, which is a party stack that hits four times.
+  Each hit also leaves behind a puddle that will inflict a bleed on any player
+  that stays inside for too long, killing that player.
+- Three sets of *Sable Price* eyes will also spawn in sequence. Each set
+  will explode in order, dealing damage along their row and column. The center
+  set will always spawn first, followed by two more sets on opposite corners.
+- Finally, the party will be affected by a variety of spread and stack debuffs 
+  that will resolve at the end together with either *Hot Wing* or *Hot Tail* 
+  from Nidhogg.
 
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
 <details markdown=block>
@@ -422,96 +434,16 @@ resolve at the end of the mechanic.
     </td>
   </tr>
 </table>
-
 </details>
 </div>
-
-In addition:
-
-- Hraesvelgr will spawn along on of three columns and Cauterize half the arena.
-  *(this gives a 2/3 chance that the party will have melee uptime on Nidhogg*
-  *during this mechanic.)*
-- Nidhogg will cast Akh Morn, which is a party stack that hits four times.
-  Each hit also leaves behind a puddle that will inflict a bleed on any player
-  that stays inside for too long, killing that player.
-- Three sets of *Sable Price* eyes will spawn one after the other. Each set
-  will explode in order, dealing damage along their row and column. The center
-  set will always spawn first, followed by two more sets on opposite corners.
-- Finally, Nidhogg will cast either *Hot Wing* or *Hot Tail*, which resolves
-  together with the debuffs.
-
-When dropping Akh Morns, the most efficient movement (geometrically) is to move
-**perpendicular from the wall in a straight line**, and then curve in after the
-third Akh Morn.
-
-<table>
-  <tr>
-    <td width="50%"><p><b>1.</b> Identify the starting location.</p>
-    <p>To do so, <b>in order</b>:</p>
-      <ol>
-        <li>Avoid Hraesvelgr's Cauterize <em>(2/3 of the time, you will start
-        next to Nidhogg)</em></li>
-        <li>Be as far away from the <b>second</b> set of eyes as you can.</li>
-      </ol>
-      <p><em>(In this example, Hraesvelgr's Cauterize will hit the east half.)</em></p>
-    </td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_01_01.jpg"></td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>2.</b> Hraesvelgr's Cauterize resolves. Drop first Akh Morn
-      puddle.</p>
-      <p>The initial Akh Morn movement will always go east-to-west or vice
-      versa.</p>
-    </td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_01_02.jpg"></td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>3.</b> First set of eye AoEs resolve. Drop the second Akh Morn
-      puddle without getting hit by the eye AoE.</p>
-    </td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_01_03.jpg"></td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>4.</b> Drop third and fourth Akh Morn puddles.</p>
-    </td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_01_04.jpg"></td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>5.</b> Move to the middle and identify whether Nidhogg is casting
-      Hot Wing or Hot Tail.</p>
-    </td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_01_05.jpg"></td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>6.</b> Spreads will go towards Nidhogg (west), stacks will go
-      towards Hraesvelgr (east).</p>
-      <p>A general priority order would resemble:</p>
-      <p style="text-align:center">(Center) MT ST H1 H2 D1 D2 D3 D4 (Edge)</p>
-      <p>There is enough space for two "spreads" to stand side-by-side if they
-      are on the sides of the safe zone.</p>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_01_06a.jpg">
-      <img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_01_06b.jpg">
-    </td>
-  </tr>
-</table>
-
-### Wroth Flames markers
 
 To help assign player positions for the final spread and stack, it is common
 practice to mark the players. However, there are two different marking schemes.
 
-#### Automarked Wroth Flames
-
 <table>
   <tr>
     <td width="50%">
+      <p><b>Option 1: Using third party-tools (Automarkers)</b></p>
       <p>By far the more popular approach is to just use third-party tools
       <em>(i.e: use at your own risk)</em> to automatically mark all players.</p>
       <p>With this configuration, the player with the <b>same-type</b> of
@@ -522,13 +454,9 @@ practice to mark the players. However, there are two different marking schemes.
       <img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_am_markers.jpg">
     </td>
   </tr>
-</table>
-
-#### Manually marked Wroth Flames
-
-<table>
   <tr>
     <td width="50%">
+      <p><b>Option 2: Manually mark stacks</b></p>
       <p>If you are not using automarkers, then there are two methods to mark
       players.</p>
       <ol>
@@ -556,6 +484,96 @@ practice to mark the players. However, there are two different marking schemes.
   </tr>
 </table>
 
+Finally, when dropping *Akh Morns*, the most efficient movement (geometrically)
+is to move **perpendicular from the wall in a straight line**, and then curve
+in after the third Akh Morn.
+
+<table>
+  <tr>
+    <td width="50%">
+      <p><b>1.</b> Hraesvelgr appears along either the North or South edge
+      together with the first set of <em>Sable Price</em> eyes (that will
+      always spawn center).</p>
+      <p>Move to the East or West edge to avoid Hraesvelgr's Cauterize
+      <em>(this will be West, next to Nidhogg 2 out of 3 times)</em></p>
+      <p><em>(In this example, Hraesvelgr's Cauterize will hit the east half,
+      so the party moves West next to Nidhogg.)</em></p>
+    </td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_01_01.jpg"></td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>2.</b> The second set of eyes spawn.</p>
+      <p>Move to the North or South corner, whichever is further from the
+      second set of eyes.</p>
+      <p><em>(In this example, moving South to the SW corner puts the party the 
+      furthest away from the second set of Eyes that spawned NE.)</em></p>
+    </td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_01_02.jpg"></td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>3.</b> The third set of eyes spawn.</p>
+      <p>Stack together, mitigate, and get ready to move as a group.</p>
+    </td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_01_03.jpg"></td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>4.</b> Hraesvelgr's Cauterize resolves. Drop first Akh Morn
+      puddle.</p>
+      <p>The initial Akh Morn movement will always go east-to-west or vice
+      versa.</p>
+    </td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_01_04.jpg"></td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>5.</b> First set of eye AoEs resolve. Drop the second Akh Morn
+      puddle without getting hit by the eye AoE.</p>
+    </td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_01_05.jpg"></td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>6.</b> Drop third and fourth Akh Morn puddles.</p>
+    </td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_01_06.jpg"></td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>7.</b> Move to the middle and identify whether Nidhogg is casting
+      Hot Wing or Hot Tail.</p>
+    </td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_01_07.jpg"></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <p><b>8.</b> Spreads will go towards Nidhogg (west), stacks will go
+      towards Hraesvelgr (east).</p>
+      <p>A general priority order would resemble:</p>
+      <p style="text-align:center"><b>(Center)</b> MT ST H1 H2 D1 D2 D3 D4
+      <b>(Edge)</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><b>Hot Tail</b></td>
+    <td style="text-align:center"><b>Hot Wing</b></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_01_08a.jpg">
+      <p>There is enough space for two "spreads" to stand side-by-side if they
+      are on the sides of the safe zone.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_01_08b.jpg">
+      <p>The "inner markers" demarcate <em>Hot Tail's</em> boundary (the
+      markers are safe).</p>
+    </td>
+  </tr>
+</table>
+
 Shortly after the stacks/spreads resolve, the next *Mortal Vow* pass happens.
 
 Note that this *Mortal Vow* pass is *fast*, which is why we want to try to keep
@@ -579,41 +597,57 @@ Here are some additional examples to consider:
 <table>
   <tr>
     <td width="50%">
-      <p><b>1.</b> Identify the starting location.</p>
-      <ul>
-        <li>Since Hraesvelgr's in the center, the party can start either west
-        or east.</li>
-        <li>In this case, west gives the party melee uptime on Nidhogg, but
-        with a 2-1 dodge.</li>
-      </ul>
+      <p><b>1.</b> Hraesvelgr appears along either the North or South edge
+      together with the first set of <em>Sable Price</em> eyes (that will
+      always spawn center).</p>
+      <p>Move to the East or West edge to avoid Hraesvelgr's Cauterize</p>
+      <p><em>(In this example, Hraesvelgr's Cauterize will go down the center, 
+      so the party moves West next to Nidhogg.)</em></p>
     </td>
     <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_02_01.jpg"></td>
   </tr>
   <tr>
     <td>
-      <p><b>2.</b> Hraesvelgr's Cauterize resolves. Drop first Akh Morn puddle.</p>
+      <p><b>2.</b> The second set of eyes spawn.</p>
+      <p>Move to the North or South corner, whichever is further from the
+      second set of eyes.</p>
+      <p><em>(In this example, moving North to the NW corner puts the party the 
+      furthest away from the second set of Eyes that spawned SW.)</em></p>
     </td>
     <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_02_02.jpg"></td>
   </tr>
   <tr>
     <td>
-      <p><b>3.</b> First set of eye AoEs resolve. Drop the second Akh Morn
-      puddle without getting hit.</p>
+      <p><b>3.</b> The third set of eyes spawn.</p>
+      <p>Stack together, mitigate, and get ready to move as a group.</p>
     </td>
     <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_02_03.jpg"></td>
   </tr>
   <tr>
     <td>
-      <p><b>4.</b> Drop third and fourth Akh Morn puddles.</p>
+      <p><b>4.</b> Hraesvelgr's Cauterize resolves. Drop first Akh Morn puddle.</p>
     </td>
     <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_02_04.jpg"></td>
   </tr>
   <tr>
     <td>
-      <p><b>5.</b> Move to the middle, identify whether Nidhogg is casting Hot
-      Wing or Hot Tail.</p>
+      <p><b>5.</b> First set of eye AoEs resolve. Drop the second Akh Morn
+      puddle without getting hit.</p>
     </td>
     <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_02_05.jpg"></td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>6.</b> Drop third and fourth Akh Morn puddles.</p>
+    </td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_02_06.jpg"></td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>7.</b> Move to the middle, identify whether Nidhogg is casting Hot
+      Wing or Hot Tail.</p>
+    </td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_02_07.jpg"></td>
   </tr>
 </table>
 </details>
@@ -625,31 +659,49 @@ Here are some additional examples to consider:
 <table>
   <tr>
     <td width="50%">
-      <p><b>1.</b> Identify the starting location.</p>
-      <ul>
-        <li>Since Hraesvelgr's west, the party can only start east.</li>
-        <li>The furthest position away from the second set of eyes is NE.</li>
-      </ul>
+      <p><b>1.</b> Hraesvelgr appears along either the North or South edge
+      together with the first set of <em>Sable Price</em> eyes (that will
+      always spawn center).</p>
+      <p>Move to the East or West edge to avoid Hraesvelgr's Cauterize</p>
+      <p><em>(In this example, Hraesvelgr's Cauterize will go down the west 
+      half, so the party moves east away from Nidhogg.)</em></p>
     </td>
     <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_03_01.jpg"></td>
   </tr>
   <tr>
-    <td><b>2.</b> Hraesvelgr's Cauterize resolves. Drop first Akh Morn puddle.</td>
+    <td>
+      <p><b>2.</b> The second set of eyes spawn.</p>
+      <p>Move to the North or South corner, whichever is further from the
+      second set of eyes.</p>
+      <p><em>(In this example, moving North to the NE corner puts the party the 
+      furthest away from the second set of Eyes that spawned SE.)</em></p>
+    </td>
     <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_03_02.jpg"></td>
   </tr>
   <tr>
-    <td><b>3.</b> First set of eye AoEs resolve. Drop the second Akh Morn
-    puddle without getting hit.</td>
+    <td>
+      <p><b>3.</b> The third set of eyes spawn.</p>
+      <p>Stack together, mitigate, and get ready to move as a group.</p>
+    </td>
     <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_03_03.jpg"></td>
   </tr>
   <tr>
-    <td><b>4.</b> Drop third and fourth Akh Morn puddles.</td>
+    <td><b>4.</b> Hraesvelgr's Cauterize resolves. Drop first Akh Morn puddle.</td>
     <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_03_04.jpg"></td>
   </tr>
   <tr>
-    <td><b>5.</b> Move to the middle, identify whether Nidhogg is casting Hot
-    Wing or Hot Tail.</td>
+    <td><b>5.</b> First set of eye AoEs resolve. Drop the second Akh Morn
+    puddle without getting hit.</td>
     <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_03_05.jpg"></td>
+  </tr>
+  <tr>
+    <td><b>6.</b> Drop third and fourth Akh Morn puddles.</td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_03_06.jpg"></td>
+  </tr>
+  <tr>
+    <td><b>7.</b> Move to the middle, identify whether Nidhogg is casting Hot
+    Wing or Hot Tail.</td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_03_07.jpg"></td>
   </tr>
 </table>
 </details>
@@ -873,6 +925,22 @@ transition to the final phase *(Dragonking Thordan will not be targetable*
 ---
 
 ## Frequently Asked Questions
+
+<details markdown=block>
+<summary>
+  <b>[Mortal Vow]</b> Does the final <em>Mortal Vow</em> pass still go to D3 even if D3 started with <em>Mortal Vow</em>?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>Yes. If D3 starts with <em>Mortal Vow</em>, they will be affected by 
+      <em>Mortal Atonement</em> after the first pass.</p>
+      <p>However, <em>Mortal Atonement</em> will expire before the final 
+      <em>Mortal Vow</em> pass, allowing D3 to take it again.</p>
+    </td>
+  </tr>
+</table>
+</details>
 
 <details markdown=block>
 <summary>
