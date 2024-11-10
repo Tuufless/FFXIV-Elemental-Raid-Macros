@@ -9,6 +9,10 @@ permalink: /4.0_stormblood/extreme_trials/byakko/
 
 # The Jade Stoa (Extreme)
 
+An up-to-date reference would be Nukemaru's guide:
+
+{% include youtube.html id="BMn8hrkQTnA" %}
+
 Note when doing this undersized, it is possible to skip the falling intermission phase by [holding DPS at 62% until Byakko jumps to the center for orbs](https://youtu.be/pTQekJSPPC0).
 
 ## English
