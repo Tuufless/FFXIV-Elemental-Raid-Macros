@@ -46,5 +46,23 @@ Note when doing this undersized, it is possible to skip the falling intermission
 
 </details>
 
+---
+
+## Frequently Asked Questions
+
+<details markdown=block>
+<summary>
+  <b>[The Roar of Thunder]</b> How much HP does an orb heal if it reaches the
+  tiger add?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>Each orb restores <b>4.5% HP</b>.</p>
+    </td>
+  </tr>
+</table>
+</details>
+
 <script data-goatcounter="https://tuufless.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
