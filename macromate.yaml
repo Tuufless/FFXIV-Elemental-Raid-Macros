@@ -24,6 +24,16 @@ macros:
     iconId: 26663
     markdownUrl: _current/macros/zoraal_ja.jp.md
 
+  - name: "The Jade Stoa (Unreal)"
+    group: "Current/English"
+    iconId: 26529
+    markdownUrl: _current/macros/byakko.en.md
+
+  - name: "The Jade Stoa (Unreal)"
+    group: "Current/Japanese"
+    iconId: 26529
+    markdownUrl: _current/macros/byakko.jp.md
+
   - name: "AAC Light-heavyweight M1 (Savage)"
     group: "Current/English"
     iconId: 26457

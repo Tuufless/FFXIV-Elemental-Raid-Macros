@@ -18,30 +18,26 @@ videos/reading guides- there may be differences.
 
 ---
 
-## Current content (Patch 7.0)
+## Current content (Patch 7.1)
 
 The current item level cap is **iLvl 735**.
 
 **Extreme Trials:**
 - **Valigarmanda EX** - [Worqor Lar Dor (Extreme)]({{site.baseurl}}/7.0_dawntrail/extreme_trials/valigarmanda)
 - **Zoraal Ja EX** - [Everkeep (Extreme)]({{site.baseurl}}/7.0_dawntrail/extreme_trials/zoraal_ja)
+- **Sphene EX** - The Minstrel's Ballad: Sphene's Burden
+
+**Unreal Trials:**
+- **Byakko Unreal** - [The Jade Stoa (Unreal)]({{site.baseurl}}/unreal/byakko)
 
 **Savage Raids:**
-
 - **M1S** - [AAC Light-heavyweight M1 (Savage)]({{site.baseurl}}/7.0_dawntrail/savage_raids/m1s)
 - **M2S** - [AAC Light-heavyweight M2 (Savage)]({{site.baseurl}}/7.0_dawntrail/savage_raids/m2s)
 - **M3S** - [AAC Light-heavyweight M3 (Savage)]({{site.baseurl}}/7.0_dawntrail/savage_raids/m3s)
 - **M4S** - [AAC Light-heavyweight M4 (Savage)]({{site.baseurl}}/7.0_dawntrail/savage_raids/m4s)
 
----
-
-## Ultimates
-
-- **Lv. 70. UCoB** - [The Unending Coil of Bahamut (Ultimate)]({{site.baseurl}}/ultimates/ucob)
-- **Lv. 70. UWU** - [The Weapon's Refrain (Ultimate)]({{site.baseurl}}/ultimates/uwu)
-- **Lv. 80. TEA** - [The Epic of Alexander (Ultimate)]({{site.baseurl}}/ultimates/tea)
-- **Lv. 90. DSR** - [Dragonsong's Reprise (Ultimate)]({{site.baseurl}}/ultimates/dsr)
-- **Lv. 90. TOP** - [The Omega Protocol (Ultimate)]({{site.baseurl}}/ultimates/top)
+**Ultimate Raids:**
+- **Lv. 100. FRU** - Futures Rewritten (Ultimate)
 
 ---
 

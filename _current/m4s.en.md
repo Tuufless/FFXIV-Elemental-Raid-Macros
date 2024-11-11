@@ -1,7 +1,7 @@
 ---
 layout: default
 title: M4S
-nav_order: 6
+nav_order: 8
 permalink: /7.0_dawntrail/savage_raids/m4s/
 ---
 

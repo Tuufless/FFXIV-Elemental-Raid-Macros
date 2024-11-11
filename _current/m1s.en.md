@@ -1,7 +1,7 @@
 ---
 layout: default
 title: M1S
-nav_order: 3
+nav_order: 5
 permalink: /7.0_dawntrail/savage_raids/m1s/
 ---
 
