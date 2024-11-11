@@ -850,5 +850,23 @@ However, the Twintania player may be part of the Megaflare group, or the towers
 </table>
 </details>
 
+<details markdown=block>
+<summary>
+  <b>[Tenstrike Trio]</b> What causes the Hatch orb to curve around the Neurolink?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>The Hatches aim for the <em>back</em> of your character.</p>
+      <p>As a result, you want to move as straight as possible with <em>minimal 
+      turns</em> during Tenstrike Trio, as spinning your character can cause
+      the Hatch to curve out of the Neurolinks.</p>
+      <p>Healers are susceptible to this, as they will run out in a straight
+      line, but turn around to heal someone else.</p>
+    </td>
+  </tr>
+</table>
+</details>
+
 <script data-goatcounter="https://tuufless.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
