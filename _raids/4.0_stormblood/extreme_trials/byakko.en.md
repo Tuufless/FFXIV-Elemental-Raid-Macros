@@ -12,6 +12,7 @@ permalink: /4.0_stormblood/extreme_trials/byakko/
 An up-to-date reference would be Nukemaru's guide:
 
 {% include youtube.html id="BMn8hrkQTnA" %}
+*(English subtitled)*
 
 Note when doing this undersized, it is possible to skip the falling intermission phase by [holding DPS at 62% until Byakko jumps to the center for orbs](https://youtu.be/pTQekJSPPC0).
 
