@@ -14,6 +14,12 @@ The strategy will be fixed once Game8 publishes their article.
 
 ---
 
+## Nukemaru
+
+{% include youtube.html id="rWciiFmXd6c" %}
+
+---
+
 ## Hamkatsu
 
 {% include youtube.html id="UEQrzXo_zbo" %}
