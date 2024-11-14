@@ -23,6 +23,10 @@ permalink: /7.0_dawntrail/extreme_trials/sphene/
 
 ## Markers
 
+The markers are where the party stands during *Coronation*. They are also
+colour-coded to indicate where each beam should be placed (i.e: between the
+`1A`, `2B`, `3C`, and `4D` markers).
+
 ![]({{site.baseurl}}/images/7.0_dawntrail/sphene/markers.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
