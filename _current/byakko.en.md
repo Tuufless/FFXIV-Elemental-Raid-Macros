@@ -18,6 +18,8 @@ permalink: /unreal/byakko/
 
 {% include_relative macros/byakko.jp.md %}
 
+---
+
 ## Markers
 
 ![]({{site.baseurl}}/images/4.0_stormblood/byakko/markers.jpg)
