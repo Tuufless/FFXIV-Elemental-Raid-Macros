@@ -26,8 +26,8 @@ permalink: /unreal/byakko/
 
 ```json
 {
-  "Name":"Byakko EX",
-  "MapID":291,
+  "Name":"Byakko Unreal",
+  "MapID":1007,
   "A":{"X":0.0,"Y":0.0,"Z":-19.0,"ID":0,"Active":true},
   "B":{"X":16.454,"Y":0.0,"Z":9.5,"ID":1,"Active":true},
   "C":{"X":-16.454,"Y":0.0,"Z":9.5,"ID":2,"Active":true},
