@@ -10,8 +10,8 @@
 　D1/MT　　　　　 D2/ST 　※ E/W Flares make
 　D3/H1　(stack)　D4/H2　　　pairs after
 【Virtual Shift 3 (Ice)】
-　□　　　　　□　Returning：
-↓□　　□　　□↓　1. Sides → closest bridge
-↑□　　□　　□↑　2. North → assigned bridge
-　   ↑  ↓  ↓  ↑　　Tethers：M→T→T→T
+　□　　　　　□　　↑：Use north bridge
+↓□　　□　　□↓　↓：Use south bridge
+↑□　　□　　□↑　　※ side players return first
+　   ↑  ↓  ↓  ↑　　　Tethers：M→T→T→T
 ```
