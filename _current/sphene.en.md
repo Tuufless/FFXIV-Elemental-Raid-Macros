@@ -87,5 +87,40 @@ colour-coded to indicate where each beam should be placed (i.e: between the
 </table>
 </details>
 
+---
+
+## Troubleshooting
+
+<details markdown=block>
+<summary>
+  <b>[Authority Eternal]</b> How are we dying to the P1 enrage?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>The mechanic sequence after the Virtual Shift (Ice) phase goes:</p>
+      <ol>
+        <li><em>Prosecution of War</em> (tankbusters)</li>
+        <li><em>Royal Domain</em> (raid-wide damage)</li>
+        <li><em>Legitimate Force</em> (half-room E/W cleaves)</li>
+        <li><em>Royal Domain</em> (raid-wide damage)</li>
+        <li><em>Authority Eternal</em> (P1 enrage)</li>
+      </ol>
+      <p>This whole sequence lasts a minute- <b>however, this is interrupted,
+      and goes straight to Authority Eternal when the boss goes below 2.0% HP.</b></p>
+      <p>The danger is that <em>Authority Eternal</em> is pushed, but the 
+      party has weakened members, or doesn't have the ability to burst down 
+      the boss's HP to 0.1% before <em>Authority Eternal</em> resolves, 
+      leading to a wipe.</p>
+      <p>For that reason, if the party was struggling earlier, it may be 
+      worth considering holding damage or building resources for 
+      <em>Authority Eternal</em>. Also note that if the boss's is pushed below
+      2.0% HP in the middle of a mechanic, the mechanic will complete before 
+      starting <em>Authority Eternal</em>.</p>
+    </td>
+  </tr>
+</table>
+</details>
+
 <script data-goatcounter="https://tuufless.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
