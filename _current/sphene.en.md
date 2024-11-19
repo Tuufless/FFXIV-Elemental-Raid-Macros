@@ -23,6 +23,10 @@ permalink: /7.0_dawntrail/extreme_trials/sphene/
 
 ## Markers
 
+There are two sets of markers you may encounter.
+
+### Hamkatsu's markers
+
 The markers are where the party stands during *Coronation*. They are also
 colour-coded to indicate where each beam should be placed (i.e: between the
 `1A`, `2B`, `3C`, and `4D` markers).
@@ -33,7 +37,7 @@ colour-coded to indicate where each beam should be placed (i.e: between the
 
 ```json
 {
-  "Name":"Sphene EX",
+  "Name":"Sphene EX (Hamkatsu)",
   "MapID":1017,
   "A":{"X":100.0,"Y":0.0,"Z":81.125,"ID":0,"Active":true},
   "B":{"X":118.875,"Y":0.0,"Z":100.0,"ID":1,"Active":true},
@@ -43,6 +47,32 @@ colour-coded to indicate where each beam should be placed (i.e: between the
   "Two":{"X":118.875,"Y":0.0,"Z":118.875,"ID":5,"Active":true},
   "Three":{"X":81.125,"Y":0.0,"Z":118.875,"ID":6,"Active":true},
   "Four":{"X":81.125,"Y":0.0,"Z":81.125,"ID":7,"Active":true}
+}
+```
+
+</details>
+
+### "Braindead" markers
+
+These are the fixed position markers for *Radical Shift* in P2. Each party
+member has an assigned marker that intersects all three platforms, allowing
+players to resolve *Radical Shift* with minimal adjustments.
+
+![]({{site.baseurl}}/images/7.0_dawntrail/sphene/markers2.jpg)
+<details markdown=block>
+<summary>XIVLauncher WaymarkPresetPlugin positions</summary>
+
+```json
+{
+  "Name":"Sphene EX (Braindead)",
+  "MapID":1017,"A":{"X":108.7,"Y":0.0,"Z":86.7,"ID":0,"Active":true},
+  "B":{"X":104.25,"Y":0.0,"Z":94.3,"ID":1,"Active":true},
+  "C":{"X":108.0,"Y":0.0,"Z":98.0,"ID":2,"Active":true},
+  "D":{"X":111.75,"Y":0.0,"Z":101.7,"ID":3,"Active":true},
+  "One":{"X":91.3,"Y":0.0,"Z":86.7,"ID":4,"Active":true},
+  "Two":{"X":95.75,"Y":0.0,"Z":94.3,"ID":5,"Active":true},
+  "Three":{"X":92.0,"Y":0.0,"Z":98.0,"ID":6,"Active":true},
+  "Four":{"X":88.25,"Y":0.0,"Z":101.7,"ID":7,"Active":true}
 }
 ```
 
