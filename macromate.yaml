@@ -26,12 +26,12 @@ macros:
 
   - name: "The Minstrel's Ballad: Sphene's Burden"
     group: "Current/English"
-    iconId: 26664
+    iconId: 26671
     markdownUrl: _current/macros/sphene.en.md
 
   - name: "The Minstrel's Ballad: Sphene's Burden"
     group: "Current/Japanese"
-    iconId: 26664
+    iconId: 26671
     markdownUrl: _current/macros/sphene.jp.md
 
   - name: "The Jade Stoa (Unreal)"
