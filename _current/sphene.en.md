@@ -68,11 +68,11 @@ players to resolve *Radical Shift* with minimal adjustments.
   "MapID":1017,"A":{"X":108.7,"Y":0.0,"Z":86.7,"ID":0,"Active":true},
   "B":{"X":104.25,"Y":0.0,"Z":94.3,"ID":1,"Active":true},
   "C":{"X":108.0,"Y":0.0,"Z":98.0,"ID":2,"Active":true},
-  "D":{"X":111.75,"Y":0.0,"Z":101.7,"ID":3,"Active":true},
+  "D":{"X":111.0,"Y":0.0,"Z":101.0,"ID":3,"Active":true},
   "One":{"X":91.3,"Y":0.0,"Z":86.7,"ID":4,"Active":true},
   "Two":{"X":95.75,"Y":0.0,"Z":94.3,"ID":5,"Active":true},
   "Three":{"X":92.0,"Y":0.0,"Z":98.0,"ID":6,"Active":true},
-  "Four":{"X":88.25,"Y":0.0,"Z":101.7,"ID":7,"Active":true}
+  "Four":{"X":89.0,"Y":0.0,"Z":101.0,"ID":7,"Active":true}
 }
 ```
 
@@ -87,6 +87,26 @@ players to resolve *Radical Shift* with minimal adjustments.
 ---
 
 ## Frequently Asked Questions
+
+<details markdown=block>
+<summary>
+  <b>[Markers]</b> How can you manually place the fixed position markers in the
+  right place?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>There are no visible markings at the start, however, the final arena
+      has lines drawn on the ground that mark the three different platforms <em>(see the attached image)</em>.</p>
+      <p>Once the fight has been cleared, you can then place markers at the
+      appropriate places manually.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/7.0_dawntrail/sphene/arena_lines.jpg">
+    </td>
+  </tr>
+</table>
+</details>
 
 <details markdown=block>
 <summary>
