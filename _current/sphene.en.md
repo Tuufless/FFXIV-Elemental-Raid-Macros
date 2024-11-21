@@ -99,7 +99,7 @@ players to resolve *Radical Shift* with minimal adjustments.
       <p>There are no visible markings at the start, however, the final arena
       has lines drawn on the ground that mark the three different platforms <em>(see the attached image)</em>.</p>
       <p>Once the fight has been cleared, you can then place markers at the
-      appropriate places manually.</p>
+      appropriate places manually and save them for the next round.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/7.0_dawntrail/sphene/arena_lines.jpg">
