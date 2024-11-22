@@ -39,14 +39,14 @@ colour-coded to indicate where each beam should be placed (i.e: between the
 {
   "Name":"Sphene EX (Hamkatsu)",
   "MapID":1017,
-  "A":{"X":100.0,"Y":0.0,"Z":81.125,"ID":0,"Active":true},
-  "B":{"X":118.875,"Y":0.0,"Z":100.0,"ID":1,"Active":true},
-  "C":{"X":100.0,"Y":0.0,"Z":118.875,"ID":2,"Active":true},
-  "D":{"X":81.125,"Y":0.0,"Z":100.0,"ID":3,"Active":true},
-  "One":{"X":118.875,"Y":0.0,"Z":81.125,"ID":4,"Active":true},
-  "Two":{"X":118.875,"Y":0.0,"Z":118.875,"ID":5,"Active":true},
-  "Three":{"X":81.125,"Y":0.0,"Z":118.875,"ID":6,"Active":true},
-  "Four":{"X":81.125,"Y":0.0,"Z":81.125,"ID":7,"Active":true}
+  "A":{"X":100.0,"Y":0.0,"Z":81.375,"ID":0,"Active":true},
+  "B":{"X":118.625,"Y":0.0,"Z":100.0,"ID":1,"Active":true},
+  "C":{"X":100.0,"Y":0.0,"Z":118.625,"ID":2,"Active":true},
+  "D":{"X":81.375,"Y":0.0,"Z":100.0,"ID":3,"Active":true},
+  "One":{"X":118.625,"Y":0.0,"Z":81.375,"ID":4,"Active":true},
+  "Two":{"X":118.625,"Y":0.0,"Z":118.625,"ID":5,"Active":true},
+  "Three":{"X":81.375,"Y":0.0,"Z":118.625,"ID":6,"Active":true},
+  "Four":{"X":81.375,"Y":0.0,"Z":81.375,"ID":7,"Active":true}
 }
 ```
 
@@ -65,14 +65,15 @@ players to resolve *Radical Shift* with minimal adjustments.
 ```json
 {
   "Name":"Sphene EX (Braindead)",
-  "MapID":1017,"A":{"X":108.7,"Y":0.0,"Z":86.7,"ID":0,"Active":true},
-  "B":{"X":104.25,"Y":0.0,"Z":94.3,"ID":1,"Active":true},
+  "MapID":1017,
+  "A":{"X":108.7,"Y":0.0,"Z":86.7,"ID":0,"Active":true},
+  "B":{"X":104.0,"Y":0.0,"Z":94.0,"ID":1,"Active":true},
   "C":{"X":108.0,"Y":0.0,"Z":98.0,"ID":2,"Active":true},
-  "D":{"X":111.0,"Y":0.0,"Z":101.0,"ID":3,"Active":true},
+  "D":{"X":112.0,"Y":0.0,"Z":102.0,"ID":3,"Active":true},
   "One":{"X":91.3,"Y":0.0,"Z":86.7,"ID":4,"Active":true},
-  "Two":{"X":95.75,"Y":0.0,"Z":94.3,"ID":5,"Active":true},
+  "Two":{"X":96.0,"Y":0.0,"Z":94.0,"ID":5,"Active":true},
   "Three":{"X":92.0,"Y":0.0,"Z":98.0,"ID":6,"Active":true},
-  "Four":{"X":89.0,"Y":0.0,"Z":101.0,"ID":7,"Active":true}
+  "Four":{"X":88.0,"Y":0.0,"Z":102.0,"ID":7,"Active":true}
 }
 ```
 
