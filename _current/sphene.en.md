@@ -125,6 +125,29 @@ players to resolve *Radical Shift* with minimal adjustments.
 
 <details markdown=block>
 <summary>
+  <b>[Absolute Authority]</b> What is the "AA cheese strat"?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>"AA" is shorthard for <em>"Absolute Authority"</em>.</p>
+      <p>The Flare markers in <em>Absolute Authority</em> have <em>very</em> 
+      lenient falloff damage, so much so that with heavy mitigations, the 
+      entire party can stay stacked together for the whole mechanic.</p>
+      <p>This strat is more popular in English PF parties, and is done by 
+      starting at the NE corner (as per Hamkatsu), but instead of turning into 
+      the center of the arena, the whole party just follows the north wall and 
+      ends up stacking in the NW corner.</p>
+      {% include youtube.html id="8iYyBH3foik" %}
+      <p>Note that <em>Absolute Authority</em> will <em>not</em> normally be 
+      resolved this way in RF.</p>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
   <b>[Laws of Ice 2]</b> When should the tanks use their invulns?
 </summary>
 <table>
