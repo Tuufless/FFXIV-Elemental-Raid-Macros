@@ -25,3 +25,5 @@ permalink: /ultimates/fru/02_shiva/
 ## Light Rampant
 
 **UNDER CONSTRUCTION**
+
+*Absolute Zero* is the enrage. If the boss is brought to below 20% HP, this will not be lethal, although it still needs to be mitigated.
