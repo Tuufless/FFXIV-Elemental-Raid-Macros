@@ -27,3 +27,7 @@ The item level cap for AAC Light-heavyweight Tier is **iLvl 735**.
 - **M2S** - [AAC Light-heavyweight M2 (Savage)]({{site.baseurl}}/7.0_dawntrail/savage_raids/m2s)
 - **M3S** - [AAC Light-heavyweight M3 (Savage)]({{site.baseurl}}/7.0_dawntrail/savage_raids/m3s)
 - **M4S** - [AAC Light-heavyweight M4 (Savage)]({{site.baseurl}}/7.0_dawntrail/savage_raids/m4s)
+
+## Ultimate
+
+- **FRU** - [Futures Rewritten (Ultimate)]({{site.baseurl}}/ultimates/fru)
