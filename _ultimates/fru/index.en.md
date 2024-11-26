@@ -26,7 +26,6 @@ Elemental's FRU PF strat is currently a **work in progress**.
 - Relic weapons (when they arrive) will have their substats capped at **393**.
 - Use the highest grade potions available.
 
-
 ---
 
 ## Frequently Asked Questions
@@ -52,6 +51,21 @@ Elemental's FRU PF strat is currently a **work in progress**.
       (like EX trials).</p>
       <p>As a result, the final strat will likely resemble Mana in the first 
       few phases, but differ towards the end.</p>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
+  <b>[Damage Down]</b> How strong is the damage down debuff in this fight?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>The Damage Down debuff in this phase lowers a player's damage by
+      <b>90%</b>.</p>
+      <p><em>(Yes, this is </em>worse<em> than double-weakness!)</em></p>
     </td>
   </tr>
 </table>
