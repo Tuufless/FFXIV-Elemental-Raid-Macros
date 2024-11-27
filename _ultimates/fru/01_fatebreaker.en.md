@@ -229,7 +229,93 @@ Shortly after, the boss then prepares the second mechanic combo.
 
 ## Fall of Faith
 
-**UNDER CONSTRUCTION**
+This is a strat I'd like to try out for now, because while most groups are
+resolving this with a "conga line" system, I think it's quite messy
+(especially in PF)! Instead, I'd like to try a role-based system instead.
+
+<table>
+  <tr>
+    <td>
+      <p><b>12.</b> Split up into your light parties, west and east of the 
+      boss.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/01/fall_of_faith_01.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>13.</b> The boss will glow either red or blue again, and tether to a random player.</p>
+      <ul>
+        <li><b>If you are tethered first: </b>Go just North of the boss.</li>
+      </ul>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/01/fall_of_faith_02.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>14.</b> A clone will appear North-West, glow red or blue, and 
+      tether to a random player.</p>
+      <ul>
+        <li><b>If you are tethered second: </b>Go just South of the boss.</li>
+      </ul>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/01/fall_of_faith_03.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>15.</b> Another clone will appear North, glow red or blue, and 
+      tether to a random player.</p>
+      <ul>
+        <li><b>If you are tethered third: </b>Go just North of the boss, past
+        the first tethered player.</li>
+      </ul>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/01/fall_of_faith_04.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>16.</b> One last clone will appear North-East, glow red or blue, 
+      and tether to a random player.</p>
+      <ul>
+        <li><b>If you are tethered fourth: </b>Go South of the boss, past the 
+        second tethered player.</li>
+      </ul>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/01/fall_of_faith_05.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>17.</b> With four people tethered, this leaves behind four players 
+      that were not tethered.</p>
+      <p>The objective is to split the four remaining players North and South 
+      so that the North and South each have four players.</p>
+      <ul>
+        <li><b>If there are 1 or 2 players left in your group:</b> All players 
+        rotate clockwise.</li>
+        <li><b>If there are 3 or 4 players left in your group:</b> The "extra" 
+        players adjust and rotate the other direction (<em>anti-clockwise</em>)
+        based on their roles (tank > healer > melee).</li>
+      </ul>
+      <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
+        <p style="text-align:center"><b>N.B:</b> In this case, I have supports 
+        adjust. I'm unsure if DPS should adjust instead, but this is a 
+        1-minute window.</p>
+      </div>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/01/fall_of_faith_05.jpg">
+    </td>
+  </tr>
+</table>
 
 The boss then does another *Burnished Glory*, followed by a *Powder Mark Trail*.
 
