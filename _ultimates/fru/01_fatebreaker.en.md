@@ -245,10 +245,12 @@ resolving this with a "conga line" system, I think it's quite messy
   </tr>
   <tr>
     <td>
-      <p><b>13.</b> The boss will glow either red or blue again, and tether to a random player.</p>
+      <p><b>13.</b> The boss will glow either red or blue again, and tether to
+      a random player. The tether will also be tinted blue or red.</p>
       <ul>
         <li><b>If you are tethered first: </b>Go just North of the boss.</li>
       </ul>
+      <p><em>(In this example, the boss and tether glow blue.)</em></p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/01/fall_of_faith_02.jpg">
@@ -257,10 +259,11 @@ resolving this with a "conga line" system, I think it's quite messy
   <tr>
     <td>
       <p><b>14.</b> A clone will appear North-West, glow red or blue, and 
-      tether to a random player.</p>
+      tether to a random player. The tether will also be tinted blue or red.</p>
       <ul>
         <li><b>If you are tethered second: </b>Go just South of the boss.</li>
       </ul>
+      <p><em>(In this example, the boss and tether glow blue.)</em></p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/01/fall_of_faith_03.jpg">
@@ -269,11 +272,12 @@ resolving this with a "conga line" system, I think it's quite messy
   <tr>
     <td>
       <p><b>15.</b> Another clone will appear North, glow red or blue, and 
-      tether to a random player.</p>
+      tether to a random player. The tether will also be tinted blue or red.</p>
       <ul>
         <li><b>If you are tethered third: </b>Go just North of the boss, past
         the first tethered player.</li>
       </ul>
+      <p><em>(In this example, the boss and tether glow red.)</em></p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/01/fall_of_faith_04.jpg">
@@ -282,11 +286,12 @@ resolving this with a "conga line" system, I think it's quite messy
   <tr>
     <td>
       <p><b>16.</b> One last clone will appear North-East, glow red or blue, 
-      and tether to a random player.</p>
+      and tether to a random player. The tether will also be tinted blue or red.</p>
       <ul>
         <li><b>If you are tethered fourth: </b>Go South of the boss, past the 
         second tethered player.</li>
       </ul>
+      <p><em>(In this example, the boss and tether glow red.)</em></p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/01/fall_of_faith_05.jpg">
@@ -305,6 +310,8 @@ resolving this with a "conga line" system, I think it's quite messy
         players adjust and rotate the other direction (<em>anti-clockwise</em>)
         based on their roles (tank > healer > melee).</li>
       </ul>
+      <p><em>(In this example, everyone rotates clockwise except for the H1 who
+      adjusts and goes anti-clockwise to the South group instead.)</em></p>
       <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
         <p style="text-align:center"><b>N.B:</b> In this case, I have supports 
         adjust. I'm unsure if DPS should adjust instead, but this is a 
@@ -312,7 +319,50 @@ resolving this with a "conga line" system, I think it's quite messy
       </div>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru/01/fall_of_faith_05.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/01/fall_of_faith_06.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>18.</b> We now resolve the first of four tethers.</p>
+      <p>Lightning tethers fire cleaves at the three closest players.</p>
+      <p>The other three players must spread East, West, and North/South of the
+      tethered player (who will be immobilised).</p>
+      <p><em>(In this example, we resolve a Lightning tether.)</em></p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/01/fall_of_faith_07.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>19.</b> We resolve the second tether.</p>
+      <p><em>(In this example, we resolve a Lightning tether.)</em></p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/01/fall_of_faith_08.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>20.</b> We resolve the third tether.</p>
+      <p>Fire tethers cleaves the closest player, that is shared between the
+      three players.</p>
+      <p>All players stack together North/South (towards the outer edge) of the
+      tethered player (who will be immobilised).</p>
+      <p><em>(In this example, we resolve a Fire tether.)</em></p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/01/fall_of_faith_09.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>21.</b> Finally, we resolve the fourth (and final) tether.</p>
+      <p><em>(In this example, we resolve a Fire tether.)</em></p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/01/fall_of_faith_10.jpg">
     </td>
   </tr>
 </table>
