@@ -179,7 +179,7 @@ attention to this colour.**
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td>
       <p><b>10.</b> Move to your assigned safe sector, and either spread out as
       shown (if the boss glowed blue earlier), or stack together (if the boss
       glowed red).</p>
@@ -276,7 +276,7 @@ Shortly after, the boss then prepares the second mechanic combo.
 
 <table>
   <tr>
-    <td>
+    <td width="50%">
       <p><b>15.</b> Line up east and west of the boss, in T/H vs DPS:</p>
       <ul>
         <li><b>West:</b> Tanks/Healers</li>
