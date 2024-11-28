@@ -14,11 +14,19 @@ Elemental's FRU PF strat is currently a **work in progress**.
 <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
 <ul>
   <li><b>In the interest of getting a working strat documented, I have decided
-  to document Lucrezia's strat.</b></li>
+  to document Lucrezia's strat.</b>
+    <ul>
+      <li>Although Lucrezia has released video guides and Idyllshire has a
+      written guide, I will instead be referencing what they do <em>on
+      stream</em> as the guides have some notable differences, and are missing
+      information.</li>
+    </ul>
+  </li>
   <li><b>For now, the focus is on getting something written down
   <em>without</em> having to debate the merits of each strategy.</b></li>
   <li><b>Once more groups have cleared and we have more information, some 
-  things will likely be modified- again, the focus is to get <em>something</em> workable first.</li>
+  things will likely be modified- again, the focus is to get <em>something</em>
+  workable first.</b></li>
   <li><b>This will be a time-intensive process- a final strategy likely won't 
   come until the end of Patch 7.1 (roughly March/April 2025).</b></li>
 </ul>
