@@ -32,40 +32,19 @@ Elemental's FRU PF strat is currently a **work in progress**.
 
 <details markdown=block>
 <summary>
-  <b>[Strategy]</b> How will the strategy evolve over time?
-</summary>
-<table>
-  <tr>
-    <td>
-      <p>In the beginning, we will likely follow or at least be close to what 
-      Mana does because of interest <em>(many players will travel to Mana to 
-      get extra prog in PF)</em>.</p>
-      <p>However, there will come a point where PF runs into a wall and gets 
-      "stuck"- at this point on, Elemental's strategy typically diverges from 
-      Mana.</p>
-      <p>While <em>it would be nice</em> if Elemental followed Mana all the way
-      to the end, Elemental's Ultimate PF culture is, well, ultimately <em>(pun
-      not intended)</em> stronger than Mana's.</p>
-      <p>While it is in Elemental's interest to accommodate Mana's strategy, 
-      Elemental is not as beholden to follow Mana unlike other raid content 
-      (like EX trials).</p>
-      <p>As a result, the final strat will likely resemble Mana in the first 
-      few phases, but differ towards the end.</p>
-    </td>
-  </tr>
-</table>
-</details>
-
-<details markdown=block>
-<summary>
   <b>[Damage Down]</b> How strong is the damage down debuff in this fight?
 </summary>
 <table>
   <tr>
     <td>
-      <p>The Damage Down debuff in this phase lowers a player's damage by
-      <b>90%</b>.</p>
-      <p><em>(Yes, this is </em>worse<em> than double-weakness!)</em></p>
+      <p>There are actually <em>two</em> different Damage Down debuffs in this 
+      encounter, both of which lowers a player's damage by <b>90%</b>.</p>
+      <ul>
+        <li>One comes from getting hit by avoidable attacks.</li>
+        <li>One comes from resolving stacks with fewer people.</li>
+      </ul>
+      <p>Because these damage downs come from two separate debuffs, <em>they
+      stack</em> together for a combined <b>99% damage down!</b></p>
     </td>
   </tr>
 </table>
