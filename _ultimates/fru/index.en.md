@@ -19,7 +19,8 @@ Elemental's FRU PF strat is currently a **work in progress**.
       <li>Lucrezia actually has multiple groups- although Lucrezia has 
       released video guides and Idyllshire has a written guide, I will instead 
       start by referencing what their <em>streaming team</em> does, as the 
-      video and written guides do not have sufficient detail.</li>
+      video and written guides do not have sufficient detail, and I need to 
+      check how mechanics are resolved over multiple pulls.</li>
       <li>As a result, this <em>may</em> have some differences from the 
       "Lucrezia" strat done on Mana.</li>
     </ul>
