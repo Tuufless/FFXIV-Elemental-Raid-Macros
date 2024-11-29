@@ -38,7 +38,9 @@ Dust* for heavy raid-wide damage.
 
 ## Diamond Dust
 
-*Diamond Dust* resolves itself in a very similar way to *Diamond Frost* in Eden's Verse: Refulgence (Savage). Lucrezia resolves this in a relative-North fashion:
+*Diamond Dust* resolves itself in a very similar way to *Diamond Frost* in
+Eden's Verse: Refulgence (Savage). Lucrezia resolves this in a relative-North
+fashion:
 
 <table>
   <tr>
@@ -222,7 +224,8 @@ The Usurper of Frost will be targetable during this mechanic.
 Two red mirrors and one blue mirror appear at the edge on any of the eight
 cardinal/intercardinal positions.
 
-- Blue mirrors copy the Usurper of Frost's attack, resolving at *the same time*.
+- Blue mirrors copy the Usurper of Frost's attack, resolving at *the same
+  time*.
 - Red mirrors copy the Usurper of Frost's attack, but *resolves later*.
 
 - The two red mirrors always spawn 90 degrees from one another.
@@ -243,7 +246,8 @@ cardinal/intercardinal positions.
   </tr>
   <tr>
     <td>
-      <p><b>11.</b> The Usurpur of Front will ready <em>Scythe Kick</em>, which also fires four cone AoEs at the four closest players.</p>
+      <p><b>11.</b> The Usurpur of Front will ready <em>Scythe Kick</em>, which
+      also fires four cone AoEs at the four closest players.</p>
       <p>This attack will be recorded by all the mirrors, and the blue 
       mirror's copy will resolve together with the boss.</p>
       <p>Spread out around the boss and the mirror to avoid both <em>Scythe 
@@ -265,7 +269,8 @@ cardinal/intercardinal positions.
     <td>
       <p><b>12.</b> Move the boss to the (nearest) red mirror.</p>
       <p>The healers and ranged will go to the other red mirror.</p>
-      <p>Spread out beside the red mirrors, making sure not to hit the other group with the cone AoEs.</p>
+      <p>Spread out beside the red mirrors, making sure not to hit the other
+      group with the cone AoEs.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/02/mirror_mirror_03.jpg">
@@ -289,8 +294,188 @@ mechanic.
 
 ## Light Rampant
 
-**UNDER CONSTRUCTION**
+<table>
+  <tr>
+    <td width="50%">
+      <p><b>14.</b> Make two rows with tanks and healers North, and DPS
+      South.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_01.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>15.</b> Two players at random will be selected to drop AoE puddles.</p>
+      <p>There will also be six stacks of <em>Lightsteeped</em> randomly
+      distributed among the party (although no player can start with more than
+      two stacks).</p>
+      <p>The other six players will get tethered together. The tether will 
+      likely connect to the nearest player, making a connected ring if all 
+      goes well.</p>
+      <p>Adjust as needed so that the North and South sides each have one
+      puddle:</p>
+      <ul>
+        <li><b>If your side has two puddles:</b> The eastmost puddle swaps 
+        side.</li>
+        <li><b>If your side has no puddles:</b> H2/D4 swaps side.</li>
+      </ul>
+      <p><em>(In this example, H2 and D4 will swap sides.)</em></p>
+      <p>Six towers will also spawn around the arena.</p>
+      <p></p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_02.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>15.</b> Now that the North and South sides each have three 
+      tethered players, we assign towers based on player positions in the 
+      ring:</p>
+      <ul>
+        <li><b>North-side tethers:</b>
+          <ul>
+            <li><b>West-most tether:</b> North-West tower</li>
+            <li><b>Middle tether:</b> South tower</li>
+            <li><b>East-most tether:</b> North-East tower</li>
+          </ul>
+        </li>
+        <li><b>South-side tethers:</b>
+          <ul>
+            <li><b>West-most tether:</b> South-East tower</li>
+            <li><b>Middle tether:</b> North tower</li>
+            <li><b>East-most tether:</b> South-West tower</li>
+          </ul>
+        </li>
+      </ul>
+      <p>The two puddle players move North-East and South-West (around the 
+      inner ring on the floor) to drop their puddles.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_03.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>16.</b> When everyone's in position, it should look like this.</p>
+      <p>It is good practice to take the tower at the edge of the arena, to
+      avoid getting accidentally clipped by the two players dropping puddles
+      in the center.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_04.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>17.</b> The two puddle players will rotate clockwise, dropping 
+      five puddles in total before joining their group North and South.</p>
+      <p>The tether players wait for their towers to resolve before collapsing 
+      with their group North and South.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_05.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>18.</b> Three white orbs will spawn in an equilateral triangle and
+      telegraph an AoE. Move clockwise out of the telegraph as a group.</p>
+      <p>Around this time, the timers on the two <em>The Weight of Light</em>
+      debuffs will expire, resulting in a 4-man stack.</p>
+      <p><em>(You may need to resolve the stack inside the telegraph if
+      needed.)</em></p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_06.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>19.</b> The tethers will disappear.</p>
+      <p>Move into the first set of explosions as another three white orbs will
+      spawn in the previously unoccupied spots and telegraph an AoE. Simply
+      avoid these.</p>
+      <p>A 4-man tower will spawn in the center of the arena.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_07.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>20.</b> The second set of orbs explode.</p>
+      <p><b>Check how many stacks of <em>Lightsteeped</em> you have.</b></p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_08.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>21.</b> We now resolve the 4-man tower in the middle.</p>
+      <ul>
+        <li><b>Players with 2 stacks of <em>Lightsteeped</em>:</b> Enter the
+        tower.</li>
+      </ul>
+      <p>Everybody else move to your standard clock positions around the
+      tower.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_09.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>22.</b> The boss will then cast <em>Banish III</em> again. Just
+      like before, this will either be a party spread, or pair stacks depending
+      on the number of orbs above the boss's head.</p>
+      <ul>
+        <li><b>One floating orb:</b> Pair stacks (MTD3, STD2, H1D1, H2D4).</li>
+        <li><b>Four floating orbs:</b> Party spread (stay in your clock
+        positions).</li>
+      </ul>
+      <p><em>(In this example, the boss is doing pair stacks.)</em></p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_10.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>23.</b> Finally, the boss becomes targetable again and starts
+      casting <em>The House of Light</em>, which cleaves all players and gives
+      a stack of <em>Lightsteeped</em>.</p>
+      <p>Spread out in your standard clock positions to resolve this.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_11.jpg">
+    </td>
+  </tr>
+</table>
 
-*Absolute Zero* is the enrage. If the boss is brought to below 20% HP, this will not be lethal, although it still needs to be mitigated.
+A few seconds later, the boss will start to cast *Absolute Zero*. This will
+serve as the hard enrage, *unless* the boss is brought under 20.0% HP.
 
-Stay middle because it's a small knockback.
+If the DPS check is met, *Absolute Zero* will be a raid-wide and a knockback
+instead, so stay near the middle.
+
+---
+
+## Frequently Asked Questions
+
+<details markdown=block>
+<summary>
+  <b>[Light Rampant]</b> What prevents both stacks from being on the same side?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>The two stacks are always tethered together.</p>
+      <p>Because connected players alternate between North and South, this
+      results in one stack North, and one stack South.</p>
+    </td>
+  </tr>
+</table>
+</details>
