@@ -60,8 +60,8 @@ fashion:
     <td colspan="2">
       <p><b>2.</b> The Oracle's Reflection then readies either <em>Axe Kick</em>, or <em>Scythe Kick</em>:</p>
       <ul>
-        <li><b>Axe Kick</b> <em>("Reap!")</em>: large, point-blank AoE.</li>
-        <li><b>Scythe Kick:</b> <em>("Cleave!")</em>: Donut AoE.</li>
+        <li><b>Axe Kick</b> <em>("Cleave!")</em>: large, point-blank AoE.</li>
+        <li><b>Scythe Kick:</b> <em>("Reap!")</em>: Donut AoE.</li>
       </ul>
       <p>The kick will also fire a cone AoE towards the four closest players, 
       which should be baited by the players <em>not</em> dropping AoEs.</p>
