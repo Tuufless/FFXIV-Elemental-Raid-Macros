@@ -222,9 +222,70 @@ The Usurper of Frost will be targetable during this mechanic.
 Two red mirrors and one blue mirror appear at the edge on any of the eight
 cardinal/intercardinal positions.
 
+- Blue mirrors copy the Usurper of Frost's attack, resolving at *the same time*.
+- Red mirrors copy the Usurper of Frost's attack, but *resolves later*.
+
 - The two red mirrors always spawn 90 degrees from one another.
 
-**UNDER CONSTRUCTION**
+<table>
+  <tr>
+    <td width="50%">
+      <p><b>10.</b> Find the blue mirror.</p>
+      <ul>
+        <li><b>Tanks and Melee:</b> Bring the boss directly opposite the blue 
+        mirror.</li>
+        <li><b>Healers and Ranged:</b> Move to the blue mirror.</li>
+      </ul>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/mirror_mirror_01.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>11.</b> The Usurpur of Front will ready <em>Scythe Kick</em>, which also fires four cone AoEs at the four closest players.</p>
+      <p>This attack will be recorded by all the mirrors, and the blue 
+      mirror's copy will resolve together with the boss.</p>
+      <p>Spread out around the boss and the mirror to avoid both <em>Scythe 
+      Kick</em> and the cone AoEs.</p>
+      <ul>
+        <li><b>Tanks and Melee:</b> Spread out in front of the boss.</li>
+        <li><b>Healers and Ranged:</b> Spread out beside the blue mirror, 
+        making sure not to hit the other group with your cone AoEs.</li>
+      </ul>
+      <p>To avoid getting hit by the <em>Scythe Kick</em>, either be inside 
+      the boss's targeting circle <em>or</em> 2 pips away from the cardinal/
+      intercardinal marker.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/mirror_mirror_02.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>12.</b> Move the boss to the (nearest) red mirror.</p>
+      <p>The healers and ranged will go to the other red mirror.</p>
+      <p>Spread out beside the red mirrors, making sure not to hit the other group with the cone AoEs.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/mirror_mirror_03.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <p><b>13.</b> The boss will then cast <em>Banish III</em>. This will 
+      either be a party spread, or pair stacks depending on the number of orbs 
+      above the boss's head.</p>
+      <ul>
+        <li><b>One floating orb:</b> Pair stacks (MTD1, STD2, H1D3, H2D4).</li>
+        <li><b>Four floating orbs:</b> Party spread.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+After this, the boss will teleport to the middle and begin another signature 
+mechanic.
 
 ## Light Rampant
 
