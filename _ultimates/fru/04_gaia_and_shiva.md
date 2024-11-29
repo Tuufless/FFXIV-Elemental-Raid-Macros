@@ -1,21 +1,15 @@
 ---
 layout: default
-title: 4. Oracle of Darkness
+title: 4. Gaia and Shiva
 parent: Lv 100. FRU (WIP)
 nav_order: 4
 has_children: false
 has_toc: false
-permalink: /ultimates/fru/04_oracle_of_darkness/
+permalink: /ultimates/fru/04_gaia_and_shiva/
 ---
 
-# Oracle of Darkness
+# Gaia and Shiva
 
 <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
 <p style="text-align:center"><b>Details may be missing, or subject to change until I have better first-hand experience.</b></p>
 </div>
-
-## Ultimate Relativity
-
-## Apocalypse
-
-The boss casts *Memory's End* as the enrage, and must be brought down to under 20.0% HP to survive the cast.

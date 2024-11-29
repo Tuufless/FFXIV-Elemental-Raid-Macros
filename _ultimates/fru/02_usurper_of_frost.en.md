@@ -463,6 +463,50 @@ instead, so stay near the middle.
 
 ---
 
+## Endless Ice Age
+
+This is the mini "transition" phase.
+
+<table>
+  <tr>
+    <td width="50%">
+      <p><b>24.</b> Four Crystals of Light and four Crystals of Darkness
+      appear as shown in the diagram.</p>
+      <p>The tanks and melee DPS manage the Crystals of Light:</p>
+      <ul>
+        <li>The Crystals of Light will periodically target the nearest player
+        with a circle AoE.</li>
+        <li>They will later tether to the nearest player- that player will then
+        drop puddle AoEs that stay around.</li>
+      </ul>
+      <p>The healers and ranged DPS manage the Crystals of Darkness:</p>
+      <ul>
+        <li>The Crystals of Darkness will periodically aim a cone AoE at the
+        nearest player. If this AoE hits a Crystal of Light, the Crystal of
+        Light gains a buff that reduces damage taken, so aim them away.</li>
+        <li>Help your tank/melee partner destroy their Crystal of Light.</li>
+      </ul>
+      <p><b>Note H2's and D4's positions are swapped from the standard spread.</b></p>
+      <p>The objective is to destroy the Ice Veil in the middle that's casting
+      <em>Endless Ice Age</em> <em>without</em> destroying the four Crystals
+      of Darkness.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/crystals_01.jpg">
+    </td>
+  </tr>
+</table>
+
+Once the four Crystals of Light have been destroyed, all party members should
+destroy the Ice Veil.
+
+If all four Crystals of Darkness are still alive, Gaia will gain enough power
+*("My power surges!)* to deal 50% damage to the Ice Veil just before *Endless
+Ice Age* resolves. As a result, the damage check is to get the Ice Veil below
+50.0% HP.
+
+---
+
 ## Frequently Asked Questions
 
 <details markdown=block>
