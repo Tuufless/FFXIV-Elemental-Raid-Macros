@@ -67,6 +67,24 @@ Elemental's FRU PF strat is currently a **work in progress**.
 ## Frequently Asked Questions
 
 <details markdown=block>
+<summary><b>[Markers]</b> Is there a particular reason the 1 marker is NW 
+instead of NE?</summary>
+<table>
+  <tr><td><p>Yes. Because melee want rear positionals, putting D1 and D2 at 
+  the boss's rear leads to the "MT group west, ST group east" split, or 
+  more specifically, everything from N to SW being the "MT group's" half.</p>
+  <p>The only way to get that and still give melee rear positionals is to split
+   the arena between the West and East.</p>
+   <p>In FRU's case, many mechanics can be resolved based on either "ranged + 
+  melee" pairs (e.g: the crystals phase) or "tank/healer + DPS" pairs (e.g: 
+  <em>Cyclonic Break</em>), which leads to being able to assign mechanics 
+  based on coloured quadrants (e.g: the MT+D3 pair is responsible for the "red 
+  markers").</p>
+  <p>For other reasons, most other fights split the arena between the front and back, which leads to the 1 marker being on the NE instead.</p></td></tr>
+</table>
+</details>
+
+<details markdown=block>
 <summary>
   <b>[Damage Down]</b> How strong is the damage down debuff in this fight?
 </summary>

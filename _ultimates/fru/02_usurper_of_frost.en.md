@@ -26,6 +26,13 @@ expected to be the final strategy used.</b></p>
 until I have better first-hand experience.</b></p>
 </div>
 
+- [**Diamond Dust**](#diamond-dust)
+- [**Mirror, Mirror**](#mirror-mirror)
+- [**Light Rampant**](#light-rampant)
+- [**Endless Ice Age (Transition)**](#endless-ice-age)
+- [**Frequently Asked Questions**](#frequently-asked-questions)
+- [**Troubleshooting**](#troubleshooting)
+
 The boss opens the fight with *Quadruple Slap* on the player with most hate
 (which should be the MT).
 
@@ -44,16 +51,28 @@ fashion:
 
 <table>
   <tr>
-    <td width="50%">
+    <td colspan="2">
       <p><b>1.</b> Two circles will appear opposite one another at a random
       (inter)cardinal.</p>
       <p>The first circle starting from (True) North and going clockwise will
       be "North" for this mechanic.</p>
       <p>Either the tanks/healers or the DPS will be selected to drop AoEs.</p>
-      <p><em>(In this example, the DPS have been selected.)</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" style="text-align:center">
+      <b>Tanks/Healers dropping AoEs</b>
+    </td>
+    <td style="text-align:center">
+      <b>DPS dropping AoEs</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/diamond_dust_01a.jpg">
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru/02/diamond_dust_01.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/diamond_dust_01b.jpg">
     </td>
   </tr>
   <tr>
@@ -257,6 +276,10 @@ cardinal/intercardinal positions.
         <li><b>Healers and Ranged:</b> Spread out beside the blue mirror, 
         making sure not to hit the other group with your cone AoEs.</li>
       </ul>
+      <p>When spreading, put the tanks/healers at the sides, with the DPS 
+      in between.</p>
+      <p>Also note that the "MT group" vs "ST group" spreads at the mirrors 
+      are left/right based on <b>facing the mirrors (outside)</b></p>
       <p>To avoid getting hit by the <em>Scythe Kick</em>, either be inside 
       the boss's targeting circle <em>or</em> 2 pips away from the cardinal/
       intercardinal marker.</p>
@@ -468,11 +491,34 @@ instead, so stay near the middle.
 This is the mini "transition" phase.
 
 <table>
-  <tr>
+<tr>
     <td width="50%">
+      <p><b>24.</b> Pre-position for <em>Absolute Zero</em>'s knockback.</p>
+      <p>Note the spread positions here are different.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/crystals_01.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
       <p><b>24.</b> Four Crystals of Light and four Crystals of Darkness
       appear as shown in the diagram.</p>
-      <p>The tanks and melee DPS manage the Crystals of Light:</p>
+      <p>The objective is to destroy the Ice Veil in the middle that's casting
+      <em>Endless Ice Age</em> <em>without</em> destroying the four Crystals
+      of Darkness.</p>
+      <p>However, while the Ice Veil is targetable, it is <b>immune to damage 
+      while there is a Crystal of Light on the arena.</b></p>
+      <p>The healers/ranged DPS should help their tank/melee partner destroy 
+      the Crystal of Light in their sector first.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/crystals_02.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>25.</b> The tanks and melee DPS manage the Crystals of Light:</p>
       <ul>
         <li>The Crystals of Light will periodically target the nearest player
         with a circle AoE.</li>
@@ -486,13 +532,51 @@ This is the mini "transition" phase.
         Light gains a buff that reduces damage taken, so aim them away.</li>
         <li>Help your tank/melee partner destroy their Crystal of Light.</li>
       </ul>
-      <p><b>Note H2's and D4's positions are swapped from the standard spread.</b></p>
-      <p>The objective is to destroy the Ice Veil in the middle that's casting
-      <em>Endless Ice Age</em> <em>without</em> destroying the four Crystals
-      of Darkness.</p>
+      <p>To avoid hitting other players, have everyone bait their 
+      first set of AoEs skewed clockwise (to the left, facing in), and 
+      alterate between left and right.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru/02/crystals_01.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/crystals_03.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>26.</b> Bait the second set of AoEs skewed anti-clockwise (to the 
+      right, facing in).</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/crystals_04.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>27.</b> On the third set of telegraphed AoEs, the Crystals of 
+      Light will tether to the nearest player.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/crystals_05.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>28.</b> On the fourth set of telegraphed AoEs, the tethered
+      players will start dropping puddles that stay on the arena.</p>
+      <p>Stepping into these puddles will inflict a lethal Bleed on you.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/crystals_06.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>28.</b> Bait these puddles around the Crystal.</p>
+      <p>Note that even after the Crystals of Light have been destroyed, the 
+      Crystals of Darkness <em>are still on the arena</em>, and the cone AoEs 
+      <b>still need to be properly baited</b>.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/crystals_07.jpg">
     </td>
   </tr>
 </table>
@@ -501,13 +585,33 @@ Once the four Crystals of Light have been destroyed, all party members should
 destroy the Ice Veil.
 
 If all four Crystals of Darkness are still alive, Gaia will gain enough power
-*("My power surges!)* to deal 50% damage to the Ice Veil just before *Endless
+*("My power surges!)* to deal 50.0% damage to the Ice Veil just before *Endless
 Ice Age* resolves. As a result, the damage check is to get the Ice Veil below
 50.0% HP.
 
 ---
 
 ## Frequently Asked Questions
+
+<details markdown=block>
+<summary>
+  <b>[Strategy]</b> Are there any differences from Lucrezia's strategy?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>There are a couple clarifications.</p>
+      <ol>
+        <li>Lucrezia had the DPS on the sides instead of in the center
+        during <em>Mirror, Mirror</em>. It's flipped here to let the
+        healers focus on healing.</li>
+        <li>Lucrezia also didn't have a strict spread assignments during 
+        <em>Mirror, Mirror</em>, adjusting on the fly as needed.</li>
+      </ol>
+    </td>
+  </tr>
+</table>
+</details>
 
 <details markdown=block>
 <summary>
@@ -519,6 +623,32 @@ Ice Age* resolves. As a result, the damage check is to get the Ice Veil below
       <p>The two stacks are always tethered together.</p>
       <p>Because connected players alternate between North and South, this
       results in one stack North, and one stack South.</p>
+    </td>
+  </tr>
+</table>
+</details>
+
+---
+
+## Troubleshooting
+
+<details markdown=block>
+<summary>
+  <b>[Diamond Dust]</b> Any tips for aiming my slide on a controller during <em>Twin Silence/Stillness</em>?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>For context, this is a problem specific to playing on a controller.</p>
+      <p>Keyboards don't have this problem because pressing "W" moves your
+      character perfectly forward. On a controller, pushing the analogue 
+      stick forward will not be perfect, so that slight deviation may be 
+      enough to get you killed.</p>
+      <p>Something that might help would be to set up a macro like so:</p>
+      <pre>/automove on
+/automove off</pre>
+      <p>This will make your character take one tiny step directly forward 
+      where your camera is facing.</p>
     </td>
   </tr>
 </table>
