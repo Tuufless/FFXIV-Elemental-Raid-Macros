@@ -26,6 +26,12 @@ expected to be the final strategy used.</b></p>
 until I have better first-hand experience.</b></p>
 </div>
 
+- [**Cyclonic Break**](#cyclonic-break)
+- [**Utopian Sky**](#utopian-sky)
+- [**Fall of Faith**](#fall-of-faith)
+- [**Towers**](#towers)
+- [**Frequently Asked Questions**](#frequently-asked-questions)
+
 ## Cyclonic Break
 
 Fatebreaker opens with *Cyclonic Break*, which is a mechanic that reappears 
