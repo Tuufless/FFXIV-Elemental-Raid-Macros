@@ -243,7 +243,67 @@ markers.
       Oracle's Reflection is), dropping the puddles along the way.</p>
       <p><b>Make sure you end either directly behind or opposite the Usurper 
       of Frost.</b></p>
-      <p>The Oracle's Reflection and Usurper of Frost will also switch forms:</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/diamond_dust_07.jpg">
+    </td>
+  </tr>
+</table>
+
+Your movement will change depending on where the boss spawned relative to 
+either party.
+
+<table>
+  <tr>
+    <td width="50%">
+      <p style="text-align:center"><b>Boss is 90 degrees from a party</b></p>
+      <p>This is the slow case. Go clockwise.</p>
+    </td>
+    <td>
+      <p style="text-align:center"><b>Boss is 45 degrees CCW from a party</b></p>
+      <p>This is the fast case. Go clockwise, and a little further to end 
+      opposite/behind the boss.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/diamond_dust_07a.jpg">
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/diamond_dust_07b.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p style="text-align:center"><b>Boss is 45 degrees CW from a party</b></p>
+      <p>This is the fast case. Go anti-clockwise, since going clockwise would 
+      place puddles behind the boss.</p>
+    </td>
+    <td>
+      <p style="text-align:center"><b>Boss is 0 or 180 degrees from a party</b></p>
+      <p>This is the "cursed" case. Go clockwise <em>very</em> fast- you need 
+      to <b>not</b> drop the first puddle behind the boss (marked in yellow) 
+      <em>and</em> still make it to the other side.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/diamond_dust_07c.jpg">
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/diamond_dust_07d.jpg">
+    </td>
+  </tr>
+</table>
+
+We need the two parties to be behind or opposite the Oracle's Reflection to 
+prepare for the next mechanic.
+
+<table>
+  <tr>
+    <td width="50%">
+      <p><b>8.</b> The Oracle's Reflection and Usurper of Frost will switch 
+      forms:</p>
       <ul>
         <li>The floor will turn to ice.</li>
         <li>There will be a gaze attack- <b>look away from the Usurper of
@@ -334,8 +394,11 @@ cardinal/intercardinal positions.
       </ul>
       <p>When spreading, put the tanks/healers at the sides, with the DPS 
       in between.</p>
-      <p>Also note that the "MT group" vs "ST group" spreads at the mirrors 
-      are left/right based on <b>facing the mirrors (outside)</b></p>
+      <ul>
+        <li><b>Tanks/Melee:</b> Split left/right boss-relative.</li>
+        <li><b>Healers/Ranged:</b> Split left/right mirror-relative (facing
+        in).</li>
+      </ul>
       <p>To avoid getting hit by the <em>Scythe Kick</em>, either be inside 
       the boss's targeting circle <em>or</em> 2 pips away from the cardinal/
       intercardinal marker.</p>
@@ -346,7 +409,8 @@ cardinal/intercardinal positions.
   </tr>
   <tr>
     <td>
-      <p><b>12.</b> Move the boss to the (nearest) red mirror.</p>
+      <p><b>12.</b> Move the boss to the (nearest) red mirror. <em>(If both red
+      mirrors are equidistant, rotate clockwise.)</em></p>
       <p>The healers and ranged will go to the other red mirror.</p>
       <p>Spread out beside the red mirrors, making sure not to hit the other
       group with the cone AoEs.</p>
@@ -401,7 +465,6 @@ get puddles, but makes resolution simpler.
       likely connect to the nearest player, making a connected ring if all 
       goes well.</p>
       <p>Six towers will also spawn around the arena.</p>
-      <p></p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_02.jpg">
