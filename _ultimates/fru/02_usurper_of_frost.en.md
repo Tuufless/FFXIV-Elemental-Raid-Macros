@@ -26,6 +26,8 @@ Rampant.
             <li>Updated Light Rampant 4:4 where tanks/healers swap sides 
             instead of DPS. Tower assignments also count from MT/D1 instead
             of forcing a CCW rotation.</li>
+            <li>Flipped healer/ranged positions at mirrors during <em>Mirror, 
+            Mirror</em> (H1D3 on the left, facing into the arena.)</li>
             <li>Added ZizieZip's Light Rampant strategy as an option.</li>
           </ul>
         </li>
