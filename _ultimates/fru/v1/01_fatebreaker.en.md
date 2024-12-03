@@ -7,7 +7,7 @@ has_toc: false
 permalink: /ultimates/fru/v1/01_fatebreaker/
 ---
 
-# Fatebreaker
+# Fatebreaker v1.0
 
 <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
 <p style="text-align:center"><b>This documents Lucrezia's strategy- it is not 

@@ -1,9 +1,9 @@
 ---
 layout: default
-title: 1. Fatebreaker
+title: 1. Fatebreaker v2.0
 parent: Lv 100. FRU (WIP)
 nav_order: 1
-has_children: true
+has_children: false
 has_toc: false
 permalink: /ultimates/fru/01_fatebreaker/
 ---
@@ -12,10 +12,6 @@ permalink: /ultimates/fru/01_fatebreaker/
 
 This is version 2.0, that takes the raidplan and Discord polls together.
 
-<details markdown=block>
-<summary>
-  <b>[Click to Expand] Changelog + Previous versions</b>
-</summary>
 <table>
   <tr>
     <td>
@@ -45,7 +41,6 @@ This is version 2.0, that takes the raidplan and Discord polls together.
     </td>
   </tr>
 </table>
-</details>
 
 - [**Cyclonic Break**](#cyclonic-break)
 - [**Utopian Sky**](#utopian-sky)
@@ -560,3 +555,6 @@ the phase.
   </tr>
 </table>
 </details>
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
