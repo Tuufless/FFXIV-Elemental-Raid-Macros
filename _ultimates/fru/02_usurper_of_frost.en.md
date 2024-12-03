@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2. Usurper of Frost
+title: 2. Usurper of Frost v2.0
 parent: Lv 100. FRU (WIP)
 nav_order: 2
 has_children: false
@@ -8,27 +8,48 @@ has_toc: false
 permalink: /ultimates/fru/02_usurper_of_frost/
 ---
 
-# Usurper of Frost
+# Usurper of Frost v2.0
+
+This is version 2.0, that's based off the Google Doc with two options for Light
+Rampant.
+
+<table>
+  <tr>
+    <td>
+      <p><b>Changelog</b></p>
+      <ul>
+        <li>v2.0 (3 Dec 2024): Archived Lucrezia's version (v1.0), and 
+        updated to the Google Doc:
+          <ul>
+            <li>Updated <em>Diamond Dust</em> spreads to the colour-coded
+            strategy, with Protean baits in the first Shiva circles.</li>
+            <li>Updated Light Rampant 4:4 where tanks/healers swap sides 
+            instead of DPS. Tower assignments also count from MT/D1 instead
+            of forcing a CCW rotation.</li>
+            <li>Added ZizieZip's Light Rampant strategy as an option.</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>Past versions:</b></p>
+      <ul>
+        <li><a href="{{site.baseurl}}/ultimates/fru/v1/02_usurper_of_frost/">v1.0
+        Lucrezia's strat</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
-<p style="text-align:center"><b>This documents Lucrezia's strategy- it is not 
-expected to be the final strategy used.</b></p>
-<ul>
-  <li>Lucrezia actually has multiple groups- although Lucrezia has 
-  released video guides and Idyllshire has a written guide, I will instead 
-  start by referencing what their <em>streaming team</em> does, as the 
-  video and written guides do not have sufficient detail, and I need to 
-  check how mechanics are resolved over multiple pulls.</li>
-  <li>As a result, this <em>may</em> have some differences from the "Lucrezia" 
-  strat done on Mana.</li>
-</ul>
-<p style="text-align:center"><b>Details may be missing, or subject to change
-until I have better first-hand experience.</b></p>
+<p style="text-align:center"><b>There are still a few details to sort out. Look out for a poll in the Discord soon.</b></p>
 </div>
 
-- [**Diamond Dust**](#diamond-dust)
+- [**Diamond Dust - Colour coded**](#diamond-dust---colour-coded)
 - [**Mirror, Mirror**](#mirror-mirror)
-- [**Light Rampant**](#light-rampant)
+- [**Light Rampant- 4:4**](#light-rampant---44) _or_ [**Light Rampant- ZizieZip**](#light-rampant---ziziezip)
 - [**Endless Ice Age (Transition)**](#endless-ice-age)
 - [**Frequently Asked Questions**](#frequently-asked-questions)
 - [**Troubleshooting**](#troubleshooting)
@@ -43,28 +64,54 @@ The boss then teleports slightly south of center and casts *Mirror Image*
 which summons an (untargetable) Oracle's Reflection before casting *Diamond
 Dust* for heavy raid-wide damage.
 
-## Diamond Dust
+## Diamond Dust - Colour-coded
 
 *Diamond Dust* resolves itself in a very similar way to *Diamond Frost* in
-Eden's Verse: Refulgence (Savage). Lucrezia resolves this in a relative-North
-fashion:
+Eden's Verse: Refulgence (Savage). We resolve this using the colour-coded
+markers.
 
 <table>
   <tr>
-    <td colspan="2">
-      <p><b>1.</b> Two circles will appear opposite one another at a random
-      (inter)cardinal.</p>
-      <p>The first circle starting from (True) North and going clockwise will
-      be "North" for this mechanic.</p>
-      <p>Either the tanks/healers or the DPS will be selected to drop AoEs.</p>
+    <td width="50%">
+      <p><b>1.</b> Take up the spread positions from P1.</p>
+      <p>Two tells begin at the same time:</p>
+      <ol>
+        <li>The Oracle's Reflection then readies either <em>Axe Kick</em>, or 
+        <em>Scythe Kick</em>:
+          <ul>
+            <li><b>Axe Kick</b> <em>("Cleave!")</em>: large, point-blank AoE.</li>
+            <li><b>Scythe Kick:</b> <em>("Reap!")</em>: Donut AoE.</li>
+          </ul>
+        </li>
+        <li>Two circles will appear opposite one another at a random cardinal 
+        or intercardinal.</li>
+      </ol>
+      <p><em>(In this example, the circles spawn on cardinals.)</em></p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/diamond_dust_00.jpg">
     </td>
   </tr>
   <tr>
-    <td width="50%" style="text-align:center">
-      <b>Tanks/Healers dropping AoEs</b>
+    <td colspan="2">
+      <p><b>2.</b> Then, either the tanks/healers or the DPS will be selected 
+      to drop AoEs.</p>
+      <p>Each pair (MTD3, STD4, H1D1, H2D2) is responsible for their quadrant</p>
+      <ul>
+        <li>The players with the AoEs should be 45 degrees to a white circle.</li>
+        <li>The players without the AoEs should be 0 or 90 degrees to a white 
+        circle.</li>
+      </ul>
+      <p>Swap positions within your pair if needed <em>(i.e: Swap if the AoEs 
+      spawn on the first white circles.)</em>.</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center">
+      <b>Tank/Healers dropping AoEs, Circles on a cardinal</b>
     </td>
     <td style="text-align:center">
-      <b>DPS dropping AoEs</b>
+      <b>DPS dropping AoEs, Circles on a cardinal</b>
     </td>
   </tr>
   <tr>
@@ -76,17 +123,30 @@ fashion:
     </td>
   </tr>
   <tr>
+    <td style="text-align:center">
+      <b>Tank/Healers dropping AoEs, Circles on an intercardinal</b>
+    </td>
+    <td style="text-align:center">
+      <b>DPS dropping AoEs, Circles on an intercardinal</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/diamond_dust_01c.jpg">
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/diamond_dust_01d.jpg">
+    </td>
+  </tr>
+  <tr>
     <td colspan="2">
-      <p><b>2.</b> The Oracle's Reflection then readies either <em>Axe Kick</em>, or <em>Scythe Kick</em>:</p>
+      <p><b>3.</b> The Axe/Scythe Kick will <em>also</em> fire a cone AoE 
+      towards the four closest players.</p>
       <ul>
-        <li><b>Axe Kick</b> <em>("Cleave!")</em>: large, point-blank AoE.</li>
-        <li><b>Scythe Kick:</b> <em>("Reap!")</em>: Donut AoE.</li>
+        <li><b>If you do not have the AoE:</b> Be one of the closest to the 
+        boss.</li>
+        <li><b>If have the AoE:</b> Be one of the furthest to the boss.</li>
       </ul>
-      <p>The kick will also fire a cone AoE towards the four closest players, 
-      which should be baited by the players <em>not</em> dropping AoEs.</p>
-      <p>Another tell that you can use is that the Oracle's Reflection will 
-      face South if she's doing <em>Axe Kick</em>, but North if she's doing 
-      <em>Scythe Kick</em>.</p>
     </td>
   </tr>
   <tr>
@@ -107,11 +167,10 @@ fashion:
   </tr>
   <tr>
     <td colspan="2">
-      <p><b>3.</b> When the kick resolves with the cone AoEs, the four players 
-      with AoEs move out to drop them.</p>
-      <p><b>Axe Kick:</b> Wait where you are to drop the AoE.</p>
-      <p><b>Scythe Kick:</b> Move out to place the AoEs on the inner ring on
-      the floor.</p>
+      <p><b>3.</b> As soon as the Axe/Scythe castbar finishes, immediately move 
+      to either dodge the first circles (if <em>Axe Kick</em>), or drop your 
+      puddles (if <em>Scythe Kick</em>).</p>
+      <em>(This step happens</em> very <em>quickly.)</em>
     </td>
   </tr>
   <tr>
@@ -124,14 +183,14 @@ fashion:
   </tr>
   <tr>
     <td colspan="2">
-      <p><b>4.</b> Everyone comes in and stacks together in preparation for a 
-      knockback. The first circles will also resolve.</p>
+      <p><b>4.</b>Everyone comes in and stacks together in preparation for a 
+      knockback where the first circles were.</p>
       <ul>
-        <li><b>North:</b> MT, H1, D1, D3</li>
-        <li><b>South:</b> ST, H2, D2, D4</li>
+        <li><b>N to SW:</b> MT, H1, D1, D3</li>
+        <li><b>S to NE:</b> ST, H2, D2, D4</li>
       </ul>
       <p>The Oracle's Reflection will also teleport to a random cardinal or 
-      intercardinal, other than North or South.</p>
+      intercardinal.</p>
     </td>
   </tr>
   <tr>
@@ -162,12 +221,9 @@ fashion:
       <p><b>6.</b> Star AoEs resolve.</p>
       <p>Identify whether the Oracle's Reflection is, as this determines how
       you will move in the next step:</p>
-      <ul>
-        <li><b>Either NE or SW</b> <em>(45 degrees clockwise from either group)</em>: Move anti-clockwise.</li>
-        <li><b>All other cases:</b> Move clockwise.</li>
-      </ul>
-      <p><em>(In this example, the Oracle's Reflection teleported East, so the 
-      party will move clockwise.)</em></p>
+      <p>Each group needs to move around the arena, dropping four puddles along 
+      the way such that they <b>do not drop puddles directly behind, or 
+      opposite the boss.</b></p>
     </td>
   </tr>
   <tr>
@@ -308,6 +364,7 @@ cardinal/intercardinal positions.
         <li><b>One floating orb:</b> Pair stacks (MTD1, STD2, H1D3, H2D4).</li>
         <li><b>Four floating orbs:</b> Party spread.</li>
       </ul>
+      <p>Have the DPS adjust to the tanks and healers.</p>
     </td>
   </tr>
 </table>
@@ -315,7 +372,14 @@ cardinal/intercardinal positions.
 After this, the boss will teleport to the middle and begin another signature 
 mechanic.
 
-## Light Rampant
+## Light Rampant - 4:4
+
+This is a *slight* modification on the strategy outlined in the Google Doc.
+
+The main difference is that instead of rotating players in a fixed direction, 
+we count CW/CCW from MT/D1 instead. This effectively makes the party rotate 
+clockwise or anti-clockwise depending on whether two tank/healers or two DPS 
+get puddles, but makes resolution simpler.
 
 <table>
   <tr>
@@ -345,29 +409,29 @@ mechanic.
   </tr>
   <tr>
     <td>
-      <p><b>15.</b> Going from west to east, count the first three connected players in 
+      <p><b>16.</b> Going from west to east, count the first three connected players in 
       the North and South sides. We assign towers based on player positions in the 
       ring:</p>
       <ul>
         <li>Starting from <b>MT going clockwise</b>, count the <b>first
         three connected</b> players:
           <ul>
-            <li><b>1st tether:</b> North-West tower</li>
+            <li><b>1st tether:</b> North-East tower</li>
             <li><b>2nd tether:</b> South tower</li>
-            <li><b>3rd tether:</b> North-East tower</li>
+            <li><b>3rd tether:</b> North-West tower</li>
           </ul>
         </li>
         <li>Starting from <b>D1 going anti-clockwise</b>, count the <b>first 
         three connected</b> players:
           <ul>
-            <li><b>1st tether:</b> South-East tower</li>
+            <li><b>1st tether:</b> South-West tower</li>
             <li><b>2nd tether:</b> North tower</li>
-            <li><b>3rd tether:</b> South-West tower</li>
+            <li><b>3rd tether:</b> South-East tower</li>
           </ul>
         </li>
       </ul>
-      <p>The two puddle players move North-East and South-West (around the 
-      inner ring on the floor) to drop their puddles.</p>
+      <p>The two puddle players move far West and East (between the towers) to 
+      drop their puddles.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_03.jpg">
@@ -375,7 +439,7 @@ mechanic.
   </tr>
   <tr>
     <td>
-      <p><b>16.</b> When everyone's in position, it should look like this.</p>
+      <p><b>17.</b> When everyone's in position, it should look like this.</p>
       <p>It is good practice to take the tower at the edge of the arena, to
       avoid getting accidentally clipped by the two players dropping puddles
       in the center.</p>
@@ -386,10 +450,11 @@ mechanic.
   </tr>
   <tr>
     <td>
-      <p><b>17.</b> The two puddle players will rotate clockwise, dropping 
-      five puddles in total before joining their group North and South.</p>
+      <p><b>18.</b> The two puddle players move straight into the center, 
+      before turning to their left, dropping five puddles in total before 
+      joining their group North and South.</p>
       <p>The tether players wait for their towers to resolve before collapsing 
-      with their group North and South.</p>
+      with their group.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_05.jpg">
@@ -397,7 +462,7 @@ mechanic.
   </tr>
   <tr>
     <td>
-      <p><b>18.</b> Three white orbs will spawn in an equilateral triangle and
+      <p><b>19.</b> Three white orbs will spawn in an equilateral triangle and
       telegraph an AoE, which you should avoid.</p>
       <p>The timers on the two <em>The Weight of Light</em> debuffs will also
       expire, resulting in a 4-man stack.</p>
@@ -410,7 +475,7 @@ mechanic.
   </tr>
   <tr>
     <td>
-      <p><b>19.</b> The tethers will disappear.</p>
+      <p><b>20.</b> The tethers will disappear.</p>
       <p>Move into the first set of explosions as another three white orbs will
       spawn in the previously unoccupied spots and telegraph an AoE. Simply
       avoid these.</p>
@@ -422,7 +487,7 @@ mechanic.
   </tr>
   <tr>
     <td>
-      <p><b>20.</b> The second set of orbs explode.</p>
+      <p><b>21.</b> The second set of orbs explode.</p>
       <p><b>Check how many stacks of <em>Lightsteeped</em> you have.</b></p>
     </td>
     <td>
@@ -431,7 +496,159 @@ mechanic.
   </tr>
   <tr>
     <td>
-      <p><b>21.</b> We now resolve the 4-man tower in the middle.</p>
+      <p><b>22.</b> We now resolve the 4-man tower in the middle.</p>
+      <ul>
+        <li><b>Players with 2 stacks of <em>Lightsteeped</em>:</b> Enter the
+        tower.</li>
+      </ul>
+      <p>Everybody else move to your clock positions around the tower.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_09.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>23.</b> The boss will then cast <em>Banish III</em> again. Just
+      like before, this will either be a party spread, or pair stacks depending
+      on the number of orbs above the boss's head.</p>
+      <ul>
+        <li><b>One floating orb:</b> Pair stacks (MTD3, STD4, H1D1, H2D2).</li>
+        <li><b>Four floating orbs:</b> Party spread (stay in your clock
+        positions).</li>
+      </ul>
+      <p>Have the DPS adjust to the tanks and healers.</p>
+      <p><em>(In this example, the boss is doing pair stacks.)</em></p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_10.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>24.</b> Finally, the boss becomes targetable again and starts
+      casting <em>The House of Light</em>, which cleaves all players and gives
+      a stack of <em>Lightsteeped</em>.</p>
+      <p>Spread out in your standard clock positions to resolve this.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_11.jpg">
+    </td>
+  </tr>
+</table>
+
+## Light Rampant - ZizieZip
+
+This is a different method to assigning towers, which is equally viable.
+
+<table>
+  <tr>
+    <td width="50%">
+      <p><b>25.</b> Take up your clock positions.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_zzz_01.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>26.</b> Two players at random will be selected to drop AoE puddles.</p>
+      <p>There will also be six stacks of <em>Lightsteeped</em> randomly
+      distributed among the party (although no player can start with more than
+      two stacks).</p>
+      <p>The other six players will get tethered together. The tether will 
+      likely connect to the nearest player, making a connected ring if all 
+      goes well.</p>
+      <p>Six towers will also spawn around the arena.</p>
+      <p></p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_zzz_02.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>27.</b> Starting from North (where the MT is) and going clockwise,
+      count up the tethered players. We assign towers based on player positions
+      in the ring:</p>
+      <ul>
+        <li><b>1st tether:</b> North tower</li>
+        <li><b>2nd tether:</b> South tower</li>
+        <li><b>3rd tether:</b> North-West tower</li>
+        <li><b>4th tether:</b> North-East tower</li>
+        <li><b>5th tether:</b> South-West tower</li>
+        <li><b>6th tether:</b> South-East tower</li>
+      </ul>
+      <p><em>(Think of this as a letter "I", followed by a "Z".)</em></p>
+      <p>The two puddle players move West and East (around the inner ring on
+      the floor) to drop their puddles.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_zzz_03.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>28.</b> When everyone's in position, it should look like this.</p>
+      <p>It is good practice to take the tower at the edge of the arena, to
+      avoid getting accidentally clipped by the two players dropping puddles
+      in the center.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_zzz_04.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>29.</b> The two puddle players will rotate clockwise, dropping 
+      five puddles in total before joining their group roughly NNW and SSE.</p>
+      <p>The tether players wait for their towers to resolve before collapsing 
+      with their group NNW and SSE.</p>
+      <p>Note that the SW and NE towers rotate clockwise, essentially flipping
+      their North/South halves.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_zzz_05.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>30.</b> Three white orbs will spawn in an equilateral triangle and
+      telegraph an AoE, which you should avoid.</p>
+      <p>The timers on the two <em>The Weight of Light</em> debuffs will also
+      expire, resulting in a 4-man stack.</p>
+      <p><em>(You may need to resolve the stack inside the telegraph if
+      needed.)</em></p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_zzz_06.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>31.</b> The tethers will disappear.</p>
+      <p>Move into the first set of explosions as another three white orbs will
+      spawn in the previously unoccupied spots and telegraph an AoE. Simply
+      avoid these.</p>
+      <p>A 4-man tower will spawn in the center of the arena.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_zzz_07.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>32.</b> The second set of orbs explode.</p>
+      <p><b>Check how many stacks of <em>Lightsteeped</em> you have.</b></p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_zzz_08.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>33.</b> The last few steps are the same as before.</p>
+      <p>We now resolve the 4-man tower in the middle.</p>
       <ul>
         <li><b>Players with 2 stacks of <em>Lightsteeped</em>:</b> Enter the
         tower.</li>
@@ -445,7 +662,7 @@ mechanic.
   </tr>
   <tr>
     <td>
-      <p><b>22.</b> The boss will then cast <em>Banish III</em> again. Just
+      <p><b>34.</b> The boss will then cast <em>Banish III</em> again. Just
       like before, this will either be a party spread, or pair stacks depending
       on the number of orbs above the boss's head.</p>
       <ul>
@@ -453,6 +670,7 @@ mechanic.
         <li><b>Four floating orbs:</b> Party spread (stay in your clock
         positions).</li>
       </ul>
+      <p>Have the DPS adjust to the tanks and healers.</p>
       <p><em>(In this example, the boss is doing pair stacks.)</em></p>
     </td>
     <td>
@@ -461,7 +679,7 @@ mechanic.
   </tr>
   <tr>
     <td>
-      <p><b>23.</b> Finally, the boss becomes targetable again and starts
+      <p><b>35.</b> Finally, the boss becomes targetable again and starts
       casting <em>The House of Light</em>, which cleaves all players and gives
       a stack of <em>Lightsteeped</em>.</p>
       <p>Spread out in your standard clock positions to resolve this.</p>
@@ -487,7 +705,7 @@ This is the mini "transition" phase.
 <table>
 <tr>
     <td width="50%">
-      <p><b>24.</b> Pre-position for <em>Absolute Zero</em>'s knockback.</p>
+      <p><b>36.</b> Pre-position for <em>Absolute Zero</em>'s knockback.</p>
       <p>Note the spread positions here are different.</p>
     </td>
     <td>
@@ -496,7 +714,7 @@ This is the mini "transition" phase.
   </tr>
   <tr>
     <td>
-      <p><b>24.</b> Four Crystals of Light and four Crystals of Darkness
+      <p><b>37.</b> Four Crystals of Light and four Crystals of Darkness
       appear as shown in the diagram.</p>
       <p>The objective is to destroy the Ice Veil in the middle that's casting
       <em>Endless Ice Age</em> <em>without</em> destroying the four Crystals
@@ -512,7 +730,7 @@ This is the mini "transition" phase.
   </tr>
   <tr>
     <td>
-      <p><b>25.</b> The tanks and melee DPS manage the Crystals of Light:</p>
+      <p><b>38.</b> The tanks and melee DPS manage the Crystals of Light:</p>
       <ul>
         <li>The Crystals of Light will periodically target the nearest player
         with a circle AoE.</li>
@@ -536,7 +754,7 @@ This is the mini "transition" phase.
   </tr>
   <tr>
     <td>
-      <p><b>26.</b> Bait the second set of AoEs skewed anti-clockwise (to the 
+      <p><b>39.</b> Bait the second set of AoEs skewed anti-clockwise (to the 
       right, facing in).</p>
     </td>
     <td>
@@ -545,7 +763,7 @@ This is the mini "transition" phase.
   </tr>
   <tr>
     <td>
-      <p><b>27.</b> On the third set of telegraphed AoEs, the Crystals of 
+      <p><b>40.</b> On the third set of telegraphed AoEs, the Crystals of 
       Light will tether to the nearest player.</p>
     </td>
     <td>
@@ -554,7 +772,7 @@ This is the mini "transition" phase.
   </tr>
   <tr>
     <td>
-      <p><b>28.</b> On the fourth set of telegraphed AoEs, the tethered
+      <p><b>41.</b> On the fourth set of telegraphed AoEs, the tethered
       players will start dropping puddles that stay on the arena.</p>
       <p>Stepping into these puddles will inflict a lethal Bleed on you.</p>
     </td>
@@ -564,7 +782,7 @@ This is the mini "transition" phase.
   </tr>
   <tr>
     <td>
-      <p><b>28.</b> Bait these puddles around the Crystal.</p>
+      <p><b>42.</b> Bait these puddles around the Crystal.</p>
       <p>Note that even after the Crystals of Light have been destroyed, the 
       Crystals of Darkness <em>are still on the arena</em>, and the cone AoEs 
       <b>still need to be properly baited</b>.</p>
@@ -647,3 +865,6 @@ Ice Age* resolves. As a result, the damage check is to get the Ice Veil below
   </tr>
 </table>
 </details>
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 1. Fatebreaker
+title: 1. Fatebreaker v2.0
 parent: Lv 100. FRU (WIP)
 nav_order: 1
 has_children: false
@@ -8,23 +8,39 @@ has_toc: false
 permalink: /ultimates/fru/01_fatebreaker/
 ---
 
-# Fatebreaker
+# Fatebreaker v2.0
 
-<div style="background-color: #200 ; padding: 10px; border: 1px solid;">
-<p style="text-align:center"><b>This documents Lucrezia's strategy- it is not 
-expected to be the final strategy used.</b></p>
-<ul>
-  <li>Lucrezia actually has multiple groups- although Lucrezia has 
-  released video guides and Idyllshire has a written guide, I will instead 
-  start by referencing what their <em>streaming team</em> does, as the 
-  video and written guides do not have sufficient detail, and I need to 
-  check how mechanics are resolved over multiple pulls.</li>
-  <li>As a result, this <em>may</em> have some differences from the "Lucrezia" 
-  strat done on Mana.</li>
-</ul>
-<p style="text-align:center"><b>Details may be missing, or subject to change
-until I have better first-hand experience.</b></p>
-</div>
+This is version 2.0, that takes the raidplan and Discord polls together.
+
+<table>
+  <tr>
+    <td>
+      <p><b>Changelog</b></p>
+      <ul>
+        <li>3 Dec 2024: Archived Lucrezia's version (v1.0), and updated to
+        v2.0:
+          <ul>
+            <li>Updated <em>Cyclonic Break</em> spreads to H1 West, H2 South, ST East.</li>
+            <li>Updated Utopian Sky spreads (ST at NE).</li>
+            <li>The priority for who adjusts for 2x tethers has been reversed
+            from prioritising H2/D4, to prioritising MT/D1.</li>
+            <li>Updated <em>Fall of Faith</em> to N>S conga line.</li>
+            <li>Updated tower adjusters from D1D2D3 to D1D3D2.</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>Past versions:</b></p>
+      <ul>
+        <li><a href="{{site.baseurl}}/ultimates/fru/v1/01_fatebreaker/">v1.0
+        Lucrezia's strat</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 - [**Cyclonic Break**](#cyclonic-break)
 - [**Utopian Sky**](#utopian-sky)
@@ -40,7 +56,8 @@ shortly in the middle of *Utopian Sky*.
 <table>
   <tr>
     <td width="50%">
-      <p><b>1.</b> Take up your spread positions around the boss.</p>
+      <p><b>1.</b> Take up your spread positions around the boss. <em>(Note
+      these are not the "standard" spread positions.)</em></p>
       <p>The boss will have either a red or blue dragon swirling around him.</p>
       <p>Pay attention to the colour because it will affect how the next steps
       are resolved.</p>
@@ -129,8 +146,11 @@ attention to this colour.**
 <table>
   <tr>
     <td width="50%">
-      <p><b>6.</b> Take up your spread positions at the edge of the arena for
-      <em>Utopian Sky</em>, except the two tanks who will be towards the middle.</p>
+      <p><b>6.</b> Take up these modified spread positions for <em>Utopian Sky</em>. Note that the ST and D4 have swapped positions.</p>
+      <ul>
+        <li>The two tanks should be slightly away from the edge of the arena.</li>
+        <li>D3 and D4 should be at the edge of the arena, preferably a little away from the tanks.</li>
+      </ul>
       <p>There will be eight clones around the arena at the (inter)cardinal 
       positions, but <em>only visible</em> to players nearby.</p>
     </td>
@@ -141,8 +161,7 @@ attention to this colour.**
   <tr>
     <td>
       <p><b>7.</b> The MT's <em>Powder Mark Trail</em> resolves, hitting both
-      the MT and the ST with a large AoE tankbuster. Both tanks run back to
-      the edge of the arena when this happens.</p>
+      the MT and the ST with a large AoE tankbuster.</p>
       <p>At this time, three clones will raise their gunblade <em>(indicated
       by the red targets)</em> to fire a straight line AoE down the middle,
       leaving two opposite sectors safe.</p>
@@ -160,7 +179,7 @@ attention to this colour.**
         <li><b>If your clone raises their gunblade:</b> Move towards the
         center.</li>
       </ul>
-      <p><em>(In this example, the clones by ST, H1, and D4 raised their
+      <p><em>(In this example, the clones by ST, H1, and H2 raised their
       gunblades.)</em></p>
     </td>
     <td>
@@ -178,8 +197,8 @@ attention to this colour.**
       <p>Six players should now be in the middle of the arena. The two
       remaining players on the outside are the safe sectors (these will always
       be opposite each other).</p>
-      <p><em>(In this example, because ST, H1, and D4 moved in, the MT, H2, and
-      D1 who are opposite move in. The sectors with D2 and D3 are safe.)</em></p>
+      <p><em>(In this example, because ST, H1, and H2 moved in, the MT, D1, and
+      D4 who are opposite move in. The sectors with D2 and D3 are safe.)</em></p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/01/utopian_sky_04.jpg">
@@ -233,8 +252,8 @@ attention to this colour.**
       <p>Because the <em>Prey</em> targets are random, there may be a need to
       adjust, based on how many Prey markers are in your group:</p>
       <ul>
-        <li><b>If your group has 2 Prey markers:</b> H2/D4 > H1/D3 > ST/D2 >
-        MT/D1 swaps groups.</li>
+        <li><b>If your group has 2 Prey markers:</b> MT/D1 > ST/D2 > H1/D3 >
+        H2/D4 swaps groups.</li>
         <li><b>If your group has no Prey markers:</b> MT/D1 swaps groups.</li>
       </ul>
       <p></p>
@@ -281,14 +300,16 @@ Shortly after, the boss then prepares the second mechanic combo.
 
 ## Fall of Faith
 
+This is resolved with a "North-to-South" conga line to help sort out 
+priorities.
+
 <table>
   <tr>
     <td width="50%">
-      <p><b>15.</b> Line up east and west of the boss, in T/H vs DPS:</p>
+      <p><b>15.</b> Line up from North to South, on the West side of the 
+      boss:</p>
       <ul>
-        <li><b>West:</b> Tanks/Healers</li>
-        <li><b>East:</b> DPS</li>
-        <li><b>North:</b> MT/D1 > ST/D2 > H1/D3 > H2/D4 <b>:South</b></li>
+        <li><b>North:</b> H1 H2 MT ST D1 D2 D3 D4 <b>:South</b></li>
       </ul>
     </td>
     <td>
@@ -300,7 +321,7 @@ Shortly after, the boss then prepares the second mechanic combo.
       <p><b>16.</b> The boss will glow either red or blue again, and tether to
       a random player. The tether will also be tinted blue or red.</p>
       <ul>
-        <li><b>If you are tethered first: </b>Go just East of the boss.</li>
+        <li><b>If you are tethered first: </b>Go just North of the boss.</li>
       </ul>
       <p><em>(In this example, the boss and tether glow blue.)</em></p>
     </td>
@@ -313,7 +334,7 @@ Shortly after, the boss then prepares the second mechanic combo.
       <p><b>17.</b> A clone will appear North-West, glow red or blue, and 
       tether to a random player. The tether will also be tinted blue or red.</p>
       <ul>
-        <li><b>If you are tethered second: </b>Go just West of the boss.</li>
+        <li><b>If you are tethered second: </b>Go just South of the boss.</li>
       </ul>
       <p><em>(In this example, the clone and tether glow blue.)</em></p>
     </td>
@@ -326,7 +347,7 @@ Shortly after, the boss then prepares the second mechanic combo.
       <p><b>18.</b> Another clone will appear North, glow red or blue, and 
       tether to a random player. The tether will also be tinted blue or red.</p>
       <ul>
-        <li><b>If you are tethered third: </b>Go East of the boss, past
+        <li><b>If you are tethered third: </b>Go North of the boss, past
         the first tethered player.</li>
       </ul>
       <p><em>(In this example, the clone and tether glow red.)</em></p>
@@ -340,24 +361,10 @@ Shortly after, the boss then prepares the second mechanic combo.
       <p><b>19.</b> One last clone will appear North-East, glow red or blue, 
       and tether to a random player. The tether will also be tinted blue or red.</p>
       <ul>
-        <li><b>If you are tethered fourth: </b>Go West of the boss, past the 
+        <li><b>If you are tethered fourth: </b>Go South of the boss, past the 
         second tethered player.</li>
       </ul>
       <p><em>(In this example, the clone and tether glow red.)</em></p>
-      <p>With four people tethered, this leaves behind four players that were
-      not tethered.</p>
-      <p>The objective is to split the four untethered players so that the East
-      and West each have four players.</p>
-      <p>To do so, the healers and ranged adjust starting from the South:</p>
-      <ol>
-        <li><b>0 T/H tethers and 4 DPS tethers:</b> H1 and H2 goes East.</li>
-        <li><b>1 T/H tether and 3 DPS tethers:</b> H2 > H1 goes East.</li>
-        <li><b>2 T/H tethers and 2 DPS tethers:</b> No adjustments.</li>
-        <li><b>3 T/H tethers and 1 DPS tether:</b> D4 > D3 goes West.</li>
-        <li><b>4 T/H tethers and 0 DPS tether:</b> D4 and D3 goes West.</li>
-      </ol>
-      <p><em>(In this example, one tank/healer and three DPS are tethered. H2
-      is not tethered, so H2 swaps to the East group.)</em></p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/01/fall_of_faith_05.jpg">
@@ -365,8 +372,18 @@ Shortly after, the boss then prepares the second mechanic combo.
   </tr>
   <tr>
     <td>
-      <p><b>20.</b> With all players in position, we are now ready to resolve
-      all the tethers.</p>
+      <p><b>20.</b> With four people tethered, this leaves behind four players 
+      that were not tethered.</p>
+      <p>We need to split the four untethered players so that the North
+      and South groups each have four players.</p>
+      <ul>
+        <li>The two North-most remaining players join the North group.</li>
+        <li>The two South-most remaining players join the South group.</li>
+      </ul>
+      <p>In addition, you may need to sort out Lightning spread positions.</p>
+      <ul>
+        <li>The player closest to the extremes takes the East-most position.</li>
+      </ul>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/01/fall_of_faith_06.jpg">
@@ -374,12 +391,8 @@ Shortly after, the boss then prepares the second mechanic combo.
   </tr>
   <tr>
     <td>
-      <p><b>21.</b> We resolve the first of four tethers.</p>
-      <p>Lightning tethers fire cleaves at the three closest players.</p>
-      <p>The other three players must spread North, South, and East/West of the
-      tethered player (who will be immobilised).</p>
-      <p><em>(In this example, we resolve a Lightning tether.)</em></p>
-      <p>After this resolves, the first and third tethers swap positions.</p>
+      <p><b>21.</b> With all players in position, we are now ready to resolve
+      all the tethers.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/01/fall_of_faith_07.jpg">
@@ -387,9 +400,12 @@ Shortly after, the boss then prepares the second mechanic combo.
   </tr>
   <tr>
     <td>
-      <p><b>22.</b> We resolve the second tether.</p>
+      <p><b>22.</b> We resolve the first of four tethers.</p>
+      <p>Lightning tethers fire cleaves at the three closest players.</p>
+      <p>The other three players must spread North, South, and East/West of the
+      tethered player (who will be immobilised).</p>
       <p><em>(In this example, we resolve a Lightning tether.)</em></p>
-      <p>After this resolves, the second and fourth tethers swap positions.</p>
+      <p>After this resolves, the first and third tethers swap positions.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/01/fall_of_faith_08.jpg">
@@ -397,12 +413,9 @@ Shortly after, the boss then prepares the second mechanic combo.
   </tr>
   <tr>
     <td>
-      <p><b>23.</b> We resolve the third tether.</p>
-      <p>Fire tethers cleaves the closest player, that is shared between the
-      three players.</p>
-      <p>All players stack together East/West (towards the outer edge) of the
-      tethered player (who will be immobilised).</p>
-      <p><em>(In this example, we resolve a Fire tether.)</em></p>
+      <p><b>23.</b> We resolve the second tether.</p>
+      <p><em>(In this example, we resolve a Lightning tether.)</em></p>
+      <p>After this resolves, the second and fourth tethers swap positions.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/01/fall_of_faith_09.jpg">
@@ -410,11 +423,24 @@ Shortly after, the boss then prepares the second mechanic combo.
   </tr>
   <tr>
     <td>
-      <p><b>24.</b> Finally, we resolve the fourth (and final) tether.</p>
+      <p><b>24.</b> We resolve the third tether.</p>
+      <p>Fire tethers cleaves the closest player, that is shared between the
+      three players.</p>
+      <p>All players stack together East/West (towards the outer edge) of the
+      tethered player (who will be immobilised).</p>
       <p><em>(In this example, we resolve a Fire tether.)</em></p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/01/fall_of_faith_10.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>25.</b> Finally, we resolve the fourth (and final) tether.</p>
+      <p><em>(In this example, we resolve a Fire tether.)</em></p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/01/fall_of_faith_11.jpg">
     </td>
   </tr>
 </table>
@@ -428,13 +454,13 @@ This is the last mechanic of the phase.
 <table>
   <tr>
     <td width="50%">
-      <p><b>25.</b> Three towers will spawn along either the West or East edge.
+      <p><b>26.</b> Three towers will spawn along either the West or East edge.
       There will be six pips divided randomly amongst the three towers.</p>
       <p>To resolve this, we preposition in pairs at each tower:</p>
       <ul>
         <li><b>North:</b> H1, D1</li>
-        <li><b>Center:</b> D4, D2</li>
-        <li><b>South:</b> H2, D3</li>
+        <li><b>Center:</b> D4, D3</li>
+        <li><b>South:</b> H2, D2</li>
       </ul>
     </td>
     <td>
@@ -450,8 +476,8 @@ This is the last mechanic of the phase.
         <li><b>If your tower has one pip:</b> Move to the tower that has more
         than two pips.</li>
       </ul>
-      <p><em>(In this example, the North tower has only one pip, while the
-      middle tower has three, so D1 moves from the North tower to the middle
+      <p><em>(In this example, the North tower has three pips, while the
+      South tower has one, so D2 moves from the South tower to the North
       tower.)</em></p>
     </td>
     <td>
@@ -480,8 +506,8 @@ This is the last mechanic of the phase.
   </tr>
   <tr>
     <td>
-      <p><b>28.</b> The towers resolve, together with the ST's <em>Powder Mark
-      Trail</em>.</p>
+      <p><b>28.</b> The ST's <em>Powder Mark Trail</em> resolves, followed by 
+      the towers.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/01/towers_04.jpg">
@@ -498,43 +524,11 @@ the phase.
 
 <details markdown=block>
 <summary>
-  <b>[Strategy]</b> Are there any differences from Lucrezia's strategy?
-</summary>
-<table>
-  <tr>
-    <td>
-      <p>There are a couple minor differences.</p>
-      <ol>
-        <li>The spread positions towards the beginning of <em>Utopian Sky</em>
-        has been changed to match Elemental's strategy for <em>Dragonsong's
-        Reprise</em>
-          <ul>
-            <li><b>Front:</b> Healer (Elemental) vs Melee (Lucrezia)</li>
-            <li><b>Left:</b> Melee (Elemental) vs Tank (Lucrezia)</li>
-            <li><b>Center:</b> Tank (Elemental) vs Healer (Lucrezia)</li>
-            <li><b>Right:</b> Ranged</li>
-          </ul>
-        </li>
-        <li>The way to assign players to towers is slightly different. Here,
-        I've assigned three players to towers (H1, D4, H2), and have three
-        players flex like <em>Wyrmsbreath 2</em> in <em>Dragonsong's
-        Reprise</em>. Lucrezia fixes H1 to the North tower, and H2 to the
-        south tower, but has all four DPS fill in the missing pips from North
-        to South in order from D1 to D4.</li>
-      </ol>
-    </td>
-  </tr>
-</table>
-</details>
-
-
-<details markdown=block>
-<summary>
   <b>[Utopian Sky]</b> Why shouldn't you jump if your sector is safe?
 </summary>
 <table>
   <tr>
-    <td width="50%">
+    <td>
       <p>When the party is spread out, everybody is looking for movement as an 
       indicator that "this sector is not safe", since one of the conditions is
       that <em>if the player opposite you moves</em>, then your sector is not 
@@ -547,3 +541,20 @@ the phase.
   </tr>
 </table>
 </details>
+
+<details markdown=block>
+<summary>
+  <b>[Towers]</b> Why are the base adjuster positions D1 > D3 > D2?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>This is to match the way <em>Wyrmsbreath</em> 1 is handled in 
+      <em>Dragonsong's Reprise</em>.</p>
+    </td>
+  </tr>
+</table>
+</details>
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

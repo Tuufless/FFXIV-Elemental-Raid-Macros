@@ -11,27 +11,31 @@ permalink: /ultimates/fru/
 
 Elemental's FRU PF strat is currently a **work in progress**.
 
-<div style="background-color: #200 ; padding: 10px; border: 1px solid;">
+<div style="padding: 10px; border: 1px solid;">
 <ul>
-  <li><b>In the interest of getting a working strat documented, I have decided
-  to document Lucrezia's strat.</b>
+  <li><b>Current version: v2.0.0</b>
     <ul>
-      <li>Lucrezia actually has multiple groups- although Lucrezia has 
-      released video guides and Idyllshire has a written guide, I will instead 
-      start by referencing what their <em>streaming team</em> does, as the 
-      video and written guides do not have sufficient detail, and I need to 
-      check how mechanics are resolved over multiple pulls.</li>
-      <li>As a result, this <em>may</em> have some differences from the 
-      "Lucrezia" strat done on Mana.</li>
+      <li>Fatebreaker: v2.0.0</li>
+      <li>Usurper of Frost: v2.0.0</li>
     </ul>
   </li>
-  <li><b>For now, the focus is on getting something written down
-  <em>without</em> having to debate the merits of each strategy.</b></li>
-  <li><b>Once more groups have cleared and we have more information, some 
-  things will likely be modified- again, the focus is to get <em>something</em>
-  workable first.</b></li>
-  <li><b>This will be a time-intensive process- a final strategy likely won't 
-  come until the end of Patch 7.1 (roughly March/April 2025).</b></li>
+</ul>
+</div>
+
+I'm using software's semantic versioning ("major.minor.patch") to help keep 
+track of changes while things are in flux:
+
+- Major versions change when a significant, or backwards-incompatible change is 
+  made (e.g: changing strats).
+- Minor versions change when the basic strategy is kept intact, but positions 
+  have changed.
+- Patch versions change when something minor is tweaked, like moving mitigation
+  around.
+
+<div style="background-color: #200 ; padding: 10px; border: 1px solid;">
+<ul>
+  <li><b>Getting a final strategy together will be a time-intensive process, 
+  and likely won't settle until the end of Patch 7.1 (roughly March/April 2025).</b></li>
 </ul>
 </div>
 
@@ -103,3 +107,6 @@ instead of NE?</summary>
   </tr>
 </table>
 </details>
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

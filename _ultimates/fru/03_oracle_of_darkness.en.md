@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3. Oracle of Darkness
+title: 3. Oracle of Darkness (WIP)
 parent: Lv 100. FRU (WIP)
 nav_order: 3
 has_children: false
@@ -8,7 +8,7 @@ has_toc: false
 permalink: /ultimates/fru/03_oracle_of_darkness/
 ---
 
-# Oracle of Darkness
+# Oracle of Darkness (WIP)
 
 <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
 <p style="text-align:center"><b>Details may be missing, or subject to change
@@ -31,9 +31,8 @@ Six of the eight sets of debuffs have fixed assignments:
 
 - Two DPS will get 10s Fire debuffs (the "short Fires").
 - One tank/healer and one DPS will get 20s Fire debuffs (the "mid Fires"). 
-  They will also need to take note of their 42s debuff:
-  - One will have a 42s *Dark Water III* debuff.
-  - The other will have a 42s *Dark Eruption* debuff.
+  - The tank/healer have a 42s *Dark Eruption* debuff.
+  - The DPS will also have a 42s *Dark Water III* debuff.
 - Two tanks/healers will get 30s Fire debuffs (the "long Fires").
 
 This leaves the last tank/healer and the last DPS. One of them will get a *Dark Blizzard III* debuff, and the other will get a *Dark Fire III* debuff.
@@ -103,15 +102,12 @@ center of the arena and their hourglass according to what they need to resolve.
         <li><b>Short Fire:</b> Stay outside and record your position (for <em>Dark Eruption</em>).</li>
         <li><b>Mid Fire:</b> Record your position based on your debuff:
           <ul>
-            <li><b>Dark Water III:</b> Inside (a little away from the center).</li>
-            <li><b>Dark Eruption:</b> Outside.</li>
+            <li><b>Tank/Healer:</b> Outside.</li>
+            <li><b>DPS:</b> Inside (a little away from the center).</li>
           </ul>
         </li>
         <li><b>Long Fire:</b> Bait your hourglass's laser.</li>
       </ul>
-      <p><em>(In this example, the tank/healer mid Fire has </em>Dark 
-      Eruption<em> so they record outside. The DPS mid Fire has </em>Dark 
-      Water III<em>, so they record inside.)</em></p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/03/ultimate_relativity_03.jpg">
@@ -201,11 +197,11 @@ center of the arena and their hourglass according to what they need to resolve.
       to their recorded positions, which should be along their assigned clock 
       positions.</p>
       <ul>
-        <li>All the players with <em>Dark Eruption</em> (the short Fires and 
-        one of the mid Fires) should have recorded their positions on the 
+        <li>All the players with <em>Dark Eruption</em> (the short Fires and
+        the tank/healer mid Fire) should have recorded their positions on the 
         outside.</li>
-        <li>The player with <em>Dark Water III</em> (one of the mid Fires) 
-        should have recording their position on the inside.</li>
+        <li>The player with <em>Dark Water III</em> (the DPS mid Fire) 
+        should have recorded their position on the inside.</li>
         <li>All the players with <em>Shadoweye</em> (the long Fires) should 
         have recorded their positions on the inside.</li>
       </ul>
