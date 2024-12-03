@@ -445,7 +445,10 @@ This is a *slight* modification on the strategy outlined in the Google Doc.
 The main difference is that instead of rotating players in a fixed direction, 
 we count CW/CCW from MT/D1 instead. This effectively makes the party rotate 
 clockwise or anti-clockwise depending on whether two tank/healers or two DPS 
-get puddles, but makes resolution simpler.
+get puddles.
+
+This is also equivalent to having H2 or D4 swap over to the other side
+(depending on whether both puddles are on two DPS or two tanks/healers.)
 
 <table>
   <tr>
