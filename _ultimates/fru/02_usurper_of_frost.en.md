@@ -336,14 +336,6 @@ mechanic.
       <p>The other six players will get tethered together. The tether will 
       likely connect to the nearest player, making a connected ring if all 
       goes well.</p>
-      <p>Adjust as needed so that the North and South sides each have one
-      puddle:</p>
-      <ul>
-        <li><b>If your side has two puddles:</b> The eastmost puddle swaps 
-        side.</li>
-        <li><b>If your side has no puddles:</b> H2/D4 swaps side.</li>
-      </ul>
-      <p><em>(In this example, H2 and D4 will swap sides.)</em></p>
       <p>Six towers will also spawn around the arena.</p>
       <p></p>
     </td>
@@ -353,22 +345,24 @@ mechanic.
   </tr>
   <tr>
     <td>
-      <p><b>15.</b> Now that the North and South sides each have three 
-      tethered players, we assign towers based on player positions in the 
+      <p><b>15.</b> Going from west to east, count the first three connected players in 
+      the North and South sides. We assign towers based on player positions in the 
       ring:</p>
       <ul>
-        <li><b>North-side tethers:</b>
+        <li>Starting from <b>MT going clockwise</b>, count the <b>first
+        three connected</b> players:
           <ul>
-            <li><b>West-most tether:</b> North-West tower</li>
-            <li><b>Middle tether:</b> South tower</li>
-            <li><b>East-most tether:</b> North-East tower</li>
+            <li><b>1st tether:</b> North-West tower</li>
+            <li><b>2nd tether:</b> South tower</li>
+            <li><b>3rd tether:</b> North-East tower</li>
           </ul>
         </li>
-        <li><b>South-side tethers:</b>
+        <li>Starting from <b>D1 going anti-clockwise</b>, count the <b>first 
+        three connected</b> players:
           <ul>
-            <li><b>West-most tether:</b> South-East tower</li>
-            <li><b>Middle tether:</b> North tower</li>
-            <li><b>East-most tether:</b> South-West tower</li>
+            <li><b>1st tether:</b> South-East tower</li>
+            <li><b>2nd tether:</b> North tower</li>
+            <li><b>3rd tether:</b> South-West tower</li>
           </ul>
         </li>
       </ul>
@@ -404,9 +398,9 @@ mechanic.
   <tr>
     <td>
       <p><b>18.</b> Three white orbs will spawn in an equilateral triangle and
-      telegraph an AoE. Move clockwise out of the telegraph as a group.</p>
-      <p>Around this time, the timers on the two <em>The Weight of Light</em>
-      debuffs will expire, resulting in a 4-man stack.</p>
+      telegraph an AoE, which you should avoid.</p>
+      <p>The timers on the two <em>The Weight of Light</em> debuffs will also
+      expire, resulting in a 4-man stack.</p>
       <p><em>(You may need to resolve the stack inside the telegraph if
       needed.)</em></p>
     </td>
