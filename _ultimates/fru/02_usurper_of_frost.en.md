@@ -477,17 +477,36 @@ cardinal/intercardinal positions.
 After this, the boss will teleport to the middle and begin another signature 
 mechanic.
 
-## Light Rampant - 4:4
+## Light Rampant
 
-This is a *slight* modification on the strategy outlined in the Google Doc.
+Two players at random will be selected to drop AoE puddles, while the other six
+will get tethered together *(Chains of Everlasting Light)*.
 
-The main difference is that instead of rotating players in a fixed direction, 
-we count CW/CCW from MT/D1 instead. This effectively makes the party rotate 
-clockwise or anti-clockwise depending on whether two tank/healers or two DPS 
-get puddles.
+- After 10 seconds, the *Chains of Everlasting Light* debuff will turn into 
+  *Curse of Everlasting Light*. From this point on, the raid wipes if the 
+  tethers get too short.
 
-This is also equivalent to having H2 or D4 swap over to the other side
-(depending on whether both puddles are on two DPS or two tanks/healers.)
+There will also be six stacks of *Lightsteeped* randomly distributed among the 
+party (although no player can start with more than two stacks).
+
+- Resolving mechanics or getting hit by an AoE increase the stacks of 
+  *Lightsteeped* by one.
+- The raid wipes if any player reaches 5 stacks of *Lightsteeped*.
+
+There are two main ways to resolve *Light Rampant*.
+
+### Light Rampant - 4:4
+
+This is essentially a mirrored version of the strategy outlined in the Google 
+Doc, with tanks and melee on the West instead of the East.
+
+The main difference is that instead of rotating players in a fixed direction to 
+make the hexagon, we count CW/CCW from MT/D1 instead. This effectively makes the 
+party rotate clockwise or anti-clockwise depending on whether two tank/healers 
+or two DPS get puddles.
+
+This is equivalent to having H2 or D4 swap over to the other side (depending on 
+whether both puddles are on two DPS or two tanks/healers.)
 
 <table>
   <tr>
@@ -644,7 +663,7 @@ This is also equivalent to having H2 or D4 swap over to the other side
   </tr>
 </table>
 
-## Light Rampant - ZizieZip
+### Light Rampant - ZizieZip
 
 This is a different method to assigning towers, which is equally viable. The 
 party is more spaced out at the start, making it easier to identify the puddle 
