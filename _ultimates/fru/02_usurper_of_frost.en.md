@@ -50,6 +50,8 @@ Rampant.
 </div>
 
 - [**Diamond Dust - Colour coded**](#diamond-dust---colour-coded)
+  - [**Sunbound Holy - Always Away**](#sunbound-holy---always-away) _or_ 
+  - [**Sunbound Holy - CW priority**](#sunbound-holy---cw-priority)
 - [**Mirror, Mirror**](#mirror-mirror)
 - [**Light Rampant- 4:4**](#light-rampant---44) _or_ [**Light Rampant- ZizieZip**](#light-rampant---ziziezip)
 - [**Endless Ice Age (Transition)**](#endless-ice-age)
@@ -236,61 +238,26 @@ markers.
       <img src="{{site.baseurl}}/images/ultimates/fru/02/diamond_dust_06b.jpg">
     </td>
   </tr>
-  <tr>
-    <td>
-      <p><b>7.</b> The Oracle's Reflection casts <em>Sunbound Holy</em>, 
-      targeting each healer with a 4-man stack AoE that also leaves behind a 
-      puddle.</p>
-      <p>Move clockwise or anti-clockwise around the arena (based on where the 
-      Oracle's Reflection is), dropping the puddles along the way.</p>
-      <p><b>Make sure you end either directly behind or opposite the Usurper 
-      of Frost.</b></p>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru/02/diamond_dust_07.jpg">
-    </td>
-  </tr>
 </table>
 
-Your movement will change depending on where the boss spawned relative to 
-either party.
+## Sunbound Holy
+
+The Oracle's Reflection then casts *Sunbound Holy*, which targets each healer 
+four times with a 4-man stack AoE that also leaves a puddle behind. Each party 
+needs to drop these puddles and end up **either directly behind the boss**, or 
+**at least 135 degrees away from the boss**.
+
+First, let's address the "cursed" pattern, which is where the boss teleports 
+directly in front of either light party.
 
 <table>
   <tr>
     <td width="50%">
-      <p style="text-align:center"><b>Boss is 90 degrees from a party</b></p>
-      <p>This is the slow case. Go clockwise.</p>
-    </td>
-    <td>
-      <p style="text-align:center"><b>Boss is 45 degrees CCW from a party</b></p>
-      <p>This is the fast case. Go clockwise, and a little further to end 
-      opposite/behind the boss.</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru/02/diamond_dust_07a.jpg">
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru/02/diamond_dust_07b.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p style="text-align:center"><b>Boss is 45 degrees CW from a party</b></p>
-      <p>This is the fast case. Go anti-clockwise, since going clockwise would 
-      place puddles behind the boss.</p>
-    </td>
-    <td>
-      <p style="text-align:center"><b>Boss is 0 or 180 degrees from a party</b></p>
-      <p>This is the "cursed" case. Go clockwise <em>very</em> fast- you need 
-      to <b>not</b> drop the first puddle behind the boss (marked in yellow) 
-      <em>and</em> still make it to the other side.</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru/02/diamond_dust_07c.jpg">
+      <p>With the "cursed pattern", move as soon as the star AoEs go off. The 
+      aim is to <b>not</b> drop the first <em>Akh Morn</em> puddle directly 
+      behind the boss (marked in yellow).</p>
+      <p>After that, quickly run clockwise 180 degrees around the arena- you 
+      need to drop four puddles and still make it to the other side.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/02/diamond_dust_07d.jpg">
@@ -298,8 +265,80 @@ either party.
   </tr>
 </table>
 
-We need the two parties to be behind or opposite the Oracle's Reflection to 
-prepare for the next mechanic.
+With that out of the way, there are two methods to resolving the non-cursed 
+scenarios:
+
+### Sunbound Holy - Always Away
+
+While the rule of "always rotate away from the boss" does not always result in 
+the party ending up directly opposite the boss, the movement is a consistent 90 
+degree turn.
+
+<table>
+  <tr>
+    <td width="50%">
+      <p>If the boss is 90 degrees from a party, both parties rotate away from 
+      the boss and end up directly opposite.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/diamond_dust_aa_07a.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>If the boss is 45 degrees from a party, both parties rotate away from 
+      the boss and end up 135 degrees away from the boss.</p>
+      <p>The next movement will be slanted.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/diamond_dust_aa_07b.jpg">
+    </td>
+  </tr>
+</table>
+
+### Sunbound Holy - CW priority
+
+Alternatively, if you prefer ending up directly in front or behind the boss, 
+then you can opt to rotate clockwise in 2/3 of the remaining cases (and 
+anti-clockwise in the last case).
+
+Depending on where the boss is, you can run further if needed to better 
+position yourself directly behind or opposite the boss.
+
+<table>
+  <tr>
+    <td width="50%">
+      <p>If the boss is 90 degrees from a party, both parties rotate 90 degrees clockwise.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/diamond_dust_07a.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>If the boss is 45 degrees anti-clockwise from a party, then both 
+      parties rotate at least 90 degrees clockwise, and can rotate an 
+      additional 45 degrees if they want to put them directly behind the boss.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/diamond_dust_07b.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>If the boss is 45 degrees clockwise from a party, then this is the only scenario where the parties run anti-clockwise.</p>
+      <p>Both parties rotate at least 90 degrees anti-clockwise, and can 
+      rotate an additional 45 degrees if they want to put them directly behind 
+      the boss.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/diamond_dust_07c.jpg">
+    </td>
+  </tr>
+</table>
+
+We need the two parties to be behind or at least 135 degrees away from the 
+Oracle's Reflection to prepare for the next mechanic.
 
 <table>
   <tr>
@@ -318,7 +357,7 @@ prepare for the next mechanic.
   </tr>
   <tr>
     <td colspan="2">
-      <p><b>8.</b> The Oracle's Reflection will now ready either <em>Twin 
+      <p><b>9.</b> The Oracle's Reflection will now ready either <em>Twin 
       Silence</em> or <em>Twin Stillness</em>.</p>
       <ul>
         <li><b>Twin Silence</b> <em>("Sink into Silence!")</em>: Move in front of the Oracle's Reflection.</li>
@@ -344,7 +383,7 @@ prepare for the next mechanic.
   </tr>
   <tr>
     <td colspan="2">
-      <p><b>9.</b> The boss will quickly follow it up with the opposite attack,
+      <p><b>10.</b> The boss will quickly follow it up with the opposite attack,
       so slide in/out again as necessary.</p>
     </td>
   </tr>
@@ -370,7 +409,7 @@ cardinal/intercardinal positions.
 <table>
   <tr>
     <td width="50%">
-      <p><b>10.</b> Find the blue mirror.</p>
+      <p><b>11.</b> Find the blue mirror.</p>
       <ul>
         <li><b>Tanks and Melee:</b> Bring the boss directly opposite the blue 
         mirror.</li>
@@ -383,7 +422,7 @@ cardinal/intercardinal positions.
   </tr>
   <tr>
     <td>
-      <p><b>11.</b> The Usurpur of Front will ready <em>Scythe Kick</em>, which
+      <p><b>12.</b> The Usurpur of Front will ready <em>Scythe Kick</em>, which
       also fires four cone AoEs at the four closest players.</p>
       <p>This attack will be recorded by all the mirrors, and the blue 
       mirror's copy will resolve together with the boss.</p>
@@ -411,7 +450,7 @@ cardinal/intercardinal positions.
   </tr>
   <tr>
     <td>
-      <p><b>12.</b> Move the boss to the (nearest) red mirror. <em>(If both red
+      <p><b>13.</b> Move the boss to the (nearest) red mirror. <em>(If both red
       mirrors are equidistant, rotate clockwise.)</em></p>
       <p>The healers and ranged will go to the other red mirror.</p>
       <p>Spread out beside the red mirrors, making sure not to hit the other
@@ -423,7 +462,7 @@ cardinal/intercardinal positions.
   </tr>
   <tr>
     <td colspan="2">
-      <p><b>13.</b> The boss will then cast <em>Banish III</em>. This will 
+      <p><b>14.</b> The boss will then cast <em>Banish III</em>. This will 
       either be a party spread, or pair stacks depending on the number of orbs 
       above the boss's head.</p>
       <ul>
@@ -453,7 +492,7 @@ This is also equivalent to having H2 or D4 swap over to the other side
 <table>
   <tr>
     <td width="50%">
-      <p><b>14.</b> Make two rows with tanks and healers North, and DPS
+      <p><b>15.</b> Make two rows with tanks and healers North, and DPS
       South.</p>
     </td>
     <td>
@@ -462,7 +501,7 @@ This is also equivalent to having H2 or D4 swap over to the other side
   </tr>
   <tr>
     <td>
-      <p><b>15.</b> Two players at random will be selected to drop AoE puddles.</p>
+      <p><b>16.</b> Two players at random will be selected to drop AoE puddles.</p>
       <p>There will also be six stacks of <em>Lightsteeped</em> randomly
       distributed among the party (although no player can start with more than
       two stacks).</p>
@@ -477,7 +516,7 @@ This is also equivalent to having H2 or D4 swap over to the other side
   </tr>
   <tr>
     <td>
-      <p><b>16.</b> Going from west to east, count the first three connected players in 
+      <p><b>17.</b> Going from west to east, count the first three connected players in 
       the North and South sides. We assign towers based on player positions in the 
       ring:</p>
       <ul>
@@ -507,7 +546,7 @@ This is also equivalent to having H2 or D4 swap over to the other side
   </tr>
   <tr>
     <td>
-      <p><b>17.</b> When everyone's in position, it should look like this.</p>
+      <p><b>18.</b> When everyone's in position, it should look like this.</p>
       <p>It is good practice to take the tower at the edge of the arena, to
       avoid getting accidentally clipped by the two players dropping puddles
       in the center.</p>
@@ -518,7 +557,7 @@ This is also equivalent to having H2 or D4 swap over to the other side
   </tr>
   <tr>
     <td>
-      <p><b>18.</b> The two puddle players move straight into the center, 
+      <p><b>19.</b> The two puddle players move straight into the center, 
       before turning to their left, dropping five puddles in total before 
       joining their group North and South.</p>
       <p>The tether players wait for their towers to resolve before collapsing 
@@ -530,7 +569,7 @@ This is also equivalent to having H2 or D4 swap over to the other side
   </tr>
   <tr>
     <td>
-      <p><b>19.</b> Three white orbs will spawn in an equilateral triangle and
+      <p><b>20.</b> Three white orbs will spawn in an equilateral triangle and
       telegraph an AoE, which you should avoid.</p>
       <p>The timers on the two <em>The Weight of Light</em> debuffs will also
       expire, resulting in a 4-man stack.</p>
@@ -543,7 +582,7 @@ This is also equivalent to having H2 or D4 swap over to the other side
   </tr>
   <tr>
     <td>
-      <p><b>20.</b> The tethers will disappear.</p>
+      <p><b>21.</b> The tethers will disappear.</p>
       <p>Move into the first set of explosions as another three white orbs will
       spawn in the previously unoccupied spots and telegraph an AoE. Simply
       avoid these.</p>
@@ -555,7 +594,7 @@ This is also equivalent to having H2 or D4 swap over to the other side
   </tr>
   <tr>
     <td>
-      <p><b>21.</b> The second set of orbs explode.</p>
+      <p><b>22.</b> The second set of orbs explode.</p>
       <p><b>Check how many stacks of <em>Lightsteeped</em> you have.</b></p>
     </td>
     <td>
@@ -564,7 +603,7 @@ This is also equivalent to having H2 or D4 swap over to the other side
   </tr>
   <tr>
     <td>
-      <p><b>22.</b> We now resolve the 4-man tower in the middle.</p>
+      <p><b>23.</b> We now resolve the 4-man tower in the middle.</p>
       <ul>
         <li><b>Players with 2 stacks of <em>Lightsteeped</em>:</b> Enter the
         tower.</li>
@@ -577,7 +616,7 @@ This is also equivalent to having H2 or D4 swap over to the other side
   </tr>
   <tr>
     <td>
-      <p><b>23.</b> The boss will then cast <em>Banish III</em> again. Just
+      <p><b>24.</b> The boss will then cast <em>Banish III</em> again. Just
       like before, this will either be a party spread, or pair stacks depending
       on the number of orbs above the boss's head.</p>
       <ul>
@@ -594,7 +633,7 @@ This is also equivalent to having H2 or D4 swap over to the other side
   </tr>
   <tr>
     <td>
-      <p><b>24.</b> Finally, the boss becomes targetable again and starts
+      <p><b>25.</b> Finally, the boss becomes targetable again and starts
       casting <em>The House of Light</em>, which cleaves all players and gives
       a stack of <em>Lightsteeped</em>.</p>
       <p>Spread out in your standard clock positions to resolve this.</p>
@@ -607,12 +646,14 @@ This is also equivalent to having H2 or D4 swap over to the other side
 
 ## Light Rampant - ZizieZip
 
-This is a different method to assigning towers, which is equally viable.
+This is a different method to assigning towers, which is equally viable. The 
+party is more spaced out at the start, making it easier to identify the puddle 
+players.
 
 <table>
   <tr>
     <td width="50%">
-      <p><b>25.</b> Take up your clock positions.</p>
+      <p><b>15.</b> Take up your clock positions.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_zzz_01.jpg">
@@ -620,7 +661,7 @@ This is a different method to assigning towers, which is equally viable.
   </tr>
   <tr>
     <td>
-      <p><b>26.</b> Two players at random will be selected to drop AoE puddles.</p>
+      <p><b>16.</b> Two players at random will be selected to drop AoE puddles.</p>
       <p>There will also be six stacks of <em>Lightsteeped</em> randomly
       distributed among the party (although no player can start with more than
       two stacks).</p>
@@ -636,7 +677,7 @@ This is a different method to assigning towers, which is equally viable.
   </tr>
   <tr>
     <td>
-      <p><b>27.</b> Starting from North (where the MT is) and going clockwise,
+      <p><b>17.</b> Starting from North (where the MT is) and going clockwise,
       count up the tethered players. We assign towers based on player positions
       in the ring:</p>
       <ul>
@@ -657,7 +698,7 @@ This is a different method to assigning towers, which is equally viable.
   </tr>
   <tr>
     <td>
-      <p><b>28.</b> When everyone's in position, it should look like this.</p>
+      <p><b>18.</b> When everyone's in position, it should look like this.</p>
       <p>It is good practice to take the tower at the edge of the arena, to
       avoid getting accidentally clipped by the two players dropping puddles
       in the center.</p>
@@ -668,7 +709,7 @@ This is a different method to assigning towers, which is equally viable.
   </tr>
   <tr>
     <td>
-      <p><b>29.</b> The two puddle players will rotate clockwise, dropping 
+      <p><b>19.</b> The two puddle players will rotate clockwise, dropping 
       five puddles in total before joining their group roughly NNW and SSE.</p>
       <p>The tether players wait for their towers to resolve before collapsing 
       with their group NNW and SSE.</p>
@@ -681,7 +722,7 @@ This is a different method to assigning towers, which is equally viable.
   </tr>
   <tr>
     <td>
-      <p><b>30.</b> Three white orbs will spawn in an equilateral triangle and
+      <p><b>20.</b> Three white orbs will spawn in an equilateral triangle and
       telegraph an AoE, which you should avoid.</p>
       <p>The timers on the two <em>The Weight of Light</em> debuffs will also
       expire, resulting in a 4-man stack.</p>
@@ -694,7 +735,7 @@ This is a different method to assigning towers, which is equally viable.
   </tr>
   <tr>
     <td>
-      <p><b>31.</b> The tethers will disappear.</p>
+      <p><b>21.</b> The tethers will disappear.</p>
       <p>Move into the first set of explosions as another three white orbs will
       spawn in the previously unoccupied spots and telegraph an AoE. Simply
       avoid these.</p>
@@ -706,7 +747,7 @@ This is a different method to assigning towers, which is equally viable.
   </tr>
   <tr>
     <td>
-      <p><b>32.</b> The second set of orbs explode.</p>
+      <p><b>22.</b> The second set of orbs explode.</p>
       <p><b>Check how many stacks of <em>Lightsteeped</em> you have.</b></p>
     </td>
     <td>
@@ -715,7 +756,7 @@ This is a different method to assigning towers, which is equally viable.
   </tr>
   <tr>
     <td>
-      <p><b>33.</b> The last few steps are the same as before.</p>
+      <p><b>23.</b> The last few steps are the same as before.</p>
       <p>We now resolve the 4-man tower in the middle.</p>
       <ul>
         <li><b>Players with 2 stacks of <em>Lightsteeped</em>:</b> Enter the
@@ -730,7 +771,7 @@ This is a different method to assigning towers, which is equally viable.
   </tr>
   <tr>
     <td>
-      <p><b>34.</b> The boss will then cast <em>Banish III</em> again. Just
+      <p><b>24.</b> The boss will then cast <em>Banish III</em> again. Just
       like before, this will either be a party spread, or pair stacks depending
       on the number of orbs above the boss's head.</p>
       <ul>
@@ -747,7 +788,7 @@ This is a different method to assigning towers, which is equally viable.
   </tr>
   <tr>
     <td>
-      <p><b>35.</b> Finally, the boss becomes targetable again and starts
+      <p><b>25.</b> Finally, the boss becomes targetable again and starts
       casting <em>The House of Light</em>, which cleaves all players and gives
       a stack of <em>Lightsteeped</em>.</p>
       <p>Spread out in your standard clock positions to resolve this.</p>
@@ -773,7 +814,7 @@ This is the mini "transition" phase.
 <table>
 <tr>
     <td width="50%">
-      <p><b>36.</b> Pre-position for <em>Absolute Zero</em>'s knockback.</p>
+      <p><b>26.</b> Pre-position for <em>Absolute Zero</em>'s knockback.</p>
       <p>Note the spread positions here are different.</p>
     </td>
     <td>
@@ -782,7 +823,7 @@ This is the mini "transition" phase.
   </tr>
   <tr>
     <td>
-      <p><b>37.</b> Four Crystals of Light and four Crystals of Darkness
+      <p><b>27.</b> Four Crystals of Light and four Crystals of Darkness
       appear as shown in the diagram.</p>
       <p>The objective is to destroy the Ice Veil in the middle that's casting
       <em>Endless Ice Age</em> <em>without</em> destroying the four Crystals
@@ -798,7 +839,7 @@ This is the mini "transition" phase.
   </tr>
   <tr>
     <td>
-      <p><b>38.</b> The tanks and melee DPS manage the Crystals of Light:</p>
+      <p><b>28.</b> The tanks and melee DPS manage the Crystals of Light:</p>
       <ul>
         <li>The Crystals of Light will periodically target the nearest player
         with a circle AoE.</li>
@@ -822,7 +863,7 @@ This is the mini "transition" phase.
   </tr>
   <tr>
     <td>
-      <p><b>39.</b> Bait the second set of AoEs skewed anti-clockwise (to the 
+      <p><b>29.</b> Bait the second set of AoEs skewed anti-clockwise (to the 
       right, facing in).</p>
     </td>
     <td>
@@ -831,7 +872,7 @@ This is the mini "transition" phase.
   </tr>
   <tr>
     <td>
-      <p><b>40.</b> On the third set of telegraphed AoEs, the Crystals of 
+      <p><b>30.</b> On the third set of telegraphed AoEs, the Crystals of 
       Light will tether to the nearest player.</p>
     </td>
     <td>
@@ -840,7 +881,7 @@ This is the mini "transition" phase.
   </tr>
   <tr>
     <td>
-      <p><b>41.</b> On the fourth set of telegraphed AoEs, the tethered
+      <p><b>31.</b> On the fourth set of telegraphed AoEs, the tethered
       players will start dropping puddles that stay on the arena.</p>
       <p>Stepping into these puddles will inflict a lethal Bleed on you.</p>
     </td>
@@ -850,7 +891,7 @@ This is the mini "transition" phase.
   </tr>
   <tr>
     <td>
-      <p><b>42.</b> Bait these puddles around the Crystal.</p>
+      <p><b>32.</b> Bait these puddles around the Crystal.</p>
       <p>Note that even after the Crystals of Light have been destroyed, the 
       Crystals of Darkness <em>are still on the arena</em>, and the cone AoEs 
       <b>still need to be properly baited</b>.</p>
