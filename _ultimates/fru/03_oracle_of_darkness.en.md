@@ -15,14 +15,15 @@ permalink: /ultimates/fru/03_oracle_of_darkness/
 until I have better first-hand experience.</b></p>
 </div>
 
+- [**Ultimate Relativity - Atobe**](#ultimate-relativity---atobe) _or_ [**Ultimate Relativity - Awk**](#ultimate-relativity---awk)
+- [**Apocalypse**](#apocalypse)
+
 The Oracle of Darkness starts south, and immediately opens with *Hell's Judgment*, which sets everyone to 1HP.
 
 She will then teleport to the middle of the arena and prepare her first
 major mechanic with a heavy raid-wide.
 
-## Ultimate Relativity - Atobe
-
-This writeup illustrates the <a href="https://twitter.com/PoneKoni/status/1862335851671560669">"Atobe" strat</a> that Nukemaru's group uses.
+## Ultimate Relativity
 
 When *Ultimate Relativity* resolves, there will be a lot of debuffs that go 
 out. However, you only need to check a limited set of debuffs.
@@ -41,6 +42,18 @@ This leaves the last tank/healer and the last DPS. One of them will get a *Dark 
   healer will get a 10s Fire debuff and join the "short Fire" group.
 - **If the Blizzard is on a tank/healer:** This will be a "fast Blizzard". The 
   DPS will get a 30s Fire debuff and join the "long Fire group.
+
+The first step is to assign hourglasses to players. The basic rules are:
+
+- **Short fires** go to **empty** spots.
+- **Mid fires** go to the **purple** tethered spots.
+- **Long fires** go to the **yellow** tethered spots.
+
+After that, it's just a matter of how to assign players to hourglasses.
+
+### Ultimate Relativity - Atobe
+
+This is the <a href="https://twitter.com/PoneKoni/status/1862335851671560669">"Atobe" strat</a> that Nukemaru's group uses that uses a **tethers-relative** assignment.
 
 <table>
   <tr>
@@ -61,8 +74,6 @@ This leaves the last tank/healer and the last DPS. One of them will get a *Dark 
         </li>
       </ul>
     </td>
-    <p>Mid Fires should also take note of their 42s debuff <em>(Dark Water III 
-    or Dark Euption)</em>.</p>
   </tr>
   <tr>
     <td>
@@ -71,8 +82,42 @@ This leaves the last tank/healer and the last DPS. One of them will get a *Dark 
   </tr>
 </table>
 
-We then resolve the debuffs. Each debuff group moves in and out between the 
-center of the arena and their hourglass according to what they need to resolve.
+### Ultimate Relativity - Awk
+
+This is a minor modification of the strategy that MrHappy's group used, which uses a **map-relative** assignment. We tweak it slightly to mirror *Second Sunrise* in M4S.
+
+<table>
+  <tr>
+    <td>
+      <p><b>1.</b> Face the map's North, and find the first hourglass for your 
+      group:</p>
+      <ul>
+        <li><b>Tanks/Healers:</b> Start from NW, go anti-clockwise.</li>
+        <li>Long fires follow the priority:
+          <ul>
+            <li><b>NW (going ccw): </b> MT > ST > H1 > H2 <b>:N</b></li>
+          </ul>
+        </li>
+        <li><b>DPS:</b> Start from N, go clockwise.</li>
+        <li>Short fires follow the priority:
+          <ul>
+            <li><b>N (going cw): </b> D1 > D2 > D3 > D4 <b>:NW</b></li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/ultimate_relativity_awk_01.jpg">
+    </td>
+  </tr>
+</table>
+
+Once everyone has their assigned hourglass, we can resolve the debuffs.
+
+Each player should only need to move in a straight line from the center of the 
+arena, through their assigned hourglass to the edge to resolve their debuffs.
 
 <table>
   <tr>
