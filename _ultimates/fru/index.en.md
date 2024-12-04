@@ -66,6 +66,8 @@ track of changes while things are in flux:
 }
 ```
 
+</details>
+
 ---
 
 ## Frequently Asked Questions
@@ -98,11 +100,16 @@ instead of NE?</summary>
       <p>There are actually <em>two</em> different Damage Down debuffs in this 
       encounter, both of which lowers a player's damage by <b>90%</b>.</p>
       <ul>
-        <li>One comes from getting hit by avoidable attacks.</li>
-        <li>One comes from resolving stacks with fewer people.</li>
+        <li><em>Damage Down</em> comes from getting hit by avoidable attacks.</li>
+        <li><em>Mark of Mortality</em> comes from resolving stacks with less 
+        than four players.</li>
       </ul>
-      <p>Because these damage downs come from two separate debuffs, <em>they
+      <p>These damage downs also come from two separate debuffs, so <em>they
       stack</em> together for a combined <b>99% damage down!</b></p>
+    </td>
+    <td style="text-align:center">
+      <img src="{{site.baseurl}}/images/ultimates/fru/01/damage_down.png">
+      <img src="{{site.baseurl}}/images/ultimates/fru/01/mark_of_mortality.png">
     </td>
   </tr>
 </table>
