@@ -402,7 +402,7 @@ priorities.
     <td>
       <p><b>22.</b> We resolve the first of four tethers.</p>
       <p>Lightning tethers fire cleaves at the three closest players.</p>
-      <p>The other three players must spread North, South, and East/West of the
+      <p>The other three players must spread East, West, and North/South of the
       tethered player (who will be immobilised).</p>
       <p><em>(In this example, we resolve a Lightning tether.)</em></p>
       <p>After this resolves, the first and third tethers swap positions.</p>
@@ -426,7 +426,7 @@ priorities.
       <p><b>24.</b> We resolve the third tether.</p>
       <p>Fire tethers cleaves the closest player, that is shared between the
       three players.</p>
-      <p>All players stack together East/West (towards the outer edge) of the
+      <p>All players stack together North/South (towards the outer edge) of the
       tethered player (who will be immobilised).</p>
       <p><em>(In this example, we resolve a Fire tether.)</em></p>
     </td>
