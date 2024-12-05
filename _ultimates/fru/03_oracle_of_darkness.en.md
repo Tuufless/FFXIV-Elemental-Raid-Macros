@@ -274,6 +274,36 @@ Before the cast, the Oracle of Darkness first casts *Spell-in-Waiting Refrain*
 which puts three pairs of *Dark Water III* on six different players to be 
 resolved during *Apocalypse*.
 
+This effectively creates four pairs of players (including the two players who
+did not get any *Water III*).
+
+We need to sort out the party into two groups of four, such that each group has
+one of each debuff (nothing, 10s, 29s, 38s).
+
+<table>
+  <tr>
+    <td width="50%">
+      <p><b>10.</b> Group up with tanks/healers on the West, and DPS on the East.</p>
+      <p>When <em>Water III</em> debuffs come out, look within your group for
+      duplicates (nothing, 10s, 29s, 38s).</p>
+      <ul>
+        <li><b>If there are duplicates within a group:</b> The player with the
+        higher priority swaps to the other group:
+          <ul>
+            <li><b>Swap:</b> MT > ST > H1 > H2 <b>:Stay</b></li>
+            <li><b>Swap:</b> D1 > D2 > D3 > D4 <b>:Stay</b></li>
+          </ul>
+        </li>
+      </ul>
+      <p><em>(In this example, H1 + H2 have the 10s Water, and D1 + D2 have no
+      debuff, so H1 and D1 will switch sides.)</em></p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_01.jpg">
+    </td>
+  </tr>
+</table>
+
 **UNDER CONSTRUCTION**
 
 The boss casts *Memory's End* as the enrage, and must be brought down to under 
