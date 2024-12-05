@@ -20,6 +20,13 @@ until I have better first-hand experience.</b></p>
 
 The Oracle of Darkness starts south, and immediately opens with *Hell's Judgment*, which sets everyone to 1HP.
 
+<div style="background-color: #200 ; padding: 10px; border: 1px solid;">
+<p><b>Note:</b> If, for some reason you have a buff that increases your max HP 
+(<em>Protraction</em>, <em>Thrill of Battle</em>, or <em>Great Nebula</em>, or 
+just food buffs expiring), that wears off between the snapshot and application, 
+this will kill you.</p>
+</div>
+
 She will then teleport to the middle of the arena and prepare her first
 major mechanic with a heavy raid-wide.
 
@@ -84,7 +91,13 @@ This is the <a href="https://twitter.com/PoneKoni/status/1862335851671560669">"A
 
 ### Ultimate Relativity - Awk
 
-This is a minor modification of the strategy that MrHappy's group used, which uses a **map-relative** assignment. We tweak it slightly to mirror *Second Sunrise* in M4S.
+This is a minor modification of the strategy that MrHappy's group used, which 
+uses a **map-relative** assignment. We tweak it slightly to mirror *Second 
+Sunrise* in M4S.
+
+This version does not require reorienting the party to the tether orientation,
+which may be easier because there are a few seconds between when the debuffs
+appear and when the tethers appear.
 
 <table>
   <tr>
@@ -116,8 +129,16 @@ This is a minor modification of the strategy that MrHappy's group used, which us
 
 Once everyone has their assigned hourglass, we can resolve the debuffs.
 
-Each player should only need to move in a straight line from the center of the 
-arena, through their assigned hourglass to the edge to resolve their debuffs.
+The good news is that once you have your assigned hourglass, you can basically read off where you're supposed to go next from your debuffs. Every 5 seconds, *something* happens.
+
+- If it's your turn to resolve *Dark Fire III*, do so outside.
+- If your hourglass starts spinning, go bait the laser beam.
+- If it's your turn to record, do so just a little off from the center, unless 
+  you are one of the short Fires.
+
+Essentially, each player only needs to move in a straight line from the center 
+of the arena, through their assigned hourglass to the edge to resolve their 
+debuffs.
 
 <table>
   <tr>
@@ -302,9 +323,142 @@ one of each debuff (nothing, 10s, 29s, 38s).
       <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_01.jpg">
     </td>
   </tr>
+  <tr>
+    <td>
+      <p><b>11.</b> The Oracle of Darkness will cast <em>Apocalypse</em>,
+      which changes the arena slightly.</p>
+      <p>Three points on the arena; one center and two opposite cardinal/
+      intercardinals will pulse white. This is a telegraph for where the later 
+      AoEs will appear.</p>
+      <p>A white streak also originates from each point and follows the line
+      around the arena clockwise or anti-clockwise.</p>
+      <p>Each group references the two starting points in their half of the arena:</p>
+      <ul>
+        <li><b>SW to N:</b> North group.</li>
+        <li><b>S to NE:</b> South group.</li>
+      </ul>
+      <p><b>Also note which direction the streaks are going.</b></p>
+      <p>The first pair of <em>Dark Water III</em> stacks also resolve.</p>
+      <p><em>(In this example, the reference points are North and South, and
+      the streaks are travelling anti-clockwise.)</em></p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_02.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>12.</b> While the water stacks were resolving, the boss also 
+      readies <em>Spirit Taker</em>- the boss will jump on a random target
+      with an AoE attack that knocks anyone else hit out of the arena.</p>
+      <p>After the water stacks resolve, quickly spread out for <em>Spirit 
+      Taker</em>.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_03.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>13.</b> The trails will continue for a total of six pulses 
+      (indicating six upcoming sets of AoEs) and end up in this formation
+      relative to the first set of pulses.</p>
+      <p>All party members will get a spread marker.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_04.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>14.</b> The AoEs now resolve for real.</p>
+      <p>The AoEs will appear at the points that pulsed earlier for a total
+      of six waves.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_05.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>15.</b> The second set of AoEs resolve together with the party's 
+      spread markers.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_06.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>16.</b> Quickly move to the center while avoiding the third set of 
+      AoEs.</p>
+      <p>Note that the players on the outside have a narrow safe path that
+      leads in to the middle.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_07.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>17.</b> Fourth set of AoEs.</p>
+      <p>Use this time to gauge how far you can be from the center and still
+      avoid getting hit.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_08.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>18.</b> The second set of <em>Dark Water III</em> stacks resolve
+      together with the fifth set of AoEs.</p>
+      <p>The player with aggro moves out 90 degrees from where the first set of 
+      lights pulsed.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_09.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>19.</b> The boss then uses <em>Darkest Dance</em>, which targets
+      the furthest player (which should be the tank with aggro) with an AoE 
+      tankbuster.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_10.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>20.</b> The MT rejoins their group.</p>
+      <p>Everyone positions to prepare from a knockback from the boss.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_11.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>21.</b> The boss does a knockback.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_12.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>22.</b> The third set of <em>Dark Water III</em> stacks resolve.</p>
+      <p>Resolve these near the boss- melee can use their gap closers, but will
+      need to back out a little bit to meet up with the healers and ranged.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_13.jpg">
+    </td>
+  </tr>
 </table>
 
-**UNDER CONSTRUCTION**
-
-The boss casts *Memory's End* as the enrage, and must be brought down to under 
-20.0% HP to survive the cast.
+The boss ends this sequence with another *Shockwave Pulsar* before casting 
+*Memory's End* for the enrage. Like the previous phase, the Oracle of Darkness
+must be brought down to under 20.0% HP to advance.
