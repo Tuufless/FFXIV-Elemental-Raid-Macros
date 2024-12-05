@@ -968,6 +968,24 @@ Ice Age* resolves. As a result, the damage check is to get the Ice Veil below
 </table>
 </details>
 
+<details markdown=block>
+<summary>
+  <b>[Crystals]</b> What happens if you destroy the Dark Crystals?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>Nothing immediate happens, and you can still progress through the
+      fight.</p>
+      <p>However, the Fragment of Fate in P4 only spawns if the Dark Crystals
+      are still alive.</p>
+      <p>Without the Fragment of Fate, you can still progress through to the
+      end of P4, but you will get the "bad ending" where Eden's Promise spawns and wipes the raid.</p>
+    </td>
+  </tr>
+</table>
+</details>
+
 ---
 
 ## Troubleshooting
