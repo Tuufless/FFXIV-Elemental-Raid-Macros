@@ -105,16 +105,16 @@ appear and when the tethers appear.
       <p><b>1.</b> Face the map's North, and find the first hourglass for your 
       group:</p>
       <ul>
-        <li><b>Tanks/Healers:</b> Start from NW, go anti-clockwise.</li>
+        <li><b>Tanks/Healers:</b> Start from N, go anti-clockwise.</li>
         <li>Long fires follow the priority:
           <ul>
-            <li><b>NW (going ccw): </b> MT > ST > H1 > H2 <b>:N</b></li>
+            <li><b>N (going ccw): </b> H2 > H1 > ST > MT <b>:NE</b></li>
           </ul>
         </li>
-        <li><b>DPS:</b> Start from N, go clockwise.</li>
+        <li><b>DPS:</b> Start from NE, go clockwise.</li>
         <li>Short fires follow the priority:
           <ul>
-            <li><b>N (going cw): </b> D1 > D2 > D3 > D4 <b>:NW</b></li>
+            <li><b>NE (going cw): </b> D4 > D3 > D2 > D1 <b>:N</b></li>
           </ul>
         </li>
       </ul>
@@ -462,3 +462,29 @@ one of each debuff (nothing, 10s, 29s, 38s).
 The boss ends this sequence with another *Shockwave Pulsar* before casting 
 *Memory's End* for the enrage. Like the previous phase, the Oracle of Darkness
 must be brought down to under 20.0% HP to advance.
+
+---
+
+## Frequently Asked Questions
+
+<details markdown=block>
+<summary>
+  <b>[Ultimate Relativity (Awk)]</b> Why do the priorities go backwards from
+  North?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>The boss is facing North throughout <em>Ultimate Relativity</em>.</p>
+      <p>With that in mind, having the priority "backwards" gives:</p>
+      <ul>
+        <li>The healers the easiest positions to figure out.</li>
+        <li>Melee the highest chance of getting positionals.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+</details>
+
+<script data-goatcounter="https://tuufless.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
