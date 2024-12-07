@@ -287,7 +287,7 @@ After you gain control of your characters, stack up in the middle to share a
 raid-wide *Shockwave Pulsar*. The boss will then target the first player in 
 aggro with *Black Halo*, a two-player tankbuster cleave.
 
-## Apocalypse
+## Apocalypse - Static spreads
 
 The boss will be targetable for the duration of this mechanic.
 
@@ -300,6 +300,10 @@ did not get any *Water III*).
 
 We need to sort out the party into two groups of four, such that each group has
 one of each debuff (nothing, 10s, 29s, 38s).
+
+This may necessitate one or two pairs swap around (depending on the number of 
+duplicates). Players who swap will need to do so **a total of three times 
+during this mechanic**.
 
 <table>
   <tr>
@@ -317,7 +321,8 @@ one of each debuff (nothing, 10s, 29s, 38s).
         </li>
       </ul>
       <p><em>(In this example, H1 + H2 have the 10s Water, and D1 + D2 have no
-      debuff, so H1 and D1 will switch sides.)</em></p>
+      debuff, so H1 and D1 will be swapping sides.)</em></p>
+      <p><b>This is the first swap (of three).</b></p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_01.jpg">
@@ -353,6 +358,12 @@ one of each debuff (nothing, 10s, 29s, 38s).
       with an AoE attack that knocks anyone else hit out of the arena.</p>
       <p>After the water stacks resolve, quickly spread out for <em>Spirit 
       Taker</em>.</p>
+      <ul>
+        <li><b>Tanks/Melee:</b> Towards the boss (MT/D1 on the left, facing in).</li>
+        <li><b>Healers/Ranged:</b> Towards the edge (H1/D3 on the left, facing in).</li>
+      </ul>
+      <p>Players who swapped earlier can use this time to swap back to their original groups.</p>
+      <p><b>This is the second swap (of three).</b></p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_03.jpg">
@@ -360,10 +371,8 @@ one of each debuff (nothing, 10s, 29s, 38s).
   </tr>
   <tr>
     <td>
-      <p><b>13.</b> The trails will continue for a total of six pulses 
-      (indicating six upcoming sets of AoEs) and end up in this formation
-      relative to the first set of pulses.</p>
-      <p>All party members will get a spread marker.</p>
+      <p><b>13.</b> The boss's <em>Spirit Taker</em> resolves.</p>
+      <p>Players who need to swap back can now rejoin their original groups.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_04.jpg">
@@ -371,9 +380,13 @@ one of each debuff (nothing, 10s, 29s, 38s).
   </tr>
   <tr>
     <td>
-      <p><b>14.</b> The AoEs now resolve for real.</p>
-      <p>The AoEs will appear at the points that pulsed earlier for a total
-      of six waves.</p>
+      <p><b>14.</b> The boss will return to the center.</p>
+      <p>The trails will continue for a total of six pulses (indicating six 
+      upcoming sets of AoEs) and end up in this formation relative to the 
+      first set of pulses.</p>
+      <p>All party members will get a spread marker.</p>
+      <p>Players who needed to swap back should have returned to their 
+      original groups by this point.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_05.jpg">
@@ -381,8 +394,9 @@ one of each debuff (nothing, 10s, 29s, 38s).
   </tr>
   <tr>
     <td>
-      <p><b>15.</b> The second set of AoEs resolve together with the party's 
-      spread markers.</p>
+      <p><b>15.</b> The AoEs now resolve for real.</p>
+      <p>The AoEs will appear at the points that pulsed earlier for a total
+      of six waves.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_06.jpg">
@@ -390,10 +404,8 @@ one of each debuff (nothing, 10s, 29s, 38s).
   </tr>
   <tr>
     <td>
-      <p><b>16.</b> Quickly move to the center while avoiding the third set of 
-      AoEs.</p>
-      <p>Note that the players on the outside have a narrow safe path that
-      leads in to the middle.</p>
+      <p><b>16.</b> The second set of AoEs resolve together with the party's 
+      spread markers.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_07.jpg">
@@ -401,9 +413,12 @@ one of each debuff (nothing, 10s, 29s, 38s).
   </tr>
   <tr>
     <td>
-      <p><b>17.</b> Fourth set of AoEs.</p>
-      <p>Use this time to gauge how far you can be from the center and still
-      avoid getting hit.</p>
+      <p><b>17.</b> Quickly move to the center while avoiding the third set of 
+      AoEs.</p>
+      <p>Note that the players on the outside have a narrow safe path that
+      leads in to the middle.</p>
+      <p>Players who need to swap do so again.</p>
+      <p><b>This is the third (and last) swap.</b></p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_08.jpg">
@@ -411,10 +426,9 @@ one of each debuff (nothing, 10s, 29s, 38s).
   </tr>
   <tr>
     <td>
-      <p><b>18.</b> The second set of <em>Dark Water III</em> stacks resolve
-      together with the fifth set of AoEs.</p>
-      <p>The player with aggro moves out 90 degrees from where the first set of 
-      lights pulsed.</p>
+      <p><b>18.</b> Fourth set of AoEs.</p>
+      <p>Use this time to gauge how far you can be from the center and still
+      avoid getting hit.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_09.jpg">
@@ -422,9 +436,10 @@ one of each debuff (nothing, 10s, 29s, 38s).
   </tr>
   <tr>
     <td>
-      <p><b>19.</b> The boss then uses <em>Darkest Dance</em>, which targets
-      the furthest player (which should be the tank with aggro) with an AoE 
-      tankbuster.</p>
+      <p><b>19.</b> The second set of <em>Dark Water III</em> stacks resolve
+      together with the fifth set of AoEs.</p>
+      <p>The player with aggro moves out 90 degrees from where the first set of 
+      lights pulsed.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_10.jpg">
@@ -432,8 +447,9 @@ one of each debuff (nothing, 10s, 29s, 38s).
   </tr>
   <tr>
     <td>
-      <p><b>20.</b> The MT rejoins their group.</p>
-      <p>Everyone positions to prepare from a knockback from the boss.</p>
+      <p><b>20.</b> The boss then uses <em>Darkest Dance</em>, which targets
+      the furthest player (which should be the tank with aggro) with an AoE 
+      tankbuster.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_11.jpg">
@@ -441,7 +457,8 @@ one of each debuff (nothing, 10s, 29s, 38s).
   </tr>
   <tr>
     <td>
-      <p><b>21.</b> The boss does a knockback.</p>
+      <p><b>21.</b> The MT rejoins their group.</p>
+      <p>Everyone positions to prepare from a knockback from the boss.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_12.jpg">
@@ -449,12 +466,20 @@ one of each debuff (nothing, 10s, 29s, 38s).
   </tr>
   <tr>
     <td>
-      <p><b>22.</b> The third set of <em>Dark Water III</em> stacks resolve.</p>
+      <p><b>22.</b> The boss does a knockback.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_13.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>23.</b> The third set of <em>Dark Water III</em> stacks resolve.</p>
       <p>Resolve these near the boss- melee can use their gap closers, but will
       need to back out a little bit to meet up with the healers and ranged.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_13.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_14.jpg">
     </td>
   </tr>
 </table>
@@ -481,6 +506,66 @@ must be brought down to under 20.0% HP to advance.
         <li>The healers the easiest positions to figure out.</li>
         <li>Melee the highest chance of getting positionals.</li>
       </ul>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
+  <b>[Apocalypse]</b> Are these cases where more than one pair needs to swap?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>Yes. It's rare (3/35 chance), but certainly possible.</p>
+      <p>Consider the following example:</p>
+      <ul>
+        <li>Nothing: MT + ST</li>
+        <li>Short Water: H1 + H2</li>
+        <li>Mid Water: D1 + D3</li>
+        <li>Long Water: D2 + D4</li>
+      </ul>
+      <p>The T/H and DPS groups each have two duplicate debuffs, so we will 
+      have four players swapping groups (MT, H1, D1, D2).</p>
+      <p>Most of the time, one pair will need to swap (24/35 chance). The 
+      probability that <em>nobody</em> has to swap is 8/35.</p>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
+  <b>[Apocalypse]</b> Why do we have to swap three times?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>Because the <em>Water III</em> debuffs are randomly distributed, we
+      need a way to ensure that there are four players in each stack every 
+      time they resolve.</p>
+      <p>You <em>could</em> do a one-time adjustment at the very start, and use
+      those groups throughout- however, the problem is that it's now not clear
+      how each group should spread for <em>Spirit Taker</em>, or for <em>Dark 
+      Eruption</em>.</p>
+      <p>Permanently swapping this way means that not only do you need to 
+      determine whether you are swapping, but also <em>who</em> you are 
+      swapping with so you can take their spot when it comes time to spread 
+      out.</p>
+      <p>Even then, there are awkward scenarios to consider:</p>
+      <ul>
+        <li>What happens if a melee swaps with a healer and now the T/H group 
+        has three melee? Should a tank go to the back? Which tank?</li>
+        <li>What happens if two players from each group have to swap? Who 
+        switches place with who?</li>
+      </ul>
+      <p>Ultimately, it's just cleaner to spread in your original groups where 
+      everybody has a designated position.</p>
+      <p>As a result, we swap once to resolve the first Water, swap back to 
+      spread out, then swap again to resolve the second Water. There are no 
+      more spread mechanics after the second Water, so we can keep the groups 
+      as they are to resolve the third Water.</p>
     </td>
   </tr>
 </table>
