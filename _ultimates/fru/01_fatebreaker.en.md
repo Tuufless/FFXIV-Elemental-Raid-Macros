@@ -524,6 +524,27 @@ the phase.
 
 <details markdown=block>
 <summary>
+  <b>[General]</b> How should I burst in this phase? <em>Utopian Sky</em>
+  screws up everything!
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>Use your 1-minute abilities right after <em>Utopian Sky</em>.</p>
+      <p>Your 2-minute abilities should come up at the conclusion of <em>Fall
+      of Faith</em>- use them on cooldown <em>without</em> the 1-minute
+      abilities. Save the 1-minute abilities for the next phase's opener.</p>
+      <p>You will want to <b>hold damage and kill the boss towards the end of
+      the enrage cast.</b> This will synchronise your 2-minute abilities with
+      the start of the crystals phase at the end of P2, making its check 
+      significantly easier.</p>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
   <b>[Utopian Sky]</b> Why shouldn't you jump if your sector is safe?
 </summary>
 <table>

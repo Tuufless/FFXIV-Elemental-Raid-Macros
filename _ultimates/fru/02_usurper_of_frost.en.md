@@ -992,6 +992,24 @@ Ice Age* resolves. As a result, the damage check is to get the Ice Veil below
 
 <details markdown=block>
 <summary>
+  <b>[General]</b> We can't meet the DPS check during the Crystals phase!
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>The crystals phase can be made significantly easier if you <b>hold
+      damage, and kill Fatebreaker towards the end of his enrage cast.</b></p>
+      <p>This will synchronise your 2-minute burst with the start of the 
+      crystals phase, which should get you past the DPS check.</p>
+      <p><em>(You should also use your second pots as soon as you can in the
+      crystals phase for them to be back up in P4.)</em></p>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
   <b>[Diamond Dust]</b> Any tips for aiming my slide on a controller during <em>Twin Silence/Stillness</em>?
 </summary>
 <table>
