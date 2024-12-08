@@ -494,6 +494,31 @@ must be brought down to under 20.0% HP to advance.
 
 <details markdown=block>
 <summary>
+  <b>[Debuffs]</b> What is the difference between <em>Dark Water III</em> and
+  <em>Unholy Darkness</em>? Aren't they both stacks?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p><em>Dark Water III</em> and <em>Unholy Darkness</em> are both stacks
+      with one crucial difference:</p>
+      <ul>
+        <li><em>Dark Water III</em> needs at least <b>four</b> people in the stack
+        to avoid the <em>Mark of Mortality</em> debuff.</li>
+        <li><em>Unholy Darkness</em> needs at least <b>five</b> people in the stack
+        to avoid the <em>Mark of Mortality</em> debuff.</li>
+      </ul>
+    </td>
+    <td style="text-align:center">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/dark_water.png">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/unholy_darkness.png">
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
   <b>[Ultimate Relativity (Awk)]</b> Why do the priorities go backwards from
   North?
 </summary>
