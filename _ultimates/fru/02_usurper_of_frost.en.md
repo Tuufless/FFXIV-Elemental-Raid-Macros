@@ -935,26 +935,6 @@ Ice Age* resolves. As a result, the damage check is to get the Ice Veil below
 
 <details markdown=block>
 <summary>
-  <b>[Strategy]</b> Are there any differences from Lucrezia's strategy?
-</summary>
-<table>
-  <tr>
-    <td>
-      <p>There are a couple clarifications.</p>
-      <ol>
-        <li>Lucrezia had the DPS on the sides instead of in the center
-        during <em>Mirror, Mirror</em>. It's flipped here to let the
-        healers focus on healing.</li>
-        <li>Lucrezia also didn't have a strict spread assignments during 
-        <em>Mirror, Mirror</em>, adjusting on the fly as needed.</li>
-      </ol>
-    </td>
-  </tr>
-</table>
-</details>
-
-<details markdown=block>
-<summary>
   <b>[Light Rampant]</b> What prevents both stacks from being on the same side?
 </summary>
 <table>
