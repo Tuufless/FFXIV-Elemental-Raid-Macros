@@ -141,7 +141,7 @@ With the tethers sorted out, the next thing we need to do is separate the two
   <tr>
     <td>
       <p><b>4.</b> The tethered players take the two towers, while the Usurper
-      of Light readies <em>The Path of Light</em>, which cleaves the four
+      of Frost readies <em>The Path of Light</em>, which cleaves the four
       closest players- these should be the four non-tethered players.</p>
     </td>
     <td>
