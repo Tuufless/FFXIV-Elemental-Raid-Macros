@@ -16,7 +16,7 @@ until I have better first-hand experience.</b></p>
 </div>
 
 - [**Ultimate Relativity - Atobe**](#ultimate-relativity---atobe) _or_ [**Ultimate Relativity - Awk**](#ultimate-relativity---awk)
-- [**Apocalypse**](#apocalypse)
+- [**Apocalypse - Static Spreads**](#apocalypse---static-spreads)
 
 The Oracle of Darkness starts south, and immediately opens with *Hell's Judgment*, which sets everyone to 1HP.
 
