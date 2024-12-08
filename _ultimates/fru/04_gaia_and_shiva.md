@@ -126,12 +126,13 @@ With the tethers sorted out, the next thing we need to do is separate the two
   <tr>
     <td width="50%">
       <p><b>3.</b> If the two <em>Dark Water III</em> debuffs are on different 
-      sides, then no further adjustments need to be made.</p>
-      <p>If both <em>Dark Water III</em> debuffs are on either the 
-      tank/healers or the DPS, then <em>everybody</em> who is not tethered
-      swaps side.</p>
-      <p><em>(In this example, since both healers have Water, all the 
-      non-tethered players swaps side.)</em></p>
+      sides (North vs. South), then no further adjustments need to be made.</p>
+      <p>If the <em>Dark Water III</em> debuffs are either both North, or both
+      South, then <em>everybody</em> who is not tethered swaps their
+      North/South sides.</p>
+      <p><em>(In this example, since both Water debuffs are in the North group,
+      all the non-tethered players swaps side. ST and H1 go South, while D3 and
+      D4 go North.)</em></p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/04/darklit_03.jpg">
