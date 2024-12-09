@@ -134,7 +134,8 @@ The good news is that once you have your assigned hourglass, you can basically r
 - If it's your turn to resolve *Dark Fire III*, do so outside.
 - If your hourglass starts spinning, go bait the laser beam.
 - If it's your turn to record, do so just a little off from the center, unless 
-  you are one of the short Fires.
+  you are one of the short Fires or the mid Fire tank/healer, in which case 
+  record *just* behind your hourglass.
 
 Essentially, each player only needs to move in a straight line from the center 
 of the arena, through their assigned hourglass to the edge to resolve their 
