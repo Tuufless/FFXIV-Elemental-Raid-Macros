@@ -279,9 +279,9 @@ the sea of mechanics.
       <p><b>11.</b> The dragon heads reach the E/W red Ice players around the 
       same time the debuffs resolve.</p>
       <ul>
-        <li>The red Aero closest to the blue Eruption moves North to join them.</li>
-        <li>The red Aero furthest from the blue Eruption moves a little south 
-        of the East/West mark.</li>
+        <li>The red Ice player closest to the blue Eruption moves North to join
+        them.</li>
+        <li>The red Ice player furthest from the blue Eruption moves a little south of the East/West mark.</li>
         <li>The south-side blue players should get knocked over to the other side of the arena.</li>
         <li>The two red Aeros step off the flower petal into the south sector.</li>
       </ul>
