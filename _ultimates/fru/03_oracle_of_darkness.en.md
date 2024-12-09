@@ -15,7 +15,7 @@ permalink: /ultimates/fru/03_oracle_of_darkness/
 until I have better first-hand experience.</b></p>
 </div>
 
-- [**Ultimate Relativity - Atobe**](#ultimate-relativity---atobe) _or_ [**Ultimate Relativity - Awk**](#ultimate-relativity---awk)
+- [**Ultimate Relativity - Awk**](#ultimate-relativity---awk) _or_ [**Ultimate Relativity - Y Runytivity**](#ultimate-relativity---Y Runytivity)
 - [**Apocalypse - Static Spreads**](#apocalypse---static-spreads)
 
 The Oracle of Darkness starts south, and immediately opens with *Hell's Judgment*, which sets everyone to 1HP.
@@ -58,46 +58,9 @@ The first step is to assign hourglasses to players. The basic rules are:
 
 After that, it's just a matter of how to assign players to hourglasses.
 
-### Ultimate Relativity - Atobe
-
-This is the <a href="https://twitter.com/PoneKoni/status/1862335851671560669">"Atobe" strat</a> that Nukemaru's group uses that uses a **tethers-relative** assignment.
-
-<table>
-  <tr>
-    <td>
-      <p><b>1.</b> Find the lone yellow tether- this will be "North" for the 
-      duration of this mechanic.</p>
-      <p>Take up assigned clock positions based on your Fire group:</p>
-      <ul>
-        <li>For the DPS short Fires, use the following priority:
-          <ul>
-            <li><b>NW: </b> D1 > D2 > D3 > D4 <b>:NE</b></li>
-          </ul>
-        </li>
-        <li>For the tank/healer long Fires, use the following priority:
-          <ul>
-            <li><b>SW: </b> MT > ST > H1 > H2 <b>:SE</b></li>
-          </ul>
-        </li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru/03/ultimate_relativity_01.jpg">
-    </td>
-  </tr>
-</table>
-
 ### Ultimate Relativity - Awk
 
-This is a minor modification of the strategy that MrHappy's group used, which 
-uses a **map-relative** assignment. We tweak it slightly to mirror *Second 
-Sunrise* in M4S.
-
-This version does not require reorienting the party to the tether orientation,
-which may be easier because there are a few seconds between when the debuffs
-appear and when the tethers appear.
+This is my preferred method, and is a **map-relative** assignment.
 
 <table>
   <tr>
@@ -123,6 +86,37 @@ appear and when the tethers appear.
   <tr>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/03/ultimate_relativity_awk_01.jpg">
+    </td>
+  </tr>
+</table>
+
+### Ultimate Relativity - Y Runytivity
+
+This is a *tethers-relative* assigment, with a slightly modified priority to
+better match the datacenter's conventions.
+
+<table>
+  <tr>
+    <td>
+      <p><b>1.</b> The yellow tethers make a "Y-shape". Find the "Y" and orient to it.</p>
+      <p>Take up assigned clock positions based on your Fire group:</p>
+      <ul>
+        <li>For the DPS short Fires, use the following priority:
+          <ul>
+            <li><b>SW: </b> D1 > D2 > D3 > D4 <b>:E</b></li>
+          </ul>
+        </li>
+        <li>For the tank/healer long Fires, use the following priority:
+          <ul>
+            <li><b>W: </b> MT > ST > H1 > H2 <b>:NE</b></li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/ultimate_relativity_Y_01.jpg">
     </td>
   </tr>
 </table>
