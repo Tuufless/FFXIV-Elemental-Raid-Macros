@@ -139,9 +139,131 @@ both tanks).
   </tr>
 </table>
 
+After the *Akh Morn*, Pandora goes straight into the next mechanic.
+
 ## Paradise Regained
 
-**UNDER CONSTRUCTION**
+This is the most complex mechanic of the phase. The strategy below follows 
+[Nukemaru's recommendation](https://youtu.be/nzpOdfOyUNo?si=5Jiyv8DZCmnXi1Oq&t=190).
+
+<table>
+  <tr>
+    <td>
+      <p><b>12.</b> Find the first tower. Use this tower as <b>South</b>.</p>
+      <ul>
+        <li><b>MT:</b> Rotate to the new "North".</li>
+        <li><b>H1, H2:</b> Preposition in the first tower.</li>
+      </ul>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/paradise_regained_01.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" width="50%">
+      <p><b>13.</b> The second tower appears.</p>
+      <p>At the same time, the boss will cast <em>Wings Dark and Light</em>, and 
+      one of the boss's wings will glow.</p>
+      <ul>
+        <li><b>MT + ST:</b> Tank swap during the <em>Wings Dark and Light</em> 
+        cast.</li>
+      </ul>
+      <p>The healers adjust within their tower, while the DPS moves East or
+      West, whichever side is safe.</p>
+      <ul>
+        <li><b>Left (Light) wing glows:</b> Move to the right side of the boss.</li>
+        <li><b>Right (Dark) wing glows:</b> Move to the left side of the boss.</li>
+      </ul>
+      <p>A tether will also appear, which needs to go to the ST. It
+      <em>cannot</em> be passed around, but instead automatically tethers to 
+      either the nearest or furthest player <b>that is not the player with
+      aggro</b> (depending on the wing).</p>
+      <ul>
+        <li><b>Left (Light) wing glows:</b> ST needs to be the furthest.</li>
+        <li><b>Right (Dark) wing glows:</b> ST needs to be the nearest.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center">
+      <b>Left (Light) wing first</b>
+    </td>
+    <td style="text-align:center">
+      <b>Right (Dark) wing first</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/paradise_regained_02a.jpg">
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/paradise_regained_02b.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <p><b>14.</b> The third tower appears and the other wing glows.</p>
+      <p>DPS can preposition in the second or third tower, whichever is safe
+      from the first wing.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/paradise_regained_03a.jpg">
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/paradise_regained_03b.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <p><b>15.</b> The boss will turn and cleave the MT.</p>
+      <p>The first cleave resolves together with the first tower (which should
+      be taken by H1 and H2).</p>
+      <ul>
+        <li><b>MT:</b> If the first cleave was Dark, move out. If the first 
+        cleave was Light, move in instead.</li>
+        <li><b>H1, H2:</b> Move North after resolving your tower.</li>
+        <li><b>D1, D2:</b> Cross over to the other tower (that just got hit by the first cleave).</li>
+        <li><b>D3, D4:</b> Enter the tower on the safe side of the first
+        cleave.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/paradise_regained_04a.jpg">
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/paradise_regained_04b.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <p><b>16.</b> The boss now cleaves the ST.</p>
+      <p>This second cleave resolves together with the second tower (which
+      should be taken by two DPS).</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/paradise_regained_05a.jpg">
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/paradise_regained_05b.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>17.</b> The two remaining DPS stay put for the third tower.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/paradise_regained_06.jpg">
+    </td>
+  </tr>
+</table>
+
+The boss then goes into its final mechanic of the loop.
 
 ## Polarizing Strikes
 
