@@ -267,7 +267,52 @@ The boss then goes into its final mechanic of the loop.
 
 ## Polarizing Strikes
 
-**UNDER CONSTRUCTION**
+This is the simplest mechanic of the phase, consisting of four rounds of stack 
+damage.
+
+<table>
+  <tr>
+    <td>
+      <p><b>18.</b> Make two lines SW and SE with the tanks in front.</p>
+      <p>The boss will fire a Light-aspected line AoE at the line on the left, 
+      and a Dark-aspected line AoE at the line on the right.</p>
+      <p>Both line AoEs will leave behind a residual AoE that explodes again 
+      shortly.</p>
+      <p>The player in front of each line (which should be the tanks) will also
+      get a <em>Light Resistance Down</em> or a <em>Dark Resistance Down</em> 
+      debuff (depending on which line hit them).</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/polarizing_strikes_01.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>19.</b> After the line AoEs go off, return to the two lines SW and
+      SE.</p>
+      <p>However, because the first player in each line got a <em>Light 
+      Resistance Down</em> and <em>Dark Resistance Down</em> debuff, they
+      cannot rejoin their previous line.</p>
+      <p>As a result, <b>the two people that were in front of the line before
+      needs to switch sides.</b></p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/polarizing_strikes_02.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>20.</b> The process then repeats for a total of four times, with a 
+      different player at the front of the line instead.</p>
+      <ul>
+        <li>Tanks > Melee > Ranged > Healers</li>
+      </ul>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/polarizing_strikes_03.jpg">
+    </td>
+  </tr>
+</table>
 
 After this, Pandora casts *Pandora's Box*, which is a Tank LB3 check.
 
