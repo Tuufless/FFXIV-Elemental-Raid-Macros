@@ -585,8 +585,9 @@ must be brought down to under 20.0% HP to advance.
         <li>What happens if two players from each group have to swap? Who 
         switches place with who?</li>
       </ul>
-      <p>Ultimately, it's just cleaner to spread in your original groups where 
-      everybody has a designated position.</p>
+      <p>Arguably just as important, keeping to static positions for <em>Dark
+      Eruption</em> also means that <b>every player's dodge for the
+      <em>Apocalypse</em> AoEs stays consistent from run to run.</b></p>
       <p>As a result, we swap once to resolve the first Water, swap back to 
       spread out, then swap again to resolve the second Water. There are no 
       more spread mechanics after the second Water, so we can keep the groups 
