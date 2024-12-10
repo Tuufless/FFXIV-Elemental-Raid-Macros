@@ -105,7 +105,7 @@ better match the datacenter's conventions.
           <ul>
             <li><b>SW: </b> D1 > D2 > D3 > D4 <b>:E</b></li>
           </ul>
-        </li>
+        </li>  
         <li>For the tank/healer long Fires, use the following priority:
           <ul>
             <li><b>W: </b> MT > ST > H1 > H2 <b>:NE</b></li>
@@ -303,7 +303,7 @@ during this mechanic**.
 <table>
   <tr>
     <td width="50%">
-      <p><b>10.</b> Group up with tanks/healers on the West, and DPS on the East.</p>
+      <p><b>10.</b> Group up with tanks/healers North, and DPS South.</p>
       <p>When <em>Water III</em> debuffs come out, look within your group for
       duplicates (nothing, 10s, 29s, 38s).</p>
       <ul>
