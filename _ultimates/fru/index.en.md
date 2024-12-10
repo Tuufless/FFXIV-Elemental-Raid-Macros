@@ -35,7 +35,8 @@ track of changes while things are in flux:
 <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
 <ul>
   <li><b>Getting a final strategy together will be a time-intensive process, 
-  and likely won't settle until the end of Patch 7.1 (roughly March/April 2025).</b></li>
+  and likely won't settle until the end of Patch 7.1 (roughly March/April
+  2025).</b></li>
 </ul>
 </div>
 
@@ -61,7 +62,8 @@ track of changes while things are in flux:
   "D":{"X":90.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},
   "One":{"X":92.929,"Y":0.0,"Z":92.929,"ID":4,"Active":true},
   "Two":{"X":107.071,"Y":0.0,"Z":92.929,"ID":5,"Active":true},
-  "Three":{"X":107.071,"Y":0.0,"Z":107.071,"ID":6,"Active":true},"Four":{"X":92.929,"Y":0.0,"Z":107.071,"ID":7,"Active":true}
+  "Three":{"X":107.071,"Y":0.0,"Z":107.071,"ID":6,"Active":true},
+  "Four":{"X":92.929,"Y":0.0,"Z":107.071,"ID":7,"Active":true}
 }
 ```
 
@@ -85,7 +87,8 @@ instead of NE?</summary>
   <em>Cyclonic Break</em>), which leads to being able to assign mechanics 
   based on coloured quadrants (e.g: the MT+D3 pair is responsible for the "red 
   markers").</p>
-  <p>For other reasons, most other fights split the arena between the front and back, which leads to the 1 marker being on the NE instead.</p></td></tr>
+  <p>For other reasons, most other fights split the arena between the front and
+  back, which leads to the 1 marker being on the NE instead.</p></td></tr>
 </table>
 </details>
 
@@ -101,7 +104,7 @@ instead of NE?</summary>
       <ul>
         <li><em>Damage Down</em> comes from getting hit by avoidable attacks.</li>
         <li><em>Mark of Mortality</em> comes from resolving stacks with less 
-        than four players.</li>
+        than the required number of players.</li>
       </ul>
       <p>These damage downs also come from two separate debuffs, so <em>they
       stack</em> together for a combined <b>99% damage down!</b></p>
