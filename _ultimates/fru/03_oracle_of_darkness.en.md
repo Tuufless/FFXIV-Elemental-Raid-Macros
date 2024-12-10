@@ -17,17 +17,20 @@ until I have better first-hand experience.</b></p>
 stay WIP for another week.</p>
 </div>
 
-- [**Ultimate Relativity - Y Runytivity**](#ultimate-relativity---y-runytivity)
+- **Ultimate Relativity**
+  - [**Y Runytivity**](#ultimate-relativity---y-runytivity)
+  - [**Awk**](#ultimate-relativity---awk)
 - **Apocalypse:**
   - [**Permaswap**](#apocalypse---permaswap) _or_
   - [**Static Spreads**](#apocalypse---static-spreads)
 
-The Oracle of Darkness starts south, and immediately opens with *Hell's Judgment*, which sets everyone to 1HP.
+The Oracle of Darkness starts south, and immediately opens with *Hell's
+Judgment*, which sets everyone to 1HP.
 
 She will then teleport to the middle of the arena and prepare her first
 major mechanic with a heavy raid-wide.
 
-## Ultimate Relativity - Y Runytivity
+## Ultimate Relativity
 
 When *Ultimate Relativity* resolves, there will be a lot of debuffs that go 
 out. However, you only need to check a limited set of debuffs.
@@ -40,7 +43,8 @@ Six of the eight sets of debuffs have fixed assignments:
   - The DPS will also have a 42s *Dark Water III* debuff.
 - Two tanks/healers will get 30s Fire debuffs (the "long Fires").
 
-This leaves the last tank/healer and the last DPS. One of them will get a *Dark Blizzard III* debuff, and the other will get a *Dark Fire III* debuff.
+This leaves the last tank/healer and the last DPS. One of them will get a *Dark
+Blizzard III* debuff, and the other will get a *Dark Fire III* debuff.
 
 - **If the Blizzard is on a DPS:** This will be a "slow Blizzard". The tank/
   healer will get a 10s Fire debuff and join the "short Fire" group.
@@ -53,13 +57,15 @@ The first step is to assign hourglasses to players. The basic rules are:
 - **Mid fires** go to the **purple** tethered spots.
 - **Long fires** go to the **yellow** tethered spots.
 
+### Ultimate Relativity - Y Runytivity
+
 This is a *tethers-relative* assigment, with a slightly modified priority to
 better match the datacenter's conventions.
 
 <table>
   <tr>
     <td>
-      <p><b>1.</b> The yellow tethers make a "Y-shape". Find the "Y" and orient to it.</p>
+      <p>The yellow tethers make a "Y-shape". Find the "Y" and orient to it.</p>
       <p>Take up assigned clock positions based on your Fire group:</p>
       <ul>
         <li>For the DPS short Fires, use the following priority:
@@ -82,9 +88,43 @@ better match the datacenter's conventions.
   </tr>
 </table>
 
+### Ultimate Relativity - Awk
+
+This is my preferred method, and is a **map-relative** assignment.
+
+<table>
+  <tr>
+    <td>
+      <p>Face the map's North, and find the first hourglass for your 
+      group:</p>
+      <ul>
+        <li><b>Tanks/Healers:</b> Start from N, go anti-clockwise.</li>
+        <li>Long fires follow the priority:
+          <ul>
+            <li><b>N (going ccw): </b> H2 > H1 > ST > MT <b>:NE</b></li>
+          </ul>
+        </li>
+        <li><b>DPS:</b> Start from NE, go clockwise.</li>
+        <li>Short fires follow the priority:
+          <ul>
+            <li><b>NE (going cw): </b> D4 > D3 > D2 > D1 <b>:N</b></li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/ultimate_relativity_awk_01.jpg">
+    </td>
+  </tr>
+</table>
+
 Once everyone has their assigned hourglass, we can resolve the debuffs.
 
-The good news is that once you have your assigned hourglass, you can basically read off where you're supposed to go next from your debuffs. Every 5 seconds, *something* happens.
+The good news is that once you have your assigned hourglass, you can basically
+read off where you're supposed to go next from your debuffs. Every 5 seconds,
+*something* happens.
 
 - If it's your turn to resolve *Dark Fire III*, do so outside.
 - If your hourglass starts spinning, go bait the laser beam.
@@ -121,7 +161,8 @@ debuffs.
     <td>
       <p><b>3.</b> First set of records and laser baits.</p>
       <ul>
-        <li><b>Short Fire:</b> Stay outside and record your position (for <em>Dark Eruption</em>).</li>
+        <li><b>Short Fire:</b> Stay outside and record your position (for
+        <em>Dark Eruption</em>).</li>
         <li><b>Mid Fire:</b> Record your position based on your debuff:
           <ul>
             <li><b>Tank/Healer:</b> Outside.</li>
@@ -155,7 +196,8 @@ debuffs.
       <ul>
         <li><b>Short Fire:</b> Bait your hourglass's laser.</li>
         <li><b>Mid Fire:</b> Move inside.</li>
-        <li><b>Long Fire:</b> Stay inside and record your position (for <em>Shadoweye</em>).</li>
+        <li><b>Long Fire:</b> Stay inside and record your position (for
+        <em>Shadoweye</em>).</li>
       </ul>
       <p>Record your position in your assigned clock spot position, <b>a 
       little away from the center</b>.</p>
@@ -262,8 +304,10 @@ duplicates).
 
 After that, there is one main decision to make:
 
-- Whether you want the Water III adjustments will be permanent **(Permaswap)**, *or*
-- Whether you want the spreads and Apocalypse dodges to be consistent **(Static spreads)**.
+- Whether you want the Water III adjustments will be permanent **(Permaswap)**,
+  *or*
+- Whether you want the spreads and Apocalypse dodges to be consistent **(Static
+  spreads)**.
 
 <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
 <p style="text-align:center"><b>Note:</b> The diagrams below illustrate
@@ -313,7 +357,8 @@ a tank).
       AoEs will appear.</p>
       <p>A white streak also originates from each point and follows the line
       around the arena clockwise or anti-clockwise.</p>
-      <p>Each group references the two starting points in their half of the arena:</p>
+      <p>Each group references the two starting points in their half of the
+      arena:</p>
       <ul>
         <li><b>SW to N:</b> North group.</li>
         <li><b>S to NE:</b> South group.</li>
@@ -355,6 +400,10 @@ a tank).
       first set of pulses.</p>
       <p>All party members will get a spread marker. Just like before, spread
       out in your previous box formation.</p>
+      <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
+      <b>Note:</b> The spread formation here illustrates associating markers
+      with <em>the initial lights</em>.
+      </div>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_perma_05.jpg">
@@ -487,7 +536,8 @@ during this mechanic**.
       AoEs will appear.</p>
       <p>A white streak also originates from each point and follows the line
       around the arena clockwise or anti-clockwise.</p>
-      <p>Each group references the two starting points in their half of the arena:</p>
+      <p>Each group references the two starting points in their half of the
+      arena:</p>
       <ul>
         <li><b>SW to N:</b> North group.</li>
         <li><b>S to NE:</b> South group.</li>
@@ -509,10 +559,13 @@ during this mechanic**.
       <p>After the water stacks resolve, quickly spread out for <em>Spirit 
       Taker</em>.</p>
       <ul>
-        <li><b>Tanks/Melee:</b> Towards the boss (MT/D1 on the left, facing in).</li>
-        <li><b>Healers/Ranged:</b> Towards the edge (H1/D3 on the left, facing in).</li>
+        <li><b>Tanks/Melee:</b> Towards the boss (MT/D1 on the left, facing
+        in).</li>
+        <li><b>Healers/Ranged:</b> Towards the edge (H1/D3 on the left, facing
+        in).</li>
       </ul>
-      <p>Players who swapped earlier can use this time to swap back to their original groups.</p>
+      <p>Players who swapped earlier can use this time to swap back to their
+      original groups.</p>
       <p><b>This is the second swap (of three).</b></p>
     </td>
     <td>
@@ -653,10 +706,10 @@ must be brought down to under 20.0% HP to advance.
       <p><em>Dark Water III</em> and <em>Unholy Darkness</em> are both stacks
       with one crucial difference:</p>
       <ul>
-        <li><em>Dark Water III</em> needs at least <b>four</b> people in the stack
-        to avoid the <em>Mark of Mortality</em> debuff.</li>
-        <li><em>Unholy Darkness</em> needs at least <b>five</b> people in the stack
-        to avoid the <em>Mark of Mortality</em> debuff.</li>
+        <li><em>Dark Water III</em> needs at least <b>four</b> people in the
+        stack to avoid the <em>Mark of Mortality</em> debuff.</li>
+        <li><em>Unholy Darkness</em> needs at least <b>five</b> people in the
+        stack to avoid the <em>Mark of Mortality</em> debuff.</li>
       </ul>
     </td>
     <td style="text-align:center">
@@ -753,7 +806,8 @@ must be brought down to under 20.0% HP to advance.
 
 <details markdown=block>
 <summary>
-  <b>[Hell's Judgment]</b> Isn't this supposed to set your HP to 1? How did I die?
+  <b>[Hell's Judgment]</b> Isn't this supposed to set your HP to 1? How did I
+  die?
 </summary>
 <table>
   <tr>
