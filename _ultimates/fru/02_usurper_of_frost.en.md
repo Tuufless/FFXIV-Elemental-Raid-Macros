@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2. Usurper of Frost v2.0
+title: 2. Usurper of Frost v3.0
 parent: Lv 100. FRU (WIP)
 nav_order: 2
 has_children: false
@@ -8,9 +8,9 @@ has_toc: false
 permalink: /ultimates/fru/02_usurper_of_frost/
 ---
 
-# Usurper of Frost v2.0
+# Usurper of Frost v3.0
 
-This is version 2.0, that's based off the Google Doc with two options for Light
+This is version 3.0, that's based off the Google Doc with two options for Light
 Rampant.
 
 <table>
@@ -18,6 +18,17 @@ Rampant.
     <td>
       <p><b>Changelog</b></p>
       <ul>
+        <li>v3.0 (10 Dec 2024): Modified <em>Light Rampant</em> 4:4:
+          <ul>
+            <li>Switched from a "MT/D1 anchor" strat to the "rotate CW"
+            strat.</li>
+            <li>Switched the lineup order from the Google Doc (H1H2MTST and 
+            D3D4D1D2) to better suit convention (H2H1STMT and D1D2D3D4).</li>
+            <li>Removed <em>Sunbound Holy</em> "CW priority" strat.</li>
+            <li>Updated tank/melee positions for the first <em>Scythe Kick</em>
+            during <em>Mirror, Mirror</em>.</li>
+          </ul>
+        </li>
         <li>v2.0 (3 Dec 2024): Archived Lucrezia's version (v1.0), and 
         updated to the Google Doc:
           <ul>
@@ -50,10 +61,11 @@ Rampant.
 </div>
 
 - [**Diamond Dust - Colour coded**](#diamond-dust---colour-coded)
-  - [**Sunbound Holy - Always Away**](#sunbound-holy---always-away) _or_ 
-  - [**Sunbound Holy - CW priority**](#sunbound-holy---cw-priority)
+  - [**Sunbound Holy - Always Away**](#sunbound-holy---always-away)
 - [**Mirror, Mirror**](#mirror-mirror)
-- [**Light Rampant- 4:4**](#light-rampant---44) _or_ [**Light Rampant- ZizieZip**](#light-rampant---ziziezip)
+- [**Light Rampant**](#light-rampant)
+  - [**4:4**](#light-rampant---44-cw) _or_
+  - [**ZizieZip**](#light-rampant---ziziezip)
 - [**Endless Ice Age (Transition)**](#endless-ice-age)
 - [**Frequently Asked Questions**](#frequently-asked-questions)
 - [**Troubleshooting**](#troubleshooting)
@@ -240,7 +252,7 @@ markers.
   </tr>
 </table>
 
-## Sunbound Holy
+## Sunbound Holy - Always Away
 
 The Oracle's Reflection then casts *Sunbound Holy*, which targets each healer 
 four times with a 4-man stack AoE that also leaves a puddle behind. Each party 
@@ -265,14 +277,9 @@ directly in front of either light party.
   </tr>
 </table>
 
-With that out of the way, there are two methods to resolving the non-cursed 
-scenarios:
-
-### Sunbound Holy - Always Away
-
-While the rule of "always rotate away from the boss" does not always result in 
-the party ending up directly opposite the boss, the movement is a consistent 90 
-degree turn.
+If we do *not* have a cursed scenario, then we follow the "always rotate away" 
+rule. This is a consistent, 90 degree rotation that ideally goes slower rather 
+than fast (i.e: under-rotating is fine, over-rotating is not).
 
 <table>
   <tr>
@@ -292,47 +299,6 @@ degree turn.
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/02/diamond_dust_aa_07b.jpg">
-    </td>
-  </tr>
-</table>
-
-### Sunbound Holy - CW priority
-
-Alternatively, if you prefer ending up directly in front or behind the boss, 
-then you can opt to rotate clockwise in 2/3 of the remaining cases (and 
-anti-clockwise in the last case).
-
-Depending on where the boss is, you can run further if needed to better 
-position yourself directly behind or opposite the boss.
-
-<table>
-  <tr>
-    <td width="50%">
-      <p>If the boss is 90 degrees from a party, both parties rotate 90 degrees clockwise.</p>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru/02/diamond_dust_07a.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p>If the boss is 45 degrees anti-clockwise from a party, then both 
-      parties rotate at least 90 degrees clockwise, and can rotate an 
-      additional 45 degrees if they want to put them directly behind the boss.</p>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru/02/diamond_dust_07b.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p>If the boss is 45 degrees clockwise from a party, then this is the only scenario where the parties run anti-clockwise.</p>
-      <p>Both parties rotate at least 90 degrees anti-clockwise, and can 
-      rotate an additional 45 degrees if they want to put them directly behind 
-      the boss.</p>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru/02/diamond_dust_07c.jpg">
     </td>
   </tr>
 </table>
@@ -656,24 +622,18 @@ serve as the hard enrage, *unless* the boss is brought under 20.0% HP.
 If the DPS check is met, *Absolute Zero* will be a raid-wide and a knockback
 instead, so stay near the middle.
 
-### Light Rampant - 4:4
+### Light Rampant - 4:4 CW
 
-This is essentially a mirrored version of the strategy outlined in the Google 
-Doc, with tanks and melee on the West instead of the East.
-
-The main difference is that instead of rotating players in a fixed direction to 
-make the hexagon, we count CW/CCW from MT/D1 instead. This effectively makes the 
-party rotate clockwise or anti-clockwise depending on whether two tank/healers 
-or two DPS get puddles.
-
-This is equivalent to having H2 or D4 swap over to the other side (depending on 
-whether both puddles are on two DPS or two tanks/healers.)
+This is the same strat outlined in the Google Doc, with different starting
+positions to match datacenter convention.
 
 <table>
   <tr>
     <td width="50%">
-      <p><b>15.</b> Make two rows with tanks and healers North, and DPS
-      South.</p>
+      <p><b>15.</b> Stand between the markers to make a ring around the boss 
+      with tanks and healers North, and DPS South.</p>
+      <p><em>(Note the tank/healer lineup looks "backwards" here- this will be
+      fine as they are facing South at this time.)</em></p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_01.jpg">
@@ -696,29 +656,31 @@ whether both puddles are on two DPS or two tanks/healers.)
   </tr>
   <tr>
     <td>
-      <p><b>17.</b> Going from west to east, count the first three connected players in 
-      the North and South sides. We assign towers based on player positions in the 
-      ring:</p>
+      <p><b>17.</b> The two puddle players move far West and East (between the 
+      towers) to drop their puddles.</p>
+      <p>We now need to sort out the tethers. The objective is to have three 
+      tethered players on the North, and three tethered players on the South.</p>
       <ul>
-        <li>Starting from <b>MT going clockwise</b>, count the <b>first
-        three connected</b> players:
-          <ul>
-            <li><b>1st tether:</b> North-East tower</li>
-            <li><b>2nd tether:</b> South tower</li>
-            <li><b>3rd tether:</b> North-West tower</li>
-          </ul>
-        </li>
-        <li>Starting from <b>D1 going anti-clockwise</b>, count the <b>first 
-        three connected</b> players:
-          <ul>
-            <li><b>1st tether:</b> South-West tower</li>
-            <li><b>2nd tether:</b> North tower</li>
-            <li><b>3rd tether:</b> South-East tower</li>
-          </ul>
-        </li>
+        <li>If one puddle appears North, and one puddle appears South, no 
+        adjustments need to be made.</li>
+        <li>If both puddles appear North, then D1 rotates up and joins the 
+        west-side of the tank/healer lineup.</li>
+        <li>If both puddles appear South, then the MT rotates down and joins
+        the east-side of the DPS lineup.</li>
       </ul>
-      <p>The two puddle players move far West and East (between the towers) to 
-      drop their puddles.</p>
+      <p>From there, the tethered players take their positions.</p>
+      <p>On the North side <em>(Note the East/West players swap sides)</em>:</p>
+      <ul>
+        <li><b>North-West player:</b> North-East tower.</li>
+        <li><b>North player:</b> South tower.</li>
+        <li><b>North-East player:</b> North-West tower.</li>
+      </ul>
+      <p>And on the South side:</p>
+      <ul>
+        <li><b>South-West player:</b> South-West tower.</li>
+        <li><b>South player:</b> North tower.</li>
+        <li><b>South-East player:</b> South-East tower.</li>
+      </ul>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_03.jpg">
@@ -739,7 +701,7 @@ whether both puddles are on two DPS or two tanks/healers.)
     <td>
       <p><b>19.</b> The two puddle players move straight into the center, 
       before turning to their left, dropping five puddles in total before 
-      joining their group North and South.</p>
+      joining their group NNE and SSW.</p>
       <p>The tether players wait for their towers to resolve before collapsing 
       with their group.</p>
     </td>
@@ -753,8 +715,8 @@ whether both puddles are on two DPS or two tanks/healers.)
       telegraph an AoE, which you should avoid.</p>
       <p>The timers on the two <em>The Weight of Light</em> debuffs will also
       expire, resulting in a 4-man stack.</p>
-      <p><em>(You may need to resolve the stack inside the telegraph if
-      needed.)</em></p>
+      <p><b>Wait when the stack resolves</b>- the orb AoEs have not yet
+      resolved.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_06.jpg">
@@ -763,8 +725,8 @@ whether both puddles are on two DPS or two tanks/healers.)
   <tr>
     <td>
       <p><b>21.</b> The tethers will disappear.</p>
-      <p>Move into the first set of explosions as another three white orbs will
-      spawn in the previously unoccupied spots and telegraph an AoE. Simply
+      <p>Move into the first set of orb explosions as another three white orbs 
+      will spawn in the previously unoccupied spots and telegraph an AoE. Simply
       avoid these.</p>
       <p>A 4-man tower will spawn in the center of the arena.</p>
     </td>
@@ -804,7 +766,6 @@ whether both puddles are on two DPS or two tanks/healers.)
         <li><b>Four floating orbs:</b> Party spread (stay in your clock
         positions).</li>
       </ul>
-      <p>Have the DPS adjust to the tanks and healers.</p>
       <p><em>(In this example, the boss is doing pair stacks.)</em></p>
     </td>
     <td>
@@ -820,6 +781,88 @@ whether both puddles are on two DPS or two tanks/healers.)
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_11.jpg">
+    </td>
+  </tr>
+</table>
+
+I wouldn't really recommend this, but if it helps, you can also refer to the 
+following table to see where to go:
+
+<table>
+  <tr>
+    <td style="text-align:center"><b>MT</b></td>
+    <td>
+      <ul>
+        <li>If two DPS get puddles: Go to the <b>South-East</b> tower.</li>
+        <li>Otherwise: Go to the <b>North-West</b> tower.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><b>ST</b></td>
+    <td>
+      <ul>
+        <li>If both Healers get puddles: Go to the <b>South</b> tower.</li>
+        <li>If a DPS gets a puddle and either Healer: Go to the <b>South</b> tower.</li>
+        <li>Otherwise: Go to the <b>North-West</b> tower.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><b>H1</b></td>
+    <td>
+      <ul>
+        <li>If both Tanks get puddles: Go to the <b>North-West</b> tower.</li>
+        <li>If H2 and a DPS get puddles: Go to the <b>North-East</b> tower.</li>
+        <li>Otherwise: Go to the <b>South</b> tower.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><b>H2</b></td>
+    <td>
+      <ul>
+        <li>If two Tank/Healers get puddles: Go to the <b>South</b> tower.</li>
+        <li>Otherwise: Go to the <b>North-East</b> tower.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><b>D1</b></td>
+    <td>
+      <ul>
+        <li>If two Tank/Healers get puddles: Go to the <b>North-East</b> tower.</li>
+        <li>Otherwise: Go to the <b>South-West</b> tower.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><b>D2</b></td>
+    <td>
+      <ul>
+        <li>If D3 and D4 both get puddles: Go to the <b>North</b> tower.</li>
+        <li>If a tank/healer gets a puddle with either D3 or D4: Go to the <b>North</b> tower.</li>
+        <li>Otherwise: Go to the <b>South-West</b> tower.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><b>D3</b></td>
+    <td>
+      <ul>
+        <li>If D1 and D2 get puddles: Go to the <b>South-West</b> tower.</li>
+        <li>If D4 and a tank/healer gets a puddle: Go to the <b>South-East</b> tower.</li>
+        <li>Otherwise: Go to the <b>North</b> tower.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><b>D4</b></td>
+    <td>
+      <ul>
+        <li>If two DPS get puddles: Go to the <b>North</b> tower.</li>
+        <li>Otherwise: Go to the <b>South-East</b> tower.</li>
+      </ul>
     </td>
   </tr>
 </table>
