@@ -13,28 +13,21 @@ permalink: /ultimates/fru/03_oracle_of_darkness/
 <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
 <p style="text-align:center"><b>Details may be missing, or subject to change
 until I have better first-hand experience.</b></p>
+<p>I'm also waiting for greater consensus on Apocalypse, so this phase will
+stay WIP for another week.</p>
 </div>
 
-- **Ultimate Relativity:**
-  - [**Awk**](#ultimate-relativity---awk) _or_ 
-  - [**Y Runytivity**](#ultimate-relativity---Y Runytivity)
+- [**Ultimate Relativity - Y Runytivity**](#ultimate-relativity---y-runytivity)
 - **Apocalypse:**
   - [**Permaswap**](#apocalypse---permaswap) _or_
   - [**Static Spreads**](#apocalypse---static-spreads)
 
 The Oracle of Darkness starts south, and immediately opens with *Hell's Judgment*, which sets everyone to 1HP.
 
-<div style="background-color: #200 ; padding: 10px; border: 1px solid;">
-<p><b>Note:</b> If, for some reason you have a buff that increases your max HP 
-(<em>Protraction</em>, <em>Thrill of Battle</em>, or <em>Great Nebula</em>, or 
-just food buffs expiring), that wears off between the snapshot and application, 
-this will kill you.</p>
-</div>
-
 She will then teleport to the middle of the arena and prepare her first
 major mechanic with a heavy raid-wide.
 
-## Ultimate Relativity
+## Ultimate Relativity - Y Runytivity
 
 When *Ultimate Relativity* resolves, there will be a lot of debuffs that go 
 out. However, you only need to check a limited set of debuffs.
@@ -59,42 +52,6 @@ The first step is to assign hourglasses to players. The basic rules are:
 - **Short fires** go to **empty** spots.
 - **Mid fires** go to the **purple** tethered spots.
 - **Long fires** go to the **yellow** tethered spots.
-
-After that, it's just a matter of how to assign players to hourglasses.
-
-### Ultimate Relativity - Awk
-
-This is my preferred method, and is a **map-relative** assignment.
-
-<table>
-  <tr>
-    <td>
-      <p><b>1.</b> Face the map's North, and find the first hourglass for your 
-      group:</p>
-      <ul>
-        <li><b>Tanks/Healers:</b> Start from N, go anti-clockwise.</li>
-        <li>Long fires follow the priority:
-          <ul>
-            <li><b>N (going ccw): </b> H2 > H1 > ST > MT <b>:NE</b></li>
-          </ul>
-        </li>
-        <li><b>DPS:</b> Start from NE, go clockwise.</li>
-        <li>Short fires follow the priority:
-          <ul>
-            <li><b>NE (going cw): </b> D4 > D3 > D2 > D1 <b>:N</b></li>
-          </ul>
-        </li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru/03/ultimate_relativity_awk_01.jpg">
-    </td>
-  </tr>
-</table>
-
-### Ultimate Relativity - Y Runytivity
 
 This is a *tethers-relative* assigment, with a slightly modified priority to
 better match the datacenter's conventions.
@@ -307,6 +264,12 @@ After that, there is one main decision to make:
 
 - Whether you want the Water III adjustments will be permanent **(Permaswap)**, *or*
 - Whether you want the spreads and Apocalypse dodges to be consistent **(Static spreads)**.
+
+<div style="background-color: #200 ; padding: 10px; border: 1px solid;">
+<p style="text-align:center"><b>Note:</b> The diagrams below illustrate
+assigning sectors based on the "First-Apoc", instead of the safespots although 
+this detail is still up in the air.</p>
+</div>
 
 ## Apocalypse - Permaswap
 
@@ -779,6 +742,30 @@ must be brought down to under 20.0% HP to advance.
       spread out, then swap again to resolve the second Water. There are no 
       more spread mechanics after the second Water, so we can keep the groups 
       as they are to resolve the third Water.</p>
+    </td>
+  </tr>
+</table>
+</details>
+
+---
+
+## Troubleshooting
+
+<details markdown=block>
+<summary>
+  <b>[Hell's Judgment]</b> Isn't this supposed to set your HP to 1? How did I die?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>You had an effect that increased your maximum HP that wore off.</p>
+      <p>Examples include:</p>
+      <ul>
+        <li><em>Food buffs</em></li>
+        <li><em>Greater Nebula</em> (GNB)</li>
+        <li><em>Protraction</em> (SCH)</li>
+        <li><em>Thrill of Battle</em> (WAR)</li>
+      </ul>
     </td>
   </tr>
 </table>

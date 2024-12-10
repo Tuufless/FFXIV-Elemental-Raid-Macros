@@ -13,10 +13,10 @@ Elemental's FRU PF strat is currently a **work in progress**.
 
 <div style="padding: 10px; border: 1px solid;">
 <ul>
-  <li><b>Current version: v2.0.0</b>
+  <li><b>Current version: v3.0.0</b>
     <ul>
       <li>Fatebreaker: v2.0.0</li>
-      <li>Usurper of Frost: v2.0.0</li>
+      <li>Usurper of Frost: v3.0.0</li>
     </ul>
   </li>
 </ul>
@@ -62,27 +62,6 @@ track of changes while things are in flux:
   "One":{"X":92.929,"Y":0.0,"Z":92.929,"ID":4,"Active":true},
   "Two":{"X":107.071,"Y":0.0,"Z":92.929,"ID":5,"Active":true},
   "Three":{"X":107.071,"Y":0.0,"Z":107.071,"ID":6,"Active":true},"Four":{"X":92.929,"Y":0.0,"Z":107.071,"ID":7,"Active":true}
-}
-```
-
-</details>
-
-![]({{site.baseurl}}/images/ultimates/fru/markers.jpg)
-<details markdown=block>
-<summary>XIVLauncher WaymarkPresetPlugin positions</summary>
-
-```json
-{
-  "Name":"FRU",
-  "MapID":1006,
-  "A":{"X":100.0,"Y":0.0,"Z":87.0,"ID":0,"Active":true},
-  "B":{"X":113.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},
-  "C":{"X":100.0,"Y":0.0,"Z":113.0,"ID":2,"Active":true},
-  "D":{"X":87.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},
-  "One":{"X":90.808,"Y":0.0,"Z":90.808,"ID":4,"Active":true},
-  "Two":{"X":109.192,"Y":0.0,"Z":90.808,"ID":5,"Active":true},
-  "Three":{"X":109.192,"Y":0.0,"Z":109.192,"ID":6,"Active":true},
-  "Four":{"X":90.808,"Y":0.0,"Z":109.192,"ID":7,"Active":true}
 }
 ```
 
