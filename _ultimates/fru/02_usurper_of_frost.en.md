@@ -495,6 +495,167 @@ party (although no player can start with more than two stacks).
 
 There are two main ways to resolve *Light Rampant*.
 
+### Light Rampant - ZizieZip
+
+This is a different method to assigning towers, which is equally viable. The 
+party is more spaced out at the start, making it easier to identify the puddle 
+players.
+
+<table>
+  <tr>
+    <td width="50%">
+      <p><b>15.</b> Take up your clock positions.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_zzz_01.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>16.</b> Two players at random will be selected to drop AoE puddles.</p>
+      <p>There will also be six stacks of <em>Lightsteeped</em> randomly
+      distributed among the party (although no player can start with more than
+      two stacks).</p>
+      <p>The other six players will get tethered together. The tether will 
+      likely connect to the nearest player, making a connected ring if all 
+      goes well.</p>
+      <p>Six towers will also spawn around the arena.</p>
+      <p></p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_zzz_02.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>17.</b> Starting from North (where the MT is) and going clockwise,
+      count up the tethered players. We assign towers based on player positions
+      in the ring:</p>
+      <ul>
+        <li><b>1st tether:</b> North tower</li>
+        <li><b>2nd tether:</b> South tower</li>
+        <li><b>3rd tether:</b> North-West tower</li>
+        <li><b>4th tether:</b> North-East tower</li>
+        <li><b>5th tether:</b> South-West tower</li>
+        <li><b>6th tether:</b> South-East tower</li>
+      </ul>
+      <p><em>(Think of this as a letter "I", followed by a "Z".)</em></p>
+      <p>The two puddle players move West and East (around the inner ring on
+      the floor) to drop their puddles.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_zzz_03.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>18.</b> When everyone's in position, it should look like this.</p>
+      <p>It is good practice to take the tower at the edge of the arena, to
+      avoid getting accidentally clipped by the two players dropping puddles
+      in the center.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_zzz_04.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>19.</b> The two puddle players will rotate clockwise, dropping 
+      five puddles in total before joining their group roughly NNW and SSE.</p>
+      <p>The tether players wait for their towers to resolve before collapsing 
+      with their group NNW and SSE.</p>
+      <p>Note that the SW and NE towers rotate clockwise, essentially flipping
+      their North/South halves.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_zzz_05.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>20.</b> Three white orbs will spawn in an equilateral triangle and
+      telegraph an AoE, which you should avoid.</p>
+      <p>The timers on the two <em>The Weight of Light</em> debuffs will also
+      expire, resulting in a 4-man stack.</p>
+      <p><em>(You may need to resolve the stack inside the telegraph if
+      needed.)</em></p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_zzz_06.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>21.</b> The tethers will disappear.</p>
+      <p>Move into the first set of explosions as another three white orbs will
+      spawn in the previously unoccupied spots and telegraph an AoE. Simply
+      avoid these.</p>
+      <p>A 4-man tower will spawn in the center of the arena.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_zzz_07.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>22.</b> The second set of orbs explode.</p>
+      <p><b>Check how many stacks of <em>Lightsteeped</em> you have.</b></p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_zzz_08.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>23.</b> The last few steps are the same as before.</p>
+      <p>We now resolve the 4-man tower in the middle.</p>
+      <ul>
+        <li><b>Players with 2 stacks of <em>Lightsteeped</em>:</b> Enter the
+        tower.</li>
+      </ul>
+      <p>Everybody else move to your standard clock positions around the
+      tower.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_09.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>24.</b> The boss will then cast <em>Banish III</em> again. Just
+      like before, this will either be a party spread, or pair stacks depending
+      on the number of orbs above the boss's head.</p>
+      <ul>
+        <li><b>One floating orb:</b> Pair stacks (MTD3, STD2, H1D1, H2D4).</li>
+        <li><b>Four floating orbs:</b> Party spread (stay in your clock
+        positions).</li>
+      </ul>
+      <p>Have the DPS adjust to the tanks and healers.</p>
+      <p><em>(In this example, the boss is doing pair stacks.)</em></p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_10.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>25.</b> Finally, the boss becomes targetable again and starts
+      casting <em>The House of Light</em>, which cleaves all players and gives
+      a stack of <em>Lightsteeped</em>.</p>
+      <p>Spread out in your standard clock positions to resolve this.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_11.jpg">
+    </td>
+  </tr>
+</table>
+
+A few seconds later, the boss will start to cast *Absolute Zero*. This will
+serve as the hard enrage, *unless* the boss is brought under 20.0% HP.
+
+If the DPS check is met, *Absolute Zero* will be a raid-wide and a knockback
+instead, so stay near the middle.
+
 ### Light Rampant - 4:4
 
 This is essentially a mirrored version of the strategy outlined in the Google 
@@ -662,167 +823,6 @@ whether both puddles are on two DPS or two tanks/healers.)
     </td>
   </tr>
 </table>
-
-### Light Rampant - ZizieZip
-
-This is a different method to assigning towers, which is equally viable. The 
-party is more spaced out at the start, making it easier to identify the puddle 
-players.
-
-<table>
-  <tr>
-    <td width="50%">
-      <p><b>15.</b> Take up your clock positions.</p>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_zzz_01.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>16.</b> Two players at random will be selected to drop AoE puddles.</p>
-      <p>There will also be six stacks of <em>Lightsteeped</em> randomly
-      distributed among the party (although no player can start with more than
-      two stacks).</p>
-      <p>The other six players will get tethered together. The tether will 
-      likely connect to the nearest player, making a connected ring if all 
-      goes well.</p>
-      <p>Six towers will also spawn around the arena.</p>
-      <p></p>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_zzz_02.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>17.</b> Starting from North (where the MT is) and going clockwise,
-      count up the tethered players. We assign towers based on player positions
-      in the ring:</p>
-      <ul>
-        <li><b>1st tether:</b> North tower</li>
-        <li><b>2nd tether:</b> South tower</li>
-        <li><b>3rd tether:</b> North-West tower</li>
-        <li><b>4th tether:</b> North-East tower</li>
-        <li><b>5th tether:</b> South-West tower</li>
-        <li><b>6th tether:</b> South-East tower</li>
-      </ul>
-      <p><em>(Think of this as a letter "I", followed by a "Z".)</em></p>
-      <p>The two puddle players move West and East (around the inner ring on
-      the floor) to drop their puddles.</p>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_zzz_03.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>18.</b> When everyone's in position, it should look like this.</p>
-      <p>It is good practice to take the tower at the edge of the arena, to
-      avoid getting accidentally clipped by the two players dropping puddles
-      in the center.</p>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_zzz_04.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>19.</b> The two puddle players will rotate clockwise, dropping 
-      five puddles in total before joining their group roughly NNW and SSE.</p>
-      <p>The tether players wait for their towers to resolve before collapsing 
-      with their group NNW and SSE.</p>
-      <p>Note that the SW and NE towers rotate clockwise, essentially flipping
-      their North/South halves.</p>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_zzz_05.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>20.</b> Three white orbs will spawn in an equilateral triangle and
-      telegraph an AoE, which you should avoid.</p>
-      <p>The timers on the two <em>The Weight of Light</em> debuffs will also
-      expire, resulting in a 4-man stack.</p>
-      <p><em>(You may need to resolve the stack inside the telegraph if
-      needed.)</em></p>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_zzz_06.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>21.</b> The tethers will disappear.</p>
-      <p>Move into the first set of explosions as another three white orbs will
-      spawn in the previously unoccupied spots and telegraph an AoE. Simply
-      avoid these.</p>
-      <p>A 4-man tower will spawn in the center of the arena.</p>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_zzz_07.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>22.</b> The second set of orbs explode.</p>
-      <p><b>Check how many stacks of <em>Lightsteeped</em> you have.</b></p>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_zzz_08.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>23.</b> The last few steps are the same as before.</p>
-      <p>We now resolve the 4-man tower in the middle.</p>
-      <ul>
-        <li><b>Players with 2 stacks of <em>Lightsteeped</em>:</b> Enter the
-        tower.</li>
-      </ul>
-      <p>Everybody else move to your standard clock positions around the
-      tower.</p>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_09.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>24.</b> The boss will then cast <em>Banish III</em> again. Just
-      like before, this will either be a party spread, or pair stacks depending
-      on the number of orbs above the boss's head.</p>
-      <ul>
-        <li><b>One floating orb:</b> Pair stacks (MTD3, STD2, H1D1, H2D4).</li>
-        <li><b>Four floating orbs:</b> Party spread (stay in your clock
-        positions).</li>
-      </ul>
-      <p>Have the DPS adjust to the tanks and healers.</p>
-      <p><em>(In this example, the boss is doing pair stacks.)</em></p>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_10.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>25.</b> Finally, the boss becomes targetable again and starts
-      casting <em>The House of Light</em>, which cleaves all players and gives
-      a stack of <em>Lightsteeped</em>.</p>
-      <p>Spread out in your standard clock positions to resolve this.</p>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_11.jpg">
-    </td>
-  </tr>
-</table>
-
-A few seconds later, the boss will start to cast *Absolute Zero*. This will
-serve as the hard enrage, *unless* the boss is brought under 20.0% HP.
-
-If the DPS check is met, *Absolute Zero* will be a raid-wide and a knockback
-instead, so stay near the middle.
 
 ---
 

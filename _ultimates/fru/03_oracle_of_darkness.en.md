@@ -15,8 +15,12 @@ permalink: /ultimates/fru/03_oracle_of_darkness/
 until I have better first-hand experience.</b></p>
 </div>
 
-- [**Ultimate Relativity - Awk**](#ultimate-relativity---awk) _or_ [**Ultimate Relativity - Y Runytivity**](#ultimate-relativity---Y Runytivity)
-- [**Apocalypse - Static Spreads**](#apocalypse---static-spreads)
+- **Ultimate Relativity:**
+  - [**Awk**](#ultimate-relativity---awk) _or_ 
+  - [**Y Runytivity**](#ultimate-relativity---Y Runytivity)
+- **Apocalypse:**
+  - [**Permaswap**](#apocalypse---permaswap) _or_
+  - [**Static Spreads**](#apocalypse---static-spreads)
 
 The Oracle of Darkness starts south, and immediately opens with *Hell's Judgment*, which sets everyone to 1HP.
 
@@ -282,7 +286,7 @@ After you gain control of your characters, stack up in the middle to share a
 raid-wide *Shockwave Pulsar*. The boss will then target the first player in 
 aggro with *Black Halo*, a two-player tankbuster cleave.
 
-## Apocalypse - Static spreads
+## Apocalypse
 
 The boss will be targetable for the duration of this mechanic.
 
@@ -297,13 +301,201 @@ We need to sort out the party into two groups of four, such that each group has
 one of each debuff (nothing, 10s, 29s, 38s).
 
 This may necessitate one or two pairs swap around (depending on the number of 
-duplicates). Players who swap will need to do so **a total of three times 
+duplicates).
+
+After that, there is one main decision to make:
+
+- Whether you want the Water III adjustments will be permanent **(Permaswap)**, *or*
+- Whether you want the spreads and Apocalypse dodges to be consistent **(Static spreads)**.
+
+## Apocalypse - Permaswap
+
+This variant makes the party adjust just once at the start of the mechanic, and
+keeps the groups that way until the end.
+
+However, *in exchange*, all players (other than H2 and D4) will need to be 
+comfortable with dodging the Apocalypse AoEs from different positions. There is 
+also a chance of melee downtime (although this can be mitigated by giving it to
+a tank).
+
+<table>
+  <tr>
+    <td width="50%">
+      <p><b>10.</b> Group up with tanks/healers West, and DPS East, and
+      <b>form a box</b>.</p>
+      <p>When <em>Water III</em> debuffs come out, look within your group for
+      duplicates (nothing, 10s, 29s, 38s).</p>
+      <ul>
+        <li><b>If there are duplicates within a group:</b> The player with the
+        higher priority swaps to the other group:
+          <ul>
+            <li><b>Swap:</b> MT > ST > H1 > H2 <b>:Stay</b></li>
+            <li><b>Swap:</b> D1 > D2 > D3 > D4 <b>:Stay</b></li>
+          </ul>
+        </li>
+      </ul>
+      <p><em>(In this example, H1 + H2 have the 10s Water, and D1 + D2 have no
+      debuff, so H1 and D1 will be swapping sides.)</em></p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_01.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>11.</b> The Oracle of Darkness will cast <em>Apocalypse</em>,
+      which changes the arena slightly.</p>
+      <p>Three points on the arena; one center and two opposite cardinal/
+      intercardinals will pulse white. This is a telegraph for where the later 
+      AoEs will appear.</p>
+      <p>A white streak also originates from each point and follows the line
+      around the arena clockwise or anti-clockwise.</p>
+      <p>Each group references the two starting points in their half of the arena:</p>
+      <ul>
+        <li><b>SW to N:</b> North group.</li>
+        <li><b>S to NE:</b> South group.</li>
+      </ul>
+      <p><b>Also note which direction the streaks are going.</b></p>
+      <p>The first pair of <em>Dark Water III</em> stacks also resolve.</p>
+      <p><em>(In this example, the reference points are North and South, and
+      the streaks are travelling anti-clockwise.)</em></p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_02.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>12.</b> While the water stacks were resolving, the boss also 
+      readies <em>Spirit Taker</em>- the boss will jump on a random target
+      with an AoE attack that knocks anyone else hit out of the arena.</p>
+      <p>After the water stacks resolve, quickly spread out for <em>Spirit 
+      Taker</em> in the earlier box formation.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_perma_03.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>13.</b> The boss's <em>Spirit Taker</em> resolves.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_perma_04.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>14.</b> The boss will return to the center.</p>
+      <p>The trails will continue for a total of six pulses (indicating six 
+      upcoming sets of AoEs) and end up in this formation relative to the 
+      first set of pulses.</p>
+      <p>All party members will get a spread marker. Just like before, spread
+      out in your previous box formation.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_perma_05.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>15.</b> The AoEs now resolve for real.</p>
+      <p>The AoEs will appear at the points that pulsed earlier for a total
+      of six waves.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_perma_06.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>16.</b> The second set of AoEs resolve together with the party's 
+      spread markers.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_perma_07.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>17.</b> Quickly move to the center while avoiding the third set of 
+      AoEs.</p>
+      <p>Note that the players on the outside have a narrow safe path that
+      leads in to the middle.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_perma_08.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>18.</b> Fourth set of AoEs.</p>
+      <p>Use this time to gauge how far you can be from the center and still
+      avoid getting hit.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_09.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>19.</b> The second set of <em>Dark Water III</em> stacks resolve
+      together with the fifth set of AoEs.</p>
+      <p>The player with aggro moves out 90 degrees from where the first set of 
+      lights pulsed.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_10.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>20.</b> The boss then uses <em>Darkest Dance</em>, which targets
+      the furthest player (which should be the tank with aggro) with an AoE 
+      tankbuster.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_11.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>21.</b> The MT rejoins their group.</p>
+      <p>Everyone positions to prepare from a knockback from the boss.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_12.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>22.</b> The boss does a knockback.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_13.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>23.</b> The third set of <em>Dark Water III</em> stacks resolve.</p>
+      <p>Resolve these near the boss- melee can use their gap closers, but will
+      need to back out a little bit to meet up with the healers and ranged.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_14.jpg">
+    </td>
+  </tr>
+</table>
+
+## Apocalypse - Static spreads
+
+Players who swap will need to do so **a total of three times 
 during this mechanic**.
 
 <table>
   <tr>
     <td width="50%">
-      <p><b>10.</b> Group up with tanks/healers North, and DPS South.</p>
+      <p><b>10.</b> Group up with tanks/healers West, and DPS East.</p>
       <p>When <em>Water III</em> debuffs come out, look within your group for
       duplicates (nothing, 10s, 29s, 38s).</p>
       <ul>
@@ -557,7 +749,7 @@ must be brought down to under 20.0% HP to advance.
 
 <details markdown=block>
 <summary>
-  <b>[Apocalypse]</b> Why do we have to swap three times?
+  <b>[Apocalypse (static spreads)]</b> Why do we have to swap three times?
 </summary>
 <table>
   <tr>
