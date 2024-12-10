@@ -616,12 +616,6 @@ players.
   </tr>
 </table>
 
-A few seconds later, the boss will start to cast *Absolute Zero*. This will
-serve as the hard enrage, *unless* the boss is brought under 20.0% HP.
-
-If the DPS check is met, *Absolute Zero* will be a raid-wide and a knockback
-instead, so stay near the middle.
-
 ### Light Rampant - 4:4 CW
 
 This is the same strat outlined in the Google Doc, with different starting
@@ -866,6 +860,12 @@ following table to see where to go:
     </td>
   </tr>
 </table>
+
+A few seconds later, the boss will start to cast *Absolute Zero*. This will
+serve as the hard enrage, *unless* the boss is brought under 20.0% HP.
+
+If the DPS check is met, *Absolute Zero* will be a raid-wide and a knockback
+instead, so stay near the middle.
 
 ---
 
