@@ -268,7 +268,8 @@ the sea of mechanics.
       <p><b>10.</b> The yellow-tethered hourglasses (North and South) resolve.</p>
       <p>The two red Aeros, and all the south-side blue players move into the 
       explosion, and stand at the tip of the "flower petal" decal on the floor.</p>
-      <p>The south-side blue players and the red Aero need to <b>stack together, with the red Aero closest to the edge of the arena.</b></p>
+      <p>The south-side blue players and the red Aero need to <b>stack
+      together, with the red Aero closest to the edge of the arena.</b></p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/04/crystallize_time_02.jpg">
@@ -279,10 +280,14 @@ the sea of mechanics.
       <p><b>11.</b> The dragon heads reach the E/W red Ice players around the 
       same time the debuffs resolve.</p>
       <ul>
+        <li>The blue Eruption moves down slightly <em>(this is to hedge against
+        the nearer red Ice being late.)</em></li>
         <li>The red Ice player closest to the blue Eruption moves North to join
         them.</li>
-        <li>The red Ice player furthest from the blue Eruption moves a little south of the East/West mark.</li>
-        <li>The south-side blue players should get knocked over to the other side of the arena.</li>
+        <li>The red Ice player furthest from the blue Eruption moves a little
+        south of the East/West mark.</li>
+        <li>The south-side blue players should get knocked over to the other
+        side of the arena.</li>
         <li>The two red Aeros step off the flower petal into the south sector.</li>
       </ul>
     </td>
@@ -312,9 +317,11 @@ the sea of mechanics.
       <p><b>13.</b> The red Aeros intercept the dragon heads. At this point,
       all the red <em>Wyrmclaw</em> debuffs have been resolved.</p>
       <ul>
-        <li>The red Aero players go back to the South sector after taking their dragon heads.</li>
+        <li>The red Aero players go back to the South sector after taking their
+        dragon heads.</li>
       </ul>
-      <p>A travelling line telegraph appears either along the West or East side of the arena, where the lone red Ice player may be.</p>
+      <p>A travelling line telegraph appears either along the West or East side
+      of the arena, where the lone red Ice player may be.</p>
       <ul>
         <li>If the telegraph appears on the same side as the red Ice player,
         don't panic and just prepare to dodge into it when it goes off.</li>
@@ -340,8 +347,15 @@ the sea of mechanics.
   <tr>
     <td>
       <p><b>16.</b> Second line AoE resolves.</p>
-      <p>If you haven't already, move into it when it explodes to dodge all 
-      reamining lines that go between East and West.</p>
+      <p>Now that all three pairs of hourglasses have resolved, the blue debuff
+      players now go out to the puddles left behind to cleanse their debuff.</p>
+      <p>Each blue player has an assigned puddle to take:</p>
+      <ul>
+        <li><b>Dark Eruption:</b> Take the <b>West</b> puddle.</li>
+        <li><b>Blizzard III:</b> Take the <b>South-West</b> puddle.</li>
+        <li><b>Water III:</b> Take the <b>South-East</b> puddle.</li>
+        <li><b>Unholy Darkness:</b> Take the <b>East</b> puddle.</li>
+      </ul>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/04/crystallize_time_07.jpg">
@@ -362,14 +376,7 @@ the sea of mechanics.
       <p><b>18.</b> Position yourselves to dodge the second line AoE.</p>
       <p>The objective is to end up in the <em>corner</em> where <em>both</em>
       line AoEs originated from <em>(North-East in this example)</em>.</p>
-      <p>However, this is also the time where two of the blue <em>Wyrmfang</em>
-      players need to split off from the group to pick up the East and West 
-      puddles left behind when the red Ice players intercepted the dragon 
-      heads.</p>
-      <ul>
-        <li><b><em>Dark Eruption</em> player: </b> Take the West puddle.</li>
-        <li><b><em>Unholy Darkness</em> player: </b> Take the East puddle.</li>
-      </ul>
+      <p>At this point, all blue players should have cleansed their debuff.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/04/crystallize_time_09.jpg">
@@ -406,6 +413,8 @@ the sea of mechanics.
         <li>There is a clear N/S and E/W split between the two groups.</li>
       </ul>
       <p>Everybody records their position in this formation.</p>
+      <p>A <em>Quietus</em> raid-wide will also go off shortly before
+      everybody's positions are recorded.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/04/crystallize_time_12.jpg">
@@ -417,14 +426,9 @@ the sea of mechanics.
       Taker</em> on a random player.</p>
       <p><b>Do not spread near the Fragment of Fate!</b></p>
       <ul>
-        <li><b>Red players:</b> Spread out near the corner.</li>
-        <li><b>Blue players:</b> Spread out away from the corner.
-          <ul>
-            <li><b>Unholy Darkness + Dark Eruption:</b> Spread out on the North side.</li>
-            <li><b>Blizzard III:</b> Take the SW puddle.</li>
-            <li><b>Water III:</b> Take the SE puddle.</li>
-          </ul>
-        </li>
+        <li><b>Tanks:</b> Stay near the edge.</li>
+        <li><b>Healers:</b> Mid-way.</li>
+        <li><b>DPS:</b> Spread far.</li>
       </ul>
     </td>
     <td>
@@ -448,7 +452,8 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>24.</b> The second <em>Hallowed Wings</em> resolves, this time from North or South (wherever the second line AoE came from).</p>
+      <p><b>24.</b> The second <em>Hallowed Wings</em> resolves, this time from
+      North or South (wherever the second line AoE came from).</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/04/crystallize_time_15.jpg">
