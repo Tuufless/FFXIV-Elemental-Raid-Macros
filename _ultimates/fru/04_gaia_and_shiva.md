@@ -11,18 +11,24 @@ permalink: /ultimates/fru/04_gaia_and_shiva/
 # Gaia and Shiva (WIP)
 
 <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
-<p style="text-align:center"><b>Details may be missing, or subject to change until I have better first-hand experience.</b></p>
+<p style="text-align:center"><b>Details may be missing, or subject to change
+until I have better first-hand experience.</b></p>
 </div>
+
+- [**Darklit Dragonsong**](#darklit-dragonsong)
+- [**Crystallize Time - fast pop**](#crystallize-time---fast-pop)
+- [**Frequently Asked Questions**](#frequently-asked-questions)
 
 The Usurper of Frost will respawn at either North or South, whichever is
 further from where The Oracle of Darkness was defeated.
 
 ### Fragment of Fate
 
-The Usurper of Frost casts *Materialization*, which spawns the Fragment of Fate North.
+The Usurper of Frost casts *Materialization*, which spawns the Fragment of Fate
+North.
 
-Over the course of the phase, the Fragment of Fate will take damage. Assuming no player hits it with an AoE, it will survive
-with barely any HP.
+Over the course of the phase, the Fragment of Fate will take damage. Assuming
+no player hits it with an AoE, it will survive with barely any HP.
 
 This means that if it takes *any* extra damage (e.g: from a player's AoE, or a
 poorly aimed *Spirit Taker*), the phase becomes impossible to clear (although
@@ -220,12 +226,12 @@ The party will also get a bunch of debuffs to resolve.
       <p>The Blizzard players will stand East and West, between the 
       hourglasses:</p>
       <ul>
-        <li><b>West:</b> MT > ST > H1 > H2 > D1 > D2 > D3 > D4 <b>:East</b></li>
+        <li><b>West:</b> MT ST H1 H2 D1 D2 D3 D4 <b>:East</b></li>
       </ul>
       <p>The Aero players will stand South-West and South-East, at the 
       intercardinal mark:</p>
       <ul>
-        <li><b>South-West:</b> MT > ST > H1 > H2 > D1 > D2 > D3 > D4 <b>:South-East</b></li>
+        <li><b>South-West:</b> MT ST H1 H2 D1 D2 D3 D4 <b>:South-East</b></li>
       </ul>
     </td>
     <td>
@@ -486,6 +492,19 @@ advances to the final phase.
   <tr>
     <td>
       <p>Yes, it does!</p>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
+  <b>[Morn Afah]</b> Can you invuln <em>Morn Afah</em>?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>No, you cannot- <em>Morn Afah</em> ignores tank invulnerabilities.</p>
     </td>
   </tr>
 </table>
