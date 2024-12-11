@@ -68,12 +68,11 @@ and the two bosses begin their first mechanic.
     <td width="50%">
       <p><b>1.</b> Two sets of debuffs come out:</p>
       <ol>
-        <li>Two tank/healers and two DPS each get <em>Refulgent Chain</em>
+        <li>One tank, one healer, and two DPS each get <em>Refulgent Chain</em>
         tethers.</li>
         <li>Two random players get <em>Dark Water III</em>.</li>
       </ol>
       <p>One player will have <em>both</em> tethers <em>and</em> Water.</p>
-      <p>Note who this player is.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/04/darklit_01.jpg">
@@ -255,9 +254,6 @@ The party will also get a bunch of debuffs to resolve.
       <p>Keep the red Aero player as the closest player to the edge.</p>
       <p><em>(In this example, the purple tether stretches NW to SE, so the</em>
       Dark Eruption <em>player goes NW, and all other blue players move SE.)</em></p>
-      <ul>
-        <li></li>
-      </ul>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/04/crystallize_time_01b.jpg">
@@ -275,7 +271,7 @@ the sea of mechanics.
       <p>The two red Aeros, and all the south-side blue players move into the 
       explosion, and stand at the tip of the "flower petal" decal on the floor.</p>
       <p>The south-side blue players and the red Aero need to <b>stack
-      together, with the red Aero closest to the edge of the arena.</b></p>
+      together closely, with the red Aero closest to the edge of the arena.</b></p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/04/crystallize_time_02.jpg">
@@ -296,6 +292,9 @@ the sea of mechanics.
         side of the arena.</li>
         <li>The two red Aeros step off the flower petal into the south sector.</li>
       </ul>
+      <p>The players getting knocked back by the Aero AoE may want to aim a
+      <em>little</em> towards the East/West instead of directly across to make
+      sure they make it to the upcoming stack in time.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/04/crystallize_time_03.jpg">
@@ -352,9 +351,9 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>16.</b> Second line AoE resolves.</p>
-      <p>Now that all three pairs of hourglasses have resolved, the blue debuff
-      players now go out to the puddles left behind to cleanse their debuff.</p>
+      <p><b>15.</b> Now that all three pairs of hourglasses have resolved, the
+      blue debuff players now go out to the puddles left behind to cleanse
+      their debuff.</p>
       <p>Each blue player has an assigned puddle to take:</p>
       <ul>
         <li><b>Dark Eruption:</b> Take the <b>West</b> puddle.</li>
@@ -369,7 +368,7 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>17.</b> A second line telegraph now appears, this time either 
+      <p><b>16.</b> A second line telegraph now appears, this time either 
       North or South.</p>
       <p><b>Note which side this telegraph started on (North or South).</b></p>
     </td>
@@ -379,7 +378,7 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>18.</b> Position yourselves to dodge the second line AoE.</p>
+      <p><b>17.</b> Position yourselves to dodge the second line AoE.</p>
       <p>The objective is to end up in the <em>corner</em> where <em>both</em>
       line AoEs originated from <em>(North-East in this example)</em>.</p>
       <p>At this point, all blue players should have cleansed their debuff.</p>
@@ -390,7 +389,10 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>19.</b> Dodge the second horizontal line AoE.</p>
+      <p><b>18.</b> Dodge the second horizontal line AoE.</p>
+      <p>This is the last line AoE you can dodge and still make it to the
+      corner in time for the rewind (barring abilities like <em>Shukuchi</em>
+      or <em>En Avant</em>).</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/04/crystallize_time_10.jpg">
@@ -398,7 +400,7 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>20.</b> Gather together in the corner where both line AoEs 
+      <p><b>19.</b> Gather together in the corner where both line AoEs 
       originated from and start forming up.</p>
       <p><em>(Sprint is </em>very<em> useful here!)</em></p>
     </td>
@@ -408,7 +410,7 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>21.</b> Make two groups in the corner.</p>
+      <p><b>20.</b> Make two groups in the corner.</p>
       <ul>
         <li><b>MT, H1, D1, D3:</b> Left-side, facing outside.</li>
         <li><b>ST, H2, D2, D4:</b> Right-side, facing outside.</li>
@@ -428,7 +430,7 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>22.</b> After recording your position, spread out for <em>Spirit 
+      <p><b>21.</b> After recording your position, spread out for <em>Spirit 
       Taker</em> on a random player.</p>
       <p><b>Do not spread near the Fragment of Fate!</b></p>
       <ul>
@@ -443,7 +445,7 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>23.</b> The rewind resolves, and the Usurper of Frost casts 
+      <p><b>22.</b> The rewind resolves, and the Usurper of Frost casts 
       <em>Hallowed Wings</em> from the side where the first line AoE came from.</p>
       <ul>
         <li>The party gets knocked back half the arena.</li>
@@ -458,7 +460,7 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>24.</b> The second <em>Hallowed Wings</em> resolves, this time from
+      <p><b>23.</b> The second <em>Hallowed Wings</em> resolves, this time from
       North or South (wherever the second line AoE came from).</p>
     </td>
     <td>
