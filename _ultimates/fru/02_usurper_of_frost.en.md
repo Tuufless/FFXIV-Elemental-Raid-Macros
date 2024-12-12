@@ -696,6 +696,8 @@ positions to match datacenter convention.
       <p><b>19.</b> The two puddle players move straight into the center, 
       before turning to their left, dropping five puddles in total before 
       joining their group NNE and SSW.</p>
+      <p>Try to keep your puddles to the same East/West side to avoid blocking
+      the path back to the center.</p>
       <p>The tether players wait for their towers to resolve before collapsing 
       with their group.</p>
     </td>
