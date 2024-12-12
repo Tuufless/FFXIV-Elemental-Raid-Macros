@@ -913,8 +913,8 @@ This is the mini "transition" phase.
       <p>The healers and ranged DPS manage the Crystals of Darkness:</p>
       <ul>
         <li>The Crystals of Darkness will periodically aim a cone AoE at the
-        nearest player. If this AoE hits a Crystal of Light, the Crystal of
-        Light gains a buff that reduces damage taken, so aim them away.</li>
+        nearest player. <b>If this AoE hits a Crystal of Light, the Crystal of
+        Light gains a buff that reduces damage taken</b>, so aim them away.</li>
         <li>Help your tank/melee partner destroy their Crystal of Light.</li>
       </ul>
       <p>To avoid hitting other players, have everyone bait their 
@@ -995,7 +995,7 @@ Ice Age* resolves. As a result, the damage check is to get the Ice Veil below
 
 <details markdown=block>
 <summary>
-  <b>[Crystals]</b> What happens if you destroy the Dark Crystals?
+  <b>[Crystals]</b> What happens if you destroy all the Dark Crystals?
 </summary>
 <table>
   <tr>
@@ -1005,7 +1005,11 @@ Ice Age* resolves. As a result, the damage check is to get the Ice Veil below
       <p>However, the Fragment of Fate in P4 only spawns if the Dark Crystals
       are still alive.</p>
       <p>Without the Fragment of Fate, you can still progress through to the
-      end of P4, but you will get the "bad ending" where Eden's Promise spawns and wipes the raid.</p>
+      end of P4, but you will get the "bad ending" where Eden's Promise spawns
+      and wipes the raid.</p>
+      <p>Additionally, if a Dark Crystal is destroyed, the Ice Veil becomes
+      invulnerable until <em>all</em> the Dark Crystals are destroyed, leading
+      either to an enrage, or the bad ending.</p>
     </td>
   </tr>
 </table>
@@ -1035,7 +1039,8 @@ Ice Age* resolves. As a result, the damage check is to get the Ice Veil below
 
 <details markdown=block>
 <summary>
-  <b>[Diamond Dust]</b> Any tips for aiming my slide on a controller during <em>Twin Silence/Stillness</em>?
+  <b>[Diamond Dust]</b> Any tips for aiming my slide on a controller during
+  <em>Twin Silence/Stillness</em>?
 </summary>
 <table>
   <tr>
