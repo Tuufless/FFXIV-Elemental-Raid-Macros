@@ -204,7 +204,11 @@ The two bosses then target whoever has their hate with a 4-hit *Akh Morn*,
 followed by another *Morn Afah*, which is a party stack.
 
 *Morn Afah* is also a boss HP check, and the two bosses must be within 5% HP of
-each other, or *Morn Afah* will be lethal.
+each other, or *Morn Afah* will be lethal. If they are not within 5% HP, the
+two bosses will tether together indicating which boss has too much HP.
+
+- **White tether:** The Usurper of Frost has too much HP.
+- **Purple tether:** The Oracle of Darkness has too much HP.
 
 ## Crystallize Time - fast pop
 
