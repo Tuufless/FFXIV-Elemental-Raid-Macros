@@ -22,6 +22,9 @@ until I have better first-hand experience.</b></p>
 The Usurper of Frost will respawn at either North or South, whichever is
 further from where The Oracle of Darkness was defeated.
 
+**Make sure the two tanks have first and second aggro on the Usurper of
+Frost**- her auto-attacks hit the top *two* players in aggro.
+
 ### Fragment of Fate
 
 The Usurper of Frost casts *Materialization*, which spawns the Fragment of Fate
