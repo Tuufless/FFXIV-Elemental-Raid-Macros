@@ -101,8 +101,8 @@ how *Light Rampant* was solved in *Eden's Verse- Refulgence*.
     <td>
       <p>If the tethers make a box, then two players need to swap positions:</p>
       <ol>
-        <li>The <b>west-most</b> tank/healer tether.</li>
-        <li>The <b>west-most</b> DPS tether.</li>
+        <li>The <b>east-most</b> tank/healer tether.</li>
+        <li>The <b>east-most</b> DPS tether.</li>
       </ol>
       <p><em>(These two players should be tethered together.)</em></p>
     </td>
@@ -115,17 +115,22 @@ how *Light Rampant* was solved in *Eden's Verse- Refulgence*.
       <p>If the tethers make an hourglass, then two players need to 
       swap positions:</p>
       <ol>
-        <li>The <b>west-most</b> tank/healer tether.</li>
-        <li>The <b>east-most</b> DPS tether.</li>
+        <li>The <b>east-most</b> tank/healer tether.</li>
+        <li>The <b>west-most</b> DPS tether.</li>
       </ol>
       <p><em>(These two players should be tethered together.)</em></p>
-      <p>Alternatively, the entire party can also rotate 90 degrees clockwise.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/04/darklit_02c.jpg">
     </td>
   </tr>
 </table>
+
+Equivalently, the three cases above can also be solved by looking at who you
+are tethered to:
+
+- **If you are tethered to a healer:** Go south.
+- **If you are tethered, but not to a healer:** Go north.
 
 With the tethers sorted out, the next thing we need to do is separate the two
 *Dark Water III* debuffs.
@@ -136,11 +141,9 @@ With the tethers sorted out, the next thing we need to do is separate the two
       <p><b>3.</b> If the two <em>Dark Water III</em> debuffs are on different 
       sides (North vs. South), then no further adjustments need to be made.</p>
       <p>If the <em>Dark Water III</em> debuffs are either both North, or both
-      South, then <em>everybody</em> who is not tethered swaps their
-      North/South sides.</p>
+      South, then the Water player and their partner swap sides.</p>
       <p><em>(In this example, since both Water debuffs are in the North group,
-      all the non-tethered players swaps side. ST and H1 go South, while D3 and
-      D4 go North.)</em></p>
+      and H1 is on the left, the left-side pair (H1 and D3) switch sides.)</em></p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/04/darklit_03.jpg">
