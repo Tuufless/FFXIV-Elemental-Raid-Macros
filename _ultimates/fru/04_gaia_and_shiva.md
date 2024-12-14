@@ -498,6 +498,19 @@ advances to the final phase.
 
 <details markdown=block>
 <summary>
+  <b>[Darklit Dragonsong]</b> How close can you get before the tethers snap?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>The tethers break at around <b>8 yalms.</b></p>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
   <b>[Akh Morn]</b> Does <em>Akh Morn</em> ignore the raise invuln?
 </summary>
 <table>
