@@ -171,25 +171,25 @@ This is the most complex mechanic of the phase. The strategy below follows
       <p>The healers adjust within their tower, while the DPS moves East or
       West, whichever side is safe.</p>
       <ul>
-        <li><b>Left (Light) wing glows:</b> Move to the right side of the boss.</li>
-        <li><b>Right (Dark) wing glows:</b> Move to the left side of the boss.</li>
+        <li><b>Light (Left) wing glows:</b> Move to the right side of the boss.</li>
+        <li><b>Dark (Right) wing glows:</b> Move to the left side of the boss.</li>
       </ul>
       <p>A tether will also appear, which needs to go to the ST. It
       <em>cannot</em> be passed around, but instead automatically tethers to 
       either the nearest or furthest player <b>that is not the player with
       aggro</b> (depending on the wing).</p>
       <ul>
-        <li><b>Left (Light) wing glows:</b> ST needs to be the furthest.</li>
-        <li><b>Right (Dark) wing glows:</b> ST needs to be the nearest.</li>
+        <li><b>Light (Left) wing glows:</b> ST needs to be the furthest.</li>
+        <li><b>Dark (Right) wing glows:</b> ST needs to be the nearest.</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td style="text-align:center">
-      <b>Left (Light) wing first</b>
+      <b>Light (Left) wing first</b>
     </td>
     <td style="text-align:center">
-      <b>Right (Dark) wing first</b>
+      <b>Dark (Right) wing first</b>
     </td>
   </tr>
   <tr>
