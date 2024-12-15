@@ -272,7 +272,7 @@ damage.
 
 <table>
   <tr>
-    <td>
+    <td width="50%">
       <p><b>18.</b> Make two lines SW and SE with the tanks in front.</p>
       <p>The boss will fire a Light-aspected line AoE at the line on the left, 
       and a Dark-aspected line AoE at the line on the right.</p>
