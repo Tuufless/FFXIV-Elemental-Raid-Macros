@@ -15,7 +15,7 @@ permalink: /ultimates/fru/04_gaia_and_shiva/
 until I have better first-hand experience.</b></p>
 </div>
 
-- [**Darklit Dragonsong**](#darklit-dragonsong)
+- [**Darklit Dragonsong - Vertical spreads**](#darklit-dragonsong---vertical-spreads)
 - [**Crystallize Time - fast pop**](#crystallize-time---fast-pop)
 - [**Frequently Asked Questions**](#frequently-asked-questions)
 
@@ -64,12 +64,14 @@ you'll still be able to get practice in.)
 The Oracle of Darkness then respawns (everyone should swap over to target her) 
 and the two bosses begin their first mechanic.
 
-## Darklit Dragonsong
+## Darklit Dragonsong - Vertical spreads
 
 <table>
   <tr>
     <td width="50%">
-      <p><b>1.</b> Two sets of debuffs come out:</p>
+      <p><b>1.</b> Line up on the East and West sides, with the tanks/melee
+      towards the south.</p>
+      <p>Two sets of debuffs come out:</p>
       <ol>
         <li>One tank, one healer, and two DPS each get <em>Refulgent Chain</em>
         tethers.</li>
@@ -86,12 +88,18 @@ and the two bosses begin their first mechanic.
 To resolve the tethers, we have to make a "bowtie" shape- this is the same as
 how *Light Rampant* was solved in *Eden's Verse- Refulgence*.
 
+To summarise, the tethered healer will always go North. For everybody else:
+
+- **If you are tethered to a healer:** Go south.
+- **If you are tethered, but not to a healer:** Go north.
+
 <table>
   <tr>
     <td width="50%">
       <p><b>2.</b> This is the best case scenario, where the tethers already
       make a bowtie.</p>
-      <p>No adjustments are needed.</p>
+      <p>No adjustments are needed- the north-most tether players go to the
+      North tower, and the south-most tether players go to the South tower.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/04/darklit_02a.jpg">
@@ -99,12 +107,22 @@ how *Light Rampant* was solved in *Eden's Verse- Refulgence*.
   </tr>
   <tr>
     <td>
-      <p>If the tethers make a box, then two players need to swap positions:</p>
-      <ol>
-        <li>The <b>east-most</b> tank/healer tether.</li>
-        <li>The <b>east-most</b> DPS tether.</li>
-      </ol>
-      <p><em>(These two players should be tethered together.)</em></p>
+      <p>If the tethers make a box, then the DPS players swap positions:</p>
+      <ul>
+        <li><b>Tank/Healers</b> stay the same as if the tethers made the
+        "bowtie":
+          <ul>
+            <li><b>North-most tether:</b> Go to the North-side tower.</li>
+            <li><b>South-most tether:</b> Go to the South-side tower.</li>
+          </ul>
+        </li>
+        <li><b>DPS</b> swap positions:
+          <ul>
+            <li><b>North-most tether:</b> Go to the <b>South-side</b> tower.</li>
+            <li><b>South-most tether:</b> Go to the <b>North-side</b> tower.</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/04/darklit_02b.jpg">
@@ -112,25 +130,17 @@ how *Light Rampant* was solved in *Eden's Verse- Refulgence*.
   </tr>
   <tr>
     <td>
-      <p>If the tethers make an hourglass, then two players need to 
-      swap positions:</p>
-      <ol>
-        <li>The <b>east-most</b> tank/healer tether.</li>
-        <li>The <b>west-most</b> DPS tether.</li>
-      </ol>
-      <p><em>(These two players should be tethered together.)</em></p>
+      <p>If the tethers make an hourglass, then everybody rotates clockwise:</p>
+      <ul>
+        <li><b>Tanks and healers</b> go to the North-side tower.</li>
+        <li><b>DPS</b> go to the South-side tower.</li>
+      </ul>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/04/darklit_02c.jpg">
     </td>
   </tr>
 </table>
-
-Equivalently, the three cases above can also be solved by looking at who you
-are tethered to:
-
-- **If you are tethered to a healer:** Go south.
-- **If you are tethered, but not to a healer:** Go north.
 
 With the tethers sorted out, the next thing we need to do is separate the two
 *Dark Water III* debuffs.
@@ -142,8 +152,9 @@ With the tethers sorted out, the next thing we need to do is separate the two
       sides (North vs. South), then no further adjustments need to be made.</p>
       <p>If the <em>Dark Water III</em> debuffs are either both North, or both
       South, then the Water player and their partner swap sides.</p>
+      <p>Do this <b>before the towers resolve</b>.</p>
       <p><em>(In this example, since both Water debuffs are in the North group,
-      and H1 is on the left, the left-side pair (H1 and D3) switch sides.)</em></p>
+      the non-tether Water (H1) and their partner (MT) switch places.)</em></p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/04/darklit_03.jpg">
@@ -194,8 +205,8 @@ With the tethers sorted out, the next thing we need to do is separate the two
     <td>
       <p><b>9.</b> This is followed up by <em>Somber Dance's</em> second hit,
       which targets the nearest player. This should be the other tank.</p>
-      <p><b>If the first tank is not a PLD</b>, this can be simplified by
-      invulning and having the same tank take both hits instead.</p>
+      <p><b>If the first tank is not a GNB or PLD</b>, this can be simplified
+      by invulning and having the same tank take both hits instead.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/04/darklit_08.jpg">
@@ -495,6 +506,31 @@ advances to the final phase.
 ---
 
 ## Frequently Asked Questions
+
+<details markdown=block>
+<summary>
+  <b>[Darklit Dragonsong]</b> Why vertical spreads (groups E/W) instead of
+  horizontal (groups N/S)?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>There are a number of problems with lining up horizontally
+      North/South, which are solved by lining up vertically instead.</p>
+      <ul>
+        <li>The Oracle of Darkness spawns south. However, if the tanks are
+        North, then the ST has to step out of formation in order to maintain
+        aggro for the upcoming <em>Akh Morn</em>, potentially confusing the
+        rest of the party.</li>
+        <li>The Oracle of Darkness also spawns a significant amount of time
+        <em>after</em> the Usurper of Frost, and their HP needs to be equalised
+        before the first <em>Morn Afah</em>. However, with the tanks North,
+        they are unable to help without breaking formation.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+</details>
 
 <details markdown=block>
 <summary>
