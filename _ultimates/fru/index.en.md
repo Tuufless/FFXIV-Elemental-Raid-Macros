@@ -56,6 +56,15 @@ Patch 8.0.
 
 ## Markers
 
+A number of mechanics are resolved using "coloured marker pairs".
+
+- `A1`: MT + D3, `B2`: ST + D4, `C3`: H2 + D2, `D4`: H1 + D1
+
+Furthermore, when the party needs to split into groups of four:
+
+- `A1D4`: Tanks + healers *or* MT-group, `B2C3`: DPS _or_ ST-group.
+
+
 ![]({{site.baseurl}}/images/ultimates/fru/markers.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
