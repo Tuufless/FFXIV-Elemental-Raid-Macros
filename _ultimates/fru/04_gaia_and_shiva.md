@@ -40,7 +40,15 @@ you'll still be able to get practice in.)
 <table>
   <tr>
     <td width="50%">
-      <p><b>1.</b> Gather in the center.</p>
+      <p><b>1.</b> Pull the Usurper of Frost to the middle of the arena.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/04/akh_rhai_00.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>2.</b> Gather in the center.</p>
       <p>The Usurper of Frost will transform into its dragon form <em>("Come to
       me, Hraesvelgr!")</em></p>
     </td>
@@ -50,10 +58,10 @@ you'll still be able to get practice in.)
   </tr>
   <tr>
     <td>
-      <p><b>2.</b> When the boss transforms, it baits <em>Akh Rhai</em> AoEs 
+      <p><b>3.</b> When the boss transforms, it baits <em>Akh Rhai</em> AoEs 
       where each player was standing.</p>
       <p>Since the party was stacked together, simply move out when the boss 
-      transforms.</p>
+      transforms into your starting positions for <em>Darklit Dragonsong</em>.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/04/akh_rhai_02.jpg">
@@ -62,14 +70,15 @@ you'll still be able to get practice in.)
 </table>
 
 The Oracle of Darkness then respawns (everyone should swap over to target her) 
-and the two bosses begin their first mechanic.
+and the two bosses begin their first mechanic (make sure the ST has aggro on
+the Oracle of Darkness).
 
 ## Darklit Dragonsong - Vertical spreads
 
 <table>
   <tr>
     <td width="50%">
-      <p><b>1.</b> Line up on the East and West sides, with the tanks/melee
+      <p><b>4.</b> Line up on the East and West sides, with the tanks/melee
       towards the south.</p>
       <p>Two sets of debuffs come out:</p>
       <ol>
@@ -96,7 +105,7 @@ To summarise, the tethered healer will always go North. For everybody else:
 <table>
   <tr>
     <td width="50%">
-      <p><b>2.</b> This is the best case scenario, where the tethers already
+      <p><b>5.</b> This is the best case scenario, where the tethers already
       make a bowtie.</p>
       <p>No adjustments are needed- the north-most tether players go to the
       North tower, and the south-most tether players go to the South tower.</p>
@@ -148,7 +157,7 @@ With the tethers sorted out, the next thing we need to do is separate the two
 <table>
   <tr>
     <td width="50%">
-      <p><b>3.</b> If the two <em>Dark Water III</em> debuffs are on different 
+      <p><b>6.</b> If the two <em>Dark Water III</em> debuffs are on different 
       sides (North vs. South), then no further adjustments need to be made.</p>
       <p>If the <em>Dark Water III</em> debuffs are either both North, or both
       South, then the Water player and their partner swap sides.</p>
@@ -162,7 +171,7 @@ With the tethers sorted out, the next thing we need to do is separate the two
   </tr>
   <tr>
     <td>
-      <p><b>4.</b> The tethered players take the two towers, while the Usurper
+      <p><b>7.</b> The tethered players take the two towers, while the Usurper
       of Frost readies <em>The Path of Light</em>, which cleaves the four
       closest players- these should be the four non-tethered players.</p>
     </td>
@@ -172,7 +181,7 @@ With the tethers sorted out, the next thing we need to do is separate the two
   </tr>
   <tr>
     <td>
-      <p><b>5.</b> The Oracle of Darkness targets a random player for
+      <p><b>8.</b> The Oracle of Darkness targets a random player for
       <em>Spirit Taker</em>, so spread out.</p>
       <p><b>Do not spread near the Fragment of Fate!</b></p>
     </td>
@@ -182,7 +191,7 @@ With the tethers sorted out, the next thing we need to do is separate the two
   </tr>
   <tr>
     <td>
-      <p><b>6.</b> The Usurper of Frost will then use <em>Hallowed Wings</em>,
+      <p><b>9.</b> The Usurper of Frost will then use <em>Hallowed Wings</em>,
       which will cleave either the West or East half of the arena.</p>
       <p>The <em>Water III</em> debuffs will also resolve roughly at the same
       time, so stack up on the safe half of the arena.</p>
@@ -193,7 +202,7 @@ With the tethers sorted out, the next thing we need to do is separate the two
   </tr>
   <tr>
     <td>
-      <p><b>8.</b> The Oracle of Darkness targets the furthest player for
+      <p><b>10.</b> The Oracle of Darkness targets the furthest player for
       <em>Somber Dance</em>, which should be the tank with aggro.</p>
       <p>The two tanks swap places.</p>
     </td>
@@ -203,7 +212,7 @@ With the tethers sorted out, the next thing we need to do is separate the two
   </tr>
   <tr>
     <td>
-      <p><b>9.</b> This is followed up by <em>Somber Dance's</em> second hit,
+      <p><b>11.</b> This is followed up by <em>Somber Dance's</em> second hit,
       which targets the nearest player. This should be the other tank.</p>
       <p><b>If the first tank is not a GNB or PLD</b>, this can be simplified
       by invulning and having the same tank take both hits instead.</p>
@@ -214,8 +223,24 @@ With the tethers sorted out, the next thing we need to do is separate the two
   </tr>
 </table>
 
-The two bosses then target whoever has their hate with a 4-hit *Akh Morn*, 
-followed by another *Morn Afah*, which is a party stack.
+The two bosses will then teleport a bit West and East of the center for *Akh
+Morn* into *Morn Afah*.
+
+<table>
+  <tr>
+    <td width="50%">
+      <p><b>12.</b> The two bosses target whoever has their hate with a 4-hit
+      <em>Akh Morn</em> (which should be their respective tanks).</p>
+      <ul>
+        <li><b>West:</b> MT, H1, D1, D3 <em>(under Usurper of Frost)</em></li>
+        <li><b>East:</b> ST, H2, D2, D4 <em>(under Oracle of Darkness)</em></li>
+      </ul>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/04/akh_morn_01.jpg">
+    </td>
+  </tr>
+</table>
 
 *Morn Afah* is also a boss HP check, and the two bosses must be within 5% HP of
 each other, or *Morn Afah* will be lethal. If they are not within 5% HP, the
@@ -288,7 +313,7 @@ the sea of mechanics.
 <table>
   <tr>
     <td width="50%">
-      <p><b>10.</b> The yellow-tethered hourglasses (North and South) resolve.</p>
+      <p><b>13.</b> The yellow-tethered hourglasses (North and South) resolve.</p>
       <p>The two red Aeros, and all the south-side blue players move into the 
       explosion, and stand at the tip of the "flower petal" decal on the floor.</p>
       <p>The south-side blue players and the red Aero need to <b>stack
@@ -300,7 +325,7 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>11.</b> The dragon heads reach the E/W red Ice players around the 
+      <p><b>14.</b> The dragon heads reach the E/W red Ice players around the 
       same time the debuffs resolve.</p>
       <ul>
         <li>The blue Eruption moves down slightly <em>(this is to hedge against
@@ -323,7 +348,7 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>12.</b> The second set of hourglasses explode together with the 
+      <p><b>15.</b> The second set of hourglasses explode together with the 
       blue player with <em>Unholy Darkness</em>.</p>
       <ul>
         <li>All players in the stack move to the North sector when the stack 
@@ -340,7 +365,7 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>13.</b> The red Aeros intercept the dragon heads. At this point,
+      <p><b>16.</b> The red Aeros intercept the dragon heads. At this point,
       all the red <em>Wyrmclaw</em> debuffs have been resolved.</p>
       <ul>
         <li>The red Aero players go back to the South sector after taking their
@@ -360,7 +385,7 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>14.</b> The third set of hourglasses resolve together with the 
+      <p><b>17.</b> The third set of hourglasses resolve together with the 
       first line AoE.</p>
       <p>Depending on where you are, position yourself to dodge into either 
       the first or second line AoE (there will be telegraphs for both).</p>
@@ -372,7 +397,7 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>15.</b> Now that all three pairs of hourglasses have resolved, the
+      <p><b>18.</b> Now that all three pairs of hourglasses have resolved, the
       blue debuff players now go out to the puddles left behind to cleanse
       their debuff.</p>
       <p>Each blue player has an assigned puddle to take:</p>
@@ -389,7 +414,7 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>16.</b> A second line telegraph now appears, this time either 
+      <p><b>19.</b> A second line telegraph now appears, this time either 
       North or South.</p>
       <p><b>Note which side this telegraph started on (North or South).</b></p>
     </td>
@@ -399,7 +424,7 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>17.</b> Position yourselves to dodge the second line AoE.</p>
+      <p><b>20.</b> Position yourselves to dodge the second line AoE.</p>
       <p>The objective is to end up in the <em>corner</em> where <em>both</em>
       line AoEs originated from <em>(North-East in this example)</em>.</p>
       <p>At this point, all blue players should have cleansed their debuff.</p>
@@ -410,7 +435,7 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>18.</b> Dodge the second horizontal line AoE.</p>
+      <p><b>21.</b> Dodge the second horizontal line AoE.</p>
       <p>This is the last line AoE you can dodge and still make it to the
       corner in time for the rewind (barring abilities like <em>Shukuchi</em>
       or <em>En Avant</em>).</p>
@@ -421,7 +446,7 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>19.</b> Gather together in the corner where both line AoEs 
+      <p><b>22.</b> Gather together in the corner where both line AoEs 
       originated from and start forming up.</p>
       <p><em>(Sprint is </em>very<em> useful here!)</em></p>
     </td>
@@ -431,7 +456,7 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>20.</b> Make two groups in the corner.</p>
+      <p><b>23.</b> Make two groups in the corner.</p>
       <ul>
         <li><b>MT, H1, D1, D3:</b> Left-side, facing outside.</li>
         <li><b>ST, H2, D2, D4:</b> Right-side, facing outside.</li>
@@ -451,7 +476,7 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>21.</b> After recording your position, spread out for <em>Spirit 
+      <p><b>24.</b> After recording your position, spread out for <em>Spirit 
       Taker</em> on a random player.</p>
       <p><b>Do not spread near the Fragment of Fate!</b></p>
       <ul>
@@ -466,7 +491,7 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>22.</b> The rewind resolves, and the Usurper of Frost casts 
+      <p><b>25.</b> The rewind resolves, and the Usurper of Frost casts 
       <em>Hallowed Wings</em> from the side where the first line AoE came from.</p>
       <ul>
         <li>The party gets knocked back half the arena.</li>
@@ -481,7 +506,7 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>23.</b> The second <em>Hallowed Wings</em> resolves, this time from
+      <p><b>26.</b> The second <em>Hallowed Wings</em> resolves, this time from
       North or South (wherever the second line AoE came from).</p>
     </td>
     <td>
