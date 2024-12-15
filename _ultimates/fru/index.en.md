@@ -43,12 +43,20 @@ track of changes while things are in flux:
 ### BiS Notes
 
 - Use your **i730** BiS.
-- Relic weapons (when they arrive) will have their substats capped at **393**.
 - Use the highest grade potions available.
+
+Looking towards the future:
+
+- Futures Rewritten will not be outgeared until **i860** gear is available in
+Patch 8.0.
+- Relic weapons (when they arrive) will have their substats capped at **393**.
+
+![]({{site.baseurl}}/images/ultimates/fru/fru_cheatsheet.jpg)
+*(Full-size image: [English]({{site.baseurl}}/images/ultimates/fru/fru_cheatsheet.jpg))*
 
 ## Markers
 
-![]({{site.baseurl}}/images/ultimates/fru/markers_10.jpg)
+![]({{site.baseurl}}/images/ultimates/fru/markers.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
