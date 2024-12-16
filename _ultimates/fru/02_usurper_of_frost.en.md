@@ -64,8 +64,8 @@ Rampant.
   - [**Sunbound Holy - Always Away**](#sunbound-holy---always-away)
 - [**Mirror, Mirror**](#mirror-mirror)
 - [**Light Rampant**](#light-rampant)
-  - [**4:4**](#light-rampant---44-cw) _or_
-  - [**ZizieZip**](#light-rampant---ziziezip)
+  - [**4:4 CW**](#light-rampant---44-cw) _or_
+  - [**MT-anchor ZizieZip**](#light-rampant---mt-anchor-ziziezip)
 - [**Endless Ice Age (Transition)**](#endless-ice-age)
 - [**Frequently Asked Questions**](#frequently-asked-questions)
 - [**Troubleshooting**](#troubleshooting)
@@ -451,6 +451,8 @@ will get tethered together *(Chains of Everlasting Light)*.
 - After 10 seconds, the *Chains of Everlasting Light* debuff will turn into 
   *Curse of Everlasting Light*. From this point on, the raid wipes if the 
   tethers get too short.
+- Two connected players will also have a 16 second *The Weight of Light*
+  debuff. When the timer expires, this explodes with a 4-man stack.
 
 There will also be six stacks of *Lightsteeped* randomly distributed among the 
 party (although no player can start with more than two stacks).
@@ -461,11 +463,16 @@ party (although no player can start with more than two stacks).
 
 There are two main ways to resolve *Light Rampant*.
 
-### Light Rampant - ZizieZip
+### Light Rampant - MT-anchor ZizieZip
 
 This is a different method to assigning towers, which is equally viable. The 
 party is more spaced out at the start, making it easier to identify the puddle 
 players.
+
+It's a minor variation of [ZizieZip's original strat](https://twitter.com/ZizieZip/status/1861483982157947303),
+except that instead of counting from the two players with *The Weight of Light*
+debuffs (as indicated by the glowing orbs on their head), you count your
+position from a fixed player (the MT) instead.
 
 <table>
   <tr>
