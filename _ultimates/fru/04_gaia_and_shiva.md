@@ -559,6 +559,28 @@ advances to the final phase.
 
 <details markdown=block>
 <summary>
+  <b>[Darklit Dragonsong]</b> Why do we rotate instead of just swapping the
+  tank and the North-most DPS?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>With the two bosses in the way, it's quite annoying to look at the
+      other side- rotating means that all adjustments are contained to your
+      side of the bosses.</p>
+      <p>Rotating also allows both DPS to rotate into the Oracle of Darkness
+      in the event of an hourglass, which is an advantage because the Oracle
+      of Darkness will have higher HP at the time, so it's better to have DPS
+      on her instead of a tank.</p>
+      <p>Not having players cross over to the other side also means that it's
+      easier for the non-tether Water player to adjust.</p>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
   <b>[Darklit Dragonsong]</b> How close can you get before the tethers snap?
 </summary>
 <table>
