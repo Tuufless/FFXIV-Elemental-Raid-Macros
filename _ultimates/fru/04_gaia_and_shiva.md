@@ -10,13 +10,16 @@ permalink: /ultimates/fru/04_gaia_and_shiva/
 
 # Gaia and Shiva (WIP)
 
+This is version 1.0, that uses the vertical spread *Darklit Dragonsong* strat,
+and anti-KB for *Crystallize Time*.
+
 <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
 <p style="text-align:center"><b>Details may be missing, or subject to change
 until I have better first-hand experience.</b></p>
 </div>
 
 - [**Darklit Dragonsong - Vertical spreads**](#darklit-dragonsong---vertical-spreads)
-- [**Crystallize Time - fast pop**](#crystallize-time---fast-pop)
+- [**Crystallize Time - fast pop, anti-kb**](#crystallize-time---fast-pop-anti-kb)
 - [**Frequently Asked Questions**](#frequently-asked-questions)
 
 The Usurper of Frost will respawn at either North or South, whichever is
@@ -249,7 +252,7 @@ two bosses will tether together indicating which boss has too much HP.
 - **White tether:** The Usurper of Frost has too much HP.
 - **Purple tether:** The Oracle of Darkness has too much HP.
 
-## Crystallize Time - fast pop
+## Crystallize Time - fast pop, anti-kb
 
 This is probably the hardest part of the encounter, so hang in there.
 
@@ -446,9 +449,8 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>22.</b> Gather together in the corner where both line AoEs 
+      <p><b>22.</b> Gather together towards the corner where both line AoEs 
       originated from and start forming up.</p>
-      <p><em>(Sprint is </em>very<em> useful here!)</em></p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/04/crystallize_time_11.jpg">
@@ -478,12 +480,11 @@ the sea of mechanics.
     <td>
       <p><b>24.</b> After recording your position, spread out for <em>Spirit 
       Taker</em> on a random player.</p>
-      <p><b>Do not spread near the Fragment of Fate!</b></p>
-      <ul>
-        <li><b>Tanks:</b> Stay near the edge.</li>
-        <li><b>Healers:</b> Mid-way.</li>
-        <li><b>DPS:</b> Spread far.</li>
-      </ul>
+      <p>Spread out in your regular spread positions, <em>except</em> the MT,
+      who goes to the middle of the arena instead (because of the Fragment of 
+      Fate).</p>
+      <p>When the Oracle of Darkness does her <em>Spirit Taker</em> attack,
+      <b>everybody use <em>Arm's Length/Surecast</em></b>.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/04/crystallize_time_13.jpg">
@@ -494,7 +495,8 @@ the sea of mechanics.
       <p><b>25.</b> The rewind resolves, and the Usurper of Frost casts 
       <em>Hallowed Wings</em> from the side where the first line AoE came from.</p>
       <ul>
-        <li>The party gets knocked back half the arena.</li>
+        <li>The party gets knocked back half the arena, which is blocked by 
+        <em>Arm's Length/Surecast</em>.</li>
         <li>The first four members hit get a <em>Magic Vulnerability</em> debuff.</li>
         <li>The first player hit also takes extra damage (which should be a 
         tank).</li>
@@ -508,6 +510,7 @@ the sea of mechanics.
     <td>
       <p><b>26.</b> The second <em>Hallowed Wings</em> resolves, this time from
       North or South (wherever the second line AoE came from).</p>
+      <p>The party will get knocked back half the arena.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/04/crystallize_time_15.jpg">
