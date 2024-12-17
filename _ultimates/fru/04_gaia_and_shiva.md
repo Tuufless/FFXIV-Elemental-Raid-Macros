@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 4. Gaia and Shiva v1.0
+title: 4. Gaia and Shiva (WIP)
 parent: Lv 100. FRU (WIP)
 nav_order: 4
 has_children: false
@@ -8,7 +8,7 @@ has_toc: false
 permalink: /ultimates/fru/04_gaia_and_shiva/
 ---
 
-# Gaia and Shiva v1.0
+# Gaia and Shiva (WIP)
 
 This is version 1.0, that uses the vertical spread *Darklit Dragonsong* strat,
 and anti-KB for *Crystallize Time*.
