@@ -8,7 +8,12 @@ has_toc: false
 permalink: /ultimates/fru/03_oracle_of_darkness/
 ---
 
-# Oracle of Darkness (WIP)
+# Oracle of Darkness v1.0
+
+This is version 1.0, that's based off the Google Doc. The main differences are:
+
+- The priority for *Ultimate Relativity* is the standard T > H > M > R.
+- *Apocalypse* is resolved with the permaswap, coloured safespots strat.
 
 <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
 <p style="text-align:center"><b>Details may be missing, or subject to change

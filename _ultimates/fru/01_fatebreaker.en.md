@@ -12,35 +12,7 @@ permalink: /ultimates/fru/01_fatebreaker/
 
 This is version 2.0, that takes the raidplan and Discord polls together.
 
-<table>
-  <tr>
-    <td>
-      <p><b>Changelog</b></p>
-      <ul>
-        <li>3 Dec 2024: Archived Lucrezia's version (v1.0), and updated to
-        v2.0:
-          <ul>
-            <li>Updated <em>Cyclonic Break</em> spreads to H1 West, H2 South, ST East.</li>
-            <li>Updated Utopian Sky spreads (ST at NE).</li>
-            <li>The priority for who adjusts for 2x tethers has been reversed
-            from prioritising H2/D4, to prioritising MT/D1.</li>
-            <li>Updated <em>Fall of Faith</em> to N>S conga line.</li>
-            <li>Updated tower adjusters from D1D2D3 to D1D3D2.</li>
-          </ul>
-        </li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>Past versions:</b></p>
-      <ul>
-        <li><a href="{{site.baseurl}}/ultimates/fru/v1/01_fatebreaker/">v1.0
-        Lucrezia's strat</a></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+- [**Changelog**](#changelog)
 
 - [**Cyclonic Break**](#cyclonic-break)
 - [**Utopian Sky**](#utopian-sky)
@@ -576,6 +548,39 @@ the phase.
   </tr>
 </table>
 </details>
+
+---
+
+## Changelog
+
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>3 Dec 2024: Archived Lucrezia's version (v1.0), and updated to
+        v2.0:
+          <ul>
+            <li>Updated <em>Cyclonic Break</em> spreads to H1 West, H2 South, ST East.</li>
+            <li>Updated Utopian Sky spreads (ST at NE).</li>
+            <li>The priority for who adjusts for 2x tethers has been reversed
+            from prioritising H2/D4, to prioritising MT/D1.</li>
+            <li>Updated <em>Fall of Faith</em> to N>S conga line.</li>
+            <li>Updated tower adjusters from D1D2D3 to D1D3D2.</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>Past versions:</b></p>
+      <ul>
+        <li><a href="{{site.baseurl}}/ultimates/fru/v1/01_fatebreaker/">v1.0
+        Lucrezia's strat</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <script data-goatcounter="https://tuufless.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
