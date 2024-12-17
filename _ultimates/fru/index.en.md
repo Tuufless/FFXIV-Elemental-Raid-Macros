@@ -18,6 +18,7 @@ Elemental's FRU PF strat is currently a **work in progress**.
       <li>Fatebreaker: v2.0.0</li>
       <li>Usurper of Frost: v3.1.0</li>
       <li>Oracle of Darkness: v1.0.0</li>
+      <li>Gaia and Shiva: v1.0.0</li>
     </ul>
   </li>
 </ul>

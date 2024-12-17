@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2. Usurper of Frost v3.0
+title: 2. Usurper of Frost v3.1
 parent: Lv 100. FRU (WIP)
 nav_order: 2
 has_children: false
@@ -12,10 +12,6 @@ permalink: /ultimates/fru/02_usurper_of_frost/
 
 This is version 3.1, that's based off the Google Doc with two options for Light
 Rampant.
-
-<div style="background-color: #200 ; padding: 10px; border: 1px solid;">
-<p style="text-align:center"><b>There are still a few details to sort out. Look out for a poll in the Discord soon.</b></p>
-</div>
 
 - [**Changelog**](#changelog)
 

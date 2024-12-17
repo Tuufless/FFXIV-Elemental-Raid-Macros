@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3. Oracle of Darkness (WIP)
+title: 3. Oracle of Darkness v1.0
 parent: Lv 100. FRU (WIP)
 nav_order: 3
 has_children: false
