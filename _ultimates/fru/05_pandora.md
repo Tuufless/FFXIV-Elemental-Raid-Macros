@@ -323,8 +323,23 @@ Sometime during this, Ryne will exclaim *"You can weather this! I know you
 can!"* and give you 1.5 bars worth of Limit Break, which should reach an LB3.
 When she does so, *immediately* LB3 (or it will not resolve before the enrage).
 
-Ryne and Gaia will both exclaim *"Yaaaaaargh!"* if the LB3 will finish the job
-(it deals about 2.5% of the boss's max HP in damage) for a cinematic finish.
+---
+
+## Frequently Asked Questions
+
+<details markdown=block>
+<summary>
+  <b>[Limit Break]</b> Does Ryne and Gaia's <em>"Yaaaaaargh!"</em> exclamation 
+  guarantee that Pandora will be defeated?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>Unfortunately, no! Keep hitting the boss!</p>
+    </td>
+  </tr>
+</table>
+</details>
 
 <script data-goatcounter="https://tuufless.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
