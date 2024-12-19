@@ -206,8 +206,10 @@ With the tethers sorted out, the next thing we need to do is separate the two
   <tr>
     <td>
       <p><b>10.</b> The Oracle of Darkness targets the furthest player for
-      <em>Somber Dance</em>, which should be the tank with aggro.</p>
-      <p>The two tanks swap places.</p>
+      <em>Somber Dance</em>.</p>
+      <p>This should be baited by a tank (that is not PLD), and invulned.</p>
+      <p><em>(If this is invulned by a GNB, they cannot take the first</em>
+      Wings Dark and Light<em> in Pandora.)</em></p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/04/darklit_08.jpg">
@@ -216,9 +218,7 @@ With the tethers sorted out, the next thing we need to do is separate the two
   <tr>
     <td>
       <p><b>11.</b> This is followed up by <em>Somber Dance's</em> second hit,
-      which targets the nearest player. This should be the other tank.</p>
-      <p><b>If the first tank is not a GNB or PLD</b>, this can be simplified
-      by invulning and having the same tank take both hits instead.</p>
+      which targets the nearest player. This should be the same tank.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/04/darklit_08.jpg">
