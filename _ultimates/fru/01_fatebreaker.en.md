@@ -196,7 +196,7 @@ attention to this colour.**
     <td>
       <p><b>11.</b> The boss will reappear (untargetable) in the center and
       glow either blue or red for another <em>Cyclonic Break.</em></p>
-      <p><b>7.</b> Return to your <em>original Cyclonic Break</em> spread
+      <p>Return to your <em>original Cyclonic Break</em> spread
       positions, and resolve this the same way as at the start of the
       encounter.</p>
       <p>As the first set of cleaves go off, another clone appears North and 
@@ -208,7 +208,7 @@ attention to this colour.**
   </tr>
   <tr>
     <td>
-      <p><b>11.</b> Red and blue circles will appear on the arena. These will
+      <p><b>12.</b> Red and blue circles will appear on the arena. These will
       all resolve with an AoE, but the one with the same colour as what the
       North clone glowed will have larger AoEs.</p>
       <p>A clone spawns and does a <em>Burnt Strike</em> (Lightning) from 
@@ -216,7 +216,15 @@ attention to this colour.**
       <p>In addition, two random players will get targeted with a <em>Prey</em>
       marker and a <em>Fated Burn Mark</em> debuff (this will wipe the party if
       the player dies.).</p>
-      <p>The party needs to split into two groups of four:</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/01/utopian_sky_07.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>13.</b> The party needs to split into two groups of four, with a 
+      <em>Prey</em> marker in each group:</p>
       <ul>
         <li><b>North:</b> Tanks + Healers</li>
         <li><b>South:</b> DPS</li>
@@ -228,16 +236,7 @@ attention to this colour.**
         H2/D4 swaps groups.</li>
         <li><b>If your group has no Prey markers:</b> MT/D1 swaps groups.</li>
       </ul>
-      <p></p>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru/01/utopian_sky_07.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>12.</b> Stack together in your north/south groups and wait for a
-      clone to do a second <em>Burnt Strike</em> (Fire) from north-to-south.</p>
+      <p>Stack together in your north/south groups and wait for a clone to do a second <em>Burnt Strike</em> (Fire) from north-to-south.</p>
       <p>Move in after the initial hit to get knocked back towards the edge. 
       <em>(This </em>cannot<em> be nullified by anti-knockback abilities)</em></p>
     </td>
@@ -247,7 +246,7 @@ attention to this colour.**
   </tr>
   <tr>
     <td>
-      <p><b>13.</b> The circle AoEs now resolve.</p>
+      <p><b>14.</b> The circle AoEs now resolve.</p>
       <p>The circles that matched the earlier colour (red in this example) 
       will have larger AoEs.</p>
     </td>
@@ -257,7 +256,7 @@ attention to this colour.**
   </tr>
   <tr>
     <td>
-      <p><b>14.</b> Finally, the two Prey targets will resolve their stacks.</p>
+      <p><b>15.</b> Finally, the two Prey targets will resolve their stacks.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/01/utopian_sky_10.jpg">
@@ -278,7 +277,7 @@ priorities.
 <table>
   <tr>
     <td width="50%">
-      <p><b>15.</b> Line up from North to South, on the West side of the 
+      <p><b>16.</b> Line up from North to South, on the West side of the 
       boss:</p>
       <ul>
         <li><b>North:</b> H1 H2 MT ST D1 D2 D3 D4 <b>:South</b></li>
@@ -290,7 +289,7 @@ priorities.
   </tr>
   <tr>
     <td>
-      <p><b>16.</b> The boss will glow either red or blue again, and tether to
+      <p><b>17.</b> The boss will glow either red or blue again, and tether to
       a random player. The tether will also be tinted blue or red.</p>
       <ul>
         <li><b>If you are tethered first: </b>Go just North of the boss.</li>
@@ -303,7 +302,7 @@ priorities.
   </tr>
   <tr>
     <td>
-      <p><b>17.</b> A clone will appear North-West, glow red or blue, and 
+      <p><b>18.</b> A clone will appear North-West, glow red or blue, and 
       tether to a random player. The tether will also be tinted blue or red.</p>
       <ul>
         <li><b>If you are tethered second: </b>Go just South of the boss.</li>
@@ -316,7 +315,7 @@ priorities.
   </tr>
   <tr>
     <td>
-      <p><b>18.</b> Another clone will appear North, glow red or blue, and 
+      <p><b>19.</b> Another clone will appear North, glow red or blue, and 
       tether to a random player. The tether will also be tinted blue or red.</p>
       <ul>
         <li><b>If you are tethered third: </b>Go North of the boss, past
@@ -330,7 +329,7 @@ priorities.
   </tr>
   <tr>
     <td>
-      <p><b>19.</b> One last clone will appear North-East, glow red or blue, 
+      <p><b>20.</b> One last clone will appear North-East, glow red or blue, 
       and tether to a random player. The tether will also be tinted blue or red.</p>
       <ul>
         <li><b>If you are tethered fourth: </b>Go South of the boss, past the 
@@ -344,7 +343,7 @@ priorities.
   </tr>
   <tr>
     <td>
-      <p><b>20.</b> With four people tethered, this leaves behind four players 
+      <p><b>21.</b> With four people tethered, this leaves behind four players 
       that were not tethered.</p>
       <p>We need to split the four untethered players so that the North
       and South groups each have four players.</p>
@@ -363,7 +362,7 @@ priorities.
   </tr>
   <tr>
     <td>
-      <p><b>21.</b> With all players in position, we are now ready to resolve
+      <p><b>22.</b> With all players in position, we are now ready to resolve
       all the tethers.</p>
     </td>
     <td>
@@ -372,7 +371,7 @@ priorities.
   </tr>
   <tr>
     <td>
-      <p><b>22.</b> We resolve the first of four tethers.</p>
+      <p><b>23.</b> We resolve the first of four tethers.</p>
       <p>Lightning tethers fire cleaves at the three closest players.</p>
       <p>The other three players must spread East, West, and North/South of the
       tethered player (who will be immobilised).</p>
@@ -385,7 +384,7 @@ priorities.
   </tr>
   <tr>
     <td>
-      <p><b>23.</b> We resolve the second tether.</p>
+      <p><b>24.</b> We resolve the second tether.</p>
       <p><em>(In this example, we resolve a Lightning tether.)</em></p>
       <p>After this resolves, the second and fourth tethers swap positions.</p>
     </td>
@@ -395,7 +394,7 @@ priorities.
   </tr>
   <tr>
     <td>
-      <p><b>24.</b> We resolve the third tether.</p>
+      <p><b>25.</b> We resolve the third tether.</p>
       <p>Fire tethers cleaves the closest player, that is shared between the
       three players.</p>
       <p>All players stack together North/South (towards the outer edge) of the
@@ -408,7 +407,7 @@ priorities.
   </tr>
   <tr>
     <td>
-      <p><b>25.</b> Finally, we resolve the fourth (and final) tether.</p>
+      <p><b>26.</b> Finally, we resolve the fourth (and final) tether.</p>
       <p><em>(In this example, we resolve a Fire tether.)</em></p>
     </td>
     <td>
@@ -426,7 +425,7 @@ This is the last mechanic of the phase.
 <table>
   <tr>
     <td width="50%">
-      <p><b>26.</b> Three towers will spawn along either the West or East edge.
+      <p><b>27.</b> Three towers will spawn along either the West or East edge.
       There will be six pips divided randomly amongst the three towers.</p>
       <p>To resolve this, we preposition in pairs at each tower:</p>
       <ul>
@@ -441,7 +440,7 @@ This is the last mechanic of the phase.
   </tr>
   <tr>
     <td>
-      <p><b>26.</b> Each tower has a fixed player (H1, H2, D4), and one player
+      <p><b>28.</b> Each tower has a fixed player (H1, H2, D4), and one player
       that will adjust (D1, D2, D3).</p>
       <p>Adjusting players (D1, D2, D3):</p>
       <ul>
@@ -458,7 +457,7 @@ This is the last mechanic of the phase.
   </tr>
   <tr>
     <td colspan="2">
-      <p><b>27.</b> The boss will glow either red or blue and prepare <em>Burnt
+      <p><b>29.</b> The boss will glow either red or blue and prepare <em>Burnt
       Strike</em>.</p>
       <p>Either go straight to your tower (if the boss is blue), or prepare to
       move in to get knocked back into the towers (if the boss is red).</p>
@@ -478,7 +477,7 @@ This is the last mechanic of the phase.
   </tr>
   <tr>
     <td>
-      <p><b>28.</b> The ST's <em>Powder Mark Trail</em> resolves, followed by 
+      <p><b>30.</b> The ST's <em>Powder Mark Trail</em> resolves, followed by 
       the towers.</p>
     </td>
     <td>
