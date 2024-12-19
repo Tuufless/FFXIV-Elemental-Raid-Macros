@@ -19,8 +19,9 @@ Rampant.
   - [**Sunbound Holy - Always Away**](#sunbound-holy---always-away)
 - [**Mirror, Mirror**](#mirror-mirror)
 - [**Light Rampant**](#light-rampant)
-  - [**4:4 CW**](#light-rampant---44-cw) _or_
-  - [**MT-anchor ZizieZip**](#light-rampant---mt-anchor-ziziezip)
+  - [**4:4 East adjust**](#option-1---light-rampant-44-east-adjust) _or_
+  - [**MT-anchor ZizieZip**](#option-2---light-rampant-mt-anchor-ziziezip) _or_
+  - [**4:4 CW**](#option-3---light-rampant-44-cw)
 - [**Endless Ice Age (Transition)**](#endless-ice-age)
 - [**Frequently Asked Questions**](#frequently-asked-questions)
 - [**Troubleshooting**](#troubleshooting)
@@ -225,6 +226,8 @@ directly in front of either light party.
       behind the boss (marked in yellow).</p>
       <p>After that, quickly run clockwise 180 degrees around the arena- you 
       need to drop four puddles and still make it to the other side.</p>
+      <p>When the floor turns to ice, slide so you're in front of the Oracle of 
+      Light.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/02/diamond_dust_07d.jpg">
@@ -416,9 +419,180 @@ party (although no player can start with more than two stacks).
   *Lightsteeped* by one.
 - The raid wipes if any player reaches 5 stacks of *Lightsteeped*.
 
-There are two main ways to resolve *Light Rampant*.
+There are three ways to resolve *Light Rampant*. In order of my personal 
+preference, they would be:
 
-### Light Rampant - MT-anchor ZizieZip
+1. 4:4 - East adjust
+2. MT-anchor ZizieZip
+3. 4:4 - CW adjust
+
+### Option 1 - Light Rampant (4:4 East adjust)
+
+This is my personal preference. The strategy outlined below follows the 4:4 CW 
+adjust strategy in all places except, well, the part where we replace CW adjust
+with East adjust (Step 18 below).
+
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+<details markdown=block>
+<summary><b>[Click to Expand] 4:4 East adjust breakdown</b></summary>
+<table>
+  <tr>
+    <td width="50%">
+      <p><b>15.</b> Stand between the markers to make a ring around the boss 
+      with tanks and healers North, and DPS South.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_lucrezia_01.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>16.</b> Two players at random will be selected to drop AoE puddles.</p>
+      <p>There will also be six stacks of <em>Lightsteeped</em> randomly
+      distributed among the party (although no player can start with more than
+      two stacks).</p>
+      <p>The other six players will get tethered together. The tether will 
+      likely connect to the nearest player, making a connected ring if all 
+      goes well.</p>
+      <p>Six towers will also spawn around the arena.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_lucrezia_02.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>17.</b> The two puddle players move far West and East (between the 
+      towers) and prepare to drop five puddles, one after the other.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_lucrezia_03.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>18.</b> At the same time, we need to sort out the tethers.</p>
+      <p>Starting from H1 and going clockwise, count up the tethered players.</p>
+      <p><em>(It will be easier for the DPS to count anti-clockwise from D1 
+      instead.)</em></p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_lucrezia_04.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>20.</b> We assign towers based on player positions in the ring:</p>
+      <ul>
+        <li><b>1st tether:</b> North-East tower.</li>
+        <li><b>2nd tether:</b> South tower.</li>
+        <li><b>3rd tether:</b> North-West tower.</li>
+        <li><b>4th tether:</b> South-East tower.</li>
+        <li><b>5th tether:</b> North tower.</li>
+        <li><b>6th tether:</b> South-West tower.</li>
+      </ul>
+      <p>It is good practice to take the tower at the edge of the arena, to
+      avoid getting accidentally clipped by the two players dropping puddles
+      in the center.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_lucrezia_05.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>21.</b> The two puddle players move straight into the center, 
+      before turning to their left, dropping five puddles in total before 
+      joining their group NNE and SSW.</p>
+      <p>Try to keep your puddles to the same East/West side to avoid blocking
+      the path back to the center.</p>
+      <p>The tether players wait for their towers to resolve before collapsing 
+      with their group.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_lucrezia_06.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>22.</b> Three white orbs will spawn in an equilateral triangle and
+      telegraph an AoE, which you should avoid.</p>
+      <p>The timers on the two <em>The Weight of Light</em> debuffs will also
+      expire, resulting in a 4-man stack.</p>
+      <p><b>Wait when the stack resolves</b>- the orb AoEs have not yet
+      resolved.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_lucrezia_07.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>23.</b> The tethers will disappear.</p>
+      <p>Move into the first set of orb explosions as another three white orbs 
+      will spawn in the previously unoccupied spots and telegraph an AoE. Simply
+      avoid these.</p>
+      <p>A 4-man tower will spawn in the center of the arena.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_lucrezia_08.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>24.</b> The second set of orbs explode.</p>
+      <p><b>Check how many stacks of <em>Lightsteeped</em> you have.</b></p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_lucrezia_09.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>25.</b> We now resolve the 4-man tower in the middle.</p>
+      <ul>
+        <li><b>Players with 2 stacks of <em>Lightsteeped</em>:</b> Enter the
+        tower.</li>
+      </ul>
+      <p>Everybody else move to your standard clock positions around the
+      tower.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_11.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>26.</b> The boss will then cast <em>Banish III</em> again. Just
+      like before, this will either be a party spread, or pair stacks depending
+      on the number of orbs above the boss's head.</p>
+      <ul>
+        <li><b>One floating orb:</b> Pair stacks (MTD3, STD2, H1D1, H2D4).</li>
+        <li><b>Four floating orbs:</b> Party spread (stay in your clock
+        positions).</li>
+      </ul>
+      <p><em>(In this example, the boss is doing pair stacks.)</em></p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_12.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>27.</b> Finally, the boss becomes targetable again and starts
+      casting <em>The House of Light</em>, which cleaves all players and gives
+      a stack of <em>Lightsteeped</em>.</p>
+      <p>Spread out in your standard clock positions to resolve this.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_13.jpg">
+    </td>
+  </tr>
+</table>
+</details>
+</div>
+
+### Option 2 - Light Rampant (MT-anchor ZizieZip)
 
 This is a different method to assigning towers, which is equally viable. The 
 party is more spaced out at the start, making it easier to identify the puddle 
@@ -429,6 +603,9 @@ except that instead of counting from the two players with *The Weight of Light*
 debuffs (as indicated by the glowing orbs on their head), you count your
 position from a fixed player (the MT) instead.
 
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+<details markdown=block>
+<summary><b>[Click to Expand] MT-anchor ZizieZip breakdown</b></summary>
 <table>
   <tr>
     <td width="50%">
@@ -543,19 +720,63 @@ position from a fixed player (the MT) instead.
       <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_zzz_10.jpg">
     </td>
   </tr>
+  <tr>
+    <td>
+      <p><b>24.</b> We now resolve the 4-man tower in the middle.</p>
+      <ul>
+        <li><b>Players with 2 stacks of <em>Lightsteeped</em>:</b> Enter the
+        tower.</li>
+      </ul>
+      <p>Everybody else move to your standard clock positions around the
+      tower.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_11.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>25.</b> The boss will then cast <em>Banish III</em> again. Just
+      like before, this will either be a party spread, or pair stacks depending
+      on the number of orbs above the boss's head.</p>
+      <ul>
+        <li><b>One floating orb:</b> Pair stacks (MTD3, STD2, H1D1, H2D4).</li>
+        <li><b>Four floating orbs:</b> Party spread (stay in your clock
+        positions).</li>
+      </ul>
+      <p><em>(In this example, the boss is doing pair stacks.)</em></p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_12.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>26.</b> Finally, the boss becomes targetable again and starts
+      casting <em>The House of Light</em>, which cleaves all players and gives
+      a stack of <em>Lightsteeped</em>.</p>
+      <p>Spread out in your standard clock positions to resolve this.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_13.jpg">
+    </td>
+  </tr>
 </table>
+</details>
+</div>
 
-From here, all the *Light Rampant* strats resolve the same- continue on to
-[The House of Light](#the-house-of-light).
-
-### Light Rampant - 4:4 CW
+### Option 3 - Light Rampant (4:4 CW)
 
 This is a slight modification of the strat outlined in the Google Docs, and is
-my least preferred solution by far.
+my least preferred solution by far- I *cannot* recommend this strat in good
+faith.
 
 The only change is to the DPS lineup- we use D1 D2 D3 D4 here, instead of D3 D4
 D1 D2.
 
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+<details markdown=block>
+<summary><b>[Click to Expand] 4:4 CW breakdown</b></summary>
 <table>
   <tr>
     <td width="50%">
@@ -693,22 +914,8 @@ D1 D2.
       <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_44cw_10.jpg">
     </td>
   </tr>
-</table>
-
-From here, all the *Light Rampant* strats resolve the same- continue on to
-[The House of Light](#the-house-of-light).
-
-### The House of Light
-
-This is where the number of *Lightsteeped* debuffs you have accumulated thus
-far matters.
-
-Assuming everything has been done correctly up to this point, four players will 
-have two stacks of *Lightsteeped*, and four players will have three stacks.
-
-<table>
   <tr>
-    <td width="50%">
+    <td>
       <p><b>25.</b> We now resolve the 4-man tower in the middle.</p>
       <ul>
         <li><b>Players with 2 stacks of <em>Lightsteeped</em>:</b> Enter the
@@ -731,7 +938,6 @@ have two stacks of *Lightsteeped*, and four players will have three stacks.
         <li><b>Four floating orbs:</b> Party spread (stay in your clock
         positions).</li>
       </ul>
-      <p>Have the DPS adjust to the tanks and healers.</p>
       <p><em>(In this example, the boss is doing pair stacks.)</em></p>
     </td>
     <td>
@@ -750,6 +956,8 @@ have two stacks of *Lightsteeped*, and four players will have three stacks.
     </td>
   </tr>
 </table>
+</details>
+</div>
 
 A few seconds later, the boss will start to cast *Absolute Zero*. This will
 serve as the hard enrage, *unless* the boss is brought under 20.0% HP.
