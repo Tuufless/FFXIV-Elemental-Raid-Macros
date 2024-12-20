@@ -41,7 +41,7 @@ Six of the eight sets of debuffs have fixed assignments:
 
 - Two DPS will get 10s Fire debuffs (the "short Fires").
 - One tank/healer and one DPS will get 20s Fire debuffs (the "mid Fires"). 
-  - The tank/healer have a 42s *Dark Eruption* debuff.
+  - The tank/healer have a 42s *Dark Eruption* or *Shadoweye* debuff.
   - The DPS will also have a 42s *Dark Water III* debuff.
 - Two tanks/healers will get 30s Fire debuffs (the "long Fires").
 
