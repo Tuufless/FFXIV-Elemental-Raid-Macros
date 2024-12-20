@@ -436,7 +436,10 @@ a tank).
   <tr>
     <td>
       <p><b>21.</b> The boss then uses <em>Darkest Dance</em>, which targets
-      the furthest player (which should be the MT) with an AoE tankbuster.</p>
+      the furthest player (which should be a tank) with an AoE tankbuster.</p>
+      <p><b>Note:</b> <em>Either</em> tank can bait this. However, if there is
+      a PLD in the party, they should have priority (with <em>Hallowed
+      Ground</em>.)</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_11.jpg">
@@ -444,7 +447,8 @@ a tank).
   </tr>
   <tr>
     <td>
-      <p><b>22.</b> The MT rejoins their group.</p>
+      <p><b>22.</b> The tank that baited <em>Darkest Dance</em> rejoins their 
+      group.</p>
       <p>Everyone moves towards the boss, and positions to prepare from a
       knockback from the boss in their groups.</p>
     </td>
