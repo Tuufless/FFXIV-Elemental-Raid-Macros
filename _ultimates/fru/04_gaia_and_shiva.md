@@ -184,9 +184,8 @@ With the tethers sorted out, the next thing we need to do is separate the two
   </tr>
   <tr>
     <td>
-      <p><b>8.</b> The Oracle of Darkness targets a random player for
-      <em>Spirit Taker</em>, so spread out.</p>
-      <p><b>Do not spread near the Fragment of Fate!</b></p>
+      <p><b>8.</b> Move a little bit south, and spread out around both bosses.</p>
+      <p><b>Do not spread too close to the Fragment of Fate!</b></p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/04/darklit_05.jpg">
@@ -194,10 +193,9 @@ With the tethers sorted out, the next thing we need to do is separate the two
   </tr>
   <tr>
     <td>
-      <p><b>9.</b> The Usurper of Frost will then use <em>Hallowed Wings</em>,
-      which will cleave either the West or East half of the arena.</p>
-      <p>The <em>Water III</em> debuffs will also resolve roughly at the same
-      time, so stack up on the safe half of the arena.</p>
+      <p><b>9.</b> The Oracle of Darkness targets a random player for
+      <em>Spirit Taker</em>.</p>
+      <p>Ideally, she should not move much.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/04/darklit_06.jpg">
@@ -205,20 +203,33 @@ With the tethers sorted out, the next thing we need to do is separate the two
   </tr>
   <tr>
     <td>
-      <p><b>10.</b> The Oracle of Darkness targets the furthest player for
-      <em>Somber Dance</em>.</p>
-      <p>This should be baited by a tank (that is not PLD), and invulned.</p>
-      <p><em>(If this is invulned by a GNB, they cannot take the first</em>
-      Wings Dark and Light<em> in Pandora.)</em></p>
+      <p><b>10.</b> The Usurper of Frost will then use <em>Hallowed Wings</em>,
+      which will cleave either the West or East half of the arena.</p>
+      <p>The <em>Water III</em> debuffs will also resolve roughly at the same
+      time, so stack up on the safe half of the arena.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru/04/darklit_08.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/04/darklit_07.jpg">
     </td>
   </tr>
   <tr>
     <td>
-      <p><b>11.</b> This is followed up by <em>Somber Dance's</em> second hit,
-      which targets the nearest player. This should be the same tank.</p>
+      <p><b>11.</b> The Oracle of Darkness targets the furthest player for
+      <em>Somber Dance</em>.</p>
+      <p>This is actually a two-hit tankbuster, first targeting the furthest
+      player, then targeting the closest player.</p>
+      <p>However, <em>unlike</em> the Savage version, both hits can be taken by
+      the same player, which we do with tank invulnerability.</p>
+      <p>Some notes though:</p>
+      <ul>
+        <li>This <em>cannot</em> be taken by a PLD, as they will need
+        <em>Hallowed Ground</em> for the final phase.</li>
+        <li>This <em>can</em> be taken by a GNB, but they will not have
+        <em>Superbolide</em> available for the first <em>Wings Dark and
+        Light</em> in the final phase.</li>
+      </ul>
+      <p>Everybody else gather together underneath where the Oracle of Darkness
+      was to prevent accidentally baiting the <em>Somber Dance</em>.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/04/darklit_08.jpg">
@@ -529,7 +540,6 @@ When both bosses are defeated, you will advance to the next arena. If the
 Fragment of Fate is not around, Eden's Promise will spawn and wipe the raid.
 If, on the other hand, the Fragment of Fate is still alive, then the party 
 advances to the final phase.
-
 
 ---
 
