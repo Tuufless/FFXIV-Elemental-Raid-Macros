@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3. Oracle of Darkness v1.0
+title: 3. Oracle of Darkness v1.1
 parent: Lv 100. FRU (WIP)
 nav_order: 3
 has_children: false
@@ -8,11 +8,11 @@ has_toc: false
 permalink: /ultimates/fru/03_oracle_of_darkness/
 ---
 
-# Oracle of Darkness v1.0
+# Oracle of Darkness v1.1
 
-This is version 1.0, that's based off the Google Doc. The main differences are:
+This is version 1.1, that's based off the Google Doc. The main differences are:
 
-- The priority for *Ultimate Relativity* is the standard T > H > M > R.
+- The priority for *Ultimate Relativity* is "H > T > **M > R**" instead of "H > T > **R > M**".
 - *Apocalypse* is resolved with the permaswap, coloured safespots strat.
 
 <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
@@ -24,6 +24,7 @@ until I have better first-hand experience.</b></p>
 - [**Apocalypse - Permaswap, Safespot Colour**](#apocalypse---permaswap-safespot-colour)
 - [**Frequently Asked Questions**](#frequently-asked-questions)
 - [**Troubleshooting**](#troubleshooting)
+- [**Changelog**](#changelog)
 
 The Oracle of Darkness starts south, and immediately opens with *Hell's
 Judgment*, which sets everyone to 1HP.
@@ -69,7 +70,7 @@ better match the datacenter's conventions.
       <ul>
         <li>For the tank/healer long Fires, use the following priority:
           <ul>
-            <li><b>NW: </b> MT > ST > H1 > H2 <b>:NE</b></li>
+            <li><b>NW: </b> H1 > H2 > MT > ST <b>:NE</b></li>
           </ul>
         </li>
         <li>For the DPS short Fires, use the following priority:
@@ -552,6 +553,22 @@ must be brought down to under 20.0% HP to advance.
   </tr>
 </table>
 </details>
+
+
+---
+
+## Changelog
+
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>19 Dec 2024 (v1.1): Updated Ultimate Relativity prio from MT ST H1
+        H2 to H1 H2 MT ST.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <script data-goatcounter="https://tuufless.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>

@@ -12,13 +12,12 @@ permalink: /ultimates/fru/01_fatebreaker/
 
 This is version 2.0, that takes the raidplan and Discord polls together.
 
-- [**Changelog**](#changelog)
-
 - [**Cyclonic Break**](#cyclonic-break)
 - [**Utopian Sky**](#utopian-sky)
 - [**Fall of Faith**](#fall-of-faith)
 - [**Towers**](#towers)
 - [**Frequently Asked Questions**](#frequently-asked-questions)
+- [**Changelog**](#changelog)
 
 ## Cyclonic Break
 

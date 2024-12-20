@@ -274,12 +274,12 @@ The party will also get a bunch of debuffs to resolve.
       <p>The Blizzard players will stand East and West, between the 
       hourglasses:</p>
       <ul>
-        <li><b>West:</b> MT ST H1 H2 D1 D2 D3 D4 <b>:East</b></li>
+        <li><b>West:</b> H1 H2 MT ST D1 D2 D3 D4 <b>:East</b></li>
       </ul>
       <p>The Aero players will stand South-West and South-East, at the 
       intercardinal mark:</p>
       <ul>
-        <li><b>South-West:</b> MT ST H1 H2 D1 D2 D3 D4 <b>:South-East</b></li>
+        <li><b>South-West:</b> H1 H2 MT ST D1 D2 D3 D4 <b>:South-East</b></li>
       </ul>
     </td>
     <td>
