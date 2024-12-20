@@ -1096,8 +1096,8 @@ Ice Age* resolves. As a result, the damage check is to get the Ice Veil below
 <table>
   <tr>
     <td width="50%">
-      <p>In short, 4:4 CW makes six players adjust for something that can
-      resolved with just one.</p>
+      <p>In short, 4:4 CW makes 4-6 players adjust for something that can be
+      resolved with just one player adjusting (always).</p>
       <p>Consider D2's position in the example on the right.</p>
       <p>With the 4:4 East adjust strat, the tower that D2 goes to is <em>fully
       determined</em> just by looking West along their row (i.e: D1). D2 sees
@@ -1107,9 +1107,9 @@ Ice Age* resolves. As a result, the damage check is to get the Ice Veil below
       <em>could</em> be on the tanks/healers, meaning D2 is now the
       <em>first</em> player in their row (after D1 rotates up), and they go to
       the South-West tower instead.</p>
-      <p>Essentially, 4:4 CW adds an extra layer (rotating six players) onto
+      <p>Essentially, 4:4 CW adds an extra layer (rotating 4-6 players) onto
       something that can just be resolved by having the East-most player adjust
-      if needed (only one player adjusts).</p>
+      instead (only one player adjusts).</p>
       <p>I simply <em>cannot</em> recommend 4:4 CW adjust in good faith.</p>
     </td>
     <td>
