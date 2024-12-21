@@ -676,6 +676,34 @@ must be brought down to under 20.0% HP to advance.
 </table>
 </details>
 
+<details markdown=block>
+<summary>
+  <b>[Darkest Dance]</b> How do tank invulns here interact with the rest of the 
+  fight?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>Some important relations to keep in mind are:</p>
+      <ul>
+        <li><b>WAR</b> and <b>DRK</b> can both invuln <em>Darkest Dance</em>,
+        and have <em>Holmgang/Living Dead</em> back in time for the first 
+        <em>Wings Dark and Light</em> in the final phase.</li>
+        <li><b>GNB</b> and <b>PLD</b> can both invuln <em>Darkest Dance</em>. If 
+        they do, their invuln will <em>not</em> be available for the first 
+        <em>Wings Dark and Light</em> in the final phase (but it will be 
+        available for the second).</li>
+      </ul>
+      <p>However, PLD is the only tank that cannot invuln <em>Somber Dance</em> 
+      in P4 and have it available for either <em>Wings Dark and Light</em> in
+      the final phase, so prioritize letting PLD bait <em>Darkest Dance</em> 
+      with <em>Hallowed Ground</em> in this phase to extract the most out of
+      your tank invulns.</p>
+    </td>
+  </tr>
+</table>
+</details>
+
 ---
 
 ## Troubleshooting
