@@ -431,9 +431,6 @@ preference, they would be:
 This is my personal preference. The strategy outlined below follows the
 strategy used in Mana, except for how the puddles are dropped.
 
-<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
-<details markdown=block>
-<summary><b>[Click to Expand] 4:4 East adjust breakdown</b></summary>
 <table>
   <tr>
     <td width="50%">
@@ -588,8 +585,6 @@ strategy used in Mana, except for how the puddles are dropped.
     </td>
   </tr>
 </table>
-</details>
-</div>
 
 ### Option 2 - Light Rampant (MT-anchor ZizieZip)
 
