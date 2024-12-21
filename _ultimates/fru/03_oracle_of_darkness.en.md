@@ -37,21 +37,154 @@ major mechanic with a heavy raid-wide.
 When *Ultimate Relativity* resolves, there will be a lot of debuffs that go 
 out. However, you only need to check a limited set of debuffs.
 
-Six of the eight sets of debuffs have fixed assignments:
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+<details markdown=block>
+<summary><b>[Click to Expand] Ultimate Relativity debuffs</b></summary>
+<p>The following debuffs all resolve before <em>Return</em> resolves.</p>
+<table>
+  <tr>
+    <td style="text-align:center">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/dark_blizzard.png">
+    </td>
+    <td>
+      <p><b>Spell-in-Waiting: Dark Blizzard III</b></p>
+      <p>One player will get this debuff, and it will always be 20s.</p>
+      <ul>
+        <li>When the timer expires, a donut AoE centered on the player resolves.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/dark_fire.png">
+    </td>
+    <td>
+      <p><b>Spell-in-Waiting: Dark Fire III</b></p>
+      <p>Seven players will get this debuff, but with different durations.</p>
+      <ul>
+        <li>Two DPS and one tank/healer will have a 10s duration (the "short
+        Fires")</li>
+        <li>One tank/healer and one DPS will have a 20s duration (the "mid 
+        Fires")</li>
+        <li>Two tank/healers and one DPS will have a 30s duration (the "long
+        Fires")</li>
+        <li>When the timer expires, a point-blank AoE centered on the player
+        resolves (8 yalm radius).</li>
+      </ul>
+      <p>However, either the 10s tank/healer <em>Dark Fire III</em> or the 30s
+      DPS <em>Dark Fire III</em> will be replaced with a 20s <em>Dark Blizzard
+      III</em> instead.</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/unholy_darkness.png">
+    </td>
+    <td>
+      <p><b>Spell-in-Waiting: Unholy Darkness</b></p>
+      <p>Three players will get this debuff, at 10s, 20s, and 30s.</p>
+      <ul>
+        <li>When the timer expires, a 5-man stack AoE centered on the player 
+        resolves (6 yalm radius).</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/spell_in_waiting_return.png">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/return.png">
+    </td>
+    <td>
+      <p><b>Spell-in-Waiting: Return</b></p>
+      <p>All players will get this debuff, but with different durations.</p>
+      <ul>
+        <li>When the debuff resolves, the player's current position is recorded, and this debuff turns into <em>Return</em></li>
+      </ul>
+      <p><b>Return</b></p>
+      <p><em>Spell-in-Waiting: Return</em> turns into this debuff when it 
+      expires. The total duration of <em>Spell-in-Waiting: Return</em> and 
+      <em>Return</em> add up to 39s (so will resolve just before the 42s 
+      debuffs resolve.)</p>
+      <ul>
+        <li>When the debuff resolves, the player is stunned, and brought back
+        to their previously recorded position.</li>
+        <li>Although the player position is recorded, the player 
+        <em>orientation</em> is not- the direction you face before 
+        <em>Return</em> resolves stays constant throughout.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+<p>The following debuffs all resolve <em>after Return</em>, so will determine 
+where players record their positions.</p>
+<table>
+  <tr>
+    <td style="text-align:center">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/dark_eruption.png">
+    </td>
+    <td>
+      <p><b>Spell-in-Waiting: Dark Eruption</b></p>
+      <p>3-4 players will get this debuff, and it will always be 42s (resolves 
+      after <em>Return</em>).</p>
+      <ul>
+        <li>When the timer expires, a point-blank AoE centered on the player
+        resolves (6 yalm radius).</li>
+        <li>All short Fire players will get this debuff, and <em>possibly</em>
+        the mid Fire tank/healer.</li>
+        <li>Players with this debuff need to record their positions just
+        behind their assigned hourglass (towards the center of the arena).</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/dark_water.png">
+    </td>
+    <td>
+      <p><b>Spell-in-Waiting: Dark Water III</b></p>
+      <p>The DPS mid Fire will get this debuff, and it will always be 42s 
+      (resolves after <em>Return</em>).</p>
+      <ul>
+        <li>When the timer expires, a 4-man stack AoE centered on the player 
+        resolves (6 yalm radius).</li>
+        <li>The player with this debuff records their position just a little
+        off the center of the arena (one step towards their assigned
+        hourglass).</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/shadoweye.png">
+    </td>
+    <td>
+      <p><b>Spell-in-Waiting: Shadoweye</b></p>
+      <p>3-4 players will get this debuff, and it will always be 42s (resolves 
+      after <em>Return</em>).</p>
+      <ul>
+        <li>When the timer expires, anyone looking at the affected player gets
+        a <em>Doom</em> debuff, which will kill them after a few seconds.</li>
+        <li>All long Fire players will get this debuff, and <em>possibly</em>
+        the mid Fire tank/healer.</li>
+        <li>Players with this debuff records their position just a little off
+        the center of the arena (one step towards their assigned hourglass).</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-- Two DPS will get 10s Fire debuffs (the "short Fires").
-- One tank/healer and one DPS will get 20s Fire debuffs (the "mid Fires"). 
-  - The tank/healer have a 42s *Dark Eruption* or *Shadoweye* debuff.
-  - The DPS will also have a 42s *Dark Water III* debuff.
-- Two tanks/healers will get 30s Fire debuffs (the "long Fires").
+</details>
+</div>
 
-This leaves the last tank/healer and the last DPS. One of them will get a *Dark
-Blizzard III* debuff, and the other will get a *Dark Fire III* debuff.
+The party can be split up into three groups based off the duration of each 
+player's *Dark Fire III* debuff.
 
-- **If the Blizzard is on a DPS:** This will be a "slow Blizzard". The tank/
-  healer will get a 10s Fire debuff and join the "short Fire" group.
-- **If the Blizzard is on a tank/healer:** This will be a "fast Blizzard". The 
-  DPS will get a 30s Fire debuff and join the "long Fire group.
+- Three players (two DPS and one tank/healer) will get 10s Fire debuffs (the "short Fires").
+- Two players (one tank/healer and one DPS) will get 20s Fire debuffs (the "mid Fires"). 
+- Three players (two tanks/healers and one DPS) will get 30s Fire debuffs (the "long Fires").
+
+Either the tank/healer short Fire, or the DPS long Fire will have their *Dark 
+Fire III* debuff replaced with *Dark Blizzard III*.
 
 The first step is to assign hourglasses to players. The basic rules are:
 
@@ -88,21 +221,31 @@ better match the datacenter's conventions.
   </tr>
 </table>
 
-Once everyone has their assigned hourglass, we can resolve the debuffs.
+Once you have your assigned hourglass, you can resolve everything by staying 
+in the center, only moving out to resolve specific debuffs.
 
-The good news is that once you have your assigned hourglass, you can basically
-read off where you're supposed to go next from your debuffs. Every 5 seconds,
-*something* happens.
+- When it's your turn to resolve *Dark Fire III*, do so outside.
+- When it's your turn to record, do so just a little off from the center,
+  unless your 42s debuff is *Dark Eruption*, in which case record *just* behind 
+  your hourglass.
+- When your hourglass starts spinning, go bait the laser beam.
 
-- If it's your turn to resolve *Dark Fire III*, do so outside.
-- If your hourglass starts spinning, go bait the laser beam.
-- If it's your turn to record, do so just a little off from the center, unless 
-  you are one of the short Fires or the mid Fire tank/healer, in which case 
-  record *just* behind your hourglass.
+<table>
+  <tr>
+    <td width="50%">
+      <p>A good trick to use when baiting your hourglass's laser is to position 
+      yourself such that the hourglass frame covers the black dot in the center 
+      of the "Spell-in-Waiting" icon above your character.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/hourglass_bait.jpg">
+    </td>
+  </tr>
+</table>
 
-Essentially, each player only needs to move in a straight line from the center 
-of the arena, through their assigned hourglass to the edge to resolve their 
-debuffs.
+Instead of memorising the debuff sequence for each group, I recommend just 
+reading off what you're supposed to do next from the next debuff that's
+expiring. Every 5 seconds, *something* happens.
 
 <table>
   <tr>
