@@ -172,8 +172,13 @@ With the tethers sorted out, the next thing we need to do is separate the two
       <img src="{{site.baseurl}}/images/ultimates/fru/04/darklit_03.jpg">
     </td>
   </tr>
+</table>
+
+We can now continue with the mechanic.
+
+<table>
   <tr>
-    <td>
+    <td width="50%">
       <p><b>7.</b> The tethered players take the two towers, while the Usurper
       of Frost readies <em>The Path of Light</em>, which cleaves the four
       closest players- these should be the four non-tethered players.</p>
