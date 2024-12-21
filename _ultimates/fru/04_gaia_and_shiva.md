@@ -274,6 +274,77 @@ Six hourglasses will spawn this time, and the Oracle of Darkness will tether:
 
 The party will also get a bunch of debuffs to resolve.
 
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+<details markdown=block>
+<summary><b>[Click to Expand] Crystallize Time debuffs</b></summary>
+<p>Two dragon heads spawn North, and circle the arena- one clockwise, one 
+anti-clockwise.</p>
+<table>
+  <tr>
+    <td style="text-align:center">
+      <img src="{{site.baseurl}}/images/ultimates/fru/04/wyrmclaw.png">
+    </td>
+    <td>
+      <p><b>Wyrmclaw</b></p>
+      <p><em>Wyrmclaw</em> and <em>Wyrmfang</em> randomly split the party into
+      two groups of four.</p>
+      <p>When a player with <em>Wyrmclaw</em> runs into the dragon head, it:</p>
+      <ul>
+        <li>Removes the <em>Wyrmclaw</em> debuff.</li>
+        <li>Explodes in a large AoE (12-yalm radius).</li>
+        <li>Leaves behind a small puddle.</li>
+      </ul>
+      <p>The dragon head will leave the arena after the second red
+      <em>Wyrmclaw</em> is fed. If two red <em>Wyrmclaw</em> debuffs are not
+      fed to the dragon head by the time it finishes its loop, it explodes and 
+      wipes the raid.</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center">
+      <img src="{{site.baseurl}}/images/ultimates/fru/04/wyrmfang.png">
+    </td>
+    <td>
+      <p><b>Wyrmfang</b></p>
+      <p><em>Wyrmfang</em> and <em>Wyrmclaw</em> randomly split the party into
+      two groups of four.</p>
+      <ul>
+        <li>This debuff will kill the player when the timer expires.</li>
+        <li>To cleanse the debuff, stand on a puddle left behind when a dragon
+        head runs into a player with the red <em>Wyrmclaw</em> debuff.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+<p>With that out of the way, there are two more debuffs added in addition to
+all the previously encountered <em>Spell-in-Waiting</em> debuffs.</p>
+<table>
+  <tr>
+    <td style="text-align:center">
+      <img src="{{site.baseurl}}/images/ultimates/fru/04/dark_aero.png">
+    </td>
+    <td>
+      <p><b>Spell-in-Waiting: Dark Aero III</b></p>
+      <p>When the debuff expires, a large point-blank AoE centered on the
+      player resolves.</p>
+      <p>Any <em>other</em> player hit by this AoE gets knocked across the
+      arena away from the Aero player.</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center">
+      <img src="{{site.baseurl}}/images/ultimates/fru/04/quietus.png">
+    </td>
+    <td>
+      <p><b>Spell-in-Waiting: Quietus</b></p>
+      <p>Three players will have this debuff.</p>
+      <p>Raid-wide damage goes off when this debuff expires (30s).</p>
+    </td>
+  </tr>
+</table>
+</details>
+</div>
+
 <table>
   <tr>
     <td width="50%">
