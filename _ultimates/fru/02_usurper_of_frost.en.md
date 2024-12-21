@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2. Usurper of Frost v3.1
+title: 2. Usurper of Frost v3.2
 parent: Lv 100. FRU (WIP)
 nav_order: 2
 has_children: false
@@ -8,9 +8,9 @@ has_toc: false
 permalink: /ultimates/fru/02_usurper_of_frost/
 ---
 
-# Usurper of Frost v3.1
+# Usurper of Frost v3.2
 
-This is version 3.1, that's based off the Google Doc with two options for Light
+This is version 3.2, that's based off the Google Doc with three options for Light
 Rampant.
 
 - [**Changelog**](#changelog)
@@ -428,9 +428,8 @@ preference, they would be:
 
 ### Option 1 - Light Rampant (4:4 East adjust)
 
-This is my personal preference. The strategy outlined below follows the 4:4 CW 
-adjust strategy in all places except, well, the part where we replace CW adjust
-with East adjust (Step 18 below).
+This is my personal preference. The strategy outlined below follows the
+strategy used in Mana, except for how the puddles are dropped.
 
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
 <details markdown=block>
@@ -484,12 +483,12 @@ with East adjust (Step 18 below).
     <td>
       <p><b>20.</b> We assign towers based on player positions in the ring:</p>
       <ul>
-        <li><b>1st tether:</b> North-East tower.</li>
+        <li><b>1st tether:</b> North-West tower.</li>
         <li><b>2nd tether:</b> South tower.</li>
-        <li><b>3rd tether:</b> North-West tower.</li>
-        <li><b>4th tether:</b> South-East tower.</li>
+        <li><b>3rd tether:</b> North-East tower.</li>
+        <li><b>4th tether:</b> South-West tower.</li>
         <li><b>5th tether:</b> North tower.</li>
-        <li><b>6th tether:</b> South-West tower.</li>
+        <li><b>6th tether:</b> South-East tower.</li>
       </ul>
       <p>It is good practice to take the tower at the edge of the arena, to
       avoid getting accidentally clipped by the two players dropping puddles
@@ -502,8 +501,8 @@ with East adjust (Step 18 below).
   <tr>
     <td>
       <p><b>21.</b> The two puddle players move straight into the center, 
-      before turning to their left, dropping five puddles in total before 
-      joining their group NNE and SSW.</p>
+      before turning to their right, dropping five puddles in total before 
+      joining their group NNW and SSE.</p>
       <p>Try to keep your puddles to the same East/West side to avoid blocking
       the path back to the center.</p>
       <p>The tether players wait for their towers to resolve before collapsing 
@@ -1121,6 +1120,63 @@ Ice Age* resolves. As a result, the damage check is to get the Ice Veil below
 
 <details markdown=block>
 <summary>
+  <b>[Light Rampant (4:4 East adjust)]</b> Why do we flip the DPS instead of
+  the tanks/healers?
+</summary>
+<table>
+  <tr>
+    <td width="50%">
+      <p>Believe it or not, this isn't done just to be different. There are a 
+      couple reasons why.</p>
+      <ul>
+        <li>Flipping the DPS gives the healers the closer tower (North-West), so
+        they have <em>slightly</em> more time to squeeze in any last-minute
+        healing.</li>
+        <li>Flipping the DPS also makes the tower diagram nicer, as counting 
+        clockwise "reverses" the DPS as you would count them from their 
+        right-to-left. The diagram on the right illustrates the tower numbers
+        if you flipped the tanks/healers instead.</li>
+      </ul>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_lucrezia_faq.jpg">
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
+  <b>[Light Rampant (4:4 East adjust)]</b> Why do the "L" puddles turn right instead of left?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>Believe it or not, this isn't done just to be different. There are a 
+      couple reasons why.</p>
+      <ul>
+        <li><p>Because the two healers have the highest priority north, we 
+        are <em>guaranteed</em> to have a healer north. Since the two
+        healers are next to each other, they will naturally split up
+        ensuring both N/S groups have a healer.</p>
+        <p>However, if a healer has a puddle, they would likely end up 
+        starting West. If they turn left when dropping the puddles, then the 
+        North group would have both healers.</p></li>
+        <li><p>Another reason is that because the healers and melee start on
+        the West half of the arena, they are likely to start West if they get a 
+        puddle.</p>
+        <p>Since the healer and melee spread positions are also South and West, 
+        turning right increases the chance that they end up on the correct side
+        of the tower (without having to run all the way around). The same
+        reasoning can be applied to the tanks/ranged on the other side.</p></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
   <b>[Crystals]</b> What happens if you destroy all the Dark Crystals?
 </summary>
 <table>
@@ -1194,6 +1250,7 @@ Ice Age* resolves. As a result, the damage check is to get the Ice Veil below
   <tr>
     <td>
       <ul>
+        <li>v3.2 (20 Dec 2024): Updated the 4:4 East-adjust <em>Light Rampant</em> strat to resemble Lily Doll (except for the puddles).</li>
         <li>v3.1 (17 Dec 2024): Updated the 4:4 CW <em>Light Rampant</em> strat 
         tank/healer positions to match the Google Doc.</li>
         <li>v3.0 (10 Dec 2024): Modified <em>Light Rampant</em> 4:4:
