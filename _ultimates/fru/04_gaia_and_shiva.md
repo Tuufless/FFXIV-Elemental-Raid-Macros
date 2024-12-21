@@ -185,7 +185,8 @@ With the tethers sorted out, the next thing we need to do is separate the two
   <tr>
     <td>
       <p><b>8.</b> Move a little bit south, and spread out around both bosses.</p>
-      <p><b>Do not spread too close to the Fragment of Fate!</b></p>
+      <p><b>Do not spread too close to the Fragment of Fate!</b> <em>(the
+      danger zone is marked in dark red.)</em></p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/04/darklit_05.jpg">
@@ -207,6 +208,7 @@ With the tethers sorted out, the next thing we need to do is separate the two
       which will cleave either the West or East half of the arena.</p>
       <p>The <em>Water III</em> debuffs will also resolve roughly at the same
       time, so stack up on the safe half of the arena.</p>
+      <p><b>Do not spread too close to the Fragment of Fate!</b></p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/04/darklit_07.jpg">
