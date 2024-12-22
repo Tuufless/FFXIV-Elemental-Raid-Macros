@@ -413,11 +413,7 @@ will get tethered together *(Chains of Everlasting Light)*.
   debuff. When the timer expires, this explodes with a 4-man stack.
 
 There will also be six stacks of *Lightsteeped* randomly distributed among the 
-party (although no player can start with more than two stacks).
-
-- Resolving mechanics or getting hit by an AoE increase the stacks of 
-  *Lightsteeped* by one.
-- The raid wipes if any player reaches 5 stacks of *Lightsteeped*.
+party.
 
 There are three ways to resolve *Light Rampant*. In order of my personal 
 preference, they would be:
@@ -425,6 +421,81 @@ preference, they would be:
 1. 4:4 - East adjust
 2. MT-anchor ZizieZip
 3. 4:4 - CW adjust
+
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+<details markdown=block>
+<summary><b>[Click to Expand] Light Rampant debuffs</b></summary>
+<table>
+  <tr>
+    <td style="text-align:center">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/chains_of_everlasting_light.png">
+    </td>
+    <td>
+      <p><b>Chains of Everlasting Light</b></p>
+      <p><em>Bound with chains of everlasting light. Will be subject to a Curse
+      of Everlasting Light when this effect expires.</em></p>
+      <p>Six players will get this debuff.</p>
+      <ul>
+        <li>Each player will be tethered to two other players with this debuff.</li>
+        <li>This debuff lasts 10 seconds before turning into <em>Curse of
+        Everlasting Light</em>.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/curse_of_everlasting_light.png">
+    </td>
+    <td>
+      <p><b>Curse of Everlasting Light</b></p>
+      <p><em>Cursed by everlasting light. Close proximity to the player to whom
+      you are bound will result in unaspected damage to those nearby.</em></p>
+      <ul>
+        <li>Each player will be tethered to two other players with this debuff.</li>
+        <li>If a tether goes below a certain distance, or the player dies, the
+        tether breaks and wipes the raid <em>(Refulgent Fate)</em>.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/lightsteeped.png">
+    </td>
+    <td>
+      <p><b>Lightsteeped</b></p>
+      <p><em>Overflowing with astral energy. Upon accumulating 5 stacks, you
+      will deal unaspected damage to those nearby.</em></p>
+      <ul>
+        <li>There will be six stacks of <em>Lightsteeped</em> randomly
+        distributed amongst the party at the start of <em>Light Rampant</em>.
+        No player starts with more than two stacks.</li>
+        <li>Resolving certain mechanics will add a stack of
+        <em>Lightsteeped</em>.</li>
+        <li>Wipes the raid at 5 stacks.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/the_weight_of_light.png">
+    </td>
+    <td>
+      <p><b>The Weight of Light</b></p>
+      <p><em>Will unleash Powerful Light when this effect expires.</em></p>
+      <ul>
+        <li>Two players that are tethered together will get this debuff.</li>
+        <li>A bright orb appears above the two player's heads.</li>
+        <li>When the debuff expires (16s), it explodes with <em>Powerful
+        Light</em>- a 4-man stack that adds one stack of <em>Lightsteeped</em>
+        to those in the stack.</li>
+        <li>If there are less than four players in the stack, the players in
+        the stack each get a stack of <em>Mark of Mortality</em>.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+</details>
+</div>
 
 ### Option 1 - Light Rampant (4:4 East adjust)
 
