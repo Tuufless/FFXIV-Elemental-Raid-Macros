@@ -293,6 +293,7 @@ anti-clockwise.</p>
     </td>
     <td>
       <p><b>Wyrmclaw</b></p>
+      <p><em>Shredded by draconic talons. KO will occur when countdown reaches 0.</em></p>
       <p><em>Wyrmclaw</em> and <em>Wyrmfang</em> randomly split the party into
       two groups of four.</p>
       <p>When a player with <em>Wyrmclaw</em> runs into the dragon head, it:</p>
@@ -313,6 +314,7 @@ anti-clockwise.</p>
     </td>
     <td>
       <p><b>Wyrmfang</b></p>
+      <p><em>Torn by draconic teeth. KO will occur when countdown reaches 0.</em></p>
       <p><em>Wyrmfang</em> and <em>Wyrmclaw</em> randomly split the party into
       two groups of four.</p>
       <ul>
@@ -626,6 +628,32 @@ advances to the final phase.
 ---
 
 ## Frequently Asked Questions
+
+<details markdown=block>
+<summary>
+  <b>[Darklit Dragonsong]</b> Are the tethers here different from <em>Light
+  Rampant</em>?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>Yes, they are.</p>
+      <p>The debuffs at <em>Light Rampant were:</p>
+      <ul>
+        <li><em>Chains of Everlasting Light</em> → <em>Curse of Everlasting
+        Light</em></li>
+      </ul>
+      <p>While the debuffs here are:</p>
+      <ul>
+        <li><em>Refulgent Chain</em> → <em>Refulgent Fate</em></li>
+      </ul>
+      <p>The important distinction is that while the <em>Curse of Everlasting
+      Light</em> tethers break if they're too short, the <em>Refulgent
+      Fate</em> tethers break if they're too short <b>or too long</b>.</p>
+    </td>
+  </tr>
+</table>
+</details>
 
 <details markdown=block>
 <summary>
