@@ -84,8 +84,10 @@ out. However, you only need to check a limited set of debuffs.
       <p><b>Spell-in-Waiting: Unholy Darkness</b></p>
       <p>Three players will get this debuff, at 10s, 20s, and 30s.</p>
       <ul>
-        <li>When the timer expires, a 5-man stack AoE centered on the player 
-        resolves (6 yalm radius).</li>
+        <li>When the timer expires, a stack AoE centered on the player resolves
+        (6 yalm radius).</li>
+        <li>If there are less than <b>five</b> players in the stack, the
+        players in the stack each get a stack of <em>Mark of Mortality</em>.</li>
       </ul>
     </td>
   </tr>
@@ -145,8 +147,10 @@ where players record their positions.</p>
       <p>The DPS mid Fire will get this debuff, and it will always be 42s 
       (resolves after <em>Return</em>).</p>
       <ul>
-        <li>When the timer expires, a 4-man stack AoE centered on the player 
-        resolves (6 yalm radius).</li>
+        <li>When the timer expires, a stack AoE centered on the player resolves
+        (6 yalm radius).</li>
+        <li>If there are less than <b>four</b> players in the stack, the
+        players in the stack each get a stack of <em>Mark of Mortality</em>.</li>
         <li>The player with this debuff records their position just a little
         off the center of the arena (one step towards their assigned
         hourglass).</li>
