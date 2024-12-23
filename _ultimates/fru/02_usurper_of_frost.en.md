@@ -1346,15 +1346,6 @@ Ice Age* resolves. As a result, the damage check is to get the Ice Veil below
       </ul>
     </td>
   </tr>
-  <tr>
-    <td>
-      <p><b>Past versions:</b></p>
-      <ul>
-        <li><a href="{{site.baseurl}}/ultimates/fru/v1/02_usurper_of_frost/">v1.0
-        Lucrezia's strat</a></li>
-      </ul>
-    </td>
-  </tr>
 </table>
 
 <script data-goatcounter="https://tuufless.goatcounter.com/count"

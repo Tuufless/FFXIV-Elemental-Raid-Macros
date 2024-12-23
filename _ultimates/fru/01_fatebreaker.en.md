@@ -569,15 +569,6 @@ the phase.
       </ul>
     </td>
   </tr>
-  <tr>
-    <td>
-      <p><b>Past versions:</b></p>
-      <ul>
-        <li><a href="{{site.baseurl}}/ultimates/fru/v1/01_fatebreaker/">v1.0
-        Lucrezia's strat</a></li>
-      </ul>
-    </td>
-  </tr>
 </table>
 
 <script data-goatcounter="https://tuufless.goatcounter.com/count"
