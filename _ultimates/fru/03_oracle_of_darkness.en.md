@@ -466,25 +466,6 @@ a tank).
       AoEs will appear.</p>
       <p>A white streak also originates from each point and follows the line
       around the arena clockwise or anti-clockwise.</p>
-      <p>Start from the outside lights, and look 45 degrees in the <b>opposite
-      direction</b> that the lights are travelling in (green arrows).</p>
-      <p>These will be each group's reference points in their half of the
-      arena:</p>
-      <ul>
-        <li><b>SW to N:</b> North group.</li>
-        <li><b>S to NE:</b> South group.</li>
-      </ul>
-      <p>From these reference points, there are three more positions to take
-      note of (marked with yellow arrows):</p>
-      <ul>
-        <li>The near position <em>another</em> 45 degrees in the opposite
-        direction that the lights are travelling in.</li>
-        <li>The two far positions at the edge, 2.5 tick marks on either side of
-        the cardinal/intercardinal mark.</li>
-      </ul>
-      <p>These will be your spread positions later.</p>
-      <p><em>(In this example, the reference points are NE and SW, so the "base
-      T/H" group goes SW, and the "base DPS" group goes NE.)</em></p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_02.jpg">
@@ -492,7 +473,38 @@ a tank).
   </tr>
   <tr>
     <td>
-      <p><b>13.</b> While the water stacks were resolving, the boss also 
+      <p><b>13.</b> While the Water stacks are resolving, determine your future
+      safe spots.</p>
+      <p>Start from the outside lights, and look 45 degrees in the <b>opposite
+      direction</b> that the lights are travelling in (green arrows).</p>
+      <p>These will be each group's reference points in their half of the
+      arena:</p>
+      <ul>
+        <li><b>SW to N:</b> Tank/healers (after any swaps).</li>
+        <li><b>S to NE:</b> DPS group (after any swaps).</li>
+      </ul>
+      <p>From these reference points, there are four more positions to take
+      note of (marked with yellow arrows):</p>
+      <ul>
+        <li>The near position 45 degrees in the opposite direction that the
+        lights are travelling in (towards the center).</li>
+        <li>The near position <em>another</em> 45 degrees in the opposite
+        direction that the lights are travelling in.</li>
+        <li>The two far positions at the edge, 2.5 tick marks on either side of
+        the cardinal/intercardinal mark.</li>
+      </ul>
+      <p>These will be your spread positions later.</p>
+      <p><em>(In this example, the lights start N and S and go anti-clockwise,
+      so the reference points are NE and SW (clockwise from N/S). Thus, the
+      "base T/H" group goes SW, and the "base DPS" group goes NE.)</em></p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_02b.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>14.</b> While the water stacks were resolving, the boss also 
       readies <em>Spirit Taker</em>- the boss will jump on a random target
       with an AoE attack that knocks anyone else hit out of the arena.</p>
       <p>After the water stacks resolve, quickly spread out for <em>Spirit 
@@ -504,7 +516,7 @@ a tank).
   </tr>
   <tr>
     <td>
-      <p><b>14.</b> The boss's <em>Spirit Taker</em> resolves.</p>
+      <p><b>15.</b> The boss's <em>Spirit Taker</em> resolves.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_04.jpg">
@@ -512,7 +524,7 @@ a tank).
   </tr>
   <tr>
     <td>
-      <p><b>15.</b> The boss will return to the center.</p>
+      <p><b>16.</b> The boss will return to the center.</p>
       <p>The trails will continue for a total of six pulses (indicating six 
       upcoming sets of AoEs) and end up in this formation relative to the 
       first set of pulses.</p>
@@ -525,7 +537,7 @@ a tank).
   </tr>
   <tr>
     <td>
-      <p><b>16.</b> The AoEs now resolve for real.</p>
+      <p><b>17.</b> The AoEs now resolve for real.</p>
       <p>The AoEs will appear at the points that pulsed earlier for a total
       of six waves.</p>
     </td>
@@ -535,7 +547,7 @@ a tank).
   </tr>
   <tr>
     <td>
-      <p><b>17.</b> The second set of AoEs resolve together with the party's 
+      <p><b>18.</b> The second set of AoEs resolve together with the party's 
       spread markers.</p>
     </td>
     <td>
@@ -544,7 +556,7 @@ a tank).
   </tr>
   <tr>
     <td>
-      <p><b>18.</b> Quickly move to the center while avoiding the third set of 
+      <p><b>19.</b> Quickly move to the center while avoiding the third set of 
       AoEs.</p>
       <ul>
         <li>Players towards the center can simply walk in.</li>
@@ -558,7 +570,7 @@ a tank).
   </tr>
   <tr>
     <td>
-      <p><b>19.</b> Fourth set of AoEs.</p>
+      <p><b>20.</b> Fourth set of AoEs.</p>
       <p>Use this time to gauge how far you can be from the center and still
       avoid getting hit.</p>
     </td>
@@ -568,7 +580,7 @@ a tank).
   </tr>
   <tr>
     <td>
-      <p><b>20.</b> The second set of <em>Dark Water III</em> stacks resolve
+      <p><b>21.</b> The second set of <em>Dark Water III</em> stacks resolve
       together with the fifth set of AoEs.</p>
       <p>The MT moves out 90 degrees from where the first set of lights pulsed.</p>
     </td>
@@ -578,7 +590,7 @@ a tank).
   </tr>
   <tr>
     <td>
-      <p><b>21.</b> The boss then uses <em>Darkest Dance</em>, which targets
+      <p><b>22.</b> The boss then uses <em>Darkest Dance</em>, which targets
       the furthest player (which should be a tank) with an AoE tankbuster.</p>
       <p><b>Note:</b> <em>Either</em> tank can bait this. However, if there is
       a PLD in the party, they should have priority (with <em>Hallowed
@@ -590,7 +602,7 @@ a tank).
   </tr>
   <tr>
     <td>
-      <p><b>22.</b> The tank that baited <em>Darkest Dance</em> rejoins their 
+      <p><b>23.</b> The tank that baited <em>Darkest Dance</em> rejoins their 
       group.</p>
       <p>Everyone moves towards the boss, and positions to prepare from a
       knockback from the boss in their groups.</p>
@@ -601,7 +613,7 @@ a tank).
   </tr>
   <tr>
     <td>
-      <p><b>23.</b> The boss does a knockback.</p>
+      <p><b>24.</b> The boss does a knockback.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_13.jpg">
@@ -609,7 +621,7 @@ a tank).
   </tr>
   <tr>
     <td>
-      <p><b>24.</b> The third set of <em>Dark Water III</em> stacks resolve.</p>
+      <p><b>25.</b> The third set of <em>Dark Water III</em> stacks resolve.</p>
       <p>Resolve these near the boss- melee can use their gap closers, but will
       need to back out a little bit to meet up with the healers and ranged.</p>
     </td>
