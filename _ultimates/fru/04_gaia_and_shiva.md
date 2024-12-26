@@ -638,7 +638,7 @@ advances to the final phase.
   <tr>
     <td>
       <p>Yes, they are.</p>
-      <p>The debuffs at <em>Light Rampant were:</p>
+      <p>The debuffs at <em>Light Rampant</em> were:</p>
       <ul>
         <li><em>Chains of Everlasting Light</em> → <em>Curse of Everlasting
         Light</em></li>
@@ -674,6 +674,9 @@ advances to the final phase.
         <em>after</em> the Usurper of Frost, and their HP needs to be equalised
         before the first <em>Morn Afah</em>. However, with the tanks North,
         they are unable to help without breaking formation.</li>
+        <li>Lining the DPS up horizontally also means that the two non-tethered
+        DPS could be D1+D2, or D3+D4. In such an event, either D2 or D3 would
+        have to cross over to the other side of the boss, which isn't ideal.</li>
       </ul>
     </td>
   </tr>
