@@ -14,6 +14,12 @@ permalink: /ultimates/fru/05_pandora/
 <p style="text-align:center"><b>Details may be missing, or subject to change until I have better first-hand experience.</b></p>
 </div>
 
+- [**Fulgent Blade**](#fulgent-blade)
+- [**Paradise Regained**](#paradise-regained)
+  - [**Paradise Regained - Team DN**](#paradise-regained---team-dn) *or*
+  - [**Paradise Regained - Nukemaru**](#paradise-regained---nukemaru)
+- [**Polarizing Strikes**](#polarizing-strikes)
+
 After the cutscene, Pandora quickly opens with her first mechanic.
 
 ## Fulgent Blade
@@ -143,8 +149,143 @@ After the *Akh Morn*, Pandora goes straight into the next mechanic.
 
 ## Paradise Regained
 
-This is the most complex mechanic of the phase. The strategy below follows 
-[Nukemaru's recommendation](https://youtu.be/nzpOdfOyUNo?si=5Jiyv8DZCmnXi1Oq&t=190).
+This is the most complex mechanic of the phase. There are two different
+approaches, depending on whether you want to put more mechanical burden on the
+tanks, or on the rest of the party.
+
+### Paradise Regained - Team DN
+
+The strategy below closely resembles Team DN's method, which positions the first
+tower completely safe from the first cleave, making it slightly more involved
+for tanks, but simpler for the rest of the party.
+
+The only difference is that instead of the melee and ranged take the last two
+towers, we split the DPS left and right based on their left/right groups
+instead.
+
+<table>
+  <tr>
+    <td>
+      <p><b>12.</b> Find the first tower. Use this tower as <b>South</b>.</p>
+      <ul>
+        <li><b>MT:</b> Rotate to the new "North".</li>
+        <li><b>H1, H2:</b> Preposition in the first tower.</li>
+      </ul>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/paradise_regained_01.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" width="50%">
+      <p><b>13.</b> The second tower appears.</p>
+      <p>At the same time, the boss will cast <em>Wings Dark and Light</em>, and 
+      one of the boss's wings will glow.</p>
+      <ul>
+        <li><b>MT + ST:</b> Tank swap during the <em>Wings Dark and Light</em> 
+        cast.</li>
+      </ul>
+      <p>The MT goes top-left or top-right (around the same height as the
+      second tower), depending on which wing glows first.</p>
+      <ul>
+        <li><b>Light (Left) wing glows:</b> MT goes top-right.</li>
+        <li><b>Dark (Right) wing glows:</b> MT goes top-left.</li>
+      </ul>
+      <p>A tether will also appear, which needs to go to the ST. It
+      <em>cannot</em> be passed around, but instead automatically tethers to 
+      either the nearest or furthest player <b>that is not the player with
+      aggro</b> (depending on the wing).</p>
+      <ul>
+        <li><b>Light (Left) wing glows:</b> ST needs to be the furthest.</li>
+        <li><b>Dark (Right) wing glows:</b> ST needs to be the nearest.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center">
+      <b>Light (Left) wing first</b>
+    </td>
+    <td style="text-align:center">
+      <b>Dark (Right) wing first</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/paradise_regained_dn_02a.jpg">
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/paradise_regained_dn_02b.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <p><b>14.</b> The third tower appears and the other wing glows.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/paradise_regained_dn_03a.jpg">
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/paradise_regained_dn_03b.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <p><b>15.</b> The boss will turn and cleave the MT.</p>
+      <p>The first cleave resolves together with the first tower (which should
+      be taken by H1 and H2).</p>
+      <ul>
+        <li><b>MT:</b> If the first cleave was Dark, move out. If the first 
+        cleave was Light, move in instead.</li>
+        <li><b>H1, H2:</b> Move North after resolving your tower.</li>
+        <li><b>D1, D3:</b> Move to the top-left tower.</li>
+        <li><b>D2, D4:</b> Move to the top-right tower.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/paradise_regained_dn_04a.jpg">
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/paradise_regained_dn_04b.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <p><b>16.</b> The boss now cleaves the ST.</p>
+      <p>This second cleave resolves together with the second tower (which
+      should be taken by two DPS).</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/paradise_regained_dn_05a.jpg">
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/paradise_regained_dn_05b.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>17.</b> The two remaining DPS stay put for the third tower.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/paradise_regained_06.jpg">
+    </td>
+  </tr>
+</table>
+
+### Paradise Regained - Nukemaru
+
+The other strategy I'm considering is [Nukemaru's recommendation](https://youtu.be/nzpOdfOyUNo?si=5Jiyv8DZCmnXi1Oq&t=190).
+
+Here, the tanks have a slightly simpler job, because the MT is always opposite
+the first tower, and the two tanks just move in and out.
+
+However, while easier on the tanks, that burden is shifted to the rest of the
+party, who need to pay more attention when taking the first tower.
 
 <table>
   <tr>
