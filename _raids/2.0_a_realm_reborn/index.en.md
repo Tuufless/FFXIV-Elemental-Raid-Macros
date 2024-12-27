@@ -61,3 +61,44 @@ The item level cap for The Final Coil of Bahamut is **iLvl 135**.
 - **T11** - The Final Coil of Bahamut - Turn 2
 - **T12** - The Final Coil of Bahamut - Turn 3
 - **T13** - The Final Coil of Bahamut - Turn 4
+
+# Final Coil Turn 1 Guide
+
+## ① Blue Orb
+- The boss will charge towards the player with a blue orb.
+- This is a stack mechanic. Everyone must stack together with the OT at the front to split the damage.
+
+- The player with the blue orb should move to the C field marker.
+- OT should move to A, taking the stack at the front.
+- All other players participating in the stack should position themselves at B.
+
+## ② Red Orb
+- If 1 or 3 players get a red orb, they will be targeted with an AoE attack and receive a vulnerability up debuff.
+
+- The AoE attack can be handled by spreading out to avoid overlapping damage.
+- However, players who take damage from the red orb must not participate in stack mechanics afterward.
+
+## ③ Tethered Attack (Second Phase)
+This is a simple stack mechanic. Everyone should gather at the A field marker to split the damage.
+
+-# Note: Players who have taken red orb damage should not join the stack for this mechanic either.
+
+# 真成1の攻略ポイント
+
+## ポイント① 青玉
+* ボスは**青玉**が頭の上に付いたプレイヤーに向かって突進します
+* 一人で受けると即死するため、**STを先頭に全員で頭割り**しましょう
+* **青玉が付いたプレイヤー**はフィールドマーカー「**C**」へ移動してください
+  * **先頭のST**は「**A**」に位置し、
+  * **頭割り参加者**は「**B**」に入ってください
+
+## ポイント② 赤玉
+* **赤玉**が付いたプレイヤーは、以下の効果を受けます：
+  1. 範囲攻撃
+  2. ダメージアップのデバフ
+* 範囲攻撃は離れて受ければ問題ありません
+  * ただし、**ダメージアップデバフ**を受けたプレイヤーは「**頭割りに参加しない**」という点に注意が必要です
+
+## ポイント③ 線が付く攻撃（後半戦）
+* 単純な頭割り攻撃です。全員でフィールドマーカー「**A**」に集まり、頭割りを受けましょう
+* **赤玉を受けたプレイヤーは頭割りに参加しない**ことを忘れないでください
