@@ -632,6 +632,25 @@ advances to the final phase.
 
 <details markdown=block>
 <summary>
+  <b>[Materialization]</b> Does the Fragment of Fate still spawn if the
+  Crystals of Darkness were destroyed earlier?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p><em>Materialization</em> will always spawn a Fragment of Fate,
+      regardless of whether the Crystals of Darkness were destroyed.</p>
+      <p>However, if the Crystals of Darkness are destroyed, the memory will be
+      changed and the name of the raidwide that it periodically casts is named
+      <em>Depths of Oblivion</em> instead of <em>Edge of Oblivion</em>. They
+      both do the same amount of damage.</p>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
   <b>[Darklit Dragonsong]</b> Are the tethers here different from <em>Light
   Rampant</em>?
 </summary>
@@ -734,12 +753,12 @@ advances to the final phase.
 
 <details markdown=block>
 <summary>
-  <b>[Morn Afah]</b> Can you invuln <em>Morn Afah</em>?
+  <b>[Morn Afah]</b> Can you invuln <em>Akh Morn</em> or <em>Morn Afah</em>?
 </summary>
 <table>
   <tr>
     <td>
-      <p>No, you cannot- <em>Morn Afah</em> ignores tank invulnerabilities.</p>
+      <p>No, you cannot- they both ignore tank invulnerabilities.</p>
     </td>
   </tr>
 </table>
