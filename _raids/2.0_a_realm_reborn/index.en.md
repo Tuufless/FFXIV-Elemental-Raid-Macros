@@ -73,14 +73,13 @@ The item level cap for The Final Coil of Bahamut is **iLvl 135**.
 - All other players participating in the stack should position themselves at B.
 
 ## ② Red Orb
-- If 1 or 3 players get a red orb, they will be targeted with an AoE attack and receive a vulnerability up debuff.
+- 1 or 3 players will get a red orb, they will be targeted with an AoE attack and receive a vulnerability up debuff.
 
 - The AoE attack can be handled by spreading out to avoid overlapping damage.
 - However, players who take damage from the red orb must not participate in stack mechanics afterward.
 
 ## ③ Tethered Attack (Second Phase)
-This is a simple stack mechanic. Everyone should gather at the A field marker to split the damage.
-
+A stack mechanic is added, which should be taken by people not affected by the vuln up debuff
 -# Note: Players who have taken red orb damage should not join the stack for this mechanic either.
 
 # 真成1の攻略ポイント
