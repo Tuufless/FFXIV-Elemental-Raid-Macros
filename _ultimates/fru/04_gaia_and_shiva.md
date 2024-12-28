@@ -305,7 +305,7 @@ anti-clockwise.</p>
       <p>The dragon head will leave the arena after the second red
       <em>Wyrmclaw</em> is fed. If two red <em>Wyrmclaw</em> debuffs are not
       fed to the dragon head by the time it finishes its loop, it explodes and 
-      wipes the raid.</p>
+      wipes the raid <em>(Joyless Dragonsong)</em>.</p>
     </td>
   </tr>
   <tr>
@@ -588,9 +588,10 @@ the sea of mechanics.
       <ul>
         <li>The party gets knocked back half the arena, which is blocked by 
         <em>Arm's Length/Surecast</em>.</li>
-        <li>The first four members hit get a <em>Magic Vulnerability</em> debuff.</li>
-        <li>The first player hit also takes extra damage (which should be a 
-        tank).</li>
+        <li>The first four members hit get a <em>Magic Vulnerability</em>
+        debuff.</li>
+        <li>The first player hit takes the most damage (which should be a
+        tank), with the players at the back taking less damage.</li>
       </ul>
     </td>
     <td>
@@ -739,6 +740,56 @@ advances to the final phase.
   <tr>
     <td>
       <p>No, you cannot- <em>Morn Afah</em> ignores tank invulnerabilities.</p>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
+  <b>[Hallowed Wings]</b> Just <em>how</em> does this mechanic work?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>As mentioned, the first player hit takes the most damage, and that
+      damage goes down the further down the line you go.</p>
+      <p>More specifically, the base damage numbers are approximately:</p>
+      <ul>
+        <li>1st player: ~160k damage</li>
+        <li>2nd player: ~70k damage</li>
+        <li>3rd player: ~55k damage</li>
+        <li>4th player: ~55k damage</li>
+        <li>5th player: ~40k damage</li>
+        <li>6th player: ~15k damage</li>
+        <li>7th player: ~10k damage</li>
+        <li>8th player: ~10k damage</li>
+      </ul>
+      <p>The <em>Magic Vulnerability Up</em> debuff increases the damage taken
+      to 400%, which means that the fifth player hit with vuln takes roughly
+      the same damage as the first player without.</p>
+      <p>Note that these are <em>base</em> values, so multiply them roughly by
+      0.64 for tanks, and 0.94 for casters/healers.</p>
+      <p><em>(Thanks to syl for the analysis!)</em></p>
+    </td>
+  </tr>
+</table>
+</details>
+
+---
+
+## Troubleshooting
+
+<details markdown=block>
+<summary>
+  <b>[Crystallize Time]</b> What is <em>Joyless Dragonsong</em>?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>This is a raid wipe and the failure condition for letting the dragon
+      heads leave the arena (one of the red <em>Wyrmclaw</em> players did not
+      cleanse their debuff).</p>
     </td>
   </tr>
 </table>
