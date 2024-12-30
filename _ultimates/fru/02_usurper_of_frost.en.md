@@ -499,8 +499,9 @@ preference, they would be:
 
 ### Option 1 - Light Rampant (4:4 East adjust)
 
-This is my personal preference. The strategy outlined below follows the
-strategy used in Mana, except for how the puddles are dropped.
+This is my personal preference, and is the strat outlined in Lily Doll's macro
+used in Mana. The strategy outlined below follows that strat, except for how
+the puddles are dropped.
 
 <table>
   <tr>
@@ -1156,13 +1157,18 @@ Ice Age* resolves. As a result, the damage check is to get the Ice Veil below
 
 <details markdown=block>
 <summary>
-  <b>[Light Rampant]</b> Why do I dislike 4:4 CW adjust so much?
+  <b>[Light Rampant (4:4 CW adjust)]</b> Why do I dislike 4:4 CW adjust so much?
 </summary>
 <table>
   <tr>
     <td width="50%">
-      <p>In short, 4:4 CW makes 4-6 players adjust for something that can be
-      resolved with just one player adjusting (always).</p>
+      <p>In short, compared to 4:4 East adjust, 4:4 CW adjust overcomplicates
+      the mechanic:</p>
+      <ul>
+        <li>It requires players look at more things than is necessary</li>
+        <li>It makes 4-6 players adjust for something that can be resolved with
+        just one player adjusting.</li>
+      </ul>
       <p>Consider D2's position in the example on the right.</p>
       <p>With the 4:4 East adjust strat, the tower that D2 goes to is <em>fully
       determined</em> just by looking West along their row (i.e: D1). D2 sees
@@ -1171,11 +1177,16 @@ Ice Age* resolves. As a result, the damage check is to get the Ice Veil below
       <p><b>This is <em>not</em> true for 4:4 CW adjust</b>, as both puddles
       <em>could</em> be on the tanks/healers, meaning D2 is now the
       <em>first</em> player in their row (after D1 rotates up), and they go to
-      the South-West tower instead.</p>
-      <p>Essentially, 4:4 CW adds an extra layer (rotating 4-6 players) onto
-      something that can just be resolved by having the East-most player adjust
-      instead (only one player adjusts).</p>
-      <p>I simply <em>cannot</em> recommend 4:4 CW adjust in good faith.</p>
+      the South-West tower instead. As a result, each DPS needs to look at the
+      <em>entire</em> DPS lineup instead of just looking to one side (and the
+      same goes for the tanks/healers).</p>
+      <p>As a result, compared to 4:4 East adjust, 4:4 CW adjust needs more
+      information, and adds an extra layer (rotating 4-6 players) onto
+      something that can just be resolved by just having the East-most player
+      adjust instead (only one player adjusts).</p>
+      <p>The fact that people were making macros containing <em>lookup
+      tables</em> for 4:4 CW adjust just convinces me further that I simply
+      <em>cannot</em> recommend 4:4 CW adjust as a strategy in good faith.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_faq.jpg">
@@ -1192,8 +1203,8 @@ Ice Age* resolves. As a result, the damage check is to get the Ice Veil below
 <table>
   <tr>
     <td width="50%">
-      <p>Believe it or not, this isn't done just to be different. There are a 
-      couple reasons why.</p>
+      <p>Believe it or not, this isn't done just to be different from the 4:4
+      CW adjust strat. There are a couple practical reasons why.</p>
       <ul>
         <li>Flipping the DPS gives the healers the closer tower (North-West), so
         they have <em>slightly</em> more time to squeeze in any last-minute
@@ -1213,13 +1224,14 @@ Ice Age* resolves. As a result, the damage check is to get the Ice Veil below
 
 <details markdown=block>
 <summary>
-  <b>[Light Rampant (4:4 East adjust)]</b> Why do the "L" puddles turn right instead of left?
+  <b>[Light Rampant (4:4 East adjust)]</b> Why do the "L" puddles turn right
+  instead of left?
 </summary>
 <table>
   <tr>
     <td>
-      <p>Believe it or not, this isn't done just to be different. There are a 
-      couple reasons why.</p>
+      <p>Believe it or not, this isn't done just to be different from the 4:4
+      CW adjust strat. There are a couple practical reasons why.</p>
       <ul>
         <li><p>Because the two healers have the highest priority north, we 
         are <em>guaranteed</em> to have a healer north. Since the two
