@@ -9,7 +9,7 @@ permalink: /ultimates/fru/
 
 # Futures Rewritten (Ultimate)
 
-Elemental's FRU PF strat is currently a **work in progress**.
+My FRU strat is currently a **work in progress**.
 
 <div style="padding: 10px; border: 1px solid;">
 <ul>
