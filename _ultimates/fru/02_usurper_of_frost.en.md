@@ -1162,10 +1162,10 @@ Ice Age* resolves. As a result, the damage check is to get the Ice Veil below
 <table>
   <tr>
     <td width="50%">
-      <p>In short, compared to 4:4 East adjust, 4:4 CW adjust overcomplicates
-      the mechanic:</p>
+      <p>Compared to 4:4 East adjust, 4:4 CW adjust overcomplicates the
+      mechanic:</p>
       <ul>
-        <li>It requires players look at more things than is necessary</li>
+        <li>It requires players look at more things than is necessary.</li>
         <li>It makes 4-6 players adjust for something that can be resolved with
         just one player adjusting.</li>
       </ul>
