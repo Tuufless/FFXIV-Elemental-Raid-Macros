@@ -1197,6 +1197,46 @@ Ice Age* resolves. As a result, the damage check is to get the Ice Veil below
 
 <details markdown=block>
 <summary>
+  <b>[Light Rampant (4:4 East adjust)]</b> Where's the east adjust?
+</summary>
+<table>
+  <tr>
+    <td colspan="2">
+      <p>Counting clockwise from H1 (or anti-clockwise from D1) is the same
+      thing as having the east-most player adjust to make the 3:3 hexagon.</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:center">
+      <b>2:4 (puddles on two tank/healers)</b> - East-most DPS (D4) adjusts.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_44east_faq_01a.jpg">
+    </td>
+    <td width="50%">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_44east_faq_01b.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:center">
+      <b>4:2 (puddles on two DPS)</b> - East-most tank/healer (ST) adjusts.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_44east_faq_02a.jpg">
+    </td>
+    <td width="50%">
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_44east_faq_02b.jpg">
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
   <b>[Light Rampant (4:4 East adjust)]</b> Why do we flip the DPS instead of
   the tanks/healers?
 </summary>
