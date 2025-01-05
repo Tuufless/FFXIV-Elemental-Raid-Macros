@@ -727,12 +727,14 @@ advances to the final phase.
 
 <details markdown=block>
 <summary>
-  <b>[Darklit Dragonsong]</b> How close can you get before the tethers snap?
+  <b>[Darklit Dragonsong]</b> How close or far can you get before the tethers
+  snap?
 </summary>
 <table>
   <tr>
     <td>
-      <p>The tethers break at around <b>8 yalms.</b></p>
+      <p>The tethers break if they are <b>shorter than around 8 yalms</b>, or
+      <b>longer than around 26 yalms.</b></p>
     </td>
   </tr>
 </table>
