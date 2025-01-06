@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 4. Gaia and Shiva (WIP)
+title: 4. Gaia and Shiva v1.0
 parent: Lv 100. FRU (WIP)
 nav_order: 4
 has_children: false
@@ -8,10 +8,10 @@ has_toc: false
 permalink: /ultimates/fru/04_gaia_and_shiva/
 ---
 
-# Gaia and Shiva (WIP)
+# Gaia and Shiva v1.0
 
 This is version 1.0, that uses the vertical spread *Darklit Dragonsong* strat,
-and anti-KB for *Crystallize Time*.
+and anti-KB for *Crystallize Time* with 2x 7:1 Akh Morn stacks.
 
 <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
 <p style="text-align:center"><b>Details may be missing, or subject to change
@@ -19,7 +19,9 @@ until I have better first-hand experience.</b></p>
 </div>
 
 - [**Darklit Dragonsong - Vertical spreads**](#darklit-dragonsong---vertical-spreads)
+- [**Akh Morn 1 - 7:1 MT solo**](#akh-morn-1---71-mt-solo)
 - [**Crystallize Time - fast pop, anti-kb**](#crystallize-time---fast-pop-anti-kb)
+- [**Akh Morn 2 - 7:1 ST solo**](#akh-morn-2---71-st-solo)
 - [**Frequently Asked Questions**](#frequently-asked-questions)
 
 The Usurper of Frost will respawn at either North or South, whichever is
@@ -249,6 +251,8 @@ We can now continue with the mechanic.
   </tr>
 </table>
 
+## Akh Morn 1 - 7:1 (MT solo)
+
 The two bosses will then teleport a bit West and East of the center for *Akh
 Morn* into *Morn Afah*.
 
@@ -257,9 +261,15 @@ Morn* into *Morn Afah*.
     <td width="50%">
       <p><b>12.</b> The two bosses target whoever has their hate with a 4-hit
       <em>Akh Morn</em> (which should be their respective tanks).</p>
+      <p>However, a tank can mitigate this to lower the damage on the party-
+      for this first <em>Akh Morn</em>, we have the MT split off.</p>
       <ul>
-        <li><b>West:</b> MT, H1, D1, D3 <em>(under Usurper of Frost)</em></li>
-        <li><b>East:</b> ST, H2, D2, D4 <em>(under Oracle of Darkness)</em></li>
+        <li>Done this way, each <em>Akh Morn</em> hit deals roughly 175k damage 
+        to the solo tank.</li>
+        <li>This is doable <em>without</em> using the 40% mitigation- the
+        tradeoff is that the 40% mitigation will not be available during 
+        <em>Crystallize Time</em> to act as a buffer for any errors.</li>
+        <li>Co-tank and targeted healer mitigations obviously help.</li>
       </ul>
     </td>
     <td>
@@ -615,13 +625,27 @@ the sea of mechanics.
   </tr>
 </table>
 
-The two bosses will reappear around the center of the arena and immediately 
-start another 4-hit *Akh Morn* into *Morn Afah* sequence (where the two bosses 
-have to be within 5% HP of each other).
+## Akh Morn 2 - 7:1 (ST solo)
 
-Note that if things are looking bad, *Morn Afah* comes from the Usurper of
-Frost, so the MT can sacrifice themselves and take it away from the party if
-needed.
+The two bosses will reappear around the center of the arena and immediately 
+start another 4-hit *Akh Morn* into *Morn Afah* sequence.
+
+<table>
+  <tr>
+    <td width="50%">
+      <p><b>27.</b> The two bosses target whoever has their hate with a 4-hit
+      <em>Akh Morn</em> (which should be their respective tanks).</p>
+      <p>This time, we have the ST split off and take it solo.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/04/akh_morn_02.jpg">
+    </td>
+  </tr>
+</table>
+
+Remember that two bosses have to be within 5% HP of each other for *Morn Afah*.
+If things are looking bad, *Morn Afah* comes from the Usurper of Frost, so the
+MT can sacrifice themselves and take it away from the party if needed.
 
 Both bosses will then start casting their respective enrages (*Absolute Zero*
 and *Memory's End*).

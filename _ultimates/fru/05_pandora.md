@@ -8,7 +8,7 @@ has_toc: false
 permalink: /ultimates/fru/05_pandora/
 ---
 
-# Pandora (WIP)
+# Pandora v1.0
 
 <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
 <p style="text-align:center"><b>Details may be missing, or subject to change until I have better first-hand experience.</b></p>

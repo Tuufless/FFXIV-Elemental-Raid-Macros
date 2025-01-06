@@ -13,11 +13,12 @@ My FRU strat is currently a **work in progress**.
 
 <div style="padding: 10px; border: 1px solid;">
 <ul>
-  <li><b>Current version: v3.2.0</b>
+  <li><b>Current version: v4.0.0</b>
     <ul>
       <li>Fatebreaker: v2.0.0</li>
       <li>Usurper of Frost: v3.2.0</li>
       <li>Oracle of Darkness: v1.1.0</li>
+      <li>Gaia and Shiva: v1.0</li>
     </ul>
   </li>
 </ul>
