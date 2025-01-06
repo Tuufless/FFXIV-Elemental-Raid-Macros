@@ -32,8 +32,8 @@ take the liberty of piecing one together myself. This is what I would do:
 - The lowest potions you can use and still get maximum benefits are **HQ Grade
   6 Tinctures**.
 
-![]({{site.baseurl}}/images/ultimates/tea/tea_cheatsheet.jpg)
-*(Full-size image: [English]({{site.baseurl}}/images/ultimates/tea/tea_cheatsheet.jpg), [日本語]({{site.baseurl}}/images/ultimates/tea/tea_cheatsheet_jp.jpg))*
+![]({{site.baseurl}}/tea_cheatsheet.jpg)
+*(Full-size image: [English]({{site.baseurl}}/tea_cheatsheet.jpg), [日本語]({{site.baseurl}}/tea_cheatsheet_jp.jpg))*
 
 ---
 

@@ -32,10 +32,10 @@ Looking towards the future:
 - The Omega Protocol will not be outgeared until **i760** gear is available.
 - Relic weapons (when they arrive) will have their substats capped at **287**.
 
-![]({{site.baseurl}}/images/ultimates/top/top_cheatsheet.jpg)
-*(Full-size image: [English]({{site.baseurl}}/images/ultimates/top/top_cheatsheet.jpg), 
-[日本語]({{site.baseurl}}/images/ultimates/top/top_cheatsheet_jp.jpg),
-[中文(台灣)]({{site.baseurl}}/images/ultimates/top/top_cheatsheet_zhtw.jpg))*
+![]({{site.baseurl}}/top_cheatsheet.jpg)
+*(Full-size image: [English]({{site.baseurl}}/top_cheatsheet.jpg), 
+[日本語]({{site.baseurl}}/top_cheatsheet_jp.jpg),
+[中文(台灣)]({{site.baseurl}}/top_cheatsheet_zhtw.jpg))*
 
 ---
 
