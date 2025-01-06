@@ -212,8 +212,13 @@ We can now continue with the mechanic.
       <p><b>10.</b> The Usurper of Frost will then use <em>Hallowed Wings</em>,
       which will cleave either the West or East half of the arena.</p>
       <p>The <em>Water III</em> debuffs will also resolve roughly at the same
-      time, so stack up on the safe half of the arena.</p>
-      <p><b>Do not spread too close to the Fragment of Fate!</b></p>
+      time, so stack up on <b>the two intercardinal markers on the safe half of
+      the arena.</b></p>
+      <ul>
+        <li>This will be far enough to not trigger the tethers while also avoiding the Fragment of Fate.</li>
+        <li>The south group can move closer to the south marker to give some
+        extra margin of error if needed.</li>
+      </ul>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/04/darklit_07.jpg">
