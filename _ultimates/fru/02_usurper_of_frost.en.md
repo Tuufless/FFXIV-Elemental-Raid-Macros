@@ -1327,11 +1327,10 @@ Ice Age* resolves. As a result, the damage check is to get the Ice Veil below
     <td>
       <p>Nothing immediate happens, and you can still progress through the
       fight.</p>
-      <p>However, the Fragment of Fate in P4 only spawns if the Dark Crystals
-      are still alive.</p>
-      <p>Without the Fragment of Fate, you can still progress through to the
-      end of P4, but you will get the "bad ending" where Eden's Promise spawns
-      and wipes the raid.</p>
+      <p>However, the Fragment of Fate in P4 will have its memory changed as a
+      result.</p>
+      <p>As a result, you can still progress through to the end of P4, but you 
+      will get the "bad ending" where Eden's Promise spawns and wipes the raid.</p>
       <p>Additionally, if a Dark Crystal is destroyed, the Ice Veil becomes
       invulnerable until <em>all</em> the Dark Crystals are destroyed, leading
       either to an enrage, or the bad ending.</p>
@@ -1380,6 +1379,56 @@ Ice Age* resolves. As a result, the damage check is to get the Ice Veil below
 /automove off</pre>
       <p>This will make your character take one tiny step directly forward 
       where your camera is facing.</p>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
+  <b>[Light Rampant]</b> How do you prevent the tethers from getting tangled?
+</summary>
+<table>
+  <tr>
+    <td width="50%">
+      <p>Unfortunately, having tangled tethers is uncommon (less than 2/21 
+      chance), and there is no way to guarantee that you will <em>never</em> 
+      encounter tangled tethers due to the way <em>Light Rampant</em> issues
+      the debuffs.</p>
+      <ol>
+        <li>First, pick two random players to get puddles.</li>
+        <li>Then, pick a random player to start the tether chain.</li>
+        <li>Connect that player to the closest player without either a puddle
+        or a tether.</li>
+        <li>Repeat the previous step six times from the last connected player.
+          <ul>
+            <li>If there are fewer than six non-puddle players available, pick
+            a puddle player last.</li>
+            <li>If there are fewer than six players available, wipe the raid.</li>
+          </ul>
+        </li> 
+      </ol>
+      <p>Because of this, it is possible to get tangled patterns if:</p>
+      <ul>
+        <li>The two puddle players are next to each other.</li>
+        <li>The tether starts two players away from a puddle.</li>
+        <li>The tether first connects towards a puddle.</li>
+      </ul>
+      <p>In the example on the right:</p>
+      <ol>
+        <li>Both MT and ST are selected for puddles.</li>
+        <li>H1 is randomly picked as the starting tether player.</li>
+        <li>H1 tethers to the closest available player, which is H2 (moving 
+        towards the puddles).</li>
+        <li>H2 then tethers to the closest available player, which is D1 (not
+        D4), and now you have a tangled tether.</li>
+      </ol>
+      <p>If the tethers are tangled, then the tethers will criss-cross. Swap
+      the two players around (H1 and H2 in this example) to untangle the
+      tethers.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_tether_faq.jpg">
     </td>
   </tr>
 </table>
