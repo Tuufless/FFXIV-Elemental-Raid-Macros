@@ -266,10 +266,11 @@ Morn* into *Morn Afah*.
       <ul>
         <li>Done this way, each <em>Akh Morn</em> hit deals roughly 175k damage 
         to the solo tank.</li>
-        <li>This is doable <em>without</em> using the 40% mitigation- the
-        tradeoff is that the 40% mitigation will not be available during 
-        <em>Crystallize Time</em> to act as a buffer for any errors.</li>
-        <li>Co-tank and targeted healer mitigations obviously help.</li>
+        <li>This is doable <em>without</em> using the 40% mitigation (co-tank
+        and targeted healer mitigations obviously help.)- the advantage of
+        doing so is that you leave the option open to supermitigate
+        <em>Crystallize Time</em> to buffer for any errors (although you'll
+        also need at least 3x party mitigations as well).</li>
       </ul>
     </td>
     <td>
