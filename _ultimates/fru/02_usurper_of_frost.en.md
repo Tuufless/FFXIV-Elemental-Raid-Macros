@@ -683,6 +683,11 @@ the puddles are dropped.
   </tr>
 </table>
 
+The tower positions can be summarized as follows:
+
+![]({{site.baseurl}}/images/ultimates/fru/02/light_rampant_44_east_cheatsheet.jpg)
+*(Full-size image: [English]({{site.baseurl}}/images/ultimates/fru/02/light_rampant_44_east_cheatsheet.jpg))*
+
 ### Option 2 - Light Rampant (MT-anchor ZizieZip)
 
 This is a different method to assigning towers, which is equally viable. The 
