@@ -595,8 +595,8 @@ the puddles are dropped.
   <tr>
     <td>
       <p><b>21.</b> The two puddle players move straight into the center, 
-      before turning to their right, dropping five puddles in total before 
-      joining their group NNW and SSE.</p>
+      before turning to their left, dropping five puddles in total before 
+      joining their group NNE and SSW.</p>
       <p>Try to keep your puddles to the same East/West side to avoid blocking
       the path back to the center.</p>
       <p>The tether players wait for their towers to resolve before collapsing 
@@ -1294,30 +1294,19 @@ Ice Age* resolves. As a result, the damage check is to get the Ice Veil below
 
 <details markdown=block>
 <summary>
-  <b>[Light Rampant (4:4 East adjust)]</b> Why do the "L" puddles turn right
-  instead of left?
+  <b>[Light Rampant (4:4 East adjust)]</b> Is there a reason the puddles turn
+  left instead of right?
 </summary>
 <table>
   <tr>
     <td>
-      <p>Believe it or not, this isn't done just to be different from the 4:4
-      CW adjust strat. There are a couple practical reasons why.</p>
-      <ul>
-        <li><p>Because the two healers have the highest priority north, we 
-        are <em>guaranteed</em> to have a healer north. Since the two
-        healers are next to each other, they will naturally split up
-        ensuring both N/S groups have a healer.</p>
-        <p>However, if a healer has a puddle, they would likely end up 
-        starting West. If they turn left when dropping the puddles, then the 
-        North group would have both healers.</p></li>
-        <li><p>Another reason is that because the healers and melee start on
-        the West half of the arena, they are likely to start West if they get a 
-        puddle.</p>
-        <p>Since the healer and melee spread positions are also South and West, 
-        turning right increases the chance that they end up on the correct side
-        of the tower (without having to run all the way around). The same
-        reasoning can be applied to the tanks/ranged on the other side.</p></li>
-      </ul>
+      <p>This is done to accommodate D4, in particular, PCT.</p>
+      <p>The PCT's possible towers with the 4:4 East adjust strat place them
+      either NE or SW.</p>
+      <p>Having the puddles turn left means that the <em>Weight of Light</em> 
+      stacks are also NE or SW, keeping them close to the PCT's towers thus
+      allowing them to paint their motifs to prepare for when the boss is
+      targetable again.</p>
     </td>
   </tr>
 </table>
