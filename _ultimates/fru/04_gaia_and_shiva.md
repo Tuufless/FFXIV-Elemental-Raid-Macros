@@ -1,14 +1,14 @@
 ---
 layout: default
-title: 4. Gaia and Shiva v1.0
-parent: Lv 100. FRU (WIP)
+title: 4. Gaia and Shiva
+parent: Lv 100. FRU
 nav_order: 4
 has_children: false
 has_toc: false
 permalink: /ultimates/fru/04_gaia_and_shiva/
 ---
 
-# Gaia and Shiva v1.0
+# Gaia and Shiva
 
 This is version 1.0, that uses the vertical spread *Darklit Dragonsong* strat,
 and anti-KB for *Crystallize Time* with 2x 7:1 Akh Morn stacks.
@@ -16,6 +16,9 @@ and anti-KB for *Crystallize Time* with 2x 7:1 Akh Morn stacks.
 <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
 <p style="text-align:center"><b>Details may be missing, or subject to change
 until I have better first-hand experience.</b></p>
+<p>I am <em>pretty sure</em> I want to go with vertical Darklit over 
+horizontal, but am undecided on where to record positions during 
+<em>Crystallize Time</em>.</p>
 </div>
 
 - [**Darklit Dragonsong - Vertical spreads**](#darklit-dragonsong---vertical-spreads)

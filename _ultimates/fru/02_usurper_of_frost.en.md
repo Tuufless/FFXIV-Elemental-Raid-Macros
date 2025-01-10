@@ -1,16 +1,16 @@
 ---
 layout: default
-title: 2. Usurper of Frost v3.2
-parent: Lv 100. FRU (WIP)
+title: 2. Usurper of Frost
+parent: Lv 100. FRU
 nav_order: 2
 has_children: false
 has_toc: false
 permalink: /ultimates/fru/02_usurper_of_frost/
 ---
 
-# Usurper of Frost v3.2
+# Usurper of Frost
 
-This is version 3.2, that's based off the Google Doc with three options for Light
+This is version 3.3, that's based off the Google Doc with three options for Light
 Rampant.
 
 - [**Changelog**](#changelog)
@@ -1436,6 +1436,7 @@ Ice Age* resolves. As a result, the damage check is to get the Ice Veil below
   <tr>
     <td>
       <ul>
+        <li>v3.3 (9 Jan 2025): Updated the 4:4 East-adjust <em>Light Rampant</em> strat puddles to turn left instead of right.</li>
         <li>v3.2 (20 Dec 2024): Updated the 4:4 East-adjust <em>Light Rampant</em> strat to resemble Lily Doll (except for the puddles).</li>
         <li>v3.1 (17 Dec 2024): Updated the 4:4 CW <em>Light Rampant</em> strat 
         tank/healer positions to match the Google Doc.</li>

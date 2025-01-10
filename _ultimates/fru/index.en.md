@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lv 100. FRU (WIP)
+title: Lv 100. FRU
 nav_order: 6
 has_children: true
 has_toc: false
@@ -16,9 +16,10 @@ My FRU strat is currently a **work in progress**.
   <li><b>Current version: v4.0.0</b>
     <ul>
       <li>Fatebreaker: v2.0.0</li>
-      <li>Usurper of Frost: v3.2.0</li>
+      <li>Usurper of Frost: v3.3.0</li>
       <li>Oracle of Darkness: v1.1.0</li>
       <li>Gaia and Shiva: v1.0</li>
+      <li>Pandora: v1.0</li>
     </ul>
   </li>
 </ul>

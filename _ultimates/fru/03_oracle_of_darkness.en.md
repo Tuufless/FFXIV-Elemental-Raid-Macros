@@ -1,14 +1,14 @@
 ---
 layout: default
-title: 3. Oracle of Darkness v1.1
-parent: Lv 100. FRU (WIP)
+title: 3. Oracle of Darkness
+parent: Lv 100. FRU
 nav_order: 3
 has_children: false
 has_toc: false
 permalink: /ultimates/fru/03_oracle_of_darkness/
 ---
 
-# Oracle of Darkness v1.1
+# Oracle of Darkness
 
 This is version 1.1, that's based off the Google Doc. The main differences are:
 

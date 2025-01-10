@@ -1,14 +1,14 @@
 ---
 layout: default
-title: 1. Fatebreaker v2.0
-parent: Lv 100. FRU (WIP)
+title: 1. Fatebreaker
+parent: Lv 100. FRU
 nav_order: 1
 has_children: false
 has_toc: false
 permalink: /ultimates/fru/01_fatebreaker/
 ---
 
-# Fatebreaker v2.0
+# Fatebreaker
 
 This is version 2.0, that takes the raidplan and Discord polls together.
 
