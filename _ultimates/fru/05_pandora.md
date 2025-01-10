@@ -15,9 +15,7 @@ permalink: /ultimates/fru/05_pandora/
 </div>
 
 - [**Fulgent Blade**](#fulgent-blade)
-- [**Paradise Regained**](#paradise-regained)
-  - [**Paradise Regained - Team DN**](#paradise-regained---team-dn) *or*
-  - [**Paradise Regained - Nukemaru**](#paradise-regained---nukemaru)
+- [**Paradise Regained - Team DN**](#paradise-regained---team-dn)
 - [**Polarizing Strikes**](#polarizing-strikes)
 
 After the cutscene, Pandora quickly opens with her first mechanic.
@@ -130,10 +128,8 @@ both tanks).
   </tr>
   <tr>
     <td>
-      <p><b>11.</b> <em>Akh Morn</em> resolves shortly after the next set of
-      line AoEs.</p>
-      <p>Stack in 4-man light parties, with one party on the boss's left, and
-      one party on the boss's right.</p>
+      <p><b>11.</b> Stack in 4-man light parties, with one party on the
+      left (facing the boss), and one party on the right.</p>
       <ul>
         <li><b>Left side (facing the boss):</b> MT, H1, D1, D3</li>
         <li><b>Right side (facing the boss):</b> ST, H2, D2, D4</li>
@@ -143,17 +139,23 @@ both tanks).
       <img src="{{site.baseurl}}/images/ultimates/fru/05/fulgent_blade_11.jpg">
     </td>
   </tr>
+  <tr>
+    <td>
+      <p><b>11.</b> <em>Akh Morn</em> resolves together with the next set of
+      line AoEs, targeting a random person on each side of the boss (left vs.
+      right) with a stack AoE.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/fulgent_blade_12.jpg">
+    </td>
+  </tr>
 </table>
 
 After the *Akh Morn*, Pandora goes straight into the next mechanic.
 
-## Paradise Regained
+## Paradise Regained - Team DN
 
-This is the most complex mechanic of the phase. There are two different
-approaches, depending on whether you want to put more mechanical burden on the
-tanks, or on the rest of the party.
-
-### Paradise Regained - Team DN
+This is the most complex mechanic of the phase.
 
 The strategy below closely resembles Team DN's method, which positions the first
 tower completely safe from the first cleave, making it slightly more involved
@@ -277,133 +279,6 @@ instead.
   </tr>
 </table>
 
-### Paradise Regained - Nukemaru
-
-The other strategy I'm considering is [Nukemaru's recommendation](https://youtu.be/nzpOdfOyUNo?si=5Jiyv8DZCmnXi1Oq&t=190).
-
-Here, the tanks have a slightly simpler job, because the MT is always opposite
-the first tower, and the two tanks just move in and out.
-
-However, while easier on the tanks, that burden is shifted to the rest of the
-party, who need to pay more attention when taking the first tower.
-
-<table>
-  <tr>
-    <td>
-      <p><b>12.</b> Find the first tower. Use this tower as <b>South</b>.</p>
-      <ul>
-        <li><b>MT:</b> Rotate to the new "North".</li>
-        <li><b>H1, H2:</b> Preposition in the first tower.</li>
-      </ul>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru/05/paradise_regained_01.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" width="50%">
-      <p><b>13.</b> The second tower appears.</p>
-      <p>At the same time, the boss will cast <em>Wings Dark and Light</em>, and 
-      one of the boss's wings will glow.</p>
-      <ul>
-        <li><b>MT + ST:</b> Tank swap during the <em>Wings Dark and Light</em> 
-        cast.</li>
-      </ul>
-      <p>The healers adjust within their tower, while the DPS moves East or
-      West, whichever side is safe.</p>
-      <ul>
-        <li><b>Light (Left) wing glows:</b> Move to the right side of the boss.</li>
-        <li><b>Dark (Right) wing glows:</b> Move to the left side of the boss.</li>
-      </ul>
-      <p>A tether will also appear, which needs to go to the ST. It
-      <em>cannot</em> be passed around, but instead automatically tethers to 
-      either the nearest or furthest player <b>that is not the player with
-      aggro</b> (depending on the wing).</p>
-      <ul>
-        <li><b>Light (Left) wing glows:</b> ST needs to be the furthest.</li>
-        <li><b>Dark (Right) wing glows:</b> ST needs to be the nearest.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:center">
-      <b>Light (Left) wing first</b>
-    </td>
-    <td style="text-align:center">
-      <b>Dark (Right) wing first</b>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru/05/paradise_regained_02a.jpg">
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru/05/paradise_regained_02b.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <p><b>14.</b> The third tower appears and the other wing glows.</p>
-      <p>DPS can preposition in the second or third tower, whichever is safe
-      from the first wing.</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru/05/paradise_regained_03a.jpg">
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru/05/paradise_regained_03b.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <p><b>15.</b> The boss will turn and cleave the MT.</p>
-      <p>The first cleave resolves together with the first tower (which should
-      be taken by H1 and H2).</p>
-      <ul>
-        <li><b>MT:</b> If the first cleave was Dark, move out. If the first 
-        cleave was Light, move in instead.</li>
-        <li><b>H1, H2:</b> Move North after resolving your tower.</li>
-        <li><b>D1, D2:</b> Cross over to the other tower (that just got hit by the first cleave).</li>
-        <li><b>D3, D4:</b> Enter the tower on the safe side of the first
-        cleave.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru/05/paradise_regained_04a.jpg">
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru/05/paradise_regained_04b.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <p><b>16.</b> The boss now cleaves the ST.</p>
-      <p>This second cleave resolves together with the second tower (which
-      should be taken by two DPS).</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru/05/paradise_regained_05a.jpg">
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru/05/paradise_regained_05b.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>17.</b> The two remaining DPS stay put for the third tower.</p>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru/05/paradise_regained_06.jpg">
-    </td>
-  </tr>
-</table>
-
 The boss then goes into its final mechanic of the loop.
 
 ## Polarizing Strikes
@@ -460,9 +335,9 @@ After this, Pandora casts *Pandora's Box*, which is a Tank LB3 check.
 From there, the mechanics repeat from *Fulgent Blade*. At the end of the second
 loop, Pandora casts *Paradise Lost* for enrage instead of *Pandora's Box*.
 
-Sometime during this, Ryne will exclaim *"You can weather this! I know you
-can!"* and give you 1.5 bars worth of Limit Break, which should reach an LB3.
-When she does so, *immediately* LB3 (or it will not resolve before the enrage).
+Sometime during *Paradise Lost*, Ryne will exclaim *"You can weather this! I
+know you can!"* and give you 1.5 bars worth of Limit Break, which should reach
+an LB3. When she does so, *immediately* LB3 (or it will not resolve before the enrage).
 
 ---
 
@@ -477,6 +352,36 @@ When she does so, *immediately* LB3 (or it will not resolve before the enrage).
   <tr>
     <td>
       <p>Unfortunately, no! Keep hitting the boss!</p>
+    </td>
+  </tr>
+</table>
+</details>
+
+---
+
+## Troubleshooting
+
+<details markdown=block>
+<summary>
+  <b>[Fulgent Blade]</b> One group can't make it to the other side of the boss
+  in time for Akh Morn!
+</summary>
+<table>
+  <tr>
+    <td width="50%">
+      <p>Check how the tank is dodging the exalines.</p>
+      <p>The more the tank dodges towards the side of the diamond where the
+      exalines originated from (the area marked red), the more the boss
+      is turned when it starts to cast <em>Akh Morn</em> and its orientation
+      locked.</p>
+      <p>The more the boss is turned, the harder it is for the light party to
+      make it to the other side of the boss in time.</p>
+      <p><b>Note:</b> this is particularly pronounced when the tank does the
+      "uptime" dodge, because it encourages them to dodge to that side of the
+      diamond.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/fulgent_blade_faq.jpg">
     </td>
   </tr>
 </table>
