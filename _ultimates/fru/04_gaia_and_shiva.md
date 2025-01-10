@@ -801,7 +801,31 @@ advances to the final phase.
 
 <details markdown=block>
 <summary>
-  <b>[Hallowed Wings]</b> Just <em>how</em> does this mechanic work?
+  <b>[Crystallize Time]</b> Why do the anti-knockback strat instead of just
+  doing it normally?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>Using <em>Arm's Length/Surecast</em> to mitigate the knockback from
+      the first <em>Hallowed Wings</em> allows the party to record their
+      positions closer to the center.</p>
+      <p>This accomplishes two things:</p>
+      <ul>
+        <li>It gives more time for the blue <em>Wyrmfang</em> players to pick
+        up their puddles, because they don't have to travel as far to join the
+        party to record.</li>
+        <li>It lets the party spread use their standard clock positions for
+        <em>Spirit Taker</em> (because they recorded near the center).</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
+  <b>[Crystallize Time (Hallowed Wings)]</b> Just <em>how</em> does this mechanic work?
 </summary>
 <table>
   <tr>
