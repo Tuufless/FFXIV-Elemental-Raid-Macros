@@ -411,14 +411,33 @@ cardinal/intercardinal positions.
   </tr>
   <tr>
     <td colspan="2">
-      <p><b>15.</b> The boss will then cast <em>Banish III</em>. This will 
-      either be a party spread, or pair stacks depending on the number of orbs 
+      <p><b>15.</b> The boss will then cast <em>Banish III</em>. This will
+      either be a party spread, or pair stacks depending on the number of orbs
       above the boss's head.</p>
+      <p>The healers will move towards the center of the arena, while the tanks
+      stay at the edge.</p>
+      <p>The DPS adjust to the tanks and healers, depending on the number of
+      orbs above the boss.</p>
       <ul>
         <li><b>One floating orb:</b> Pair stacks (MTD1, STD2, H1D3, H2D4).</li>
         <li><b>Four floating orbs:</b> Party spread.</li>
       </ul>
-      <p>Have the DPS adjust to the tanks and healers.</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center">
+      <b>One orb (T/H + D pairs)</b>
+    </td>
+    <td style="text-align:center">
+      <b>Four orbs (spread)</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/mirror_mirror_04b.jpg">
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/mirror_mirror_04a.jpg">
     </td>
   </tr>
 </table>
