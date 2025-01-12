@@ -1086,6 +1086,18 @@ instead, so stay near the middle.
 
 This is the mini "transition" phase.
 
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+  <p><b>Tip:</b> You can choose to caster LB3 all the crystals instead to get
+  past this phase and get some P3 practice in instead- if you do so, you will
+  <em>not</em> be able to get past P4 (although you will have until then to
+  stabilize this phase).</p>
+  <p>If you caster LB3, remember to attack the Crystals of Light while waiting
+  for the LB3 to resolve- the LB3 alone will <em>not</em> destroy the Crystals
+  of Light.</p>
+  <p>Once all the Crystals have been destroyed, the Ice Veil will lose its
+  invulnerability and can be destroyed (without Gaia's help).</p>
+</div>
+
 <table>
 <tr>
     <td width="50%">
