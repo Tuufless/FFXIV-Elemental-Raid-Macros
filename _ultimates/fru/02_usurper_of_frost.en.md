@@ -877,6 +877,9 @@ position from a fixed player (the MT) instead.
     </td>
   </tr>
 </table>
+The tower positions can be summarized as follows:
+<img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_mt_ziziezip_cheatsheet.jpg">
+<em>(Full-size image: [<a href="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_mt_ziziezip_cheatsheet.jpg">English</a>])
 </details>
 </div>
 
