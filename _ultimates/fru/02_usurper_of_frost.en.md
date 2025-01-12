@@ -704,8 +704,8 @@ the puddles are dropped.
 
 The tower positions can be summarized as follows:
 
-![]({{site.baseurl}}/images/ultimates/fru/02/light_rampant_44_east_cheatsheet.jpg)
-*(Full-size image: [English]({{site.baseurl}}/images/ultimates/fru/02/light_rampant_44_east_cheatsheet.jpg))*
+![]({{site.baseurl}}/images/ultimates/fru/02/lr_44_east.jpg)
+*(Full-size image: [English]({{site.baseurl}}/images/ultimates/fru/02/lr_44_east.jpg))*
 
 ### Option 2 - Light Rampant (MT-anchor ZizieZip)
 
@@ -878,8 +878,8 @@ position from a fixed player (the MT) instead.
   </tr>
 </table>
 The tower positions can be summarized as follows:
-<img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_mt_ziziezip_cheatsheet.jpg">
-<em>(Full-size image: [<a href="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_mt_ziziezip_cheatsheet.jpg">English</a>])
+<img src="{{site.baseurl}}/images/ultimates/fru/02/lr_mt_anchor_ziziezip.jpg">
+<em>(Full-size image: [<a href="{{site.baseurl}}/images/ultimates/fru/02/lr_mt_anchor_ziziezip.jpg">English</a>])
 </details>
 </div>
 
