@@ -1189,13 +1189,12 @@ This is the mini "transition" phase.
   </tr>
 </table>
 
-Once the four Crystals of Light have been destroyed, all party members should
-destroy the Ice Veil.
+Once the four Crystals of Light have been destroyed (with all four Crystals of
+Darkness alive), Gaia will exclaim, *"My power surges!"* and the Ice Veil will
+lose its invulnerability.
 
-If all four Crystals of Darkness are still alive, Gaia will gain enough power
-*("My power surges!)* to deal 50.0% damage to the Ice Veil just before *Endless
-Ice Age* resolves. As a result, the damage check is to get the Ice Veil below
-50.0% HP.
+Gaia will deal 50.0% damage to the Ice Veil just before *Endless Ice Age*
+resolves. As a result, the damage check is to get the Ice Veil below 50.0% HP.
 
 ---
 
