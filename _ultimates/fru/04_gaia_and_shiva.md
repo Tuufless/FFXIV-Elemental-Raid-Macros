@@ -10,8 +10,8 @@ permalink: /ultimates/fru/04_gaia_and_shiva/
 
 # Gaia and Shiva
 
-This is version 1.0, that uses the vertical spread *Darklit Dragonsong* strat,
-and anti-KB for *Crystallize Time* with 2x 7:1 Akh Morn stacks.
+This is version 2.0, that uses the vertical spread *Darklit Dragonsong* strat,
+and Nukemaru's strategy for *Crystallize Time* with 2x 7:1 Akh Morn stacks.
 
 <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
 <p style="text-align:center"><b>Details may be missing, or subject to change
@@ -23,7 +23,7 @@ horizontal, but am undecided on where to record positions during
 
 - [**Darklit Dragonsong - Vertical spreads**](#darklit-dragonsong---vertical-spreads)
 - [**Akh Morn 1 - 7:1 MT solo**](#akh-morn-1---71-mt-solo)
-- [**Crystallize Time - fast pop, anti-kb**](#crystallize-time---fast-pop-anti-kb)
+- [**Crystallize Time - Nukemaru (fast pop, anti-kb, Y-shaped record**](#crystallize-time---nukemaru)
 - [**Akh Morn 2 - 7:1 ST solo**](#akh-morn-2---71-st-solo)
 - [**Frequently Asked Questions**](#frequently-asked-questions)
 
@@ -269,11 +269,9 @@ Morn* into *Morn Afah*.
       <ul>
         <li>Done this way, each <em>Akh Morn</em> hit deals roughly 175k damage 
         to the solo tank.</li>
-        <li>This is doable <em>without</em> using the 40% mitigation (co-tank
-        and targeted healer mitigations obviously help.)- the advantage of
-        doing so is that you leave the option open to supermitigate
-        <em>Crystallize Time</em> to buffer for any errors (although you'll
-        also need at least 3x party mitigations as well).</li>
+        <li><b>Note:</b> The solo tank <em>cannot</em> use their 40% mitigation,
+        as they will need it for <em>Crystallize Time</em>. Use co-tank
+        and targeted healer mitigations to help.</li>
       </ul>
     </td>
     <td>
@@ -289,7 +287,7 @@ two bosses will tether together indicating which boss has too much HP.
 - **White tether:** The Usurper of Frost has too much HP.
 - **Purple tether:** The Oracle of Darkness has too much HP.
 
-## Crystallize Time - fast pop, anti-kb
+## Crystallize Time - Nukemaru
 
 This is probably the hardest part of the encounter, so hang in there.
 
@@ -549,9 +547,6 @@ the sea of mechanics.
   <tr>
     <td>
       <p><b>21.</b> Dodge the second horizontal line AoE.</p>
-      <p>This is the last line AoE you can dodge and still make it to the
-      corner in time for the rewind (barring abilities like <em>Shukuchi</em>
-      or <em>En Avant</em>).</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/04/crystallize_time_10.jpg">
@@ -559,24 +554,12 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>22.</b> Gather together towards the corner where both line AoEs 
-      originated from and start forming up.</p>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru/04/crystallize_time_11.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>23.</b> Make two groups in the corner.</p>
+      <p><b>22.</b> Make a Y-shaped formation near the center of the arena,
+      towards where the second set of line AoEs originated from.</p>
       <ul>
-        <li><b>MT, H1, D1, D3:</b> Left-side, facing outside.</li>
-        <li><b>ST, H2, D2, D4:</b> Right-side, facing outside.</li>
-      </ul>
-      <p>The party needs to make two groups such that:</p>
-      <ul>
-        <li>The tanks are closest to the edge.</li>
-        <li>There is a clear N/S and E/W split between the two groups.</li>
+        <li><b>MT:</b> Relative top-left</li>
+        <li><b>ST:</b> Relative top-right</li>
+        <li><b>Everyone else:</b> Stack near the center</li>
       </ul>
       <p>Everybody records their position in this formation.</p>
       <p>A <em>Quietus</em> raid-wide will also go off shortly before
@@ -588,11 +571,16 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>24.</b> After recording your position, spread out for <em>Spirit 
+      <p><b>23.</b> After recording your position, spread out for <em>Spirit 
       Taker</em> on a random player.</p>
       <p>Spread out in your regular spread positions, <em>except</em> the MT,
       who goes to the middle of the arena instead (because of the Fragment of 
       Fate).</p>
+      <p>Prepare <b>heavy mitigation</b>:</p>
+      <ul>
+        <li><b>Tanks:</b> Use your 40% personal mitigation.</li>
+        <li>The party will need at least 3x 10% party mitigations in addition.</li>
+      </ul>
       <p>When the Oracle of Darkness does her <em>Spirit Taker</em> attack,
       <b>everybody use <em>Arm's Length/Surecast</em></b>.</p>
     </td>
@@ -602,7 +590,7 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>25.</b> The rewind resolves, and the Usurper of Frost casts 
+      <p><b>24.</b> The rewind resolves, and the Usurper of Frost casts 
       <em>Hallowed Wings</em> from the side where the first line AoE came from.</p>
       <ul>
         <li>The party gets knocked back half the arena, which is blocked by 
@@ -619,7 +607,7 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>26.</b> The second <em>Hallowed Wings</em> resolves, this time from
+      <p><b>25.</b> The second <em>Hallowed Wings</em> resolves, this time from
       North or South (wherever the second line AoE came from).</p>
       <p>The party will get knocked back half the arena.</p>
     </td>
@@ -637,7 +625,7 @@ start another 4-hit *Akh Morn* into *Morn Afah* sequence.
 <table>
   <tr>
     <td width="50%">
-      <p><b>27.</b> The two bosses target whoever has their hate with a 4-hit
+      <p><b>26.</b> The two bosses target whoever has their hate with a 4-hit
       <em>Akh Morn</em> (which should be their respective tanks).</p>
       <p>This time, we have the ST split off and take it solo.</p>
     </td>
