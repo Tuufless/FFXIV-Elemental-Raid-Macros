@@ -89,33 +89,6 @@ Furthermore, when the party needs to split into groups of four:
 
 </details>
 
-I am also testing these markers out.
-
-The idea behind these markers is to use the `A`/`C` and the `1234` markers to
-stack on during *Crystallize Time* with sufficient gap for the tanks to slot in
-between.
-
-![]({{site.baseurl}}/images/ultimates/fru/markers2.jpg)
-<details markdown=block>
-<summary>XIVLauncher WaymarkPresetPlugin positions</summary>
-
-```json
-{
-  "Name":"FRU (alternating)",
-  "MapID":1006,
-  "A":{"X":100.0,"Y":0.0,"Z":88.6,"ID":0,"Active":true},
-  "B":{"X":111.4,"Y":0.0,"Z":100.0,"ID":1,"Active":true},
-  "C":{"X":100.0,"Y":0.0,"Z":111.4,"ID":2,"Active":true},
-  "D":{"X":88.6,"Y":0.0,"Z":100.0,"ID":3,"Active":true},
-  "One":{"X":93.8,"Y":0.0,"Z":93.8,"ID":4,"Active":true},
-  "Two":{"X":106.2,"Y":0.0,"Z":93.8,"ID":5,"Active":true},
-  "Three":{"X":106.2,"Y":0.0,"Z":106.2,"ID":6,"Active":true},
-  "Four":{"X":93.8,"Y":0.0,"Z":106.2,"ID":7,"Active":true}
-}
-```
-
-</details>
-
 ---
 
 ## Frequently Asked Questions
