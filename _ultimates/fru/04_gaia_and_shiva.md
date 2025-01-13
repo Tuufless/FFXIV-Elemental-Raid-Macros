@@ -289,14 +289,15 @@ two bosses will tether together indicating which boss has too much HP.
 
 ## Crystallize Time - Nukemaru
 
-This is probably the hardest part of the encounter, so hang in there.
+The bosses will cast *Crystallize Time*. This is probably the hardest part of
+the encounter, so hang in there.
 
-Six hourglasses will spawn this time, and the Oracle of Darkness will tether:
-
-- The North and South hourglasses with yellow tethers.
-- Two of the remaining opposite hourglasses with purple tethers.
-
-The party will also get a bunch of debuffs to resolve.
+- Six hourglasses will spawn.
+- The Usurper of Frost will apply a set of debuffs on the players to resolve.
+- The Oracle of Darkness will deal raidwide damage and tether to four
+  hourglasses.
+  - The North and South hourglasses with yellow tethers.
+  - Two of the remaining opposite hourglasses with purple tethers.
 
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
 <details markdown=block>
@@ -763,12 +764,13 @@ advances to the final phase.
 
 <details markdown=block>
 <summary>
-  <b>[Akh Morn]</b> Does <em>Akh Morn</em> ignore the raise invuln?
+  <b>[Akh Morn/Morn Afah]</b> Do these ignore invulnerabilities?
 </summary>
 <table>
   <tr>
     <td>
-      <p>Yes, it does!</p>
+      <p>Yes, they do- in particular, they deal damage through <em>all</em>
+      invulnerabilities, including tank invulns and the "raise" invuln.</p>
     </td>
   </tr>
 </table>
@@ -776,12 +778,16 @@ advances to the final phase.
 
 <details markdown=block>
 <summary>
-  <b>[Morn Afah]</b> Can you invuln <em>Akh Morn</em> or <em>Morn Afah</em>?
+  <b>[Crystallize Time]</b> Who should we debuff to reduce incoming damage?
 </summary>
 <table>
   <tr>
     <td>
-      <p>No, you cannot- they both ignore tank invulnerabilities.</p>
+      <p>Although both bosses cast <em>Crystallize Time</em>, damage originates
+      from the <b>Oracle of Darkness</b>.</p>
+      <p><em>(You can think of it as the Usurper of Frost is the one that
+      applies all the debuffs on the party, although it's actually the
+      environment that does so.)</em></p>
     </td>
   </tr>
 </table>
