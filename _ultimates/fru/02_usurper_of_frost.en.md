@@ -1196,7 +1196,8 @@ Once the four Crystals of Light have been destroyed (with all four Crystals of
 Darkness alive), Gaia will exclaim, *"My power surges!"* and the Ice Veil will
 lose its invulnerability.
 
-Gaia will deal 50.0% damage to the Ice Veil just before *Endless Ice Age*
+If all the Crystals of Darkness are still alive, Gaia will gain enough power
+and deal 50.0% damage to the Ice Veil just before *Endless Ice Age*
 resolves. As a result, the damage check is to get the Ice Veil below 50.0% HP.
 
 ---
@@ -1456,6 +1457,27 @@ resolves. As a result, the damage check is to get the Ice Veil below 50.0% HP.
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_tether_faq.jpg">
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
+  <b>[Crystals]</b> What does it mean when Gaia says <em>"Is my Darkness not
+  enough!?"</em>
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>Destroying all the Crystals of Light will make the Ice Veil
+      vulnerable, and Gaia will exclaim <em>"My power surges!"</em> and try to
+      do her attack.</p>
+      <p>However, Gaia will only succeed if <em>all</em> the Crystals of
+      Darkness are still alive.</p>
+      <p>If any Crystals of Darkness have been destroyed, Gaia's attack will
+      fail, and she will question <em>"Is my Darkness not enough!?"</em>,
+      indicating something has gone wrong.</p>
     </td>
   </tr>
 </table>
