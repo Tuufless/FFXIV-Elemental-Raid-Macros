@@ -77,11 +77,18 @@ you'll still be able to get practice in.)
   </tr>
 </table>
 
-The Oracle of Darkness then respawns (everyone should swap over to target her) 
-and the two bosses begin their first mechanic (make sure the ST has aggro on
-the Oracle of Darkness).
+The Oracle of Darkness then respawns (everyone should swap over to target her),
+and should be taken by the ST.
+
+They will shortly begin their first joint mechanic.
 
 ## Darklit Dragonsong - Vertical spreads
+
+Both bosses will cast *Darklit Dragonsong*.
+
+- The Usurper of Frost will deal raidwide damage.
+- The Oracle of Darkness will apply tethers and *Dark Water III* debuffs on the
+  party.
 
 <table>
   <tr>
@@ -666,6 +673,23 @@ advances to the final phase.
       changed and the name of the raidwide that it periodically casts is named
       <em>Depths of Oblivion</em> instead of <em>Edge of Oblivion</em>. They
       both do the same amount of damage.</p>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
+  <b>[Darklit Dragonsong]</b> Who should we debuff to reduce incoming damage?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>Although both bosses cast <em>Darklit Dragonsong</em>, damage originates
+      from the <b>Usurper of Frost</b>.</p>
+      <p><em>(You can think of it as the Oracle of Darkness is the one that
+      applies all the debuffs on the party, although it's actually the
+      environment that does so.)</em></p>
     </td>
   </tr>
 </table>
