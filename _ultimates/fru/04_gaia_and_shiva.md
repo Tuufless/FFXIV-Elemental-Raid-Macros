@@ -831,9 +831,11 @@ advances to the final phase.
         <li>7th player: ~10k damage</li>
         <li>8th player: ~10k damage</li>
       </ul>
-      <p>The <em>Magic Vulnerability Up</em> debuff increases the damage taken
-      to 400%, which means that the fifth player hit with vuln takes roughly
-      the same damage as the first player without.</p>
+      <p>In addition, the first four players hit also get a <em>Magic 
+      Vulnerability Up</em> debuff. This debuff increases the damage taken to
+      400%, which means that the fifth player hit with vuln (400% x ~40k
+      damage) takes roughly the same damage as the first player without (~160k
+      damage).</p>
       <p>Note that these are <em>base</em> values, so multiply them roughly by
       0.64 for tanks, and 0.94 for casters/healers.</p>
       <p><em>(Thanks to syl for the analysis!)</em></p>
