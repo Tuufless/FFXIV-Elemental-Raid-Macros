@@ -1200,6 +1200,13 @@ If all the Crystals of Darkness are still alive, Gaia will gain enough power
 and deal 50.0% damage to the Ice Veil just before *Endless Ice Age*
 resolves. As a result, the damage check is to get the Ice Veil below 50.0% HP.
 
+If all goes well, an ice necklace will briefly appear on the ground next to the
+Usurper of Frost, which will be quickly absorbed.
+
+Stack south to prepare for the next phase- the Usurper of Frost will do one
+raid-wide (called *Junction*) and reveal herself to be Mitron before possessing
+Gaia and turning her into the Oracle of Darkness.
+
 ---
 
 ## Frequently Asked Questions
@@ -1362,6 +1369,29 @@ resolves. As a result, the damage check is to get the Ice Veil below 50.0% HP.
       <p>Additionally, if a Dark Crystal is destroyed, the Ice Veil becomes
       invulnerable until <em>all</em> the Dark Crystals are destroyed, leading
       either to an enrage, or the bad ending.</p>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
+  <b>[Crystals]</b> What leads to <em>"the eternal ice shatters and disappears?"</em>
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>In order for the ice necklace to not shatter, Gaia <em>must</em>
+      complete her jump attack.</p>
+      <p>For her to do so, all four Crystals of Darkness must stay alive, and
+      the Ice Veil must also live long enough.</p>
+      <p>As such, the failure cases are either:</p>
+      <ul>
+        <li>Destroying at least one Crystal of Darkness <em>(Gaia will have
+        insufficient power to execute the attack)</em>.</li>
+        <li>Destroying the Ice Veil before Gaia's jump attack resolves
+        <em>(Gaia's attack has no target)</em>.</li>
+      </ul>
     </td>
   </tr>
 </table>
