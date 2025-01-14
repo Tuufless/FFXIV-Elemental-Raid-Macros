@@ -176,8 +176,7 @@ artificially generate limit break in a consistent manner, which then
         <li>D3 party mitigation</li>
       </ol>
       <p>If your party has a SCH, try to dodge to the same cardinal for
-      everyone to be under <em>Sacred Soil</em>, especially if you have a DRK
-      (as they do not have a tank 90s at this level).</p>
+      everyone to be under <em>Sacred Soil</em>.</p>
     </td>
 	  <td>
       <img src="{{site.baseurl}}/images/ultimates/uwu/04a/predation_4a_safe_03.jpg">

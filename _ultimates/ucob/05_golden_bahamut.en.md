@@ -78,7 +78,6 @@ base mitigation is:
 
 Some things to consider:
 
-- DRK is the only tank *without* a 90s party mitigation at Level 70.
 - AST has an extra cooldown you can use to help shore up missing mitigation.
 - Golden Bahamut's DPS check is (very) lenient now. Consider Tank LB to help 
   mitigate Morn Afah if anything goes wrong.
