@@ -663,8 +663,8 @@ the puddles are dropped.
     <td>
       <p><b>25.</b> We now resolve the 4-man tower in the middle.</p>
       <ul>
-        <li><b>Players with 2 stacks of <em>Lightsteeped</em>:</b> Enter the
-        tower.</li>
+        <li><b>Players with 2 stacks of <em>Lightsteeped</em> at this
+        point:</b> Enter the tower.</li>
       </ul>
       <p>Everybody else move to your standard clock positions around the
       tower.</p>
@@ -839,8 +839,8 @@ position from a fixed player (the MT) instead.
     <td>
       <p><b>25.</b> We now resolve the 4-man tower in the middle.</p>
       <ul>
-        <li><b>Players with 2 stacks of <em>Lightsteeped</em>:</b> Enter the
-        tower.</li>
+        <li><b>Players with 2 stacks of <em>Lightsteeped</em> at this
+        point:</b> Enter the tower.</li>
       </ul>
       <p>Everybody else move to your standard clock positions around the
       tower.</p>
@@ -1036,8 +1036,8 @@ D1 D2.
     <td>
       <p><b>26.</b> We now resolve the 4-man tower in the middle.</p>
       <ul>
-        <li><b>Players with 2 stacks of <em>Lightsteeped</em>:</b> Enter the
-        tower.</li>
+        <li><b>Players with 2 stacks of <em>Lightsteeped</em> at this
+        point:</b> Enter the tower.</li>
       </ul>
       <p>Everybody else move to your standard clock positions around the
       tower.</p>
