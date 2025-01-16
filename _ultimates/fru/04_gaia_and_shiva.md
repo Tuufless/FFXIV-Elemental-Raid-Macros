@@ -434,7 +434,8 @@ the sea of mechanics.
     <td width="50%">
       <p><b>13.</b> The yellow-tethered hourglasses (North and South) resolve.</p>
       <p>The two red Aeros, and all the south-side blue players move into the 
-      explosion, and stand at the tip of the "flower petal" decal on the floor.</p>
+      hourglass AoEs when they resolve <em>(Maelstrom)</em>, and stand at the tip
+      of the "flower petal" decal on the floor.</p>
       <p>The south-side blue players and the red Aero need to <b>stack
       together closely, with the red Aero closest to the edge of the arena.</b></p>
     </td>
@@ -445,7 +446,8 @@ the sea of mechanics.
   <tr>
     <td>
       <p><b>14.</b> The dragon heads reach the E/W red Ice players around the 
-      same time the debuffs resolve.</p>
+      same time the debuffs resolve, and explode in an AoE <em>(Longing of the
+      Lost)</em>.</p>
       <ul>
         <li>The blue Eruption moves down slightly <em>(this is to hedge against
         the nearer red Ice being late.)</em></li>
@@ -490,8 +492,9 @@ the sea of mechanics.
         <li>The red Aero players go back to the South sector after taking their
         dragon heads.</li>
       </ul>
-      <p>A travelling line telegraph appears either along the West or East side
-      of the arena, where the lone red Ice player may be.</p>
+      <p>A travelling line telegraph <em>(Tidal Light)</em> appears either
+      along the West or East side of the arena, where the lone red Ice player
+      may be.</p>
       <ul>
         <li>If the telegraph appears on the same side as the red Ice player,
         don't panic and just prepare to dodge into it when it goes off.</li>
