@@ -664,7 +664,7 @@ advances to the final phase.
 
 <details markdown=block>
 <summary>
-  <b>[Materialization]</b> Does the Fragment of Fate still spawn if the
+  <b>[Fragment of Fate]</b> Does the Fragment of Fate still spawn if the
   Crystals of Darkness were destroyed earlier?
 </summary>
 <table>
@@ -676,6 +676,26 @@ advances to the final phase.
       changed and the name of the raidwide that it periodically casts is named
       <em>Depths of Oblivion</em> instead of <em>Edge of Oblivion</em>. They
       both do the same amount of damage.</p>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
+  <b>[Fragment of Fate]</b> Can you heal the Fragment of Fate?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>No, the Fragment of Fate comes with an <em>Incurable</em> debuff that
+      nullifies HP restoration.</p>
+      <p>Oddly enough, <em>Adloquium/Eukrasian Diagnosis</em> still applies a
+      shield, but the shield only blocks 1HP worth of damage which won't make a
+      difference.</p>
+    </td>
+    <td style="text-align:center">
+      <img src="{{site.baseurl}}/images/ultimates/fru/04/incurable.png">
     </td>
   </tr>
 </table>
