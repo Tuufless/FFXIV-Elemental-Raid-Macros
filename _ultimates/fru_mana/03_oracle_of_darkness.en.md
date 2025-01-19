@@ -8,7 +8,7 @@ has_toc: false
 permalink: /ultimates/fru_mana/03_oracle_of_darkness/
 ---
 
-# Oracle of Darkness
+# Oracle of Darkness（闇の巫女）
 
 The Oracle of Darkness starts south, and immediately opens with *Hell's
 Judgment*, which sets everyone to 1HP.
@@ -16,7 +16,7 @@ Judgment*, which sets everyone to 1HP.
 She will then teleport to the middle of the arena and prepare her first
 major mechanic with a heavy raid-wide.
 
-## Ultimate Relativity - Y Runytivity
+## Ultimate Relativity - Poni Kone
 
 When *Ultimate Relativity* resolves, there will be a lot of debuffs that go 
 out. However, you only need to check a limited set of debuffs.

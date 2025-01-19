@@ -8,7 +8,7 @@ has_toc: false
 permalink: /ultimates/fru_mana/04_gaia_and_shiva/
 ---
 
-# Gaia and Shiva
+# Gaia and Shiva（2体フェーズ）
 
 The Usurper of Frost will respawn at either North or South, whichever is
 further from where The Oracle of Darkness was defeated.
@@ -65,7 +65,7 @@ and should be taken by the ST.
 
 They will shortly begin their first joint mechanic.
 
-## Darklit Dragonsong - Vertical spreads
+## Darklit Dragonsong（光と闇の竜詩）
 
 Both bosses will cast *Darklit Dragonsong*.
 
@@ -277,7 +277,7 @@ two bosses will tether together indicating which boss has too much HP.
 - **White tether:** The Usurper of Frost has too much HP.
 - **Purple tether:** The Oracle of Darkness has too much HP.
 
-## Crystallize Time - Nukemaru
+## Crystallize Time（時間結晶）
 
 The bosses will cast *Crystallize Time*. This is probably the hardest part of
 the encounter, so hang in there.

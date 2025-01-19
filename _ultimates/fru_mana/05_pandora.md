@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 5. Pandora
-parent: Lv 100. FRU
+parent: Lv 100. FRU (Mana)
 nav_order: 5
 has_children: false
 has_toc: false
@@ -12,7 +12,7 @@ permalink: /ultimates/fru_mana/05_pandora/
 
 After the cutscene, Pandora quickly opens with her first mechanic.
 
-## Fulgent Blade
+## Fulgent Blade（光塵の剣）
 
 The boss will cast *Fulgent Blade*, which starts with raid-wide damage. The 
 boss will also autoattack during this sequence (before casting to cast *Akh 
@@ -145,7 +145,7 @@ both tanks).
 
 After the *Akh Morn*, Pandora goes straight into the next mechanic.
 
-## Paradise Regained - Team DN
+## Paradise Regained（パラダイスリゲインド）
 
 This is the most complex mechanic of the phase.
 
@@ -273,7 +273,7 @@ instead.
 
 The boss then goes into its final mechanic of the loop.
 
-## Polarizing Strikes
+## Polarizing Strikes（星霊の剣）
 
 This is the simplest mechanic of the phase, consisting of four rounds of stack 
 damage.

@@ -1,14 +1,14 @@
 ---
 layout: default
 title: 2. Usurper of Frost
-parent: Lv 100. FRU
+parent: Lv 100. FRU (Mana)
 nav_order: 2
 has_children: false
 has_toc: false
 permalink: /ultimates/fru_mana/02_usurper_of_frost/
 ---
 
-# Usurper of Frost
+# Usurper of Frost（シヴァ・ミトロン）
 
 The boss opens the fight with *Quadruple Slap* on the player with most hate
 (which should be the MT).
@@ -20,7 +20,7 @@ The boss then teleports slightly south of center and casts *Mirror Image*
 which summons an (untargetable) Oracle's Reflection before casting *Diamond
 Dust* for heavy raid-wide damage.
 
-## Diamond Dust - Colour-coded
+## Diamond Dust（ダイヤモンド・ダスト）
 
 *Diamond Dust* resolves itself in a very similar way to *Diamond Frost* in
 Eden's Verse: Refulgence (Savage). We resolve this using the colour-coded
@@ -326,7 +326,7 @@ The Usurper of Frost reappears back in the center of the arena and casts
 *Hallowed Ray* on the party (which is a heavy-hitting line stack) before 
 starting the next set of mechanics.
 
-## Mirror, Mirror
+## Mirror, Mirror（鏡の国）
 
 The Usurper of Frost will be targetable during this mechanic.
 
