@@ -16,6 +16,12 @@ The boss opens the fight with *Quadruple Slap* on the player with most hate
 Despite the name, this is actually a "two-hit" tankbuster, but the first hit
 applies a *Physical Vulnerability Up* debuff that *can* be Esuna'ed.
 
+Both hits can be invulned by the MT. The boss will auto-attack twice after the
+tankbuster, and its damage is increased with the *Physical Vulnerability Up* 
+debuff.
+
+Consider having the ST briefly *Provoke* the boss to take the auto-attacks.
+
 The boss then teleports slightly south of center and casts *Mirror Image*
 which summons an (untargetable) Oracle's Reflection before casting *Diamond
 Dust* for heavy raid-wide damage.
@@ -23,8 +29,7 @@ Dust* for heavy raid-wide damage.
 ## Diamond Dust（ダイヤモンド・ダスト）
 
 *Diamond Dust* resolves itself in a very similar way to *Diamond Frost* in
-Eden's Verse: Refulgence (Savage). We resolve this using the colour-coded
-markers.
+Eden's Verse: Refulgence (Savage).
 
 <table>
   <tr>
@@ -217,52 +222,64 @@ markers.
   </tr>
 </table>
 
-## Sunbound Holy - Always Away
+## Sunbound Holy
 
 The Oracle's Reflection then casts *Sunbound Holy*, which targets each healer 
 four times with a 4-man stack AoE that also leaves a puddle behind. Each party 
 needs to drop these puddles and end up **either directly behind the boss**, or 
 **at least 135 degrees away from the boss**.
 
-First, let's address the "cursed" pattern, which is where the boss teleports 
-directly in front of either light party.
+Because the Usurper of Frost teleports to a random cardinal/intercardinal 
+position, we have four possible cases.
+
+Essentially (with the exception of the first puddle), the party *cannot* drop
+the puddles directly behind the Usurper of Frost.
 
 <table>
   <tr>
     <td width="50%">
-      <p>With the "cursed pattern", move as soon as the star AoEs go off. The 
-      aim is to <b>not</b> drop the first <em>Akh Morn</em> puddle directly 
-      behind the boss (marked in yellow).</p>
+      <p><b>Case 1: The Usurper of Frost is at the same position as either party.</b></p>
+      <p>Move as soon as the star AoEs go off. You can drop the first <em>Akh
+      Morn</em> puddle behind the boss (as it will disappear), but not the
+      second.</p>
       <p>After that, quickly run clockwise 180 degrees around the arena- you 
       need to drop four puddles and still make it to the other side.</p>
-      <p>When the floor turns to ice, slide so you're in front of the Oracle of 
-      Light.</p>
+      <p>When the floor turns to ice, slide so you're in front of the Usurper of 
+      Frost.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/diamond_dust_07d.jpg">
     </td>
   </tr>
-</table>
-
-If we do *not* have a cursed scenario, then we follow the "always rotate away" 
-rule. This is a consistent, 90 degree rotation that ideally goes slower rather 
-than fast (i.e: under-rotating is fine, over-rotating is not).
-
-<table>
   <tr>
-    <td width="50%">
-      <p>If the boss is 90 degrees from a party, both parties rotate away from 
-      the boss and end up directly opposite.</p>
+    <td>
+      <p><b>Case 2: The Usurper of Frost is 90s degrees from both parties.</b></p>
+      <p>In this scenario, both parties move clockwise slowly, and end up
+      directly in front and behind the Usurper of Frost.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/diamond_dust_aa_07a.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/diamond_dust_07a.jpg">
     </td>
   </tr>
   <tr>
     <td>
-      <p>If the boss is 45 degrees from a party, both parties rotate away from 
-      the boss and end up 135 degrees away from the boss.</p>
-      <p>The next movement will be slanted.</p>
+      <p><b>Case 3: The Usurper of Frost is 45 degrees anti-clockwise from a party.</b></p>
+      <p>In this scenario, both parties move clockwise quickly, and end up
+      directly in front and behind the Usurper of Frost.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/diamond_dust_07b.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>Case 4: The Usurper of Frost is 45 degrees clockwise from a party.</b></p>
+      <p>The party closest to the Oracle of Frost cannot drop their puddles
+      directly behind the Oracle of Frost, so they will slowly go 
+      anti-clockwise.</p>
+      <p>The party further from the Oracle of Frost will go slowly clockwise.</p>
+      <p>Both parties will meet 135 degrees away from the boss, and the next 
+      movement will be slanted.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/diamond_dust_aa_07b.jpg">
@@ -283,6 +300,9 @@ Oracle's Reflection to prepare for the next mechanic.
         <li>There will be a gaze attack- <b>look away from the Usurper of
         Frost</b>.</li>
       </ul>
+      <p>At this point, if you are not directly behind the Oracle's Reflection,
+      slide across the arena to be roughly opposite (in particular, if you 
+      started directly opposite the boss earlier).</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/diamond_dust_07.jpg">
@@ -293,8 +313,8 @@ Oracle's Reflection to prepare for the next mechanic.
       <p><b>10.</b> The Oracle's Reflection will now ready either <em>Twin 
       Silence</em> or <em>Twin Stillness</em>.</p>
       <ul>
-        <li><b>Twin Silence</b> <em>("Sink into Silence!")</em>: Move in front of the Oracle's Reflection.</li>
-        <li><b>Twin Stillness</b> <em>("In stillness freeze!")</em>: Move behind the Oracle's Reflection.</li>
+        <li><b>Twin Silence</b> <em>("Sink into Silence!")</em>: Slide in front of the Oracle's Reflection.</li>
+        <li><b>Twin Stillness</b> <em>("In stillness freeze!")</em>: Slide behind the Oracle's Reflection.</li>
       </ul>
     </td>
   </tr>
@@ -336,7 +356,6 @@ cardinal/intercardinal positions.
 - Blue mirrors copy the Usurper of Frost's attack, resolving at *the same
   time*.
 - Red mirrors copy the Usurper of Frost's attack, but *resolves later*.
-
 - The two red mirrors always spawn 90 degrees from one another.
 
 <table>
@@ -429,7 +448,7 @@ cardinal/intercardinal positions.
 After this, the boss will teleport to the middle and begin another signature 
 mechanic.
 
-## Light Rampant
+## Light Rampant（光の暴走）
 
 Two players at random will be selected to drop AoE puddles, while the other six
 will get tethered together *(Chains of Everlasting Light)*.
@@ -442,13 +461,6 @@ will get tethered together *(Chains of Everlasting Light)*.
 
 There will also be six stacks of *Lightsteeped* randomly distributed among the 
 party.
-
-There are three ways to resolve *Light Rampant*. In order of my personal 
-preference, they would be:
-
-1. 4:4 - East adjust
-2. MT-anchor ZizieZip
-3. 4:4 - CW adjust
 
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
 <details markdown=block>
@@ -525,12 +537,6 @@ preference, they would be:
 </details>
 </div>
 
-### Option 1 - Light Rampant (4:4 East adjust)
-
-This is my personal preference, and is the strat outlined in Lily Doll's macro
-used in Mana. The strategy outlined below follows that strat, except for how
-the puddles are dropped.
-
 <table>
   <tr>
     <td width="50%">
@@ -538,7 +544,7 @@ the puddles are dropped.
       with tanks and healers North, and DPS South.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_lucrezia_01.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_01.jpg">
     </td>
   </tr>
   <tr>
@@ -553,16 +559,16 @@ the puddles are dropped.
       <p>Six towers will also spawn around the arena.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_lucrezia_02.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_02.jpg">
     </td>
   </tr>
   <tr>
     <td>
-      <p><b>18.</b> The two puddle players move far West and East (between the 
-      towers) and prepare to drop five puddles, one after the other.</p>
+      <p><b>18.</b> The two puddle players move just South-West and North-East
+      of the center, and prepare to drop five puddles, one after the other.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_lucrezia_03.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_03.jpg">
     </td>
   </tr>
   <tr>
@@ -573,7 +579,7 @@ the puddles are dropped.
       instead.)</em></p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_lucrezia_04.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_04.jpg">
     </td>
   </tr>
   <tr>
@@ -592,21 +598,19 @@ the puddles are dropped.
       in the center.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_lucrezia_05.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_05.jpg">
     </td>
   </tr>
   <tr>
     <td>
-      <p><b>21.</b> The two puddle players move straight into the center, 
-      before turning to their left, dropping five puddles in total before 
-      joining their group NNE and SSW.</p>
-      <p>Try to keep your puddles to the same East/West side to avoid blocking
-      the path back to the center.</p>
+      <p><b>21.</b> The two puddle players drop one puddle towards the outside,
+      before rotating clockwise, dropping five puddles in total before joining
+      their group NNE and SSW.</p>
       <p>The tether players wait for their towers to resolve before collapsing 
       with their group.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_lucrezia_06.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_06.jpg">
     </td>
   </tr>
   <tr>
@@ -619,7 +623,7 @@ the puddles are dropped.
       resolved.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_lucrezia_07.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_07.jpg">
     </td>
   </tr>
   <tr>
@@ -631,7 +635,7 @@ the puddles are dropped.
       <p>A 4-man tower will spawn in the center of the arena.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_lucrezia_08.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_08.jpg">
     </td>
   </tr>
   <tr>
@@ -640,7 +644,7 @@ the puddles are dropped.
       <p><b>Check how many stacks of <em>Lightsteeped</em> you have.</b></p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_lucrezia_09.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_09.jpg">
     </td>
   </tr>
   <tr>
@@ -654,7 +658,7 @@ the puddles are dropped.
       tower.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_11.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_10.jpg">
     </td>
   </tr>
   <tr>
@@ -670,7 +674,7 @@ the puddles are dropped.
       <p><em>(In this example, the boss is doing pair stacks.)</em></p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_12.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_11.jpg">
     </td>
   </tr>
   <tr>
@@ -681,7 +685,7 @@ the puddles are dropped.
       <p>Spread out in your standard clock positions to resolve this.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_13.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_12.jpg">
     </td>
   </tr>
 </table>
@@ -690,376 +694,6 @@ The tower positions can be summarized as follows:
 
 ![]({{site.baseurl}}/images/ultimates/fru_mana/02/lr_44_east.jpg)
 *(Full-size image: [English]({{site.baseurl}}/images/ultimates/fru_mana/02/lr_44_east.jpg))*
-
-### Option 2 - Light Rampant (MT-anchor ZizieZip)
-
-This is a different method to assigning towers, which is equally viable. The 
-party is more spaced out at the start, making it easier to identify the puddle 
-players.
-
-It's a minor variation of [ZizieZip's original strat](https://twitter.com/ZizieZip/status/1861483982157947303),
-except that instead of counting from the two players with *The Weight of Light*
-debuffs (as indicated by the glowing orbs on their head), you count your
-position from a fixed player (the MT) instead.
-
-<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
-<details markdown=block>
-<summary><b>[Click to Expand] MT-anchor ZizieZip breakdown</b></summary>
-<table>
-  <tr>
-    <td width="50%">
-      <p><b>16.</b> Take up your clock positions.</p>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_zzz_01.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>17.</b> Two players at random will be selected to drop AoE puddles.</p>
-      <p>There will also be six stacks of <em>Lightsteeped</em> randomly
-      distributed among the party (although no player can start with more than
-      two stacks).</p>
-      <p>The other six players will get tethered together. The tether will 
-      likely connect to the nearest player, making a connected ring if all 
-      goes well.</p>
-      <p>Six towers will also spawn around the arena.</p>
-      <p></p>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_zzz_02.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>18.</b> The two puddle players position themselves a little West and 
-      East of the center and prepare to drop five puddles, one after the other.</p>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_zzz_03.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>19.</b> At the same time, we need to sort out the tethers.</p>
-      <p>Starting from North (where the MT is) and going clockwise, count up the 
-      tethered players.</p>
-      <p><em>(It will be easier for H1, H2, D1, D3 to count anti-clockwise from
-      D3 instead.)</em></p>
-      <p>We assign towers based on player positions in the ring:</p>
-      <ul>
-        <li><b>1st tether:</b> North tower</li>
-        <li><b>2nd tether:</b> South tower</li>
-        <li><b>3rd tether:</b> North-West tower</li>
-        <li><b>4th tether:</b> North-East tower</li>
-        <li><b>5th tether:</b> South-West tower</li>
-        <li><b>6th tether:</b> South-East tower</li>
-      </ul>
-      <p><em>(Think of this as a letter "I", followed by a "Z".)</em></p>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_zzz_05.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>20.</b> When everyone's in position, it should look like this.</p>
-      <p>It is good practice to take the tower at the edge of the arena, to
-      avoid getting accidentally clipped by the two players dropping puddles
-      in the center.</p>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_zzz_06.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>21.</b> The two puddle players will rotate clockwise, dropping 
-      five puddles in total before joining their group roughly NNW and SSE.</p>
-      <p>The tether players wait for their towers to resolve before collapsing 
-      with their group NNW and SSE.</p>
-      <p>Note that the SW and NE towers rotate clockwise, essentially flipping
-      their North/South halves.</p>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_zzz_07.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>22.</b> Three white orbs will spawn in an equilateral triangle and
-      telegraph an AoE, which you should avoid.</p>
-      <p>The timers on the two <em>The Weight of Light</em> debuffs will also
-      expire, resulting in a 4-man stack.</p>
-      <p><em>(You may need to resolve the stack inside the telegraph if
-      needed.)</em></p>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_zzz_08.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>23.</b> The tethers will disappear.</p>
-      <p>Move into the first set of explosions as another three white orbs will
-      spawn in the previously unoccupied spots and telegraph an AoE. Simply
-      avoid these.</p>
-      <p>A 4-man tower will spawn in the center of the arena.</p>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_zzz_09.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>24.</b> The second set of orbs explode.</p>
-      <p><b>Check how many stacks of <em>Lightsteeped</em> you have.</b></p>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_zzz_10.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>25.</b> We now resolve the 4-man tower in the middle.</p>
-      <ul>
-        <li><b>Players with 2 stacks of <em>Lightsteeped</em> at this
-        point:</b> Enter the tower.</li>
-      </ul>
-      <p>Everybody else move to your standard clock positions around the
-      tower.</p>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_11.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>26.</b> The boss will then cast <em>Banish III</em> again. Just
-      like before, this will either be a party spread, or pair stacks depending
-      on the number of orbs above the boss's head.</p>
-      <ul>
-        <li><b>One floating orb:</b> Pair stacks (MTD3, STD2, H1D1, H2D4).</li>
-        <li><b>Four floating orbs:</b> Party spread (stay in your clock
-        positions).</li>
-      </ul>
-      <p><em>(In this example, the boss is doing pair stacks.)</em></p>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_12.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>27.</b> Finally, the boss becomes targetable again and starts
-      casting <em>The House of Light</em>, which cleaves all players and gives
-      a stack of <em>Lightsteeped</em>.</p>
-      <p>Spread out in your standard clock positions to resolve this.</p>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_13.jpg">
-    </td>
-  </tr>
-</table>
-The tower positions can be summarized as follows:
-<img src="{{site.baseurl}}/images/ultimates/fru_mana/02/lr_mt_anchor_ziziezip.jpg">
-<em>(Full-size image: [<a href="{{site.baseurl}}/images/ultimates/fru_mana/02/lr_mt_anchor_ziziezip.jpg">English</a>])
-</details>
-</div>
-
-### Option 3 - Light Rampant (4:4 CW)
-
-This is a slight modification of the strat outlined in the Google Docs, and is
-my least preferred solution by far- I *cannot* recommend this strat in good
-faith.
-
-The only change is to the DPS lineup- we use D1 D2 D3 D4 here, instead of D3 D4
-D1 D2.
-
-<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
-<details markdown=block>
-<summary><b>[Click to Expand] 4:4 CW breakdown</b></summary>
-<table>
-  <tr>
-    <td width="50%">
-      <p><b>16.</b> Stand between the markers to make a ring around the boss 
-      with tanks and healers North, and DPS South.</p>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_44cw_01.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>17.</b> Two players at random will be selected to drop AoE puddles.</p>
-      <p>There will also be six stacks of <em>Lightsteeped</em> randomly
-      distributed among the party (although no player can start with more than
-      two stacks).</p>
-      <p>The other six players will get tethered together. The tether will 
-      likely connect to the nearest player, making a connected ring if all 
-      goes well.</p>
-      <p>Six towers will also spawn around the arena.</p>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_44cw_02.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>18.</b> The two puddle players move far West and East (between the 
-      towers) and prepare to drop five puddles, one after the other.</p>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_44cw_03.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>19.</b> At the same time, we need to sort out the tethers. The 
-      objective is to have three tethered players in the North, and three
-      tethered players in the South.</p>
-      <ul>
-        <li>If one puddle appears North, and one puddle appears South, no 
-        adjustments need to be made.</li>
-      </ul>
-      <p>If both puddles appear either North or South, we have an imbalance,
-      and the tethered players need to adjust to make it a balanced 3-3.</p>
-      <p>We rotate the party clockwise to do so:</p>
-      <ul>
-        <li>If no tank or healer has a puddle: ST rotates down.</li>
-        <li>If no DPS has a puddle: D1 rotates up.</li>
-      </ul>
-      <p><em>(In this example, there are four tethered DPS (both puddles are on
-      tanks/healers), so D1 rotates clockwise into the tank/healer row.)</em></p>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_44cw_04.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>20.</b> Once we have a hexagon, we can assign towers to the tethered 
-      players.</p>
-      <p>On the North side <em>(Note the East/West players swap sides)</em>:</p>
-      <ul>
-        <li><b>North-West player:</b> North-East tower.</li>
-        <li><b>North player:</b> South tower.</li>
-        <li><b>North-East player:</b> North-West tower.</li>
-      </ul>
-      <p>And on the South side:</p>
-      <ul>
-        <li><b>South-West player:</b> South-West tower.</li>
-        <li><b>South player:</b> North tower.</li>
-        <li><b>South-East player:</b> South-East tower.</li>
-      </ul>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_44cw_05.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>21.</b> When everyone's in position, it should look like this.</p>
-      <p>It is good practice to take the tower at the edge of the arena, to
-      avoid getting accidentally clipped by the two players dropping puddles
-      in the center.</p>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_44cw_06.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>22.</b> The two puddle players move straight into the center, 
-      before turning to their left, dropping five puddles in total before 
-      joining their group NNE and SSW.</p>
-      <p>Try to keep your puddles to the same East/West side to avoid blocking
-      the path back to the center.</p>
-      <p>The tether players wait for their towers to resolve before collapsing 
-      with their group.</p>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_44cw_07.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>23.</b> Three white orbs will spawn in an equilateral triangle and
-      telegraph an AoE, which you should avoid.</p>
-      <p>The timers on the two <em>The Weight of Light</em> debuffs will also
-      expire, resulting in a 4-man stack.</p>
-      <p><b>Wait when the stack resolves</b>- the orb AoEs have not yet
-      resolved.</p>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_44cw_08.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>24.</b> The tethers will disappear.</p>
-      <p>Move into the first set of orb explosions as another three white orbs 
-      will spawn in the previously unoccupied spots and telegraph an AoE. Simply
-      avoid these.</p>
-      <p>A 4-man tower will spawn in the center of the arena.</p>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_44cw_09.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>25.</b> The second set of orbs explode.</p>
-      <p><b>Check how many stacks of <em>Lightsteeped</em> you have.</b></p>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_44cw_10.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>26.</b> We now resolve the 4-man tower in the middle.</p>
-      <ul>
-        <li><b>Players with 2 stacks of <em>Lightsteeped</em> at this
-        point:</b> Enter the tower.</li>
-      </ul>
-      <p>Everybody else move to your standard clock positions around the
-      tower.</p>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_11.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>27.</b> The boss will then cast <em>Banish III</em> again. Just
-      like before, this will either be a party spread, or pair stacks depending
-      on the number of orbs above the boss's head.</p>
-      <ul>
-        <li><b>One floating orb:</b> Pair stacks (MTD3, STD2, H1D1, H2D4).</li>
-        <li><b>Four floating orbs:</b> Party spread (stay in your clock
-        positions).</li>
-      </ul>
-      <p><em>(In this example, the boss is doing pair stacks.)</em></p>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_12.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>28.</b> Finally, the boss becomes targetable again and starts
-      casting <em>The House of Light</em>, which cleaves all players and gives
-      a stack of <em>Lightsteeped</em>.</p>
-      <p>Spread out in your standard clock positions to resolve this.</p>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_13.jpg">
-    </td>
-  </tr>
-</table>
-</details>
-</div>
 
 A few seconds later, the boss will start to cast *Absolute Zero*. This will
 serve as the hard enrage, *unless* the boss is brought under 20.0% HP.
@@ -1123,8 +757,8 @@ This is the mini "transition" phase.
       <p>The healers and ranged DPS manage the Crystals of Darkness:</p>
       <ul>
         <li>The Crystals of Darkness will periodically aim a cone AoE at the
-        nearest player. <b>If this AoE hits a Crystal of Light, the Crystal of
-        Light gains a buff that reduces damage taken</b>, so aim them away.</li>
+        nearest player. <b>If this AoE hits a crystal, that crystal gains a
+        buff that reduces damage taken</b>, so aim them away.</li>
         <li>Help your tank/melee partner destroy their Crystal of Light.</li>
       </ul>
       <p>To avoid hitting other players, have everyone bait their 
@@ -1205,133 +839,6 @@ Gaia and turning her into the Oracle of Darkness.
       <p>The two stacks are always tethered together.</p>
       <p>Because connected players alternate between North and South, this
       results in one stack North, and one stack South.</p>
-    </td>
-  </tr>
-</table>
-</details>
-
-<details markdown=block>
-<summary>
-  <b>[Light Rampant (4:4 CW adjust)]</b> Why do I dislike 4:4 CW adjust so much?
-</summary>
-<table>
-  <tr>
-    <td width="50%">
-      <p>Compared to 4:4 East adjust, 4:4 CW adjust overcomplicates the
-      mechanic:</p>
-      <ul>
-        <li>It requires players look at more things than is necessary.</li>
-        <li>It makes 4-6 players adjust for something that can be resolved with
-        just one player adjusting.</li>
-      </ul>
-      <p>Consider D2's position in the example on the right.</p>
-      <p>With the 4:4 East adjust strat, the tower that D2 goes to is <em>fully
-      determined</em> just by looking West along their row (i.e: D1). D2 sees
-      there is no puddle on D1, therefore they are the second player in their
-      row, and are therefore taking the North tower.</p>
-      <p><b>This is <em>not</em> true for 4:4 CW adjust</b>, as both puddles
-      <em>could</em> be on the tanks/healers, meaning D2 is now the
-      <em>first</em> player in their row (after D1 rotates up), and they go to
-      the South-West tower instead. As a result, each DPS needs to look at the
-      <em>entire</em> DPS lineup instead of just looking to one side (and the
-      same goes for the tanks/healers).</p>
-      <p>As a result, compared to 4:4 East adjust, 4:4 CW adjust needs more
-      information, and adds an extra layer (rotating 4-6 players) onto
-      something that can just be resolved by just having the East-most player
-      adjust instead (only one player adjusts).</p>
-      <p>The fact that people were making macros containing <em>lookup
-      tables</em> for 4:4 CW adjust just convinces me further that I simply
-      <em>cannot</em> recommend 4:4 CW adjust as a strategy in good faith.</p>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_faq.jpg">
-    </td>
-  </tr>
-</table>
-</details>
-
-<details markdown=block>
-<summary>
-  <b>[Light Rampant (4:4 East adjust)]</b> Where's the east adjust?
-</summary>
-<table>
-  <tr>
-    <td colspan="2">
-      <p>Counting clockwise from H1 (or anti-clockwise from D1) is the same
-      thing as having the east-most player adjust to make the 3:3 hexagon.</p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" style="text-align:center">
-      <b>2:4 (puddles on two tank/healers)</b> - East-most DPS (D4) adjusts.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_44east_faq_01a.jpg">
-    </td>
-    <td width="50%">
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_44east_faq_01b.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" style="text-align:center">
-      <b>4:2 (puddles on two DPS)</b> - East-most tank/healer (ST) adjusts.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_44east_faq_02a.jpg">
-    </td>
-    <td width="50%">
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_44east_faq_02b.jpg">
-    </td>
-  </tr>
-</table>
-</details>
-
-<details markdown=block>
-<summary>
-  <b>[Light Rampant (4:4 East adjust)]</b> Why do we flip the DPS instead of
-  the tanks/healers?
-</summary>
-<table>
-  <tr>
-    <td width="50%">
-      <p>Believe it or not, this isn't done just to be different from the 4:4
-      CW adjust strat. There are a couple practical reasons why.</p>
-      <ul>
-        <li>Flipping the DPS gives the healers the closer tower (North-West), so
-        they have <em>slightly</em> more time to squeeze in any last-minute
-        healing.</li>
-        <li>Flipping the DPS also makes the tower diagram nicer, as counting 
-        clockwise "reverses" the DPS as you would count them from their 
-        right-to-left. The diagram on the right illustrates the tower numbers
-        if you flipped the tanks/healers instead.</li>
-      </ul>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/light_rampant_lucrezia_faq.jpg">
-    </td>
-  </tr>
-</table>
-</details>
-
-<details markdown=block>
-<summary>
-  <b>[Light Rampant (4:4 East adjust)]</b> Is there a reason the puddles turn
-  left instead of right?
-</summary>
-<table>
-  <tr>
-    <td>
-      <p>This is done to accommodate D4, in particular, PCT.</p>
-      <p>The PCT's possible towers with the 4:4 East adjust strat place them
-      either NE or SW.</p>
-      <p>Having the puddles turn left means that the <em>Weight of Light</em> 
-      stacks are also NE or SW, keeping them close to the PCT's towers thus
-      allowing them to paint their motifs to prepare for when the boss is
-      targetable again.</p>
     </td>
   </tr>
 </table>
@@ -1496,47 +1003,6 @@ Gaia and turning her into the Oracle of Darkness.
   </tr>
 </table>
 </details>
-
----
-
-## Changelog
-
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li>v3.3 (9 Jan 2025): Updated the 4:4 East-adjust <em>Light Rampant</em> strat puddles to turn left instead of right.</li>
-        <li>v3.2 (20 Dec 2024): Updated the 4:4 East-adjust <em>Light Rampant</em> strat to resemble Lily Doll (except for the puddles).</li>
-        <li>v3.1 (17 Dec 2024): Updated the 4:4 CW <em>Light Rampant</em> strat 
-        tank/healer positions to match the Google Doc.</li>
-        <li>v3.0 (10 Dec 2024): Modified <em>Light Rampant</em> 4:4:
-          <ul>
-            <li>Switched from a "MT/D1 anchor" strat to the "rotate CW"
-            strat.</li>
-            <li>Switched the lineup order from the Google Doc (H1H2MTST and 
-            D3D4D1D2) to better suit convention (H2H1STMT and D1D2D3D4).</li>
-            <li>Removed <em>Sunbound Holy</em> "CW priority" strat.</li>
-            <li>Updated tank/melee positions for the first <em>Scythe Kick</em>
-            during <em>Mirror, Mirror</em>.</li>
-          </ul>
-        </li>
-        <li>v2.0 (3 Dec 2024): Archived Lucrezia's version (v1.0), and 
-        updated to the Google Doc:
-          <ul>
-            <li>Updated <em>Diamond Dust</em> spreads to the colour-coded
-            strategy, with Protean baits in the first Shiva circles.</li>
-            <li>Updated Light Rampant 4:4 where tanks/healers swap sides 
-            instead of DPS. Tower assignments also count from MT/D1 instead
-            of forcing a CCW rotation.</li>
-            <li>Flipped healer/ranged positions at mirrors during <em>Mirror, 
-            Mirror</em> (H1D3 on the left, facing into the arena.)</li>
-            <li>Added ZizieZip's Light Rampant strategy as an option.</li>
-          </ul>
-        </li>
-      </ul>
-    </td>
-  </tr>
-</table>
 
 <script data-goatcounter="https://tuufless.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
