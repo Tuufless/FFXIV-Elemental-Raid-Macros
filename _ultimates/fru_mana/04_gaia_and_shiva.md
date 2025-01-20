@@ -12,6 +12,8 @@ permalink: /ultimates/fru_mana/04_gaia_and_shiva/
 
 Mana PF follows Nukemaru's strat for this phase onwards.
 
+{% include youtube.html id="nX2kfaMnCiU" %}
+
 The Usurper of Frost will respawn at either North or South, whichever is
 further from where The Oracle of Darkness was defeated.
 

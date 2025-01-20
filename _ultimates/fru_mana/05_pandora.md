@@ -10,6 +10,10 @@ permalink: /ultimates/fru_mana/05_pandora/
 
 # Pandora
 
+Mana PF also uses Nukemaru's video for this phase.
+
+{% include youtube.html id="nzpOdfOyUNo" %}
+
 After the cutscene, Pandora quickly opens with her first mechanic.
 
 ## Fulgent Blade（光塵の剣）
@@ -149,17 +153,9 @@ After the *Akh Morn*, Pandora goes straight into the next mechanic.
 
 This is the most complex mechanic of the phase.
 
-The strategy below closely resembles Team DN's method, which positions the first
-tower completely safe from the first cleave, making it slightly more involved
-for tanks, but simpler for the rest of the party.
-
-The only difference is that instead of the melee and ranged take the last two
-towers, we split the DPS left and right based on their left/right groups
-instead.
-
 <table>
   <tr>
-    <td>
+    <td width="50%">
       <p><b>12.</b> Find the first tower. Use this tower as <b>South</b>.</p>
       <ul>
         <li><b>MT:</b> Rotate to the new "North".</li>
@@ -179,11 +175,12 @@ instead.
         <li><b>MT + ST:</b> Tank swap during the <em>Wings Dark and Light</em> 
         cast.</li>
       </ul>
-      <p>The MT goes top-left or top-right (around the same height as the
-      second tower), depending on which wing glows first.</p>
+      <p>Everyone else should move to the side of the boss, depending on which
+      wing glows first. The DPS should position themselves left or right and
+      prepare to take the upcoming towers.</p>
       <ul>
-        <li><b>Light (Left) wing glows:</b> MT goes top-right.</li>
-        <li><b>Dark (Right) wing glows:</b> MT goes top-left.</li>
+        <li><b>Light (Left) wing glows:</b> Right-side is safe.</li>
+        <li><b>Dark (Right) wing glows:</b> Left-side is safe.</li>
       </ul>
       <p>A tether will also appear, which needs to go to the ST. It
       <em>cannot</em> be passed around, but instead automatically tethers to 
@@ -205,10 +202,10 @@ instead.
   </tr>
   <tr>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/05/paradise_regained_dn_02a.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru_mana/05/paradise_regained_02a.jpg">
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/05/paradise_regained_dn_02b.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru_mana/05/paradise_regained_02b.jpg">
     </td>
   </tr>
   <tr>
@@ -218,32 +215,32 @@ instead.
   </tr>
   <tr>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/05/paradise_regained_dn_03a.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru_mana/05/paradise_regained_03a.jpg">
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/05/paradise_regained_dn_03b.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru_mana/05/paradise_regained_03b.jpg">
     </td>
   </tr>
   <tr>
     <td colspan="2">
-      <p><b>15.</b> The boss will turn and cleave the MT.</p>
-      <p>The first cleave resolves together with the first tower (which should
+      <p><b>15.</b> The boss will cleave the MT with a 180 + 45 degree cleave.</p>
+      <p>This first cleave resolves together with the first tower (which should
       be taken by H1 and H2).</p>
       <ul>
         <li><b>MT:</b> If the first cleave was Dark, move out. If the first 
         cleave was Light, move in instead.</li>
         <li><b>H1, H2:</b> Move North after resolving your tower.</li>
-        <li><b>D1, D3:</b> Move to the top-left tower.</li>
-        <li><b>D2, D4:</b> Move to the top-right tower.</li>
+        <li><b>D1, D2:</b> Move to the far-side tower that was just cleaved.</li>
+        <li><b>D3, D4:</b> Stay in the near-side tower.</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/05/paradise_regained_dn_04a.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru_mana/05/paradise_regained_04a.jpg">
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/05/paradise_regained_dn_04b.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru_mana/05/paradise_regained_04b.jpg">
     </td>
   </tr>
   <tr>
@@ -255,10 +252,10 @@ instead.
   </tr>
   <tr>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/05/paradise_regained_dn_05a.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru_mana/05/paradise_regained_05a.jpg">
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/05/paradise_regained_dn_05b.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru_mana/05/paradise_regained_05b.jpg">
     </td>
   </tr>
   <tr>
@@ -324,12 +321,15 @@ damage.
 
 After this, Pandora casts *Pandora's Box*, which is a Tank LB3 check.
 
-From there, the mechanics repeat from *Fulgent Blade*. At the end of the second
-loop, Pandora casts *Paradise Lost* for enrage instead of *Pandora's Box*.
+From there, the mechanics repeat one more time from *Fulgent Blade*, and ends
+with a third round of *Fulgent Blade* into *Akh Morn*.
+
+After that, Pandora casts *Paradise Lost* as the hard enrage.
 
 Sometime during *Paradise Lost*, Ryne will exclaim *"You can weather this! I
 know you can!"* and give you 1.5 bars worth of Limit Break, which should reach
-an LB3. When she does so, *immediately* LB3 (or it will not resolve before the enrage).
+an LB3. When she does so, *immediately* LB3 (or it will not resolve before the
+enrage).
 
 ---
 
