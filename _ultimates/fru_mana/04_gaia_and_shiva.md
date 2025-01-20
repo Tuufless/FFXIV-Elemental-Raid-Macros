@@ -10,6 +10,8 @@ permalink: /ultimates/fru_mana/04_gaia_and_shiva/
 
 # Gaia and Shiva（2体フェーズ）
 
+Mana PF follows Nukemaru's strat for this phase onwards.
+
 The Usurper of Frost will respawn at either North or South, whichever is
 further from where The Oracle of Darkness was defeated.
 
@@ -31,7 +33,8 @@ you'll still be able to get practice in.)
 <table>
   <tr>
     <td width="50%">
-      <p><b>1.</b> Pull the Usurper of Frost to the middle of the arena.</p>
+      <p><b>1.</b> Stack on the two intercardinal markers where the Usurper of
+      Frost spawned.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/akh_rhai_00.jpg">
@@ -39,23 +42,13 @@ you'll still be able to get practice in.)
   </tr>
   <tr>
     <td>
-      <p><b>2.</b> Gather in the center.</p>
-      <p>The Usurper of Frost will transform into its dragon form <em>("Come to
-      me, Hraesvelgr!")</em></p>
+      <p><b>2.</b> The Usurper of Frost will transform into its dragon form
+      <em>("Come to me, Hraesvelgr!")</em>.</p>
+      <p>When the boss transforms, it will bait <em>Akh Rhai</em> AoEs where
+      each player was standing. Simply move away when the boss transforms.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/akh_rhai_01.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>3.</b> When the boss transforms, it baits <em>Akh Rhai</em> AoEs 
-      where each player was standing.</p>
-      <p>Since the party was stacked together, simply move out when the boss 
-      transforms into your starting positions for <em>Darklit Dragonsong</em>.</p>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/akh_rhai_02.jpg">
     </td>
   </tr>
 </table>
@@ -76,8 +69,8 @@ Both bosses will cast *Darklit Dragonsong*.
 <table>
   <tr>
     <td width="50%">
-      <p><b>4.</b> Line up on the East and West sides, with the tanks/melee
-      towards the south.</p>
+      <p><b>4.</b> Line up with healers and tanks along the North, and DPS
+      along the South.</p>
       <p>Two sets of debuffs come out:</p>
       <ol>
         <li>One tank, one healer, and two DPS each get <em>Refulgent Chain</em>
@@ -114,22 +107,8 @@ To summarise, the tethered healer will always go North. For everybody else:
   </tr>
   <tr>
     <td>
-      <p>If the tethers make a box, then the DPS players swap positions:</p>
-      <ul>
-        <li><b>Tank/Healers</b> stay the same as if the tethers made the
-        "bowtie":
-          <ul>
-            <li><b>North-most tether:</b> Go to the North-side tower.</li>
-            <li><b>South-most tether:</b> Go to the South-side tower.</li>
-          </ul>
-        </li>
-        <li><b>DPS</b> swap positions:
-          <ul>
-            <li><b>North-most tether:</b> Go to the <b>South-side</b> tower.</li>
-            <li><b>South-most tether:</b> Go to the <b>North-side</b> tower.</li>
-          </ul>
-        </li>
-      </ul>
+      <p>If the tethers make a box, then the tank and the east-most tethered
+      DPS swap positions.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/darklit_02b.jpg">
@@ -137,11 +116,8 @@ To summarise, the tethered healer will always go North. For everybody else:
   </tr>
   <tr>
     <td>
-      <p>If the tethers make an hourglass, then everybody rotates clockwise:</p>
-      <ul>
-        <li><b>Tanks and healers</b> go to the North-side tower.</li>
-        <li><b>DPS</b> go to the South-side tower.</li>
-      </ul>
+      <p>If the tethers make an hourglass, then the tank and the west-most
+      tethered DPS swap positions.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/darklit_02c.jpg">
@@ -161,7 +137,7 @@ With the tethers sorted out, the next thing we need to do is separate the two
       South, then the Water player and their partner swap sides.</p>
       <p>Do this <b>before the towers resolve</b>.</p>
       <p><em>(In this example, since both Water debuffs are in the North group,
-      the non-tether Water (H1) and their partner (MT) switch places.)</em></p>
+      the non-tether Water (H1) and their partner (D3) switch places.)</em></p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/darklit_03.jpg">
@@ -394,6 +370,7 @@ all the previously encountered <em>Spell-in-Waiting</em> debuffs.</p>
         <li>One will also have <em>Dark Blizzard III</em>.</li>
         <li>One will also have <em>Unholy Darkness</em>.</li>
       </ul>
+      <p>These players will need to eventually mark themselves 1-4.</p>
       <p>Identify the purple tether.</p>
       <p><em>Only</em> the blue player with <em>Dark Eruption</em> goes to the
       North-side intercardinal mark with the purple tether.</p>
@@ -505,13 +482,9 @@ the sea of mechanics.
       <p><b>18.</b> Now that all three pairs of hourglasses have resolved, the
       blue debuff players now go out to the puddles left behind to cleanse
       their debuff.</p>
-      <p>Each blue player has an assigned puddle to take:</p>
-      <ul>
-        <li><b>Dark Eruption:</b> Take the <b>West</b> puddle.</li>
-        <li><b>Blizzard III:</b> Take the <b>South-West</b> puddle.</li>
-        <li><b>Water III:</b> Take the <b>South-East</b> puddle.</li>
-        <li><b>Unholy Darkness:</b> Take the <b>East</b> puddle.</li>
-      </ul>
+      <p>Each blue player should have marked themselves 1-4 by this point. This
+      is to assign players to puddles, with 1 taking the east-most puddle and 4
+      taking the west-most.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/crystallize_time_07.jpg">
@@ -530,8 +503,6 @@ the sea of mechanics.
   <tr>
     <td>
       <p><b>20.</b> Position yourselves to dodge the second line AoE.</p>
-      <p>The objective is to end up in the <em>corner</em> where <em>both</em>
-      line AoEs originated from <em>(North-East in this example)</em>.</p>
       <p>At this point, all blue players should have cleansed their debuff.</p>
     </td>
     <td>
@@ -540,7 +511,10 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>21.</b> Dodge the second horizontal line AoE.</p>
+      <p><b>21.</b> Dodge the second horizontal line AoE and move towards the
+      center.</p>
+      <p>The <em>Quietus</em> debuffs will resolve shortly, dealing raid-wide
+      damage.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/crystallize_time_10.jpg">
@@ -556,8 +530,6 @@ the sea of mechanics.
         <li><b>Everyone else:</b> Stack near the center</li>
       </ul>
       <p>Everybody records their position in this formation.</p>
-      <p>A <em>Quietus</em> raid-wide will also go off shortly before
-      everybody's positions are recorded.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/crystallize_time_12.jpg">
@@ -636,10 +608,12 @@ MT can sacrifice themselves and take it away from the party if needed.
 Both bosses will then start casting their respective enrages (*Absolute Zero*
 and *Memory's End*).
 
-When both bosses are defeated, you will advance to the next arena. If the
-Fragment of Fate is not around, Eden's Promise will spawn and wipe the raid.
-If, on the other hand, the Fragment of Fate is still alive, then the party 
-advances to the final phase.
+When both bosses are defeated, there will be a knockback from the center, and 
+you will advance to the next arena.
+
+If the Fragment of Fate is not around, Eden's Promise will spawn and wipe the
+raid. If, on the other hand, the Fragment of Fate is still alive, then the
+party advances to the final phase.
 
 ---
 
