@@ -16,7 +16,7 @@ Judgment*, which sets everyone to 1HP.
 She will then teleport to the middle of the arena and prepare her first
 major mechanic with a heavy raid-wide.
 
-## Ultimate Relativity - Poni Kone
+## Ultimate Relativity（時間圧縮・絶）- Poni Kone
 
 When *Ultimate Relativity* resolves, there will be a lot of debuffs that go 
 out. However, you only need to check a limited set of debuffs.
@@ -180,31 +180,19 @@ The first step is to assign hourglasses to players. The basic rules are:
 - **Mid fires** go to the **purple** tethered spots.
 - **Long fires** go to the **yellow** tethered spots.
 
-This is a *tethers-relative* assigment, with a slightly modified priority to
-better match the datacenter's conventions.
+This is a *tethers-relative* assigment:
 
 <table>
   <tr>
     <td>
-      <p>The yellow tethers make a "Y-shape". Find the "Y" and orient to it.</p>
-      <p>Take up assigned clock positions based on your Fire group:</p>
-      <ul>
-        <li>For the tank/healer long Fires, use the following priority:
-          <ul>
-            <li><b>NW: </b> H1 > H2 > MT > ST <b>:NE</b></li>
-          </ul>
-        </li>
-        <li>For the DPS short Fires, use the following priority:
-          <ul>
-            <li><b>SW: </b> D1 > D2 > D3 > D4 <b>:SE</b></li>
-          </ul>
-        </li>  
-      </ul>
+      <p>The tethers make a shape like the kanji character 大. Find the 大
+      and orient to it.</p>
+      <p>Take up assigned clock positions based on your Fire group.</p>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/ultimate_relativity_Y_01.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/ultimate_relativity_01.jpg">
     </td>
   </tr>
 </table>
@@ -213,9 +201,9 @@ Once you have your assigned hourglass, you can resolve everything by staying
 in the center, only moving out to resolve specific debuffs.
 
 - When it's your turn to resolve *Dark Fire III*, do so outside.
-- When it's your turn to record, do so just a little off from the center,
-  unless your 42s debuff is *Dark Eruption*, in which case record *just* behind 
-  your hourglass.
+- When it's your turn to record:
+  - Short and Mid Fires do so *just* behind their hourglass.
+  - Long Fires do so in the center, *just* towards their hourglass.
 - When your hourglass starts spinning, go bait the laser beam.
 
 <table>
@@ -223,7 +211,8 @@ in the center, only moving out to resolve specific debuffs.
     <td width="50%">
       <p>A good trick to use when baiting your hourglass's laser is to position 
       yourself such that the hourglass frame covers the black dot in the center 
-      of the "Spell-in-Waiting" icon above your character.</p>
+      of the "Spell-in-Waiting" icon above your character (when your camera
+      faces towards the outside).</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/hourglass_bait.jpg">
@@ -384,7 +373,7 @@ After you gain control of your characters, stack up in the middle to share a
 raid-wide *Shockwave Pulsar*. The boss will then target the first player in 
 aggro with *Black Halo*, a two-player tankbuster cleave.
 
-## Apocalypse - Permaswap, Safespot Colour
+## Apocalypse（アポカリプス） - Permaswap, Apocalypse Colour
 
 The boss will be targetable for the duration of this mechanic.
 
@@ -412,7 +401,7 @@ a tank).
 <table>
   <tr>
     <td width="50%">
-      <p><b>10.</b> Group up with tanks/healers West, and DPS East, and
+      <p><b>10.</b> Group up with tanks/healers NNW, and DPS SSE, and
       <b>form a box</b>.</p>
       <p>When <em>Water III</em> debuffs come out, look within your group for
       duplicates (nothing, 10s, 29s, 38s).</p>
@@ -435,10 +424,11 @@ a tank).
   <tr>
     <td>
       <p><b>11.</b> These will be your groups for the duration of this
-      mechanic, and your spread formation for later.</p>
-      <p>If a melee DPS happens to swap with a healer (leaving three
-      tank/melee), the ST can take the rear position to give the melee DPS
-      boss uptime (shown in this example).</p>
+      mechanic.</p>
+      <p>Following the letter "Z", each group has their assigned position:</p>
+      <ul>
+        <li><b>Top-left:</b> D1 D2 MT ST D3 H1 D4 H2 <b>:Bottom-right</b></li>
+      </ul>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/apocalypse_01.jpg">
@@ -463,14 +453,14 @@ a tank).
     <td>
       <p><b>13.</b> While the Water stacks are resolving, determine your future
       safe spots.</p>
-      <p>Start from the outside lights, and look 45 degrees in the <b>opposite
-      direction</b> that the lights are travelling in (green arrows).</p>
-      <p>These will be each group's reference points in their half of the
-      arena:</p>
+      <p>Look at the outside lights- these will be each group's reference
+      points in their half of the arena:</p>
       <ul>
-        <li><b>SW to N:</b> Tank/healers (after any swaps).</li>
-        <li><b>S to NE:</b> DPS group (after any swaps).</li>
+        <li><b>W to NE:</b> Tank/healers (after any swaps).</li>
+        <li><b>SW to E:</b> DPS group (after any swaps).</li>
       </ul>
+      <p>Then, from the outside lights, and look 45 degrees in the <b>opposite
+      direction</b> that the lights are travelling in (green arrows).</p>
       <p>From these reference points, there are four more positions to take
       note of (marked with yellow arrows):</p>
       <ul>
@@ -483,8 +473,9 @@ a tank).
       </ul>
       <p>These will be your spread positions later.</p>
       <p><em>(In this example, the lights start N and S and go anti-clockwise,
-      so the reference points are NE and SW (clockwise from N/S). Thus, the
-      "base T/H" group goes SW, and the "base DPS" group goes NE.)</em></p>
+      so the "base T/H" group references N, and the "base DPS" group references
+      S. Rotating 45 degrees in the opposite direction means the "base T/H" group
+      goes NE, and the "base DPS" group goes SW.)</em></p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/apocalypse_02b.jpg">
@@ -570,7 +561,7 @@ a tank).
     <td>
       <p><b>21.</b> The second set of <em>Dark Water III</em> stacks resolve
       together with the fifth set of AoEs.</p>
-      <p>The MT moves out 90 degrees from where the first set of lights pulsed.</p>
+      <p>The ST moves out 90 degrees from where the first set of lights pulsed.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/apocalypse_10.jpg">
@@ -594,6 +585,10 @@ a tank).
       group.</p>
       <p>Everyone moves towards the boss, and positions to prepare from a
       knockback from the boss in their groups.</p>
+      <ul>
+        <li><b>Boss's back-left:</b> Base T/H group.</li>
+        <li><b>Boss's back-right:</b> Base DPS group.</li>
+      </ul>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/apocalypse_12.jpg">
@@ -728,22 +723,6 @@ must be brought down to under 20.0% HP to advance.
   </tr>
 </table>
 </details>
-
-
----
-
-## Changelog
-
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li>19 Dec 2024 (v1.1): Updated Ultimate Relativity prio from MT ST H1
-        H2 to H1 H2 MT ST.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
 
 <script data-goatcounter="https://tuufless.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
