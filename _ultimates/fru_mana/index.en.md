@@ -9,7 +9,7 @@ permalink: /ultimates/fru/mana
 
 # Futures Rewritten (Ultimate)
 
-I've been PF'ing FRU in Mana.
+I've been PF'ing FRU in Mana, and this goes over the Mana PF strat.
 
 ### BiS Notes
 
@@ -22,27 +22,24 @@ Looking towards the future:
 Patch 8.0.
 - Relic weapons (when they arrive) will have their substats capped at **393**.
 
-![]({{site.baseurl}}/fru_cheatsheet.jpg)
-*(Full-size image: [English]({{site.baseurl}}/fru_cheatsheet.jpg))*
-
 ## Markers
 
-![]({{site.baseurl}}/images/ultimates/fru/markers.jpg)
+![]({{site.baseurl}}/images/ultimates/fru_mana/markers.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
 
 ```json
 {
-  "Name":"FRU",
+  "Name":"FRU (JP)",
   "MapID":1006,
   "A":{"X":100.0,"Y":0.0,"Z":90.0,"ID":0,"Active":true},
   "B":{"X":110.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},
   "C":{"X":100.0,"Y":0.0,"Z":110.0,"ID":2,"Active":true},
   "D":{"X":90.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},
-  "One":{"X":92.929,"Y":0.0,"Z":92.929,"ID":4,"Active":true},
-  "Two":{"X":107.071,"Y":0.0,"Z":92.929,"ID":5,"Active":true},
-  "Three":{"X":107.071,"Y":0.0,"Z":107.071,"ID":6,"Active":true},
-  "Four":{"X":92.929,"Y":0.0,"Z":107.071,"ID":7,"Active":true}
+  "One":{"X":107.071,"Y":0.0,"Z":92.929,"ID":5,"Active":true},
+  "Two":{"X":107.071,"Y":0.0,"Z":107.071,"ID":6,"Active":true},
+  "Three":{"X":92.929,"Y":0.0,"Z":107.071,"ID":7,"Active":true},
+  "Four":{"X":92.929,"Y":0.0,"Z":92.929,"ID":4,"Active":true}
 }
 ```
 
