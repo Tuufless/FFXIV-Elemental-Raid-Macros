@@ -191,11 +191,11 @@ Each player is expected to carry a set of macros that do two things:
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
 <details markdown=block>
 <summary><b>[Click to Expand] Ultimate Relativity macros</b></summary>
-<p>Tank/Healer short Fire:</p>
+<p>Tank/Healer short Fire/Blizzard:</p>
 ```
 /micon attack3 marking
 /mk attack3 <me>
-/echo >---- Fast Fire: South ---- <
+/echo >---- T/H Short Fire/Blizzard: South ---- <
 /echo Out for Fire (mid if Blizzard)
 /echo Record at hourglass
 /echo Stack (Blizzard)
@@ -204,11 +204,11 @@ Each player is expected to carry a set of macros that do two things:
 /echo Face outside
 /echo >----------------------<
 ```
-<p>Tank/Healer mid Fire:</p>
+<p>Tank/Healer Mid Fire:</p>
 ```
 /micon ignore1 marking
 /mk ignore1 <me>
-/echo >---- Mid Fire: West ---- <
+/echo >---- T/H Mid Fire: West ---- <
 /echo Stack
 /echo Record at hourglass
 /echo Out for Fire
@@ -217,11 +217,11 @@ Each player is expected to carry a set of macros that do two things:
 /echo Bait laser → Dodge + face out
 /echo >----------------------<
 ```
-<p>Tank/Healer long Fire:</p>
+<p>Tank/Healer Long Fire:</p>
 ```
 /micon bind1 marking
 /mk bind <me>
-/echo >---- Long Fire: SW/SE ---- <
+/echo >---- T/H Long Fire: SW/SE ---- <
 /echo Stack
 /echo Bait laser
 /echo Stack
@@ -234,6 +234,7 @@ Each player is expected to carry a set of macros that do two things:
 ```
 /micon attack1 marking
 /mk attack <me>
+/echo >---- DPS Fast Fire: NW/NE ---- <
 /echo Out for Fire
 /echo Record at hourglass
 /echo Stack
@@ -246,6 +247,7 @@ Each player is expected to carry a set of macros that do two things:
 ```
 /micon stop2 marking
 /mk stop2 <me>
+/echo >---- DPS Mid Fire: East ---- <
 /echo Stack
 /echo Record at mid
 /echo Out for Fire
@@ -258,6 +260,7 @@ Each player is expected to carry a set of macros that do two things:
 ```
 /micon bind3 marking
 /mk bind3 <me>
+/echo >---- DPS Long Fire/Blizzard: South ---- <
 /echo Stack
 /echo Bait laser
 /echo Stack (Blizzard)
