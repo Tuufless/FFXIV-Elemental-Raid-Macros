@@ -169,11 +169,11 @@ Eden's Verse: Refulgence (Savage).
   </tr>
   <tr>
     <td colspan="2">
-      <p><b>6.</b>Everyone comes in and stacks together in preparation for a 
+      <p><b>6.</b> Everyone comes in and stacks together in preparation for a 
       knockback where the first circles were.</p>
       <ul>
-        <li><b>N to SW:</b> MT, H1, D1, D3</li>
-        <li><b>S to NE:</b> ST, H2, D2, D4</li>
+        <li><b>W to NE:</b> MT, H1, D1, D3</li>
+        <li><b>SW to E:</b> ST, H2, D2, D4</li>
       </ul>
       <p>The Oracle's Reflection will also teleport to a random cardinal or 
       intercardinal.</p>
@@ -206,10 +206,7 @@ Eden's Verse: Refulgence (Savage).
     <td colspan="2">
       <p><b>8.</b> Star AoEs resolve.</p>
       <p>Identify whether the Oracle's Reflection is, as this determines how
-      you will move in the next step:</p>
-      <p>Each group needs to move around the arena, dropping four puddles along 
-      the way such that they <b>do not drop puddles directly behind, or 
-      opposite the boss.</b></p>
+      you will move in the next step.</p>
     </td>
   </tr>
   <tr>
@@ -242,8 +239,8 @@ the puddles directly behind the Usurper of Frost.
       <p>Move as soon as the star AoEs go off. You can drop the first <em>Akh
       Morn</em> puddle behind the boss (as it will disappear), but not the
       second.</p>
-      <p>After that, quickly run clockwise 180 degrees around the arena- you 
-      need to drop four puddles and still make it to the other side.</p>
+      <p>Quickly run clockwise 180 degrees around the arena- you need to drop
+      four puddles and still make it to the other side.</p>
       <p>When the floor turns to ice, slide so you're in front of the Usurper of 
       Frost.</p>
     </td>
