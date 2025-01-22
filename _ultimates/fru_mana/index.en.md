@@ -4,12 +4,16 @@ title: Lv 100. FRU (Mana)
 nav_order: 6
 has_children: true
 has_toc: false
-permalink: /ultimates/fru/mana
+permalink: /ultimates/fru_mana
 ---
 
 # Futures Rewritten (Ultimate)
 
 I've been PF'ing FRU in Mana, and this goes over the Mana PF strat.
+
+Mana does the [new Lily Doll strat](https://jp.finalfantasyxiv.com/lodestone/character/34120564/blog/5488274/),
+which is basically Lily Doll's original strat, but has P4 and P5 replaced with
+Nukemaru's strats.
 
 ### BiS Notes
 
