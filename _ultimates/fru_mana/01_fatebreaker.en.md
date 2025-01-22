@@ -482,6 +482,9 @@ This is the last mechanic of the phase.
 After this, the boss begins to cast a *Burnished Glory* as the hard enrage for 
 the phase.
 
+Note that in order to best align cooldowns (both 2-minute bursts, and defensive
+cooldowns), you will want to defeat the Fatebreaker *as late as possible*.
+
 ---
 
 ## Frequently Asked Questions
