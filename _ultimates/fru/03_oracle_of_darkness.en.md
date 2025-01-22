@@ -480,7 +480,8 @@ a tank).
       <p><b>13.</b> While the Water stacks are resolving, determine your future
       safe spots.</p>
       <p>Start from the outside lights, and look 45 degrees in the <b>opposite
-      direction</b> that the lights are travelling in (green arrows).</p>
+      direction</b> that the lights are travelling in (marked with green 
+      arrows).</p>
       <p>These will be each group's reference points in their half of the
       arena:</p>
       <ul>
@@ -488,15 +489,13 @@ a tank).
         <li><b>S to NE:</b> DPS group (after any swaps).</li>
       </ul>
       <p>From these reference points, there are four more positions to take
-      note of (marked with yellow arrows):</p>
-      <ul>
-        <li>The near position 45 degrees in the opposite direction that the
-        lights are travelling in (towards the center).</li>
-        <li>The near position <em>another</em> 45 degrees in the opposite
-        direction that the lights are travelling in.</li>
+      note of:</p>
+      <ol>
+        <li>The near position (towards the center).</li>
+        <li>The near position <em>another</em> 45 degrees.</li>
         <li>The two far positions at the edge, 2.5 tick marks on either side of
         the cardinal/intercardinal mark.</li>
-      </ul>
+      </ol>
       <p>These will be your spread positions later.</p>
       <p><em>(In this example, the lights start N and S and go anti-clockwise,
       so the reference points are NE and SW (clockwise from N/S). Thus, the

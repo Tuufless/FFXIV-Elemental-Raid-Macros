@@ -563,12 +563,12 @@ a tank).
       the <b>opposite direction</b> that the lights are travelling in.</p>
       <p>From these reference points, there are four more positions to take
       note of (marked with yellow arrows):</p>
-      <ul>
+      <ol>
         <li>The near position (towards the center).</li>
         <li>The near position <em>another</em> 45 degrees.</li>
         <li>The two far positions at the edge, 2.5 tick marks on either side of
         the cardinal/intercardinal mark.</li>
-      </ul>
+      </ol>
       <p>These will be your spread positions later.</p>
       <p><em>(In this example, the lights start W and E and go clockwise, so
       the "base T/H" group references W, and the "base DPS" group references
