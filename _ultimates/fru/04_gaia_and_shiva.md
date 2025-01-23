@@ -294,6 +294,14 @@ two bosses will tether together indicating which boss has too much HP.
 - **White tether:** The Usurper of Frost has too much HP.
 - **Purple tether:** The Oracle of Darkness has too much HP.
 
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+  <p><b>Tip:</b> <em>Morn Afah</em> originates from the Usurper of Frost, not
+  the Oracle of Darkness.</p>
+  <p>If the HP difference is too large (i.e: the bosses are tethered together),
+  the MT (that's holding the Usurper of Frost) can sacrifice themselves to save
+  the party from wiping to <em>Morn Afah</em>.</p>
+</div>
+
 ## Crystallize Time - Nukemaru
 
 The bosses will cast *Crystallize Time*. This is probably the hardest part of
