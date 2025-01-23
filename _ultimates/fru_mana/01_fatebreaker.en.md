@@ -346,8 +346,8 @@ priorities.
     <td>
       <p><b>21.</b> With four people tethered, this leaves behind four players 
       that were not tethered.</p>
-      <p>We need to split the four untethered players so that the North
-      and South groups each have four players.</p>
+      <p>We need to split the four untethered players so that the West
+      and East groups each have four players.</p>
       <ul>
         <li>The two West-most remaining players join the West group.</li>
         <li>The two East-most remaining players join the East group.</li>
