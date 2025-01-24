@@ -302,7 +302,12 @@ two bosses will tether together indicating which boss has too much HP.
   the party from wiping to <em>Morn Afah</em>.</p>
 </div>
 
-## Crystallize Time - Nukemaru
+## Crystallize Time
+
+<div style="background-color: #200 ; padding: 10px; border: 1px solid;">
+<b>I am currently undecided on the last part of <em>Crystallize Time</em>, so
+I'm just going to list the two main ideas I'm considering.</b>
+</div>
 
 The bosses will cast *Crystallize Time*. This is probably the hardest part of
 the encounter, so hang in there.
@@ -552,6 +557,123 @@ the sea of mechanics.
       <img src="{{site.baseurl}}/images/ultimates/fru/04/crystallize_time_08.jpg">
     </td>
   </tr>
+</table>
+
+From here, there are a couple options that I am currently undecided on. A hybrid
+of the two may be ideal, but I don't have enough first-hand experience yet to
+make a decision.
+
+### Option 1 - Waymark corners
+
+This is essentially doing *Crystallize Time* "normally", except that instead of
+going all the way to the wall, we use the intercardinal waymark corners (as the
+markers are squares) for reference.
+
+This tries to give well-defined positions to record, while also trying to keep
+the party close to the center of the arena.
+
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+<details markdown=block>
+<summary><b>[Click to Expand] Waymark corners</b></summary>
+<table>
+  <tr>
+    <td>
+      <p><b>20.</b> Position yourselves to dodge the second line AoE.</p>
+      <p>The objective is to end up at the intercardinal (square) waymark where 
+      <em>both</em> line AoEs originated from <em>(North-East in this
+      example)</em>.</p>
+      <p>At this point, all blue players should have cleansed their debuff.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/04/crystallize_time_09.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>21.</b> Dodge the second horizontal line AoE.</p>
+      <p>The blue debuffed players should aim to have picked up their puddles
+      by this point.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/04/crystallize_time_10.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>22.</b> Stand on the corners of the waymark facing against the
+      direction both line AoEs came from (in this case North-East).</p>
+      <p>Facing the wall, we want:</p>
+      <ul>
+        <li><b>H1, D1, D3:</b> Relative left corner.</li>
+        <li><b>H2, D2, D4:</b> Relative left corner.</li>
+        <li><b>MT, ST:</b> Halfway along the marker edge. Position yourselves
+        in front of your group.</li>
+      </ul>
+      <p>Everybody records their position in this formation.</p>
+      <p>A <em>Quietus</em> raid-wide will also go off shortly before
+      everybody's positions are recorded.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/04/crystallize_time_wm_12.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>23.</b> After recording your position, spread out for <em>Spirit 
+      Taker</em> on a random player.</p>
+      <p>Spread out in your regular spread positions, <em>except</em> the MT,
+      who goes to the middle of the arena instead (because of the Fragment of 
+      Fate).</p>
+      <p><em>(N.B: I am not sure if there is enough time for this if you
+      recorded at the waymarks- I am aware it would make more sense for the
+      tanks to just move to the edge instead.)</em></p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/04/crystallize_time_13.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>24.</b> The rewind resolves, and the Usurper of Frost casts 
+      <em>Hallowed Wings</em> from the side where the first line AoE came from.</p>
+      <ul>
+        <li>The party gets knocked back half the arena.</li>
+        <li>The first four members hit get a <em>Magic Vulnerability</em>
+        debuff.</li>
+        <li>The first player hit takes the most damage (which should be a
+        tank), with the players at the back taking less damage.</li>
+      </ul>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/04/crystallize_time_wm_14.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>25.</b> The second <em>Hallowed Wings</em> resolves, this time from
+      North or South (wherever the second line AoE came from).</p>
+      <p>The party will get knocked back half the arena.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/04/crystallize_time_wm_15.jpg">
+    </td>
+  </tr>
+</table>
+</details>
+</div>
+
+### Option 2 - Nukemaru Y-antikb
+
+This is essentially Nukemaru's anti-kb "Y-shaped" strat that's done in Mana.
+
+While the positioning is much simpler, it has *considerable* mitigation
+requirements, which may not be ideal given the number of raid-wide damage
+events leading up to *Crystallize Time*.
+
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+<details markdown=block>
+<summary><b>[Click to Expand] Nukemaru's Y-antikb</b></summary>
+<table>
   <tr>
     <td>
       <p><b>20.</b> Position yourselves to dodge the second line AoE.</p>
@@ -635,6 +757,8 @@ the sea of mechanics.
     </td>
   </tr>
 </table>
+</details>
+</div>
 
 ## Akh Morn 2 - 7:1 (ST solo)
 

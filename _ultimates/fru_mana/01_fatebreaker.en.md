@@ -10,7 +10,7 @@ permalink: /ultimates/fru_mana/01_fatebreaker/
 
 # Fatebreaker（フェイトブレイカ）
 
-## Cyclonic Break
+## Cyclonic Break（サイクロニックブレイク）
 
 Fatebreaker opens with *Cyclonic Break*, which is a mechanic that reappears 
 shortly in the middle of *Utopian Sky*.
@@ -107,7 +107,7 @@ shortly in the middle of *Utopian Sky*.
   </tr>
 </table>
 
-## Utopian Sky
+## Utopian Sky（楽園絶技）
 
 The boss will then cast *Utopian Sky* and glow either red or blue. **Pay 
 attention to this colour.**
