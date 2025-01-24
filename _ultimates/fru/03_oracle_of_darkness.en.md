@@ -276,12 +276,12 @@ expiring. Every 5 seconds, *something* happens.
     <td>
       <p><b>3.</b> First set of records and laser baits.</p>
       <ul>
-        <li><b>Short Fire:</b> Stay outside and record your position (for
-        <em>Dark Eruption</em>).</li>
-        <li><b>Mid Fire:</b> Record your position based on your debuff:
+        <li><b>Short Fire:</b> Record your position just behind your hourglass
+        (for <em>Dark Eruption</em>).</li>
+        <li><b>Mid Fire:</b> Record your position depending on your role:
           <ul>
-            <li><b>Tank/Healer:</b> Outside.</li>
-            <li><b>DPS:</b> Inside (a little away from the center).</li>
+            <li><b>Tank/Healer:</b> Just behind your hourglass.</li>
+            <li><b>DPS:</b> Center (a little towards your hourglass).</li>
           </ul>
         </li>
         <li><b>Long Fire:</b> Bait your hourglass's laser.</li>
@@ -311,7 +311,7 @@ expiring. Every 5 seconds, *something* happens.
       <ul>
         <li><b>Short Fire:</b> Bait your hourglass's laser.</li>
         <li><b>Mid Fire:</b> Move inside.</li>
-        <li><b>Long Fire:</b> Stay inside and record your position (for
+        <li><b>Long Fire:</b> Center (a little towards your hourglass for 
         <em>Shadoweye</em>).</li>
       </ul>
       <p>Record your position in your assigned clock spot position, <b>a 
