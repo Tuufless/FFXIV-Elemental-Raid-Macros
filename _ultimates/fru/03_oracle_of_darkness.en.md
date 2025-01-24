@@ -395,6 +395,36 @@ expiring. Every 5 seconds, *something* happens.
   </tr>
 </table>
 
+I personally use the following macros to help:
+
+**Ultimate Relativity (Tanks/Healers)**
+```
+/echo 　　　　Ultimate Relativity (T/H)
+/echo ーーーーーーーーーーーーーーーーーーーーー
+/echo 　 ｜Short/Ice   ｜Mid Fire    ｜Long Fire
+/echo ーーーーーーーーーーーーーーーーーーーーー
+/echo  1.｜Out/Mid　 ｜Mid　　　 ｜Mid
+/echo  2.｜ Rewind TL｜Rewind TL｜Bait Laser
+/echo  3.｜ Mid　　　 ｜Out Fire 　｜Mid
+/echo  4.｜ Bait Laser ｜Mid　　　  ｜Rewind Mid
+/echo  5.｜ Mid　　　 ｜Mid　　　  ｜Out Fire
+/echo  6.｜ Mid　　　 ｜Bait Laser  ｜Mid　
+```
+
+**Ultimate Relativity (DPS)**
+```
+/echo 　　　　Ultimate Relativity (DPS)
+/echo ーーーーーーーーーーーーーーーーーーーーー
+/echo 　 ｜Short Fire  ｜Mid Fire    ｜Long/Ice
+/echo ーーーーーーーーーーーーーーーーーーーーー
+/echo  1.｜Out Fire  　｜Mid　　　  ｜Mid
+/echo  2.｜ Rewind TL｜Rewind TL｜Bait Laser
+/echo  3.｜ Mid　　　 ｜Out Fire 　｜Mid
+/echo  4.｜ Bait Laser ｜Mid　　　  ｜Rewind Mid
+/echo  5.｜ Mid　　　 ｜Mid　　　  ｜Out/Mid
+/echo  6.｜ Mid　　　 ｜Bait Laser  ｜Mid
+```
+
 After you gain control of your characters, stack up in the middle to share a 
 *Shell Crusher* AoE. The hourglasses will disappear, and the boss casts a 
 raid-wide *Shockwave Pulsar*. The boss will then target the first player in 
