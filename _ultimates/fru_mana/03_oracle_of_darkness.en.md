@@ -552,6 +552,8 @@ a tank).
         <li><b>W to NE:</b> Tank/healers (after any swaps).</li>
         <li><b>SW to E:</b> DPS group (after any swaps).</li>
       </ul>
+      <p><em>(N.B: Your final spread positions are </em>not necessarily<em> in
+      these sectors!)</em></p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/apocalypse_02b.jpg">
@@ -606,7 +608,7 @@ a tank).
       upcoming sets of AoEs) and end up in this formation relative to the 
       first set of pulses.</p>
       <p>All party members will get a spread marker. Just like before, spread
-      out in your previous box formation.</p>
+      out in your previous box formation in the positions at Step 14.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/apocalypse_05.jpg">
