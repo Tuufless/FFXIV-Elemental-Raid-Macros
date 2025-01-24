@@ -23,7 +23,9 @@ horizontal, but am undecided on where to record positions during
 
 - [**Darklit Dragonsong - Vertical spreads**](#darklit-dragonsong---vertical-spreads)
 - [**Akh Morn 1 - 7:1 MT solo**](#akh-morn-1---71-mt-solo)
-- [**Crystallize Time - Nukemaru (fast pop, anti-kb, Y-shaped record**](#crystallize-time---nukemaru)
+- [**Crystallize Time (fast pop)**](#crystallize-time)
+ - [**Option 1- Waymark corners**](#option-1---waymark-corners)
+ - [**Option 2- Nukemaru's Y-antikb**](#option-2---nukemaru-y-antikb)
 - [**Akh Morn 2 - 7:1 ST solo**](#akh-morn-2---71-st-solo)
 - [**Frequently Asked Questions**](#frequently-asked-questions)
 
