@@ -11,7 +11,7 @@ permalink: /ultimates/fru_mana
 
 I've been PF'ing FRU in Mana, and this goes over the Mana PF strat.
 
-Mana does the [new Lily Doll strat](https://jp.finalfantasyxiv.com/lodestone/character/34120564/blog/5488274/),
+Mana does the [new Lily Doll strat](https://jp.finalfantasyxiv.com/lodestone/character/34120564/blog/5500375/),
 which is basically Lily Doll's original strat, but has P4 and P5 replaced with
 Nukemaru's strats.
 
