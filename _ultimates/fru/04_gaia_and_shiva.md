@@ -899,7 +899,9 @@ advances to the final phase.
         they are unable to help without breaking formation.</li>
         <li>Lining the DPS up horizontally also means that the two non-tethered
         DPS could be D1+D2, or D3+D4. In such an event, either D2 or D3 would
-        have to cross over to the other side of the boss, which isn't ideal.</li>
+        have to cross over to the other side of the boss, which isn't ideal.
+        In contrast, a vertical lineup guarantees that exactly two tether
+        players are on each East/West side of the bosses.</li>
       </ul>
     </td>
   </tr>
