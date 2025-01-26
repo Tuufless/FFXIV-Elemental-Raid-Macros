@@ -88,8 +88,9 @@ Eden's Verse: Refulgence (Savage).
         <li>The players without the AoEs should be 0 or 90 degrees to a white 
         circle.</li>
       </ul>
-      <p>Swap positions within your pair if needed <em>(i.e: Swap if the AoEs 
-      spawn on the first white circles.)</em>.</p>
+      <p>This may necessitate that the entire party rotate 45 degrees clockwise
+      from their spread positions. <em>(i.e: Rotate if the AoEs spawn on the
+      first white circles.)</em>.</p>
     </td>
   </tr>
   <tr>
