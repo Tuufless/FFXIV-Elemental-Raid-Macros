@@ -33,12 +33,18 @@ collections:
   ultimates:
     permalink: "/:collection/:path/"
     output: true
+  static:
+    permalink: "/:collection/:path/"
+    output: true
 
+# The order and names here determines the order in the sidebar
 just_the_docs:
   collections:
     current:
       name: 7.1 Crossroads
     ultimates:
       name: Ultimates
+    static:
+      name: Static
     raids:
       name: Archives
