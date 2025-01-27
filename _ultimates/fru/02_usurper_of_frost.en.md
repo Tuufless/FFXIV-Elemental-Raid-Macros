@@ -82,7 +82,6 @@ Eden's Verse: Refulgence (Savage).
     <td colspan="2">
       <p><b>3.</b> Then, either the tanks/healers or the DPS will be selected 
       to drop AoEs.</p>
-      <p>Each pair (MTD3, STD4, H1D1, H2D2) is responsible for their quadrant</p>
       <ul>
         <li>The players with the AoEs should be 45 degrees to a white circle.</li>
         <li>The players without the AoEs should be 0 or 90 degrees to a white 
