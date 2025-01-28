@@ -780,17 +780,22 @@ start another 4-hit *Akh Morn* into *Morn Afah* sequence.
   </tr>
 </table>
 
-Remember that two bosses have to be within 5% HP of each other for *Morn Afah*.
-If things are looking bad, *Morn Afah* comes from the Usurper of Frost, so the
-MT can sacrifice themselves and take it away from the party if needed.
+Notably, the Fragment of Fate will do one round of *Edge of Oblivion* just
+before the *Morn Afah* resolves, so any shields will need to be reapplied.
+
+Also remember that two bosses have to be within 5% HP of each other for *Morn
+Afah*. If things are looking bad, *Morn Afah* comes from the Usurper of Frost,
+so the MT can sacrifice themselves and take it away from the party if needed.
 
 Both bosses will then start casting their respective enrages (*Absolute Zero*
 and *Memory's End*).
 
-When both bosses are defeated, you will advance to the next arena. If the
-Fragment of Fate is not around, Eden's Promise will spawn and wipe the raid.
-If, on the other hand, the Fragment of Fate is still alive, then the party 
-advances to the final phase.
+When both bosses are defeated, there will be a knockback from the center, and 
+you will advance to the next arena.
+
+If the Fragment of Fate is not around, Eden's Promise will spawn and wipe the
+raid. If, on the other hand, the Fragment of Fate is still alive, then the
+party advances to the final phase.
 
 ---
 
