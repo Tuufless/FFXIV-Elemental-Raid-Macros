@@ -209,7 +209,7 @@ We can now continue with the mechanic.
   <tr>
     <td>
       <p><b>12.</b> The Oracle of Darkness targets the furthest player for
-      <em>Somber Dance</em>.</p>
+      <em>Somber Dance</em> (宵闇の舞踏技).</p>
       <p>This is actually a two-hit tankbuster, first targeting the furthest
       player, then targeting the closest player.</p>
       <p>However, <em>unlike</em> the Savage version, both hits can be taken by

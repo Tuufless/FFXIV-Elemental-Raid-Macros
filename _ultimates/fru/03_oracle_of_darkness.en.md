@@ -670,8 +670,9 @@ a tank).
   </tr>
   <tr>
     <td>
-      <p><b>23.</b> The boss then uses <em>Darkest Dance</em>, which targets
-      the furthest player (which should be a tank) with an AoE tankbuster.</p>
+      <p><b>23.</b> The boss then uses <em>Darkest Dance</em> (暗夜の舞踏技), which
+      targets the furthest player (which should be a tank) with an AoE
+      tankbuster.</p>
       <p><b>Note:</b> <em>Either</em> tank can bait this.</p>
     </td>
     <td>
