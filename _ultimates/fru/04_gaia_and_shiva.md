@@ -513,7 +513,8 @@ the sea of mechanics.
     <td>
       <p><b>20.</b> A second line telegraph now appears, this time either 
       North or South.</p>
-      <p><b>Note which side this telegraph started on (North or South).</b></p>
+      <p><b>Note which side this telegraph started on (North or South).</b> The
+      party will spread later with this side as <b>relative North</b>.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/crystallize_time_08.jpg">
@@ -558,9 +559,12 @@ the sea of mechanics.
     <td>
       <p><b>24.</b> After recording your position, spread out for <em>Spirit 
       Taker</em> on a random player.</p>
-      <p>Spread out in your regular spread positions, <em>except</em> the MT,
-      who goes to the middle of the arena instead (because of the Fragment of 
-      Fate).</p>
+      <p><b>Using where the second line AoE originated from as north</b>:</p>
+      <ul>
+        <li><b>MT:</b> Spread relative NW <em>(do not hit the Fragment of Fate!)</em></li>
+        <li><b>ST:</b> Spread relative NE <em>(do not hit the Fragment of Fate!)</em></li>
+        <li><b>Everybody else:</b> Relative spread positions.</li>
+      </ul>
       <p>Prepare <b>heavy mitigation</b>:</p>
       <ul>
         <li><b>Tanks:</b> Use your 40% personal mitigation.</li>
@@ -568,6 +572,7 @@ the sea of mechanics.
       </ul>
       <p>When the Oracle of Darkness does her <em>Spirit Taker</em> attack,
       <b>everybody use <em>Arm's Length/Surecast</em></b>.</p>
+      <p><em>(In this example, the second line AoE originated from True-South.)</em></p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/crystallize_time_13.jpg">
