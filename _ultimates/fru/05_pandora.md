@@ -268,7 +268,9 @@ This is the most complex mechanic of the phase.
   </tr>
 </table>
 
-The boss then goes into its final mechanic of the loop.
+Have the MT *Provoke* to take the boss back, and face the boss to any of the
+eight cardinal/intercardinal markers to prepare for the final mechanic of the
+loop.
 
 ## Polarizing Strikes（星霊の剣）
 
