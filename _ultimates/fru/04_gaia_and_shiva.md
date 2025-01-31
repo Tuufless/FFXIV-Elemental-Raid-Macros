@@ -370,6 +370,10 @@ all the previously encountered <em>Spell-in-Waiting</em> debuffs.</p>
       <ul>
         <li><b>West:</b> H1 MT ST D1 D2 D3 D4 H2<b>:East</b></li>
       </ul>
+      <p>The two Blizzard players should look to see if there is a player
+      directly North of them. If there isn't anyone, that Blizzard player
+      should stand a <em>little</em> North of the center (in-line with the top
+      of the waymark), and prepare to <em>Sprint</em>.</p>
       <p>The Aero players will stand South-West and South-East, at the 
       intercardinal mark:</p>
       <ul>
@@ -432,8 +436,9 @@ the sea of mechanics.
         the nearer red Ice being late.)</em></li>
         <li>The red Ice player closest to the blue Eruption moves North to join
         them.</li>
-        <li>The red Ice player furthest from the blue Eruption moves a little
-        south of the East/West mark.</li>
+        <li>The red Ice player furthest from the blue Eruption uses <em>Sprint</em>
+        and runs North. Note- moving too early will cause the dragon head to
+        pop early and hit the Fragment of Fate.</li>
         <li>The south-side blue players should get knocked over to the other
         side of the arena.</li>
         <li>The two red Aeros step off the flower petal into the south sector.</li>
