@@ -265,8 +265,8 @@ attention to this colour.**
   </tr>
 </table>
 
-The boss will return to the arena with *Burnished Glory*, a heavy-hitting 
-raid-wide that also applies a DoT on the party.
+The boss will return to the arena with *Burnished Glory*（光焔光背）, a
+heavy-hitting raid-wide that also applies a DoT on the party.
 
 Shortly after, the boss then prepares the second mechanic combo.
 
