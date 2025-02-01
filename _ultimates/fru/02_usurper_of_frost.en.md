@@ -5,7 +5,7 @@ parent: Lv 100. FRU (Mana)
 nav_order: 2
 has_children: false
 has_toc: false
-permalink: /ultimates/fru_mana/02_usurper_of_frost/
+permalink: /ultimates/fru/02_usurper_of_frost/
 ---
 
 # Usurper of Frost（シヴァ・ミトロン）

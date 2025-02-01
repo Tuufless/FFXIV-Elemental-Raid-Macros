@@ -5,7 +5,7 @@ parent: Lv 100. FRU
 nav_order: 4
 has_children: false
 has_toc: false
-permalink: /ultimates/fru/04_gaia_and_shiva/
+permalink: /static/fru/04_gaia_and_shiva/
 ---
 
 # Gaia and Shiva

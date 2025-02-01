@@ -5,7 +5,7 @@ parent: Lv 100. FRU (Mana)
 nav_order: 1
 has_children: false
 has_toc: false
-permalink: /ultimates/fru_mana/01_fatebreaker/
+permalink: /ultimates/fru/01_fatebreaker/
 ---
 
 # Fatebreaker（フェイトブレイカ）
@@ -479,7 +479,7 @@ This is the last mechanic of the phase.
   </tr>
 </table>
 
-After this, the boss begins to cast a *Burnished Glory* as the hard enrage for 
+After this, the boss begins to cast a *Burnished Glory（）* as the hard enrage for 
 the phase.
 
 Note that in order to best align cooldowns (both 2-minute bursts, and defensive

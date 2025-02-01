@@ -5,7 +5,7 @@ parent: Lv 100. FRU
 nav_order: 5
 has_children: false
 has_toc: false
-permalink: /ultimates/fru/05_pandora/
+permalink: /static/fru/05_pandora/
 ---
 
 # Pandora

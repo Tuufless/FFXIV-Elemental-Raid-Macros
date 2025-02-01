@@ -5,7 +5,7 @@ parent: Lv 100. FRU
 nav_order: 3
 has_children: false
 has_toc: false
-permalink: /ultimates/fru/03_oracle_of_darkness/
+permalink: /static/fru/03_oracle_of_darkness/
 ---
 
 # Oracle of Darkness

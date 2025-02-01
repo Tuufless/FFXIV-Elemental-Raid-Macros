@@ -4,7 +4,7 @@ title: Lv 100. FRU (Mana)
 nav_order: 6
 has_children: true
 has_toc: false
-permalink: /ultimates/fru_mana
+permalink: /ultimates/fru/
 ---
 
 # Futures Rewritten (Ultimate)

@@ -5,7 +5,7 @@ parent: Lv 100. FRU
 nav_order: 2
 has_children: false
 has_toc: false
-permalink: /ultimates/fru/02_usurper_of_frost/
+permalink: /static/fru/02_usurper_of_frost/
 ---
 
 # Usurper of Frost
