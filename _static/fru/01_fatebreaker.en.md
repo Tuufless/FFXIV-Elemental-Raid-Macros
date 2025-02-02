@@ -189,6 +189,7 @@ attention to this colour.**
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/01/utopian_sky_05.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/01/utopian_sky_05a.jpg">
     </td>
   </tr>
   <tr>
