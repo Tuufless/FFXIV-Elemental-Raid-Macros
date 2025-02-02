@@ -715,56 +715,6 @@ party advances to the final phase.
 
 <details markdown=block>
 <summary>
-  <b>[Darklit Dragonsong]</b> Why vertical spreads (groups E/W) instead of
-  horizontal (groups N/S)?
-</summary>
-<table>
-  <tr>
-    <td>
-      <p>There are a number of problems with lining up horizontally
-      North/South, which are solved by lining up vertically instead.</p>
-      <ul>
-        <li>The Oracle of Darkness spawns south. However, if the tanks are
-        North, then the ST has to step out of formation in order to maintain
-        aggro for the upcoming <em>Akh Morn</em>, potentially confusing the
-        rest of the party.</li>
-        <li>The Oracle of Darkness also spawns a significant amount of time
-        <em>after</em> the Usurper of Frost, and their HP needs to be equalised
-        before the first <em>Morn Afah</em>. However, with the tanks North,
-        they are unable to help without breaking formation.</li>
-        <li>Lining the DPS up horizontally also means that the two non-tethered
-        DPS could be D1+D2, or D3+D4. In such an event, either D2 or D3 would
-        have to cross over to the other side of the boss, which isn't ideal.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-</details>
-
-<details markdown=block>
-<summary>
-  <b>[Darklit Dragonsong]</b> Why do we rotate instead of just swapping the
-  tank and the North-most DPS?
-</summary>
-<table>
-  <tr>
-    <td>
-      <p>With the two bosses in the way, it's quite annoying to look at the
-      other side- rotating means that all adjustments are contained to your
-      side of the bosses.</p>
-      <p>Rotating also allows both DPS to rotate into the Oracle of Darkness
-      in the event of an hourglass, which is an advantage because the Oracle
-      of Darkness will have higher HP at the time, so it's better to have DPS
-      on her instead of a tank.</p>
-      <p>Not having players cross over to the other side also means that it's
-      easier for the non-tether Water player to adjust.</p>
-    </td>
-  </tr>
-</table>
-</details>
-
-<details markdown=block>
-<summary>
   <b>[Darklit Dragonsong]</b> How close or far can you get before the tethers
   snap?
 </summary>
