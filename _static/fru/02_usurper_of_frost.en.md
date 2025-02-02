@@ -186,6 +186,8 @@ markers.
         <li><b>N to SW:</b> MT, H1, D1, D3</li>
         <li><b>S to NE:</b> ST, H2, D2, D4</li>
       </ul>
+      <p>Star-shaped AoE telegraphs <em>(Frigid Needle)</em> appear where the 
+      AoEs were dropped earlier.</p>
       <p>The Oracle's Reflection will also teleport to a random cardinal or 
       intercardinal.</p>
     </td>
