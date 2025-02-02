@@ -660,7 +660,18 @@ a tank).
   </tr>
   <tr>
     <td>
-      <p><b>22.</b> The second set of <em>Dark Water III</em> stacks resolve
+      <p><b>22.</b> There will be a white circle in the center of the arena.</p>
+      <p>Use this circle as a guide to both not get hit by the Apocalypse AoEs,
+      but also to stay far enough apart to not overlap the upcoming <em>Dark 
+      Water III</em> stacks.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/apocalypse_09a.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>23.</b> The second set of <em>Dark Water III</em> stacks resolve
       together with the fifth set of AoEs.</p>
       <p>The ST moves out 90 degrees from where the first set of lights pulsed.</p>
     </td>
@@ -670,7 +681,7 @@ a tank).
   </tr>
   <tr>
     <td>
-      <p><b>23.</b> The boss then uses <em>Darkest Dance</em> (暗夜の舞踏技), which
+      <p><b>24.</b> The boss then uses <em>Darkest Dance</em> (暗夜の舞踏技), which
       targets the furthest player (which should be a tank) with an AoE
       tankbuster.</p>
       <p><b>Note:</b> <em>Either</em> tank can bait this.</p>
@@ -681,7 +692,7 @@ a tank).
   </tr>
   <tr>
     <td>
-      <p><b>24.</b> The tank that baited <em>Darkest Dance</em> rejoins their 
+      <p><b>25.</b> The tank that baited <em>Darkest Dance</em> rejoins their 
       group.</p>
       <p>Everyone moves towards the boss, and positions to prepare from a
       knockback from the boss in their groups.</p>
@@ -696,7 +707,9 @@ a tank).
   </tr>
   <tr>
     <td>
-      <p><b>25.</b> The boss does a knockback.</p>
+      <p><b>26.</b> The boss does a knockback.</p>
+      <p>Use a shallow angle to avoid getting knocked out of the sides of the 
+      arena.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/apocalypse_13.jpg">
@@ -704,9 +717,13 @@ a tank).
   </tr>
   <tr>
     <td>
-      <p><b>26.</b> The third set of <em>Dark Water III</em> stacks resolve.</p>
+      <p><b>27.</b> The third set of <em>Dark Water III</em> stacks resolve.</p>
       <p>Resolve these near the boss- melee can use their gap closers, but will
       need to back out a little bit to meet up with the healers and ranged.</p>
+      <ul>
+        <li><b>Base T/H group:</b> Boss's back-left.</li>
+        <li><b>Base DPS group:</b> Boss's back-right.</li>
+      </ul>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/apocalypse_14.jpg">
