@@ -165,8 +165,8 @@ markers.
   <tr>
     <td colspan="2">
       <p><b>5.</b> As soon as the Axe/Scythe castbar finishes, immediately move 
-      to either dodge the first circles (if <em>Axe Kick</em>), or drop your 
-      puddles (if <em>Scythe Kick</em>).</p>
+      to either dodge the first circles (if <em>Axe Kick</em>), or stay at the
+      edge to drop your AoEs (if <em>Scythe Kick</em>).</p>
       <em>(This step happens</em> very <em>quickly.)</em>
     </td>
   </tr>
