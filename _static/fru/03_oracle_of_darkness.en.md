@@ -274,7 +274,8 @@ expiring. Every 5 seconds, *something* happens.
   </tr>
   <tr>
     <td>
-      <p><b>3.</b> First set of records and laser baits.</p>
+      <p><b>3.</b> First set of records and laser baits <em>(Sinbound
+      Meltdown)</em>.</p>
       <ul>
         <li><b>Short Fire:</b> Record your position just behind your hourglass
         (for <em>Dark Eruption</em>).</li>
