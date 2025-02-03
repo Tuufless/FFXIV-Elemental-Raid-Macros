@@ -389,14 +389,24 @@ an LB3. When she does so, *immediately* LB3 (or it will not resolve before the e
       exalines originated from (the area marked red), the more the boss
       is turned when it starts to cast <em>Akh Morn</em> and its orientation
       locked.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/fulgent_blade_faq_01.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
       <p>The more the boss is turned, the harder it is for the light party to
       make it to the other side of the boss in time.</p>
+      <p>Take note of the boss's orientation in this diagram (indicated by the
+      white dashed line), which is when the party is supposed to split into 
+      left and right groups.</p>
       <p><b>Note:</b> this is particularly pronounced when the tank does the
       "uptime" dodge, because it encourages them to dodge to that side of the
       diamond.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru/05/fulgent_blade_faq.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/fulgent_blade_faq_02.jpg">
     </td>
   </tr>
 </table>
