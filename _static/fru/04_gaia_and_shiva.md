@@ -487,6 +487,9 @@ the sea of mechanics.
       <p><b>15.</b> The second set of hourglasses explode together with the 
       blue player with <em>Unholy Darkness</em>.</p>
       <ul>
+        <li>Do not hit the Fragment of Fate! Be at least on the intercardinal
+        line (ideally on the far side)- use the intercardinal waymark as a 
+        guide.</li>
         <li>All players in the stack move to the North sector when the stack 
         resolves.</li>
       </ul>
