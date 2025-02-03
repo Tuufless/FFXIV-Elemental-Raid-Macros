@@ -69,18 +69,22 @@ both tanks).
   </tr>
   <tr>
     <td>
-      <p><b>5.</b> Dodge into the diamond (marked in green).</p>
+      <p><b>5.</b> Dodge into the diamond (marked in green), and then prepare
+      to dodge left or right (depending on which side glowed first), for the
+      next step.</p>
+      <p>Alternatively, you can dodge diagonally into the left or right corner
+      of the diamond.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru_mana/05/fulgent_blade_05.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru_mana/05/fulgent_blade_single_dodge_05.jpg">
     </td>
   </tr>
   <tr>
     <td>
-      <p><b>6.</b> When the next set of line AoEs go off, the lines will make
-      two angles- one at 90 degrees, and the other at 135 degrees (marked in
-      green).</p>
-      <p>Move <b>away</b> from the 90 degree angle.</p>
+      <p><b>6.</b> If you did not dodge diagonally, move left or right
+      (whichever side glowed first) when the next set of line AoEs go off.</p>
+      <p>If you dodged diagonally, stay where you are.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru_mana/05/fulgent_blade_06.jpg">
@@ -88,19 +92,24 @@ both tanks).
   </tr>
   <tr>
     <td>
-      <p><b>7.</b> We alternate between dodging into the diamond, and pulling
-      back again.</p>
-      <p>Here, we dodge into the diamond (marked in green).</p>
+      <p><b>7.</b> We alternate between dodging into the diamond, and dodging 
+      to the left or right again.</p>
+      <p>Here, we dodge into the diamond (marked in green), and then prepare
+      to dodge left or right (depending on which side glowed first).</p>
+      <p>Once again, you can also dodge diagonally into the left or right
+      corner of the diamond, <b>however, the MT should not do this.</b></p>
+      <p>The boss will stop following the main tank and begin to cast <em>Akh 
+      Morn</em> during this dodge.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru_mana/05/fulgent_blade_07.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru_mana/05/fulgent_blade_single_dodge_07.jpg">
     </td>
   </tr>
   <tr>
     <td>
-      <p><b>8.</b> And pull back once more.</p>
-      <p>The boss will stop following the main tank and begin to cast <em>Akh 
-      Morn</em>.</p>
+      <p><b>8.</b> And dodge left or right once more (or stay put if you dodged
+      in diagonally).</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru_mana/05/fulgent_blade_08.jpg">
@@ -109,6 +118,8 @@ both tanks).
   <tr>
     <td>
       <p><b>9.</b> This will be the third (and final) dodge into the diamond.</p>
+      <p>This time, there's no need to keep track of which side to dodge
+      towards.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru_mana/05/fulgent_blade_09.jpg">
