@@ -563,10 +563,13 @@ a tank).
       upcoming sets of AoEs) and end up in this formation relative to the 
       first set of pulses.</p>
       <p>All party members will get a spread marker. Just like before, spread
-      out in your previous box formation.</p>
+      out in your previous box formation in the positions in Step 11.</p>
+      <p>There will be a large white circle on the floor- the front positions
+      should stand on the edge of this circle to avoid the center Apocalypse.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_05.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_05a.jpg">
     </td>
   </tr>
   <tr>

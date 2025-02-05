@@ -610,9 +610,12 @@ a tank).
       first set of pulses.</p>
       <p>All party members will get a spread marker. Just like before, spread
       out in your previous box formation in the positions at Step 14.</p>
+      <p>There will be a large white circle on the floor- the front positions
+      should stand on the edge of this circle to avoid the center Apocalypse.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/apocalypse_05.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/apocalypse_05a.jpg">
     </td>
   </tr>
   <tr>
