@@ -825,6 +825,32 @@ party advances to the final phase.
 
 <details markdown=block>
 <summary>
+  <b>[Somber Dance]</b> How did the WAR die? What went wrong with
+  <em>Holmgang</em>?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p><em>Holmgang</em> has two modes- one that has a target, and one that
+      does not.</p>
+      <ul>
+        <li>If no target is selected, then the WAR can simply press
+        <em>Holmgang</em> and have it resolve.</li>
+        <li>However, <b>if a target is selected</b>, and the WAR more than 6.5
+        yalms away, the target is out of range of <em>Holmgang</em>, and
+        <b><em>Holmgang</em> will not go off.</b></li>
+      </ul>
+      <p>This is especially a problem for WAR, because they need to bait Somber
+      Dance far (i.e: further than 6.5 yalms), and are likely targeting
+      <em>something</em>.</p>
+      <p>The solution is to simply untarget before pressing <em>Holmgang</em>.</p>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
   <b>[Crystallize Time]</b> What is <em>Joyless Dragonsong</em>?
 </summary>
 <table>

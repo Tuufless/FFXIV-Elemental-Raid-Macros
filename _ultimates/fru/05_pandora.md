@@ -135,8 +135,8 @@ both tanks).
   </tr>
   <tr>
     <td>
-      <p><b>11.</b> Stack in 4-man light parties, with one party on the
-      left (facing the boss), and one party on the right.</p>
+      <p><b>11.</b> Stack in two 4-man light parties. The two parties must be
+      on Pandora's left/right sides.</p>
       <ul>
         <li><b>Left side (facing the boss):</b> MT, H1, D1, D3</li>
         <li><b>Right side (facing the boss):</b> ST, H2, D2, D4</li>
