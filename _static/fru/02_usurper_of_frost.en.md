@@ -620,8 +620,8 @@ the puddles are dropped.
       joining their group NNE and SSW.</p>
       <p>Try to keep your puddles to the same East/West side to avoid blocking
       the path back to the center.</p>
-      <p>The tether players wait for their towers to resolve before collapsing 
-      with their group.</p>
+      <p>The tether players wait for their towers to resolve <em>(Bright
+      Hunger)</em> before collapsing with their group.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_lucrezia_06.jpg">
@@ -632,7 +632,7 @@ the puddles are dropped.
       <p><b>22.</b> Three white orbs will spawn in an equilateral triangle and
       telegraph an AoE, which you should avoid.</p>
       <p>The timers on the two <em>The Weight of Light</em> debuffs will also
-      expire, resulting in a 4-man stack.</p>
+      expire, resulting in a 4-man stack <em>(Powerful Light)</em>.</p>
       <p><b>Wait when the stack resolves</b>- the orb AoEs have not yet
       resolved.</p>
     </td>
@@ -1439,6 +1439,20 @@ Gaia and turning her into the Oracle of Darkness.
 /automove off</pre>
       <p>This will make your character take one tiny step directly forward 
       where your camera is facing.</p>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
+  <b>[Light Rampant]</b> What is <em>Inescapable Illumination</em>?
+</summary>
+<table>
+  <tr>
+    <td width="50%">
+      <p><em>Inescapable Illumination</em> is the raid-wide (and damage down)
+      as a penalty for not taking a tower.</p>
     </td>
   </tr>
 </table>
