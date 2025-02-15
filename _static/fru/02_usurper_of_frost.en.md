@@ -461,12 +461,24 @@ will get tethered together *(Chains of Everlasting Light)*.
 There will also be six stacks of *Lightsteeped* randomly distributed among the 
 party.
 
-There are three ways to resolve *Light Rampant*. In order of my personal 
-preference, they would be:
+There are several ways to resolve *Light Rampant*. Essentially, the party needs
+to decide two things:
+
+1. How to resolve tethers.
+2. How to drop puddles.
+
+These are *largely* interchangeable with one another, so experiment to see what
+works for your group.
+
+The more important decision is how to deal with the tethers. In order of my
+personal preference, they would be:
 
 1. 4:4 - East adjust
 2. MT-anchor ZizieZip
 3. 4:4 - CW adjust
+
+We have decided to follow the 4:4 East adjust method to resolve the tethers,
+but are dropping puddles like ZizieZip's strat (but mirrored).
 
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
 <details markdown=block>
@@ -543,11 +555,13 @@ preference, they would be:
 </details>
 </div>
 
-### Option 1 - Light Rampant (4:4 East adjust)
+### Option 1 - "Overcooked" Light Rampant (4:4 East adjust)
 
-This is my personal preference, and is the strat outlined in Lily Doll's macro
-used in Mana. The strategy outlined below follows that strat, except for how
-the puddles are dropped.
+This is what my static is doing.
+
+It is the same tether strategy as Lily Doll's macro used in Mana, but we are
+dropping the puddles like ZizieZip (but mirrored)- I like having the puddles
+join the stack point from the front, rather than chase from behind.
 
 <table>
   <tr>
@@ -576,8 +590,9 @@ the puddles are dropped.
   </tr>
   <tr>
     <td>
-      <p><b>18.</b> The two puddle players move far West and East (between the 
-      towers) and prepare to drop five puddles, one after the other.</p>
+      <p><b>18.</b> The two puddle players move West and East of the center and
+      prepare to drop five puddles, one after the other.</p>
+      <p>There isn't really a priority here to assign who starts where.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_lucrezia_03.jpg">
@@ -615,11 +630,10 @@ the puddles are dropped.
   </tr>
   <tr>
     <td>
-      <p><b>21.</b> The two puddle players move straight into the center, 
-      before turning to their left, dropping five puddles in total before 
-      joining their group NNE and SSW.</p>
-      <p>Try to keep your puddles to the same East/West side to avoid blocking
-      the path back to the center.</p>
+      <p><b>21.</b> The two puddle players move anti-clockwise around the other
+      player's puddle, spiraling out towards the edge of the arena.</p>
+      <p>They will drop five puddles in total before joining the other players
+      NNE and SSW.</p>
       <p>The tether players wait for their towers to resolve <em>(Bright
       Hunger)</em> before collapsing with their group.</p>
     </td>
