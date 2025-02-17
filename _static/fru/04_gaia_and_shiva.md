@@ -43,9 +43,9 @@ North.
 Over the course of the phase, the Fragment of Fate will take damage. Assuming
 no player hits it with an AoE, it will survive with barely any HP.
 
-This means that if it takes *any* extra damage (e.g: from a player's AoE, or a
-poorly aimed *Spirit Taker*), the phase becomes impossible to clear (although
-you'll still be able to get practice in.)
+This means that if it takes *any* extra damage (from an enemy AoE that targets 
+a player), the phase becomes impossible to clear (although you'll still be able
+to get practice in.)
 
 <table>
   <tr>

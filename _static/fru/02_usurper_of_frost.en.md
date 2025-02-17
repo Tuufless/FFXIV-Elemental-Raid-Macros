@@ -10,7 +10,7 @@ permalink: /static/fru/02_usurper_of_frost/
 
 # Usurper of Frost
 
-This is version 3.3, that's based off the Google Doc with three options for Light
+This is version 3.4, that's based off the Google Doc with three options for Light
 Rampant.
 
 - [**Changelog**](#changelog)
@@ -235,7 +235,7 @@ markers.
   </tr>
 </table>
 
-## Sunbound Holy - Always Away
+## Sunbound Holy - Mostly CW
 
 The Oracle's Reflection then casts *Sunbound Holy*, which targets each healer 
 four times with a 4-man stack AoE that also leaves a puddle behind. Each party 
@@ -311,8 +311,10 @@ Oracle's Reflection to prepare for the next mechanic.
       <p><b>10.</b> The Oracle's Reflection will now ready either <em>Twin 
       Silence</em> or <em>Twin Stillness</em>.</p>
       <ul>
-        <li><b>Twin Silence</b> <em>("Sink into Silence!")</em>: Move in front of the Oracle's Reflection.</li>
-        <li><b>Twin Stillness</b> <em>("In stillness freeze!")</em>: Move behind the Oracle's Reflection.</li>
+        <li><b>Twin Silence</b> <em>("Sink into Silence!")</em>: Move in front
+        of the Oracle's Reflection.</li>
+        <li><b>Twin Stillness</b> <em>("In stillness freeze!")</em>: Move
+        behind the Oracle's Reflection.</li>
       </ul>
     </td>
   </tr>
