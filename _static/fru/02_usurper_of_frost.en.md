@@ -26,11 +26,19 @@ Rampant.
 - [**Frequently Asked Questions**](#frequently-asked-questions)
 - [**Troubleshooting**](#troubleshooting)
 
-The boss opens the fight with *Quadruple Slap* on the player with most hate
-(which should be the MT).
+The tank that opens this fight should be the tank that did not invuln the
+second *Powder Mark Trail* towards the end of P1 (which is usually the MT).
 
-Despite the name, this is actually a "two-hit" tankbuster, but the first hit
-applies a *Physical Vulnerability Up* debuff that *can* be Esuna'ed.
+The boss opens the fight with *Quadruple Slap* on the tank. Despite the name, 
+this is actually a "two-hit" tankbuster, but the first hit applies a *Physical 
+Vulnerability Up* debuff that *can* be Esuna'ed.
+
+Both hits can be invulned.
+
+The boss will auto-attack twice after the tankbuster, and its damage is increased with the *Physical Vulnerability Up* debuff.
+
+Either *Esuna* the *Physical Vulnerability Up*, mitigate through the two
+auto-attacks, or have the ST *Provoke* the boss to take the auto-attacks.
 
 The boss then teleports slightly south of center and casts *Mirror Image*
 which summons an (untargetable) Oracle's Reflection before casting *Diamond

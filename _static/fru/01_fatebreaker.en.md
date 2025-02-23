@@ -416,7 +416,8 @@ priorities.
   </tr>
 </table>
 
-The boss then does another *Burnished Glory*, followed by a *Powder Mark Trail*.
+The boss then does another *Burnished Glory*, followed by a *Powder Mark
+Trail*. This *Powder Mark Trail* should be invulned with the priority PLD > ST.
 
 ## Towers
 

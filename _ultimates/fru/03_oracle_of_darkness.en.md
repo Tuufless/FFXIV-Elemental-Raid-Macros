@@ -680,7 +680,8 @@ a tank).
       <p><b>23.</b> The boss then uses <em>Darkest Dance</em> (暗夜の舞踏技), which
       targets the furthest player (which should be a tank) with an AoE
       tankbuster.</p>
-      <p><b>Note:</b> <em>Either</em> tank can bait this.</p>
+      <p>The <em>Darkest Dance</em> is also usually invulned, with the priority
+      PLD > ST.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/apocalypse_11.jpg">

@@ -250,12 +250,9 @@ We can now continue with the mechanic.
       <ul>
         <li>This <em>cannot</em> be taken by a PLD, as they will need
         <em>Hallowed Ground</em> for the final phase.</li>
-        <li>This <em>can</em> be taken by a GNB, but they will not have
-        <em>Superbolide</em> available for the first <em>Wings Dark and
-        Light</em> in the final phase.</li>
+        <li>This <em>can</em> be taken by a GNB, but a fast killtime could  
+        cause <em>Superbolide</em> to not be available in time for the second <em>Wings Dark and Light</em> in the final phase.</li>
       </ul>
-      <p>Everybody else gather together underneath where the Oracle of Darkness
-      was to prevent accidentally baiting the <em>Somber Dance</em>.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/04/darklit_08.jpg">

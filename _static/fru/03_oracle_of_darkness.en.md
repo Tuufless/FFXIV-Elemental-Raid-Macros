@@ -632,9 +632,8 @@ a tank).
     <td>
       <p><b>22.</b> The boss then uses <em>Darkest Dance</em>, which targets
       the furthest player (which should be a tank) with an AoE tankbuster.</p>
-      <p><b>Note:</b> <em>Either</em> tank can bait this. However, if there is
-      a PLD in the party, they should have priority (with <em>Hallowed
-      Ground</em>.)</p>
+      <p>The <em>Darkest Dance</em> is also usually invulned, with the priority
+      PLD > ST.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/03/apocalypse_11.jpg">

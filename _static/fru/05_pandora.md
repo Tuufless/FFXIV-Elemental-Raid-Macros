@@ -247,9 +247,11 @@ instead.
   </tr>
   <tr>
     <td colspan="2">
-      <p><b>15.</b> The boss will turn and cleave the MT.</p>
-      <p>The first cleave resolves together with the first tower (which should
-      be taken by H1 and H2).</p>
+      <p><b>15.</b> The boss will cleave the MT with a 180 + 45 degree cleave 
+      and hit the tethered player (which should be the ST) with an AoE 
+      tankbuster.</p>
+      <p>This should be mitigated with all tank mitigations and/or 
+      invulnerabilities.</p>
       <ul>
         <li><b>MT:</b> If the first cleave was Dark, move out. If the first 
         cleave was Light, move in instead.</li>
@@ -269,7 +271,8 @@ instead.
   </tr>
   <tr>
     <td colspan="2">
-      <p><b>16.</b> The boss now cleaves the ST.</p>
+      <p><b>16.</b> The boss now cleaves the ST, and hits the tethered player
+      (which should now be the MT) with an AoE tankbuster.</p>
       <p>This second cleave resolves together with the second tower (which
       should be taken by two DPS).</p>
     </td>
