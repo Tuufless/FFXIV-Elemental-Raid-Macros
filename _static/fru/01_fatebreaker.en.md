@@ -520,6 +520,32 @@ cooldowns), you will want to defeat the Fatebreaker *as late as possible*.
 
 <details markdown=block>
 <summary>
+  <b>[Powder Mark Trail 2]</b> Why the PLD > ST priority for invulning this? 
+  Why not just fix it to the ST?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>This is to handle the scenario where you have a PLD MT to maximise the
+      number of invulns used.</p>
+      <ul>
+        <li>In order for a PLD to have <em>Hallowed Ground</em> available for 
+        the final <em>Wings Dark and Light</em> tankbuster in P5, a PLD will 
+        need to use <em>Hallowed Ground</em> at P3's <em>Darkest Dance</em> 
+        (instead of P4's <em>Somber Dance</em>, which is why <em>Darkest
+        Dance</em> follows a similar priority).</li>
+        <li>Then, in order for <em>Hallowed Ground</em> to be available for 
+        <em>Darkest Dance</em>, a PLD would need to use <em>Hallowed Ground</em>
+        at the second <em>Powder Mark Trail</em> in P1- it will not be 
+        available if used at <em>Quadruple Slap</em> at the start of P2.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
   <b>[Utopian Sky]</b> Why shouldn't you jump if your sector is safe?
 </summary>
 <table>
