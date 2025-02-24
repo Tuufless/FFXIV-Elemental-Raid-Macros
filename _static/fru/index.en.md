@@ -11,30 +11,6 @@ permalink: /static/fru/
 
 My FRU strat is currently a **work in progress**.
 
-<div style="padding: 10px; border: 1px solid;">
-<ul>
-  <li><b>Current version: v4.0.0</b>
-    <ul>
-      <li>Fatebreaker: v2.0.0</li>
-      <li>Usurper of Frost: v3.3.0</li>
-      <li>Oracle of Darkness: v1.1.0</li>
-      <li>Gaia and Shiva: v2.0</li>
-      <li>Pandora: v1.0</li>
-    </ul>
-  </li>
-</ul>
-</div>
-
-I'm using software's semantic versioning ("major.minor.patch") to help keep 
-track of changes while things are in flux:
-
-- Major versions change when a significant, or backwards-incompatible change is 
-  made (e.g: changing strats).
-- Minor versions change when the basic strategy is kept intact, but positions 
-  have changed.
-- Patch versions change when something minor is tweaked, like moving mitigation
-  around.
-
 <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
 <ul>
   <li><b>Getting a final strategy together will be a time-intensive process, 

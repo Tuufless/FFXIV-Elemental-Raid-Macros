@@ -10,7 +10,7 @@ permalink: /static/fru/04_gaia_and_shiva/
 
 # Gaia and Shiva
 
-This is version 2.0, that uses the vertical spread *Darklit Dragonsong* strat,
+This is version 3.0, that uses the vertical spread *Darklit Dragonsong* strat,
 and Nukemaru's strategy for *Crystallize Time* with 2x 7:1 Akh Morn stacks.
 
 <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
@@ -22,18 +22,19 @@ horizontal, but am undecided on where to record positions during
 </div>
 
 - [**Darklit Dragonsong - Vertical spreads**](#darklit-dragonsong---vertical-spreads)
-- [**Akh Morn 1 - 7:1 MT solo**](#akh-morn-1---71-mt-solo)
+- [**Akh Morn 1 - 6:2**](#akh-morn-1---62)
 - [**Crystallize Time (fast pop)**](#crystallize-time)
  - [**Option 1- Waymark corners**](#option-1---waymark-corners)
  - [**Option 2- Nukemaru's Y-antikb**](#option-2---nukemaru-y-antikb)
-- [**Akh Morn 2 - 7:1 ST solo**](#akh-morn-2---71-st-solo)
+- [**Akh Morn 2 - 6:2**](#akh-morn-2---62)
 - [**Frequently Asked Questions**](#frequently-asked-questions)
 
 The Usurper of Frost will respawn at either North or South, whichever is
 further from where The Oracle of Darkness was defeated.
 
-**Make sure the two tanks have first and second aggro on the Usurper of
-Frost**- her auto-attacks hit the top *two* players in aggro.
+**Both tanks start with their tank stance on**, and take first and second aggro
+on the Usurper of Frost- her auto-attacks hit the top *two* players in aggro,
+and we need to build hate for later.
 
 ### Fragment of Fate
 
@@ -79,8 +80,15 @@ to get practice in.)
   </tr>
 </table>
 
-The Oracle of Darkness then respawns (everyone should swap over to target her),
-and should be taken by the ST.
+The Oracle of Darkness then respawns a little east of center, before
+teleporting south.
+
+Two things need to happen:
+
+1. Both tanks **turn their tank stance off** (we do *not* want the tanks to
+   hold hate on the Oracle of Darkness).
+2. Everybody swap over and attack the Oracle of Darkness (along with the
+   2-minute burst).
 
 They will shortly begin their first joint mechanic.
 
@@ -260,7 +268,7 @@ We can now continue with the mechanic.
   </tr>
 </table>
 
-## Akh Morn 1 - 7:1 (MT solo)
+## Akh Morn 1 - 6:2
 
 The two bosses will then teleport a bit West and East of the center for *Akh
 Morn* into *Morn Afah*.
@@ -269,16 +277,15 @@ Morn* into *Morn Afah*.
   <tr>
     <td width="50%">
       <p><b>12.</b> The two bosses target whoever has their hate with a 4-hit
-      <em>Akh Morn</em> (which should be their respective tanks).</p>
-      <p>However, a tank can mitigate this to lower the damage on the party-
-      for this first <em>Akh Morn</em>, we have the MT split off.</p>
+      <em>Akh Morn</em>:</p>
       <ul>
-        <li>Done this way, each <em>Akh Morn</em> hit deals roughly 175k damage 
-        to the solo tank.</li>
-        <li><b>Note:</b> The solo tank <em>cannot</em> use their 40% mitigation,
-        as they will need it for <em>Crystallize Time</em>. Use co-tank
-        and targeted healer mitigations to help.</li>
+        <li>The Usurper of Frost should target a tank. Both tanks stack
+        together to the side.</li>
+        <li>The Oracle of Darkness should target a non-tank. The other six
+        party members stack together in the middle of the arena.</li>
       </ul>
+      <p><b>Note:</b> The solo tank <em>cannot</em> use their 40% mitigation,
+      as they will need it for <em>Crystallize Time</em>.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/04/akh_morn_01.jpg">
@@ -297,7 +304,7 @@ two bosses will tether together indicating which boss has too much HP.
   <p><b>Tip:</b> <em>Morn Afah</em> originates from the Usurper of Frost, not
   the Oracle of Darkness.</p>
   <p>If the HP difference is too large (i.e: the bosses are tethered together),
-  the MT (that's holding the Usurper of Frost) can sacrifice themselves to save
+  the tank that's holding the Usurper of Frost can sacrifice themselves to save
   the party from wiping to <em>Morn Afah</em>.</p>
 </div>
 
@@ -762,7 +769,7 @@ events leading up to *Crystallize Time*.
 </details>
 </div>
 
-## Akh Morn 2 - 7:1 (ST solo)
+## Akh Morn 2 - 6:2
 
 The two bosses will reappear around the center of the arena and immediately 
 start another 4-hit *Akh Morn* into *Morn Afah* sequence.
@@ -771,8 +778,7 @@ start another 4-hit *Akh Morn* into *Morn Afah* sequence.
   <tr>
     <td width="50%">
       <p><b>26.</b> The two bosses target whoever has their hate with a 4-hit
-      <em>Akh Morn</em> (which should be their respective tanks).</p>
-      <p>This time, we have the ST split off and take it solo.</p>
+      <em>Akh Morn</em> (which again, should be a tank, and non-tank).</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/04/akh_morn_02.jpg">
@@ -835,6 +841,30 @@ party advances to the final phase.
     </td>
     <td style="text-align:center">
       <img src="{{site.baseurl}}/images/ultimates/fru/04/incurable.png">
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
+  <b>[Tank stance]</b> Why do the tanks remove tank stance when the Oracle of 
+  Darkness spawns?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>This is done to facilitate the 6:2 <em>Akh Morn</em> strategy.</p>
+      <p>The Usurper of Frost auto-attacks the two top players in aggro- this
+      should be the two tanks.</p>
+      <p>In contrast, the Oracle of Darkness <em>does not autoattack</em>. This
+      means that a tank does not necessarily need to hold hate on the Oracle of
+      Darkness.</p>
+      <p>Resolving 6:2 <em>Akh Morn</em> is safer because a tank death does not
+      necessarily lead to a wipe. However, in order to do this, a non-tank must
+      hold aggro on the Oracle of Darkness, which is why the tanks turn their
+      stance off- we need to ensure that a healer or DPS holds her aggro
+      instead.</p>
     </td>
   </tr>
 </table>
@@ -945,6 +975,24 @@ party advances to the final phase.
     <td>
       <p>The tethers break if they are <b>shorter than around 8 yalms</b>, or
       <b>longer than around 26 yalms.</b></p>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
+  <b>[Akh Morn]</b> Why 6:2 over 7:1?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>The problem with 7:1 is that if a tank dies to either <em>Darklit 
+      Dragonsong</em> or <em>Crystallize Time</em>, the remaining tank will
+      have aggro on both bosses, and thus get both Light and Dark debuffs from 
+      <em>Akh Morn</em>, quickly leading to a wipe.</p>
+      <p>With 6:2, if either tank dies, the remaining tank can continue to
+      resolve <em>Akh Morn</em> with a 6:1 split instead.</p>
     </td>
   </tr>
 </table>
@@ -1082,6 +1130,20 @@ party advances to the final phase.
   </tr>
 </table>
 </details>
+
+---
+
+## Changelog
+
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>v2.0 (23 Feb 2025): Updated Akh Morns from 7:1 to 6:2.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <script data-goatcounter="https://tuufless.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
