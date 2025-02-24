@@ -1561,8 +1561,13 @@ Gaia and turning her into the Oracle of Darkness.
   <tr>
     <td>
       <ul>
-        <li>v3.3 (9 Jan 2025): Updated the 4:4 East-adjust <em>Light Rampant</em> strat puddles to turn left instead of right.</li>
-        <li>v3.2 (20 Dec 2024): Updated the 4:4 East-adjust <em>Light Rampant</em> strat to resemble Lily Doll (except for the puddles).</li>
+        <li>v3.4 (14 Feb 2025): Updated the 4:4 East-adjust <em>Light
+        Rampant</em> strat puddles to start from the center and go 
+        anti-clockwise (the "Overcooked" strat).</li>
+        <li>v3.3 (9 Jan 2025): Updated the 4:4 East-adjust <em>Light
+        Rampant</em> strat puddles to turn left instead of right.</li>
+        <li>v3.2 (20 Dec 2024): Updated the 4:4 East-adjust <em>Light
+        Rampant</em> strat to resemble Lily Doll (except for the puddles).</li>
         <li>v3.1 (17 Dec 2024): Updated the 4:4 CW <em>Light Rampant</em> strat 
         tank/healer positions to match the Google Doc.</li>
         <li>v3.0 (10 Dec 2024): Modified <em>Light Rampant</em> 4:4:
