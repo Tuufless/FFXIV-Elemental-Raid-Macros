@@ -518,8 +518,10 @@ the sea of mechanics.
     <td>
       <p><b>20.</b> A second line telegraph now appears, this time either 
       North or South.</p>
-      <p><b>Note which side this telegraph started on (North or South).</b> The
+      <p><b>Note which side this telegraph starts on (North or South).</b> The
       party will spread later with this side as <b>relative North</b>.</p>
+      <p>Note that if this second line AoE starts North, the blue players need 
+      to <em>quickly</em> cleanse their debuffs to make it back in time.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/crystallize_time_08.jpg">
@@ -529,6 +531,8 @@ the sea of mechanics.
     <td>
       <p><b>21.</b> Position yourselves to dodge the second line AoE.</p>
       <p>At this point, all blue players should have cleansed their debuff.</p>
+      <p>If the line AoE started North (like in this example), this is your
+      <em>last chance</em> to get to the safe side in time.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/crystallize_time_09.jpg">
@@ -566,18 +570,18 @@ the sea of mechanics.
       Taker</em> on a random player.</p>
       <p><b>Using where the second line AoE originated from as north</b>:</p>
       <ul>
-        <li><b>MT:</b> Spread relative NW <em>(do not hit the Fragment of Fate!)</em></li>
-        <li><b>ST:</b> Spread relative NE <em>(do not hit the Fragment of Fate!)</em></li>
-        <li><b>Everybody else:</b> Relative spread positions.</li>
+        <li><b>MT:</b> Spread relative far-NW</li>
+        <li><b>ST:</b> Spread relative far-NE</li>
+        <li><b>Everybody else:</b> Relative spread positions:
+          <ul>
+            <li><b>H1/H2:</b> Relative West/East.</li>
+            <li><b>D1/D2:</b> Relative South-West/South-East.</li>
+            <li><b>D3/D4:</b> Relative North-West/North-East.</li>
+          </ul>
+        </li>
       </ul>
-      <p>Prepare <b>heavy mitigation</b>:</p>
-      <ul>
-        <li><b>Tanks:</b> Use your 40% personal mitigation.</li>
-        <li>The party will need at least 3x 10% party mitigations in addition.</li>
-      </ul>
-      <p>When the Oracle of Darkness does her <em>Spirit Taker</em> attack,
-      <b>everybody use <em>Arm's Length/Surecast</em></b>.</p>
-      <p><em>(In this example, the second line AoE originated from True-South.)</em></p>
+      <p><em>Do not be near the Fragment of Fate!</em> The non-tanks can
+      spread on the waymarks.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/crystallize_time_13.jpg">
@@ -585,7 +589,22 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>25.</b> The rewind resolves, and the Usurper of Frost casts 
+      <p><b>25.</b> The Oracle of Darkness will jump on a random player with 
+      <em>Spirit Taker</em>.
+      <p>When she does so, prepare <b>heavy mitigation</b>:</p>
+      <ul>
+        <li><b>Tanks:</b> Use your 40% personal mitigation.</li>
+        <li>The party will need at least 3x 10% party mitigations in addition.</li>
+      </ul>
+      <b>Everybody also use <em>Arm's Length/Surecast</em></b>.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/crystallize_time_14.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>26.</b> The rewind resolves, and the Usurper of Frost casts 
       <em>Hallowed Wings</em> from the side where the first line AoE came from.</p>
       <ul>
         <li>The party gets knocked back half the arena, which is blocked by 
@@ -597,17 +616,17 @@ the sea of mechanics.
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/crystallize_time_14.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/crystallize_time_15.jpg">
     </td>
   </tr>
   <tr>
     <td>
-      <p><b>26.</b> The second <em>Hallowed Wings</em> resolves, this time from
+      <p><b>27.</b> The second <em>Hallowed Wings</em> resolves, this time from
       North or South (wherever the second line AoE came from).</p>
       <p>The party will get knocked back half the arena.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/crystallize_time_15.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/crystallize_time_16.jpg">
     </td>
   </tr>
 </table>
