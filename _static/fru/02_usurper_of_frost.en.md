@@ -10,13 +10,13 @@ permalink: /static/fru/02_usurper_of_frost/
 
 # Usurper of Frost
 
-This is version 3.4, that's based off the Google Doc with three options for Light
+This is version 3.5, that's based off the Google Doc with three options for Light
 Rampant.
 
 - [**Changelog**](#changelog)
 
 - [**Diamond Dust - Colour coded**](#diamond-dust---colour-coded)
-  - [**Sunbound Holy - Always Away**](#sunbound-holy---always-away)
+  - [**Sunbound Holy - Mostly CW**](#sunbound-holy---mostly-cw)
 - [**Mirror, Mirror**](#mirror-mirror)
 - [**Light Rampant**](#light-rampant)
   - [**4:4 East adjust**](#option-1---light-rampant-44-east-adjust) _or_
@@ -250,48 +250,56 @@ four times with a 4-man stack AoE that also leaves a puddle behind. Each party
 needs to drop these puddles and end up **either directly behind the boss**, or 
 **at least 135 degrees away from the boss**.
 
-First, let's address the "cursed" pattern, which is where the boss teleports 
-directly in front of either light party.
+Because the Usurper of Frost teleports to a random cardinal/intercardinal 
+position, we have four possible cases.
+
+Essentially (with the exception of the first puddle), the party *cannot* drop
+the puddles directly behind the Usurper of Frost.
 
 <table>
   <tr>
     <td width="50%">
-      <p>With the "cursed pattern", move as soon as the star AoEs go off. The 
-      aim is to <b>not</b> drop the first <em>Akh Morn</em> puddle directly 
-      behind the boss (marked in yellow).</p>
-      <p>After that, quickly run clockwise 180 degrees around the arena- you 
-      need to drop four puddles and still make it to the other side.</p>
-      <p>When the floor turns to ice, slide so you're in front of the Oracle of 
-      Light.</p>
+      <p><b>Case 1: The Usurper of Frost is at the same position as either party.</b></p>
+      <p>Move as soon as the star AoEs go off. You can drop the first <em>Akh
+      Morn</em> puddle behind the boss (as it will disappear), but not the
+      second.</p>
+      <p>Quickly run clockwise 180 degrees around the arena- you need to drop
+      four puddles and still make it to the other side.</p>
+      <p>When the floor turns to ice, slide so you're in front of the Usurper of 
+      Frost.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru/02/diamond_dust_07d.jpg">
-    </td>
-  </tr>
-</table>
-
-If we do *not* have a cursed scenario, then we follow the "always rotate away" 
-rule. This is a consistent, 90 degree rotation that ideally goes slower rather 
-than fast (i.e: under-rotating is fine, over-rotating is not).
-
-<table>
-  <tr>
-    <td width="50%">
-      <p>If the boss is 90 degrees from a party, both parties rotate away from 
-      the boss and end up directly opposite.</p>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru/02/diamond_dust_aa_07a.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/diamond_dust_07d.jpg">
     </td>
   </tr>
   <tr>
     <td>
-      <p>If the boss is 45 degrees from a party, both parties rotate away from 
-      the boss and end up 135 degrees away from the boss.</p>
-      <p>The next movement will be slanted.</p>
+      <p><b>Case 2: The Usurper of Frost is 90s degrees from both parties.</b></p>
+      <p>In this scenario, both parties move clockwise slowly, and end up
+      directly in front and behind the Usurper of Frost.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru/02/diamond_dust_aa_07b.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/diamond_dust_07a.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>Case 3: The Usurper of Frost is 45 degrees anti-clockwise from a party.</b></p>
+      <p>In this scenario, both parties move clockwise quickly, and end up
+      directly in front and behind the Usurper of Frost.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/diamond_dust_07b.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>Case 4: The Usurper of Frost is 45 degrees clockwise from a party.</b></p>
+      <p>In this scenario, both parties move <b>anti-clockwise</b> quickly, and
+      end up directly in front and behind the Usurper of Frost.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/diamond_dust_07c.jpg">
     </td>
   </tr>
 </table>
@@ -1561,6 +1569,10 @@ Gaia and turning her into the Oracle of Darkness.
   <tr>
     <td>
       <ul>
+        <li>v3.5 (26 Feb 2025): Updated <em>Sunbound Holy</em> to "Mostly CW" 
+        (we had actually updated to this several weeks ago, because it was 
+        simpler, especially with voice-comms, but I had forgotten to update it 
+        here.)</li>
         <li>v3.4 (14 Feb 2025): Updated the 4:4 East-adjust <em>Light
         Rampant</em> strat puddles to start from the center and go 
         anti-clockwise (the "Overcooked" strat).</li>
