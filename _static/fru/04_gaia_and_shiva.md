@@ -10,8 +10,8 @@ permalink: /static/fru/04_gaia_and_shiva/
 
 # Gaia and Shiva
 
-This is version 3.0, that uses the vertical spread *Darklit Dragonsong* strat,
-and Nukemaru's strategy for *Crystallize Time* with 2x 7:1 Akh Morn stacks.
+This is version 2.1, that uses the vertical spread *Darklit Dragonsong* strat,
+and Nukemaru's strategy for *Crystallize Time* with 2x 6:2 Akh Morn stacks.
 
 <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
 <p style="text-align:center"><b>Details may be missing, or subject to change
@@ -51,31 +51,22 @@ to get practice in.)
 <table>
   <tr>
     <td width="50%">
-      <p><b>1.</b> Pull the Usurper of Frost to the middle of the arena.</p>
+      <p><b>1.</b> Stack on the two intercardinal markers where the Usurper of
+      Frost spawned.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru/04/akh_rhai_00.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>2.</b> Gather in the center.</p>
-      <p>The Usurper of Frost will transform into its dragon form <em>("Come to
-      me, Hraesvelgr!")</em></p>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru/04/akh_rhai_01.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/akh_rhai_00.jpg">
     </td>
   </tr>
   <tr>
     <td>
-      <p><b>3.</b> When the boss transforms, it baits <em>Akh Rhai</em> AoEs 
-      where each player was standing.</p>
-      <p>Since the party was stacked together, simply move out when the boss 
-      transforms into your starting positions for <em>Darklit Dragonsong</em>.</p>
+      <p><b>2.</b> The Usurper of Frost will transform into its dragon form
+      <em>("Come to me, Hraesvelgr!")</em>.</p>
+      <p>When the boss transforms, it will bait <em>Akh Rhai</em> AoEs where
+      each player was standing. Simply move away when the boss transforms.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru/04/akh_rhai_02.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/akh_rhai_01.jpg">
     </td>
   </tr>
 </table>
@@ -1139,6 +1130,9 @@ party advances to the final phase.
   <tr>
     <td>
       <ul>
+        <li>v3.1 (26 Feb 2025): Switched the Akh Rhai baits from the center of
+        the arena (like NA), to the corners (like JP), as people were out of 
+        range of healing.</li>
         <li>v2.0 (23 Feb 2025): Updated Akh Morns from 7:1 to 6:2.</li>
       </ul>
     </td>
