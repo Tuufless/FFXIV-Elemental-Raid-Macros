@@ -9,15 +9,11 @@ permalink: /static/fru/
 
 # Futures Rewritten (Ultimate)
 
-My FRU strat is currently a **work in progress**.
+This documentation is primarily for my static, and is **not** what PF does (in 
+both Elemental and Mana).
 
-<div style="background-color: #200 ; padding: 10px; border: 1px solid;">
-<ul>
-  <li><b>Getting a final strategy together will be a time-intensive process, 
-  and likely won't settle until the end of Patch 7.1 (roughly March/April
-  2025).</b></li>
-</ul>
-</div>
+You are welcome to take the ideas here for your own static if you so wish, but
+I *will* be updating this as we prog and find what strategies work for us.
 
 ### BiS Notes
 
