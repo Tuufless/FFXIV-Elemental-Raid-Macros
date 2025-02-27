@@ -577,7 +577,7 @@ the party close to the center of the arena.
 <summary><b>[Click to Expand] Waymark corners</b></summary>
 <table>
   <tr>
-    <td>
+    <td width="50%">
       <p><b>20.</b> Position yourselves to dodge the second line AoE.</p>
       <p>The objective is to end up at the intercardinal (square) waymark where 
       <em>both</em> line AoEs originated from <em>(North-East in this
@@ -675,7 +675,7 @@ events leading up to *Crystallize Time*.
 <summary><b>[Click to Expand] Nukemaru's Y-antikb</b></summary>
 <table>
   <tr>
-    <td>
+    <td width="50%">
       <p><b>20.</b> Position yourselves to dodge the second line AoE.</p>
       <p>The objective is to end up in the <em>corner</em> where <em>both</em>
       line AoEs originated from <em>(North-East in this example)</em>.</p>
