@@ -582,8 +582,61 @@ a tank).
       <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/apocalypse_02c.jpg">
     </td>
   </tr>
+</table>
+
+This might take a little bit of getting used to, so here are all eight
+possible configurations:
+
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+<details markdown=block>
+<summary><b>[Click to Expand] All Apocalypse configurations</b></summary>
+<p>The following diagrams show the <em>initial</em> Apocalypse
+positions/directions, and the party's base spread positions (without any
+swaps).</p>
+<table>
   <tr>
-    <td>
+    <td width="50%" style="text-align:center">
+      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/apocalypse_ex1a.jpg">
+    </td>
+    <td style="text-align:center">
+      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/apocalypse_ex1b.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center">
+      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/apocalypse_ex2a.jpg">
+    </td>
+    <td style="text-align:center">
+      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/apocalypse_ex2b.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center">
+      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/apocalypse_ex3a.jpg">
+    </td>
+    <td style="text-align:center">
+      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/apocalypse_ex3b.jpg">
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center">
+      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/apocalypse_ex4a.jpg">
+    </td>
+    <td style="text-align:center">
+      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/apocalypse_ex4b.jpg">
+    </td>
+  </tr>
+</table>
+
+</details>
+</div>
+
+Now that the spread spots have been determined, we continue with the rest of
+the mechanic.
+
+<table>
+  <tr>
+    <td width="50%">
       <p><b>15.</b> While the water stacks were resolving, the boss also 
       readies <em>Spirit Taker</em>- the boss will jump on a random target
       with an AoE attack that knocks anyone else hit out of the arena.</p>
