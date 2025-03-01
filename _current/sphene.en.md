@@ -87,6 +87,12 @@ players to resolve *Radical Shift* with minimal adjustments.
 
 ---
 
+## Virtual Shift 3 (Ice)
+![]({{site.baseurl}}/images/7.0_dawntrail/sphene/ice_bridges.jpg)
+*(Credit: [Game8](https://game8.jp/ff14/641571))*
+
+---
+
 ## Frequently Asked Questions
 
 <details markdown=block>
