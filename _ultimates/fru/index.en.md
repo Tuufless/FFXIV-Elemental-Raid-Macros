@@ -38,6 +38,7 @@ Here are some clear PoVs that I've been collecting.
 - [H2 PoV (SCH)](https://youtu.be/r69DXp-O3_g)
 - [D2 PoV (NIN)](https://youtu.be/m6EVjNmyGUU)
 - [D3 PoV (BRD)](https://youtu.be/vkUfqQi5qFo)
+- [D4 PoV (PCT)](https://youtu.be/Lg_H3FXANDc)
 
 ---
 
