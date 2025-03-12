@@ -10,22 +10,6 @@ permalink: /static/fru/03_oracle_of_darkness/
 
 # Oracle of Darkness
 
-This is version 1.1, that's based off the Google Doc. The main differences are:
-
-- The priority for *Ultimate Relativity* is "H > T > **M > R**" instead of "H > T > **R > M**".
-- *Apocalypse* is resolved with the permaswap, coloured safespots strat.
-
-<div style="background-color: #200 ; padding: 10px; border: 1px solid;">
-<p style="text-align:center"><b>Details may be missing, or subject to change
-until I have better first-hand experience.</b></p>
-</div>
-
-- [**Ultimate Relativity - Y Runytivity**](#ultimate-relativity---y-runytivity)
-- [**Apocalypse - Permaswap, Safespot Colour**](#apocalypse---permaswap-coloured-safespots)
-- [**Frequently Asked Questions**](#frequently-asked-questions)
-- [**Troubleshooting**](#troubleshooting)
-- [**Changelog**](#changelog)
-
 The Oracle of Darkness starts south, and immediately opens with *Hell's
 Judgment*, which sets everyone to 1HP.
 

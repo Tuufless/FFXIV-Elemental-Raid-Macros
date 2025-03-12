@@ -10,15 +10,6 @@ permalink: /static/fru/01_fatebreaker/
 
 # Fatebreaker
 
-This is version 2.0, that takes the raidplan and Discord polls together.
-
-- [**Cyclonic Break**](#cyclonic-break)
-- [**Utopian Sky**](#utopian-sky)
-- [**Fall of Faith**](#fall-of-faith)
-- [**Towers**](#towers)
-- [**Frequently Asked Questions**](#frequently-asked-questions)
-- [**Changelog**](#changelog)
-
 ## Cyclonic Break
 
 Fatebreaker opens with *Cyclonic Break*, which is a mechanic that reappears 
@@ -232,8 +223,7 @@ attention to this colour.**
       <p>Because the <em>Prey</em> targets are random, there may be a need to
       adjust, based on how many Prey markers are in your group:</p>
       <ul>
-        <li><b>If your group has 2 Prey markers:</b> MT/D1 > ST/D2 > H1/D3 >
-        H2/D4 swaps groups.</li>
+        <li><b>If your group has 2 Prey markers:</b> MT/D1 > ST/D2 > H1/D3 swaps groups (H2/D4 will never swap).</li>
         <li><b>If your group has no Prey markers:</b> MT/D1 swaps groups.</li>
       </ul>
       <p>Stack together in your north/south groups and wait for a clone to do a second <em>Burnt Strike</em> (Fire) from north-to-south.</p>

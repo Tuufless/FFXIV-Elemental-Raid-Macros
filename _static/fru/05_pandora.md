@@ -10,16 +10,6 @@ permalink: /static/fru/05_pandora/
 
 # Pandora
 
-This is version 1.0.
-
-<div style="background-color: #200 ; padding: 10px; border: 1px solid;">
-<p style="text-align:center"><b>Details may be missing, or subject to change until I have better first-hand experience.</b></p>
-</div>
-
-- [**Fulgent Blade**](#fulgent-blade)
-- [**Paradise Regained - Team DN**](#paradise-regained---team-dn)
-- [**Polarizing Strikes**](#polarizing-strikes)
-
 After the cutscene, Pandora quickly opens with her first mechanic.
 
 ## Fulgent Blade

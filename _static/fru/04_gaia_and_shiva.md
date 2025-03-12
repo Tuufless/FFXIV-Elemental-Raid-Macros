@@ -10,25 +10,6 @@ permalink: /static/fru/04_gaia_and_shiva/
 
 # Gaia and Shiva
 
-This is version 2.1, that uses the vertical spread *Darklit Dragonsong* strat,
-and Nukemaru's strategy for *Crystallize Time* with 2x 6:2 Akh Morn stacks.
-
-<div style="background-color: #200 ; padding: 10px; border: 1px solid;">
-<p style="text-align:center"><b>Details may be missing, or subject to change
-until I have better first-hand experience.</b></p>
-<p>I am <em>pretty sure</em> I want to go with vertical Darklit over 
-horizontal, but am undecided on where to record positions during 
-<em>Crystallize Time</em>.</p>
-</div>
-
-- [**Darklit Dragonsong - Vertical spreads**](#darklit-dragonsong---vertical-spreads)
-- [**Akh Morn 1 - 6:2**](#akh-morn-1---62)
-- [**Crystallize Time (fast pop)**](#crystallize-time)
- - [**Option 1- Waymark corners**](#option-1---waymark-corners)
- - [**Option 2- Nukemaru's Y-antikb**](#option-2---nukemaru-y-antikb)
-- [**Akh Morn 2 - 6:2**](#akh-morn-2---62)
-- [**Frequently Asked Questions**](#frequently-asked-questions)
-
 The Usurper of Frost will respawn at either North or South, whichever is
 further from where The Oracle of Darkness was defeated.
 
@@ -110,8 +91,7 @@ Both bosses will cast *Darklit Dragonsong*.
   </tr>
 </table>
 
-To resolve the tethers, we have to make a "bowtie" shape- this is the same as
-how *Light Rampant* was solved in *Eden's Verse- Refulgence*.
+To resolve the tethers, we need the tethers to make a "bowtie".
 
 To summarise, the tethered healer will always go North. For everybody else:
 
@@ -250,8 +230,13 @@ We can now continue with the mechanic.
         <li>This <em>cannot</em> be taken by a PLD, as they will need
         <em>Hallowed Ground</em> for the final phase.</li>
         <li>This <em>can</em> be taken by a GNB, but a fast killtime could  
-        cause <em>Superbolide</em> to not be available in time for the second <em>Wings Dark and Light</em> in the final phase.</li>
+        cause <em>Superbolide</em> to not be available in time for the second 
+        <em>Wings Dark and Light</em> in the final phase.</li>
       </ul>
+      <p><b>Both tanks should also use <em>Rampart</em> during <em>Somber 
+      Dance</em></b>- this will last long enough to cover the upcoming <em>Akh 
+      Morn</em>, and be back in time for the second <em>Akh Morn</em> after 
+      <em>Crystallize Time</em>.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/04/darklit_08.jpg">
@@ -300,11 +285,6 @@ two bosses will tether together indicating which boss has too much HP.
 </div>
 
 ## Crystallize Time
-
-<div style="background-color: #200 ; padding: 10px; border: 1px solid;">
-<b>I am currently undecided on the last part of <em>Crystallize Time</em>, so
-I'm just going to list the two main ideas I'm considering.</b>
-</div>
 
 The bosses will cast *Crystallize Time*. This is probably the hardest part of
 the encounter, so hang in there.
@@ -388,6 +368,13 @@ all the previously encountered <em>Spell-in-Waiting</em> debuffs.</p>
 </table>
 </details>
 </div>
+
+We have chosen to go with Nukemaru's anti-kb "Y-shaped" strat that's done in 
+Mana.
+
+While the positioning is much simpler, it has *considerable* mitigation
+requirements. Both tanks will need their 40% personal mitigations, and you
+will also need *at least* three 10% party-mitigations.
 
 <table>
   <tr>
@@ -557,128 +544,9 @@ the sea of mechanics.
       <img src="{{site.baseurl}}/images/ultimates/fru/04/crystallize_time_08.jpg">
     </td>
   </tr>
-</table>
-
-From here, there are a couple options that I am currently undecided on. A hybrid
-of the two may be ideal, but I don't have enough first-hand experience yet to
-make a decision.
-
-### Option 1 - Waymark corners
-
-This is essentially doing *Crystallize Time* "normally", except that instead of
-going all the way to the wall, we use the intercardinal waymark corners (as the
-markers are squares) for reference.
-
-This tries to give well-defined positions to record, while also trying to keep
-the party close to the center of the arena.
-
-<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
-<details markdown=block>
-<summary><b>[Click to Expand] Waymark corners</b></summary>
-<table>
   <tr>
-    <td width="50%">
+    <td>
       <p><b>20.</b> Position yourselves to dodge the second line AoE.</p>
-      <p>The objective is to end up at the intercardinal (square) waymark where 
-      <em>both</em> line AoEs originated from <em>(North-East in this
-      example)</em>.</p>
-      <p>At this point, all blue players should have cleansed their debuff.</p>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru/04/crystallize_time_09.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>21.</b> Dodge the second horizontal line AoE.</p>
-      <p>The blue debuffed players should aim to have picked up their puddles
-      by this point.</p>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru/04/crystallize_time_10.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>22.</b> Stand on the corners of the waymark facing against the
-      direction both line AoEs came from (in this case North-East).</p>
-      <p>Facing the wall, we want:</p>
-      <ul>
-        <li><b>H1, D1, D3:</b> Relative left corner.</li>
-        <li><b>H2, D2, D4:</b> Relative left corner.</li>
-        <li><b>MT, ST:</b> Halfway along the marker edge. Position yourselves
-        in front of your group.</li>
-      </ul>
-      <p>Everybody records their position in this formation.</p>
-      <p>A <em>Quietus</em> raid-wide will also go off shortly before
-      everybody's positions are recorded.</p>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru/04/crystallize_time_wm_12.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>23.</b> After recording your position, spread out for <em>Spirit 
-      Taker</em> on a random player.</p>
-      <p>Spread out in your regular spread positions, <em>except</em> the MT,
-      who goes to the middle of the arena instead (because of the Fragment of 
-      Fate).</p>
-      <p><em>(N.B: I am not sure if there is enough time for this if you
-      recorded at the waymarks- I am aware it would make more sense for the
-      tanks to just move to the edge instead.)</em></p>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru/04/crystallize_time_13.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>24.</b> The rewind resolves, and the Usurper of Frost casts 
-      <em>Hallowed Wings</em> from the side where the first line AoE came from.</p>
-      <ul>
-        <li>The party gets knocked back half the arena.</li>
-        <li>The first four members hit get a <em>Magic Vulnerability</em>
-        debuff.</li>
-        <li>The first player hit takes the most damage (which should be a
-        tank), with the players at the back taking less damage.</li>
-      </ul>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru/04/crystallize_time_wm_14.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p><b>25.</b> The second <em>Hallowed Wings</em> resolves, this time from
-      North or South (wherever the second line AoE came from).</p>
-      <p>The party will get knocked back half the arena.</p>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru/04/crystallize_time_wm_15.jpg">
-    </td>
-  </tr>
-</table>
-</details>
-</div>
-
-### Option 2 - Nukemaru Y-antikb
-
-This is essentially Nukemaru's anti-kb "Y-shaped" strat that's done in Mana.
-
-While the positioning is much simpler, it has *considerable* mitigation
-requirements, which may not be ideal given the number of raid-wide damage
-events leading up to *Crystallize Time*.
-
-<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
-<details markdown=block>
-<summary><b>[Click to Expand] Nukemaru's Y-antikb</b></summary>
-<table>
-  <tr>
-    <td width="50%">
-      <p><b>20.</b> Position yourselves to dodge the second line AoE.</p>
-      <p>The objective is to end up in the <em>corner</em> where <em>both</em>
-      line AoEs originated from <em>(North-East in this example)</em>.</p>
       <p>At this point, all blue players should have cleansed their debuff.</p>
     </td>
     <td>
@@ -695,14 +563,13 @@ events leading up to *Crystallize Time*.
   </tr>
   <tr>
     <td>
-      <p><b>22.</b> Make a Y-shaped formation near the center of the arena,
-      towards where the second set of line AoEs originated from.</p>
+      <p><b>22.</b> The party records their position towards where the second
+      set of line AoEs originated from:</p>
       <ul>
         <li><b>MT:</b> Relative top-left</li>
         <li><b>ST:</b> Relative top-right</li>
         <li><b>Everyone else:</b> Stack near the center</li>
       </ul>
-      <p>Everybody records their position in this formation.</p>
       <p>A <em>Quietus</em> raid-wide will also go off shortly before
       everybody's positions are recorded.</p>
     </td>
@@ -714,21 +581,40 @@ events leading up to *Crystallize Time*.
     <td>
       <p><b>23.</b> After recording your position, spread out for <em>Spirit 
       Taker</em> on a random player.</p>
-      <p>Spread out in your regular spread positions, <em>except</em> the MT,
-      who goes to the middle of the arena instead (because of the Fragment of 
-      Fate).</p>
-      <p>Prepare <b>heavy mitigation</b>:</p>
+      <p><b>Using where the second line AoE originated from as north</b>:</p>
       <ul>
-        <li><b>Tanks:</b> Use your 40% personal mitigation.</li>
-        <li>The party will need at least 3x 10% party mitigations in addition.</li>
+        <li><b>MT:</b> Spread relative far-NW</li>
+        <li><b>ST:</b> Spread relative far-NE</li>
+        <li><b>Everybody else:</b> Relative spread positions:
+          <ul>
+            <li><b>H1/H2:</b> Relative West/East.</li>
+            <li><b>D1/D2:</b> Relative South-West/South-East.</li>
+            <li><b>D3/D4:</b> Relative North-West/North-East.</li>
+          </ul>
+        </li>
       </ul>
-      <p>When the Oracle of Darkness does her <em>Spirit Taker</em> attack,
-      <b>everybody use <em>Arm's Length/Surecast</em></b>.</p>
+      <p><em>Do not be near the Fragment of Fate!</em> The non-tanks can
+      spread on the waymarks.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/04/crystallize_time_13.jpg">
     </td>
   </tr>
+  <tr>
+      <td>
+        <p><b>25.</b> The Oracle of Darkness will jump on a random player with 
+        <em>Spirit Taker</em>.
+        <p>When she does so, prepare <b>heavy mitigation</b>:</p>
+        <ul>
+          <li><b>Tanks:</b> Use your 40% personal mitigation.</li>
+          <li>The party will need at least 3x 10% party mitigations in addition.</li>
+        </ul>
+        <b>Everybody also use <em>Arm's Length/Surecast</em></b>.</p>
+      </td>
+      <td>
+        <img src="{{site.baseurl}}/images/ultimates/fru/04/crystallize_time_14.jpg">
+      </td>
+    </tr>
   <tr>
     <td>
       <p><b>24.</b> The rewind resolves, and the Usurper of Frost casts 
@@ -743,7 +629,7 @@ events leading up to *Crystallize Time*.
       </ul>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru/04/crystallize_time_14.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/04/crystallize_time_15.jpg">
     </td>
   </tr>
   <tr>
@@ -753,12 +639,10 @@ events leading up to *Crystallize Time*.
       <p>The party will get knocked back half the arena.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru/04/crystallize_time_15.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/04/crystallize_time_16.jpg">
     </td>
   </tr>
 </table>
-</details>
-</div>
 
 ## Akh Morn 2 - 6:2
 
@@ -772,7 +656,7 @@ start another 4-hit *Akh Morn* into *Morn Afah* sequence.
       <em>Akh Morn</em> (which again, should be a tank, and non-tank).</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru/04/akh_morn_02.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/04/akh_morn_01.jpg">
     </td>
   </tr>
 </table>
@@ -786,6 +670,8 @@ so the MT can sacrifice themselves and take it away from the party if needed.
 
 Both bosses will then start casting their respective enrages (*Absolute Zero*
 and *Memory's End*).
+
+**Remember to have both tanks turn their tank stance back on.**
 
 When both bosses are defeated, there will be a knockback from the center, and 
 you will advance to the next arena.
@@ -1130,6 +1016,8 @@ party advances to the final phase.
   <tr>
     <td>
       <ul>
+        <li>v3.2 (11 Mar 2025): Removed the waymark corners for <em>Crystallize 
+        Time</em> since we went with Nukemaru's method.</li>
         <li>v3.1 (26 Feb 2025): Switched the Akh Rhai baits from the center of
         the arena (like NA), to the corners (like JP), as people were out of 
         range of healing.</li>

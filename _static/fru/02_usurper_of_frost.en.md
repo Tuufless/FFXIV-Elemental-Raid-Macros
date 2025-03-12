@@ -10,22 +10,6 @@ permalink: /static/fru/02_usurper_of_frost/
 
 # Usurper of Frost
 
-This is version 3.5, that's based off the Google Doc with three options for Light
-Rampant.
-
-- [**Changelog**](#changelog)
-
-- [**Diamond Dust - Colour coded**](#diamond-dust---colour-coded)
-  - [**Sunbound Holy - Mostly CW**](#sunbound-holy---mostly-cw)
-- [**Mirror, Mirror**](#mirror-mirror)
-- [**Light Rampant**](#light-rampant)
-  - [**4:4 East adjust**](#option-1---light-rampant-44-east-adjust) _or_
-  - [**MT-anchor ZizieZip**](#option-2---light-rampant-mt-anchor-ziziezip) _or_
-  - [**4:4 CW**](#option-3---light-rampant-44-cw)
-- [**Endless Ice Age (Transition)**](#endless-ice-age)
-- [**Frequently Asked Questions**](#frequently-asked-questions)
-- [**Troubleshooting**](#troubleshooting)
-
 The tank that opens this fight should be the tank that did not invuln the
 second *Powder Mark Trail* towards the end of P1 (which is usually the MT).
 
@@ -1123,18 +1107,6 @@ instead, so stay near the middle.
 
 This is the mini "transition" phase.
 
-<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
-  <p><b>Tip:</b> You can choose to caster LB3 all the crystals instead to get
-  past this phase and get some P3 practice in instead- if you do so, you will
-  <em>not</em> be able to get past P4 (although you will have until then to
-  stabilize this phase).</p>
-  <p>If you caster LB3, remember to attack the Crystals of Light while waiting
-  for the LB3 to resolve- the LB3 alone will <em>not</em> destroy the Crystals
-  of Light.</p>
-  <p>Once all the Crystals have been destroyed, the Ice Veil will lose its
-  invulnerability and can be destroyed (without Gaia's help).</p>
-</div>
-
 <table>
 <tr>
     <td width="50%">
@@ -1370,7 +1342,7 @@ Gaia and turning her into the Oracle of Darkness.
 <details markdown=block>
 <summary>
   <b>[Light Rampant (4:4 East adjust)]</b> Is there a reason the puddles turn
-  left instead of right?
+  right (going CCW) instead of left (going CW)?
 </summary>
 <table>
   <tr>
@@ -1378,7 +1350,7 @@ Gaia and turning her into the Oracle of Darkness.
       <p>This is done to accommodate D4, in particular, PCT.</p>
       <p>The PCT's possible towers with the 4:4 East adjust strat place them
       either NE or SW.</p>
-      <p>Having the puddles turn left means that the <em>Weight of Light</em> 
+      <p>Having the puddles turn right means that the <em>Weight of Light</em> 
       stacks are also NE or SW, keeping them close to the PCT's towers thus
       allowing them to paint their motifs to prepare for when the boss is
       targetable again.</p>
