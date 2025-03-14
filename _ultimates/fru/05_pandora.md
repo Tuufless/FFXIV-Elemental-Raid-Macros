@@ -373,14 +373,14 @@ enrage).
 
 <details markdown=block>
 <summary>
-  <b>[Fulgent Blade]</b> One group can't make it to the other side of the boss
-  in time for Akh Morn!
+  <b>[Fulgent Blade]</b> Why is the boss slanted? One group can't make it to 
+  the other side of the boss for Akh Morn!
 </summary>
 <table>
   <tr>
     <td width="50%">
-      <p>Check how the tank is dodging the exalines.</p>
-      <p>The more the tank dodges towards the side of the diamond where the
+      <p>Check how the MT is dodging the exalines.</p>
+      <p>The more the MT dodges towards the side of the diamond where the
       exalines originated from (the area marked red), the more the boss
       is turned when it starts to cast <em>Akh Morn</em> and its orientation
       locked.</p>
@@ -396,9 +396,11 @@ enrage).
       <p>Take note of the boss's orientation in this diagram (indicated by the
       white dashed line), which is when the party is supposed to split into 
       left and right groups.</p>
-      <p><b>Note:</b> this is particularly pronounced when the tank does the
-      "uptime" dodge, because it encourages them to dodge to that side of the
-      diamond.</p>
+      <p><b>Note:</b> this is particularly pronounced when the MT dodges the 
+      Exalines diagonally (see Step 7 above), because it encourages them to 
+      dodge to that side of the diamond.</p>
+      <p>This is why the MT should dodge to the <em>center first</em>, and 
+      <em>then</em> dodge to the side for the second Exaline dodge.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru_mana/05/fulgent_blade_faq_02.jpg">
