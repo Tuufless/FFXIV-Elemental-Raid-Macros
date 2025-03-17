@@ -37,7 +37,7 @@ The current item level cap is **iLvl 735**.
 - **M4S** - [AAC Light-heavyweight M4 (Savage)]({{site.baseurl}}/7.0_dawntrail/savage_raids/m4s)
 
 **Ultimate Raids:**
-- **Lv. 100. FRU** - [Futures Rewritten (Ultimate)]({{site.baseurl}}/ultimates/fru) - **WIP**
+- **Lv. 100. FRU** - [Futures Rewritten (Ultimate)]({{site.baseurl}}/ultimates/fru) - *Mana DC's strat*
 
 ---
 

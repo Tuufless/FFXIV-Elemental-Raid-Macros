@@ -15,6 +15,8 @@ both Elemental and Mana).
 You are welcome to take the ideas here for your own static if you so wish, but
 I *will* be updating this as we prog and find what strategies work for us.
 
+![]({{site.baseurl}}/images/ultimates/fru/clear_ss.jpg)
+
 ### BiS Notes
 
 - Use your **i730** BiS.
