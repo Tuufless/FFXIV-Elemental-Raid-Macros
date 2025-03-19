@@ -46,8 +46,8 @@ both tanks).
       glow with a telegraph.</p>
       <p>Which pair of lines glow first indicates the order of the next pair of
       lines as they make their way around the crown.</p>
-      <p>In this case, the two right-most lines glow first, so the lines will
-      glow in an be anti-clockwise order.</p>
+      <p><em>(In this example, the two right-most lines glow first, so the
+      party will dodge to the right later in Steps 5 and 7.)</em></p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/05/fulgent_blade_03.jpg">
@@ -68,8 +68,12 @@ both tanks).
       <p><b>5.</b> Dodge into the diamond (marked in green), and then prepare
       to dodge left or right (depending on which side glowed first), for the
       next step.</p>
-      <p>Alternatively, you can dodge diagonally into the left or right corner
-      of the diamond.</p>
+      <p>You can also dodge diagonally into the left or right corner of the
+      diamond instead (again, depending on which side glowed first.)</p>
+      <ul>
+        <li><b>MT:</b> Note the inner corner of the diamond (marked in light
+        blue). Try to stay close to this corner.</li>
+      </ul>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/05/fulgent_blade_05.jpg">
@@ -78,9 +82,14 @@ both tanks).
   </tr>
   <tr>
     <td>
-      <p><b>6.</b> If you did not dodge diagonally, move left or right
-      (whichever side glowed first) when the next set of line AoEs go off.</p>
-      <p>If you dodged diagonally, stay where you are.</p>
+      <p><b>6.</b> Move left or right (whichever side glowed first) when the
+      next set of line AoEs go off. If you dodged diagonally in the previous
+      step, stay where you are.</p>
+      <p><em>(In this example, the right-side glowed first, so the party dodges
+      to the right.)</em></p>
+      <ul>
+        <li><b>MT:</b> Stay near the inner corner (marked in light blue).</li>
+      </ul>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/05/fulgent_blade_06.jpg">
@@ -91,9 +100,11 @@ both tanks).
       <p><b>7.</b> We alternate between dodging into the diamond, and dodging 
       to the left or right again.</p>
       <p>Here, we dodge into the diamond (marked in green), and then prepare
-      to dodge left or right (depending on which side glowed first).</p>
-      <p>Once again, you can also dodge diagonally into the left or right
-      corner of the diamond, <b>however, the MT should not do this.</b></p>
+      to dodge left or right (depending on which side glowed first).
+      Alternatively, you can dodge diagonally into the left/right side.</p>
+      <ul>
+        <li><b>MT:</b> Stay near the inner corner (marked in light blue).</li>
+      </ul>
       <p>The boss will stop following the main tank and begin to cast <em>Akh 
       Morn</em> during this dodge.</p>
     </td>
@@ -106,6 +117,9 @@ both tanks).
     <td>
       <p><b>8.</b> And dodge left or right once more (or stay put if you dodged
       in diagonally).</p>
+      <ul>
+        <li><b>MT:</b> Stay near the inner corner (marked in light blue).</li>
+      </ul>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/05/fulgent_blade_08.jpg">
@@ -115,7 +129,7 @@ both tanks).
     <td>
       <p><b>9.</b> This will be the third (and final) dodge into the diamond.</p>
       <p>This time, there's no need to keep track of which side to dodge
-      towards.</p>
+      towards (and the MT is free to dodge anywhere within the diamond).</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/05/fulgent_blade_09.jpg">
@@ -144,7 +158,7 @@ both tanks).
   </tr>
   <tr>
     <td>
-      <p><b>11.</b> <em>Akh Morn</em> resolves together with the next set of
+      <p><b>12.</b> <em>Akh Morn</em> resolves together with the next set of
       line AoEs, targeting a random person on each side of the boss (left vs.
       right) with a stack AoE.</p>
     </td>
@@ -171,7 +185,7 @@ instead.
 <table>
   <tr>
     <td>
-      <p><b>12.</b> Find the first tower. Use this tower as <b>South</b>.</p>
+      <p><b>13.</b> Find the first tower. Use this tower as <b>South</b>.</p>
       <ul>
         <li><b>MT:</b> Rotate to the new "North".</li>
         <li><b>H1, H2:</b> Preposition in the first tower.</li>
@@ -183,7 +197,7 @@ instead.
   </tr>
   <tr>
     <td colspan="2" width="50%">
-      <p><b>13.</b> The second tower appears.</p>
+      <p><b>14.</b> The second tower appears.</p>
       <p>At the same time, the boss will cast <em>Wings Dark and Light</em>, and 
       one of the boss's wings will glow.</p>
       <ul>
@@ -224,7 +238,7 @@ instead.
   </tr>
   <tr>
     <td colspan="2">
-      <p><b>14.</b> The third tower appears and the other wing glows.</p>
+      <p><b>15.</b> The third tower appears and the other wing glows.</p>
     </td>
   </tr>
   <tr>
@@ -237,7 +251,7 @@ instead.
   </tr>
   <tr>
     <td colspan="2">
-      <p><b>15.</b> The boss will cleave the MT with a 180 + 45 degree cleave 
+      <p><b>16.</b> The boss will cleave the MT with a 180 + 45 degree cleave 
       and hit the tethered player (which should be the ST) with an AoE 
       tankbuster.</p>
       <p>This should be mitigated with all tank mitigations and/or 
@@ -261,7 +275,7 @@ instead.
   </tr>
   <tr>
     <td colspan="2">
-      <p><b>16.</b> The boss now cleaves the ST, and hits the tethered player
+      <p><b>17.</b> The boss now cleaves the ST, and hits the tethered player
       (which should now be the MT) with an AoE tankbuster.</p>
       <p>This second cleave resolves together with the second tower (which
       should be taken by two DPS).</p>
@@ -277,7 +291,7 @@ instead.
   </tr>
   <tr>
     <td>
-      <p><b>17.</b> The two remaining DPS stay put for the third tower.</p>
+      <p><b>18.</b> The two remaining DPS stay put for the third tower.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/05/paradise_regained_06.jpg">
@@ -297,7 +311,7 @@ damage.
 <table>
   <tr>
     <td width="50%">
-      <p><b>18.</b> Make two lines SW and SE with the tanks in front.</p>
+      <p><b>19.</b> Make two lines SW and SE with the tanks in front.</p>
       <p>The boss will fire a Light-aspected line AoE at the line on the left, 
       and a Dark-aspected line AoE at the line on the right.</p>
       <p>Both line AoEs will leave behind a residual AoE that explodes again 
@@ -312,7 +326,7 @@ damage.
   </tr>
   <tr>
     <td>
-      <p><b>19.</b> After the line AoEs go off, return to the two lines SW and
+      <p><b>20.</b> After the line AoEs go off, return to the two lines SW and
       SE.</p>
       <p>However, because the first player in each line got a <em>Light 
       Resistance Down</em> and <em>Dark Resistance Down</em> debuff, they
@@ -326,7 +340,7 @@ damage.
   </tr>
   <tr>
     <td>
-      <p><b>20.</b> The process then repeats for a total of four times, with a 
+      <p><b>21.</b> The process then repeats for a total of four times, with a 
       different player at the front of the line instead.</p>
       <ul>
         <li>Tanks > Melee > Ranged > Healers</li>
@@ -343,13 +357,38 @@ After this, Pandora casts *Pandora's Box*, which is a Tank LB3 check.
 From there, the mechanics repeat from *Fulgent Blade*. At the end of the second
 loop, Pandora casts *Paradise Lost* for enrage instead of *Pandora's Box*.
 
-Sometime during *Paradise Lost*, Ryne will exclaim *"You can weather this! I
-know you can!"* and give you 1.5 bars worth of Limit Break, which should reach
-an LB3. When she does so, *immediately* LB3 (or it will not resolve before the enrage).
+Sometime during *Paradise Lost* (when the castbar reaches the "r" in
+"Pa**r**adise"), Ryne will exclaim *"You can weather this! I know you can!"*
+and give you 1.5 bars worth of Limit Break, which should reach an LB3. When
+she does so, *immediately* LB3 (or it will not resolve before the enrage).
 
 ---
 
 ## Frequently Asked Questions
+
+<details markdown=block>
+<summary>
+  <b>[Fulgent Blade]</b> Why should the MT stay close to the inner corner of
+  the diamond while dodging?
+</summary>
+<table>
+  <tr>
+    <td width="50%">
+      <p>This is done to orient the boss so that it is easy for the party to
+      split for <em>Akh Morn</em>.</p>
+      <p>The more the MT dodges to the side of the diamond where the exalines
+      originated from (the area marked red), the more the boss is turned when
+      it starts to cast <em>Akh Morn</em> and its orientation locked.</p>
+      <p>The more the boss is turned, the harder it becomes for the party to
+      properly split to the boss's left and right sides for <em>Akh Morn</em>-
+      even impossible in extreme cases.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/05/fulgent_blade_faq_01.jpg">
+    </td>
+  </tr>
+</table>
+</details>
 
 <details markdown=block>
 <summary>
