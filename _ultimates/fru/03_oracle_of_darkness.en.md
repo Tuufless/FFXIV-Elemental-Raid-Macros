@@ -16,6 +16,17 @@ Judgment*, which sets everyone to 1HP.
 She will then teleport to the middle of the arena and prepare her first
 major mechanic with a heavy raid-wide.
 
+Typically, if LB3 is available, this is where a melee would LB3 the Oracle of
+Darkness. Who LBs is usually discussed at the start (and may change if there's
+a DNC in the party), but a priority may look something like:
+ 
+<table>
+  <tr>
+    <td><b>Limit Break priority</b></td>
+    <td>DRG > NIN > MNK > SAM > VPR > RPR</td>
+  </tr>
+</table>
+
 ## Ultimate Relativity（時間圧縮・絶）- Poni Kone
 
 When *Ultimate Relativity* resolves, there will be a lot of debuffs that go 

@@ -362,6 +362,17 @@ Sometime during *Paradise Lost* (when the castbar reaches the "r" in
 and give you 1.5 bars worth of Limit Break, which should reach an LB3. When
 she does so, *immediately* LB3 (or it will not resolve before the enrage).
 
+Who LBs is usually discussed at the start, or during the cutscene before this 
+phase (and may change if there's a DNC in the party), but a priority may look 
+something like:
+
+<table>
+  <tr>
+    <td><b>Limit Break priority</b></td>
+    <td>MNK > DRG > NIN > SAM > VPR > RPR</td>
+  </tr>
+</table>
+
 ---
 
 ## Frequently Asked Questions
