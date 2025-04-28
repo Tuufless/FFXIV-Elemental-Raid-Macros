@@ -7,14 +7,8 @@ permalink: /
 
 # FFXIV Elemental Raid Macros
 
-This repository is a collection of macros (and my notes) often encountered in
-the Elemental Data Center (DC).
-
-Elemental is a Japanese FFXIV data center; however, it is home to servers with
-high populations from other countries such as Tonberry or Kujata. That being
-said, it is still ultimately a Japanese DC, so it generally follows
-**Japanese** strategies. Keep that in mind that when watching (English)
-videos/reading guides- there may be differences.
+This repository is a collection of my notes for Ultimate strategies encountered in
+the Elemental and Mana Data Centers (DC).
 
 <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
 <p><b>NEW URL:</b> <a href="https://xivjpraids.com/">XIV JP Raids</a></p>
@@ -32,29 +26,6 @@ guides, since PF seems to have associated those strats with me.</p>
 <p>Moving forward, this site will be used for more personal content (e.g: for
 my statics), and not necessarily reflect what PF does.</p>
 </div>
-
----
-
-## Current content (Patch 7.1)
-
-The current item level cap is **iLvl 735**.
-
-**Extreme Trials:**
-- **Valigarmanda EX** - [Worqor Lar Dor (Extreme)]({{site.baseurl}}/7.0_dawntrail/extreme_trials/valigarmanda)
-- **Zoraal Ja EX** - [Everkeep (Extreme)]({{site.baseurl}}/7.0_dawntrail/extreme_trials/zoraal_ja)
-- **Sphene EX** - [The Minstrel's Ballad: Sphene's Burden]({{site.baseurl}}/7.0_dawntrail/extreme_trials/sphene)
-
-**Unreal Trials:**
-- **Byakko Unreal** - [The Jade Stoa (Unreal)]({{site.baseurl}}/unreal/byakko)
-
-**Savage Raids:**
-- **M1S** - [AAC Light-heavyweight M1 (Savage)]({{site.baseurl}}/7.0_dawntrail/savage_raids/m1s)
-- **M2S** - [AAC Light-heavyweight M2 (Savage)]({{site.baseurl}}/7.0_dawntrail/savage_raids/m2s)
-- **M3S** - [AAC Light-heavyweight M3 (Savage)]({{site.baseurl}}/7.0_dawntrail/savage_raids/m3s)
-- **M4S** - [AAC Light-heavyweight M4 (Savage)]({{site.baseurl}}/7.0_dawntrail/savage_raids/m4s)
-
-**Ultimate Raids:**
-- **Lv. 100. FRU** - [Futures Rewritten (Ultimate)]({{site.baseurl}}/ultimates/fru) - *Mana DC's strat*
 
 ---
 

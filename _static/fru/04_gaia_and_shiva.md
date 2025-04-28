@@ -919,9 +919,8 @@ party advances to the final phase.
       positions closer to the center.</p>
       <p>This accomplishes two things:</p>
       <ul>
-        <li>It gives more time for the blue <em>Wyrmfang</em> players to pick
-        up their puddles, because they don't have to travel as far to join the
-        party to record.</li>
+        <li>The party positions do not need to be precise, and players don't
+        have to travel as far to record.</li>
         <li>It lets the party spread use their standard clock positions for
         <em>Spirit Taker</em> (because they recorded near the center).</li>
       </ul>
