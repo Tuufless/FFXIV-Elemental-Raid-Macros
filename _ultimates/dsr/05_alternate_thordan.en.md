@@ -162,6 +162,9 @@ the furthest apart from each other.
         <li>Use Ser Guerrique as North for the rest of the mechanic.</li>
         <li>Line up east-to-west.</li>
       </ul>
+      <p style="text-align:center">
+        <b>West:</b> MT ST H1 H2 D1 D2 D3 D4 <b>:East</b>
+      </p>
       <p>Thordan and the Dragon Eye will also spawn at two (inter)cardinal
       positions, either 135 degrees or 180 degrees apart.</p>
     </td>
