@@ -859,17 +859,35 @@ party advances to the final phase.
 
 <details markdown=block>
 <summary>
-  <b>[Akh Morn]</b> Why 6:2 over 7:1?
+  <b>[Akh Morn]</b> Why 6:2 over 7:1? How does 6:2 work?
 </summary>
 <table>
   <tr>
     <td>
-      <p>The problem with 7:1 is that if a tank dies to either <em>Darklit 
-      Dragonsong</em> or <em>Crystallize Time</em>, the remaining tank will
-      have aggro on both bosses, and thus get both Light and Dark debuffs from 
-      <em>Akh Morn</em>, quickly leading to a wipe.</p>
-      <p>With 6:2, if either tank dies, the remaining tank can continue to
-      resolve <em>Akh Morn</em> with a 6:1 split instead.</p>
+      <p>The intuitive solution for <em>Akh Morn</em> is to stack the party in
+      your standard 4:4 light parties.</p>
+      <p>However, this deals considerable damage to the party. People quickly
+      realised that although the party was rather soft to <em>Akh Morn</em>, it
+      could be easily solo'ed by a tank with some mitigation instead.</p>
+      <p>This had the added benefit of having the other seven party members
+      share the other <em>Akh Morn</em>, significantly lowering the damage
+      compared to 4:4, so 7:1 quickly caught on.</p>
+      <p>However, the problem with 7:1 is that if a tank dies to either
+      <em>Darklit Dragonsong</em> or <em>Crystallize Time</em>, the remaining
+      tank will have aggro on both bosses, and thus get both Light and Dark
+      debuffs from the first <em>Akh Morn</em> hit and die, and that quickly
+      leads to a wipe.</p>
+      <p>6:2 is the next evolution, and is a way around this problem.</p>
+      <p>6:2 works because only the Usurpur of Frost autoattacks, while the
+      Oracle of Darkness does not. Therefore, a tank <em>doesn't actually
+      need</em> to hold aggro on the Oracle of Darkness.</p>
+      <p>By having the tanks build hate on the Usurper of Frost at the start,
+      then turning their tank stance <em>off</em> when the Oracle of Darkness
+      appears, we ensure that the tanks never get hate on the Oracle of
+      Darkness, so the <em>Akh Morn</em>s always go on a tank and a non-tank.</p>
+      <p>Now, in the event a tank dies (particularly at <em>Crystallize
+      Time</em>), the remaining tank only has aggro on the Usurper of Frost,
+      and can continue to resolve <em>Akh Morn</em> with a 6:1 split instead.</p>
     </td>
   </tr>
 </table>
