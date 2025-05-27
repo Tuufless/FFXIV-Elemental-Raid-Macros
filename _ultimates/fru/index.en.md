@@ -36,6 +36,7 @@ Here are some clear PoVs that I've been collecting.
 - [ST PoV (PLD)](https://youtu.be/R17LKD903i0)
 - [H1 PoV (WHM)](https://youtu.be/0LpJ-1tLbhw)
 - [H2 PoV (SCH)](https://youtu.be/r69DXp-O3_g)
+- [D1 PoV (DRG)](https://youtu.be/U-ZtFdpiBQ8)
 - [D2 PoV (NIN)](https://youtu.be/m6EVjNmyGUU)
 - [D3 PoV (BRD)](https://youtu.be/vkUfqQi5qFo)
 - [D4 PoV (PCT)](https://youtu.be/Lg_H3FXANDc)
