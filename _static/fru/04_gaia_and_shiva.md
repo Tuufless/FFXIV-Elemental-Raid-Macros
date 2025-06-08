@@ -749,6 +749,34 @@ party advances to the final phase.
 
 <details markdown=block>
 <summary>
+  <b>[Darklit Dragonsong]</b> Why vertical Darklit over horizontal?
+</summary>
+<table>
+  <tr>
+    <td width="50%">
+      <p>Horizontal Darklit (where the groups line up horizontally North and
+      South) may be more commonplace, but I think it is a bad way to resolve
+      the Darklit tethers because it introduces an additional point of failure
+      into the mechanic.</p>
+      <p>In particular, the tethers will always go on one tank, one healer,
+      and two DPS.</p>
+      <p>Having the roles line up vertically East and West guarantees that
+      exactly two players on each side are tethered, and two are not, making
+      it easy for the players to move into position.</p>
+      <p>On the other hand, if you line up horizontally North and South like
+      many groups do, then you introduce an additional failure point if either
+      D1+D2 or D3+D4 get tethered, because D2 and D3 now need to swap sides,
+      like in the example shown.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/darklit_02a.jpg">
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
   <b>[Darklit Dragonsong]</b> Who should we debuff to reduce incoming damage?
 </summary>
 <table>
@@ -785,36 +813,6 @@ party advances to the final phase.
       <p>The important distinction is that while the <em>Curse of Everlasting
       Light</em> tethers break if they're too short, the <em>Refulgent
       Fate</em> tethers break if they're too short <b>or too long</b>.</p>
-    </td>
-  </tr>
-</table>
-</details>
-
-<details markdown=block>
-<summary>
-  <b>[Darklit Dragonsong]</b> Why vertical spreads (groups E/W) instead of
-  horizontal (groups N/S)?
-</summary>
-<table>
-  <tr>
-    <td>
-      <p>There are a number of problems with lining up horizontally
-      North/South, which are solved by lining up vertically instead.</p>
-      <ul>
-        <li>The Oracle of Darkness spawns south. However, if the tanks are
-        North, then the ST has to step out of formation in order to maintain
-        aggro for the upcoming <em>Akh Morn</em>, potentially confusing the
-        rest of the party.</li>
-        <li>The Oracle of Darkness also spawns a significant amount of time
-        <em>after</em> the Usurper of Frost, and their HP needs to be equalised
-        before the first <em>Morn Afah</em>. However, with the tanks North,
-        they are unable to help without breaking formation.</li>
-        <li>Lining the DPS up horizontally also means that the two non-tethered
-        DPS could be D1+D2, or D3+D4. In such an event, either D2 or D3 would
-        have to cross over to the other side of the boss, which isn't ideal.
-        In contrast, a vertical lineup guarantees that exactly two tether
-        players are on each East/West side of the bosses.</li>
-      </ul>
     </td>
   </tr>
 </table>
