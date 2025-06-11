@@ -129,6 +129,9 @@ To summarise, the tethered healer will always go North. For everybody else:
     <td width="50%">
       <p><b>6.</b> With the tethers sorted out, all players take up this
       formation with the non-tethered players between the two towers.</p>
+      <p>There is a chance that both tethers started on the same East/West side
+      of the boss. If so, D2 and D3 swap sides. <em>(In the example, the
+      tethers are on D1+D2, so D2 goes to the East, and D3 goes to the West.)</em></p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/darklit_03a.jpg">
