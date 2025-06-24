@@ -371,7 +371,8 @@ from *Alpha Sword*.
     <td><p><b>9.</b> Cruise Chaser cleaves <b>7</b>.</p>
     <ul>
       <li><b>1</b>, <b>2</b>: Resolve Void puddles.</li>
-      <li><b>3</b>, <b>4</b>, <b>5</b>, and <b>6</b>: Start moving to the center to prepare for <em>Incinerating Heat</em>.</li>
+      <li><b>3</b>, <b>4</b>, <b>5</b>, and <b>6</b>: Start moving to the
+      center to prepare for <em>Incinerating Heat</em>.</li>
     </ul></td>
 	<td><img src="{{site.baseurl}}/images/ultimates/tea/03/wormhole_09.jpg"></td>
   </tr>
@@ -406,8 +407,19 @@ from *Alpha Sword*.
       <img src="{{site.baseurl}}/images/ultimates/tea/03/wormhole_11.jpg">
     </td>
   </tr>
+</table>
+
+*Wormhole Formation* ends with another set of *Enumerations*, which you can
+resolve one of two ways:
+
+### Method 1 - Melee swap
+
+This resolves the *Enumerations* in exactly the same way as in the Brute
+Justice + Cruise Chaser phase.
+
+<table>
   <tr>
-    <td>
+    <td width="50%">
       <p><b>12.</b> Resolve <em>Enumeration</em> the same way as Brute Justice 
       + Cruise Chaser.</p>
       <ul>
@@ -426,6 +438,29 @@ from *Alpha Sword*.
     </td>
 	  <td>
       <img src="{{site.baseurl}}/images/ultimates/tea/03/wormhole_12.jpg">
+    </td>
+  </tr>
+</table>
+
+### Method 2 - TTD/HHD
+
+This is a different method to resolve the *Enumerations* that some may find
+easier.
+
+<table>
+  <tr>
+    <td width="50%">
+      <p><b>12.</b> Resolve <em>Enumeration</em> with a North and South group.</p>
+      <ul>
+        <li><b>MT</b>, <b>ST</b>: Always inside the North <em>Enumeration</em>.</li>
+        <li><b>H1</b>, <b>H2</b>: Always inside the South <em>Enumeration</em>.</li>
+        <li><b>DPS with <em>Enumeration</em>:</b> Go North/South according to the priority:
+        <p style="text-align:center"><b>North:</b> D1 > D2 > D3 > D4 <b>:South</b></p></li>
+        <li><b>DPS without <em>Enumeration</em>:</b> Stay out of both Enumerations.</li>
+      </ul>
+    </td>
+	  <td>
+      <img src="{{site.baseurl}}/images/ultimates/tea/03/wormhole_12_ttdhhd.jpg">
     </td>
   </tr>
 </table>
@@ -691,107 +726,6 @@ The party then proceeds onto Perfect Alexander.
 
 <details markdown=block>
 <summary>
-  <b>[Enumeration]</b> Why don't we group both tanks with one <em>Enumeration</em>
-  target, and both healers with the other <em>Enumeration</em> target?
-</summary>
-<table>
-  <tr>
-    <td>
-      <p>Let's call the earlier BJCC strat the "melee-swap" and the proposed 
-      alternative "TTD/HHD".</p>
-      <p>With each strat, the party splits up as follows after <em>Incinerating Heat</em>:</p>
-      <table>
-        <tr>
-          <td style="text-align:center"><b>Melee-swap</b></td>
-          <td style="text-align:center"><b>TTD/HHD</b></td>
-        </tr>
-        <tr>
-          <td style="text-align:center">MTST out, H1D1D3 west, H2D2D4 east</td>
-          <td style="text-align:center">MTSTD1D2 west, H1H2D3D4 east</td>
-        </tr>
-      </table>
-      <p>The problem with <em>Enumeration</em> largely stems from two things:</p>
-      <ol>
-        <li>The party is tightly stacked together for <em>Incinerating Heat</em></li>
-        <li>The only way to see who is targeted with <em>Enumeration</em> is 
-        to look at the characters- there is no debuff icon on the party list.</li>
-      </ol>
-      <p>Although the TTD/HHD strat looks simple, there are a few steps 
-      involved:</p>
-      <ul>
-        <li>All DPS need to identify whether they are an <em>Enumeration</em> 
-        target.</li>
-        <li>The two (random) <em>Enumeration</em> targets need to figure out 
-        their priority between themselves (one west, one east).</li>
-        <li>The two (random) non-<em>Enumeration</em> DPS then need to move 
-        out of the way.</li>
-      </ul>
-      <p>By keeping the same melee-swap Enumeration strat from BJCC, we:</p>
-      <ul>
-        <li>Maintain consistency between both phases.</li>
-        <li>Fix who stays out of the <em>Enumerations</em> (the tanks are 
-        <em>never</em> in <em>Enumeration</em>).</li>
-        <li>Only two DPS need to pay attention and adjust (D1 and D2) instead 
-        of all four.</li>
-        <li>There is just a cue to swap (both <em>Enumerations</em> on one 
-        side), instead of following a priority system.</li>
-      </ul>
-      <p>To elaborate further, consider what happens when the party splits 
-      right after <em>Incinerating Heat</em> to resolve <em>Enumeration</em>. 
-      Assuming the DPS split up 2-2, there are two possible outcomes:</p>
-      <table>
-        <tr>
-          <td></td>
-          <td style="text-align:center"><b>Melee-swap</b></td>
-          <td style="text-align:center"><b>TTD/HHD</b></td>
-        </tr>
-        <tr>
-          <td>
-            <p><b>Each side has one Enumeration</b></p>
-            <p><em>(2/3 cases)</em></p>
-          </td>
-          <td><em>Enumeration</em> is trivially solved (each group already has 
-          three members.)</td>
-          <td>
-            <p>Each group has four members.</p>
-            <p>The two DPS on each side need to determine which one of them 
-            does not have <em>Enumeration</em> and leave the group (two 
-            players move, but all four DPS potentially have to move).</p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <p><b>Both Enumerations are on the same side</b></p>
-            <p><em>(1/3 cases)</em></p>
-          </td>
-          <td>D1 and D2 swap groups (two players move).</td>
-          <td>
-            <p>One DPS from the side with two <em>Enumerations</em> has to 
-            swap to the other side (presumably D2 or D3).</p>
-            <p>Both DPS from the side with no <em>Enumerations</em> has to 
-            leave the group (three players move, but all four DPS potentially 
-            have to move.)</p>
-          </td>
-        </tr>
-      </table>
-      <p>Without knowing what the Enumeration split will be ahead of time, 
-      only two players potentially have to adjust with the melee-swap strat 1/3 
-      of the time, while at least two DPS are guaranteed to adjust (with all 
-      four DPS potentially having to adjust) with the TTD/HHD strat <em>all</em>
-      the time, leading to more points of error.</p>
-      <p>The melee-swap strat also establishes exactly <em>who</em> adjusts in
-      the event the Enumerations do not start out balanced, reducing the number
-      of players that potentially have to adjust from four to two.</p>
-      <p>This also means that if you are D1 or D2, and you have four people on
-      your side, you are the one that needs to swap to the other side <em>
-      (because your counterpart has already swapped, but you haven't)</em>.</p>
-    </td>
-  </tr>
-</table>
-</details>
-
-<details markdown=block>
-<summary>
 <b>[Summon Alexander]</b> Can you kill Alexander Prime early and skip J-Waves?
 </summary>
 <table>
@@ -812,7 +746,8 @@ The party then proceeds onto Perfect Alexander.
 
 <details markdown=block>
 <summary>
-  <b>[Temporal Stasis, Inception]</b> What is <em>Plaint of Severity, Solidarity</em>, and <em>Surety</em>?</summary>
+  <b>[Temporal Stasis, Inception]</b> What is <em>Plaint of Severity,
+  Solidarity</em>, and <em>Surety</em>?</summary>
 <table>
   <tr>
     <td>
@@ -855,7 +790,7 @@ The party then proceeds onto Perfect Alexander.
         player- see the diagram.)</em></li>
       </ul>
     </td>
-    <td>
+    <td width="50%">
       <img src="{{site.baseurl}}/images/ultimates/tea/03/wormhole_faq.jpg">
     </td>
   </tr>
