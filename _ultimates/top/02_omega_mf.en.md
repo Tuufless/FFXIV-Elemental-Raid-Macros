@@ -80,8 +80,8 @@ the Playstation symbols. The party will also get either *Mid Glitch*, or
 </details>
 </div>
 
-A giant eye will also appear outside the arena at a random cardinal or 
-intercardinal position.
+An Optical Unit (the giant eye) will also appear outside the arena at a random
+cardinal or intercardinal position.
 
 <table>
   <tr>
@@ -148,20 +148,22 @@ pair. Note how the markers demarcate the boundary of Omega-F's AoE.
   </tr>
 </table>
 
-This will take considerable practice. Nukemaru has compiled a collection of 
-clips which may help:
+*Party Synergy* is one of the hardest mechanics in the game, and will take
+*considerable* practice. Nukemaru has compiled a collection of clips which may
+help:
 
 {% include youtube.html id="tfZgwiXoSoY" %}
 
-After dodging Omega-M/F's AoEs, the party now resolves Mid/Remote Glitch.
+After dodging Omega-M/F's AoEs, the party now resolves *Mid/Remote Glitch*.
 
 <table>
   <tr>
     <td width="50%">
-      <p><b>4.</b> Using the Eye as North, split up into your 4:4 groups.</p>
-      <p>If the party's debuff is Mid Glitch, spread in the order 〇×▽□ from
-      top-to-bottom.</p><p>Otherwise, if the party's debuff is Remote Glitch,
-      only the <b>right-side group's 〇 and □</b> swap positions.</p>
+      <p><b>4.</b> Using the eye as North, split up into your 4:4 groups.</p>
+      <p>If the party's debuff is <em>Mid Glitch</em>, spread in the order 〇×▽□
+      from top-to-bottom.</p>
+      <p>Otherwise, if the party's debuff is <em>Remote Glitch</em>, only the
+      <b>right-side group's 〇 and □</b> swap positions.</p>
       <p>Four Omega-M clones will also spawn along either all the cardinals, or
       all the intercardinal directions.</p>
     </td>
@@ -187,8 +189,8 @@ After dodging Omega-M/F's AoEs, the party now resolves Mid/Remote Glitch.
   <tr>
     <td>
       <p><b>6.</b> The (new) Omega-F will then do a knockback from the center.</p>
-      <p>The party needs to get knocked back into two safe spots, based on whether the party has 
-      Mid or Remote Glitch.</p>
+      <p>The party needs to get knocked back into two safe spots, based on
+      whether the party has <em>Mid Glitch</em> or <em>Remote Glitch</em>.</p>
       <ul>
         <li>The left-side group will always knockback to the west.</li>
         <li>The right-side group will adjust depending on the party's debuff:
@@ -258,8 +260,8 @@ mechanics at the party to resolve.
   </tr>
   <tr>
     <td>
-      <p><b>9.</b> When the Sagittarius Arrow's telegraph appears, dodge it, by
-      moving into the boss's target circle.</p>
+      <p><b>9.</b> When the <em>Sagittarius Arrow</em>'s telegraph appears,
+      dodge it by moving into the boss's target circle.</p>
     </td>
     <td><img src="{{site.baseurl}}/images/ultimates/top/02/limitless_synergy_03.jpg"></td>
   </tr>
@@ -304,8 +306,9 @@ mechanics at the party to resolve.
 </table>
 
 After *Pile Pitch* resolves, the eye will cast *Cosmo Memory*, another 
-raid-wide. Because *Cosmo Memory* is cast by the Eye, this damage cannot be
-mitigated through targeted debuffs *(Addle, Dismantle, Feint, Reprisal)*.
+raid-wide. Because *Cosmo Memory* is cast by the untargetable Optical Unit,
+this damage cannot be mitigated by targeted debuffs *(Addle, Dismantle, Feint,
+Reprisal)*.
 
 With no other mechanics left in the phase, the party must defeat Omega-M,
 followed by Omega-F (in that order) before Omega-F's *Laser Shower* resolves as
@@ -355,7 +358,7 @@ the hard enrage.
 
 <details markdown=block>
 <summary>
-  <b>[Party Synergy]</b> Can each side have more than one duplicate Playstation symbol?
+  <b>[Party Synergy]</b> Can each side have more than one duplicate symbol?
 </summary>
 <table>
   <tr>
@@ -363,7 +366,8 @@ the hard enrage.
       <p>It's rare (3/35 chance), but yes, it's possible.</p>
       <p>The rule still stays the same- the player further from the eye
       switches sides (two people on each side adjusts).</p>
-      <p><em>(For completeness, the chance nobody swaps is 8/35, while the chance one person on each side swaps is 24/35.)</em></p>
+      <p><em>(For completeness, the chance nobody swaps is 8/35, while the
+      chance one person on each side swaps is 24/35.)</em></p>
     </td>
     <td><img src="{{site.baseurl}}/images/ultimates/top/02/two_pairs.jpg"></td>
   </tr>
@@ -417,7 +421,8 @@ the hard enrage.
       target <em>and</em> not too far away.</p>
       <p>In particular:</p>
       <ul>
-        <li>Check that a melee isn't in the center of the arena (like D2 in the diagram on the right- they are too close to Omega-M).</li>
+        <li>Check that a melee isn't in the center of the arena (like D2 in the
+        diagram on the right- they are too close to Omega-M).</li>
         <li>Check that a ranged or healer isn't too far from their boss (like
         D3 in the diagram on the right- they are too far from Omega-M).</li>
       </ul>
