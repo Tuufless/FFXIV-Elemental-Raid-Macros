@@ -75,7 +75,7 @@ Both bosses will cast *Darklit Dragonsong*.
 <table>
   <tr>
     <td width="50%">
-      <p><b>4.</b> Line up on the East and West sides, with the tanks/melee
+      <p><b>3.</b> Line up on the East and West sides, with the tanks/melee
       towards the south.</p>
       <p>Two sets of debuffs come out:</p>
       <ol>
@@ -101,7 +101,7 @@ To summarise, the tethered healer will always go North. For everybody else:
 <table>
   <tr>
     <td width="50%">
-      <p><b>5.</b> This is the best case scenario, where the tethers already
+      <p><b>4.</b> This is the best case scenario, where the tethers already
       make a bowtie.</p>
       <p>No adjustments are needed- the north-most tether players go to the
       North tower, and the south-most tether players go to the South tower.</p>
@@ -153,7 +153,7 @@ With the tethers sorted out, the next thing we need to do is separate the two
 <table>
   <tr>
     <td width="50%">
-      <p><b>6.</b> If the two <em>Dark Water III</em> debuffs are on different 
+      <p><b>5.</b> If the two <em>Dark Water III</em> debuffs are on different 
       sides (North vs. South), then no further adjustments need to be made.</p>
       <p>If the <em>Dark Water III</em> debuffs are either both North, or both
       South, then the Water player and their partner swap sides.</p>
@@ -172,7 +172,7 @@ We can now continue with the mechanic.
 <table>
   <tr>
     <td width="50%">
-      <p><b>7.</b> The tethered players take the two towers, while the Usurper
+      <p><b>6.</b> The tethered players take the two towers, while the Usurper
       of Frost readies <em>The Path of Light</em>, which cleaves the four
       closest players- these should be the four non-tethered players.</p>
     </td>
@@ -182,7 +182,7 @@ We can now continue with the mechanic.
   </tr>
   <tr>
     <td>
-      <p><b>8.</b> Move a little bit south, and spread out around both bosses.</p>
+      <p><b>7.</b> Move a little bit south, and spread out around both bosses.</p>
       <p><b>Do not spread too close to the Fragment of Fate!</b> <em>(the
       danger zone is marked in dark red.)</em></p>
     </td>
@@ -192,7 +192,7 @@ We can now continue with the mechanic.
   </tr>
   <tr>
     <td>
-      <p><b>9.</b> The Oracle of Darkness targets a random player for
+      <p><b>8.</b> The Oracle of Darkness targets a random player for
       <em>Spirit Taker</em>.</p>
       <p>Ideally, she should not move much.</p>
     </td>
@@ -202,7 +202,7 @@ We can now continue with the mechanic.
   </tr>
   <tr>
     <td>
-      <p><b>10.</b> The Usurper of Frost will then use <em>Hallowed Wings</em>,
+      <p><b>9.</b> The Usurper of Frost will then use <em>Hallowed Wings</em>,
       which will cleave either the West or East half of the arena.</p>
       <p>The <em>Water III</em> debuffs will also resolve roughly at the same
       time, so stack up on <b>the two intercardinal markers on the safe half of
@@ -219,7 +219,7 @@ We can now continue with the mechanic.
   </tr>
   <tr>
     <td>
-      <p><b>11.</b> The Oracle of Darkness targets the furthest player for
+      <p><b>10.</b> The Oracle of Darkness targets the furthest player for
       <em>Somber Dance</em>.</p>
       <p>This is actually a two-hit tankbuster, first targeting the furthest
       player, then targeting the closest player.</p>
@@ -252,7 +252,7 @@ Morn* into *Morn Afah*.
 <table>
   <tr>
     <td width="50%">
-      <p><b>12.</b> The two bosses target whoever has their hate with a 4-hit
+      <p><b>11.</b> The two bosses target whoever has their hate with a 4-hit
       <em>Akh Morn</em>:</p>
       <ul>
         <li>The Usurper of Frost should target a tank. Both tanks stack
@@ -429,7 +429,7 @@ the sea of mechanics.
 <table>
   <tr>
     <td width="50%">
-      <p><b>13.</b> The yellow-tethered hourglasses (North and South) resolve.</p>
+      <p><b>12.</b> The yellow-tethered hourglasses (North and South) resolve.</p>
       <p>The two red Aeros, and all the south-side blue players move into the 
       hourglass AoEs when they resolve <em>(Maelstrom)</em>, and stand at the tip
       of the "flower petal" decal on the floor.</p>
@@ -442,7 +442,7 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>14.</b> The dragon heads reach the E/W red Ice players around the 
+      <p><b>13.</b> The dragon heads reach the E/W red Ice players around the 
       same time the debuffs resolve, and explode in an AoE <em>(Longing of the
       Lost)</em>.</p>
       <ul>
@@ -466,7 +466,7 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>15.</b> The second set of hourglasses explode together with the 
+      <p><b>14.</b> The second set of hourglasses explode together with the 
       blue player with <em>Unholy Darkness</em>.</p>
       <ul>
         <li>Do not hit the Fragment of Fate! Be at least on the intercardinal
@@ -486,7 +486,7 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>16.</b> The red Aeros intercept the dragon heads. At this point,
+      <p><b>15.</b> The red Aeros intercept the dragon heads. At this point,
       all the red <em>Wyrmclaw</em> debuffs have been resolved.</p>
       <ul>
         <li>The red Aero players go back to the South sector after taking their
@@ -507,7 +507,7 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>17.</b> The third set of hourglasses resolve together with the 
+      <p><b>16.</b> The third set of hourglasses resolve together with the 
       first line AoE.</p>
       <p>Depending on where you are, position yourself to dodge into either 
       the first or second line AoE (there will be telegraphs for both).</p>
@@ -519,7 +519,7 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>18.</b> Now that all three pairs of hourglasses have resolved, the
+      <p><b>17.</b> Now that all three pairs of hourglasses have resolved, the
       blue debuff players now go out to the puddles left behind to cleanse
       their debuff.</p>
       <p>Each blue player has an assigned puddle to take:</p>
@@ -536,7 +536,7 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>19.</b> A second line telegraph now appears, this time either 
+      <p><b>18.</b> A second line telegraph now appears, this time either 
       North or South.</p>
       <p><b>Note which side this telegraph started on (North or South).</b></p>
     </td>
@@ -546,7 +546,7 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>20.</b> Position yourselves to dodge the second line AoE.</p>
+      <p><b>19.</b> Position yourselves to dodge the second line AoE.</p>
       <p>At this point, all blue players should have cleansed their debuff.</p>
     </td>
     <td>
@@ -555,7 +555,7 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>21.</b> Dodge the second horizontal line AoE.</p>
+      <p><b>20.</b> Dodge the second horizontal line AoE.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/04/crystallize_time_10.jpg">
@@ -563,7 +563,7 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>22.</b> The party records their position towards where the second
+      <p><b>21.</b> The party records their position towards where the second
       set of line AoEs originated from:</p>
       <ul>
         <li><b>MT:</b> Relative top-left</li>
@@ -579,13 +579,14 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>23.</b> After recording your position, spread out for <em>Spirit 
+      <p><b>22.</b> After recording your position, spread out for <em>Spirit 
       Taker</em> on a random player.</p>
       <p><b>Using where the second line AoE originated from as north</b>:</p>
       <ul>
         <li><b>MT:</b> Spread relative far-NW</li>
         <li><b>ST:</b> Spread relative far-NE</li>
-        <li><b>Everybody else:</b> Relative spread positions:
+        <li><b>Everybody else:</b> Spread to your relative position, <em>on the
+        marker</em>:
           <ul>
             <li><b>H1/H2:</b> Relative West/East.</li>
             <li><b>D1/D2:</b> Relative South-West/South-East.</li>
@@ -593,8 +594,12 @@ the sea of mechanics.
           </ul>
         </li>
       </ul>
-      <p><em>Do not be near the Fragment of Fate!</em> The non-tanks can
-      spread on the waymarks.</p>
+      <p><em>Do not be near the Fragment of Fate!</em></p>
+      <p>The DPS will want to spread on the waymarks, which are:</p>
+      <ul>
+        <li>Far enough from the Fragment of Fate to not hit it.</li>
+        <li>Still in range of the tanks for their party mitigation.</li>
+      </ul>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/04/crystallize_time_13.jpg">
@@ -602,7 +607,7 @@ the sea of mechanics.
   </tr>
   <tr>
       <td>
-        <p><b>25.</b> The Oracle of Darkness will jump on a random player with 
+        <p><b>23.</b> The Oracle of Darkness will jump on a random player with 
         <em>Spirit Taker</em>.
         <p>When she does so, prepare <b>heavy mitigation</b>:</p>
         <ul>
@@ -1023,24 +1028,22 @@ party advances to the final phase.
 </table>
 </details>
 
----
-
-## Changelog
-
+<details markdown=block>
+<summary>
+  <b>[Hallowed Wings]</b> How did the melee miss party mitigation?
+</summary>
 <table>
   <tr>
     <td>
-      <ul>
-        <li>v3.2 (11 Mar 2025): Removed the waymark corners for <em>Crystallize 
-        Time</em> since we went with Nukemaru's method.</li>
-        <li>v3.1 (26 Feb 2025): Switched the Akh Rhai baits from the center of
-        the arena (like NA), to the corners (like JP), as people were out of 
-        range of healing.</li>
-        <li>v2.0 (23 Feb 2025): Updated Akh Morns from 7:1 to 6:2.</li>
-      </ul>
+      <p>They spread past the waymarks, which is too far relative-south and
+      puts them out of range of the tanks' party mitigation (30 yalms).</p>
+      <p>The waymarks are positioned such that standing on them will be far
+      enough from the Fragment of Fate that <em>Spirit Taker</em> will miss,
+      but not so far that D1/D2 misses the tank's party mitigation.</p>
     </td>
   </tr>
 </table>
+</details>
 
 <script data-goatcounter="https://tuufless.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>

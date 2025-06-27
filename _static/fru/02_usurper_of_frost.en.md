@@ -1533,55 +1533,5 @@ Gaia and turning her into the Oracle of Darkness.
 </table>
 </details>
 
----
-
-## Changelog
-
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li>v3.5 (26 Feb 2025): Updated <em>Sunbound Holy</em> to "Mostly CW" 
-        (we had actually updated to this several weeks ago, because it was 
-        simpler, especially with voice-comms, but I had forgotten to update it 
-        here.)</li>
-        <li>v3.4 (14 Feb 2025): Updated the 4:4 East-adjust <em>Light
-        Rampant</em> strat puddles to start from the center and go 
-        anti-clockwise (the "Overcooked" strat).</li>
-        <li>v3.3 (9 Jan 2025): Updated the 4:4 East-adjust <em>Light
-        Rampant</em> strat puddles to turn left instead of right.</li>
-        <li>v3.2 (20 Dec 2024): Updated the 4:4 East-adjust <em>Light
-        Rampant</em> strat to resemble Lily Doll (except for the puddles).</li>
-        <li>v3.1 (17 Dec 2024): Updated the 4:4 CW <em>Light Rampant</em> strat 
-        tank/healer positions to match the Google Doc.</li>
-        <li>v3.0 (10 Dec 2024): Modified <em>Light Rampant</em> 4:4:
-          <ul>
-            <li>Switched from a "MT/D1 anchor" strat to the "rotate CW"
-            strat.</li>
-            <li>Switched the lineup order from the Google Doc (H1H2MTST and 
-            D3D4D1D2) to better suit convention (H2H1STMT and D1D2D3D4).</li>
-            <li>Removed <em>Sunbound Holy</em> "CW priority" strat.</li>
-            <li>Updated tank/melee positions for the first <em>Scythe Kick</em>
-            during <em>Mirror, Mirror</em>.</li>
-          </ul>
-        </li>
-        <li>v2.0 (3 Dec 2024): Archived Lucrezia's version (v1.0), and 
-        updated to the Google Doc:
-          <ul>
-            <li>Updated <em>Diamond Dust</em> spreads to the colour-coded
-            strategy, with Protean baits in the first Shiva circles.</li>
-            <li>Updated Light Rampant 4:4 where tanks/healers swap sides 
-            instead of DPS. Tower assignments also count from MT/D1 instead
-            of forcing a CCW rotation.</li>
-            <li>Flipped healer/ranged positions at mirrors during <em>Mirror, 
-            Mirror</em> (H1D3 on the left, facing into the arena.)</li>
-            <li>Added ZizieZip's Light Rampant strategy as an option.</li>
-          </ul>
-        </li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
 <script data-goatcounter="https://tuufless.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>

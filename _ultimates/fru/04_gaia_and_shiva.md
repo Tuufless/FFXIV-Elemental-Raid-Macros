@@ -575,7 +575,8 @@ the sea of mechanics.
       <ul>
         <li><b>MT:</b> Spread relative far-NW</li>
         <li><b>ST:</b> Spread relative far-NE</li>
-        <li><b>Everybody else:</b> Relative spread positions:
+        <li><b>Everybody else:</b> Spread to your relative position, <em>on the
+        marker</em>:
           <ul>
             <li><b>H1/H2:</b> Relative West/East.</li>
             <li><b>D1/D2:</b> Relative South-West/South-East.</li>
@@ -583,8 +584,12 @@ the sea of mechanics.
           </ul>
         </li>
       </ul>
-      <p><em>Do not be near the Fragment of Fate!</em> The non-tanks can
-      spread on the waymarks.</p>
+      <p><em>Do not be near the Fragment of Fate!</em></p>
+      <p>The DPS will want to spread on the waymarks, which are:</p>
+      <ul>
+        <li>Far enough from the Fragment of Fate to not hit it.</li>
+        <li>Still in range of the tanks for their party mitigation.</li>
+      </ul>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/crystallize_time_13.jpg">
@@ -878,6 +883,23 @@ party advances to the final phase.
       <p>This is a raid wipe and the failure condition for letting the dragon
       heads leave the arena (one of the red <em>Wyrmclaw</em> players did not
       cleanse their debuff).</p>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
+  <b>[Hallowed Wings]</b> How did the melee miss party mitigation?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>They spread past the waymarks, which is too far relative-south and
+      puts them out of range of the tanks' party mitigation (30 yalms).</p>
+      <p>The waymarks are positioned such that standing on them will be far
+      enough from the Fragment of Fate that <em>Spirit Taker</em> will miss,
+      but not so far that D1/D2 misses the tank's party mitigation.</p>
     </td>
   </tr>
 </table>

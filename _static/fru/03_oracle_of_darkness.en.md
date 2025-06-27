@@ -834,21 +834,5 @@ must be brought down to under 20.0% HP to advance.
 </table>
 </details>
 
-
----
-
-## Changelog
-
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li>19 Dec 2024 (v1.1): Updated Ultimate Relativity prio from MT ST H1
-        H2 to H1 H2 MT ST.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
 <script data-goatcounter="https://tuufless.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>

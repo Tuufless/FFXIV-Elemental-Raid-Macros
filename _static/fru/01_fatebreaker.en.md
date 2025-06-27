@@ -568,29 +568,5 @@ cooldowns), you will want to defeat the Fatebreaker *as late as possible*.
 </table>
 </details>
 
----
-
-## Changelog
-
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li>3 Dec 2024: Archived Lucrezia's version (v1.0), and updated to
-        v2.0:
-          <ul>
-            <li>Updated <em>Cyclonic Break</em> spreads to H1 West, H2 South, ST East.</li>
-            <li>Updated Utopian Sky spreads (ST at NE).</li>
-            <li>The priority for who adjusts for 2x tethers has been reversed
-            from prioritising H2/D4, to prioritising MT/D1.</li>
-            <li>Updated <em>Fall of Faith</em> to N>S conga line.</li>
-            <li>Updated tower adjusters from D1D2D3 to D1D3D2.</li>
-          </ul>
-        </li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
 <script data-goatcounter="https://tuufless.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
