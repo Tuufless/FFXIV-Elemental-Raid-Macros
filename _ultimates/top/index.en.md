@@ -78,6 +78,22 @@ Here are some clear PoVs that I've been collecting.
 
 ## Markers
 
+The markers are used for orientation, and several mechanics throughout the
+encounter.
+
+- P2: The markers demarcate the boundary for Omega-F's AoE in *Party Synergy*,
+  and the Optical Unit's (the giant eye) laser beam.
+- P3: The markers act as guidelines for where to stand during *Oversampled Wave
+  Cannon*.
+- P5a: The marker demarcate the boundary for the Optical Unit's laser beam, and
+  where to stand for *Hello, World*.
+- P5b: One line in front of the markers demarcate how close you can get for
+  *Remote Glitch*, and where the *Hello, World* stand.
+- P5c: The markers demarcate the near/middle/far distance needed to dodge
+  Omega-M+F's AoEs.
+- P6: The markers demarcate the boundary between AoEs during *Cosmo Arrow*, and
+  where to run at the start of *Unlimited Wave Cannon*.
+
 ![]({{site.baseurl}}/images/ultimates/top/markers.jpg)
 <details markdown=block>
 <summary>XIVLauncher WaymarkPresetPlugin positions</summary>
