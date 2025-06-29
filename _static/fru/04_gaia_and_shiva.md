@@ -442,7 +442,7 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>13.</b> The dragon heads reach the E/W red Ice players around the 
+      <p><b>15.</b> The dragon heads reach the E/W red Ice players around the 
       same time the debuffs resolve, and explode in an AoE <em>(Longing of the
       Lost)</em>.</p>
       <ul>
@@ -450,15 +450,13 @@ the sea of mechanics.
         the nearer red Ice being late.)</em></li>
         <li>The red Ice player closest to the blue Eruption moves North to join
         them.</li>
-        <li>The red Ice player furthest from the blue Eruption moves a little
-        south of the East/West mark.</li>
+        <li>The red Ice player furthest from the blue Eruption uses <em>Sprint</em>
+        and runs North. Note- moving too early will cause the dragon head to
+        pop early and hit the Fragment of Fate.</li>
         <li>The south-side blue players should get knocked over to the other
         side of the arena.</li>
         <li>The two red Aeros step off the flower petal into the south sector.</li>
       </ul>
-      <p>The players getting knocked back by the Aero AoE may want to aim a
-      <em>little</em> towards the East/West instead of directly across to make
-      sure they make it to the upcoming stack in time.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/04/crystallize_time_03.jpg">

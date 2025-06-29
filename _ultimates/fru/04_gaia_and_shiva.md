@@ -443,9 +443,6 @@ the sea of mechanics.
         side of the arena.</li>
         <li>The two red Aeros step off the flower petal into the south sector.</li>
       </ul>
-      <p>The players getting knocked back by the Aero AoE may want to aim a
-      <em>little</em> towards the East/West instead of directly across to make
-      sure they make it to the upcoming stack in time.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/crystallize_time_03.jpg">
