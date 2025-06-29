@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 2. Usurper of Frost
-parent: Lv 100. FRU
+parent: Lv 100. FRU (v1.0)
 nav_order: 2
 has_children: false
 has_toc: false
@@ -172,7 +172,7 @@ markers.
   </tr>
   <tr>
     <td colspan="2">
-      <p><b>6.</b>Everyone comes in and stacks together in preparation for a 
+      <p><b>6.</b> Everyone comes in and stacks together in preparation for a 
       knockback where the first circles were.</p>
       <ul>
         <li><b>N to SW:</b> MT, H1, D1, D3</li>
@@ -346,6 +346,8 @@ The Usurper of Frost reappears back in the center of the arena and casts
 *Hallowed Ray* on the party (which is a heavy-hitting line stack) before 
 starting the next set of mechanics.
 
+---
+
 ## Mirror, Mirror
 
 The Usurper of Frost will be targetable during this mechanic.
@@ -448,6 +450,8 @@ cardinal/intercardinal positions.
 
 After this, the boss will teleport to the middle and begin another signature 
 mechanic.
+
+---
 
 ## Light Rampant
 

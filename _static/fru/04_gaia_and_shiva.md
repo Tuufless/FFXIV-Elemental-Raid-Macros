@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 4. Gaia and Shiva
-parent: Lv 100. FRU
+parent: Lv 100. FRU (v1.0)
 nav_order: 4
 has_children: false
 has_toc: false

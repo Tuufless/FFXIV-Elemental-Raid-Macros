@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 5. Pandora
-parent: Lv 100. FRU
+parent: Lv 100. FRU (v1.0)
 nav_order: 5
 has_children: false
 has_toc: false

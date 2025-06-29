@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 1. Fatebreaker
-parent: Lv 100. FRU
+parent: Lv 100. FRU (v1.0)
 nav_order: 1
 has_children: false
 has_toc: false
@@ -99,6 +99,8 @@ shortly in the middle of *Utopian Sky*.
     </td>
   </tr>
 </table>
+
+---
 
 ## Utopian Sky
 
@@ -259,6 +261,8 @@ raid-wide that also applies a DoT on the party.
 
 Shortly after, the boss then prepares the second mechanic combo.
 
+---
+
 ## Fall of Faith
 
 This is resolved with a "North-to-South" conga line to help sort out 
@@ -408,6 +412,8 @@ priorities.
 
 The boss then does another *Burnished Glory*, followed by a *Powder Mark
 Trail*. This *Powder Mark Trail* should be invulned with the priority PLD > ST.
+
+---
 
 ## Towers
 

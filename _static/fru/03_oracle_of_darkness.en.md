@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 3. Oracle of Darkness
-parent: Lv 100. FRU
+parent: Lv 100. FRU (v1.0)
 nav_order: 3
 has_children: false
 has_toc: false

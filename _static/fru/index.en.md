@@ -1,19 +1,22 @@
 ---
 layout: default
-title: Lv 100. FRU
+title: Lv 100. FRU (v1.0)
 nav_order: 6
 has_children: true
 has_toc: false
 permalink: /static/fru/
 ---
 
-# Futures Rewritten (Ultimate)
+# Futures Rewritten (Ultimate) v1.0
 
 This documentation is primarily for my static, and is **not** what PF does (in 
 both Elemental and Mana).
 
-You are welcome to take the ideas here for your own static if you so wish, but
-I *will* be updating this as we prog and find what strategies work for us.
+You are welcome to take the ideas here for your own static if you so wish.
+
+That being said, having cleared FRU with this strat (and also having cleared 
+FRU a number of times with Mana PF strats, [there *are* some things I would 
+tweak](#things-i-would-change-for-v20), if you would like to consider them.)
 
 ![]({{site.baseurl}}/images/ultimates/fru/clear_ss.jpg)
 
@@ -62,6 +65,61 @@ Furthermore, when the party needs to split into groups of four:
 ```
 
 </details>
+
+---
+
+## Things I would change for v2.0
+
+As mentioned above, although my first static used the strategies documented 
+here for our clear, there *are* things I would change if I were to do it again.
+
+**Markers:** I would strongly consider testing out markers in a square formation:
+```json
+{
+  "Name":"FRU (Square markers)",
+  "MapID":1006,
+  "A":{"X":100.0,"Y":0.0,"Z":93.0,"ID":0,"Active":true},
+  "B":{"X":107.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},
+  "C":{"X":100.0,"Y":0.0,"Z":107.0,"ID":2,"Active":true},
+  "D":{"X":93.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},
+  "One":{"X":93.0,"Y":0.0,"Z":93.0,"ID":4,"Active":true},
+  "Two":{"X":107.0,"Y":0.0,"Z":93.0,"ID":5,"Active":true},
+  "Three":{"X":107.0,"Y":0.0,"Z":107.0,"ID":6,"Active":true},
+  "Four":{"X":93.0,"Y":0.0,"Z":107.0,"ID":7,"Active":true}
+}
+```
+- In particular, the cardinal `ABCD` markers are closer towards the center, and
+line up with the boss's targeting circle in P5, making them the center point
+for all Exaline dodges during *Fulgent Blade*.
+- However, I'm not sure if the intercardinal markers are *too* close for the 
+vertical *Burnt Strikes* in P1 (although this is minor), and whether 
+*Apocalypse* gets confusing with the markers in a square formation.
+
+**P1:** I would tweak some parts to follow Mana (although keep the ST's base 
+position East):
+- *Cyclonic Break*: I would *not* do coloured sectors, but instead have 
+everybody rotate clockwise for Lightning spreads instead. This keeps the 
+healers closer to the center.
+- *Fall of Faith*: I would line up West-to-East (and resolve the tethers West 
+and East), instead of lining up North-to-South. This is more minor, since the 
+North-to-South lineup is just for convenience since the tethers at the end of 
+*Utopian Sky* are North and South, but lining up horizontally makes it slightly 
+easier to discern the second, third, and fourth tethers as they all originate 
+perpendicular to the lineup.
+- *Towers*: This is a minor tweak, but I would do a hybrid- I would have the
+base positions as D1/H1 north, D2/H2 mid, D3/D4 south (which resembles Mana), 
+but I would *keep* how the party adjusts for towers (don't count from the North 
+like Mana).
+
+**P2:** I would change some parts to follow Mana (not updating *Mirror, 
+Mirror*).
+- *Diamond Dust*: I would *not* do coloured sectors, but have the whole party 
+rotate clockwise if needed instead. This keeps the movement consistent across 
+the whole party (instead of having T/H go anti-clockwise, DPS clockwise).
+- *Light Rampant*: I would *not* drop the puddles starting E/W and going 
+anti-clockwise. This is a minor point, but the "L-shaped" style that is very
+common elsewhere is also compatible with the way Mana drops puddles, so I feel
+leaving this up to the individual to choose which they prefer is better.
 
 ---
 
