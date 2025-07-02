@@ -30,8 +30,10 @@ Elemental DC's TEA PF strat consists of the following:
 - The lowest potions you can use and still get maximum benefits are **HQ Grade
   6 Tinctures**.
 
-![]({{site.baseurl}}/tea_cheatsheet.jpg)
-*(Full-size image: [English]({{site.baseurl}}/tea_cheatsheet.jpg), [日本語]({{site.baseurl}}/tea_cheatsheet_jp.jpg))*
+<a href="{{site.baseurl}}/tea_cheatsheet.jpg">
+  <img src="{{site.baseurl}}/tea_cheatsheet.jpg">
+</a>
+*(Other languages: [日本語]({{site.baseurl}}/tea_cheatsheet_jp.jpg))*
 
 ---
 

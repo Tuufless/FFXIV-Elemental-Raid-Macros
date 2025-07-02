@@ -31,8 +31,11 @@ Looking towards the future:
 Patch 8.0.
 - Relic weapons (when they arrive) will have their substats capped at **393**.
 
-![]({{site.baseurl}}/fru_cheatsheet.jpg)
-*(Full-size image: [English]({{site.baseurl}}/fru_cheatsheet.jpg))*
+<div>
+  <a href="{{site.baseurl}}/fru_cheatsheet.jpg">
+    <img src="{{site.baseurl}}/fru_cheatsheet.jpg">
+  </a>
+</div>
 
 ## Markers
 

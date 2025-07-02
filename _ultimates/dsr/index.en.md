@@ -28,8 +28,10 @@ Elemental's DSR PF strat can be broken down as follows:
 - Relic weapons will have their substats capped at **269**.
 - Use the highest grade potions available.
 
-![]({{site.baseurl}}/dsr_cheatsheet.jpg)
-*(Full-size image: [English]({{site.baseurl}}/dsr_cheatsheet.jpg), [日本語]({{site.baseurl}}/dsr_cheatsheet_jp.jpg))*
+<a href="{{site.baseurl}}/dsr_cheatsheet.jpg">
+  <img src="{{site.baseurl}}/dsr_cheatsheet.jpg">
+</a>
+*(Other languages: [日本語]({{site.baseurl}}/dsr_cheatsheet_jp.jpg))*
 
 ---
 
