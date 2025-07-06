@@ -76,7 +76,12 @@ Furthermore, when the party needs to split into groups of four:
 As mentioned above, although my first static used the strategies documented 
 here for our clear, there *are* things I would change if I were to do it again.
 
-**Markers:** I would strongly consider testing out markers in a square formation:
+**Markers:** I would consider testing out markers in a square formation:
+
+![]({{site.baseurl}}/images/ultimates/fru/square_markers.jpg)
+<details markdown=block>
+<summary>XIVLauncher WaymarkPresetPlugin positions</summary>
+
 ```json
 {
   "Name":"FRU (Square markers)",
@@ -91,6 +96,8 @@ here for our clear, there *are* things I would change if I were to do it again.
   "Four":{"X":93.0,"Y":0.0,"Z":107.0,"ID":7,"Active":true}
 }
 ```
+
+</details>
 - In particular, the cardinal `ABCD` markers are closer towards the center, and
 line up with the boss's targeting circle in P5, making them the center point
 for all Exaline dodges during *Fulgent Blade*.
