@@ -460,6 +460,11 @@ casters.
   from getting stunned to the knockback is just under 15 seconds, we reserve
   both healer 120s mitigations for this because they last 20s each and have
   the largest margin of error.
+- The default plan below has five party mitigations for *Hallowed Wings*, which
+  is overkill and leaves a weak spot at *Memory's End* and *Morn Afah* #1.
+  Consider moving one tank's 90s party mitigation (especially if they are
+  WAR/PLD) forward to cover *Memory's End* → *Morn Afah* #1 instead of 
+  *Darklit Dragonsong* → *Hallowed Wings*.
 
 <table>
   <tr>
@@ -725,6 +730,15 @@ casters.
 
 ### MT
 
+The default mitigation plan has *both* tanks use their 90s party mitigation at
+*Hallowed Wings* during *Crystallize Time*. However, this is too much 
+mitigation at this spot (MT 90s, ST 90s, H1 120s, H2 120s, D3), which leaves a
+bit of a weak spot at *Memory's End* and *Morn Afah* #1.
+
+Consider having one tank (especially if they are WAR/PLD) move their 90s party
+mitigation from *Darklit Dragonsong* → *Hallowed Wings* to *Memory's End* → 
+*Morn Afah* #1.
+
 <table>
   <tr>
     <td>
@@ -862,8 +876,12 @@ casters.
         <li>MT 90s, 40%
           <ul>
             <li>Use these around the time the Oracle of Darkness jumps on
-            someone (<em>Spirit Taker</em>) just before the rewind
-            resolves.</li>
+            someone (<em>Spirit Taker</em>) just before the rewind resolves.</li>
+            <li>The party actually has more than enough mitigation for
+            <em>Hallowed Wings</em>. Consider having one tank move their 90s 
+            forward to cover <em>Morn Afah</em> #1 instead, especially if they 
+            are WAR/PLD. That tank should also bring their 90s mitigations 
+            forward to <em>Memory's End</em> and <em>Morn Afah</em> #1.</li>
           </ul>
         </li>
       </ul>
@@ -903,6 +921,15 @@ casters.
 </table>
 
 ### ST
+
+The default mitigation plan has *both* tanks use their 90s party mitigation at
+*Hallowed Wings* during *Crystallize Time*. However, this is too much 
+mitigation at this spot (MT 90s, ST 90s, H1 120s, H2 120s, D3), which leaves a
+bit of a weak spot at *Memory's End* and *Morn Afah* #1.
+
+Consider having one tank (especially if they are WAR/PLD) move their 90s party
+mitigation from *Darklit Dragonsong* → *Hallowed Wings* to *Memory's End* → 
+*Morn Afah* #1.
 
 <table>
   <tr>
@@ -983,11 +1010,12 @@ casters.
         <li>ST 90s, 40%
           <ul>
             <li>Use this around the time the Oracle of Darkness jumps on
-            someone (<em>Spirit Taker</em>) just before the rewind
-            resolves.</li>
-            <li>Of note, the party actually has more than enough mitigation for
-            <em>Hallowed Wings</em>. Consider moving this forward to cover
-            <em>Morn Afah</em> #1 instead.</li>
+            someone (<em>Spirit Taker</em>) just before the rewind resolves.</li>
+            <li>The party actually has more than enough mitigation for
+            <em>Hallowed Wings</em>. Consider having one tank move their 90s 
+            forward to cover <em>Morn Afah</em> #1 instead, especially if they 
+            are WAR/PLD. That tank should also bring their 90s mitigations 
+            forward to <em>Memory's End</em> and <em>Morn Afah</em> #1.</li>
           </ul>
         </li>
       </ul>
