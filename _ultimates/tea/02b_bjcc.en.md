@@ -33,16 +33,21 @@ Tanks should try to have minor cooldowns available for the Lightning passes.
   </tr>
 </table>
 
+---
+
+## Mechanics
+
+This phase contains two "hot potato" loops that the party must handle 
+simultaneously.
+
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
 <details markdown=block>
-<summary><b>[Click to Expand] Water/Thunder and Nisi breakdown</b></summary>
-<p>This phase contains two "hot potato" loops that the party must handle 
-simultaneously.</p>
-<p><b>Loop 1: Water/Thunder:</b></p>
+<summary><b>[Click to Expand] Loop 1: Compressed Water/Lightning breakdown</b></summary>
 <p>These are two 30-second debuffs that are applied on two players when Brute 
 Justice casts <em>Link-up</em>.</p>
-<p>When the timer expires, the debuff explodes in a shared-damage AoE, centered
-on the affected player.</p>
+<p>When the timer expires, the debuffs explode in a shared-damage AoE 
+(<em>Crashing Wave</em> and <em>Crashing Thunder</em>), centered on the 
+affected player.</p>
 <ul>
   <li>If the player with the debuff ever dies, the debuff explodes and wipe the 
   raid.</li>
@@ -86,14 +91,19 @@ on the affected player.</p>
         <li>Starts on a <b>random DPS</b>.</li>
         <li>The more players that are hit, the <b>more damage</b> each player
         takes.</li>
-        <li>For this reason, we want <b>exactly two players</b> in each Thunder 
-        stack <em>(the person with the Thunder debuff, and the person we want
-        to pass it to.)</em>.</li>
+        <li>For this reason, we want <b>exactly two players</b> in each 
+        Lightning stack <em>(the person with <em>Compressed Lightning</em>, and 
+        the person we want to pass it to.)</em>.</li>
       </ul>
     </td>
   </tr>
 </table>
-<p><b>Loop 2: Nisi:</b></p>
+</details>
+</div>
+
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+<details markdown=block>
+<summary><b>[Click to Expand] Loop 2: Nisi breakdown</b></summary>
 <p>These are DoTs that are applied on either all the DPS, or all the tanks and 
 healers when Brute Justice casts Judgment Nisi.</p>
 <table>
@@ -131,21 +141,21 @@ players:</p>
       <ul>
         <li>Each Final Judgment Decree Nisi debuff goes onto two players- one
         tank/healer, and one DPS.</li>
-        <li>Each player <b>must have the corresponding Nisi debuff</b> on them
-        when Gavel finishes its cast, or the raid wipes.</li>
+        <li>All eight players <b>must have the corresponding Nisi debuff</b> on 
+        them when <em>Gavel</em> finishes its cast, or <em>Gavel</em> will
+        result in a wipe.</li>
       </ul>
     </td>
   </tr>
 </table>
-<p>The party must essentially keep both debuff loops going, passing Water, 
-Thunder, and all Nisis around until Brute Justice casts Gavel, which removes
-all the debuffs.</p>
 </details>
 </div>
 
----
+The party must keep both debuff loops going, passing *Compressed Water*, 
+*Compressed Lightning*, and all Nisis around until Brute Justice casts *Gavel*, 
+which removes all the debuffs.
 
-## Movement
+---
 
 <table>
   <tr>
@@ -240,7 +250,7 @@ all the debuffs.</p>
         Water can preposition to bait Fire and the Hidden Mine.</li>
         <li><b>D1</b>: Note D1 is <em>never</em> involved in the first Water
         stack.</li>
-        <li><b>D3</b>: Be careful if you have the first Thunder as your path
+        <li><b>D3</b>: Be careful if you have the first Lightning as your path
         may cross D2's path to the Water stack.</li>
       </ul>
     </td>
@@ -250,17 +260,17 @@ all the debuffs.</p>
   </tr>
   <tr>
     <td>
-      <p><b>7. First Water/Thunder pass</b>.</p>
+      <p><b>7. First Water/Lightning pass</b>.</p>
       <ul>
         <li><b>Water:</b> Healer + at least two of D2, D3, D4 (excluding
-        whoever had Thunder)</li>
-        <li><b>Thunder:</b> DPS → ST</li>
-        <li><b>D1</b>: You may need to avoid the Thunder explosion by moving
+        whoever had Lightning)</li>
+        <li><b>Lightning:</b> DPS → ST</li>
+        <li><b>D1</b>: You may need to avoid the Lightning explosion by moving
         towards the MT.</li>
       </ul>
       <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
       <b>Tip:</b> If tanks pop <em>Rampart</em> just before the first
-      Water/Thunder, it will mitigate the Thunder, autoattacks from Cruise
+      Water/Lightning, it will mitigate the Lightning, autoattacks from Cruise
       Chaser/Brute Justice, the upcoming <em>Hidden Mine</em> if the tanks are
       quick, <em>and</em> be back up in time for <em>Double Rocket Punch</em>
       at the end of the phase.</div>
@@ -358,10 +368,10 @@ all the debuffs.</p>
       <p><b>12. Second Water + Lightning pass.</b></p>
       <ul>
         <li><b>Water:</b> All DPS</li>
-        <li><b>Thunder:</b> ST → MT</li>
+        <li><b>Lightning:</b> ST → MT</li>
       </ul>
       <ul>
-        <li><b>MT</b>: Face Cruise Chaser west after receiving Thunder to
+        <li><b>MT</b>: Face Cruise Chaser west after receiving Lightning to
         prepare for the <em>Plasma Shield</em>.</li>
       </ul>
       <p>Keep in mind that Cruise Chaser will autoattack the MT after this
@@ -415,7 +425,7 @@ all the debuffs.</p>
       <p><b>15. Third Water + Lightning pass</b>.</p>
       <ul>
         <li>Water: All DPS (except 2nd Water) + H2</li>
-        <li>Thunder: MT → H1</li>
+        <li>Lightning: MT → H1</li>
       </ul>
     </td>
 	  <td>
@@ -466,15 +476,18 @@ all the debuffs.</p>
     <td>
       <p><b>19.</b> Brute Justice targets the furthest player and casts
       <em>Apocalyptic Ray</em>.</p>
-      <p>After this, Cruise Chaser casts two <em>Whirlwinds</em> (one after the
-      other) before both bosses start casting their enrage. If one boss dies,
-      the other starts casting their enrage.</p>
     </td>
 	  <td>
       <img src="{{site.baseurl}}/images/ultimates/tea/02b/bjcc_19.jpg">
     </td>
   </tr>
 </table>
+
+After the *Apocalyptic Ray*, Cruise Chaser casts two *Whirlwinds* (one after
+the other) before both bosses start casting their enrage (*Eternal Darkness* 
+and *Final Sentence*).
+
+If either boss dies, the other starts casting their enrage.
 
 ---
 
@@ -693,12 +706,13 @@ overkill?
 <table>
   <tr>
     <td>
-      <p>Water and Thunder work differently.</p>
+      <p>Water and Lightning work differently.</p>
       <p>While <em>Crashing Wave</em> works like any other stack damage (damage
-      is lowered as more people are hit by <em>Crashing Wave</em>), Thunder is
-      the opposite; damage <em>increases</em> as more people are hit by
+      is lowered as more people are hit by <em>Crashing Wave</em>), Lightning 
+      is the opposite; damage <em>increases</em> as more people are hit by
       <em>Crashing Thunder</em>.</p>
-      <p>This is why we want the Thunder stacks to contain exactly two players.</p>
+      <p>This is why we want the Lightning stacks to contain exactly two 
+      players.</p>
     </td>
   </tr>
 </table>
