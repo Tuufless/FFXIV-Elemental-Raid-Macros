@@ -256,12 +256,10 @@ Morn* into *Morn Afah*.
       <em>Akh Morn</em>:</p>
       <ul>
         <li>The Usurper of Frost should target a tank. Both tanks stack
-        together to the side.</li>
+        together South.</li>
         <li>The Oracle of Darkness should target a non-tank. The other six
         party members stack together in the middle of the arena.</li>
       </ul>
-      <p><b>Note:</b> The solo tank <em>cannot</em> use their 40% mitigation,
-      as they will need it for <em>Crystallize Time</em>.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/04/akh_morn_01.jpg">
