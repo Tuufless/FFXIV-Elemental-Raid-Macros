@@ -1238,47 +1238,7 @@ Gaia and turning her into the Oracle of Darkness.
 
 <details markdown=block>
 <summary>
-  <b>[Light Rampant (4:4 CW adjust)]</b> Why do I dislike 4:4 CW adjust so much?
-</summary>
-<table>
-  <tr>
-    <td width="50%">
-      <p>Compared to 4:4 East adjust, 4:4 CW adjust overcomplicates the
-      mechanic:</p>
-      <ul>
-        <li>It requires players look at more things than is necessary.</li>
-        <li>It makes 4-6 players adjust for something that can be resolved with
-        just one player adjusting.</li>
-      </ul>
-      <p>Consider D2's position in the example on the right.</p>
-      <p>With the 4:4 East adjust strat, the tower that D2 goes to is <em>fully
-      determined</em> just by looking West along their row (i.e: D1). D2 sees
-      there is no puddle on D1, therefore they are the second player in their
-      row, and are therefore taking the North tower.</p>
-      <p><b>This is <em>not</em> true for 4:4 CW adjust</b>, as both puddles
-      <em>could</em> be on the tanks/healers, meaning D2 is now the
-      <em>first</em> player in their row (after D1 rotates up), and they go to
-      the South-West tower instead. As a result, each DPS needs to look at the
-      <em>entire</em> DPS lineup instead of just looking to one side (and the
-      same goes for the tanks/healers).</p>
-      <p>As a result, compared to 4:4 East adjust, 4:4 CW adjust needs more
-      information, and adds an extra layer (rotating 4-6 players) onto
-      something that can just be resolved by just having the East-most player
-      adjust instead (only one player adjusts).</p>
-      <p>The fact that people were making macros containing <em>lookup
-      tables</em> for 4:4 CW adjust just convinces me further that I simply
-      <em>cannot</em> recommend 4:4 CW adjust as a strategy in good faith.</p>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_faq.jpg">
-    </td>
-  </tr>
-</table>
-</details>
-
-<details markdown=block>
-<summary>
-  <b>[Light Rampant (4:4 East adjust)]</b> Where's the east adjust?
+  <b>[Light Rampant]</b> Where's the east adjust?
 </summary>
 <table>
   <tr>
@@ -1311,53 +1271,6 @@ Gaia and turning her into the Oracle of Darkness.
     </td>
     <td width="50%">
       <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_44east_faq_02b.jpg">
-    </td>
-  </tr>
-</table>
-</details>
-
-<details markdown=block>
-<summary>
-  <b>[Light Rampant (4:4 East adjust)]</b> Why do we flip the DPS instead of
-  the tanks/healers?
-</summary>
-<table>
-  <tr>
-    <td width="50%">
-      <p>Believe it or not, this isn't done just to be different from the 4:4
-      CW adjust strat. There are a couple practical reasons why.</p>
-      <ul>
-        <li>Flipping the DPS gives the healers the closer tower (North-West), so
-        they have <em>slightly</em> more time to squeeze in any last-minute
-        healing.</li>
-        <li>Flipping the DPS also makes the tower diagram nicer, as counting 
-        clockwise "reverses" the DPS as you would count them from their 
-        right-to-left. The diagram on the right illustrates the tower numbers
-        if you flipped the tanks/healers instead.</li>
-      </ul>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_lucrezia_faq.jpg">
-    </td>
-  </tr>
-</table>
-</details>
-
-<details markdown=block>
-<summary>
-  <b>[Light Rampant (4:4 East adjust)]</b> Is there a reason the puddles turn
-  right (going CCW) instead of left (going CW)?
-</summary>
-<table>
-  <tr>
-    <td>
-      <p>This is done to accommodate D4, in particular, PCT.</p>
-      <p>The PCT's possible towers with the 4:4 East adjust strat place them
-      either NE or SW.</p>
-      <p>Having the puddles turn right means that the <em>Weight of Light</em> 
-      stacks are also NE or SW, keeping them close to the PCT's towers thus
-      allowing them to paint their motifs to prepare for when the boss is
-      targetable again.</p>
     </td>
   </tr>
 </table>
@@ -1532,6 +1445,102 @@ Gaia and turning her into the Oracle of Darkness.
       <p>If any Crystals of Darkness have been destroyed, Gaia's attack will
       fail, and she will question <em>"Is my Darkness not enough!?"</em>,
       indicating something has gone wrong.</p>
+    </td>
+  </tr>
+</table>
+</details>
+
+---
+
+## Strategy Related Questions
+
+<details markdown=block>
+<summary>
+  <b>[Light Rampant]</b> Why 4:4 East adjust instead of 4:4 CW adjust like what 
+  most data-centers do?
+</summary>
+<table>
+  <tr>
+    <td width="50%">
+      <p>Adjusting by making the tethered players rotate clockwise is quite 
+      possibly the <em>worst</em> way to resolve an imbalanced tether split
+      that's not a meme strategy.</p>
+      <p>Compared to 4:4 East adjust, 4:4 CW adjust overcomplicates the
+      mechanic:</p>
+      <ul>
+        <li>It requires players look at more things than is necessary.</li>
+        <li>It makes 4-6 players adjust for something that can be resolved with
+        just one player adjusting.</li>
+      </ul>
+      <p>Consider D2's position in the example on the right.</p>
+      <p>With the 4:4 East adjust strat, the tower that D2 goes to is <em>fully
+      determined</em> just by looking West along their row (i.e: D1). D2 sees
+      there is no puddle on D1, therefore they are the second player in their
+      row, and are therefore taking the North tower.</p>
+      <p>Similarly, D3 sees there is no puddle on either D1 or D2, therefore
+      they will go to the South-West tower.</p>
+      <p><b>This is <em>not</em> true if the party adjusts clockwise</b>, as
+      both puddles <em>could</em> be on the tanks/healers, meaning D2 is now
+      the <em>first</em> player in their row (after D1 rotates up), and they go
+      to the South-West tower instead. As a result, each DPS needs to look at
+      the <em>entire</em> DPS lineup instead of just looking to one side (and
+      the same goes for the tanks/healers).</p>
+      <p>As a result, compared to 4:4 East adjust, 4:4 CW adjust needs more
+      information, and adds an extra layer (rotating 4-6 players) onto
+      something that can just be resolved by just having the East-most player
+      adjust instead (only one player adjusts).</p>
+      <p>The fact that people were making macros containing <em>lookup
+      tables</em> for 4:4 CW adjust just convinces me further that I simply
+      <em>cannot</em> recommend 4:4 CW adjust as a strategy in good faith.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_faq.jpg">
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
+  <b>[Light Rampant]</b> Why do we flip the DPS instead of the tanks/healers?
+</summary>
+<table>
+  <tr>
+    <td width="50%">
+      <p>Believe it or not, this isn't done just to be different from the 4:4
+      CW adjust strat. There are a couple practical reasons why.</p>
+      <ul>
+        <li>Flipping the DPS gives the healers the closer tower (North-West), so
+        they have <em>slightly</em> more time to squeeze in any last-minute
+        healing.</li>
+        <li>Flipping the DPS also makes the tower diagram nicer, as counting 
+        clockwise "reverses" the DPS as you would count them from their 
+        right-to-left. The diagram on the right illustrates the tower numbers
+        if you flipped the tanks/healers instead.</li>
+      </ul>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru/02/light_rampant_lucrezia_faq.jpg">
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
+  <b>[Light Rampant]</b> Is there a reason the puddles turn right (going CCW) 
+  instead of left (going CW)?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>This is done to accommodate D4, in particular, PCT.</p>
+      <p>The PCT's possible towers with the 4:4 East adjust strat place them
+      either NE or SW.</p>
+      <p>Having the puddles turn right means that the <em>Weight of Light</em> 
+      stacks are also NE or SW, keeping them close to the PCT's towers thus
+      allowing them to paint their motifs to prepare for when the boss is
+      targetable again.</p>
     </td>
   </tr>
 </table>

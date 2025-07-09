@@ -750,34 +750,6 @@ party advances to the final phase.
 
 <details markdown=block>
 <summary>
-  <b>[Darklit Dragonsong]</b> Why vertical Darklit over horizontal?
-</summary>
-<table>
-  <tr>
-    <td width="50%">
-      <p>Horizontal Darklit (where the groups line up horizontally North and
-      South) may be more commonplace, but I think it is a bad way to resolve
-      the Darklit tethers because it introduces an additional point of failure
-      into the mechanic.</p>
-      <p>In particular, the tethers will always go on one tank, one healer,
-      and two DPS.</p>
-      <p>Having the roles line up vertically East and West guarantees that
-      exactly two players on each side are tethered, and two are not, making
-      it easy for the players to move into position.</p>
-      <p>On the other hand, if you line up horizontally North and South like
-      many groups do, then you introduce an additional failure point if either
-      D1+D2 or D3+D4 get tethered, because D2 and D3 now need to swap sides,
-      like in the example shown.</p>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/darklit_02a.jpg">
-    </td>
-  </tr>
-</table>
-</details>
-
-<details markdown=block>
-<summary>
   <b>[Darklit Dragonsong]</b> Who should we debuff to reduce incoming damage?
 </summary>
 <table>
@@ -821,28 +793,6 @@ party advances to the final phase.
 
 <details markdown=block>
 <summary>
-  <b>[Darklit Dragonsong]</b> Why do we rotate instead of just swapping the
-  tank and the North-most DPS?
-</summary>
-<table>
-  <tr>
-    <td>
-      <p>With the two bosses in the way, it's quite annoying to look at the
-      other side- rotating means that all adjustments are contained to your
-      side of the bosses.</p>
-      <p>Rotating also allows both DPS to rotate into the Oracle of Darkness
-      in the event of an hourglass, which is an advantage because the Oracle
-      of Darkness will have higher HP at the time, so it's better to have DPS
-      on her instead of a tank.</p>
-      <p>Not having players cross over to the other side also means that it's
-      easier for the non-tether Water player to adjust.</p>
-    </td>
-  </tr>
-</table>
-</details>
-
-<details markdown=block>
-<summary>
   <b>[Darklit Dragonsong]</b> How close or far can you get before the tethers
   snap?
 </summary>
@@ -851,42 +801,6 @@ party advances to the final phase.
     <td>
       <p>The tethers break if they are <b>shorter than around 8 yalms</b>, or
       <b>longer than around 26 yalms.</b></p>
-    </td>
-  </tr>
-</table>
-</details>
-
-<details markdown=block>
-<summary>
-  <b>[Akh Morn]</b> Why 6:2 over 7:1? How does 6:2 work?
-</summary>
-<table>
-  <tr>
-    <td>
-      <p>The intuitive solution for <em>Akh Morn</em> is to stack the party in
-      your standard 4:4 light parties.</p>
-      <p>However, this deals considerable damage to the party. People quickly
-      realised that although the party was rather soft to <em>Akh Morn</em>, it
-      could be easily solo'ed by a tank with some mitigation instead.</p>
-      <p>This had the added benefit of having the other seven party members
-      share the other <em>Akh Morn</em>, significantly lowering the damage
-      compared to 4:4, so 7:1 quickly caught on.</p>
-      <p>However, the problem with 7:1 is that if a tank dies to either
-      <em>Darklit Dragonsong</em> or <em>Crystallize Time</em>, the remaining
-      tank will have aggro on both bosses, and thus get both Light and Dark
-      debuffs from the first <em>Akh Morn</em> hit and die, and that quickly
-      leads to a wipe.</p>
-      <p>6:2 is the next evolution, and is a way around this problem.</p>
-      <p>6:2 works because only the Usurpur of Frost autoattacks, while the
-      Oracle of Darkness does not. Therefore, a tank <em>doesn't actually
-      need</em> to hold aggro on the Oracle of Darkness.</p>
-      <p>By having the tanks build hate on the Usurper of Frost at the start,
-      then turning their tank stance <em>off</em> when the Oracle of Darkness
-      appears, we ensure that the tanks never get hate on the Oracle of
-      Darkness, so the <em>Akh Morn</em>s always go on a tank and a non-tank.</p>
-      <p>Now, in the event a tank dies (particularly at <em>Crystallize
-      Time</em>), the remaining tank only has aggro on the Usurper of Frost,
-      and can continue to resolve <em>Akh Morn</em> with a 6:1 split instead.</p>
     </td>
   </tr>
 </table>
@@ -918,29 +832,6 @@ party advances to the final phase.
       <p><em>(You can think of it as the Usurper of Frost is the one that
       applies all the debuffs on the party, although it's actually the
       environment that does so.)</em></p>
-    </td>
-  </tr>
-</table>
-</details>
-
-<details markdown=block>
-<summary>
-  <b>[Crystallize Time]</b> Why do the anti-knockback strat instead of just
-  doing it normally?
-</summary>
-<table>
-  <tr>
-    <td>
-      <p>Using <em>Arm's Length/Surecast</em> to mitigate the knockback from
-      the first <em>Hallowed Wings</em> allows the party to record their
-      positions closer to the center.</p>
-      <p>This accomplishes two things:</p>
-      <ul>
-        <li>The party positions do not need to be precise, and players don't
-        have to travel as far to record.</li>
-        <li>It lets the party spread use their standard clock positions for
-        <em>Spirit Taker</em> (because they recorded near the center).</li>
-      </ul>
     </td>
   </tr>
 </table>
@@ -1036,6 +927,134 @@ party advances to the final phase.
       <p>The waymarks are positioned such that standing on them will be far
       enough from the Fragment of Fate that <em>Spirit Taker</em> will miss,
       but not so far that D1/D2 misses the tank's party mitigation.</p>
+    </td>
+  </tr>
+</table>
+</details>
+
+---
+
+## Strategy Related Questions
+
+<details markdown=block>
+<summary>
+  <b>[Darklit Dragonsong]</b> Why vertical Darklit over horizontal?
+</summary>
+<table>
+  <tr>
+    <td width="50%">
+      <p>Horizontal Darklit (where the groups line up horizontally North and
+      South) may be more commonplace because this is how <em>Light Rampant</em> 
+      tethers were resolved in E8S (<em>Eden's Verse: Refulgence (Savage)</em>).</p>
+      <p>In both cases, the tethers will always go on one tank, one healer,
+      and two DPS.</p>
+      <p>However, <em>Light Rampant</em> in E8S did not have the added
+      requirement that two non-tethered players should be on the West and East 
+      sides of the boss, which is why this method works there.</p>
+      <p>In <em>Darklit Dragonsong</em>, that additional requirement means 
+      resolving the tethers like E8S introduces an additional point of 
+      failure into the mechanic.</p>
+      <p>If each role lines up horizontally North and South, then if either
+      D1+D2 or D3+D4 get tethered, D2 and D3 now need to swap sides, like in
+      the example shown. This is a point of failure if either D2 or D3 do not 
+      realise they need to swap.</p>
+      <p>If each role lines up vertically East and West instead, we guarantee
+      that exactly two players on each side are tethered, and two are not,
+      making it easy for the four non-tethered players to move into position.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/darklit_02a.jpg">
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
+  <b>[Darklit Dragonsong]</b> If the tethers make an hourglass, why rotate all 
+  tethered players instead of just swapping two diagonally opposite players?
+</summary>
+<table>
+  <tr>
+    <td width="50%">
+      <p>The tethers do not lock in at the same time the towers resolve- there
+      are four seconds in between.</p>
+      <ul>
+        <li>If you swap two diagonally opposite players, you risk snapping the
+        tethers from being too short if either player is slow.</li>
+        <li>By rotating the tethered players, the tethers stay stretched, so there 
+        is more leeway if a player is slow, and the players still have a few 
+        seconds to make it to their tower.</li>
+      </ul>
+      <p>Rotating clockwise also allows both tethered DPS to rotate into the 
+      Oracle of Darkness, which is preferred since the Oracle of Darkness will 
+      have more HP at the time, and we need to balance out the boss's HP for
+      the upcoming <em>Morn Afah</em>.</p>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
+  <b>[Akh Morn]</b> Why 6:2 over 7:1?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>The intuitive solution for <em>Akh Morn</em> is to stack the party in
+      your standard 4:4 light parties.</p>
+      <p>However, this deals considerable damage to the party. People quickly
+      realised that although the party was rather soft to <em>Akh Morn</em>,
+      one <em>Akh Morn</em> stack could be easily solo'ed by a tank with some 
+      mitigation instead.</p>
+      <p>This had the added benefit of having the other seven party members
+      share the other <em>Akh Morn</em>, significantly lowering the damage
+      compared to 4:4, so 7:1 quickly caught on.</p>
+      <p>However, the problem with 7:1 is that if a tank dies to either
+      <em>Darklit Dragonsong</em> or <em>Crystallize Time</em>, the remaining
+      tank will have aggro on both bosses, and thus get both Light and Dark
+      debuffs from the first <em>Akh Morn</em> hit and die, and now both
+      <em>Akh Morns</em> target the party, quickly leading to a wipe.</p>
+      <p><b>6:2 is the next evolution, and is a way around this problem.</b></p>
+      <p>6:2 works because only the Usurpur of Frost autoattacks, while the
+      Oracle of Darkness does not. Therefore, a tank <em>doesn't actually
+      need</em> to hold aggro on the Oracle of Darkness.</p>
+      <p>By having the tanks build hate on the Usurper of Frost at the start,
+      then turning their tank stance <em>off</em> when the Oracle of Darkness
+      appears, we ensure that the tanks never get hate on the Oracle of
+      Darkness, so the <em>Akh Morn</em>s always go on a tank and a non-tank.</p>
+      <p>Now, in the event a tank dies (particularly at <em>Crystallize
+      Time</em>), the remaining tank only has aggro on the Usurper of Frost,
+      and can continue to resolve <em>Akh Morn</em> with a 6:1 split instead.</p>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
+  <b>[Hallowed Wings]</b> Why do the anti-knockback strat instead of just
+  doing it as intended?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>Using <em>Arm's Length/Surecast</em> to mitigate the knockback from
+      the first <em>Hallowed Wings</em> allows the party to record their
+      positions closer to the center.</p>
+      <p>This accomplishes three things:</p>
+      <ul>
+        <li>It lets the party not have to remember which side the first line
+        AoE originated from.</li>
+        <li>Where the party records their positions are a lot more lenient.</li>
+        <li>The party can use their standard clock positions for <em>Spirit 
+        Taker</em> (because they recorded near the center).</li>
+      </ul>
+      <p>Of course, there are drawbacks to this method- namely having to save
+      party and tank mitigation, but groups that resolve <em>Hallowed
+      Wings</em> the "intended" way already use mitigation to hedge against
+      things going awry, so you may as well do the simpler strategy.</p>
     </td>
   </tr>
 </table>
