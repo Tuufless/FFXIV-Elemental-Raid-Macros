@@ -76,7 +76,7 @@ Furthermore, when the party needs to split into groups of four:
 As mentioned above, although my first static used the strategies documented 
 here for our clear, there *are* things I would change if I were to do it again.
 
-**Markers:** I would consider testing out markers in a square formation:
+**Markers:** I would consider markers in a square formation:
 
 ![]({{site.baseurl}}/images/ultimates/fru/square_markers.jpg)
 <details markdown=block>
@@ -98,38 +98,42 @@ here for our clear, there *are* things I would change if I were to do it again.
 ```
 
 </details>
-- In particular, the cardinal `ABCD` markers are closer towards the center, and
-line up with the boss's targeting circle in P5, making them the center point
-for all Exaline dodges during *Fulgent Blade*.
-- However, I'm not sure if the intercardinal markers are *too* close for the 
-vertical *Burnt Strikes* in P1 (although this is minor), and whether 
-*Apocalypse* gets confusing with the markers in a square formation.
+- In particular, the cardinal `ABCD` markers mark the center point for all
+  Exaline dodges during *Fulgent Blade*.
+- However, I'm not sure if *Apocalypse* gets confusing with the markers in a
+  square.
+
+I tried these markers once, and I didn't particularly find them helpful or
+harmful, though this is probably because I'm already familiar enough with the
+mechanics that I didn't really need them anyway. I'd be interested to hear what
+someone progging the fight would think.
 
 **P1:** I would tweak some parts to follow Mana (although keep the ST's base 
 position East):
 - *Cyclonic Break*: I would *not* do coloured sectors, but instead have 
-everybody rotate clockwise for Lightning spreads instead. This keeps the 
-healers closer to the center.
+  everybody rotate clockwise for Lightning spreads instead, keeping the healers 
+  *slightly* closer to the center.
 - *Fall of Faith*: I would line up West-to-East (and resolve the tethers West 
-and East), instead of lining up North-to-South. This is more minor, since the 
-North-to-South lineup is just for convenience since the tethers at the end of 
-*Utopian Sky* are North and South, but lining up horizontally makes it slightly 
-easier to discern the second, third, and fourth tethers as they all originate 
-perpendicular to the lineup.
+  and East), instead of lining up North-to-South. This is more minor, since the 
+  North-to-South lineup is just for convenience since the tethers at the end of 
+  *Utopian Sky* are North and South, but lining up horizontally makes it slightly 
+  easier to discern the second, third, and fourth tethers as they all originate 
+  perpendicular to the lineup.
 - *Towers*: This is a minor tweak, but I would do a hybrid- I would have the
-base positions as D1/H1 north, D2/H2 mid, D3/D4 south (which resembles Mana), 
-but I would *keep* how the party adjusts for towers (don't count from the North 
-like Mana).
+  base positions as D1/H1 north, D2/H2 mid, D3/D4 south (which resembles Mana), 
+  but I would *keep* how the party adjusts for towers (don't count from the North 
+  like Mana).
 
-**P2:** I would change some parts to follow Mana (not updating *Mirror, 
-Mirror*).
+**P2:** I would change some parts to follow Mana:
 - *Diamond Dust*: I would *not* do coloured sectors, but have the whole party 
-rotate clockwise if needed instead. This keeps the movement consistent across 
-the whole party (instead of having T/H go anti-clockwise, DPS clockwise).
-- *Light Rampant*: I would *not* drop the puddles starting E/W and going 
-anti-clockwise. This is a minor point, but the "L-shaped" style that is very
-common elsewhere is also compatible with the way Mana drops puddles, so I feel
-leaving this up to the individual to choose which they prefer is better.
+  rotate clockwise if needed instead. This keeps the movement consistent across 
+  the whole party (instead of having T/H go anti-clockwise, DPS clockwise). I
+  would still have both parties move anti-clockwise in the case where the
+  Usurper of Frost spawns 45 degrees clock from a party though.
+- *Light Rampant*: This is a minor point, but I would *not* drop the puddles 
+  starting E/W and going anti-clockwise. The "L-shaped" style that is very
+  common elsewhere is also compatible with the way Mana drops puddles, so I feel
+  leaving this up to the individual to choose which they prefer is better.
 
 ---
 
