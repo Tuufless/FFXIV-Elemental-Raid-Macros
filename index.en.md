@@ -5,7 +5,7 @@ nav_order: 1
 permalink: /
 ---
 
-# FFXIV Elemental Raid Macros
+# Tuufless's FFXIV Notes
 
 This repository is a collection of my notes for Ultimate strategies encountered in
 the Elemental and Mana Data Centers (DC).

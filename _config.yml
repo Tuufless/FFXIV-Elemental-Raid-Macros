@@ -3,8 +3,8 @@ remote_theme: just-the-docs/just-the-docs@v0.9.0
 plugins:
   - jekyll-seo-tag
 
-title: "FFXIV Elemental Raid Macros"
-description: "Final Fantasy XIV Elemental DC Raid Macros"
+title: "Tuufless's FFXIV Notes"
+description: "Raiding in FFXIV JP data centers"
 
 favicon_ico: "favicon.ico"
 
@@ -24,7 +24,10 @@ back_to_top: true
 back_to_top_text: "Back to top"
 
 collections:
-  ultimates:
+  elemental:
+    permalink: "/:collection/:path/"
+    output: true
+  mana:
     permalink: "/:collection/:path/"
     output: true
   static:
@@ -34,7 +37,9 @@ collections:
 # The order and names here determines the order in the sidebar
 just_the_docs:
   collections:
-    ultimates:
-      name: Ultimates
+    elemental:
+      name: Ultimates (Elemental)
+    mana:
+      name: Ultimates (Mana)
     static:
       name: Static
