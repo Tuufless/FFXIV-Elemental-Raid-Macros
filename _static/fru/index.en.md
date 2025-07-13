@@ -112,7 +112,8 @@ someone progging the fight would think.
 position East):
 - *Cyclonic Break*: I would *not* do coloured sectors, but instead have 
   everybody rotate clockwise for Lightning spreads instead, keeping the healers 
-  *slightly* closer to the center.
+  *slightly* closer to the center. It also lets the entire party resolve
+  Lightning spreads inside a Sacred Soil without squeezing in the middle.
 - *Fall of Faith*: I would line up West-to-East (and resolve the tethers West 
   and East), instead of lining up North-to-South. This is more minor, since the 
   North-to-South lineup is just for convenience since the tethers at the end of 
