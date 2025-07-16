@@ -11,21 +11,15 @@ This repository is a collection of my notes for Ultimate strategies encountered 
 the Elemental and Mana Data Centers (DC).
 
 <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
-<p><b>NEW URL:</b> <a href="https://xivjpraids.com/">XIV JP Raids</a></p>
-<p><b>Why?</b> Those who have been around the Discord might know that I've been
-wanting to rebrand things for some time now.</p>
-<ul>
-  <li>Since DC travel became a thing, I haven't been PF'ing in Elemental.</li>
-  <li>I also cannot cover <em>all</em> forms of raid content by myself (note
-  the lack of Criterion, or Chaotic Alliance Raid coverage)</li>
-</ul>
-<p>Starting with Patch 7.2, I've decided to move the resources over to 
-<a href="https://xivjpraids.com/">XIV JP Raids</a>. The EX and Savage resources
-here will get moved over, leaving this site just to host the (non-FRU) Ultimate
-guides, since PF seems to have associated those strats with me.</p>
-<p>Moving forward, this site will be used for more personal content (e.g: for
-my statics), and not necessarily reflect what PF does.</p>
+<p><b>Notice:</b> PF strats for EX trials and Savage raids have been moved to <a href="https://xivjpraids.com/">XIV JP Raids</a></p>
 </div>
+
+Documentation has been split into three categories:
+
+- **Ultimates (Elemental):** Ultimate strategies encountered in Elemental DC.
+- **Ultiamtes (Mana):** Ultimate strategies encountered in Mana DC.
+- **Static:** These are the strats I would personally do (N.B: not necessarily
+what PF does!)
 
 ---
 
