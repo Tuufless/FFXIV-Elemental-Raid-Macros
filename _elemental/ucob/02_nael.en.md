@@ -693,5 +693,25 @@ The healers should start casting a heal to make it in time for *Calamitous
 Blaze*, but watch out in case some party members are too low HP after the 
 knockback (under 2.8k HP).
 
+
+---
+
+## Frequently Asked Questions
+
+<details markdown=block>
+<summary>
+  <b>[Iron Chariot/Raven Dive]</b> Can you knockback immune these?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>No, <em>Arm's Length/Surecast</em> does not work.</p>
+      <p>However, it <em>is</em> possible for tanks to gapclose back in if they 
+      time things just right (since tanks survive the damage).</p>
+    </td>
+  </tr>
+</table>
+</details>
+
 <script data-goatcounter="https://tuufless.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
