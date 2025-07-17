@@ -1550,10 +1550,6 @@ not to use their potions at certain buff windows.
       <p>In <em>Wave Cannon's</em> case, the base damage of the initial beams
       is lethal, but <em>not by much</em>, and is thus particularly 
       susceptible to being overmitigated this way.</p>
-      <p>A single <em>Reprisal</em> lowers the damage down to the point where it
-      borders on not being lethal. A second debuff lowers the damage down to 
-      well within a player's max HP. This is no longer lethal damage, and no LB
-      will be generated as a result.</p>
       <p>Take note:</p>
       <ul>
         <li>This specifically affects boss <b>debuffs</b> <em>(Addle, Dismantle, 
