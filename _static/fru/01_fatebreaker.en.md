@@ -111,12 +111,10 @@ attention to this colour.**
   <tr>
     <td width="50%">
       <p><b>6.</b> Take up these modified spread positions for <em>Utopian Sky</em>. Note that the ST and D4 have swapped positions.</p>
-      <ul>
-        <li>The two tanks should be slightly away from the edge of the arena.</li>
-        <li>D3 and D4 should be at the edge of the arena, preferably a little away from the tanks.</li>
-      </ul>
       <p>There will be eight clones around the arena at the (inter)cardinal 
       positions, but <em>only visible</em> to players nearby.</p>
+      <p>D3 is positioned away from the MT, but close enough to the North-West
+      to see their clone.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/01/utopian_sky_01.jpg">
@@ -125,7 +123,8 @@ attention to this colour.**
   <tr>
     <td>
       <p><b>7.</b> The MT's <em>Powder Mark Trail</em> resolves, hitting both
-      the MT and the ST with a large AoE tankbuster.</p>
+      the MT and the closest player (which should be the ST) with large AoE 
+      tankbusters.</p>
       <p>At this time, three clones will raise their gunblade <em>(indicated
       by the red targets)</em> to fire a straight line AoE down the middle,
       leaving two opposite sectors safe.</p>
