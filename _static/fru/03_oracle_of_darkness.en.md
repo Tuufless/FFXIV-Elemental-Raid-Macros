@@ -398,7 +398,7 @@ I personally use the following macros to help:
 /echo 　　　　Ultimate Relativity (T/H)
 /echo ーーーーーーーーーーーーーーーーーーーーー
 /echo 　 ｜Short/Ice   ｜Mid Fire    ｜Long Fire
-/echo ーーーーーーーーーーーーーーーーーーーーー
+/echo ーーーーーーーーーーーーーーーーー(x2)ーー
 /echo  1.｜Out/Mid　 ｜Mid　　　 ｜Mid
 /echo  2.｜ Rewind TL｜Rewind TL｜Bait Laser
 /echo  3.｜ Mid　　　 ｜Out Fire 　｜Mid
@@ -412,7 +412,7 @@ I personally use the following macros to help:
 /echo 　　　　Ultimate Relativity (DPS)
 /echo ーーーーーーーーーーーーーーーーーーーーー
 /echo 　 ｜Short Fire  ｜Mid Fire   　｜Long/Ice
-/echo ーーーーーーーーーーーーーーーーーーーーー
+/echo ーーーー(x2)ーーーーーーーーーーーーーーー
 /echo  1.｜ Out Fire 　｜Mid　　　　｜Mid
 /echo  2.｜ Rewind TL｜Rewind Mid｜Bait Laser
 /echo  3.｜ Mid　　　 ｜Out Fire　　｜Mid
