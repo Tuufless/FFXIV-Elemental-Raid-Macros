@@ -120,6 +120,15 @@ standing at at the end of the previous section.
       Omega-M was standing before, or directly opposite.</p>
       <p><b>Identify your tower based on the waymark you were standing 
       beside at the end of the previous section.</b></p>
+      <p>To help remember the positions, using the "point" of the star as
+      "North" (or the side with four towers as "South"):</p>
+      <ul>
+        <li>"ABCD" goes in order from left-to-right on the side with four
+        towers.</li>
+        <li>Odd numbers go left, even numbers go right.</li>
+        <li><b>3</b> and <b>4</b> adjust depending on whether the party has
+        <em>Mid Glitch</em> or <em>Remote Glitch</em>.</li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -144,6 +153,28 @@ standing at at the end of the previous section.
     </td>
   </tr>
 </table>
+
+Alternatively, some people like to post macros in `/echo` or in `/party` to
+help:
+```
+ 　　　Mid Glitch
+           ~  1              2 ~
+        ~                            ~
+     ~                                 ~
+   ~                                     ~
+   ~  A, 3                  D, 4  ~
+     ~                                 ~
+       --       B          C     --
+```
+```
+　　Remote Glitch
+           ~       2, 1       ~
+      ~                              ~
+   ~                                   ~
+   ~  A                          D  ~
+   ~                                    ~
+     ~   B, 3             C, 4 ~
+```
 
 ---
 
