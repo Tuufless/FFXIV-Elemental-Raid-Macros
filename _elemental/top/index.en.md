@@ -23,14 +23,9 @@ Elemental's TOP PF strat can be broken down as follows:
 
 ### BiS Notes
 
-- The Omega Protocal has **not** been outgeared yet.
-    - BiS will be a mix of i630 gear, and i635 gear from The Lunar Subterrane.
-    - Substats-wise, melded i635 > melded i630 > i730 > i720 > i710 >>> i660.
-
-Looking towards the future:
-
-- The Omega Protocol will not be outgeared until **i760** gear is available.
-- Relic weapons (when they arrive) will have their substats capped at **287**.
+- Any gear at or above **i760** will have their substats capped.
+- Relic weapons will have their substats capped at **287**.
+- Use the highest available food and potions.
 
 <a href="{{site.baseurl}}/top_cheatsheet.jpg">
   <img src="{{site.baseurl}}/top_cheatsheet.jpg">

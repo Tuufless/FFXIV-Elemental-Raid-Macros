@@ -24,9 +24,8 @@ Elemental's DSR PF strat can be broken down as follows:
 ### BiS Notes
 
 - Any gear at or above **i730** will have their substats capped.
-    - Substats-wise, i730 > i720 > melded i605 > melded i600 > i710 >>> i660.
 - Relic weapons will have their substats capped at **269**.
-- Use the highest grade potions available.
+- Use the highest available food and potions.
 
 <a href="{{site.baseurl}}/dsr_cheatsheet.jpg">
   <img src="{{site.baseurl}}/dsr_cheatsheet.jpg">
