@@ -255,7 +255,7 @@ casters.
     </td>
   </tr>
   <tr>
-    <td>Akh Morn</td>
+    <td>Sunburst Holy x4</td>
     <td>
       <ul>
         <li>H1 120s, MT 90s, ST 90s</li>
@@ -387,7 +387,7 @@ casters.
     </td>
     <td>
       <ul>
-        <li>ST Reprisal, H2 30s</li>
+        <li>ST Reprisal, H2 30s, D2</li>
       </ul>
     </td>
     <td>
@@ -399,7 +399,7 @@ casters.
     </td>
     <td>
       <ul>
-        <li>MT + ST Rampant + 40% + + 3rd + short.</li>
+        <li>MT + ST Rampant + 40% + 3rd + short.</li>
       </ul>
     </td>
     <td>
@@ -443,7 +443,7 @@ casters.
     </td>
     <td>
       <ul>
-        <li>H2 30s</li>
+        <li>H2 30s, D1</li>
       </ul>
     </td>
     <td>
@@ -473,7 +473,7 @@ casters.
     </td>
     <td>
       <ul>
-        <li>MT Reprisal, MT 90s, ST 90s, D1, D3</li>
+        <li>MT Reprisal, MT 90s, ST 90s, D2, D3</li>
       </ul>
     </td>
     <td>
@@ -512,14 +512,12 @@ casters.
       <p>Morn Afah #1</p>
     </td>
     <td>
-      <ul>
-        <li>D2</li>
-      </ul>
     </td>
     <td>
       <ul>
         <li>Covered by ST <em>Reprisal</em> and H2 30s from <em>Akh Morn</em>.</li>
         <li>Debuffs should target the <em>Usurper of Frost</em>.</li>
+        <li>Use any extra mitigation here.</li>
       </ul>
     </td>
   </tr>
@@ -529,7 +527,7 @@ casters.
     </td>
     <td>
       <ul>
-        <li>MT Reprisal, D4</li>
+        <li>MT Reprisal, D1, D4</li>
       </ul>
     </td>
     <td>
@@ -1415,7 +1413,7 @@ are fairly common, adapt this as needed if H1 is a SCH or SGE.
       <ul>
         <li><em>Feint</em></li>
       </ul>
-      <p><b>Critical Error</b></p>
+      <p><b>Memory's End</b></p>
       <ul>
         <li><em>Feint</em></li>
       </ul>
@@ -1426,19 +1424,11 @@ are fairly common, adapt this as needed if H1 is a SCH or SGE.
       <p><b>P4. Gaia and Shiva</b></p>
     </td>
     <td>
-      <p><b>Darklit Dragonsong</b></p>
+      <p><b>Crystallize Time</b></p>
       <ul>
         <li><em>Feint</em>
           <ul>
-            <li>Make sure you <em>Feint</em> the Usurper of Frost.</li>
-          </ul>
-        </li>
-      </ul>
-      <p><b>Akh Morn → Morn Afah #2</b></p>
-      <ul>
-        <li><em>Feint</em>
-          <ul>
-            <li>Make sure you <em>Feint</em> the Usurper of Frost.</li>
+            <li>Make sure you <em>Feint</em> the Oracle of Darkness.</li>
           </ul>
         </li>
       </ul>
@@ -1527,11 +1517,11 @@ This assumes D2 is a melee DPS.
       <p><b>P4. Gaia and Shiva</b></p>
     </td>
     <td>
-      <p><b>Crystallize Time</b></p>
+      <p><b>Darklit Dragonsong</b></p>
       <ul>
         <li><em>Feint</em>
           <ul>
-            <li>Make sure you <em>Feint</em> the Oracle of Darkness.</li>
+            <li>Make sure you <em>Feint</em> the Usurper of Frost.</li>
           </ul>
         </li>
       </ul>
