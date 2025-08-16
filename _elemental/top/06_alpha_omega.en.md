@@ -67,7 +67,8 @@ mitigation plan is:
   </tr>
   <tr>
     <td>short</td>
-    <td><em>Bloodwhetting/Nascent Flash, The Blackest Night, Heart of Conundrum, Sheltron/Intervention</em></td>
+    <td><em>Bloodwhetting/Nascent Flash, The Blackest Night, Heart of
+    Conundrum, Sheltron/Intervention</em></td>
   </tr>
 </table>
 </details>
@@ -161,9 +162,10 @@ comfort.
 
 <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
   <p><b>Note:</b> There is an edge case where you specifically have a PLD MT
-  with a GNB ST.</p>
+  that used <em>Hallowed Ground</em> at the first <em>Solar Ray</em> in P5,
+  paired with a GNB ST at used <em>Superbolide</em> on the second.</p>
   <p>In such a scenario, the two tanks will need to swap their invuln vs 
-  mitigation for the two <em>Wave Cannons</em> (i.e: MT invuln first).</p>
+  mitigation for the two <em>Wave Cannons</em> (i.e: PLD MT invuln first).</p>
 </div>
 
 ---
