@@ -681,18 +681,16 @@ lethal by removing players, who are then saved by the shields).
 The knockback damage from *Seventh Umbral Era* is based on proximity to the 
 center.
 
-The goal is to go down to around 6k HP, at which point *Calamitous Flame* would 
-have killed the party in the absence of tank LB3. If players are taking too 
-little damage, consider removing shields, or standing closer. If someone's HP 
-goes below 3k at the knockback, they are too close.
+The goal is to go down to around 4-6k HP, at which point *Calamitous Flame*
+would have killed the party in the absence of tank LB3. If players are taking
+too little damage, consider removing shields, or standing closer.
 
-With a tank LB3 (80% mitigation), each weak damage pulse hits for a little 
-under 1.4k damage, and the strong one for around 5.5k.
+With a tank LB3 (80% mitigation), each weak *Calamitous Flame* pulse hits for
+approximately 1.3k damage, and *Calamitous Blaze* hits for a little under 5.5k.
 
 The healers should start casting a heal to make it in time for *Calamitous 
 Blaze*, but watch out in case some party members are too low HP after the 
-knockback (under 2.8k HP).
-
+knockback (under 4k HP), where they may die to the three *Calamitous Flames*.
 
 ---
 
