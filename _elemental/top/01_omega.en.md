@@ -221,24 +221,37 @@ These will be your starting sectors.
 
 <table>
   <tr>
-    <td><img src="{{site.baseurl}}/images/ultimates/top/01/pantokrator_02a.jpg"></td>
+    <td colspan="2">
+      In these examples, the first <em>Flamethrower</em> <b>does not hit</b> NW/SE,
+      so those are the starting positions for each group.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="{{site.baseurl}}/images/ultimates/top/01/pantokrator_02a.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top/01/pantokrator_02d.jpg"></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      In these examples, the first <em>Flamethrower</em> <b>hits</b> NW/SE, so each
+      group rotates clockwise until they reach a safe area.
+    </td>
+  </tr>
+  <tr>
     <td><img src="{{site.baseurl}}/images/ultimates/top/01/pantokrator_02b.jpg"></td>
     <td><img src="{{site.baseurl}}/images/ultimates/top/01/pantokrator_02c.jpg"></td>
-    <td><img src="{{site.baseurl}}/images/ultimates/top/01/pantokrator_02d.jpg"></td>
   </tr>
 </table>
 
 <table>
   <tr>
     <td>
-      <p>The movement for Pantokrator goes like this:</p>
+      <p>The movement for Pantokrator goes like this. Each light-party
+      <b>stagger-steps</b> forward, while the next player to bait the missile
+      breaks away from the party.</p>
+      <p>The next missile player's movement looks like this:</p>
       <ol>
         <li>Wave Cannon hits.</li>
         <li>Everybody moves forward for one AoE.</li>
-      </ol>
-      <p>Everybody continues to <b>stagger-step</b> forward, while the next
-      player to bait the missile then breaks away from the party:</p>
-      <ol start="3">
         <li>Drop the next AoE in the center.</li>
         <li>Drop the next AoE in the front (the next round of beams +
         missiles resolves here).</li>
