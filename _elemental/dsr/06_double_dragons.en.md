@@ -388,7 +388,7 @@ second iteration of each of the looped mechanics.
 <table>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/images/ultimates/dsr/06/spreading_flames.png">
+      <img src="{{site.baseurl}}/images/ultimates/dsr/06/debuffs/spreading_flames.png">
     </td>
     <td>
       <p><b>Spreading Flames</b></p>
@@ -407,7 +407,7 @@ second iteration of each of the looped mechanics.
   </tr>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/images/ultimates/dsr/06/entangled_flames.png">
+      <img src="{{site.baseurl}}/images/ultimates/dsr/06/debuffs/entangled_flames.png">
     </td>
     <td>
       <p><b>Entangled Flames</b></p>
