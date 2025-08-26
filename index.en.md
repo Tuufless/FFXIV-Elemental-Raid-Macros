@@ -17,7 +17,7 @@ the Elemental and Mana Data Centers (DC).
 Documentation has been split into three categories:
 
 - **Ultimates (Elemental):** Ultimate strategies encountered in Elemental DC.
-- **Ultiamtes (Mana):** Ultimate strategies encountered in Mana DC.
+- **Ultimates (Mana):** Ultimate strategies encountered in Mana DC.
 - **Static:** These are the strats I would personally do (N.B: not necessarily
 what PF does!)
 
