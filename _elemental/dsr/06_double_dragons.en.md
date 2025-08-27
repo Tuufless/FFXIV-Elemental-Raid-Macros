@@ -400,8 +400,8 @@ second iteration of each of the looped mechanics.
         resolves.</li>
         <li>Your own <em>Spreading Flames</em> will not affect you (it won't
         even do damage), but getting hit by <em>another</em> player's
-        <em>Spreading Flames</em> will debuff and have a large knockback
-        effect.</li>
+        <em>Spreading Flames</em> will apply a <em>Damage Down</em> debuff and
+        have a large knockback effect.</li>
       </ul>
     </td>
   </tr>
