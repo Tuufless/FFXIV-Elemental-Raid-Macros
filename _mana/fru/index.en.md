@@ -71,6 +71,29 @@ Here are some clear PoVs that I've been collecting.
 
 ---
 
+## Macros
+
+In addition, each player will need macros to mark themselves with, as overhead
+markers are used to assign positions.
+
+At *the minimum*, **everyone** will need the following macro:
+```
+/micon attack marking
+/mk attack <me>
+```
+This macro is used to assign puddles in P4's *Crystallize Time*, as well as
+assign DPS with Short Fire positions in P3's *Ultimate Relativity*.
+
+Tanks/Healers will need an additional macro:
+```
+/micon bind1 marking
+/mk bind <me>
+```
+This macro will be used to assign tanks/healers with Long Fire positions in
+P3's *Ultimate Relativity*.
+
+---
+
 ## Frequently Asked Questions
 
 <details markdown=block>
