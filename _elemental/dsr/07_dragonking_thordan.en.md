@@ -234,7 +234,8 @@ the start of this mechanic.
   <tr>
     <td>
       <p><b>4.</b> Continue dodging the next set of Exaflare AoEs.</p>
-      <p>Dodging backwards (see the diagram) will <b>always</b> be safe.</p>
+      <p>Dodging backwards to this spot on the floor (see the diagram) will
+      <b>always</b> be safe.</p>
       <p>As you get more experienced with the mechanic, you will notice
       Exaflare patterns where you can maintain melee uptime <em>(dodging to the
       left in this case)</em>, but this is not necessary.</p>
