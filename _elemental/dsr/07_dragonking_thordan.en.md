@@ -217,10 +217,8 @@ the start of this mechanic.
   </tr>
   <tr>
     <td>
-      <p><b>2.</b> Focus on the bright dot at the center of the Exaflares. This
-      will be your first dodge point.</p>
-      <p>If Dragonking Thordan is facing either north or south, you can also
-      use the floor markings to guide your movement.</p>
+      <p><b>2.</b> Focus on the bright dot at the center of the Exaflare at
+      Thordan's back. This will be your first dodge point.</p>
     </td>
     <td><img src="{{site.baseurl}}/images/ultimates/dsr/07/exaflare_02.jpg"></td>
   </tr>
@@ -233,9 +231,9 @@ the start of this mechanic.
   </tr>
   <tr>
     <td>
-      <p><b>4.</b> Continue dodging the next set of Exaflare AoEs.</p>
-      <p>Dodging backwards to this spot on the floor (see the diagram) will
-      <b>always</b> be safe.</p>
+      <p><b>4.</b> Dodge a second time to avoid the next set of Exaflare AoEs.</p>
+      <p>If Thordan is facing either north or south, dodging backwards to this
+      spot on the floor (see the diagram) will <b>always</b> be safe.</p>
       <p>As you get more experienced with the mechanic, you will notice
       Exaflare patterns where you can maintain melee uptime <em>(dodging to the
       left in this case)</em>, but this is not necessary.</p>
@@ -243,6 +241,86 @@ the start of this mechanic.
     <td><img src="{{site.baseurl}}/images/ultimates/dsr/07/exaflare_04.jpg"></td>
   </tr>
 </table>
+
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+<details markdown=block>
+<summary>
+  <b>[Click to Expand] Uptime Exaflare's Edge</b>
+</summary>
+<p>Dodging south as explained above will be safe for <em>all</em> possible
+Exaflare configurations.</p>
+<p>This obviously puts the party out of melee range. However, it <em>is</em>
+possible to dodge <em>all Exaflare's Edge</em> combinations with <em>full melee
+uptime</em>.</p>
+<ol>
+  <li>Your first dodge will always be to the center of an Exaflare.</li>
+  <li>The orientation of the other two Exaflares determine your second dodge.</li>
+</ol>
+<p>This is <em>not</em> an exhaustive list, but Exaflares generally fall into
+one of the following four categories:</p>
+<table>
+  <tr>
+    <td width="50%">
+      <p><b>Case 1: Neither NW or NE Exaflares are diagonal.</b></p>
+      <p>This is the "easy" case, and only needs one dodge into the South
+      Exaflare.</p>
+      <ol>
+        <li>Move to the center of the South Exaflare.</li>
+        <li>Stay where you are.</li>
+      </ol>
+    </td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/07/uptime_exaflare_01.jpg"></td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>Case 2: Only the NW Exaflare is diagonal.</b></p>
+      <ol>
+        <li>Move to the center of the South Exaflare.</li>
+        <li>Dodge to the left.</li>
+      </ol>
+    </td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/07/uptime_exaflare_02.jpg"></td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>Case 3: Only the NE Exaflare is diagonal.</b></p>
+      <ol>
+        <li>Move to the center of the South Exaflare.</li>
+        <li>Dodge to the right.</li>
+      </ol>
+    </td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr/07/uptime_exaflare_03.jpg"></td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>Case 4: Both the NW and NE Exaflares are diagonal.</b></p>
+      <p>This is the "forced downtime" pattern <em>(if you use the South
+      Exaflare)</em>.</p>
+      <ol>
+        <li>Move to the center of the South Exaflare.</li>
+        <li>Dodge south.</li>
+      </ol>
+      <p><b>Note:</b> As shown in the second diagram, it <em>is still
+      possible</em> to dodge this configuration with full melee uptime if you
+      first dodge into the North-West or North-East Exaflare instead.</p>
+      <p>However, you will still need to read the other two Exaflares to
+      determine your second dodge.</p>
+      <p>The South Exaflare may also pass through the center of your chosen
+      Exaflare, so not all Exaflares are equal. In this example, <em>only</em>
+      the NW Exaflare has the "dodge in, and stay" movement, while you will
+      need to adjust slightly if you used the NE Exaflare.</p>
+      <p>Personally, I feel the additional complexity is not worth the uptime
+      in this scenario, but the option <em>is</em> there if you know what
+      you're doing.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/dsr/07/uptime_exaflare_04a.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/dsr/07/uptime_exaflare_04b.jpg">
+    </td>
+  </tr>
+</table>
+</details>
+</div>
 
 Thordan will then auto-attack twice, which should be taken by the two tanks,
 and D1, followed by D2.
