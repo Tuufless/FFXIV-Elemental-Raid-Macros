@@ -369,9 +369,10 @@ Where Thordan faces after *Akh Morn's Edge* doesn't matter.
       <p><em>Gigaflare's Edge</em> is a series of three raid-wide AoEs, each
       with an epicenter in a triangle going clockwise or anti-clockwise around
       Dragonking Thordan.</p>
-      <p>This is <em>not</em> falloff damage- standing inside the marked region
-      <em>(illustrating a South Gigaflare)</em> will one-shot a player, while
-      standing outside just deals heavy damage.</p>
+      <p>Although the damage <em>technically</em> falls off with distance, the
+      falloff is steep enough that they are practically just AoEs. Standing
+      inside the marked region <em>(illustrating a South Gigaflare)</em> will
+      one-shot a player, while standing outside just deals heavy damage.</p>
       <p>Mitigations for <em>Gigaflare's Edge</em> should be timed as the
       entire sequence lasts 8 seconds, while several debuffs (Reprisal, Feint,
       Addle) lasts only 10 seconds.</p>
