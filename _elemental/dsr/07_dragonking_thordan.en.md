@@ -16,7 +16,9 @@ the main mechanics loop.
 ## Mitigations
 
 This phase requires some mitigation planning. To get the most use out of all
-the party's cooldowns, you'd do something like the following:
+the party's cooldowns, you'd do something like the following: <a href="#-strategy-related-questions">
+  <img style="height:1em" src="{{site.baseurl}}/images/icons/eureka.png">
+</a>
 
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
 <details markdown=block>
@@ -341,7 +343,9 @@ All players must be **inside** Thordan's hitbox in order to be within healing
 range of both healers- remember to step inside if Thordan's swords were
 originally red.
 
-*Akh Morn's Edge* will be resolved with a 3-3-2 split.
+*Akh Morn's Edge* will be resolved with a 3-3-2 split. <a href="#-strategy-related-questions">
+  <img style="height:1em" src="{{site.baseurl}}/images/icons/eureka.png">
+</a>
 
 <table>
   <tr>
@@ -372,7 +376,10 @@ Where Thordan faces after *Akh Morn's Edge* doesn't matter.
       <p>Although the damage <em>technically</em> falls off with distance, the
       falloff is steep enough that they are practically just AoEs. Standing
       inside the marked region <em>(illustrating a South Gigaflare)</em> will
-      one-shot a player, while standing outside just deals heavy damage.</p>
+      one-shot a player, while standing outside just deals heavy damage. 
+      <a href="#-frequently-asked-questions">
+        <img style="height:1em" src="{{site.baseurl}}/images/icons/huh.png">
+      </a></p>
       <p>Mitigations for <em>Gigaflare's Edge</em> should be timed as the
       entire sequence lasts 8 seconds, while several debuffs (Reprisal, Feint,
       Addle) lasts only 10 seconds.</p>
@@ -434,7 +441,11 @@ are:
 <table>
   <tr>
     <td><b>First buff window</b></td>
-    <td>After Gigaflare's Edge #1</td>
+    <td>After Gigaflare's Edge #1
+      <a href="#-frequently-asked-questions">
+        <img style="height:1em" src="{{site.baseurl}}/images/icons/huh.png">
+      </a>
+    </td>
   </tr>
   <tr>
     <td><b>Second buff window</b></td>
@@ -446,7 +457,75 @@ Potions can be used at either burst window.
 
 ---
 
-## Frequently Asked Questions
+## <img style="height:1em" src="{{site.baseurl}}/images/icons/huh.png"> Frequently Asked Questions
+
+<details markdown=block>
+<summary>
+  <b>[Gigaflare's Edge]</b> Is <em>Gigaflare's Edge</em> really a point-blank 
+  AoE, or is it proximity-based damage?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p><em>Gigaflare's Edge</em> is actually proximity-based, but the 
+      falloff is very steep, making it act like an AoE.</p>
+      <p>Here's a graph plotting the damage vs distance (in centiyalms). The
+      damage falloff is approximately ~11k damage/yalm.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/dsr/07/gigaflare_faq.jpg">
+      <em>(Credit: radrauser)</em>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
+  <b>[Burst windows]</b> Why is the first burst window after <em>Gigaflare's
+  Edge</em> #1, instead of the P7 opener?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>P7 lasts about 3:45 in total, so there's no way to fit in a 
+      third 2-minute burst window, even if a reopener was used at the start.</p>
+      <p>In addition:</p>
+      <ul>
+        <li>Some players may have opted to use their burst at the end of P6, 
+        after <em>Touchdown</em>.</li>
+        <li>Both dragons can also be downed immediately after <em>Touchdown</em> 
+        if the party's DPS is high.</li>
+      </ul>
+      <p>In either scenario, the 2-minute burst abilities may not necessarily be
+      available at P7's opener, so setting the first burst after <em>Gigaflare's
+      Edge</em> #1 guarantees everyone has their burst abilities ready.</p>
+    </td>
+  </tr>
+</table>
+</details>
+
+---
+
+## <img style="height:1em" src="{{site.baseurl}}/images/icons/eureka.png"> Strategy Related Questions
+
+<details markdown=block>
+<summary>
+  <b>[Mitigation]</b> Is there a reason D2 is paired with D4? Wouldn't double-caster parties overlap Addles?
+</summary>
+<table>
+  <tr>
+    <td><p>Pairing D1 with D4 is something I considered, but decided against
+    as "D2 Feint first" breaks the usual pattern of D1 > D2.</p>
+    <p>That being said, the important part of the mitigation plan is
+    establishing the baseline for where D4 uses their Addle. That way, the
+    second caster knows where not to Addle (regardless of whether they're D2 or
+    D1).</p>
+    <p>The same reasoning applies to double-ranged parties.</p>
+    </td>
+  </tr>
+</table>
+</details>
 
 <details markdown=block>
 <summary>
@@ -498,92 +577,6 @@ Potions can be used at either burst window.
         for healers to forget that the tank in the DPS tower still takes a good
         amount of damage and needs healing as if they were doing 3-3-2.</li>
       </ul>
-    </td>
-  </tr>
-</table>
-</details>
-
-<details markdown=block>
-<summary>
-  <b>[Gigaflare's Edge]</b> Is <em>Gigaflare's Edge</em> really a point-blank 
-  AoE, or is it proximity-based damage?
-</summary>
-<table>
-  <tr>
-    <td>
-      <p><em>Gigaflare's Edge</em> is actually proximity-based, but the 
-      falloff is very steep, making it act like an AoE.</p>
-      <p>Here's a graph plotting the damage vs distance (in centiyalms).</p>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/images/ultimates/dsr/07/gigaflare_faq.jpg">
-      <em>(Credit: radrauser)</em>
-    </td>
-  </tr>
-</table>
-</details>
-
-<details markdown=block>
-<summary>
-  <b>[Mitigation]</b> Is there a reason D2 is paired with D4? What happens with
-  double caster parties? Wouldn't that overlap Addles?
-</summary>
-<table>
-  <tr>
-    <td><p>Pairing D1 with D4 is something I considered, but decided against
-    as "D2 Feint first" breaks the usual pattern of D1 > D2.</p>
-    <p>That being said, the important part of the mitigation plan is
-    establishing the baseline for where D4 uses their Addle. That way, the
-    second caster knows where not to Addle (regardless of whether they're D2 or
-    D1).</p>
-    <p>The same reasoning applies to double-ranged parties.</p>
-    </td>
-  </tr>
-</table>
-</details>
-
-<details markdown=block>
-<summary>
-  <b>[Burst windows]</b> Why is the first burst window after <em>Gigaflare's
-  Edge</em> #1, instead of the P7 opener?
-</summary>
-<table>
-  <tr>
-    <td>
-      <p>P7 lasts about 3:45 in total, so there's no way to fit in a 
-      third 2-minute burst window, even if a reopener was used at the start.</p>
-      <p>In addition:</p>
-      <ul>
-        <li>Some players may have opted to use their burst at the end of P6, 
-        after <em>Touchdown</em>.</li>
-        <li>Both dragons can also be downed immediately after <em>Touchdown</em> 
-        if the party's DPS is high.</li>
-      </ul>
-      <p>In either scenario, the 2-minute burst abilities may not necessarily be
-      available at P7's opener, so setting the first burst after <em>Gigaflare's
-      Edge</em> #1 guarantees everyone has their burst abilities ready.</p>
-    </td>
-  </tr>
-</table>
-</details>
-
----
-
-## Troubleshooting
-
-<details markdown=block>
-<summary>
-  <b>[Akh Morn's Edge]</b> How did my WAR die?
-</summary>
-<table>
-  <tr>
-    <td>
-      <p>Check that the WAR did not use <em>Shake It Off</em> after
-      <em>Vengeance</em>, as <em>Shake It Off</em> removes a WAR's buffs
-      (except for <em>Rampart</em>) if used later.</p>
-      <p>This is something to pay attention to in the second <em>Akh Morn's
-      Edge</em> in particular, as <em>Shake It Off</em> comes back off
-      cooldown there after using it at <em>Alternative End</em>.</p>
     </td>
   </tr>
 </table>

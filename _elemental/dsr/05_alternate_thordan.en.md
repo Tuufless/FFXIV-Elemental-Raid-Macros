@@ -268,7 +268,9 @@ the furthest apart from each other.
         <li>Step into the white puddle left behind to cleanse Doom</li>
       </ul>
       <p>All players should move further to the edge to ensure the chains 
-      break.</p>
+      break. <a href="#-troubleshooting">
+        <img style="height:1em" src="{{site.baseurl}}/images/icons/playdead.png">
+      </a></p>
     </td>
     <td><img src="{{site.baseurl}}/images/ultimates/dsr/05/death_of_the_heavens_08.jpg"></td>
   </tr>
@@ -278,7 +280,9 @@ After Death of the Heavens, eight Meteor Circles will spawn that must be
 quickly destroyed.
 
 A caster LB2 will destroy three Meteor Circles; if there are no casters alive,
-a ranged LB2 will also suffice.
+a ranged LB2 will also suffice. <a href="#-frequently-asked-questions">
+  <img style="height:1em" src="{{site.baseurl}}/images/icons/huh.png">
+</a>
 
 - After all Meteors have been destroyed, Thordan will reappear in the middle
   and start casting *Ancient Quaga*.
@@ -287,47 +291,16 @@ a ranged LB2 will also suffice.
   the enrage.
 
 Once Thordan's HP drops **below 3.0%**, he will stumble, yield, and beg for
-mercy. **Do not kill Thordan.**
+mercy. **Do not kill Thordan.** <a href="#-frequently-asked-questions">
+  <img style="height:1em" src="{{site.baseurl}}/images/icons/huh.png">
+</a>
 
 Thordan will then become untargetable and jump away, moving the party onto the 
 next phase.
 
 ---
 
-## Frequently Asked Questions
-
-<details markdown=block>
-<summary>
-  <b>[Death of the Heavens]</b> Is there a pattern to how the Dooms are
-  assigned?
-</summary>
-<table>
-  <tr>
-    <td>
-      <p>Unfortunately not- who gets the Dooms are completely random.</p>
-      <p>Here's an example where all four tank/healers get Doom.</p>
-    </td>
-  <td><img src="{{site.baseurl}}/images/ultimates/dsr/05/doth_debuffs.jpg"></td></tr>
-</table>
-</details>
-
-<details markdown=block>
-<summary>
-  <b>[Death of the Heavens]</b> Is there a particular reason why Dooms go North
-  instead of South?
-</summary>
-<table>
-  <tr>
-    <td>
-      <p>This is just for simplification- having the Dooms "North" (towards Ser
-      Guerrique) couples the Dooms to North/South positions.</p>
-      <p>That, in turn means that players can dodge based on whether they have
-      Doom or not (Dooms dodge immediately, non-Dooms next), instead of adding
-      a second layer of whether they're North or South.</p>
-    </td>
-  </tr>
-</table>
-</details>
+## <img style="height:1em" src="{{site.baseurl}}/images/icons/huh.png"> Frequently Asked Questions
 
 <details markdown=block>
 <summary>
@@ -356,8 +329,9 @@ next phase.
       jumps in to take the eyes and become Dragonking Thordan.</p>
       <p>However, if you kill Thordan in this alternate timeline, Thordan isn't
       around to take the eyes and the party returns to a repeat of the Eyes
-      phase except this time, Haurchefant isn't dead and the party is now
-      missing Huarchefant's buff needed to damage the blue eye.</p>
+      phase. This time around, Haurchefant isn't dead and the party is now
+      missing Huarchefant's buff needed to damage the blue eye, leading to a
+      wipe when the gauge fills.</p>
       <blockquote class="twitter-tweet">
         <p lang="ja" dir="ltr">もしも最後のトールダンを生かさず倒したらルート
           <a href="https://t.co/KSCL1DuGH7">pic.twitter.com/KSCL1DuGH7</a>
@@ -374,7 +348,7 @@ next phase.
 
 ---
 
-## Troubleshooting
+## <img style="height:1em" src="{{site.baseurl}}/images/icons/playdead.png"> Troubleshooting
 
 <details markdown=block>
 <summary>
@@ -389,6 +363,28 @@ next phase.
       <p>The AoE size on the diagram is accurate.</p>
     </td>
     <td><img src="{{site.baseurl}}/images/ultimates/dsr/05/death_of_the_heavens_08.jpg"></td>
+  </tr>
+</table>
+</details>
+
+---
+
+## <img style="height:1em" src="{{site.baseurl}}/images/icons/eureka.png"> Strategy Related Questions
+
+<details markdown=block>
+<summary>
+  <b>[Death of the Heavens]</b> Is there a particular reason why Dooms go North
+  instead of South?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>This is just for simplification- having the Dooms "North" (towards Ser
+      Guerrique) couples the Dooms to North/South positions.</p>
+      <p>That, in turn means that players can dodge based on whether they have
+      Doom or not (Dooms dodge immediately, non-Dooms next), instead of adding
+      a second layer of whether they're North or South.</p>
+    </td>
   </tr>
 </table>
 </details>

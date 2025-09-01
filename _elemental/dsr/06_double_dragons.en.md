@@ -77,7 +77,9 @@ We pass "DTTMR", or in other words:
 **DPS → MT → ST → D1/D2 → D3**
 
 All passes happen in the center of the arena, except for the final pass after
-Touchdown (which is just done at the edge).
+Touchdown (which is just done at the edge). <a href="#-frequently-asked-questions">
+  <img style="height:1em" src="{{site.baseurl}}/images/icons/huh.png">
+</a>
 
 ---
 
@@ -91,12 +93,15 @@ a base:
 - **MT, H1, D1, D3** → Prioritize Nidhogg
 - **ST, H2, D2, D4** → Prioritize Hraesvelgr
 
-### Wyrmsbreath #1
+### Wyrmsbreath 1
 
 Each dragon will tether to three non-tank players that need to be sufficiently
-stretched to lower their damage. They will also apply Fire or Ice aspected
-debuffs that cancel each other, so each non-tank player needs to get hit
-by a tether from *each* dragon.
+stretched to lower their damage. <a href="#-troubleshooting">
+  <img style="height:1em" src="{{site.baseurl}}/images/icons/playdead.png">
+</a>
+
+The tethers will also apply Fire or Ice-aspected debuffs that cancel each
+other, so each non-tank player needs to get hit by a tether from *each* dragon.
 
 The tanks also have their own mechanic- either one, or both dragon's mouths
 will glow.
@@ -142,7 +147,9 @@ will apply the <em>Boiling</em> debuff.</p>
       <p><em>Fire-aspected damage is taken with every action.</em></p>
       <ul>
         <li>Ticks for about 40-45k damage if an action is taken, including 
-        auto-attacks.</li>
+        auto-attacks. <a href="#-frequently-asked-questions">
+  <img style="height:1em" src="{{site.baseurl}}/images/icons/huh.png">
+</a></li>
         <li>Lasts 30 seconds.</li>
       </ul>
     </td>
@@ -356,7 +363,9 @@ Here are some other potential configurations to consider:
 </details>
 
 The party should continue to **attack Hraesvelgr** during this whole sequence,
-even after Nidhogg returns.
+even after Nidhogg returns. <a href="#-frequently-asked-questions">
+  <img style="height:1em" src="{{site.baseurl}}/images/icons/huh.png">
+</a>
 
 After the *Mortal Vow* pass, Nidhogg will cast *Wroth Flames*, and Hraesvelgr
 will leave the arena.
@@ -380,7 +389,9 @@ second iteration of each of the looped mechanics.
   set will always spawn first, followed by two more sets on opposite corners.
 - Finally, the party will be affected by a variety of spread and stack debuffs 
   that will resolve at the end together with either *Hot Wing* or *Hot Tail* 
-  from Nidhogg.
+  from Nidhogg. <a href="#-frequently-asked-questions">
+  <img style="height:1em" src="{{site.baseurl}}/images/icons/huh.png">
+</a>
 
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
 <details markdown=block>
@@ -439,6 +450,9 @@ second iteration of each of the looped mechanics.
 
 To help assign player positions for the final spread and stack, it is common
 practice to mark the players. However, there are two different marking schemes.
+<a href="#-frequently-asked-questions">
+  <img style="height:1em" src="{{site.baseurl}}/images/icons/huh.png">
+</a>
 
 <table>
   <tr>
@@ -846,7 +860,9 @@ we needed the fire/ice debuffs in order to survive this mechanic.
   <tr>
     <td width="50%">
       <p><b>1.</b> Nidhogg and Hraesvelgr will spawn along the north edge in a
-      <b>random</b> configuration, and dive down each half.</p>
+      <b>random</b> configuration, and dive down each half. <a href="#-frequently-asked-questions">
+  <img style="height:1em" src="{{site.baseurl}}/images/icons/huh.png">
+</a></p>
       <p>The first player hit by each dive takes additional damage, and are
       taken by the tanks with their invulns.</p>
       <ul>
@@ -924,7 +940,7 @@ transition to the final phase *(Dragonking Thordan will not be targetable*
 
 ---
 
-## Frequently Asked Questions
+## <img style="height:1em" src="{{site.baseurl}}/images/icons/huh.png"> Frequently Asked Questions
 
 <details markdown=block>
 <summary>
@@ -937,6 +953,25 @@ transition to the final phase *(Dragonking Thordan will not be targetable*
       <em>Mortal Atonement</em> after the first pass.</p>
       <p>However, <em>Mortal Atonement</em> will expire before the final 
       <em>Mortal Vow</em> pass, allowing D3 to take it again.</p>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details markdown=block>
+<summary>
+  <b>[Pyretic]</b> Do channeled abilities/emotes trigger Pyretic?
+</summary>
+<table>
+  <tr>
+    <td>
+      <p>No. Channeled abilities like Improvisation, Meditate, Collective
+      Unconsciousness, Flamethrower, Anatman, or emotes do not count as
+      movement, and will not trigger Pyretic provided they're already
+      in the middle of being channeled.</p>
+      <p>However, <em>starting</em> to channel an ability counts.</p>
+      <p><em>(You really shouldn't channel during Cauterize anyway, as the
+      buildup to Alternative End is a better place to do so.)</em></p>
     </td>
   </tr>
 </table>
@@ -1006,63 +1041,6 @@ transition to the final phase *(Dragonking Thordan will not be targetable*
     Atonement</em> looks like a purple spread debuff).</p>
   </td>
   <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_debuffs.jpg"></td></tr>
-</table>
-</details>
-<details markdown=block>
-<summary>
-  <b>[Wyrmsbreath 2]</b> What is the fixed Wyrmsbreath 2 strat?</summary>
-<table>
-  <tr>
-    <td>
-      <p>As the name implies, this is a strat that fixes all player positions
-      (except for the tanks, who may have to stack in the middle).</p>
-      <p>The fixed Wyrmsbreath 2 strat is popular in other regions, but has
-      fallen out of favour in Elemental.</p>
-      <p>However, player positioning is precise, and when things go wrong, it's
-      often difficult to diagnose what went wrong.</p>
-      <p style="text-align:center">
-        <img src="{{site.baseurl}}/images/ultimates/dsr/06/fixed_wyrmsbreath2.jpg">
-      </p>
-      <ul>
-        <li><b>MT:</b> NW if you get the single-target tankbuster (by Nidhogg).</li>
-        <li><b>ST:</b> SE if you get the single-target tankbuster (by Hraesvelgr).</li>
-      </ul>
-      <p><em>Tanks should stand inside the targeting circles- use where the
-      outer AoE intersects the targeting circle as a reference point. You will
-      kill the healers if you are not in the correct place.</em></p>
-      <ul>
-        <li><b>H1:</b> As far true North as you can go.</li>
-        <li><b>H2:</b> As far true South as you can go.</li>
-        <li><b>D1:</b> NW corner of the white tile beside Nidhogg.</li>
-        <li><b>D2:</b> Between the two white tiles besides Hraesvelgr.</li>
-        <li><b>D3:</b> 1/2 a tile west of the western "train track", as far
-        south as you can go.</li>
-        <li><b>D4:</b> 1/2 a tile east of the eastern "train track", as far
-        north as you can go.</li>
-      </ul>
-      <p>Depending on which dragon they are tethered to, <b>D1's and/or D2's
-      tether may not fully stretch. This is okay, and the damage is not
-      lethal.</b></p>
-    </td>
-  </tr>
-</table>
-</details>
-<details markdown=block>
-<summary>
-  <b>[Pyretic]</b> Do channeled abilities/emotes trigger Pyretic?
-</summary>
-<table>
-  <tr>
-    <td>
-      <p>No. Channeled abilities like Improvisation, Meditate, Collective
-      Unconsciousness, Flamethrower, Anatman, or emotes do not count as
-      movement, and will not trigger Pyretic provided they're already
-      in the middle of being channeled.</p>
-      <p>However, <em>starting</em> to channel an ability counts.</p>
-      <p><em>(You really shouldn't channel during Cauterize anyway, as the
-      buildup to Alternative End is a better place to do so.)</em></p>
-    </td>
-  </tr>
 </table>
 </details>
 
@@ -1138,7 +1116,7 @@ transition to the final phase *(Dragonking Thordan will not be targetable*
 
 ---
 
-## Troubleshooting
+## <img style="height:1em" src="{{site.baseurl}}/images/icons/playdead.png"> Troubleshooting
 
 <details markdown=block>
 <summary>
@@ -1159,6 +1137,59 @@ transition to the final phase *(Dragonking Thordan will not be targetable*
     <td>
       <img src="{{site.baseurl}}/images/ultimates/dsr/06/wyrmsbreath_faq.jpg">
       <em>(Credit: radrauser)</em>
+    </td>
+  </tr>
+</table>
+</details>
+
+---
+
+## <img style="height:1em" src="{{site.baseurl}}/images/icons/eureka.png"> Strategy Related Questions
+
+<details markdown=block>
+<summary>
+  <b>[Wyrmsbreath 2]</b> What is the fixed Wyrmsbreath 2 strat, and why aren't we doing it?</summary>
+<table>
+  <tr>
+    <td>
+      <p>As the name implies, this is a strat that fixes all player positions
+      (except for the tanks, who may have to stack in the middle).</p>
+      <p>The fixed Wyrmsbreath 2 strat is popular in other regions, but has
+      fallen out of favour in Elemental.</p>
+      <p>However, player positioning is precise, and when things go wrong, it's
+      often difficult to diagnose what went wrong.</p>
+      <p style="text-align:center">
+        <img src="{{site.baseurl}}/images/ultimates/dsr/06/fixed_wyrmsbreath2.jpg">
+      </p>
+      <ul>
+        <li><b>MT:</b> NW if you get the single-target tankbuster (by Nidhogg).</li>
+        <li><b>ST:</b> SE if you get the single-target tankbuster (by Hraesvelgr).</li>
+      </ul>
+      <p><em>Tanks should stand inside the targeting circles- use where the
+      outer AoE intersects the targeting circle as a reference point. You will
+      kill the healers if you are not in the correct place.</em></p>
+      <ul>
+        <li><b>H1:</b> As far true North as you can go.</li>
+        <li><b>H2:</b> As far true South as you can go.</li>
+        <li><b>D1:</b> NW corner of the white tile beside Nidhogg.</li>
+        <li><b>D2:</b> Between the two white tiles besides Hraesvelgr.</li>
+        <li><b>D3:</b> 1/2 a tile west of the western "train track", as far
+        south as you can go.</li>
+        <li><b>D4:</b> 1/2 a tile east of the eastern "train track", as far
+        north as you can go.</li>
+      </ul>
+      <p>Depending on which dragon they are tethered to, <b>D1's and/or D2's
+      tether may not fully stretch. This is okay, and the damage is not
+      lethal.</b></p>
+      <p>This strategy is popular in other data centers- however:</p>
+      <ul>
+        <li>It is difficult to tell what went wrong in the event of an accident.</li>
+        <li>Incoming damage is inconsistent on the two melee, leading to
+        inconsistent healing requirements between pulls.</li>
+        <li>The two melee are potentially taking the most damage from the
+        tethers, and <em>Mortal Vow</em> is also on a melee at this point (and has
+        a DoT effect).</li>
+      </ul>
     </td>
   </tr>
 </table>
