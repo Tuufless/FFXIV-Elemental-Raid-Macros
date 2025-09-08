@@ -5,7 +5,7 @@ parent: Lv 90. DSR
 nav_order: 2
 has_children: false
 has_toc: false
-permalink: /ultimates/dsr/01_the_holy_see/
+permalink: /elemental/dsr/01_the_holy_see/
 ---
 
 # The Holy See

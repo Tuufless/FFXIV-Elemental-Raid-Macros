@@ -5,7 +5,7 @@ parent: Lv 100. FRU (Mana)
 nav_order: 4
 has_children: false
 has_toc: false
-permalink: /ultimates/fru/04_gaia_and_shiva/
+permalink: /mana/fru/04_gaia_and_shiva/
 ---
 
 # Gaia and Shiva（2体フェーズ）

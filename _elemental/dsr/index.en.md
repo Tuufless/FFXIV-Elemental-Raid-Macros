@@ -4,7 +4,7 @@ title: Lv 90. DSR
 nav_order: 4
 has_children: true
 has_toc: false
-permalink: /ultimates/dsr/
+permalink: /elemental/dsr/
 ---
 
 # Dragonsong's Reprise (Ultimate)

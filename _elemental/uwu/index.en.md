@@ -4,7 +4,7 @@ title: Lv 70. UWU
 nav_order: 2
 has_children: true
 has_toc: false
-permalink: /ultimates/uwu/
+permalink: /elemental/uwu/
 ---
 
 # The Weapon's Refrain (Ultimate)

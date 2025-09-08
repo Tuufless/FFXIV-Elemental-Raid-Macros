@@ -5,7 +5,7 @@ parent: Lv 100. FRU (Mana)
 nav_order: 9
 has_children: false
 has_toc: false
-permalink: /ultimates/fru/mitigation/
+permalink: /mana/fru/mitigation/
 ---
 
 # Appendix A: Mitigation

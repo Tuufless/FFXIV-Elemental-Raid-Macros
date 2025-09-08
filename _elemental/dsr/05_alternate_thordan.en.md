@@ -5,7 +5,7 @@ parent: Lv 90. DSR
 nav_order: 6
 has_children: false
 has_toc: false
-permalink: /ultimates/dsr/05_alternate_thordan/
+permalink: /elemental/dsr/05_alternate_thordan/
 ---
 
 # Alternate Thordan

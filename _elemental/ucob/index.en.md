@@ -4,7 +4,7 @@ title: Lv 70. UCoB
 nav_order: 1
 has_children: true
 has_toc: false
-permalink: /ultimates/ucob/
+permalink: /elemental/ucob/
 ---
 
 # The Unending Coil of Bahamut (Ultimate)

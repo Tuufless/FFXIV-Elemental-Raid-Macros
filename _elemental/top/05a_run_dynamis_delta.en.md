@@ -3,7 +3,7 @@ layout: default
 title: "5a. Run: Dynamis (Delta)"
 nav_order: 5
 parent: Lv 90. TOP
-permalink: /ultimates/top/05_run_dynamis_delta/
+permalink: /elemental/top/05_run_dynamis_delta/
 ---
 
 # Run: Dynamis (Delta Version)

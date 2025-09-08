@@ -3,7 +3,7 @@ layout: default
 title: "5c. Run: Dynamis (Omega)"
 nav_order: 7
 parent: Lv 90. TOP
-permalink: /ultimates/top/05_run_dynamis_omega/
+permalink: /elemental/top/05_run_dynamis_omega/
 ---
 
 # Run: Dynamis (Omega Version)

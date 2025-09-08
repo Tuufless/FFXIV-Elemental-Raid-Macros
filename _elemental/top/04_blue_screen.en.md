@@ -3,7 +3,7 @@ layout: default
 title: 4. Blue Screen
 nav_order: 4
 parent: Lv 90. TOP
-permalink: /ultimates/top/04_blue_screen/
+permalink: /elemental/top/04_blue_screen/
 ---
 
 # Blue Screen

@@ -2,7 +2,7 @@
 layout: default
 title: 2. Nael deus Darnus
 parent: Lv 70. UCoB
-permalink: /ultimates/ucob/02_nael/
+permalink: /elemental/ucob/02_nael/
 ---
 
 # Nael deus Darnus

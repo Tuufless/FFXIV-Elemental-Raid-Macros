@@ -5,7 +5,7 @@ parent: Lv 90. DSR
 nav_order: 5
 has_children: false
 has_toc: false
-permalink: /ultimates/dsr/04_eyes/
+permalink: /elemental/dsr/04_eyes/
 ---
 
 # Eyes

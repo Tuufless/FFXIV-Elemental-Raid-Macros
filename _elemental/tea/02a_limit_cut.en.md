@@ -2,7 +2,7 @@
 layout: default
 title: 2a. Limit Cut
 parent: Lv 80. TEA
-permalink: /ultimates/tea/02a_limit_cut/
+permalink: /elemental/tea/02a_limit_cut/
 ---
 
 # Limit Cut

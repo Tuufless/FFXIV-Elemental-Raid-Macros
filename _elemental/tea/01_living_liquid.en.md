@@ -2,7 +2,7 @@
 layout: default
 title: 1. Living Liquid
 parent: Lv 80. TEA
-permalink: /ultimates/tea/01_living_liquid/
+permalink: /elemental/tea/01_living_liquid/
 ---
 
 # Living Liquid

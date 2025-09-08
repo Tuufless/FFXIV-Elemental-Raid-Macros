@@ -5,7 +5,7 @@ parent: Lv 100. FRU (Mana)
 nav_order: 1
 has_children: false
 has_toc: false
-permalink: /ultimates/fru/01_fatebreaker/
+permalink: /mana/fru/01_fatebreaker/
 ---
 
 # Fatebreaker（フェイトブレイカ）

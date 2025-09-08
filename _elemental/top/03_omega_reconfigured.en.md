@@ -3,7 +3,7 @@ layout: default
 title: 3. Omega Reconfigured
 nav_order: 3
 parent: Lv 90. TOP
-permalink: /ultimates/top/03_omega_reconfigured/
+permalink: /elemental/top/03_omega_reconfigured/
 ---
 
 # Omega Reconfigured

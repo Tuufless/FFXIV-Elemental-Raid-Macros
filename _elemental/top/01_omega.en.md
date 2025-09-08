@@ -3,7 +3,7 @@ layout: default
 title: 1. Omega
 nav_order: 1
 parent: Lv 90. TOP
-permalink: /ultimates/top/01_omega/
+permalink: /elemental/top/01_omega/
 ---
 
 # Omega

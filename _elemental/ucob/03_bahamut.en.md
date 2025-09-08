@@ -2,7 +2,7 @@
 layout: default
 title: 3. Bahamut
 parent: Lv 70. UCoB
-permalink: /ultimates/ucob/03_bahamut/
+permalink: /elemental/ucob/03_bahamut/
 ---
 
 # Bahamut Prime

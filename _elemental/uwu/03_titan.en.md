@@ -2,7 +2,7 @@
 layout: default
 title: 3. Titan
 parent: Lv 70. UWU
-permalink: /ultimates/uwu/03_titan/
+permalink: /elemental/uwu/03_titan/
 ---
 
 # Titan

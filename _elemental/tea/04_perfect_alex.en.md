@@ -2,7 +2,7 @@
 layout: default
 title: 4. Perfect Alexander
 parent: Lv 80. TEA
-permalink: /ultimates/tea/04_perfect_alex/
+permalink: /elemental/tea/04_perfect_alex/
 ---
 
 # Perfect Alexander

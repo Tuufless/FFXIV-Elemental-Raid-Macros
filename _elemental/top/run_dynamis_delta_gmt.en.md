@@ -3,7 +3,7 @@ layout: default
 title: "B. Delta - GMT"
 nav_order: 10
 parent: Lv 90. TOP
-permalink: /ultimates/top/run_dynamis_delta_gmt/
+permalink: /elemental/top/run_dynamis_delta_gmt/
 ---
 
 # Appendix B: Run Dynamis (Delta Version) - GMT variant

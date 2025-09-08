@@ -2,7 +2,7 @@
 layout: default
 title: 4. Adds phase
 parent: Lv 70. UCoB
-permalink: /ultimates/ucob/04_adds/
+permalink: /elemental/ucob/04_adds/
 ---
 
 # Twintania + Nael deus Darnus

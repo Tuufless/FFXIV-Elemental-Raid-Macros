@@ -5,7 +5,7 @@ parent: Lv 90. DSR
 nav_order: 8
 has_children: false
 has_toc: false
-permalink: /ultimates/dsr/07_dragonking_thordan/
+permalink: /elemental/dsr/07_dragonking_thordan/
 ---
 
 # Dragonking Thordan

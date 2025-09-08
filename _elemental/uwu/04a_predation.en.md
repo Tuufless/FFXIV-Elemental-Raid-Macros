@@ -2,7 +2,7 @@
 layout: default
 title: 4a. Ultimate Predation
 parent: Lv 70. UWU
-permalink: /ultimates/uwu/04a_predation/
+permalink: /elemental/uwu/04a_predation/
 ---
 
 # Ultimate Predation

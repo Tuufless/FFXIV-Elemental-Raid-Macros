@@ -6,7 +6,7 @@ nav_order: 9
 has_children: false
 has_toc: false
 
-permalink: /ultimates/top/mitigation/
+permalink: /elemental/top/mitigation/
 ---
 
 # Appendix A: Mitigation

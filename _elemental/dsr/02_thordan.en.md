@@ -5,7 +5,7 @@ parent: Lv 90. DSR
 nav_order: 3
 has_children: false
 has_toc: false
-permalink: /ultimates/dsr/02_thordan/
+permalink: /elemental/dsr/02_thordan/
 ---
 
 # King Thordan

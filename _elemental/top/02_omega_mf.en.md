@@ -3,7 +3,7 @@ layout: default
 title: 2. Omega M/F
 nav_order: 2
 parent: Lv 90. TOP
-permalink: /ultimates/top/02_omega_mf/
+permalink: /elemental/top/02_omega_mf/
 ---
 
 # Omega M/F

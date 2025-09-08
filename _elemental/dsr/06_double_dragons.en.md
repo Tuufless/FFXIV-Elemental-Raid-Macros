@@ -5,7 +5,7 @@ parent: Lv 90. DSR
 nav_order: 7
 has_children: false
 has_toc: false
-permalink: /ultimates/dsr/06_double_dragons/
+permalink: /elemental/dsr/06_double_dragons/
 ---
 
 # Double Dragons

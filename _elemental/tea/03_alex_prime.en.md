@@ -2,7 +2,7 @@
 layout: default
 title: 3. Alexander Prime
 parent: Lv 80. TEA
-permalink: /ultimates/tea/03_alex_prime/
+permalink: /elemental/tea/03_alex_prime/
 ---
 
 # Alexander Prime

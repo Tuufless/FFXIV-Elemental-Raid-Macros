@@ -5,7 +5,7 @@ parent: Lv 90. DSR
 nav_order: 4
 has_children: false
 has_toc: false
-permalink: /ultimates/dsr/03_nidhogg/
+permalink: /elemental/dsr/03_nidhogg/
 ---
 
 # Nidhogg

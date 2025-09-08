@@ -4,7 +4,7 @@ title: Lv 80. TEA
 nav_order: 3
 has_children: true
 has_toc: false
-permalink: /ultimates/tea/
+permalink: /elemental/tea/
 ---
 
 # The Epic of Alexander (Ultimate)

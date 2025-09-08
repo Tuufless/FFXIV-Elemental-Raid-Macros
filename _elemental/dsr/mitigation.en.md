@@ -6,7 +6,7 @@ nav_order: 9
 has_children: false
 has_toc: false
 
-permalink: /ultimates/dsr/mitigation/
+permalink: /elemental/dsr/mitigation/
 ---
 
 # Appendix A: Mitigation
