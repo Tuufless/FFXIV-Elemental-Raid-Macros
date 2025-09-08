@@ -655,6 +655,8 @@ start another 4-hit *Akh Morn* into *Morn Afah* sequence.
     <td width="50%">
       <p><b>26.</b> The two bosses target whoever has their hate with a 4-hit
       <em>Akh Morn</em> (which again, should be a tank, and non-tank).</p>
+      <p>The two tanks should stack together South, and the rest of the party 
+      stack in the middle.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/04/akh_morn_01.jpg">
