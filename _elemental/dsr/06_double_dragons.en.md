@@ -571,8 +571,8 @@ in after the third Akh Morn.
     </td>
   </tr>
   <tr>
-    <td style="text-align:center"><b>Hot Tail</b></td>
     <td style="text-align:center"><b>Hot Wing</b></td>
+    <td style="text-align:center"><b>Hot Tail</b></td>
   </tr>
   <tr>
     <td>
