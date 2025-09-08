@@ -55,24 +55,24 @@ base mitigation is:
 
 <table>
   <tr>
-    <td><b>Morn Afah #1</b></td>
+    <td><b>Morn Afah #1</b> (0:06)</td>
     <td><p>MT 90s, ST Reprisal, H2 shields, H2 30s, D1, D4</p></td>
   </tr>
   <tr>
-    <td><b>Morn Afah #2</b></td>
+    <td><b>Morn Afah #2</b> (1:01)</td>
     <td>ST 90s, MT Reprisal, H2 shields, H2 30s, D3</td>
   </tr>
   <tr>
-    <td><b>Morn Afah #3</b></td>
-    <td>MT 90s, ST Reprisal, D1, D4</td>
+    <td><b>Morn Afah #3</b> (1:34)</td>
+    <td>MT 90s, ST Reprisal, H2 shields, H2 30s, D1, D4</td>
   </tr>
   <tr>
-    <td><b>Morn Afah #4</b></td>
-    <td>MT Reprisal, ST 90s, D2</td>
+    <td><b>Morn Afah #4</b> (2:25)</td>
+    <td>MT Reprisal, ST 90s, H2 shields, H2 30s, D2</td>
   </tr>
   <tr>
-    <td><b>Morn Afah #5</b></td>
-    <td>MT 90s, ST Reprisal, D3, D4</td>
+    <td><b>Morn Afah #5</b> (3:11)</td>
+    <td>MT 90s, ST Reprisal, H2 shields, H2 30s, D3, D4</td>
   </tr>
 </table>
 
