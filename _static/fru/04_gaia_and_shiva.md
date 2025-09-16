@@ -406,17 +406,23 @@ will also need *at least* three 10% party-mitigations.
         <li>One will also have <em>Dark Blizzard III</em>.</li>
         <li>One will also have <em>Unholy Darkness</em>.</li>
       </ul>
+      <p>These players will need to eventually mark themselves 1-4.</p>
       <p>Identify the purple tether.</p>
-      <p><em>Only</em> the blue player with <em>Dark Eruption</em> goes to the
-      North-side intercardinal mark with the purple tether.</p>
-      <p>Everybody else joins the red Aero player at the South-side
-      intercardinal mark with the purple tether.</p>
-      <p>Keep the red Aero player as the closest player to the edge.</p>
+      <ul>
+        <li><b>Everybody <em>except</em> the player with <em>Dark Eruption</em>:</b> Join the red Aero player SW or SE (whichever has the purple tether).</li>
+        <li>
+          <p><b>Player with <em>Dark Eruption</em>:</b> Go NW or NE (whichever 
+          has the purple tether).</p>
+          <p>Be <em>all the way</em> in the "cubby hole" (marked in green in
+          the diagram, or refer to the screenshot).</p>
+        </li>
+      </ul>
       <p><em>(In this example, the purple tether stretches NW to SE, so the</em>
       Dark Eruption <em>player goes NW, and all other blue players move SE.)</em></p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/04/crystallize_time_01b.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/fru/04/dark_eruption_position.jpg">
     </td>
   </tr>
 </table>
