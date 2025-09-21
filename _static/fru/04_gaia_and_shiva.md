@@ -446,7 +446,7 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>15.</b> The dragon heads reach the E/W red Ice players around the 
+      <p><b>13.</b> The dragon heads reach the E/W red Ice players around the 
       same time the debuffs resolve, and explode in an AoE <em>(Longing of the
       Lost)</em>.</p>
       <ul>
@@ -501,7 +501,6 @@ the sea of mechanics.
         <li>If the telegraph appears on the same side as the red Ice player,
         don't panic and just prepare to dodge into it when it goes off.</li>
       </ul>
-      <p><b>Note which side the telegraph started on (East or West).</b></p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru/04/crystallize_time_05.jpg">
