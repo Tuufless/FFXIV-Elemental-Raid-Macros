@@ -212,18 +212,19 @@ We can now continue with the mechanic.
   <tr>
     <td>
       <p><b>12.</b> The Oracle of Darkness targets the furthest player for
-      <em>Somber Dance</em> (宵闇の舞踏技).</p>
+      <em>Somber Dance</em> (宵闇の舞踏技), which should be baited by the MT (unless
+      the MT is a PLD, in which case the ST baits <em>Somber Dance</em>
+      instead).</p>
+      <p>Depending on where the <em>Spirit Taker</em> at Step 10 landed, this
+      is <b>not necessarily the safe half</b> in Step 11.</p>
       <p>This is actually a two-hit tankbuster, first targeting the furthest
       player, then targeting the closest player.</p>
       <p>However, <em>unlike</em> the Savage version, both hits can be taken by
       the same player, which we do with tank invulnerability.</p>
-      <p>Some notes though:</p>
-      <ul>
-        <li>This <em>cannot</em> be taken by a PLD, as they will need
-        <em>Hallowed Ground</em> for the final phase.</li>
-        <li>This <em>can</em> be taken by a GNB, but a fast killtime could  
-        cause <em>Superbolide</em> to not be available in time for the second <em>Wings Dark and Light</em> in the final phase.</li>
-      </ul>
+      <p>Note that <em>Somber Dance</em>'s AoE is actually slightly
+      <em>larger</em> than the Oracle of Darkness's targeting circle. All other
+      players should move away from the Oracle of Darkness after the first hit
+      to avoid accidentally getting clipped by the second hit.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru_mana/04/darklit_08.jpg">
