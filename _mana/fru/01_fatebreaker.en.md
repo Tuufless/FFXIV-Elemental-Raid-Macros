@@ -65,9 +65,9 @@ shortly in the middle of *Utopian Sky*.
   </tr>
   <tr>
     <td>
-      <p><b>4.</b> Each successive cleave is baited at each player's position during the 
-      <em>previous</em> cleave, so just alternate positions to dodge the last 
-      two sets of cleaves.</p>
+      <p><b>4.</b> Each successive cleave is baited at each player's position
+      during the <em>previous</em> cleave, so just alternate positions to dodge
+      the last two sets of cleaves.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru_mana/01/cyclonic_break_04.jpg">
@@ -115,7 +115,8 @@ attention to this colour.**
 <table>
   <tr>
     <td width="50%">
-      <p><b>6.</b> Take up these modified spread positions for <em>Utopian Sky</em>. Note that the ST and D4 have swapped positions.</p>
+      <p><b>6.</b> Take up these modified spread positions for <em>Utopian
+      Sky</em>. Note that the ST and D4 have swapped positions.</p>
       <p>There will be eight clones around the arena at the (inter)cardinal 
       positions, but <em>only visible</em> to players nearby.</p>
       <p>D3 is positioned away from the MT, but close enough to the North-West
@@ -236,7 +237,8 @@ attention to this colour.**
         </li>
         <li><b>If your group has no Prey markers:</b> MT/D1 swaps groups.</li>
       </ul>
-      <p>Stack together in your north/south groups and wait for a clone to do a second <em>Burnt Strike</em> (Fire) from north-to-south.</p>
+      <p>Stack together in your north/south groups and wait for a clone to do a
+      second <em>Burnt Strike</em> (Fire) from north-to-south.</p>
       <p>Move in after the initial hit to get knocked back towards the edge. 
       <em>(This </em>cannot<em> be nullified by anti-knockback abilities)</em></p>
     </td>

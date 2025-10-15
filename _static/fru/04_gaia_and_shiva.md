@@ -208,7 +208,8 @@ We can now continue with the mechanic.
       time, so stack up on <b>the two intercardinal markers on the safe half of
       the arena.</b></p>
       <ul>
-        <li>This will be far enough to not trigger the tethers while also avoiding the Fragment of Fate.</li>
+        <li>This will be far enough to not trigger the tethers while also
+        avoiding the Fragment of Fate.</li>
         <li>The south group can move closer to the south marker to give some
         extra margin of error if needed.</li>
       </ul>
@@ -408,7 +409,8 @@ will also need *at least* three 10% party-mitigations.
       <p>These players will need to eventually mark themselves 1-4.</p>
       <p>Identify the purple tether.</p>
       <ul>
-        <li><b>Everybody <em>except</em> the player with <em>Dark Eruption</em>:</b> Join the red Aero player SW or SE (whichever has the purple tether).</li>
+        <li><b>Everybody <em>except</em> the player with <em>Dark Eruption</em>:</b>
+        Join the red Aero player SW or SE (whichever has the purple tether).</li>
         <li>
           <p><b>Player with <em>Dark Eruption</em>:</b> Go NW or NE (whichever 
           has the purple tether).</p>
@@ -845,7 +847,8 @@ party advances to the final phase.
 
 <details markdown=block>
 <summary>
-  <b>[Crystallize Time (Hallowed Wings)]</b> Just <em>how</em> does this mechanic work?
+  <b>[Crystallize Time (Hallowed Wings)]</b> Just <em>how</em> does this
+  mechanic work?
 </summary>
 <table>
   <tr>

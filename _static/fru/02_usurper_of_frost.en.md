@@ -19,7 +19,8 @@ Vulnerability Up* debuff that *can* be Esuna'ed.
 
 Both hits can be invulned.
 
-The boss will auto-attack twice after the tankbuster, and its damage is increased with the *Physical Vulnerability Up* debuff.
+The boss will auto-attack twice after the tankbuster, and its damage is
+increased with the *Physical Vulnerability Up* debuff.
 
 Either *Esuna* the *Physical Vulnerability Up*, mitigate through the two
 auto-attacks, or have the ST *Provoke* the boss to take the auto-attacks.
@@ -243,14 +244,15 @@ the puddles directly behind the Usurper of Frost.
 <table>
   <tr>
     <td width="50%">
-      <p><b>Case 1: The Usurper of Frost is at the same position as either party.</b></p>
+      <p><b>Case 1: The Usurper of Frost is at the same position as either
+      party.</b></p>
       <p>Move as soon as the star AoEs go off. You can drop the first <em>Akh
       Morn</em> puddle behind the boss (as it will disappear), but not the
       second.</p>
       <p>Quickly run clockwise 180 degrees around the arena- you need to drop
       four puddles and still make it to the other side.</p>
-      <p>When the floor turns to ice, slide so you're in front of the Usurper of 
-      Frost.</p>
+      <p>When the floor turns to ice, slide so you're in front of the Usurper 
+      of Frost.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru_mana/02/diamond_dust_07d.jpg">

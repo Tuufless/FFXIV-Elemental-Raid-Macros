@@ -95,7 +95,8 @@ out. However, you only need to check a limited set of debuffs.
       <p><b>Spell-in-Waiting: Return</b></p>
       <p>All players will get this debuff, but with different durations.</p>
       <ul>
-        <li>When the debuff resolves, the player's current position is recorded, and this debuff turns into <em>Return</em></li>
+        <li>When the debuff resolves, the player's current position is recorded,
+        and this debuff turns into <em>Return</em></li>
       </ul>
       <p><b>Return</b></p>
       <p><em>Spell-in-Waiting: Return</em> turns into this debuff when it 
@@ -178,9 +179,12 @@ where players record their positions.</p>
 The party can be split up into three groups based off the duration of each 
 player's *Dark Fire III* debuff.
 
-- Three players (two DPS and one tank/healer) will get 10s Fire debuffs (the "short Fires").
-- Two players (one tank/healer and one DPS) will get 20s Fire debuffs (the "mid Fires"). 
-- Three players (two tanks/healers and one DPS) will get 30s Fire debuffs (the "long Fires").
+- Three players (two DPS and one tank/healer) will get 10s Fire debuffs (the
+  "short Fires").
+- Two players (one tank/healer and one DPS) will get 20s Fire debuffs (the "mid
+  Fires"). 
+- Three players (two tanks/healers and one DPS) will get 30s Fire debuffs (the
+  "long Fires").
 
 Either the tank/healer short Fire, or the DPS long Fire will have their *Dark 
 Fire III* debuff replaced with *Dark Blizzard III*.
