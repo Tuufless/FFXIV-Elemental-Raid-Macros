@@ -479,8 +479,15 @@ spinnning).
 
 After you gain control of your characters, stack up in the middle to share a 
 *Shell Crusher* AoE. The hourglasses will disappear, and the boss casts a 
-raid-wide *Shockwave Pulsar*. The boss will then target the first player in 
-aggro with *Black Halo*, a two-player tankbuster cleave.
+raid-wide *Shockwave Pulsar*.
+
+The boss will then target the first player in aggro with *Black Halo*, a
+two-player tankbuster cleave. Resolve *Black Halo* North.
+
+<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+  <b>Note:</b> <em>Black Halo</em> can be taken by a single tank with heavy
+  mitigation.
+</div>
 
 ## Apocalypse（アポカリプス） - Permaswap, Coloured Apocalypse
 
@@ -588,10 +595,14 @@ a tank).
         the cardinal/intercardinal mark.</li>
       </ol>
       <p>These will be your spread positions later.</p>
+      <p>The tank that will bait <em>Darkest Dance</em> also needs to pay
+      attention to the nearest position marked "2" in the diagram, as this will
+      be where they will bait <em>Darkest Dance</em> later.</p>
       <p><em>(In this example, the lights start W and E and go clockwise, so
       the "base T/H" group references W, and the "base DPS" group references
       E. Rotating 45 degrees in the opposite direction means the "base T/H"
-      group goes SW, and the "base DPS" group goes NE.)</em></p>
+      group goes SW, and the "base DPS" group goes NE.</em></p>
+      <p>Darkest Dance <em>will be baited either North or South.)</em></p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/apocalypse_02c.jpg">
@@ -737,7 +748,9 @@ the mechanic.
     <td>
       <p><b>22.</b> The second set of <em>Dark Water III</em> stacks resolve
       together with the fifth set of AoEs.</p>
-      <p>The ST moves out 90 degrees from where the first set of lights pulsed.</p>
+      <p>The tank that will bait <em>Darkest Dance</em> (暗夜の舞踏技) moves out 90
+      degrees from where the first set of lights pulsed (see Step 14).</p>
+      <p>The tank that baits this is determined by the priority PLD > ST.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/apocalypse_10.jpg">
@@ -745,11 +758,9 @@ the mechanic.
   </tr>
   <tr>
     <td>
-      <p><b>23.</b> The boss then uses <em>Darkest Dance</em> (暗夜の舞踏技), which
-      targets the furthest player (which should be a tank) with an AoE
-      tankbuster.</p>
-      <p>The <em>Darkest Dance</em> is also usually invulned, with the priority
-      PLD > ST.</p>
+      <p><b>23.</b> <em>Darkest Dance</em> resolves, which targets the furthest
+      player with an AoE tankbuster.</p>
+      <p>The <em>Darkest Dance</em> is also invulned.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/apocalypse_11.jpg">
