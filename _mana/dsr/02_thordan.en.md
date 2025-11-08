@@ -62,8 +62,8 @@ Thordan should be pointed away from the party.
       Storm</em>.</p>
       <p>The <em>Heavy Impact</em>'s AoE will continue to ripple outwards (shown
       in subsequent diagrams).</p>
-      <p>The goal from here is to <b>get to the center of the arena</b> while dodging
-      the <em>Heavy Impact</em>.</p>
+      <p>The goal from here is to <b>get to the center of the arena</b> while
+      dodging the <em>Heavy Impact</em>.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/dsr/02/strength_of_the_ward_1_2.jpg">
@@ -227,7 +227,8 @@ This mechanic consists of the following parts:
 
 Ser Zephirin will jump four times, alternating between the two players marked
 "1" and "2". When he lands, he deals damage in an AoE that is shared amongst
-the players hit. This damage *decreases* as the distance Ser Zephirin jumps increases.
+the players hit. This damage *decreases* as the distance Ser Zephirin jumps
+increases.
 
 We resolve Sacred Severs with a **DRK-relative, role-adjust** strat.
 
@@ -251,10 +252,12 @@ In other words:
       intercardinal positions <b>in the same direction the inside knights are 
       facing</b>.</p>
       <p>Look away from <em>both</em> Thordan and the Dragon Eye.</p>
-      <p><em>In this example, the DRK is SE, and the center two knights are facing clockwise. Thus:</em></p>
+      <p><em>In this example, the DRK is SE, and the center two knights are
+      facing clockwise. Thus:</em></p>
       <ul>
         <li><em>Group 1 starts 3-4 notches clockwise of the opposite mark (NW).</em></li>
-        <li><em>Group 2 starts 3-4 notches clockwise of the mark behind the DRK (SE).</em></li>
+        <li><em>Group 2 starts 3-4 notches clockwise of the mark behind the DRK
+        (SE).</em></li>
       </ul>
       <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
         <p><b>Tip:</b> Because the two groups starts offset from 
@@ -267,7 +270,8 @@ In other words:
   <tr>
     <td>
       <p><b>2.</b> The two gazes will resolve.</p>
-      <p>The two knights will begin their dashes, dropping white balls and AoEs in their path.</p>
+      <p>The two knights will begin their dashes, dropping white balls and AoEs
+      in their path.</p>
       <p>At the same time, Ser Zephirin (the DRK) will jump four times in 
       total, alternating between the players marked with one and two swords.</p>
     </td>
@@ -301,7 +305,8 @@ In other words:
       intercardinal positions <b>in the same direction the inside knights are 
       facing</b>.</p>
       <p>Look away from <em>both</em> Thordan and the Dragon Eye.</p>
-      <p><em>In this example, the DRK is SE, and the center two knights are facing anti-clockwise. Thus:</em></p>
+      <p><em>In this example, the DRK is SE, and the center two knights are
+      facing anti-clockwise. Thus:</em></p>
       <ul>
         <li><em>Group 1 starts 3-4 notches anti-clockwise of the opposite mark 
         (NW).</em></li>
@@ -314,7 +319,8 @@ In other words:
   <tr>
     <td>
       <p><b>2.</b> The two gazes will resolve.</p>
-      <p>The two knights will begin their dashes, dropping white balls and AoEs in their path.</p>
+      <p>The two knights will begin their dashes, dropping white balls and AoEs
+      in their path.</p>
       <p>At the same time, Ser Zephirin (the DRK) will jump four times in 
       total, alternating between the players marked with one and two swords.</p>
     </td>

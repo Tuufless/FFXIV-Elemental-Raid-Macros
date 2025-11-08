@@ -254,7 +254,8 @@ In other words:
       intercardinal positions <b>in the same direction the inside knights are 
       facing</b>.</p>
       <p>Look away from <em>both</em> Thordan and the Dragon Eye.</p>
-      <p><em>In this example, the DRK is SE, and the center two knights are facing clockwise. Thus:</em></p>
+      <p><em>In this example, the DRK is SE, and the center two knights are
+      facing clockwise. Thus:</em></p>
       <ul>
         <li><em>Group 1 starts 3-4 notches clockwise of the opposite mark (NW).</em></li>
         <li><em>Group 2 starts 3-4 notches clockwise of the mark behind the DRK (SE).</em></li>
@@ -270,7 +271,8 @@ In other words:
   <tr>
     <td>
       <p><b>2.</b> The two gazes will resolve.</p>
-      <p>The two knights will begin their dashes, dropping white balls and AoEs in their path.</p>
+      <p>The two knights will begin their dashes, dropping white balls and AoEs
+      in their path.</p>
       <p>At the same time, Ser Zephirin (the DRK) will jump four times in 
       total, alternating between the players marked with one and two swords.</p>
     </td>
@@ -304,7 +306,8 @@ In other words:
       intercardinal positions <b>in the same direction the inside knights are 
       facing</b>.</p>
       <p>Look away from <em>both</em> Thordan and the Dragon Eye.</p>
-      <p><em>In this example, the DRK is SE, and the center two knights are facing anti-clockwise. Thus:</em></p>
+      <p><em>In this example, the DRK is SE, and the center two knights are
+      facing anti-clockwise. Thus:</em></p>
       <ul>
         <li><em>Group 1 starts 3-4 notches anti-clockwise of the opposite mark 
         (NW).</em></li>
@@ -317,7 +320,8 @@ In other words:
   <tr>
     <td>
       <p><b>2.</b> The two gazes will resolve.</p>
-      <p>The two knights will begin their dashes, dropping white balls and AoEs in their path.</p>
+      <p>The two knights will begin their dashes, dropping white balls and AoEs
+      in their path.</p>
       <p>At the same time, Ser Zephirin (the DRK) will jump four times in 
       total, alternating between the players marked with one and two swords.</p>
     </td>

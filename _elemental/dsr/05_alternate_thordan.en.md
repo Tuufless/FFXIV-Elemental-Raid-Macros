@@ -346,7 +346,8 @@ next phase.
 
 <details markdown=block>
 <summary>
-  <b>[Death of the Heavens]</b> How did two players clip their <em>Heavensflame</em> AoE despite getting knocked back correctly?
+  <b>[Death of the Heavens]</b> How did two players clip their
+  <em>Heavensflame</em> AoE despite getting knocked back correctly?
 </summary>
 <table>
   <tr>

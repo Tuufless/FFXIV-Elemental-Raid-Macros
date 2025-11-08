@@ -288,7 +288,7 @@ The easiest way to resolve this is to preposition in pairs at each tower:
   </tr>
 </table>
 
-- Healers and Ranged stay in their towers to bait Gierskogul.
+- Healers and Ranged stay in their towers to bait *Gierskogul*.
 - Tanks and Melee adjust:
   - If your tower needs **2 or more** players, **stay**.
   - Otherwise, adjust to the first tower that needs **more than 2** with the
@@ -447,8 +447,8 @@ resolved.
       <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
         <b>Note:</b> If you are tethered to <b>your own clone</b>, it will be
         difficult for the ST to find and take your tether. Since you are not
-        baiting a Gierskogul, move to the side to stretch your tether to make
-        it easier for the ST.
+        baiting a <em>Gierskogul</em>, move to the side to stretch your tether
+        to make it easier for the ST.
       </div>
     </td>
     <td><img src="{{site.baseurl}}/images/ultimates/dsr_mana/03/soul_tethers_02.jpg"></td>

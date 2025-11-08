@@ -502,7 +502,8 @@ Potions can be used at either burst window.
 
 <details markdown=block>
 <summary>
-  <b>[Mitigation]</b> Is there a reason D2 is paired with D4? Wouldn't double-caster parties overlap Addles?
+  <b>[Mitigation]</b> Is there a reason D2 is paired with D4? Wouldn't
+  double-caster parties overlap Addles?
 </summary>
 <table>
   <tr>

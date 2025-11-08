@@ -863,7 +863,8 @@ we needed the fire/ice debuffs in order to survive this mechanic.
       cause Hraesvelgr to enrage.</p>
       <div style="background-color: #200 ; padding: 10px; border: 1px solid;">
         <b>Note:</b> If you have a DRK and are using <em>Living Dead</em> here, 
-        neither dragon will be targetable for the DRK to recover HP for <em>Walking Dead</em>.
+        neither dragon will be targetable for the DRK to recover HP for
+        <em>Walking Dead</em>.
       </div>
     </td>
     <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/cauterize_01.jpg"></td>
@@ -1135,7 +1136,8 @@ transition to the final phase *(Dragonking Thordan will not be targetable*
 
 <details markdown=block>
 <summary>
-  <b>[Wyrmsbreath 2]</b> What is the fixed Wyrmsbreath 2 strat, and why aren't we doing it?</summary>
+  <b>[Wyrmsbreath 2]</b> What is the fixed Wyrmsbreath 2 strat, and why aren't
+  we doing it?</summary>
 <table>
   <tr>
     <td>
