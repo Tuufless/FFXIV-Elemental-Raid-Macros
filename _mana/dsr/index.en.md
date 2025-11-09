@@ -34,19 +34,6 @@ Mana PF follows [Lily Doll's DSR strat](https://na.finalfantasyxiv.com/lodestone
 Dragonsong's Reprise is the first Ultimate to showcase a "door" boss. As such,
 there are two sets of markers and macros to use for this fight.
 
-## English
-
-{% include_relative macros/dsr_1.en.md %}
-
-<details markdown=block>
-<summary>日本語</summary>
-
-{% include_relative macros/dsr_1.jp.md %}
-
-</details>
-
-## Markers
-
 All markers are used to bait Hyperdimensional Slashes (black orbs).
 
 ![]({{site.baseurl}}/images/ultimates/dsr_mana/markers_1.jpg)
@@ -74,21 +61,6 @@ All markers are used to bait Hyperdimensional Slashes (black orbs).
 
 # King Thordan
 
-This is the macro for the bulk of the fight.
-
-## English
-
-{% include_relative macros/dsr_2.en.md %}
-
-<details markdown=block>
-<summary>日本語</summary>
-
-{% include_relative macros/dsr_2.jp.md %}
-
-</details>
-
-## Markers
-
 Mana PF uses the "outer" markers.
 
 ![]({{site.baseurl}}/images/ultimates/dsr_mana/markers_2.jpg)
@@ -99,14 +71,14 @@ Mana PF uses the "outer" markers.
 {
   "Name":"DSR P2 (Mana)",
   "MapID":788,
-  "A":{"X":100.0,"Y":0.0,"Z":80.767,"ID":0,"Active":true},
-  "B":{"X":119.232,"Y":0.0,"Z":100.0,"ID":1,"Active":true},
-  "C":{"X":100.0,"Y":0.0,"Z":119.232,"ID":2,"Active":true},
-  "D":{"X":80.767,"Y":0.0,"Z":100.0,"ID":3,"Active":true},
-  "One":{"X":113.599,"Y":0.0,"Z":86.401,"ID":4,"Active":true},
-  "Two":{"X":113.599,"Y":0.0,"Z":113.599,"ID":5,"Active":true},
-  "Three":{"X":86.401,"Y":0.0,"Z":113.599,"ID":6,"Active":true},
-  "Four":{"X":86.401,"Y":0.0,"Z":86.401,"ID":7,"Active":true}
+  "A":{"X":100.0,"Y":0.0,"Z":80.0,"ID":0,"Active":true},
+  "B":{"X":120.0,"Y":0.0,"Z":100.0,"ID":1,"Active":true},
+  "C":{"X":100.0,"Y":0.0,"Z":120.0,"ID":2,"Active":true},
+  "D":{"X":80.0,"Y":0.0,"Z":100.0,"ID":3,"Active":true},
+  "One":{"X":114.0,"Y":0.0,"Z":86.0,"ID":4,"Active":true},
+  "Two":{"X":114.0,"Y":0.0,"Z":114.0,"ID":5,"Active":true},
+  "Three":{"X":86.0,"Y":0.0,"Z":114.0,"ID":6,"Active":true},
+  "Four":{"X":86.0,"Y":0.0,"Z":86.0,"ID":7,"Active":true}
 }
 ```
 
