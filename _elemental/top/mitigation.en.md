@@ -1,7 +1,7 @@
 ---
 layout: default
 title: A. Mitigation
-parent: Lv 90. TOP
+parent: Lv 90. TOP (Elemental)
 nav_order: 9
 has_children: false
 has_toc: false

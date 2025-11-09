@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 6. Double Dragons
-parent: Lv 90. DSR
+parent: Lv 90. DSR (Elemental)
 nav_order: 7
 has_children: false
 has_toc: false

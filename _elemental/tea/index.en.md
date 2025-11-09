@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lv 80. TEA
+title: Lv 80. TEA (Elemental)
 nav_order: 3
 has_children: true
 has_toc: false

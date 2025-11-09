@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 4c. Ultimate Suppression
-parent: Lv 70. UWU
+parent: Lv 70. UWU (Elemental)
 permalink: /elemental/uwu/04c_suppression/
 ---
 

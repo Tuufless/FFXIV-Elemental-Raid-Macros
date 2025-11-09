@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 2a. Limit Cut
-parent: Lv 80. TEA
+parent: Lv 80. TEA (Elemental)
 permalink: /elemental/tea/02a_limit_cut/
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 1. Twintania
-parent: Lv 70. UCoB
+parent: Lv 70. UCoB (Elemental)
 permalink: /elemental/ucob/01_twintania/
 ---
 

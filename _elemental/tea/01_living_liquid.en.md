@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 1. Living Liquid
-parent: Lv 80. TEA
+parent: Lv 80. TEA (Elemental)
 permalink: /elemental/tea/01_living_liquid/
 ---
 

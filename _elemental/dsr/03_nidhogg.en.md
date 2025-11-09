@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 3. Nidhogg
-parent: Lv 90. DSR
+parent: Lv 90. DSR (Elemental)
 nav_order: 4
 has_children: false
 has_toc: false

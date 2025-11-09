@@ -2,7 +2,7 @@
 layout: default
 title: 1. Omega
 nav_order: 1
-parent: Lv 90. TOP
+parent: Lv 90. TOP (Elemental)
 permalink: /elemental/top/01_omega/
 ---
 

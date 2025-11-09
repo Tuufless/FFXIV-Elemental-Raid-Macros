@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 4d. Primal Roulette
-parent: Lv 70. UWU
+parent: Lv 70. UWU (Elemental)
 permalink: /elemental/uwu/04d_primal_roulette/
 ---
 

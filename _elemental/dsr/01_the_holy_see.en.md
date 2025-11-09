@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 1. The Holy See
-parent: Lv 90. DSR
+parent: Lv 90. DSR (Elemental)
 nav_order: 2
 has_children: false
 has_toc: false

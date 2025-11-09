@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 4. Perfect Alexander
-parent: Lv 80. TEA
+parent: Lv 80. TEA (Elemental)
 permalink: /elemental/tea/04_perfect_alex/
 ---
 

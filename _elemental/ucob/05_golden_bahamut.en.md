@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 5. Golden Bahamut
-parent: Lv 70. UCoB
+parent: Lv 70. UCoB (Elemental)
 permalink: /elemental/ucob/05_golden_bahamut/
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 2. King Thordan
-parent: Lv 90. DSR
+parent: Lv 90. DSR (Elemental)
 nav_order: 3
 has_children: false
 has_toc: false

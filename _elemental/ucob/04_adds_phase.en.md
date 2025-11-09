@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 4. Adds phase
-parent: Lv 70. UCoB
+parent: Lv 70. UCoB (Elemental)
 permalink: /elemental/ucob/04_adds/
 ---
 

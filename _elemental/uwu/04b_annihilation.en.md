@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 4b. Ultimate Annihilation
-parent: Lv 70. UWU
+parent: Lv 70. UWU (Elemental)
 permalink: /elemental/uwu/04b_annihilation/
 ---
 

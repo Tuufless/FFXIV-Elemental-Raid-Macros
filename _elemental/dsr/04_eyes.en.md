@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 4. Eyes
-parent: Lv 90. DSR
+parent: Lv 90. DSR (Elemental)
 nav_order: 5
 has_children: false
 has_toc: false

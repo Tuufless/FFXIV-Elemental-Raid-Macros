@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 3. Alexander Prime
-parent: Lv 80. TEA
+parent: Lv 80. TEA (Elemental)
 permalink: /elemental/tea/03_alex_prime/
 ---
 

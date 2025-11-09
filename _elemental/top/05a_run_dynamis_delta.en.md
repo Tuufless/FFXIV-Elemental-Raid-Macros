@@ -2,7 +2,7 @@
 layout: default
 title: "5a. Run: Dynamis (Delta)"
 nav_order: 5
-parent: Lv 90. TOP
+parent: Lv 90. TOP (Elemental)
 permalink: /elemental/top/05_run_dynamis_delta/
 ---
 

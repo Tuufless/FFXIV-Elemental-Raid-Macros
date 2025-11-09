@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lv 70. UCoB
+title: Lv 70. UCoB (Elemental)
 nav_order: 1
 has_children: true
 has_toc: false

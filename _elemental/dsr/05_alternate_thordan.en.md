@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 5. Alternate Thordan
-parent: Lv 90. DSR
+parent: Lv 90. DSR (Elemental)
 nav_order: 6
 has_children: false
 has_toc: false

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 3. Titan
-parent: Lv 70. UWU
+parent: Lv 70. UWU (Elemental)
 permalink: /elemental/uwu/03_titan/
 ---
 

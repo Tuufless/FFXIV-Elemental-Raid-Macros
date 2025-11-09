@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lv 70. UWU
+title: Lv 70. UWU (Elemental)
 nav_order: 2
 has_children: true
 has_toc: false

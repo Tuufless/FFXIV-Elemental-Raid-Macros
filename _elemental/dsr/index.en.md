@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lv 90. DSR
+title: Lv 90. DSR (Elemental)
 nav_order: 4
 has_children: true
 has_toc: false

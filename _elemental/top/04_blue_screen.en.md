@@ -2,7 +2,7 @@
 layout: default
 title: 4. Blue Screen
 nav_order: 4
-parent: Lv 90. TOP
+parent: Lv 90. TOP (Elemental)
 permalink: /elemental/top/04_blue_screen/
 ---
 

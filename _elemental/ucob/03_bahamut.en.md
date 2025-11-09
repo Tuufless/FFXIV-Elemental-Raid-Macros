@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 3. Bahamut
-parent: Lv 70. UCoB
+parent: Lv 70. UCoB (Elemental)
 permalink: /elemental/ucob/03_bahamut/
 ---
 

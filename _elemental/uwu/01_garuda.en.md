@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 1. Garuda
-parent: Lv 70. UWU
+parent: Lv 70. UWU (Elemental)
 permalink: /elemental/uwu/01_garuda/
 ---
 
