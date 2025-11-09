@@ -505,8 +505,8 @@ in after the third Akh Morn.
   <tr>
     <td>
       <p><b>2.</b> The second set of eyes spawn.</p>
-      <p>Move to the North or South corner, whichever is further from the
-      second set of eyes.</p>
+      <p>Move towards the North or South corner, whichever is further from the
+      second set of eyes. However, don't go <em>all</em> the way to the corner.</p>
       <p><em>(In this example, moving South to the SW corner puts the party the 
       furthest away from the second set of Eyes that spawned NE.)</em></p>
     </td>
@@ -605,50 +605,64 @@ Here are some additional examples to consider:
       <p><em>(In this example, Hraesvelgr's Cauterize will go down the center, 
       so the party moves West next to Nidhogg.)</em></p>
     </td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_02_01.jpg"></td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_02_01.jpg">
+    </td>
   </tr>
   <tr>
     <td>
       <p><b>2.</b> The second set of eyes spawn.</p>
-      <p>Move to the North or South corner, whichever is further from the
-      second set of eyes.</p>
+      <p>Move towards the North or South corner, whichever is further from the
+      second set of eyes. However, don't go <em>all</em> the way to the corner.</p>
       <p><em>(In this example, moving North to the NW corner puts the party the 
       furthest away from the second set of Eyes that spawned SW.)</em></p>
     </td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_02_02.jpg"></td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_02_02.jpg">
+    </td>
   </tr>
   <tr>
     <td>
       <p><b>3.</b> The third set of eyes spawn.</p>
       <p>Stack together, mitigate, and get ready to move as a group.</p>
     </td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_02_03.jpg"></td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_02_03.jpg">
+    </td>
   </tr>
   <tr>
     <td>
       <p><b>4.</b> Hraesvelgr's Cauterize resolves. Drop first Akh Morn puddle.</p>
     </td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_02_04.jpg"></td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_02_04.jpg">
+    </td>
   </tr>
   <tr>
     <td>
       <p><b>5.</b> First set of eye AoEs resolve. Drop the second Akh Morn
       puddle without getting hit.</p>
     </td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_02_05.jpg"></td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_02_05.jpg">
+    </td>
   </tr>
   <tr>
     <td>
       <p><b>6.</b> Drop third and fourth Akh Morn puddles.</p>
     </td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_02_06.jpg"></td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_02_06.jpg">
+    </td>
   </tr>
   <tr>
     <td>
       <p><b>7.</b> Move to the middle, identify whether Nidhogg is casting Hot
       Wing or Hot Tail.</p>
     </td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_02_07.jpg"></td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_02_07.jpg">
+    </td>
   </tr>
 </table>
 </details>
@@ -667,42 +681,62 @@ Here are some additional examples to consider:
       <p><em>(In this example, Hraesvelgr's Cauterize will go down the west 
       half, so the party moves east away from Nidhogg.)</em></p>
     </td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_03_01.jpg"></td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_03_01.jpg">
+    </td>
   </tr>
   <tr>
     <td>
       <p><b>2.</b> The second set of eyes spawn.</p>
-      <p>Move to the North or South corner, whichever is further from the
-      second set of eyes.</p>
+      <p>Move towards the North or South corner, whichever is further from the
+      second set of eyes. However, don't go <em>all</em> the way to the corner.</p>
       <p><em>(In this example, moving North to the NE corner puts the party the 
       furthest away from the second set of Eyes that spawned SE.)</em></p>
     </td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_03_02.jpg"></td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_03_02.jpg">
+    </td>
   </tr>
   <tr>
     <td>
       <p><b>3.</b> The third set of eyes spawn.</p>
       <p>Stack together, mitigate, and get ready to move as a group.</p>
     </td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_03_03.jpg"></td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_03_03.jpg">
+    </td>
   </tr>
   <tr>
     <td><b>4.</b> Hraesvelgr's Cauterize resolves. Drop first Akh Morn puddle.</td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_03_04.jpg"></td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_03_04.jpg">
+    </td>
   </tr>
   <tr>
-    <td><b>5.</b> First set of eye AoEs resolve. Drop the second Akh Morn
-    puddle without getting hit.</td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_03_05.jpg"></td>
+    <td>
+      <p><b>5.</b> First set of eye AoEs resolve. Drop the second Akh Morn
+      puddle without getting hit.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_03_05.jpg">
+    </td>
   </tr>
   <tr>
-    <td><b>6.</b> Drop third and fourth Akh Morn puddles.</td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_03_06.jpg"></td>
+    <td>
+      <p><b>6.</b> Drop third and fourth Akh Morn puddles.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_03_06.jpg">
+    </td>
   </tr>
   <tr>
-    <td><b>7.</b> Move to the middle, identify whether Nidhogg is casting Hot
-    Wing or Hot Tail.</td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_03_07.jpg"></td>
+    <td>
+      <p><b>7.</b> Move to the middle, identify whether Nidhogg is casting
+      <em>Hot Wing</em> or <em>Hot Tail</em>.</p>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_03_07.jpg">
+    </td>
   </tr>
 </table>
 </details>

@@ -438,9 +438,10 @@ second iteration of each of the looped mechanics.
 </details>
 </div>
 
-When dropping *Akh Morns*, the most efficient movement (geometrically) is to
-move **perpendicular from the wall in a straight line**, and then curve in
-after the third Akh Morn.
+When dropping *Akh Morns*, move **in a straight line**, being sure not to get
+hit by the first set of Eyes. Make a 90 degree turn and move towards the
+center when you reach either North or South. ***Sprint* is highly
+recommended.**
 
 <table>
   <tr>
@@ -453,7 +454,7 @@ after the third Akh Morn.
       <p><em>(In this example, Hraesvelgr's Cauterize will hit the east half,
       so the party moves West next to Nidhogg.)</em></p>
     </td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_01_01.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr_mana/06/wroth_flames_ex_01_01.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -463,14 +464,14 @@ after the third Akh Morn.
       <p><em>(In this example, moving South to the SW corner puts the party the 
       furthest away from the second set of Eyes that spawned NE.)</em></p>
     </td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_01_02.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr_mana/06/wroth_flames_ex_01_02.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>3.</b> The third set of eyes spawn.</p>
       <p>Stack together, mitigate, and get ready to move as a group.</p>
     </td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_01_03.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr_mana/06/wroth_flames_ex_01_03.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -479,27 +480,28 @@ after the third Akh Morn.
       <p>The initial Akh Morn movement will always go east-to-west or vice
       versa.</p>
     </td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_01_04.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr_mana/06/wroth_flames_ex_01_04.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>5.</b> First set of eye AoEs resolve. Drop the second Akh Morn
       puddle without getting hit by the eye AoE.</p>
     </td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_01_05.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr_mana/06/wroth_flames_ex_01_05.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>6.</b> Drop third and fourth Akh Morn puddles.</p>
+      <p><em>Sprint is highly recommended.</em></p>
     </td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_01_06.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr_mana/06/wroth_flames_ex_01_06.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>7.</b> Move to the middle and identify whether Nidhogg is casting
       Hot Wing or Hot Tail.</p>
     </td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_01_07.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr_mana/06/wroth_flames_ex_01_07.jpg"></td>
   </tr>
   <tr>
     <td colspan="2">
@@ -516,12 +518,15 @@ after the third Akh Morn.
   <tr>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/dsr_mana/06/wroth_flames_ex_01_08a.jpg">
-      <p>There is enough space for two "spreads" to stand side-by-side if they
-      are on the sides of the safe zone.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/dsr_mana/06/wroth_flames_ex_01_08b.jpg">
     </td>
+  </tr>
+  <tr>
+    <td>There is enough space for two "spreads" to stand side-by-side if they
+    are on the sides of the safe zone.</td>
+    <td></td>
   </tr>
 </table>
 
@@ -554,7 +559,7 @@ Here are some additional examples to consider:
       <p><em>(In this example, Hraesvelgr's Cauterize will go down the center, 
       so the party moves West next to Nidhogg.)</em></p>
     </td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_02_01.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr_mana/06/wroth_flames_ex_02_01.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -564,40 +569,41 @@ Here are some additional examples to consider:
       <p><em>(In this example, moving North to the NW corner puts the party the 
       furthest away from the second set of Eyes that spawned SW.)</em></p>
     </td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_02_02.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr_mana/06/wroth_flames_ex_02_02.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>3.</b> The third set of eyes spawn.</p>
       <p>Stack together, mitigate, and get ready to move as a group.</p>
     </td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_02_03.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr_mana/06/wroth_flames_ex_02_03.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>4.</b> Hraesvelgr's Cauterize resolves. Drop first Akh Morn puddle.</p>
     </td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_02_04.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr_mana/06/wroth_flames_ex_02_04.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>5.</b> First set of eye AoEs resolve. Drop the second Akh Morn
       puddle without getting hit.</p>
     </td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_02_05.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr_mana/06/wroth_flames_ex_02_05.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>6.</b> Drop third and fourth Akh Morn puddles.</p>
+      <p><em>Sprint is highly recommended.</em></p>
     </td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_02_06.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr_mana/06/wroth_flames_ex_02_06.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>7.</b> Move to the middle, identify whether Nidhogg is casting Hot
       Wing or Hot Tail.</p>
     </td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_02_07.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr_mana/06/wroth_flames_ex_02_07.jpg"></td>
   </tr>
 </table>
 </details>
@@ -616,7 +622,7 @@ Here are some additional examples to consider:
       <p><em>(In this example, Hraesvelgr's Cauterize will go down the west 
       half, so the party moves east away from Nidhogg.)</em></p>
     </td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_03_01.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr_mana/06/wroth_flames_ex_03_01.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -626,32 +632,36 @@ Here are some additional examples to consider:
       <p><em>(In this example, moving North to the NE corner puts the party the 
       furthest away from the second set of Eyes that spawned SE.)</em></p>
     </td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_03_02.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr_mana/06/wroth_flames_ex_03_02.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>3.</b> The third set of eyes spawn.</p>
       <p>Stack together, mitigate, and get ready to move as a group.</p>
     </td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_03_03.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr_mana/06/wroth_flames_ex_03_03.jpg"></td>
   </tr>
   <tr>
-    <td><b>4.</b> Hraesvelgr's Cauterize resolves. Drop first Akh Morn puddle.</td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_03_04.jpg"></td>
+    <td><b>4.</b> Hraesvelgr's <em>Cauterize</em> resolves. Drop first Akh Morn puddle.</td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr_mana/06/wroth_flames_ex_03_04.jpg"></td>
   </tr>
   <tr>
-    <td><b>5.</b> First set of eye AoEs resolve. Drop the second Akh Morn
-    puddle without getting hit.</td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_03_05.jpg"></td>
+    <td>
+      <p><b>5.</b> First set of eye AoEs resolve. Drop the second Akh Morn
+      puddle without getting hit.</p></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr_mana/06/wroth_flames_ex_03_05.jpg"></td>
   </tr>
   <tr>
-    <td><b>6.</b> Drop third and fourth Akh Morn puddles.</td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_03_06.jpg"></td>
+    <td>
+      <p><b>6.</b> Drop third and fourth Akh Morn puddles.</p>
+      <p><em>Sprint is highly recommended.</em></p>
+    </td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr_mana/06/wroth_flames_ex_03_06.jpg"></td>
   </tr>
   <tr>
-    <td><b>7.</b> Move to the middle, identify whether Nidhogg is casting Hot
-    Wing or Hot Tail.</td>
-    <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_ex_03_07.jpg"></td>
+    <td><b>7.</b> Move to the middle, identify whether Nidhogg is casting
+    <em>Hot Wing</em> or <em>Hot Tail</em>.</td>
+    <td><img src="{{site.baseurl}}/images/ultimates/dsr_mana/06/wroth_flames_ex_03_07.jpg"></td>
   </tr>
 </table>
 </details>
@@ -937,27 +947,20 @@ transition to the final phase *(Dragonking Thordan will not be targetable*
 
 <details markdown=block>
 <summary>
-  <b>[Wroth Flames]</b> Why are there two marking schemes?
+  <b>[Wroth Flames]</b> Why do we start all the way in the corner?
 </summary>
 <table>
   <tr>
     <td>
-      <p>The short answer is "that's just the automarker configuration that got
-      passed around early."</p>
-      <p>One that argue that if you mark all eight players, the visual clutter
-      makes it hard(er) for each player to discern their number over their
-      colour, hence the "same marker-type" stack configuration.</p>
-    <p>I am personally not a fan because it is harder to replicate manually
-    (effectively <em>mandating</em> automarkers).</p>
-    <p>The problem with manually marking each pair using the same marker type
-    is that this task cannot be split between two players, because there's now
-    a possibility that the two players pick the same person twice.</p>
-    <p>For example, in the configuration on the right, one person can pick the
-    WAR + SMN as a pair, then the other pick RDM + SMN, doubling up on the SMN
-    and leaving the SAM unmarked (it also doesn't help that <em>Mortal
-    Atonement</em> looks like a purple spread debuff).</p>
-  </td>
-  <td><img src="{{site.baseurl}}/images/ultimates/dsr/06/wroth_flames_debuffs.jpg"></td></tr>
+      <p>Starting all the way in the corner is how <em>Wroth Flames</em> is
+      resolved in Hamkatsu's video guide.</p>
+      <p>This is actually <em>bad</em>, because it increases the risk that the
+      party gets hit by the third set of line AoEs from the Eyes, but
+      unfortunately is what is done.</p>
+      <p>The risk that you get hit by the third set of Eyes is lowered with
+      <em>Sprint</em>, which is why that is recommended here.</p>
+    </td>
+  </tr>
 </table>
 </details>
 
@@ -1054,59 +1057,6 @@ transition to the final phase *(Dragonking Thordan will not be targetable*
     <td>
       <img src="{{site.baseurl}}/images/ultimates/dsr/06/wyrmsbreath_faq.jpg">
       <em>(Credit: radrauser)</em>
-    </td>
-  </tr>
-</table>
-</details>
-
----
-
-## Strategy Related Questions
-
-<details markdown=block>
-<summary>
-  <b>[Wyrmsbreath 2]</b> What is the fixed Wyrmsbreath 2 strat, and why aren't we doing it?</summary>
-<table>
-  <tr>
-    <td>
-      <p>As the name implies, this is a strat that fixes all player positions
-      (except for the tanks, who may have to stack in the middle).</p>
-      <p>The fixed Wyrmsbreath 2 strat is popular in other regions, but has
-      fallen out of favour in Elemental.</p>
-      <p>However, player positioning is precise, and when things go wrong, it's
-      often difficult to diagnose what went wrong.</p>
-      <p style="text-align:center">
-        <img src="{{site.baseurl}}/images/ultimates/dsr_mana/06/fixed_wyrmsbreath2.jpg">
-      </p>
-      <ul>
-        <li><b>MT:</b> NW if you get the single-target tankbuster (by Nidhogg).</li>
-        <li><b>ST:</b> SE if you get the single-target tankbuster (by Hraesvelgr).</li>
-      </ul>
-      <p><em>Tanks should stand inside the targeting circles- use where the
-      outer AoE intersects the targeting circle as a reference point. You will
-      kill the healers if you are not in the correct place.</em></p>
-      <ul>
-        <li><b>H1:</b> As far true North as you can go.</li>
-        <li><b>H2:</b> As far true South as you can go.</li>
-        <li><b>D1:</b> NW corner of the white tile beside Nidhogg.</li>
-        <li><b>D2:</b> Between the two white tiles besides Hraesvelgr.</li>
-        <li><b>D3:</b> 1/2 a tile west of the western "train track", as far
-        south as you can go.</li>
-        <li><b>D4:</b> 1/2 a tile east of the eastern "train track", as far
-        north as you can go.</li>
-      </ul>
-      <p>Depending on which dragon they are tethered to, <b>D1's and/or D2's
-      tether may not fully stretch. This is okay, and the damage is not
-      lethal.</b></p>
-      <p>This strategy is popular in other data centers- however:</p>
-      <ul>
-        <li>It is difficult to tell what went wrong in the event of an accident.</li>
-        <li>Incoming damage is inconsistent on the two melee, leading to
-        inconsistent healing requirements between pulls.</li>
-        <li>The two melee are potentially taking the most damage from the
-        tethers, and <em>Mortal Vow</em> is also on a melee at this point (and has
-        a DoT effect).</li>
-      </ul>
     </td>
   </tr>
 </table>
