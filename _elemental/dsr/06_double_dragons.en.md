@@ -34,8 +34,8 @@ Each dragon also has their own enrage condition. Causing either dragon to break
 their vow will result in their attacks one-shotting anyone hit (including 
 tanks), and lower their damage taken.
 
-**Solemn Vow:** Hraesvelgr will enrage if he kills *any* player.
-**Mortal Vow:** Nidhogg will enrage if *Mortal Vow* is not passed.
+- **Solemn Vow:** Hraesvelgr will enrage if he kills *any* player.
+- **Mortal Vow:** Nidhogg will enrage if *Mortal Vow* is not passed.
 
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
 <details markdown=block>
@@ -77,9 +77,7 @@ We pass "DTTMR", or in other words:
 **DPS → MT → ST → D1/D2 → D3**
 
 All passes happen in the center of the arena, except for the final pass after
-Touchdown (which is just done at the edge). <a href="#-frequently-asked-questions">
-  <img style="height:1em" src="{{site.baseurl}}/images/icons/huh.png">
-</a>
+Touchdown (which is just done at the edge).
 
 ---
 
@@ -96,9 +94,7 @@ a base:
 ### Wyrmsbreath 1
 
 Each dragon will tether to three non-tank players that need to be sufficiently
-stretched to lower their damage. <a href="#-troubleshooting">
-  <img style="height:1em" src="{{site.baseurl}}/images/icons/playdead.png">
-</a>
+stretched to lower their damage.
 
 The tethers will also apply Fire or Ice-aspected debuffs that cancel each
 other, so each non-tank player needs to get hit by a tether from *each* dragon.
@@ -147,9 +143,7 @@ will apply the <em>Boiling</em> debuff.</p>
       <p><em>Fire-aspected damage is taken with every action.</em></p>
       <ul>
         <li>Ticks for about 40-45k damage if an action is taken, including 
-        auto-attacks. <a href="#-frequently-asked-questions">
-  <img style="height:1em" src="{{site.baseurl}}/images/icons/huh.png">
-</a></li>
+        auto-attacks.</li>
         <li>Lasts 30 seconds.</li>
       </ul>
     </td>
@@ -363,9 +357,7 @@ Here are some other potential configurations to consider:
 </details>
 
 The party should continue to **attack Hraesvelgr** during this whole sequence,
-even after Nidhogg returns. <a href="#-frequently-asked-questions">
-  <img style="height:1em" src="{{site.baseurl}}/images/icons/huh.png">
-</a>
+even after Nidhogg returns.
 
 After the *Mortal Vow* pass, Nidhogg will cast *Wroth Flames*, and Hraesvelgr
 will leave the arena.
@@ -389,9 +381,7 @@ second iteration of each of the looped mechanics.
   set will always spawn first, followed by two more sets on opposite corners.
 - Finally, the party will be affected by a variety of spread and stack debuffs 
   that will resolve at the end together with either *Hot Wing* or *Hot Tail* 
-  from Nidhogg. <a href="#-frequently-asked-questions">
-  <img style="height:1em" src="{{site.baseurl}}/images/icons/huh.png">
-</a>
+  from Nidhogg.
 
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
 <details markdown=block>
@@ -450,9 +440,6 @@ second iteration of each of the looped mechanics.
 
 To help assign player positions for the final spread and stack, it is common
 practice to mark the players. However, there are two different marking schemes.
-<a href="#-frequently-asked-questions">
-  <img style="height:1em" src="{{site.baseurl}}/images/icons/huh.png">
-</a>
 
 <table>
   <tr>
@@ -860,9 +847,7 @@ we needed the fire/ice debuffs in order to survive this mechanic.
   <tr>
     <td width="50%">
       <p><b>1.</b> Nidhogg and Hraesvelgr will spawn along the north edge in a
-      <b>random</b> configuration, and dive down each half. <a href="#-frequently-asked-questions">
-  <img style="height:1em" src="{{site.baseurl}}/images/icons/huh.png">
-</a></p>
+      <b>random</b> configuration, and dive down each half.</p>
       <p>The first player hit by each dive takes additional damage, and are
       taken by the tanks with their invulns.</p>
       <ul>
@@ -940,11 +925,12 @@ transition to the final phase *(Dragonking Thordan will not be targetable*
 
 ---
 
-## <img style="height:1em" src="{{site.baseurl}}/images/icons/huh.png"> Frequently Asked Questions
+## Frequently Asked Questions
 
 <details markdown=block>
 <summary>
-  <b>[Mortal Vow]</b> Does the final <em>Mortal Vow</em> pass still go to D3 even if D3 started with <em>Mortal Vow</em>?
+  <b>[Mortal Vow]</b> Does the final <em>Mortal Vow</em> pass still go to D3
+  even if D3 started with <em>Mortal Vow</em>?
 </summary>
 <table>
   <tr>
@@ -979,7 +965,8 @@ transition to the final phase *(Dragonking Thordan will not be targetable*
 
 <details markdown=block>
 <summary>
-  <b>[Hallowed Wings 1]</b> Why should the party continue to attack Hraesvelgr after the first Hallowed Wings, even after Nidhogg returns?
+  <b>[Hallowed Wings 1]</b> Why should the party continue to attack Hraesvelgr
+  after the first Hallowed Wings, even after Nidhogg returns?
 </summary>
 <table>
   <tr>
@@ -1116,7 +1103,7 @@ transition to the final phase *(Dragonking Thordan will not be targetable*
 
 ---
 
-## <img style="height:1em" src="{{site.baseurl}}/images/icons/playdead.png"> Troubleshooting
+## Troubleshooting
 
 <details markdown=block>
 <summary>
@@ -1144,7 +1131,7 @@ transition to the final phase *(Dragonking Thordan will not be targetable*
 
 ---
 
-## <img style="height:1em" src="{{site.baseurl}}/images/icons/eureka.png"> Strategy Related Questions
+## Strategy Related Questions
 
 <details markdown=block>
 <summary>

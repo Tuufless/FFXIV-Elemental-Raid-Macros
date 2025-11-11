@@ -16,9 +16,7 @@ the main mechanics loop.
 ## Mitigations
 
 This phase requires some mitigation planning. To get the most use out of all
-the party's cooldowns, you'd do something like the following: <a href="#-strategy-related-questions">
-  <img style="height:1em" src="{{site.baseurl}}/images/icons/eureka.png">
-</a>
+the party's cooldowns, you'd do something like the following:
 
 <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
 <details markdown=block>
@@ -343,9 +341,7 @@ All players must be **inside** Thordan's hitbox in order to be within healing
 range of both healers- remember to step inside if Thordan's swords were
 originally red.
 
-*Akh Morn's Edge* will be resolved with a 3-3-2 split. <a href="#-strategy-related-questions">
-  <img style="height:1em" src="{{site.baseurl}}/images/icons/eureka.png">
-</a>
+*Akh Morn's Edge* will be resolved with a 3-3-2 split.
 
 <table>
   <tr>
@@ -376,10 +372,7 @@ Where Thordan faces after *Akh Morn's Edge* doesn't matter.
       <p>Although the damage <em>technically</em> falls off with distance, the
       falloff is steep enough that they are practically just AoEs. Standing
       inside the marked region <em>(illustrating a South Gigaflare)</em> will
-      one-shot a player, while standing outside just deals heavy damage. 
-      <a href="#-frequently-asked-questions">
-        <img style="height:1em" src="{{site.baseurl}}/images/icons/huh.png">
-      </a></p>
+      one-shot a player, while standing outside just deals heavy damage.</p>
       <p>Mitigations for <em>Gigaflare's Edge</em> should be timed as the
       entire sequence lasts 8 seconds, while several debuffs (Reprisal, Feint,
       Addle) lasts only 10 seconds.</p>
@@ -441,11 +434,7 @@ are:
 <table>
   <tr>
     <td><b>First buff window</b></td>
-    <td>After Gigaflare's Edge #1
-      <a href="#-frequently-asked-questions">
-        <img style="height:1em" src="{{site.baseurl}}/images/icons/huh.png">
-      </a>
-    </td>
+    <td>After Gigaflare's Edge #1</td>
   </tr>
   <tr>
     <td><b>Second buff window</b></td>
@@ -457,7 +446,7 @@ Potions can be used at either burst window.
 
 ---
 
-## <img style="height:1em" src="{{site.baseurl}}/images/icons/huh.png"> Frequently Asked Questions
+## Frequently Asked Questions
 
 <details markdown=block>
 <summary>
@@ -507,7 +496,7 @@ Potions can be used at either burst window.
 
 ---
 
-## <img style="height:1em" src="{{site.baseurl}}/images/icons/eureka.png"> Strategy Related Questions
+## Strategy Related Questions
 
 <details markdown=block>
 <summary>
