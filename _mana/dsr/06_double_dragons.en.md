@@ -763,7 +763,9 @@ or the shared tankbuster.
 The positions are *precise*- pay attention to the markings on the ground to
 help determine where to stand.
 
-![]({{site.baseurl}}/images/ultimates/dsr_mana/06/fixed_wyrmsbreath2.jpg)
+<a href="{{site.baseurl}}/images/ultimates/dsr_mana/06/fixed_wyrmsbreath2.jpg">
+  <img src="{{site.baseurl}}/images/ultimates/dsr_mana/06/fixed_wyrmsbreath2.jpg">
+</a>
 
 Also note that if D1 is tethered to Nidhogg, or D2 is tethered to Hraesvelgr,
 the tether will indicate that it is *not* stretched out.

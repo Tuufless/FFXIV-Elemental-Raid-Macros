@@ -1182,7 +1182,7 @@ transition to the final phase *(Dragonking Thordan will not be targetable*
       <p>However, player positioning is precise, and when things go wrong, it's
       often difficult to diagnose what went wrong.</p>
       <p style="text-align:center">
-        <img src="{{site.baseurl}}/images/ultimates/dsr/06/fixed_wyrmsbreath2.jpg">
+        <img src="{{site.baseurl}}/images/ultimates/dsr_mana/06/fixed_wyrmsbreath2.jpg">
       </p>
       <ul>
         <li><b>MT:</b> NW if you get the single-target tankbuster (by Nidhogg).</li>

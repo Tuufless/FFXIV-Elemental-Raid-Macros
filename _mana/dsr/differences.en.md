@@ -213,7 +213,12 @@ summary of the differences between Elemental and Mana.
   <tr>
     <td><em>Wyrmsbreath</em> #2</td>
     <td>5-1</td>
-    <td>Fixed WB2</td>
+    <td>
+      <p>Fixed WB2</p>
+      <a href="{{site.baseurl}}/images/ultimates/dsr_mana/06/fixed_wyrmsbreath2.jpg">
+        <img src="{{site.baseurl}}/images/ultimates/dsr_mana/06/fixed_wyrmsbreath2.jpg">
+      </a>
+    </td>
   </tr>
 </table>
 
