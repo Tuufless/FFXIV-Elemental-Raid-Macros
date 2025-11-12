@@ -265,22 +265,30 @@ Morn* into *Morn Afah*.
       <img src="{{site.baseurl}}/images/ultimates/fru/04/akh_morn_01.jpg">
     </td>
   </tr>
+  <tr>
+      <td>
+        <p><b>12.</b> The Usurper of Frost will hit its target with <em>Morn
+        Afah</em>, which is a <b>party stack</b>.</p>
+        <p>This is also a boss HP check, and the two bosses' HP must be within 5%
+        of each other, or <em>Morn Afah</em> will be lethal.</p>
+        <p>If they are not within 5% HP, the two bosses will tether together,
+        and the colour indicates which boss has too much HP:</p>
+        <ul>
+          <li><b>White tether:</b> The Usurper of Frost has too much HP.</li>
+          <li><b>Purple tether:</b> The Oracle of Darkness has too much HP.</li>
+        </ul>
+        <div style="background-color: #002 ; padding: 10px; border: 1px solid;">
+        <p><b>Tip:</b> Because <em>Morn Afah</em> targets whoever has hate on
+        the Usurper of Frost, if the party is not able to balance the HP in
+        time, that player can sacrifice themselves by taking <em>Morn Afah</em>
+        solo to save the party from wiping.</p>
+        </div>
+      </td>
+      <td>
+        <img src="{{site.baseurl}}/images/ultimates/fru/04/morn_afah.jpg">
+      </td>
+    </tr>
 </table>
-
-*Morn Afah* is also a boss HP check, and the two bosses must be within 5% HP of
-each other, or *Morn Afah* will be lethal. If they are not within 5% HP, the
-two bosses will tether together indicating which boss has too much HP.
-
-- **White tether:** The Usurper of Frost has too much HP.
-- **Purple tether:** The Oracle of Darkness has too much HP.
-
-<div style="background-color: #002 ; padding: 10px; border: 1px solid;">
-  <p><b>Tip:</b> <em>Morn Afah</em> originates from the Usurper of Frost, not
-  the Oracle of Darkness.</p>
-  <p>If the HP difference is too large (i.e: the bosses are tethered together),
-  the tank that's holding the Usurper of Frost can sacrifice themselves to save
-  the party from wiping to <em>Morn Afah</em>.</p>
-</div>
 
 ## Crystallize Time
 
@@ -434,7 +442,7 @@ the sea of mechanics.
 <table>
   <tr>
     <td width="50%">
-      <p><b>12.</b> The yellow-tethered hourglasses (North and South) resolve.</p>
+      <p><b>13.</b> The yellow-tethered hourglasses (North and South) resolve.</p>
       <p>The two red Aeros, and all the south-side blue players move into the 
       hourglass AoEs when they resolve <em>(Maelstrom)</em>, and stand at the tip
       of the "flower petal" decal on the floor.</p>
@@ -447,7 +455,7 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>13.</b> The dragon heads reach the E/W red Ice players around the 
+      <p><b>14.</b> The dragon heads reach the E/W red Ice players around the 
       same time the debuffs resolve, and explode in an AoE <em>(Longing of the
       Lost)</em>.</p>
       <ul>
@@ -469,7 +477,7 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>14.</b> The second set of hourglasses explode together with the 
+      <p><b>15.</b> The second set of hourglasses explode together with the 
       blue player with <em>Unholy Darkness</em>.</p>
       <ul>
         <li>Do not hit the Fragment of Fate! Be at least on the intercardinal
@@ -489,7 +497,7 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>15.</b> The red Aeros intercept the dragon heads. At this point,
+      <p><b>16.</b> The red Aeros intercept the dragon heads. At this point,
       all the red <em>Wyrmclaw</em> debuffs have been resolved.</p>
       <ul>
         <li>The red Aero players go back to the South sector after taking their
@@ -509,7 +517,7 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>16.</b> The third set of hourglasses resolve together with the 
+      <p><b>17.</b> The third set of hourglasses resolve together with the 
       first line AoE.</p>
       <p>Depending on where you are, position yourself to dodge into either 
       the first or second line AoE (there will be telegraphs for both).</p>
@@ -521,7 +529,7 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>17.</b> Now that all three pairs of hourglasses have resolved, the
+      <p><b>18.</b> Now that all three pairs of hourglasses have resolved, the
       blue debuff players now go out to the puddles left behind to cleanse
       their debuff.</p>
       <p>Each blue player has an assigned puddle to take:</p>
@@ -538,7 +546,7 @@ the sea of mechanics.
   </tr>
   <tr>
     <td>
-      <p><b>18.</b> A second line telegraph now appears, this time either 
+      <p><b>19.</b> A second line telegraph now appears, this time either 
       North or South.</p>
       <p><b>Note which side this telegraph started on (North or South).</b></p>
     </td>
@@ -668,21 +676,29 @@ start another 4-hit *Akh Morn* into *Morn Afah* sequence.
       <img src="{{site.baseurl}}/images/ultimates/fru/04/akh_morn_01.jpg">
     </td>
   </tr>
+  <tr>
+      <td>
+        <p><b>27.</b> The Usurper of Frost will hit its target with <em>Morn
+        Afah</em> again, which is a <b>party stack</b>.</p>
+        <p>This works exactly the same as the first <em>Morn Afah</em> (the
+        bosses need to be within 5% HP of each other, or <em>Morn Afah</em> will
+        be lethal damage).</p>
+        <p>However, the Fragment of Fate will pulse with one last <em>Edge of
+        Oblivion</em> raid-wide just before <em>Morn Afah</em> resolves, so any
+        shields will need to be reapplied.</p>
+      </td>
+      <td>
+        <img src="{{site.baseurl}}/images/ultimates/fru/04/morn_afah.jpg">
+      </td>
+    </tr>
 </table>
-
-Notably, the Fragment of Fate will do one round of *Edge of Oblivion* just
-before the *Morn Afah* resolves, so any shields will need to be reapplied.
-
-Also remember that two bosses have to be within 5% HP of each other for *Morn
-Afah*. If things are looking bad, *Morn Afah* comes from the Usurper of Frost,
-so the MT can sacrifice themselves and take it away from the party if needed.
 
 Both bosses will then start casting their respective enrages (*Absolute Zero*
 and *Memory's End*).
 
 **Remember to have both tanks turn their tank stance back on.**
 
-When both bosses are defeated, there will be a knockback from the center, and 
+When both bosses are defeated, all players will be stunned, dragged south, and
 you will advance to the next arena.
 
 If the Fragment of Fate is not around, Eden's Promise will spawn and wipe the
@@ -1036,6 +1052,9 @@ party advances to the final phase.
       <p>Now, in the event a tank dies (particularly at <em>Crystallize
       Time</em>), the remaining tank only has aggro on the Usurper of Frost,
       and can continue to resolve <em>Akh Morn</em> with a 6:1 split instead.</p>
+      <p>Doing 6:2 also circumvents a problem with 7:1 where a tank takes aggro
+      on the wrong boss, for example, because the MT cannot attack the Usurper
+      of Frost while resolving <em>Somber Dance</em>.</p>
     </td>
   </tr>
 </table>
