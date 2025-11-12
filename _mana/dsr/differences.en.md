@@ -33,9 +33,12 @@ summary of the differences between Elemental and Mana.
     <td>Markers <b>north</b> first</td>
   </tr>
   <tr>
-    <td>Playstation markers</td>
+    <td rowspan="2">Playstation markers</td>
     <td><img src="{{site.baseurl}}/images/ultimates/dsr/01/playstation_01.jpg"></td>
     <td><img src="{{site.baseurl}}/images/ultimates/dsr_mana/01/playstation_01.jpg"></td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:center">The ▽ positions are flipped.</td>
   </tr>
 </table>
 
@@ -73,15 +76,17 @@ summary of the differences between Elemental and Mana.
   <th width="40%">Elemental</th>
   <th width="40%">Mana</th>
   <tr>
-    <td>Initial positions</td>
+    <td rowspan="2">Initial positions</td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/dsr/03/nidhogg_01.jpg">
-      3s position West, South, and East of the boss.
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/dsr_mana/03/nidhogg_01.jpg">
-      3s line up North, from West-to-East
     </td>
+  </tr>
+  <tr>
+    <td>3s position West, South, and East of the boss.</td>
+    <td>3s line up North, from West-to-East.</td>
   </tr>
   <tr>
     <td>Wyrmhole</td>
@@ -212,7 +217,7 @@ summary of the differences between Elemental and Mana.
   </tr>
   <tr>
     <td><em>Wyrmsbreath</em> #2</td>
-    <td>5-1</td>
+    <td>5-1 (D3 south)</td>
     <td>
       <p>Fixed WB2</p>
       <a href="{{site.baseurl}}/images/ultimates/dsr_mana/06/fixed_wyrmsbreath2.jpg">
