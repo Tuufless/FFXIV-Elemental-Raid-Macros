@@ -129,21 +129,21 @@ pair. Note how the markers demarcate the boundary of Omega-F's AoE.
   <tr>
     <td width="50%">
       <p><b>M Sword, F Blade-legs:</b></p>
-      <img src="{{site.baseurl}}/images/ultimates/top/02/party_synergy_03d.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/top_mana/02/party_synergy_03d.jpg">
     </td>
     <td>
       <p><b>M Shield, F Blade-legs:</b></p>
-      <img src="{{site.baseurl}}/images/ultimates/top/02/party_synergy_03a.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/top_mana/02/party_synergy_03a.jpg">
     </td>
   </tr>
   <tr>
     <td>
       <p><b>M Sword, F Staff:</b></p>
-      <img src="{{site.baseurl}}/images/ultimates/top/02/party_synergy_03c.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/top_mana/02/party_synergy_03c.jpg">
     </td>
     <td>
       <p><b>M Shield, F Staff:</b></p>
-      <img src="{{site.baseurl}}/images/ultimates/top/02/party_synergy_03b.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/top_mana/02/party_synergy_03b.jpg">
     </td>
   </tr>
 </table>
@@ -162,14 +162,14 @@ After dodging Omega-M/F's AoEs, the party now resolves *Mid/Remote Glitch*.
       <p><b>4.</b> Using the eye as North, split up into your 4:4 groups.</p>
       <p>If the party's debuff is <em>Mid Glitch</em>, spread in the order 〇×▽□
       from top-to-bottom.</p>
-      <p>Otherwise, if the party's debuff is <em>Remote Glitch</em>, only the
-      <b>right-side group's 〇 and □</b> swap positions.</p>
+      <p>Otherwise, if the party's debuff is <em>Remote Glitch</em>, the
+      right-side group's positions flip around.</p>
       <p>Four Omega-M clones will also spawn along either all the cardinals, or
       all the intercardinal directions.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/top/02/party_synergy_04a.jpg">
-      <img src="{{site.baseurl}}/images/ultimates/top/02/party_synergy_04b.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/top_mana/02/party_synergy_04b.jpg">
     </td>
   </tr>
   <tr>
@@ -184,7 +184,7 @@ After dodging Omega-M/F's AoEs, the party now resolves *Mid/Remote Glitch*.
       <p><em>(In this example, the left side × and □ players both have a stack
       marker. Since □ is further from the eye, the □ players swap sides.)</em></p>
     </td>
-    <td><img src="{{site.baseurl}}/images/ultimates/top/02/party_synergy_05.jpg"></td>
+    <td><img src="{{site.baseurl}}/images/ultimates/top_mana/02/party_synergy_05.jpg"></td>
   </tr>
   <tr>
     <td>

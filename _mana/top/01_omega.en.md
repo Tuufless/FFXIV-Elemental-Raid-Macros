@@ -371,7 +371,7 @@ Wave Cannon Kyrios.
       tanks should use their invulns on the fifth pulse.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/top/01/wave_cannons_01.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/top_mana/01/wave_cannons_01.jpg">
     </td>
   </tr>
   <tr>
@@ -380,7 +380,7 @@ Wave Cannon Kyrios.
       <p>The other three players get marked for the second set of Wave Cannons.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/top/01/wave_cannons_02.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/top_mana/01/wave_cannons_02.jpg">
     </td>
   </tr>
   <tr>
@@ -389,7 +389,7 @@ Wave Cannon Kyrios.
       <p>After this, Omega casts Atomic Ray, serving as the hard enrage.</p>
     </td>
     <td>
-      <img src="{{site.baseurl}}/images/ultimates/top/01/wave_cannons_03.jpg">
+      <img src="{{site.baseurl}}/images/ultimates/top_mana/01/wave_cannons_03.jpg">
     </td>
   </tr>
 </table>
