@@ -197,7 +197,7 @@ This is the most complex mechanic of the phase.
   </tr>
   <tr>
     <td colspan="2" width="50%">
-      <p><b>14.</b> The second tower appears.</p>
+      <p><b>14.</b> The second tower appears, either "North-West" or "Nortth-East".</p>
       <p>At the same time, the boss will cast <em>Wings Dark and Light</em>, and 
       one of the boss's wings will glow.</p>
       <ul>
@@ -239,7 +239,8 @@ This is the most complex mechanic of the phase.
   </tr>
   <tr>
     <td colspan="2">
-      <p><b>15.</b> The third tower appears and the other wing glows.</p>
+      <p><b>15.</b> The third tower appears North-West or North-East (wherever the second
+      tower isn't) and the other wing glows.</p>
     </td>
   </tr>
   <tr>
@@ -264,7 +265,7 @@ This is the most complex mechanic of the phase.
         cleave was Light, move in instead.</li>
         <li><b>H1, H2:</b> Move North after resolving your tower.</li>
         <li><b>D1, D2:</b> Move to the far-side tower that was just cleaved.</li>
-        <li><b>D3, D4:</b> Stay in the near-side tower.</li>
+        <li><b>D3, D4:</b> Move into the near-side tower.</li>
       </ul>
     </td>
   </tr>
@@ -281,7 +282,8 @@ This is the most complex mechanic of the phase.
       <p><b>17.</b> The boss now cleaves the ST, and hits the tethered player
       (which should now be the MT) with an AoE tankbuster.</p>
       <p>This second cleave resolves together with the second tower (which
-      should be taken by two DPS).</p>
+      is taken by either the two melee or two ranged, depending on which side the second
+      tower spawned).</p>
     </td>
   </tr>
   <tr>
@@ -294,7 +296,8 @@ This is the most complex mechanic of the phase.
   </tr>
   <tr>
     <td>
-      <p><b>18.</b> The two remaining DPS stay put for the third tower.</p>
+      <p><b>18.</b> The two remaining DPS (both melee or ranged) stay put for the third
+      tower.</p>
     </td>
     <td>
       <img src="{{site.baseurl}}/images/ultimates/fru_mana/05/paradise_regained_06.jpg">
@@ -302,9 +305,8 @@ This is the most complex mechanic of the phase.
   </tr>
 </table>
 
-Have the MT *Provoke* to take the boss back, and face the boss to any of the
-eight cardinal/intercardinal markers to prepare for the final mechanic of the
-loop.
+Have the MT *Provoke* to take the boss back, and face the boss **North** to prepare for
+the final mechanic of the loop.
 
 ---
 
