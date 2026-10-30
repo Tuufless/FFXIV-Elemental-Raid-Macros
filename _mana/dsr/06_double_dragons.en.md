@@ -222,7 +222,7 @@ will apply the <em>Freezing</em> debuff.</p>
         with the other pair that also has two tethers of the opposite colour.</li>
         <li><b>D1, H1, D4:</b> Does not move.</li>
       </ul>
-      <p><em>(In this example, D1 and D3 will swap positions.)</em></p>
+      <p><em>(In this example, D2 and D3 will swap positions.)</em></p>
     </td>
     <td><img src="{{site.baseurl}}/images/ultimates/dsr_mana/06/wyrmsbreath_01_02.jpg"></td>
   </tr>
