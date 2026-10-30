@@ -236,7 +236,8 @@ the furthest apart from each other.
       <ul>
         <li>After baiting circles, the two circle players move towards the
         center.</li>
-        <li>The two other Doomed players <b>do not move from their position</b>.</li>
+        <li>The two other Doomed players (square and triangle) <b>do not move
+        from their position</b>.</li>
       </ul>
       <p><b>Non-Doomed players:</b></p>
       <ul>
