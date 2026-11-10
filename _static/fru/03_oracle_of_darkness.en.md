@@ -127,8 +127,8 @@ where players record their positions.</p>
       <ul>
         <li>When the timer expires, a point-blank AoE centered on the player
         resolves (6 yalm radius).</li>
-        <li>All short Fire players will get this debuff, and <em>possibly</em>
-        the mid Fire tank/healer.</li>
+        <li>All short Fire players will get this debuff, and the mid Fire
+        tank/healer.</li>
         <li>Players with this debuff need to record their positions just
         behind their assigned hourglass (towards the center of the arena).</li>
       </ul>
