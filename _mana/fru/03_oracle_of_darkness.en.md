@@ -41,19 +41,7 @@ out. However, you only need to check a limited set of debuffs.
 <table>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/dark_blizzard.png">
-    </td>
-    <td>
-      <p><b>Spell-in-Waiting: Dark Blizzard III</b></p>
-      <p>One player will get this debuff, and it will always be 20s.</p>
-      <ul>
-        <li>When the timer expires, a donut AoE centered on the player resolves.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:center">
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/dark_fire.png">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/dark_fire.png">
     </td>
     <td>
       <p><b>Spell-in-Waiting: Dark Fire III</b></p>
@@ -75,7 +63,21 @@ out. However, you only need to check a limited set of debuffs.
   </tr>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/unholy_darkness.png">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/dark_blizzard.png">
+    </td>
+    <td>
+      <p><b>Spell-in-Waiting: Dark Blizzard III</b></p>
+      <p>One player will get this debuff, and it will always be 20s.</p>
+      <ul>
+        <li><em>Either</em> a tank/healer short Fire <em>or</em> a DPS long Fire
+        will have their Fire replaced by this debuff.</li>
+        <li>When the timer expires, a donut AoE centered on the player resolves.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/unholy_darkness.png">
     </td>
     <td>
       <p><b>Spell-in-Waiting: Unholy Darkness</b></p>
@@ -90,15 +92,15 @@ out. However, you only need to check a limited set of debuffs.
   </tr>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/spell_in_waiting_return.png">
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/return.png">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/spell_in_waiting_return.png">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/return.png">
     </td>
     <td>
       <p><b>Spell-in-Waiting: Return</b></p>
       <p>All players will get this debuff, but with different durations.</p>
       <ul>
-        <li>When the debuff resolves, the player's current position is recorded,
-        and this debuff turns into <em>Return</em></li>
+        <li>When the debuff resolves, the player's current position is
+        recorded, and this debuff turns into <em>Return</em></li>
       </ul>
       <p><b>Return</b></p>
       <p><em>Spell-in-Waiting: Return</em> turns into this debuff when it 
@@ -120,17 +122,17 @@ where players record their positions.</p>
 <table>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/dark_eruption.png">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/dark_eruption.png">
     </td>
     <td>
       <p><b>Spell-in-Waiting: Dark Eruption</b></p>
-      <p>3-4 players will get this debuff, and it will always be 42s (resolves 
+      <p>Four players will get this debuff, and it will always be 42s (resolves 
       after <em>Return</em>).</p>
       <ul>
         <li>When the timer expires, a point-blank AoE centered on the player
         resolves (6 yalm radius).</li>
-        <li>All short Fire players will get this debuff, and the mid Fire
-        tank/healer.</li>
+        <li>The three short Fire players will get this debuff (which includes the
+        Blizzard tank/healer, if there is one), and the mid Fire tank/healer.</li>
         <li>Players with this debuff need to record their positions just
         behind their assigned hourglass (towards the center of the arena).</li>
       </ul>
@@ -138,7 +140,7 @@ where players record their positions.</p>
   </tr>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/dark_water.png">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/dark_water.png">
     </td>
     <td>
       <p><b>Spell-in-Waiting: Dark Water III</b></p>
@@ -157,17 +159,17 @@ where players record their positions.</p>
   </tr>
   <tr>
     <td style="text-align:center">
-      <img src="{{site.baseurl}}/images/ultimates/fru_mana/03/shadoweye.png">
+      <img src="{{site.baseurl}}/images/ultimates/fru/03/shadoweye.png">
     </td>
     <td>
       <p><b>Spell-in-Waiting: Shadoweye</b></p>
-      <p>3-4 players will get this debuff, and it will always be 42s (resolves 
+      <p>Three players will get this debuff, and it will always be 42s (resolves 
       after <em>Return</em>).</p>
       <ul>
         <li>When the timer expires, anyone looking at the affected player gets
         a <em>Doom</em> debuff, which will kill them after a few seconds.</li>
-        <li>All long Fire players will get this debuff, and <em>possibly</em>
-        the mid Fire tank/healer.</li>
+        <li>The three long Fire players will get this debuff (which includes the
+        Blizzard DPS, if there is one).</li>
         <li>Players with this debuff records their position just a little off
         the center of the arena (one step towards their assigned hourglass).</li>
       </ul>
